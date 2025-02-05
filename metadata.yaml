@@ -1,0 +1,5 @@
+name: "astrbot_plugin_ban"
+version: "1.0.0"
+author: "水蜜桃"
+description: "用于禁用指定 QQ 用户在群聊或全局范围内使用机器人功能的插件。管理员可通过指令对用户进行禁用或解除禁用，ban-help查看详情"
+  
