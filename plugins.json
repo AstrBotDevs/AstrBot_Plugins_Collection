@@ -1,7 +1,7 @@
 {
     "astrbot_plugin_blacklist": {
         "desc": "黑名单插件，禁止用户和 AstrBot 交互，适用于 aiocqhttp, gewechat",
-        "author": "大核桃",
+        "author": "水蜜桃",
         "repo": "https://github.com/AstrBot-Devs/astrbot_plugin_blacklist"
     },
     "mccloud_zhipu_img": {
