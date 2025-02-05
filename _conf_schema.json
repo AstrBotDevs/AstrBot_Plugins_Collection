@@ -1,0 +1,13 @@
+{
+    "ban_config": {
+        "description": "禁用插件配置",
+        "type": "object",
+        "items": {
+            "enable": {
+                "description": "是否启用禁用功能",
+                "type": "bool",
+                "default": true
+            }
+        }
+    }
+}
