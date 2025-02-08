@@ -162,6 +162,6 @@
     "astrbot_plugin_ignore-at": {
         "desc": "让机器人无视QQ的@全体成员,以及开关@是否唤醒机器人",
         "author": "Cl_Fu",
-        "repo": "https://github.com/clfpwp/astrbot_plugin_ignore-at"
+        "repo": "https://github.com/clfpwp/astrbot_plugin_ignore_at"
     }
 }
