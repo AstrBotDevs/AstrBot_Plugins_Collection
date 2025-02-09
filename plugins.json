@@ -1,5 +1,10 @@
 {
     "mccloud_meme_sender": {
+        "desc": "文生图-支持OpenAI标准的格式接入，支持Flux.1-dev模型",
+        "author": "七七七七",
+        "repo": "https://github.com/18005575/astrbot_plugin_flux"
+    }
+    "mccloud_meme_sender": {
         "desc": "这是一个表情包发送插件，可以识别AI回复中的表情符号并发送对应的表情包。记得看帮助需要配置人格 地址：https://github.com/MCYUNIDC/mccloud_meme_sender",
         "author": "MC云-小馒头",
         "repo": "https://github.com/MCYUNIDC/mccloud_meme_sender"
