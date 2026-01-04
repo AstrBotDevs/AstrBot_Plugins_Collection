@@ -4260,8 +4260,8 @@
       "rag"
     ],
     "stars": 50,
-    "version": "2.0.3",
-    "updated_at": "2026-01-04T11:37:43Z",
+    "version": "2.0.6",
+    "updated_at": "2026-01-04T15:29:46Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -5654,9 +5654,9 @@
       "推送",
       "工具"
     ],
-    "stars": 4,
+    "stars": 5,
     "version": "v1.1.0",
-    "updated_at": "2025-11-30T14:14:08Z"
+    "updated_at": "2026-01-04T16:13:26Z"
   },
   "astrbot_plugin_RecallGuard": {
     "name": "astrbot_plugin_RecallGuard",
@@ -7797,9 +7797,9 @@
       "密码"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_password",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.0.1",
-    "updated_at": "2025-12-18T13:27:18Z",
+    "updated_at": "2026-01-04T16:06:13Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_password/main/logo.png"
   },
   "astrbot_plugin_douyin_bot": {
