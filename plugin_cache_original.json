@@ -49,8 +49,8 @@
     ],
     "social_link": "https://github.com/Clhikari",
     "stars": 0,
-    "version": "v1.1.0",
-    "updated_at": "2026-01-04T07:13:27Z",
+    "version": "v1.1.1",
+    "updated_at": "2026-01-04T14:15:28Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -2802,7 +2802,7 @@
     ],
     "stars": 1,
     "version": "v1.0.1",
-    "updated_at": "2025-12-31T03:38:24Z",
+    "updated_at": "2026-01-04T14:18:14Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_magnet_preview/master/logo.png"
   },
   "astrbot_plugin_gemini-image": {
@@ -6604,7 +6604,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 86,
     "version": "v2.0.5",
-    "updated_at": "2026-01-04T12:28:58Z",
+    "updated_at": "2026-01-04T14:13:20Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
