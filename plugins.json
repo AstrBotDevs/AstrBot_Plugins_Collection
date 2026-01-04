@@ -1,4 +1,14 @@
 {
+  "astrbot_plugin_mrfzccl": {
+    "display_name": "明日方舟猜猜乐",
+    "desc": "一个简单的干员立绘猜猜乐",
+    "author": "lishining",
+    "repo": "https://github.com/Li-shi-ling/astrbot_plugin_mrfzccl",
+    "tags": [
+      "明日方舟"
+    ],
+    "social_link": "https://github.com/Li-shi-ling"
+  },
   "astrbot_plugin_help_typst": {
     "display_name": "插件菜单(typst 实现)",
     "desc": "基于 typst 实现的 AstrBot 插件菜单渲染，把插件菜单、事件钩子、函数工具、过滤器列表渲染成友好界面，支持指令组、搜索高亮等",
@@ -25,6 +35,16 @@
       "Steam"
     ],
     "social_link": "https://github.com/Gezhe14"
+  },
+  "astrbot_plugin_wows-yuyuko": {
+    "display_name": "战舰世界-Yuyuko",
+    "desc": "战舰世界战绩查询机器人",
+    "author": "西行寺雨季",
+    "repo": "https://github.com/JustOneSummer/AstrByWowsYuyukoBot",
+    "tags": [
+      "战舰世界"
+    ],
+    "social_link": "https://github.com/JustOneSummer"
   },
   "astrbot_plugin_office_assistant": {
     "display_name": "Office 助手",
@@ -59,6 +79,13 @@
       "平台适配器"
     ],
     "social_link": "https://github.com/stevessr"
+  },
+  "astrbot_plugin_url_image_auto": {
+    "display_name": "链接转图片",
+    "desc": "这是一个 AstrBot 插件，用于自动将发送消息中的图片链接转换为 AstrBot 的原生图片组件。",
+    "author": "Sin",
+    "repo": "https://github.com/San-sin-sun/url_image_auto",
+    "social_link": "https://san-sin-sun.github.io/"
   },
   "astrbot_plugin_llm_executor": {
     "display_name": "指令执行器",
@@ -115,6 +142,18 @@
     "author": "LMG-arch",
     "repo": "https://github.com/LMG-arch/astrbot-plugin-realistic-persona.git"
   },
+  "astrbot_plugin_seedream_image": {
+    "display_name": "火山方舟生图",
+    "desc": "使用火山方舟seedreamAPI生成图片，触发指令为画图豆包",
+    "author": "寰宇中的星尘",
+    "repo": "https://github.com/MarcoHuanxing/astrbot_plugin_seedream_image",
+    "tags": [
+      "生图",
+      "画图",
+      "火山方舟",
+      "豆包"
+    ]
+  },
   "astrbot_plugin_admin_notifier": {
     "display_name": "举报通知",
     "desc": "群友可以使用 /举报 指令@所有管理员",
@@ -132,7 +171,7 @@
   },
   "astrbot_plugin_copymanga": {
     "display_name": "来看漫画",
-    "desc": "让你在qq观看漫画",
+    "desc": "让你在 QQ 观看漫画",
     "author": "xuedu",
     "repo": "https://github.com/xuedu/astrbot-plugin-copymanga",
     "tags": ["manga"]
