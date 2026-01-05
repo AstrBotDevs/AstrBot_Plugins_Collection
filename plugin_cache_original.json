@@ -1148,8 +1148,8 @@
     ],
     "social_link": "https://github.com/oakboat",
     "stars": 1,
-    "version": "v1.0.0",
-    "updated_at": "2025-12-16T07:34:24Z"
+    "version": "v1.0.2",
+    "updated_at": "2026-01-05T08:19:52Z"
   },
   "astrbot_plugin_code_renderer": {
     "display_name": "Code-Renderer",
@@ -2187,9 +2187,9 @@
       "遗忘"
     ],
     "social_link": "https://github.com/SinkAbyss",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.1.5",
-    "updated_at": "2025-12-24T02:56:15Z"
+    "updated_at": "2026-01-05T07:36:05Z"
   },
   "astrbot_plugin_Furimg_Cloud": {
     "display_name": "兽云祭(兽兽图片/图鉴)",
@@ -2636,9 +2636,9 @@
       "主动回复"
     ],
     "social_link": "https://github.com/Him666233",
-    "stars": 25,
+    "stars": 26,
     "version": "v1.1.2",
-    "updated_at": "2026-01-05T06:31:16Z",
+    "updated_at": "2026-01-05T08:35:39Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -4313,8 +4313,8 @@
       "rag"
     ],
     "stars": 51,
-    "version": "2.0.6",
-    "updated_at": "2026-01-05T02:23:24Z",
+    "version": "2.0.8",
+    "updated_at": "2026-01-05T07:58:35Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -4371,8 +4371,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 5,
-    "version": "v1.0.4",
-    "updated_at": "2026-01-02T06:07:59Z",
+    "version": "v1.0.5",
+    "updated_at": "2026-01-05T08:38:01Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_multimsg/main/logo.png"
   },
   "astrbot_plugin_keywordsreply": {
@@ -6069,8 +6069,8 @@
     "repo": "https://github.com/sa1guu/astrbot_plugin_touchi",
     "tags": [],
     "stars": 33,
-    "version": "v2.7.9",
-    "updated_at": "2026-01-04T10:24:06Z",
+    "version": "v2.8.1",
+    "updated_at": "2026-01-05T08:29:41Z",
     "logo": "https://raw.githubusercontent.com/sa1guu/astrbot_plugin_touchi/master/logo.png"
   },
   "astrbot_plugin_Astrsupermarket": {
@@ -6969,9 +6969,9 @@
       "状态"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.0.2",
-    "updated_at": "2025-12-23T09:32:06Z",
+    "updated_at": "2026-01-05T07:48:56Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_zt/main/logo.png"
   },
   "astrbot_plugin_portrayal": {
@@ -7501,9 +7501,9 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 119,
+    "stars": 121,
     "version": "v2.0.6",
-    "updated_at": "2026-01-02T23:10:48Z",
+    "updated_at": "2026-01-05T08:29:55Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -9712,9 +9712,9 @@
     "author": "FateTrial",
     "repo": "https://github.com/FateTrial/astrbot_plugin_lolicon_image-master",
     "tags": [],
-    "stars": 12,
+    "stars": 13,
     "version": "v2.0",
-    "updated_at": "2025-11-18T06:20:49Z"
+    "updated_at": "2026-01-05T08:22:23Z"
   },
   "astrbot_plugin_niuniu": {
     "desc": "牛牛插件，一个污污的小游戏插件，默认关闭，发送牛牛菜单获取帮助",
