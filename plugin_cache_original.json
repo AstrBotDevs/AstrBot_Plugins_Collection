@@ -18,9 +18,9 @@
     "author": "bylkuse",
     "repo": "https://github.com/bylkuse/astrbot_plugin_help_typst",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v0.0.1",
-    "updated_at": "2026-01-04T10:47:08Z",
+    "updated_at": "2026-01-05T14:24:31Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_help_typst/master/logo.png"
   },
   "astrbot_plugin_lb_provider": {
@@ -3185,9 +3185,9 @@
       "视频",
       "sora"
     ],
-    "stars": 28,
+    "stars": 29,
     "version": "v1.3.1",
-    "updated_at": "2025-12-06T10:20:50Z"
+    "updated_at": "2026-01-05T14:26:23Z"
   },
   "astrbot_gengtu": {
     "desc": "梗图抽象猜词插件，获取图片题目并校验答案。",
