@@ -2210,9 +2210,9 @@
     "author": "miao",
     "repo": "https://github.com/libin99527/astrbot_plugin_werewolf",
     "tags": [],
-    "stars": 8,
-    "version": "v3.0.1",
-    "updated_at": "2026-01-02T17:38:59Z",
+    "stars": 9,
+    "version": "v3.0.2",
+    "updated_at": "2026-01-05T04:52:59Z",
     "logo": "https://raw.githubusercontent.com/libin99527/astrbot_plugin_werewolf/main/logo.png"
   },
   "astrbot_plugin_media_parser": {
@@ -5081,9 +5081,9 @@
       "表白墙"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 46,
+    "stars": 47,
     "version": "v2.2.9",
-    "updated_at": "2026-01-02T14:07:59Z",
+    "updated_at": "2026-01-05T04:45:18Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
