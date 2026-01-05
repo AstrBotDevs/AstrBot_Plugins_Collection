@@ -1661,8 +1661,8 @@
     ],
     "social_link": "https://box.firefly520.top/",
     "stars": 14,
-    "version": "1.3.7",
-    "updated_at": "2026-01-04T03:27:11Z",
+    "version": "1.3.8",
+    "updated_at": "2026-01-05T06:20:11Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/master/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -2636,9 +2636,9 @@
       "主动回复"
     ],
     "social_link": "https://github.com/Him666233",
-    "stars": 24,
+    "stars": 25,
     "version": "v1.1.2",
-    "updated_at": "2026-01-05T02:00:47Z",
+    "updated_at": "2026-01-05T06:31:16Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -3091,7 +3091,7 @@
     ],
     "stars": 11,
     "version": "v2.8.5",
-    "updated_at": "2025-12-28T04:35:54Z",
+    "updated_at": "2026-01-05T06:30:36Z",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
   "astrbot_plugin_acm_helper": {
@@ -4869,9 +4869,9 @@
       "人格"
     ],
     "social_link": "https://github.com/NickCharlie",
-    "stars": 59,
+    "stars": 60,
     "version": "1.6.1",
-    "updated_at": "2026-01-05T03:34:14Z"
+    "updated_at": "2026-01-05T06:31:17Z"
   },
   "astrbot_plugin_baiduocr": {
     "desc": "百度智能云的 OCR 文字识别服务。新用户有千次的免费调用次数，适合轻度使用",
@@ -5578,9 +5578,9 @@
       "游戏"
     ],
     "social_link": "https://github.com/zhewang448",
-    "stars": 14,
+    "stars": 15,
     "version": "v1.1.5",
-    "updated_at": "2026-01-03T02:43:37Z",
+    "updated_at": "2026-01-05T05:52:42Z",
     "logo": "https://raw.githubusercontent.com/zhewang448/astrbot_plugin_SteamSaleTracker/main/logo.png"
   },
   "astrbot_plugin_Heartflow": {
@@ -8375,7 +8375,7 @@
     ],
     "stars": 11,
     "version": "v2.8.5",
-    "updated_at": "2025-12-28T04:35:54Z",
+    "updated_at": "2026-01-05T06:30:36Z",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
   "JmCli": {
@@ -9920,8 +9920,8 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
     "stars": 158,
-    "version": "v2.0.12",
-    "updated_at": "2026-01-04T05:48:04Z"
+    "version": "v2.0.15",
+    "updated_at": "2026-01-05T05:51:31Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
