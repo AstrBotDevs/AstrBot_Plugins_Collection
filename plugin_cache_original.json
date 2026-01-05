@@ -1367,7 +1367,7 @@
     "tags": [],
     "stars": 8,
     "version": "v0.4.0",
-    "updated_at": "2026-01-04T08:32:54Z",
+    "updated_at": "2026-01-05T12:29:53Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_bananic_ninjutsu/master/logo.png"
   },
   "astrbot_plugin_ASCII": {
@@ -1859,8 +1859,8 @@
     ],
     "social_link": "www.zousanzy.cn",
     "stars": 0,
-    "version": "v6.1",
-    "updated_at": "2026-01-01T05:57:30Z",
+    "version": "V6.2",
+    "updated_at": "2026-01-05T11:50:15Z",
     "logo": "https://raw.githubusercontent.com/by-029/zxs60s/main/logo.png"
   },
   "astrbot_plugin_slave_market": {
@@ -2855,7 +2855,7 @@
     ],
     "stars": 1,
     "version": "v1.1.0",
-    "updated_at": "2026-01-04T18:55:10Z",
+    "updated_at": "2026-01-05T12:44:11Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_magnet_preview/master/logo.png"
   },
   "astrbot_plugin_gemini-image": {
@@ -5592,9 +5592,9 @@
       "拟人"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 65,
+    "stars": 66,
     "version": "1.3.0",
-    "updated_at": "2026-01-02T23:17:02Z"
+    "updated_at": "2026-01-05T12:21:41Z"
   },
   "cngal_search": {
     "desc": "CnGal查询",
@@ -7200,9 +7200,9 @@
       "禁漫"
     ],
     "social_link": "https://github.com/GEMILUXVII",
-    "stars": 74,
-    "version": "v2.6.2",
-    "updated_at": "2026-01-04T11:18:58Z",
+    "stars": 75,
+    "version": "v2.6.4",
+    "updated_at": "2026-01-05T12:01:39Z",
     "logo": "https://raw.githubusercontent.com/GEMILUXVII/astrbot_plugin_jm_cosmos/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
