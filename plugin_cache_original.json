@@ -626,9 +626,9 @@
       "nano_banana",
       "vertex_ai"
     ],
-    "stars": 9,
+    "stars": 10,
     "version": "v0.1.6",
-    "updated_at": "2026-01-03T09:18:26Z",
+    "updated_at": "2026-01-05T15:17:43Z",
     "logo": "https://raw.githubusercontent.com/sukafon/astrbot_plugin_big_banana/main/logo.png"
   },
   "astrbot_plugin_BitTorrent": {
@@ -1076,9 +1076,9 @@
       "链接"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 35,
+    "stars": 36,
     "version": "v1.1.2",
-    "updated_at": "2026-01-04T02:40:44Z",
+    "updated_at": "2026-01-05T15:20:34Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -2912,9 +2912,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 62,
+    "stars": 63,
     "version": "v1.1.0",
-    "updated_at": "2026-01-03T11:14:27Z",
+    "updated_at": "2026-01-05T14:41:07Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -3603,8 +3603,8 @@
       "群文件"
     ],
     "stars": 4,
-    "version": "v0.9",
-    "updated_at": "2025-12-20T11:45:17Z",
+    "version": "v1.0",
+    "updated_at": "2026-01-05T14:53:57Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_GroupFS/master/logo.png"
   },
   "group_notice_manager": {
@@ -4312,9 +4312,9 @@
       "memory",
       "rag"
     ],
-    "stars": 51,
+    "stars": 52,
     "version": "2.0.8",
-    "updated_at": "2026-01-05T07:58:35Z",
+    "updated_at": "2026-01-05T14:43:00Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -9203,9 +9203,9 @@
       "主动回复"
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-    "stars": 90,
+    "stars": 91,
     "version": "v2.1.9",
-    "updated_at": "2026-01-05T10:38:40Z"
+    "updated_at": "2026-01-05T14:37:28Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
@@ -9265,9 +9265,9 @@
       "功能",
       "搬史"
     ],
-    "stars": 488,
+    "stars": 489,
     "version": "v0.915",
-    "updated_at": "2025-12-30T13:39:28Z"
+    "updated_at": "2026-01-05T14:31:43Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
@@ -9306,9 +9306,9 @@
       "webui",
       "图床"
     ],
-    "stars": 114,
+    "stars": 115,
     "version": "v3.19",
-    "updated_at": "2026-01-04T04:57:26Z"
+    "updated_at": "2026-01-05T14:35:51Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
