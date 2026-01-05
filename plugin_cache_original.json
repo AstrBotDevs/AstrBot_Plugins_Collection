@@ -5081,9 +5081,9 @@
       "表白墙"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 47,
+    "stars": 48,
     "version": "v2.2.9",
-    "updated_at": "2026-01-05T04:45:18Z",
+    "updated_at": "2026-01-05T09:52:21Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -9204,8 +9204,8 @@
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
     "stars": 90,
-    "version": "v2.1.8",
-    "updated_at": "2026-01-02T18:32:20Z"
+    "version": "v2.1.9",
+    "updated_at": "2026-01-05T10:38:40Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
