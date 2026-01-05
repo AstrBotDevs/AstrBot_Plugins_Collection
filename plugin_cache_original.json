@@ -683,7 +683,7 @@
     "social_link": "https://github.com/muyouzhi6",
     "stars": 12,
     "version": "1.0.7",
-    "updated_at": "2026-01-04T12:42:01Z",
+    "updated_at": "2026-01-05T03:45:30Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
@@ -2826,9 +2826,9 @@
     "tags": [
       "修仙"
     ],
-    "stars": 7,
+    "stars": 6,
     "version": "v1.0.5dev",
-    "updated_at": "2025-12-31T12:45:57Z",
+    "updated_at": "2026-01-05T02:12:58Z",
     "logo": "https://raw.githubusercontent.com/linjianyan0229/astrbot_plugin_monixiuxian/main/logo.png"
   },
   "astrbot_plugin_invitecount": {
@@ -4312,9 +4312,9 @@
       "memory",
       "rag"
     ],
-    "stars": 50,
+    "stars": 51,
     "version": "2.0.6",
-    "updated_at": "2026-01-04T15:29:46Z",
+    "updated_at": "2026-01-05T02:23:24Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -4869,9 +4869,9 @@
       "人格"
     ],
     "social_link": "https://github.com/NickCharlie",
-    "stars": 58,
+    "stars": 59,
     "version": "1.6.1",
-    "updated_at": "2026-01-05T01:59:57Z"
+    "updated_at": "2026-01-05T03:34:14Z"
   },
   "astrbot_plugin_baiduocr": {
     "desc": "百度智能云的 OCR 文字识别服务。新用户有千次的免费调用次数，适合轻度使用",
@@ -6355,9 +6355,9 @@
     ],
     "desc": "[仅aiocqhttp]让bot 转人工/转人机，真人客服 接入对话/结束对话",
     "social_link": "https://github.com/Zhalslar",
-    "stars": 26,
+    "stars": 27,
     "version": "v1.7.3",
-    "updated_at": "2025-12-13T10:50:38Z",
+    "updated_at": "2026-01-05T04:19:22Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_human_service/main/logo.png"
   },
   "astrbot_plugin_reimage": {
@@ -7564,9 +7564,9 @@
       "成员审核"
     ],
     "social_link": "https://github.com/huntuo146",
-    "stars": 5,
+    "stars": 6,
     "version": "1.2.1",
-    "updated_at": "2025-12-23T12:28:27Z"
+    "updated_at": "2026-01-05T04:03:53Z"
   },
   "astrbot_plugin_Volcengine-Text-to-image": {
     "author": "wayzinx",
