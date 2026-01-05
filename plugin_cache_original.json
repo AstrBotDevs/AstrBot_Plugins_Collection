@@ -710,9 +710,9 @@
       "主动应答",
       "群聊优化"
     ],
-    "stars": 23,
+    "stars": 24,
     "version": "0.8.8",
-    "updated_at": "2026-01-04T11:52:01Z"
+    "updated_at": "2026-01-05T08:42:37Z"
   },
   "astrbot_plugin_angel_eye": {
     "display_name": "天使之眼",
@@ -1757,9 +1757,9 @@
     "author": "Neilyo",
     "repo": "https://github.com/lixinzai/astrbot_plugin_parse_hub",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2025-11-22T13:04:09Z"
+    "updated_at": "2026-01-05T09:20:46Z"
   },
   "astrbot_plugin_bangmap": {
     "display_name": "全国邦邦同好会信息查询",
@@ -4372,7 +4372,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 5,
     "version": "v1.0.5",
-    "updated_at": "2026-01-05T08:38:01Z",
+    "updated_at": "2026-01-05T08:59:55Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_multimsg/main/logo.png"
   },
   "astrbot_plugin_keywordsreply": {
