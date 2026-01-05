@@ -2636,9 +2636,9 @@
       "主动回复"
     ],
     "social_link": "https://github.com/Him666233",
-    "stars": 23,
+    "stars": 24,
     "version": "v1.1.2",
-    "updated_at": "2025-12-29T15:00:22Z",
+    "updated_at": "2026-01-05T02:00:47Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -4869,9 +4869,9 @@
       "人格"
     ],
     "social_link": "https://github.com/NickCharlie",
-    "stars": 57,
+    "stars": 58,
     "version": "1.6.1",
-    "updated_at": "2025-12-29T15:58:56Z"
+    "updated_at": "2026-01-05T01:59:57Z"
   },
   "astrbot_plugin_baiduocr": {
     "desc": "百度智能云的 OCR 文字识别服务。新用户有千次的免费调用次数，适合轻度使用",
