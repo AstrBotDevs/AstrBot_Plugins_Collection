@@ -1,4 +1,43 @@
 {
+  "astrbot_plugin_debounce": {
+    "display_name": "消息防抖",
+    "desc": "使用微调过的模型判断用户是否说完一句话，合并连续发送的多条消息再提交，避免频繁调用 LLM",
+    "author": "Jason.Joestar",
+    "repo": "https://github.com/advent259141/astrbot_plugin_debounce",
+    "tags": ["消息防抖", "NLP"],
+    "social_link": "https://github.com/advent259141"
+  },
+  "astrbot_plugin_80lv": {
+    "display_name": "80.lv 文章自动推送",
+    "desc": "80.lv 专业的游戏美术与开发技术资讯推送",
+    "author": "四次元未来",
+    "repo": "https://github.com/siciyuanweilai/astrbot_plugin_80lv",
+    "tags": ["每日推送","80lv","3DCG","艺术","游戏"],
+    "social_link": "https://github.com/siciyuanweilai",
+  },
+  "astrbot_zssm_explain": {
+    "desc": "zssm，支持关键词“zssm”（忽略前缀）与“zssm + 内容”直接解释；引用消息（含@）正常处理，Napcat get_msg 回溯图片；按 Provider ID 选择文本/图片模型并带回退；未回复仅发 zssm 时提示；默认提示词可在 main.py 顶部修改。",
+    "author": "薄暝",
+    "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain"
+  },
+  "astrbot_plugin_zssm_core": {
+    "display_name": "Zssm(Core)",
+    "desc": "可直接zssm解释引用内容，或使用 \"zssm + 内容\" 进行联网搜索",
+    "author": "jengaklll-a11y",
+    "repo": "https://github.com/jengaklll-a11y/astrbot_plugin_zssm_core",
+    "tags": [
+      "解析",
+      "搜索"
+    ],
+    "social_link": "https://github.com/jengaklll-a11y"
+  },
+  "astrbot_plugin_self_learning": {
+    "desc": "智能自学习对话插件 - 通过实时消息捕获、多维度数据分析、渐进式学习机制和动态人格更新以及社交关系网络，使聊天机器人能够模仿特定用户的对话，实现更自然、个性化的交互",
+    "author": "NickMo",
+    "repo": "https://github.com/NickCharlie/astrabot_plugin_self_learning",
+    "tags": ["模仿", "学习", "人格"],
+    "social_link": "https://github.com/NickCharlie"
+  },
   "astrbot_plugin_mrfzccl": {
     "display_name": "明日方舟猜猜乐",
     "desc": "一个简单的干员立绘猜猜乐",
@@ -1761,11 +1800,6 @@
     "repo": "https://github.com/ningyou8023/astrbot_gengtu",
     "tags": ["梗图", "猜词"]
   },
-  "astrbot_zssm_explain": {
-    "desc": "zssm，支持关键词“zssm”（忽略前缀）与“zssm + 内容”直接解释；引用消息（含@）正常处理，Napcat get_msg 回溯图片；按 Provider ID 选择文本/图片模型并带回退；未回复仅发 zssm 时提示；默认提示词可在 main.py 顶部修改。",
-    "author": "薄暝",
-    "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain"
-  },
   "astrbot_plugin_timeline": {
     "desc": "一个非常简单的插件，在请求中插入当前时间",
     "author": "ctrlkk",
@@ -2628,13 +2662,6 @@
     "repo": "https://github.com/SodaSizzle/astrbot_plugin_meme_generator",
     "tags": ["表情包"],
     "social_link": "https://github.com/SodaSizzle"
-  },
-  "astrbot_plugin_self_learning": {
-    "desc": "智能自学习对话插件 - 通过实时消息捕获、多维度数据分析、渐进式学习机制和动态人格更新以及社交关系网络，使聊天机器人能够模仿特定用户的对话，实现更自然、个性化的交互",
-    "author": "NickMo",
-    "repo": "https://github.com/NickCharlie/astrabot_plugin_self_learning",
-    "tags": ["模仿", "学习", "人格"],
-    "social_link": "https://github.com/NickCharlie"
   },
   "astrbot_plugin_baiduocr": {
     "desc": "百度智能云的 OCR 文字识别服务。新用户有千次的免费调用次数，适合轻度使用",
