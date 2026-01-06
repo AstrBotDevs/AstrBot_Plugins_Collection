@@ -1147,9 +1147,9 @@
       "链接"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 37,
+    "stars": 38,
     "version": "v1.1.2",
-    "updated_at": "2026-01-06T08:23:43Z",
+    "updated_at": "2026-01-06T16:16:37Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -2301,9 +2301,9 @@
       "小红书",
       "推特"
     ],
-    "stars": 12,
+    "stars": 13,
     "version": "v4.3.0",
-    "updated_at": "2026-01-04T04:27:07Z",
+    "updated_at": "2026-01-06T16:16:45Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -4473,7 +4473,7 @@
     "social_link": "https://github.com/SXP-Simon",
     "stars": 114,
     "version": "v4.5.4",
-    "updated_at": "2026-01-06T14:50:23Z",
+    "updated_at": "2026-01-06T16:35:58Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
