@@ -448,9 +448,9 @@
       "撤回"
     ],
     "social_link": "52shell.ltd",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.1",
-    "updated_at": "2025-12-24T02:09:06Z",
+    "updated_at": "2026-01-06T10:55:39Z",
     "logo": "https://raw.githubusercontent.com/1592363624/astrbot_plugin_batchrecall/main/logo.png"
   },
   "astrbot_plugin_psychological": {
@@ -3031,9 +3031,9 @@
     "repo": "https://github.com/miaoxutao123/astrbot_plugin_LLMPerception",
     "social_link": "https://github.com/miaoxutao123",
     "tags": [],
-    "stars": 13,
+    "stars": 14,
     "version": "v1.2.0",
-    "updated_at": "2025-12-31T13:18:27Z"
+    "updated_at": "2026-01-06T10:58:00Z"
   },
   "astrbot_plugin_furry_zan": {
     "display_name": "爱点赞",
@@ -7687,9 +7687,9 @@
       "pixiv"
     ],
     "social_link": "https://github.com/vmoranv-reborn",
-    "stars": 2,
+    "stars": 3,
     "version": "1.4.3",
-    "updated_at": "2026-01-01T06:14:52Z",
+    "updated_at": "2026-01-06T11:11:50Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
@@ -8401,9 +8401,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
-    "stars": 41,
+    "stars": 42,
     "version": "v2.0.1",
-    "updated_at": "2025-12-31T20:26:49Z",
+    "updated_at": "2026-01-06T11:30:02Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
@@ -9119,9 +9119,9 @@
       "主动回复"
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-    "stars": 91,
+    "stars": 92,
     "version": "v2.1.9",
-    "updated_at": "2026-01-05T14:37:28Z"
+    "updated_at": "2026-01-06T11:10:44Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
