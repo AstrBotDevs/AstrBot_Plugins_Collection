@@ -1745,9 +1745,9 @@
       "画图",
       "comfyui"
     ],
-    "stars": 10,
+    "stars": 11,
     "version": "3.6.0",
-    "updated_at": "2026-01-02T11:35:51Z"
+    "updated_at": "2026-01-06T19:44:57Z"
   },
   "astrbot_plugin_timeprogress": {
     "display_name": "时间可视化",
@@ -2301,9 +2301,9 @@
       "小红书",
       "推特"
     ],
-    "stars": 13,
+    "stars": 14,
     "version": "v4.3.0",
-    "updated_at": "2026-01-06T16:16:45Z",
+    "updated_at": "2026-01-06T19:27:13Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
