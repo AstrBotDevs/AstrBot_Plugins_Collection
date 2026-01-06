@@ -10,8 +10,8 @@
     ],
     "social_link": "https://github.com/advent259141",
     "stars": 8,
-    "version": "1.1.0",
-    "updated_at": "2026-01-06T15:05:37Z"
+    "version": "1.1.1",
+    "updated_at": "2026-01-06T16:44:18Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -133,7 +133,7 @@
     "social_link": "https://github.com/JustOneSummer",
     "stars": 0,
     "version": "v0.0.2",
-    "updated_at": "2026-01-05T19:36:48Z",
+    "updated_at": "2026-01-06T16:48:07Z",
     "logo": "https://raw.githubusercontent.com/JustOneSummer/AstrByWowsYuyukoBot/master/logo.png"
   },
   "astrbot_plugin_office_assistant": {
@@ -474,8 +474,8 @@
     "repo": "https://github.com/204343414/astrbot_plugin_yt-dlp",
     "tags": [],
     "stars": 2,
-    "version": "1.0.1",
-    "updated_at": "2026-01-04T00:27:32Z",
+    "version": "1.0.0",
+    "updated_at": "2026-01-06T17:24:54Z",
     "logo": "https://raw.githubusercontent.com/204343414/astrbot_plugin_yt-dlp/master/logo.png"
   },
   "astrbot_plugin_web_search": {
@@ -767,9 +767,9 @@
       "学习",
       "人格"
     ],
-    "stars": 14,
+    "stars": 15,
     "version": "0.99.99",
-    "updated_at": "2026-01-04T08:39:49Z"
+    "updated_at": "2026-01-06T16:46:00Z"
   },
   "astrbot_plugin_angel_heart": {
     "display_name": "天使之心",
@@ -4472,8 +4472,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 114,
-    "version": "v4.5.4",
-    "updated_at": "2026-01-06T16:35:58Z",
+    "version": "v4.5.5",
+    "updated_at": "2026-01-06T16:38:28Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
