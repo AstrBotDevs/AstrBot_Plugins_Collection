@@ -11,7 +11,7 @@
     "social_link": "https://github.com/advent259141",
     "stars": 7,
     "version": "1.0.0",
-    "updated_at": "2026-01-06T05:54:38Z"
+    "updated_at": "2026-01-06T08:02:38Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -374,9 +374,9 @@
       "下载"
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
-    "stars": 19,
+    "stars": 20,
     "version": "v1.1",
-    "updated_at": "2026-01-06T07:07:39Z"
+    "updated_at": "2026-01-06T08:28:13Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -1147,9 +1147,9 @@
       "链接"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 36,
+    "stars": 37,
     "version": "v1.1.2",
-    "updated_at": "2026-01-05T15:20:34Z",
+    "updated_at": "2026-01-06T08:23:43Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -3160,9 +3160,9 @@
     "tags": [
       "实用"
     ],
-    "stars": 11,
+    "stars": 12,
     "version": "v2.8.6",
-    "updated_at": "2026-01-06T05:23:05Z",
+    "updated_at": "2026-01-06T08:15:52Z",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
   "astrbot_plugin_acm_helper": {
@@ -8374,9 +8374,9 @@
       "工具",
       "安全"
     ],
-    "stars": 11,
+    "stars": 12,
     "version": "v2.8.6",
-    "updated_at": "2026-01-06T05:23:05Z",
+    "updated_at": "2026-01-06T08:15:52Z",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
   "astrbot_plugin_quote_collocter": {
@@ -8570,9 +8570,9 @@
       "工具",
       "总结"
     ],
-    "stars": 4,
+    "stars": 3,
     "version": "v1.1",
-    "updated_at": "2025-06-13T07:18:15Z"
+    "updated_at": "2026-01-06T07:44:39Z"
   },
   "astrbot_plugin_idiom": {
     "desc": "成语接龙",
@@ -9134,9 +9134,9 @@
       "数据查询",
       "图片"
     ],
-    "stars": 17,
+    "stars": 16,
     "version": "v1.8.6",
-    "updated_at": "2026-01-06T06:32:11Z"
+    "updated_at": "2026-01-06T08:14:21Z"
   },
   "astrbot_plugin_GGAC_Messenger": {
     "desc": "anka - GGAC 作品更新推送插件 - 自动监控并推送 GGAC 平台精选作品的更新! 附赠一套 GGAC 网站完整 api! 还有随机抽取 GGAC 内容功能, 详情见github页面!",
@@ -9348,9 +9348,9 @@
     "author": "Soulter",
     "repo": "https://github.com/Soulter/astrbot_plugin_r1_filter",
     "tags": [],
-    "stars": 13,
+    "stars": 12,
     "version": "v1.0.0",
-    "updated_at": "2025-07-12T02:07:03Z"
+    "updated_at": "2026-01-06T07:44:27Z"
   },
   "mccloud_deepseek": {
     "desc": "可选择是否过滤推理模型的思考内容，仅支持MC云API。购买MC云服务器云电脑可享受免费API不限制支持deepseek-r1 v3模型。https://idc.stay33.cn/  [版本要求 >= v3.4.17]",
