@@ -1,4 +1,75 @@
 {
+  "astrbot_plugin_debounce": {
+    "display_name": "消息防抖",
+    "desc": "使用微调过的模型判断用户是否说完一句话，合并连续发送的多条消息再提交，避免频繁调用 LLM",
+    "author": "Jason.Joestar",
+    "repo": "https://github.com/advent259141/astrbot_plugin_debounce",
+    "tags": [
+      "消息防抖",
+      "NLP"
+    ],
+    "social_link": "https://github.com/advent259141",
+    "stars": 6,
+    "version": "1.0.0",
+    "updated_at": "2026-01-06T01:37:08Z"
+  },
+  "astrbot_plugin_80lv": {
+    "display_name": "80.lv 文章自动推送",
+    "desc": "80.lv 专业的游戏美术与开发技术资讯推送",
+    "author": "四次元未来",
+    "repo": "https://github.com/siciyuanweilai/astrbot_plugin_80lv",
+    "tags": [
+      "每日推送",
+      "80lv",
+      "3DCG",
+      "艺术",
+      "游戏"
+    ],
+    "social_link": "https://github.com/siciyuanweilai",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-01-06T05:15:36Z",
+    "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_80lv/main/logo.png"
+  },
+  "astrbot_zssm_explain": {
+    "desc": "zssm，支持关键词“zssm”（忽略前缀）与“zssm + 内容”直接解释；引用消息（含@）正常处理，Napcat get_msg 回溯图片；按 Provider ID 选择文本/图片模型并带回退；未回复仅发 zssm 时提示；默认提示词可在 main.py 顶部修改。",
+    "author": "薄暝",
+    "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
+    "tags": [],
+    "stars": 12,
+    "version": "v3.9.12",
+    "updated_at": "2025-12-29T16:06:48Z",
+    "logo": "https://raw.githubusercontent.com/xiaoxi68/astrbot_zssm_explain/main/logo.png"
+  },
+  "astrbot_plugin_zssm_core": {
+    "display_name": "Zssm(Core)",
+    "desc": "可直接zssm解释引用内容，或使用 \"zssm + 内容\" 进行联网搜索",
+    "author": "jengaklll-a11y",
+    "repo": "https://github.com/jengaklll-a11y/astrbot_plugin_zssm_core",
+    "tags": [
+      "解析",
+      "搜索"
+    ],
+    "social_link": "https://github.com/jengaklll-a11y",
+    "stars": 0,
+    "version": "1.1.0",
+    "updated_at": "2026-01-03T12:21:53Z",
+    "logo": "https://raw.githubusercontent.com/jengaklll-a11y/astrbot_plugin_zssm_core/main/logo.png"
+  },
+  "astrbot_plugin_self_learning": {
+    "desc": "智能自学习对话插件 - 通过实时消息捕获、多维度数据分析、渐进式学习机制和动态人格更新以及社交关系网络，使聊天机器人能够模仿特定用户的对话，实现更自然、个性化的交互",
+    "author": "NickMo",
+    "repo": "https://github.com/NickCharlie/astrabot_plugin_self_learning",
+    "tags": [
+      "模仿",
+      "学习",
+      "人格"
+    ],
+    "social_link": "https://github.com/NickCharlie",
+    "stars": 60,
+    "version": "1.6.1",
+    "updated_at": "2026-01-05T06:31:17Z"
+  },
   "astrbot_plugin_mrfzccl": {
     "display_name": "明日方舟猜猜乐",
     "desc": "一个简单的干员立绘猜猜乐",
@@ -3090,8 +3161,8 @@
       "实用"
     ],
     "stars": 11,
-    "version": "v2.8.5",
-    "updated_at": "2026-01-05T06:30:36Z",
+    "version": "v2.8.6",
+    "updated_at": "2026-01-06T05:23:05Z",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
   "astrbot_plugin_acm_helper": {
@@ -3201,16 +3272,6 @@
     "version": "v1.0.1",
     "updated_at": "2025-11-30T09:06:10Z",
     "logo": "https://raw.githubusercontent.com/ningyou8023/astrbot_gengtu/main/logo.png"
-  },
-  "astrbot_zssm_explain": {
-    "desc": "zssm，支持关键词“zssm”（忽略前缀）与“zssm + 内容”直接解释；引用消息（含@）正常处理，Napcat get_msg 回溯图片；按 Provider ID 选择文本/图片模型并带回退；未回复仅发 zssm 时提示；默认提示词可在 main.py 顶部修改。",
-    "author": "薄暝",
-    "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
-    "tags": [],
-    "stars": 12,
-    "version": "v3.9.12",
-    "updated_at": "2025-12-29T16:06:48Z",
-    "logo": "https://raw.githubusercontent.com/xiaoxi68/astrbot_zssm_explain/main/logo.png"
   },
   "astrbot_plugin_timeline": {
     "desc": "一个非常简单的插件，在请求中插入当前时间",
@@ -3431,17 +3492,6 @@
     "version": "v1.7",
     "updated_at": "2025-12-11T03:55:50Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_file_checker/master/logo.png"
-  },
-  "astrbot_plugin_JMCOMIC": {
-    "desc": "AstrBot JMComic，支持通过指令搜索和下载漫画。",
-    "author": "iamfromchangsha",
-    "repo": "https://github.com/iamfromchangsha/astrbot_plugin_JMCOMIC",
-    "tags": [
-      "JM"
-    ],
-    "stars": 8,
-    "version": "v1.0",
-    "updated_at": "2025-12-04T14:54:15Z"
   },
   "astrbot_plugin_tg_button": {
     "desc": "一个可以把指令或者网址绑定到Telegram的按钮上的插件",
@@ -4859,20 +4909,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-01-02T05:01:27Z"
   },
-  "astrbot_plugin_self_learning": {
-    "desc": "智能自学习对话插件 - 通过实时消息捕获、多维度数据分析、渐进式学习机制和动态人格更新以及社交关系网络，使聊天机器人能够模仿特定用户的对话，实现更自然、个性化的交互",
-    "author": "NickMo",
-    "repo": "https://github.com/NickCharlie/astrabot_plugin_self_learning",
-    "tags": [
-      "模仿",
-      "学习",
-      "人格"
-    ],
-    "social_link": "https://github.com/NickCharlie",
-    "stars": 60,
-    "version": "1.6.1",
-    "updated_at": "2026-01-05T06:31:17Z"
-  },
   "astrbot_plugin_baiduocr": {
     "desc": "百度智能云的 OCR 文字识别服务。新用户有千次的免费调用次数，适合轻度使用",
     "author": "Yuki Soffd",
@@ -6093,8 +6129,8 @@
     ],
     "social_link": "https://github.com/zhewang448",
     "stars": 4,
-    "version": "v1.2.0",
-    "updated_at": "2025-11-01T16:06:42Z",
+    "version": "v1.2.2",
+    "updated_at": "2026-01-06T05:14:44Z",
     "logo": "https://raw.githubusercontent.com/zhewang448/astrbot_plugin_gameinfo/main/logo.png"
   },
   "astrbot_plugin_shutup": {
@@ -7087,16 +7123,6 @@
     "version": "v1.4",
     "updated_at": "2025-08-20T16:03:05Z"
   },
-  "astrbot_plugins_JMPlugins": {
-    "author": "orchidsziyou",
-    "desc": "[仅 aiocqhttp] 支持查询JMid对应的作品信息，仅aiocqhttp支持，目前仅测试过NapCat。",
-    "repo": "https://github.com/orchidsziyou/astrbot_plugins_JMPlugins",
-    "social_link": "https://github.com/orchidsziyou/astrbot_plugins_JMPlugins",
-    "tags": [],
-    "stars": 2,
-    "version": "v1.3",
-    "updated_at": "2026-01-01T07:35:09Z"
-  },
   "astrbot_plugin_fishing2": {
     "author": "tinker",
     "desc": "升级版的钓鱼插件（详情见README）ps: 该插件是https://github.com/baa131/astrbot_plugin_fishing 的pro版，新增了一些功能：更多的鱼类和鱼饵，新增鱼竿和饰品，新增抽卡系统，新增了成就和称号功能，新增擦弹功能（赌怪）",
@@ -7190,20 +7216,6 @@
     "version": "v1.1.7",
     "updated_at": "2026-01-05T13:39:29Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_pokepro/main/logo.png"
-  },
-  "astrbot_plugin_jm_cosmos": {
-    "author": "GEMILUXVII",
-    "desc": "[仅 aiocqhttp] 这是一个用于AstrBot的全能型插件，能够下载、管理、搜索JM漫画，并将其转换为PDF或图片预览发送。",
-    "repo": "https://github.com/GEMILUXVII/astrbot_plugin_jm_cosmos",
-    "tags": [
-      "jmcomic",
-      "禁漫"
-    ],
-    "social_link": "https://github.com/GEMILUXVII",
-    "stars": 75,
-    "version": "v2.6.4",
-    "updated_at": "2026-01-05T12:01:39Z",
-    "logo": "https://raw.githubusercontent.com/GEMILUXVII/astrbot_plugin_jm_cosmos/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
     "author": "FreeDivers",
@@ -7962,17 +7974,6 @@
     "version": "v1",
     "updated_at": "2025-04-11T13:41:00Z"
   },
-  "astrbot_plugin_showmejm": {
-    "author": "exneverbur, drdon1234",
-    "repo": "https://github.com/drdon1234/astrbot_plugin_showmejm",
-    "desc": "[仅aiocqhttp] 适配 AstrBot 的 JM本子 转 PDF 插件，搜漫画，下漫画，看随机漫画！本人仅做平台移植，原作者：exneverbur，原项目：exneverbur/ShowMeJM",
-    "tags": [
-      "jm"
-    ],
-    "stars": 7,
-    "version": "v2.4",
-    "updated_at": "2026-01-03T03:46:28Z"
-  },
   "astrbot_plugin_gscore_adapter": {
     "author": "KimigaiiWuyi",
     "repo": "https://github.com/KimigaiiWuyi/astrbot_plugin_gscore_adapter",
@@ -8374,21 +8375,9 @@
       "安全"
     ],
     "stars": 11,
-    "version": "v2.8.5",
-    "updated_at": "2026-01-05T06:30:36Z",
+    "version": "v2.8.6",
+    "updated_at": "2026-01-06T05:23:05Z",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
-  },
-  "JmCli": {
-    "desc": "JM命令行工具，提供下载和带封面的查询搜索功能，输入jm_help查看用法",
-    "author": "Gaxiic",
-    "repo": "https://github.com/gaxiic/JmCli",
-    "tags": [
-      "JM",
-      "禁漫"
-    ],
-    "stars": 4,
-    "version": "v1.0.2",
-    "updated_at": "2025-12-29T08:16:31Z"
   },
   "astrbot_plugin_quote_collocter": {
     "desc": "可以自己截图并投稿群友语录，机器人被戳戳时随机爆典",
@@ -8617,54 +8606,6 @@
     "version": "v1.0.2",
     "updated_at": "2025-12-26T07:15:42Z"
   },
-  "astrbot_plugin_jm_search": {
-    "desc": "JM 漫画 PDF 下载。支持 Linux 和 Win",
-    "author": "Ryonnoski",
-    "repo": "https://github.com/Ryonnoski0/astrbot_plugin_jm_search",
-    "tags": [
-      "JM",
-      "PDF"
-    ],
-    "stars": 2,
-    "version": "v0.4",
-    "updated_at": "2025-10-24T03:09:57Z"
-  },
-  "astrbot_plugin_jm_sender": {
-    "desc": "发送 JM 漫画编号，机器人发送群聊转发消息",
-    "author": "EnderPPT",
-    "tags": [
-      "JM"
-    ],
-    "repo": "https://github.com/EnderPPT/astrbot_plugin_jm_sender",
-    "social_link": "https://github.com/EnderPPT",
-    "stars": 5,
-    "version": "1.0.0",
-    "updated_at": "2025-09-26T08:01:43Z"
-  },
-  "jmcomic_downloader": {
-    "desc": "一个下载 JM 的插件, 添加了一些新功能，原项目名 FateTrial_JMdownloader",
-    "author": "QiChenSn",
-    "repo": "https://github.com/QiChenSn/jmcomic_downloader",
-    "social_link": "https://github.com/QiChenSn",
-    "tags": [
-      "JM"
-    ],
-    "stars": 3,
-    "version": "v1.0.0",
-    "updated_at": "2025-04-15T08:52:55Z"
-  },
-  "astrbot_plugin_jmcomicsget": {
-    "desc": "发送 JM 漫画编号，机器人发送漫画 PDF",
-    "author": "ayachi",
-    "repo": "https://github.com/Ayachi2225/astrbot_plugin_jmcomicsget",
-    "tags": [
-      "JM"
-    ],
-    "social_link": "https://github.com/Ayachi2225",
-    "stars": 4,
-    "version": "v1.0.1",
-    "updated_at": "2025-10-23T15:08:43Z"
-  },
   "astrbot_plugin_history_day": {
     "desc": "查看 历史上的某天 发生的大事 (历史上的今天的增强版)",
     "author": "Zhalslar",
@@ -8792,20 +8733,6 @@
     "stars": 0,
     "version": "v1.0.1",
     "updated_at": "2025-03-29T11:07:57Z"
-  },
-  "astrbot_plugin_box": {
-    "display_name": "开盒插件",
-    "desc": "拉取QQ用户信息并展示信息卡片",
-    "author": "Zhalslar",
-    "repo": "https://github.com/Zhalslar/astrbot_plugin_box",
-    "tags": [
-      "开盒"
-    ],
-    "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
-    "stars": 61,
-    "version": "v1.2.5",
-    "updated_at": "2025-12-31T03:11:44Z",
-    "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_box/main/logo.png"
   },
   "astrbot_plugin_relationship": {
     "display_name": "人际关系管理器",
@@ -9132,17 +9059,6 @@
     "stars": 17,
     "version": "v1.1.1",
     "updated_at": "2025-12-31T06:30:18Z"
-  },
-  "astrbot_plugin_nofap": {
-    "desc": "一个用于戒 🦌 记录打卡和查看群内戒 🦌 榜的插件",
-    "author": "aoz",
-    "tags": [
-      "功能"
-    ],
-    "repo": "https://github.com/Aozaky/astrbot_plugin_nofap",
-    "stars": 3,
-    "version": "v1.1.0",
-    "updated_at": "2025-05-03T17:43:56Z"
   },
   "astrbot_plugin_random_vtb": {
     "desc": "随机推送正在直播的管人直播间",
@@ -9698,24 +9614,6 @@
     "version": "v1.0",
     "updated_at": "2025-12-26T07:16:16Z"
   },
-  "FateTrial_JMdownloader": {
-    "desc": "一个下载JM漫画的插件，请勿用于违法用途",
-    "author": "FateTrial",
-    "repo": "https://github.com/FateTrial/FateTrial_JMdownloader",
-    "tags": [],
-    "stars": 30,
-    "version": "v1.0.2",
-    "updated_at": "2025-12-31T16:46:19Z"
-  },
-  "astrbot_plugin_lolicon_image-master": {
-    "desc": "涩图插件2.0基于，原作者rikkamiss插件进行修改，使机器人可以发送R18图片",
-    "author": "FateTrial",
-    "repo": "https://github.com/FateTrial/astrbot_plugin_lolicon_image-master",
-    "tags": [],
-    "stars": 13,
-    "version": "v2.0",
-    "updated_at": "2026-01-05T08:22:23Z"
-  },
   "astrbot_plugin_niuniu": {
     "desc": "牛牛插件，一个污污的小游戏插件，默认关闭，发送牛牛菜单获取帮助",
     "author": "长安某",
@@ -9869,15 +9767,6 @@
     "version": "v1.3.0",
     "updated_at": "2025-12-28T14:54:40Z"
   },
-  "FateTrial_setucontroller": {
-    "desc": "一个支持自定义涩图属性的插件",
-    "author": "FateTrial",
-    "repo": "https://github.com/FateTrial/setu_controller",
-    "tags": [],
-    "stars": 2,
-    "version": "v1.0",
-    "updated_at": "2025-04-16T06:40:35Z"
-  },
   "astrbot_plugin_web_searcher_pro": {
     "desc": "基于SearXNG的Web搜索插件",
     "author": "buding",
@@ -10021,15 +9910,6 @@
     "stars": 3,
     "version": "v1.0.1",
     "updated_at": "2025-03-28T17:12:56Z"
-  },
-  "astrbot_plugin_setu": {
-    "desc": "Astrbot色图插件，支持自定义配置与标签指定",
-    "author": "Raven95676",
-    "repo": "https://github.com/Raven95676/astrbot_plugin_setu",
-    "tags": [],
-    "stars": 2,
-    "version": "v1.2.1",
-    "updated_at": "2025-11-27T06:09:46Z"
   },
   "astrbot_plugin_voicevox": {
     "desc": "基于VOICEVOX Engine的日语文本转语音插件",
