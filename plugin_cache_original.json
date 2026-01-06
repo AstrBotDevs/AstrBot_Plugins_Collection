@@ -303,9 +303,9 @@
       "下载"
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
-    "stars": 17,
+    "stars": 18,
     "version": "v1.1",
-    "updated_at": "2026-01-04T03:50:13Z"
+    "updated_at": "2026-01-06T03:01:25Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -1018,9 +1018,9 @@
     "tags": [
       "memory"
     ],
-    "stars": 13,
+    "stars": 14,
     "version": "v1.6.0",
-    "updated_at": "2026-01-03T11:39:55Z"
+    "updated_at": "2026-01-06T02:29:28Z"
   },
   "astrbot_plugin_echo": {
     "display_name": "echo",
@@ -6566,9 +6566,9 @@
       "Steam"
     ],
     "social_link": "https://github.com/Maoer233",
-    "stars": 43,
+    "stars": 44,
     "version": "2.1.8",
-    "updated_at": "2026-01-01T13:50:05Z"
+    "updated_at": "2026-01-06T02:21:37Z"
   },
   "astrbot_plugin_xiaoxue": {
     "author": "sbmikoto",
