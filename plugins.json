@@ -1879,12 +1879,6 @@
     "repo": "https://github.com/Foolllll-J/astrbot_plugin_file_checker",
     "tags": ["群文件"]
   },
-  "astrbot_plugin_JMCOMIC": {
-    "desc": "AstrBot JMComic，支持通过指令搜索和下载漫画。",
-    "author": "iamfromchangsha",
-    "repo": "https://github.com/iamfromchangsha/astrbot_plugin_JMCOMIC",
-    "tags": ["JM"]
-  },
   "astrbot_plugin_tg_button": {
     "desc": "一个可以把指令或者网址绑定到Telegram的按钮上的插件",
     "author": "随风潜入夜",
@@ -3822,12 +3816,6 @@
     "tags": ["漫画"],
     "social_link": "https://github.com/Putarku"
   },
-  "astrbot_plugins_JMPlugins": {
-    "author": "orchidsziyou",
-    "desc": "[仅 aiocqhttp] 支持查询JMid对应的作品信息，仅aiocqhttp支持，目前仅测试过NapCat。",
-    "repo": "https://github.com/orchidsziyou/astrbot_plugins_JMPlugins",
-    "social_link": "https://github.com/orchidsziyou/astrbot_plugins_JMPlugins"
-  },
   "astrbot_plugin_fishing2": {
     "author": "tinker",
     "desc": "升级版的钓鱼插件（详情见README）ps: 该插件是https://github.com/baa131/astrbot_plugin_fishing 的pro版，新增了一些功能：更多的鱼类和鱼饵，新增鱼竿和饰品，新增抽卡系统，新增了成就和称号功能，新增擦弹功能（赌怪）",
@@ -3878,13 +3866,6 @@
     "repo": "https://github.com/Zhalslar/astrbot_plugin_pokepro",
     "tags": ["戳一戳"],
     "social_link": "https://github.com/Zhalslar"
-  },
-  "astrbot_plugin_jm_cosmos": {
-    "author": "GEMILUXVII",
-    "desc": "[仅 aiocqhttp] 这是一个用于AstrBot的全能型插件，能够下载、管理、搜索JM漫画，并将其转换为PDF或图片预览发送。",
-    "repo": "https://github.com/GEMILUXVII/astrbot_plugin_jm_cosmos",
-    "tags": ["jmcomic", "禁漫"],
-    "social_link": "https://github.com/GEMILUXVII"
   },
   "astrbot_plugin_combine-messages": {
     "author": "FreeDivers",
@@ -4291,12 +4272,6 @@
     "desc": "[仅aiocqhttp] 和QQ群友CCB",
     "tags": ["娱乐", "恶搞"]
   },
-  "astrbot_plugin_showmejm": {
-    "author": "exneverbur, drdon1234",
-    "repo": "https://github.com/drdon1234/astrbot_plugin_showmejm",
-    "desc": "[仅aiocqhttp] 适配 AstrBot 的 JM本子 转 PDF 插件，搜漫画，下漫画，看随机漫画！本人仅做平台移植，原作者：exneverbur，原项目：exneverbur/ShowMeJM",
-    "tags": ["jm"]
-  },
   "astrbot_plugin_gscore_adapter": {
     "author": "KimigaiiWuyi",
     "repo": "https://github.com/KimigaiiWuyi/astrbot_plugin_gscore_adapter",
@@ -4517,12 +4492,6 @@
     "repo": "https://github.com/left666/astrbot_plugin_daily_limit",
     "tags": ["工具", "安全"]
   },
-  "JmCli": {
-    "desc": "JM命令行工具，提供下载和带封面的查询搜索功能，输入jm_help查看用法",
-    "author": "Gaxiic",
-    "repo": "https://github.com/gaxiic/JmCli",
-    "tags": ["JM", "禁漫"]
-  },
   "astrbot_plugin_quote_collocter": {
     "desc": "可以自己截图并投稿群友语录，机器人被戳戳时随机爆典",
     "author": "浅夏旧入梦",
@@ -4646,33 +4615,6 @@
     "tags": ["甘城なつき"],
     "repo": "https://github.com/Rinyin/astrbot_plugin_nachoneko"
   },
-  "astrbot_plugin_jm_search": {
-    "desc": "JM 漫画 PDF 下载。支持 Linux 和 Win",
-    "author": "Ryonnoski",
-    "repo": "https://github.com/Ryonnoski0/astrbot_plugin_jm_search",
-    "tags": ["JM", "PDF"]
-  },
-  "astrbot_plugin_jm_sender": {
-    "desc": "发送 JM 漫画编号，机器人发送群聊转发消息",
-    "author": "EnderPPT",
-    "tags": ["JM"],
-    "repo": "https://github.com/EnderPPT/astrbot_plugin_jm_sender",
-    "social_link": "https://github.com/EnderPPT"
-  },
-  "jmcomic_downloader": {
-    "desc": "一个下载 JM 的插件, 添加了一些新功能，原项目名 FateTrial_JMdownloader",
-    "author": "QiChenSn",
-    "repo": "https://github.com/QiChenSn/jmcomic_downloader",
-    "social_link": "https://github.com/QiChenSn",
-    "tags": ["JM"]
-  },
-  "astrbot_plugin_jmcomicsget": {
-    "desc": "发送 JM 漫画编号，机器人发送漫画 PDF",
-    "author": "ayachi",
-    "repo": "https://github.com/Ayachi2225/astrbot_plugin_jmcomicsget",
-    "tags": ["JM"],
-    "social_link": "https://github.com/Ayachi2225"
-  },
   "astrbot_plugin_history_day": {
     "desc": "查看 历史上的某天 发生的大事 (历史上的今天的增强版)",
     "author": "Zhalslar",
@@ -4741,14 +4683,6 @@
     "social_link": "https://qm.qq.com/q/VNG3bOcGYM",
     "tags": ["翻译"],
     "repo": "https://github.com/zengweis/astrbot_plugin_Translation"
-  },
-  "astrbot_plugin_box": {
-    "display_name": "开盒插件",
-    "desc": "拉取QQ用户信息并展示信息卡片",
-    "author": "Zhalslar",
-    "repo": "https://github.com/Zhalslar/astrbot_plugin_box",
-    "tags": ["开盒"],
-    "social_link": "https://github.com/Zhalslar/astrbot_plugin_box"
   },
   "astrbot_plugin_relationship": {
     "display_name": "人际关系管理器",
@@ -4922,12 +4856,6 @@
     "desc": "配合 MoviePilot 订阅影片",
     "author": "NEST",
     "repo": "https://github.com/4Nest/astrbot_plugin_mp_sub"
-  },
-  "astrbot_plugin_nofap": {
-    "desc": "一个用于戒 🦌 记录打卡和查看群内戒 🦌 榜的插件",
-    "author": "aoz",
-    "tags": ["功能"],
-    "repo": "https://github.com/Aozaky/astrbot_plugin_nofap"
   },
   "astrbot_plugin_random_vtb": {
     "desc": "随机推送正在直播的管人直播间",
@@ -5230,16 +5158,6 @@
     "author": "LuffyLSX",
     "repo": "https://github.com/LuffyLSX/astrbot_plugin_error_filter"
   },
-  "FateTrial_JMdownloader": {
-    "desc": "一个下载JM漫画的插件，请勿用于违法用途",
-    "author": "FateTrial",
-    "repo": "https://github.com/FateTrial/FateTrial_JMdownloader"
-  },
-  "astrbot_plugin_lolicon_image-master": {
-    "desc": "涩图插件2.0基于，原作者rikkamiss插件进行修改，使机器人可以发送R18图片",
-    "author": "FateTrial",
-    "repo": "https://github.com/FateTrial/astrbot_plugin_lolicon_image-master"
-  },
   "astrbot_plugin_niuniu": {
     "desc": "牛牛插件，一个污污的小游戏插件，默认关闭，发送牛牛菜单获取帮助",
     "author": "长安某",
@@ -5325,11 +5243,6 @@
     "author": "枫莹",
     "repo": "https://github.com/FengYing1314/astrbot_plugin_token_auto"
   },
-  "FateTrial_setucontroller": {
-    "desc": "一个支持自定义涩图属性的插件",
-    "author": "FateTrial",
-    "repo": "https://github.com/FateTrial/setu_controller"
-  },
   "astrbot_plugin_web_searcher_pro": {
     "desc": "基于SearXNG的Web搜索插件",
     "author": "buding",
@@ -5409,11 +5322,6 @@
     "desc": "使llm生成文字后能发送相同情感的表情包",
     "author": "xiewoc",
     "repo": "https://github.com/xiewoc/astrbot_plugin_better_facebread"
-  },
-  "astrbot_plugin_setu": {
-    "desc": "Astrbot色图插件，支持自定义配置与标签指定",
-    "author": "Raven95676",
-    "repo": "https://github.com/Raven95676/astrbot_plugin_setu"
   },
   "astrbot_plugin_voicevox": {
     "desc": "基于VOICEVOX Engine的日语文本转语音插件",
