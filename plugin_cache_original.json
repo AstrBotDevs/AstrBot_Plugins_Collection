@@ -2258,9 +2258,9 @@
       "遗忘"
     ],
     "social_link": "https://github.com/SinkAbyss",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.1.5",
-    "updated_at": "2026-01-05T11:21:03Z"
+    "updated_at": "2026-01-06T13:07:07Z"
   },
   "astrbot_plugin_Furimg_Cloud": {
     "display_name": "兽云祭(兽兽图片/图鉴)",
@@ -5140,9 +5140,9 @@
       "撤回"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 13,
+    "stars": 14,
     "version": "v1.0.2",
-    "updated_at": "2025-12-18T22:42:36Z",
+    "updated_at": "2026-01-06T12:57:52Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_recall/main/logo.png"
   },
   "astrbot_plugin_record_converter": {
@@ -7689,7 +7689,7 @@
     "social_link": "https://github.com/vmoranv-reborn",
     "stars": 3,
     "version": "1.4.3",
-    "updated_at": "2026-01-06T11:11:50Z",
+    "updated_at": "2026-01-06T13:08:52Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
