@@ -147,8 +147,8 @@
     ],
     "social_link": "https://github.com/Clhikari",
     "stars": 0,
-    "version": "v1.1.1",
-    "updated_at": "2026-01-04T14:15:28Z",
+    "version": "v1.1.2",
+    "updated_at": "2026-01-06T10:02:22Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -374,9 +374,9 @@
       "下载"
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
-    "stars": 20,
+    "stars": 21,
     "version": "v1.1",
-    "updated_at": "2026-01-06T08:28:13Z"
+    "updated_at": "2026-01-06T09:55:19Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -4363,8 +4363,8 @@
       "rag"
     ],
     "stars": 52,
-    "version": "2.0.8",
-    "updated_at": "2026-01-05T14:43:00Z",
+    "version": "2.0.11",
+    "updated_at": "2026-01-06T09:48:19Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
