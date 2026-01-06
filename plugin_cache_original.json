@@ -9,9 +9,9 @@
       "NLP"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 6,
+    "stars": 7,
     "version": "1.0.0",
-    "updated_at": "2026-01-06T01:37:08Z"
+    "updated_at": "2026-01-06T05:54:38Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -697,9 +697,9 @@
       "nano_banana",
       "vertex_ai"
     ],
-    "stars": 10,
+    "stars": 11,
     "version": "v0.1.6",
-    "updated_at": "2026-01-05T15:17:43Z",
+    "updated_at": "2026-01-06T06:13:46Z",
     "logo": "https://raw.githubusercontent.com/sukafon/astrbot_plugin_big_banana/main/logo.png"
   },
   "astrbot_plugin_BitTorrent": {
@@ -4471,9 +4471,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 110,
+    "stars": 112,
     "version": "v4.5.3",
-    "updated_at": "2026-01-05T11:08:10Z",
+    "updated_at": "2026-01-06T06:35:51Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -9134,9 +9134,9 @@
       "数据查询",
       "图片"
     ],
-    "stars": 16,
+    "stars": 17,
     "version": "v1.8.6",
-    "updated_at": "2025-12-31T08:16:30Z"
+    "updated_at": "2026-01-06T06:32:11Z"
   },
   "astrbot_plugin_GGAC_Messenger": {
     "desc": "anka - GGAC 作品更新推送插件 - 自动监控并推送 GGAC 平台精选作品的更新! 附赠一套 GGAC 网站完整 api! 还有随机抽取 GGAC 内容功能, 详情见github页面!",
