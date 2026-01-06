@@ -80,8 +80,8 @@
     ],
     "social_link": "https://github.com/Li-shi-ling",
     "stars": 0,
-    "version": "v1.0.4",
-    "updated_at": "2026-01-04T01:30:52Z"
+    "version": "v1.0.5",
+    "updated_at": "2026-01-06T14:08:10Z"
   },
   "astrbot_plugin_help_typst": {
     "display_name": "插件菜单(typst 实现)",
@@ -146,9 +146,9 @@
       "office生成"
     ],
     "social_link": "https://github.com/Clhikari",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.1.2",
-    "updated_at": "2026-01-06T10:02:22Z",
+    "updated_at": "2026-01-06T13:40:37Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -2985,7 +2985,7 @@
     "social_link": "https://github.com/DBJD-CR",
     "stars": 63,
     "version": "v1.1.0",
-    "updated_at": "2026-01-05T14:41:07Z",
+    "updated_at": "2026-01-06T13:44:25Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -4471,9 +4471,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 112,
-    "version": "v4.5.3",
-    "updated_at": "2026-01-06T06:35:51Z",
+    "stars": 113,
+    "version": "v4.5.4",
+    "updated_at": "2026-01-06T14:21:27Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
