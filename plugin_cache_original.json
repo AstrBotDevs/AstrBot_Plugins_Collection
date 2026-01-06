@@ -9,9 +9,9 @@
       "NLP"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 7,
+    "stars": 8,
     "version": "1.0.0",
-    "updated_at": "2026-01-06T08:02:38Z"
+    "updated_at": "2026-01-06T09:09:58Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -7020,9 +7020,9 @@
       "画像"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 46,
+    "stars": 47,
     "version": "v1.0.7",
-    "updated_at": "2026-01-02T12:08:11Z",
+    "updated_at": "2026-01-06T09:39:13Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
