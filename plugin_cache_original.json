@@ -178,7 +178,7 @@
     "social_link": "https://github.com/stevessr",
     "stars": 3,
     "version": "0.2.4",
-    "updated_at": "2026-01-04T02:23:17Z",
+    "updated_at": "2026-01-07T08:25:11Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_url_image_auto": {
@@ -448,9 +448,9 @@
       "撤回"
     ],
     "social_link": "52shell.ltd",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.1",
-    "updated_at": "2026-01-06T10:55:39Z",
+    "updated_at": "2026-01-07T08:32:26Z",
     "logo": "https://raw.githubusercontent.com/1592363624/astrbot_plugin_batchrecall/main/logo.png"
   },
   "astrbot_plugin_psychological": {
@@ -1731,9 +1731,9 @@
       "工具"
     ],
     "social_link": "https://box.firefly520.top/",
-    "stars": 15,
+    "stars": 16,
     "version": "1.4.0",
-    "updated_at": "2026-01-07T07:00:47Z",
+    "updated_at": "2026-01-07T08:00:08Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/master/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -9502,9 +9502,9 @@
     "author": "buding",
     "repo": "https://github.com/zouyonghe/astrbot_plugin_SDGen",
     "tags": [],
-    "stars": 18,
+    "stars": 19,
     "version": "v1.2.1",
-    "updated_at": "2025-12-02T02:32:25Z"
+    "updated_at": "2026-01-07T08:24:48Z"
   },
   "astrbot_plugin_sysinfo": {
     "desc": "获取当前系统状态",
