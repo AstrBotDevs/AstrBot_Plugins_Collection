@@ -668,9 +668,9 @@
       "小游戏"
     ],
     "social_link": "https://github.com/MegSopern",
-    "stars": 10,
+    "stars": 11,
     "version": "1.2.0",
-    "updated_at": "2026-01-07T02:25:49Z",
+    "updated_at": "2026-01-07T09:52:58Z",
     "logo": "https://raw.githubusercontent.com/MegSopern/astrbot_plugin_rollpig/main/logo.png"
   },
   "astrbot_plugin_portrayal_core": {
@@ -1400,8 +1400,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 18,
-    "version": "v1.2.1",
-    "updated_at": "2025-12-28T12:40:22Z",
+    "version": "v1.2.2",
+    "updated_at": "2026-01-07T10:04:22Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -2985,7 +2985,7 @@
     "social_link": "https://github.com/DBJD-CR",
     "stars": 63,
     "version": "v1.1.0",
-    "updated_at": "2026-01-06T13:44:25Z",
+    "updated_at": "2026-01-07T10:25:15Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
