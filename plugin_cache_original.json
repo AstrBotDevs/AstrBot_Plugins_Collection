@@ -2985,7 +2985,7 @@
     "social_link": "https://github.com/DBJD-CR",
     "stars": 64,
     "version": "v1.1.2",
-    "updated_at": "2026-01-07T10:56:05Z",
+    "updated_at": "2026-01-07T11:48:05Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -4808,9 +4808,9 @@
       "胡说八道",
       "娱乐"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2025-08-23T10:03:38Z"
+    "updated_at": "2026-01-07T11:45:23Z"
   },
   "astrbot_plugin_ctx_trimmer": {
     "desc": "按照 Token 丢弃对话的插件",
@@ -7020,9 +7020,9 @@
       "画像"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 48,
+    "stars": 49,
     "version": "v1.0.7",
-    "updated_at": "2026-01-07T02:58:56Z",
+    "updated_at": "2026-01-07T11:44:12Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
@@ -7910,9 +7910,9 @@
       "图库"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_gallery",
-    "stars": 23,
+    "stars": 24,
     "version": "v2.1.0",
-    "updated_at": "2025-12-18T12:05:02Z",
+    "updated_at": "2026-01-07T11:50:24Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_gallery/main/logo.png"
   },
   "astrbot_plugin_sensoji_pro": {
@@ -9808,9 +9808,9 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 158,
+    "stars": 159,
     "version": "v2.0.15",
-    "updated_at": "2026-01-05T05:51:31Z"
+    "updated_at": "2026-01-07T11:46:58Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
