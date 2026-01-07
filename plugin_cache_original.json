@@ -608,8 +608,8 @@
     ],
     "social_link": "https://github.com/WhiteCloudOL",
     "stars": 0,
-    "version": "v1.3.1",
-    "updated_at": "2026-01-01T08:27:49Z",
+    "version": "v1.3.2",
+    "updated_at": "2026-01-07T15:10:07Z",
     "logo": "https://raw.githubusercontent.com/WhiteCloudOL/astrbot_plugin_joinmanager/master/logo.png"
   },
   "astrbot_plugin_group_signin": {
@@ -2636,8 +2636,8 @@
     ],
     "social_link": "https://github.com/DITF16",
     "stars": 4,
-    "version": "v1.0.2",
-    "updated_at": "2025-11-07T04:15:54Z",
+    "version": "v1.0.3",
+    "updated_at": "2026-01-07T15:08:16Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_stockgame/master/logo.png"
   },
   "astrbot_plugin_cryptocurrency": {
@@ -7754,9 +7754,9 @@
     "tags": [
       "小姐姐"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2025-05-12T12:01:04Z"
+    "updated_at": "2026-01-07T15:40:52Z"
   },
   "astrbot_plugin_repeat_after_me": {
     "author": "和泉智宏",
