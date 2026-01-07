@@ -1162,9 +1162,9 @@
       "地铁",
       "机票"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.1",
-    "updated_at": "2025-12-15T09:51:29Z",
+    "updated_at": "2026-01-07T18:43:03Z",
     "logo": "https://raw.githubusercontent.com/ningyou8023/astrbot_plugin_transport/main/logo.png"
   },
   "astrbot_plugin_tsserver_relay": {
@@ -2998,9 +2998,9 @@
       "AI"
     ],
     "social_link": "https://github.com/oyxning",
-    "stars": 6,
+    "stars": 7,
     "version": "0.3.0",
-    "updated_at": "2025-12-03T16:42:18Z",
+    "updated_at": "2026-01-07T18:47:55Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot-plugin-moremorelove/main/logo.png"
   },
   "astrbot_plugin_genie-tts": {
