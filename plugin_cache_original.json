@@ -4363,8 +4363,8 @@
       "rag"
     ],
     "stars": 52,
-    "version": "2.0.11",
-    "updated_at": "2026-01-06T09:48:19Z",
+    "version": "2.0.13",
+    "updated_at": "2026-01-07T14:07:52Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -9119,9 +9119,9 @@
       "主动回复"
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-    "stars": 93,
+    "stars": 92,
     "version": "v2.1.10",
-    "updated_at": "2026-01-07T09:13:28Z"
+    "updated_at": "2026-01-07T14:12:11Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
