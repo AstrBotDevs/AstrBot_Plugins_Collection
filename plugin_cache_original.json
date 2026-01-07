@@ -89,9 +89,9 @@
     "author": "bylkuse",
     "repo": "https://github.com/bylkuse/astrbot_plugin_help_typst",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "v0.0.1",
-    "updated_at": "2026-01-06T18:19:24Z",
+    "updated_at": "2026-01-07T07:18:13Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_help_typst/master/logo.png"
   },
   "astrbot_plugin_lb_provider": {
@@ -711,9 +711,9 @@
       "BT",
       "磁力"
     ],
-    "stars": 7,
+    "stars": 8,
     "version": "v1.0.0",
-    "updated_at": "2025-12-31T09:25:56Z",
+    "updated_at": "2026-01-07T06:49:51Z",
     "logo": "https://raw.githubusercontent.com/NightDust981989/astrbot_plugin_BitTorrent/master/logo.png"
   },
   "astrbot_plugin_custom_menu_1": {
@@ -1176,9 +1176,9 @@
       "teamspeak"
     ],
     "social_link": "https://github.com/GEMILUXVII",
-    "stars": 3,
+    "stars": 4,
     "version": "1.0.8",
-    "updated_at": "2025-12-19T06:05:29Z"
+    "updated_at": "2026-01-07T07:00:16Z"
   },
   "astrbot_plugin_duel_galatea": {
     "display_name": "游戏王工具箱",
@@ -1731,9 +1731,9 @@
       "工具"
     ],
     "social_link": "https://box.firefly520.top/",
-    "stars": 14,
+    "stars": 15,
     "version": "1.4.0",
-    "updated_at": "2026-01-07T02:45:58Z",
+    "updated_at": "2026-01-07T07:00:47Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/master/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -5497,8 +5497,8 @@
       "主动回复"
     ],
     "stars": 5,
-    "version": "v1.3.0",
-    "updated_at": "2025-12-30T04:23:05Z",
+    "version": "v1.3.1",
+    "updated_at": "2026-01-07T07:17:36Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -9119,9 +9119,9 @@
       "主动回复"
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-    "stars": 92,
+    "stars": 93,
     "version": "v2.1.9",
-    "updated_at": "2026-01-06T11:10:44Z"
+    "updated_at": "2026-01-07T07:32:22Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
