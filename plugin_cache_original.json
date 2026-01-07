@@ -9,9 +9,9 @@
       "NLP"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 8,
+    "stars": 9,
     "version": "1.1.1",
-    "updated_at": "2026-01-06T16:44:18Z"
+    "updated_at": "2026-01-07T16:28:50Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -1314,9 +1314,9 @@
       "海啸预警"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 18,
+    "stars": 19,
     "version": "v1.2.3",
-    "updated_at": "2026-01-07T02:52:54Z",
+    "updated_at": "2026-01-07T16:06:37Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -4471,9 +4471,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 114,
+    "stars": 115,
     "version": "v4.5.6",
-    "updated_at": "2026-01-07T08:51:39Z",
+    "updated_at": "2026-01-07T16:13:51Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -8718,9 +8718,9 @@
     "tags": [
       "nsfw"
     ],
-    "stars": 11,
+    "stars": 12,
     "version": "v1.3",
-    "updated_at": "2025-12-16T11:01:07Z"
+    "updated_at": "2026-01-07T16:00:07Z"
   },
   "astrbot_plugin_Translation": {
     "desc": "通过调用百度翻译 API 接口实现翻译文本",
@@ -9429,9 +9429,9 @@
     "author": "Soulter",
     "repo": "https://github.com/Soulter/astrbot_plugin_essential",
     "tags": [],
-    "stars": 32,
+    "stars": 33,
     "version": "v1.1.0",
-    "updated_at": "2026-01-06T07:43:21Z"
+    "updated_at": "2026-01-07T16:12:22Z"
   },
   "astrbot_plugin_rss": {
     "desc": "支持通过 RSSHub 路由和直接 URL 订阅 RSS 源，并定时获取最新的 RSS 内容，如推特、B站、油管、博客等任何支持 RSS 2.0 的网站。",
