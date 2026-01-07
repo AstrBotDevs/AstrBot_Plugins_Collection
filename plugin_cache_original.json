@@ -475,7 +475,7 @@
     "tags": [],
     "stars": 2,
     "version": "1.0.1",
-    "updated_at": "2026-01-06T17:37:00Z",
+    "updated_at": "2026-01-07T04:15:39Z",
     "logo": "https://raw.githubusercontent.com/204343414/astrbot_plugin_yt-dlp/master/logo.png"
   },
   "astrbot_plugin_web_search": {
@@ -2165,9 +2165,9 @@
     "tags": [
       "MC"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v2.0",
-    "updated_at": "2025-12-20T06:40:35Z"
+    "updated_at": "2026-01-07T04:22:17Z"
   },
   "astrbot_plugin_temp-email": {
     "display_name": "临时邮箱",
@@ -8939,9 +8939,9 @@
     "tags": [
       "主动对话"
     ],
-    "stars": 9,
+    "stars": 10,
     "version": "v2.3.0",
-    "updated_at": "2025-11-16T07:18:16Z"
+    "updated_at": "2026-01-07T04:18:30Z"
   },
   "astrbot_plugin_sensoji": {
     "desc": "这是一个模拟日本浅草寺抽签功能的插件。用户可以通过发送 /抽签 命令随机抽取一个签文，获取运势提示。签文包含吉凶结果（如“大吉”、“凶”等）以及对应的运势描述。",
