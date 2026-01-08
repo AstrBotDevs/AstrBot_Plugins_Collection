@@ -1732,8 +1732,8 @@
     ],
     "social_link": "https://box.firefly520.top/",
     "stars": 16,
-    "version": "1.4.0",
-    "updated_at": "2026-01-07T08:00:08Z",
+    "version": "1.4.1",
+    "updated_at": "2026-01-08T06:39:37Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/master/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -3160,9 +3160,9 @@
     "tags": [
       "实用"
     ],
-    "stars": 12,
+    "stars": 13,
     "version": "v2.8.6",
-    "updated_at": "2026-01-06T08:15:52Z",
+    "updated_at": "2026-01-08T05:54:40Z",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
   "astrbot_plugin_acm_helper": {
@@ -5497,8 +5497,8 @@
       "主动回复"
     ],
     "stars": 5,
-    "version": "v1.3.1",
-    "updated_at": "2026-01-07T07:17:36Z",
+    "version": "v1.3.2",
+    "updated_at": "2026-01-08T05:56:38Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -6991,9 +6991,9 @@
     "repo": "https://github.com/Zhalslar/astrbot_plugin_search_video",
     "social_link": "https://github.com/Zhalslar",
     "tags": [],
-    "stars": 37,
+    "stars": 38,
     "version": "v1.1.1",
-    "updated_at": "2025-12-22T03:15:36Z",
+    "updated_at": "2026-01-08T06:17:36Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_search_video/main/logo.png"
   },
   "astrbot_plugin_zt": {
@@ -7380,9 +7380,9 @@
       "Galgame"
     ],
     "social_link": "https://github.com/mingrixiangnai/0721galgame",
-    "stars": 2,
+    "stars": 3,
     "version": "1.0",
-    "updated_at": "2025-07-28T18:23:58Z"
+    "updated_at": "2026-01-08T05:04:10Z"
   },
   "astrbot_plugin_terminal": {
     "author": "LHaiC",
@@ -8374,9 +8374,9 @@
       "工具",
       "安全"
     ],
-    "stars": 12,
+    "stars": 13,
     "version": "v2.8.6",
-    "updated_at": "2026-01-06T08:15:52Z",
+    "updated_at": "2026-01-08T05:54:40Z",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
   "astrbot_plugin_quote_collocter": {
