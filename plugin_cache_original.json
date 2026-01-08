@@ -713,7 +713,7 @@
     ],
     "stars": 8,
     "version": "v1.0.0",
-    "updated_at": "2026-01-07T06:49:51Z",
+    "updated_at": "2026-01-08T09:10:51Z",
     "logo": "https://raw.githubusercontent.com/NightDust981989/astrbot_plugin_BitTorrent/master/logo.png"
   },
   "astrbot_plugin_custom_menu_1": {
@@ -4234,9 +4234,9 @@
     "tags": [
       "撤回"
     ],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.1",
-    "updated_at": "2026-01-02T16:02:30Z",
+    "updated_at": "2026-01-08T09:18:13Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_anti_revoke/master/logo.png"
   },
   "input_state_by_napcat": {
@@ -9799,9 +9799,9 @@
     "author": "长安某",
     "repo": "https://github.com/zgojin/astrbot_plugin_AW",
     "tags": [],
-    "stars": 13,
+    "stars": 14,
     "version": "v1.5.3",
-    "updated_at": "2025-12-08T06:05:09Z"
+    "updated_at": "2026-01-08T09:10:18Z"
   },
   "astrbot_plugin_mnemosyne": {
     "desc": "一个长期记忆插件，基于milvus数据库实现，详情请见README.md",
