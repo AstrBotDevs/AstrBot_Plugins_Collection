@@ -712,8 +712,8 @@
       "磁力"
     ],
     "stars": 8,
-    "version": "v1.0.0",
-    "updated_at": "2026-01-08T09:10:51Z",
+    "version": "v1.1.0",
+    "updated_at": "2026-01-08T09:36:36Z",
     "logo": "https://raw.githubusercontent.com/NightDust981989/astrbot_plugin_BitTorrent/master/logo.png"
   },
   "astrbot_plugin_custom_menu_1": {
@@ -4471,9 +4471,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 115,
+    "stars": 116,
     "version": "v4.5.6",
-    "updated_at": "2026-01-07T16:13:51Z",
+    "updated_at": "2026-01-08T10:27:09Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
