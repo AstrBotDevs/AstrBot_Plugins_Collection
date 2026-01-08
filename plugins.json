@@ -20,17 +20,6 @@
     "author": "薄暝",
     "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain"
   },
-  "astrbot_plugin_zssm_core": {
-    "display_name": "Zssm(Core)",
-    "desc": "可直接zssm解释引用内容，或使用 \"zssm + 内容\" 进行联网搜索",
-    "author": "jengaklll-a11y",
-    "repo": "https://github.com/jengaklll-a11y/astrbot_plugin_zssm_core",
-    "tags": [
-      "解析",
-      "搜索"
-    ],
-    "social_link": "https://github.com/jengaklll-a11y"
-  },
   "astrbot_plugin_self_learning": {
     "desc": "智能自学习对话插件 - 通过实时消息捕获、多维度数据分析、渐进式学习机制和动态人格更新以及社交关系网络，使聊天机器人能够模仿特定用户的对话，实现更自然、个性化的交互",
     "author": "NickMo",
@@ -391,6 +380,14 @@
     "repo": "https://github.com/furry520-source/astrbot_plugin_furry_maopao",
     "tags": ["群聊", "打卡", "冒泡", "签到"]
   },
+  "astrbot_plugin_rollpig": {
+    "display_name": "今日小猪",
+    "desc": "抽取属于自己的每日小猪",
+    "author": "MegSopern",
+    "repo": "https://github.com/MegSopern/astrbot_plugin_rollpig",
+    "tags": ["小猪", "聊天", "娱乐", "小游戏"],
+    "social_link": "https://github.com/MegSopern"
+  },
   "astrbot_plugin_gitee_zimg": {
     "display_name": "Zimg文生图",
     "desc": "接入 Gitee AI（模力方舟）z-image-turbo模型（文生图），支持多key轮询",
@@ -399,13 +396,16 @@
     "tags": ["绘图", "Gitee"],
     "social_link": "https://github.com/jengaklll-a11y"
   },
-  "astrbot_plugin_rollpig": {
-    "display_name": "今日小猪",
-    "desc": "抽取属于自己的每日小猪",
-    "author": "MegSopern",
-    "repo": "https://github.com/MegSopern/astrbot_plugin_rollpig",
-    "tags": ["小猪", "聊天", "娱乐", "小游戏"],
-    "social_link": "https://github.com/MegSopern"
+  "astrbot_plugin_zssm_core": {
+    "display_name": "Zssm(Core)",
+    "desc": "可直接zssm解释引用内容，或使用 \"zssm + 内容\" 进行联网搜索",
+    "author": "jengaklll-a11y",
+    "repo": "https://github.com/jengaklll-a11y/astrbot_plugin_zssm_core",
+    "tags": [
+      "解析",
+      "搜索"
+    ],
+    "social_link": "https://github.com/jengaklll-a11y"
   },
   "astrbot_plugin_portrayal_core": {
     "display_name": "人物画像(Core)",
