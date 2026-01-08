@@ -2303,7 +2303,7 @@
     ],
     "stars": 14,
     "version": "v4.3.0",
-    "updated_at": "2026-01-06T19:27:13Z",
+    "updated_at": "2026-01-08T17:19:35Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -8401,9 +8401,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
-    "stars": 43,
+    "stars": 42,
     "version": "v2.0.1",
-    "updated_at": "2026-01-08T16:25:19Z",
+    "updated_at": "2026-01-08T17:19:36Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
