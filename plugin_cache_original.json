@@ -1037,7 +1037,7 @@
     "social_link": "https://github.com/Yue-bin",
     "stars": 5,
     "version": "v0.0.1",
-    "updated_at": "2025-12-31T01:59:51Z"
+    "updated_at": "2026-01-09T18:35:38Z"
   },
   "astrbot_plugin_plugins_summary": {
     "display_name": "插件目录查询",
@@ -8743,9 +8743,9 @@
     "tags": [
       "实用工具"
     ],
-    "stars": 27,
+    "stars": 28,
     "version": "v2.2.4",
-    "updated_at": "2026-01-02T15:22:14Z",
+    "updated_at": "2026-01-09T18:35:19Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
