@@ -161,9 +161,9 @@
       "平台适配器"
     ],
     "social_link": "https://github.com/stevessr",
-    "stars": 3,
+    "stars": 4,
     "version": "0.2.7",
-    "updated_at": "2026-01-09T11:48:31Z",
+    "updated_at": "2026-01-09T16:15:55Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_url_image_auto": {
@@ -419,9 +419,9 @@
     "repo": "https://github.com/NachoCrazy/netease-music-astrbot-plugin",
     "social_link": "https://github.com/NachoCrazy",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "1.2.0",
-    "updated_at": "2025-12-29T02:59:20Z"
+    "updated_at": "2026-01-09T16:20:00Z"
   },
   "astrbot_plugin_batchrecall": {
     "display_name": "批量撤回",
@@ -484,9 +484,9 @@
     "author": "梦千秋",
     "repo": "https://github.com/WangYi82909/astrbot_plugin_yotts",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-01-02T17:24:32Z",
+    "updated_at": "2026-01-09T16:17:39Z",
     "logo": "https://raw.githubusercontent.com/WangYi82909/astrbot_plugin_yotts/main/logo.png"
   },
   "astrbot_plugin_better_reminder": {
@@ -723,8 +723,8 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_custom_menu",
     "tags": [],
     "stars": 11,
-    "version": "1.7.0",
-    "updated_at": "2026-01-05T15:37:45Z",
+    "version": "1.7.5",
+    "updated_at": "2026-01-09T15:33:46Z",
     "logo": "https://raw.githubusercontent.com/shskjw/astrbot_plugin_custom_menu/master/logo.png"
   },
   "astrbot_plugin_webnovel_info": {
@@ -2985,7 +2985,7 @@
     "social_link": "https://github.com/DBJD-CR",
     "stars": 64,
     "version": "v1.1.2",
-    "updated_at": "2026-01-09T15:16:08Z",
+    "updated_at": "2026-01-09T16:02:16Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -4471,9 +4471,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 116,
+    "stars": 117,
     "version": "v4.5.6",
-    "updated_at": "2026-01-08T10:27:09Z",
+    "updated_at": "2026-01-09T16:21:36Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -5350,9 +5350,9 @@
       "屏蔽",
       "轮询"
     ],
-    "stars": 4,
+    "stars": 5,
     "version": "v1.2.0",
-    "updated_at": "2025-10-23T16:21:08Z"
+    "updated_at": "2026-01-09T16:17:07Z"
   },
   "astrbot_plugin_silent": {
     "desc": "一个极其简单的静默插件，当LLM回复内容中包含 silent 关键词时，自动阻止发送回复消息。",
