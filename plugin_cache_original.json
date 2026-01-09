@@ -752,9 +752,9 @@
       "桌面客户端"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 13,
+    "stars": 12,
     "version": "1.0.7",
-    "updated_at": "2026-01-05T15:40:28Z",
+    "updated_at": "2026-01-09T10:57:16Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
@@ -859,7 +859,7 @@
     "tags": [],
     "stars": 0,
     "version": "v0.1.1",
-    "updated_at": "2026-01-09T09:45:42Z",
+    "updated_at": "2026-01-09T10:47:52Z",
     "logo": "https://raw.githubusercontent.com/ASanYueA/astrbot_plugin_binance/main/logo.png"
   },
   "astrbot_plugin_qbittorrent_bridge": {
@@ -2945,9 +2945,9 @@
     "tags": [
       "TTS"
     ],
-    "stars": 3,
+    "stars": 2,
     "version": "v0.3",
-    "updated_at": "2025-12-07T09:30:37Z",
+    "updated_at": "2026-01-09T11:22:32Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_tts_sanitizer/master/logo.png"
   },
   "astrbot_plugin_github_monitor_shell": {
@@ -2983,9 +2983,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 65,
+    "stars": 64,
     "version": "v1.1.2",
-    "updated_at": "2026-01-09T09:47:21Z",
+    "updated_at": "2026-01-09T11:22:28Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -3256,9 +3256,9 @@
       "视频",
       "sora"
     ],
-    "stars": 29,
+    "stars": 28,
     "version": "v1.3.1",
-    "updated_at": "2026-01-05T14:26:23Z"
+    "updated_at": "2026-01-09T11:23:16Z"
   },
   "astrbot_gengtu": {
     "desc": "梗图抽象猜词插件，获取图片题目并校验答案。",
@@ -4022,9 +4022,9 @@
       "Steam"
     ],
     "social_link": "https://github.com/Maoer233",
-    "stars": 4,
+    "stars": 5,
     "version": "1.0.1",
-    "updated_at": "2025-12-07T11:10:57Z"
+    "updated_at": "2026-01-09T10:43:42Z"
   },
   "astrbot_plugin_personal_selfupdate": {
     "desc": "一个用于自更新人格数据的插件。",
@@ -4059,9 +4059,9 @@
     "tags": [
       "TTS"
     ],
-    "stars": 6,
+    "stars": 5,
     "version": "1.3.3",
-    "updated_at": "2025-12-31T13:26:38Z"
+    "updated_at": "2026-01-09T11:22:19Z"
   },
   "astrbot_plugin_pollinations_images": {
     "desc": "使用 Pollinations AI生成图片。无需注册，开箱即用！",
@@ -6602,9 +6602,9 @@
       "Steam"
     ],
     "social_link": "https://github.com/Maoer233",
-    "stars": 44,
+    "stars": 45,
     "version": "2.1.8",
-    "updated_at": "2026-01-06T02:21:37Z"
+    "updated_at": "2026-01-09T10:43:46Z"
   },
   "astrbot_plugin_xiaoxue": {
     "author": "sbmikoto",
@@ -9119,9 +9119,9 @@
       "主动回复"
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-    "stars": 92,
+    "stars": 91,
     "version": "v2.1.10",
-    "updated_at": "2026-01-07T14:12:11Z"
+    "updated_at": "2026-01-09T11:23:20Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
@@ -9181,9 +9181,9 @@
       "功能",
       "搬史"
     ],
-    "stars": 489,
+    "stars": 488,
     "version": "v0.915",
-    "updated_at": "2026-01-05T14:31:43Z"
+    "updated_at": "2026-01-09T11:05:48Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
