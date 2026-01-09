@@ -6817,9 +6817,9 @@
     "desc": "DZMM聊天插件，适配了DZMM返回的格式，并避免与AstrBot的模型混用，可用特别命令唤起DZMM的模型进行\"有趣生动\"的互动聊天。",
     "repo": "https://github.com/VincenttHo/astrbot_plugin_dzmm",
     "tags": [],
-    "stars": 16,
+    "stars": 17,
     "version": "v1.1.0",
-    "updated_at": "2025-12-26T10:43:38Z"
+    "updated_at": "2026-01-09T21:06:07Z"
   },
   "astrbot_plugin_text2image": {
     "author": "wuyan1003",
