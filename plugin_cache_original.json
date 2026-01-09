@@ -162,8 +162,8 @@
     ],
     "social_link": "https://github.com/stevessr",
     "stars": 3,
-    "version": "0.2.6",
-    "updated_at": "2026-01-09T08:27:59Z",
+    "version": "0.2.7",
+    "updated_at": "2026-01-09T09:37:28Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_url_image_auto": {
@@ -859,7 +859,7 @@
     "tags": [],
     "stars": 0,
     "version": "v0.1.1",
-    "updated_at": "2026-01-09T09:30:32Z",
+    "updated_at": "2026-01-09T09:45:42Z",
     "logo": "https://raw.githubusercontent.com/ASanYueA/astrbot_plugin_binance/main/logo.png"
   },
   "astrbot_plugin_qbittorrent_bridge": {
@@ -2983,9 +2983,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 64,
+    "stars": 65,
     "version": "v1.1.2",
-    "updated_at": "2026-01-07T11:48:05Z",
+    "updated_at": "2026-01-09T09:47:21Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
