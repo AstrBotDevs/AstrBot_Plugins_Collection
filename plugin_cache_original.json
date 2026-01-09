@@ -9,9 +9,9 @@
       "NLP"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 13,
+    "stars": 14,
     "version": "1.1.1",
-    "updated_at": "2026-01-09T04:19:37Z"
+    "updated_at": "2026-01-09T11:35:42Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -163,7 +163,7 @@
     "social_link": "https://github.com/stevessr",
     "stars": 3,
     "version": "0.2.7",
-    "updated_at": "2026-01-09T09:37:28Z",
+    "updated_at": "2026-01-09T11:48:31Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_url_image_auto": {
@@ -781,9 +781,9 @@
       "主动应答",
       "群聊优化"
     ],
-    "stars": 24,
+    "stars": 23,
     "version": "0.8.8",
-    "updated_at": "2026-01-05T08:42:37Z"
+    "updated_at": "2026-01-09T11:23:21Z"
   },
   "astrbot_plugin_angel_eye": {
     "display_name": "天使之眼",
@@ -859,7 +859,7 @@
     "tags": [],
     "stars": 0,
     "version": "v0.1.1",
-    "updated_at": "2026-01-09T10:47:52Z",
+    "updated_at": "2026-01-09T12:17:06Z",
     "logo": "https://raw.githubusercontent.com/ASanYueA/astrbot_plugin_binance/main/logo.png"
   },
   "astrbot_plugin_qbittorrent_bridge": {
@@ -1601,9 +1601,9 @@
       "@"
     ],
     "social_link": "https://qm.qq.com/q/RMjGPizOAm",
-    "stars": 10,
+    "stars": 9,
     "version": "v2.2.2",
-    "updated_at": "2025-12-23T01:25:00Z",
+    "updated_at": "2026-01-09T11:22:36Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_AtTool/main/logo.png"
   },
   "astrbot_plugin_CloudImg": {
