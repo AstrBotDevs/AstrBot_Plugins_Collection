@@ -361,7 +361,7 @@
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
     "stars": 21,
     "version": "v1.1",
-    "updated_at": "2026-01-06T09:55:19Z"
+    "updated_at": "2026-01-09T09:25:56Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -859,7 +859,7 @@
     "tags": [],
     "stars": 0,
     "version": "v0.1.1",
-    "updated_at": "2026-01-09T08:33:51Z",
+    "updated_at": "2026-01-09T09:30:32Z",
     "logo": "https://raw.githubusercontent.com/ASanYueA/astrbot_plugin_binance/main/logo.png"
   },
   "astrbot_plugin_qbittorrent_bridge": {
@@ -5728,9 +5728,9 @@
       "模仿"
     ],
     "social_link": "https://github.com/oyxning",
-    "stars": 11,
+    "stars": 10,
     "version": "v1.1.0",
-    "updated_at": "2025-12-16T09:53:47Z"
+    "updated_at": "2026-01-09T09:16:02Z"
   },
   "EmailNotixion": {
     "name": "EmailNotixion",
@@ -8637,9 +8637,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
-    "stars": 74,
+    "stars": 75,
     "version": "v3.0.3",
-    "updated_at": "2026-01-01T15:50:28Z",
+    "updated_at": "2026-01-09T09:41:09Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
