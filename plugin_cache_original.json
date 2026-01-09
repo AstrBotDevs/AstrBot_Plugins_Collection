@@ -577,8 +577,8 @@
     "repo": "https://github.com/Luna-channel/astrbot_plugin_hangout",
     "tags": "统计调用",
     "stars": 0,
-    "version": "v1.0.1",
-    "updated_at": "2025-12-24T06:34:22Z",
+    "version": "v1.0.3",
+    "updated_at": "2026-01-09T13:49:50Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_hangout/main/logo.png"
   },
   "astrbot_plugin_joinmanager": {
@@ -593,8 +593,8 @@
     ],
     "social_link": "https://github.com/WhiteCloudOL",
     "stars": 0,
-    "version": "v1.3.2",
-    "updated_at": "2026-01-08T10:30:53Z",
+    "version": "v1.3.3",
+    "updated_at": "2026-01-09T14:15:34Z",
     "logo": "https://raw.githubusercontent.com/WhiteCloudOL/astrbot_plugin_joinmanager/master/logo.png"
   },
   "astrbot_plugin_group_signin": {
