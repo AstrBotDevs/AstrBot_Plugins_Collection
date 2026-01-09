@@ -977,9 +977,9 @@
       "奴隶市场",
       "群内互动"
     ],
-    "stars": 3,
+    "stars": 4,
     "version": "v2.3.1",
-    "updated_at": "2025-12-25T11:03:16Z",
+    "updated_at": "2026-01-09T00:08:03Z",
     "logo": "https://raw.githubusercontent.com/wangyingxuan383-ai/astrbot_plugin_pet_market/main/logo.png"
   },
   "astrbot_plugin_anuneko": {
@@ -9503,8 +9503,8 @@
     "repo": "https://github.com/zouyonghe/astrbot_plugin_SDGen",
     "tags": [],
     "stars": 19,
-    "version": "v1.2.1",
-    "updated_at": "2026-01-07T08:24:48Z"
+    "version": "v1.2.2",
+    "updated_at": "2026-01-09T00:23:15Z"
   },
   "astrbot_plugin_sysinfo": {
     "desc": "获取当前系统状态",
