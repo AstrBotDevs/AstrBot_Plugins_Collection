@@ -2230,8 +2230,8 @@
     "repo": "https://github.com/exynos967/astrbot_plugin_picstatus",
     "tags": [],
     "stars": 0,
-    "version": "v1.1.0",
-    "updated_at": "2025-11-23T15:51:06Z"
+    "version": "v1.2.0",
+    "updated_at": "2026-01-10T14:08:17Z"
   },
   "astrbot_plugin_continuous_message": {
     "display_name": "消息防抖动",
@@ -7513,9 +7513,9 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 122,
+    "stars": 123,
     "version": "v2.0.6",
-    "updated_at": "2026-01-10T09:52:11Z",
+    "updated_at": "2026-01-10T13:45:19Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -9183,9 +9183,9 @@
       "功能",
       "搬史"
     ],
-    "stars": 488,
+    "stars": 489,
     "version": "v0.915",
-    "updated_at": "2026-01-09T11:05:48Z"
+    "updated_at": "2026-01-10T14:35:36Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
