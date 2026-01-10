@@ -1400,8 +1400,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 18,
-    "version": "v1.2.2",
-    "updated_at": "2026-01-07T10:04:22Z",
+    "version": "v1.2.3",
+    "updated_at": "2026-01-10T06:31:42Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -3489,8 +3489,8 @@
       "群文件"
     ],
     "stars": 0,
-    "version": "v1.7",
-    "updated_at": "2025-12-11T03:55:50Z",
+    "version": "v1.7.1",
+    "updated_at": "2026-01-10T06:11:26Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_file_checker/master/logo.png"
   },
   "astrbot_plugin_tg_button": {
@@ -3654,7 +3654,7 @@
     ],
     "stars": 4,
     "version": "v1.0",
-    "updated_at": "2026-01-05T16:08:18Z",
+    "updated_at": "2026-01-10T06:18:48Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_GroupFS/master/logo.png"
   },
   "group_notice_manager": {
@@ -4235,8 +4235,8 @@
       "撤回"
     ],
     "stars": 4,
-    "version": "v1.1.1",
-    "updated_at": "2026-01-08T11:28:23Z",
+    "version": "v1.1.2",
+    "updated_at": "2026-01-10T06:32:05Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_anti_revoke/master/logo.png"
   },
   "input_state_by_napcat": {
@@ -7564,7 +7564,8 @@
     ],
     "stars": 9,
     "version": "v1.8.4",
-    "updated_at": "2026-01-02T02:09:43Z"
+    "updated_at": "2026-01-10T05:01:59Z",
+    "logo": "https://raw.githubusercontent.com/kterna/astrbot_plugin_mcqq/main/logo.png"
   },
   "astrbot_plugin_Group-Verification": {
     "author": "huotuo146",
@@ -8462,7 +8463,8 @@
     ],
     "stars": 4,
     "version": "v1.3.4",
-    "updated_at": "2026-01-04T12:29:46Z"
+    "updated_at": "2026-01-10T05:04:26Z",
+    "logo": "https://raw.githubusercontent.com/kterna/astrbot_plugin_litematic/main/logo.png"
   },
   "astrbot_plugin_weather_wttr_in": {
     "desc": "使用 wttr.in 查询天气（llm工具）",
