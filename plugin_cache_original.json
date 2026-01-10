@@ -724,7 +724,7 @@
     "tags": [],
     "stars": 11,
     "version": "1.7.6",
-    "updated_at": "2026-01-10T07:01:33Z",
+    "updated_at": "2026-01-10T07:30:21Z",
     "logo": "https://raw.githubusercontent.com/shskjw/astrbot_plugin_custom_menu/master/logo.png"
   },
   "astrbot_plugin_webnovel_info": {
@@ -1401,7 +1401,7 @@
     "social_link": "https://github.com/muyouzhi6",
     "stars": 18,
     "version": "v1.2.3",
-    "updated_at": "2026-01-10T06:31:42Z",
+    "updated_at": "2026-01-10T07:50:32Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -2985,7 +2985,7 @@
     "social_link": "https://github.com/DBJD-CR",
     "stars": 64,
     "version": "v1.1.2",
-    "updated_at": "2026-01-09T16:02:16Z",
+    "updated_at": "2026-01-10T07:54:06Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -3449,7 +3449,7 @@
     "tags": [],
     "stars": 3,
     "version": "1.6.8",
-    "updated_at": "2026-01-04T05:00:45Z"
+    "updated_at": "2026-01-10T08:29:47Z"
   },
   "astrbot_plugin_33recognition": {
     "desc": "调用大模型检测图片中关键词",
@@ -4471,9 +4471,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 117,
+    "stars": 118,
     "version": "v4.5.6",
-    "updated_at": "2026-01-09T16:21:36Z",
+    "updated_at": "2026-01-10T08:06:09Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -4848,8 +4848,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 42,
-    "version": "1.1.1",
-    "updated_at": "2025-12-30T17:40:13Z",
+    "version": "1.1.2",
+    "updated_at": "2026-01-10T08:13:53Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "astrbot_plugin_keyword_monitor": {
@@ -8248,9 +8248,9 @@
       "游戏"
     ],
     "social_link": "https://qm.qq.com/q/F7JTfmpsys",
-    "stars": 2,
+    "stars": 3,
     "version": "v0.0.2",
-    "updated_at": "2025-07-15T14:32:04Z"
+    "updated_at": "2026-01-10T08:03:00Z"
   },
   "astrbot_plugin_no_dragon_lord": {
     "desc": "anka - 禁止机器人抢龙王! 龙王一定要是人类 ✍️✍️✍️✍️✍️✍️✍️✍️ 😭😭😭😭😭😭😭😭 - 请前往设置白名单(默认全部群启用) - 提供分段回复容错设置",
