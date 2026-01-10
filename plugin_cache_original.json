@@ -75,8 +75,8 @@
     "repo": "https://github.com/bylkuse/astrbot_plugin_help_typst",
     "tags": [],
     "stars": 5,
-    "version": "v0.0.4",
-    "updated_at": "2026-01-09T20:09:38Z",
+    "version": "v0.0.5",
+    "updated_at": "2026-01-10T09:33:35Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_help_typst/master/logo.png"
   },
   "astrbot_plugin_lb_provider": {
@@ -654,8 +654,8 @@
     ],
     "social_link": "https://github.com/jengaklll-a11y",
     "stars": 1,
-    "version": "v1.0.5",
-    "updated_at": "2026-01-03T12:20:24Z",
+    "version": "v2.0.0",
+    "updated_at": "2026-01-10T10:05:11Z",
     "logo": "https://raw.githubusercontent.com/jengaklll-a11y/astrbot_plugin_gitee_zimg/main/logo.png"
   },
   "astrbot_plugin_zssm_core": {
@@ -699,7 +699,7 @@
     ],
     "stars": 11,
     "version": "v0.1.7",
-    "updated_at": "2026-01-10T08:56:24Z",
+    "updated_at": "2026-01-10T09:42:30Z",
     "logo": "https://raw.githubusercontent.com/sukafon/astrbot_plugin_big_banana/main/logo.png"
   },
   "astrbot_plugin_BitTorrent": {
@@ -1121,8 +1121,8 @@
     ],
     "social_link": "https://github.com/Xbodwf",
     "stars": 0,
-    "version": "1.16.0",
-    "updated_at": "2026-01-01T02:38:20Z"
+    "version": "1.17.0",
+    "updated_at": "2026-01-10T09:47:35Z"
   },
   "astrbot_plugin_QQbox": {
     "display_name": "QQbox",
@@ -3448,8 +3448,8 @@
     "repo": "https://github.com/BGYdook/AstrBot-plugin-tmp-bot",
     "tags": [],
     "stars": 3,
-    "version": "1.6.8",
-    "updated_at": "2026-01-10T09:21:23Z"
+    "version": "1.6.9",
+    "updated_at": "2026-01-10T09:27:30Z"
   },
   "astrbot_plugin_33recognition": {
     "desc": "调用大模型检测图片中关键词",
@@ -7513,9 +7513,9 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 121,
+    "stars": 122,
     "version": "v2.0.6",
-    "updated_at": "2026-01-05T08:29:55Z",
+    "updated_at": "2026-01-10T09:52:11Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
