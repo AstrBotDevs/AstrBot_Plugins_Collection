@@ -74,9 +74,9 @@
     "author": "bylkuse",
     "repo": "https://github.com/bylkuse/astrbot_plugin_help_typst",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "v0.0.6",
-    "updated_at": "2026-01-10T22:17:46Z",
+    "updated_at": "2026-01-11T08:39:52Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_help_typst/master/logo.png"
   },
   "astrbot_plugin_lb_provider": {
@@ -4848,8 +4848,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 42,
-    "version": "1.1.2",
-    "updated_at": "2026-01-10T08:13:53Z",
+    "version": "2.0.0",
+    "updated_at": "2026-01-11T09:17:51Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "astrbot_plugin_keyword_monitor": {
@@ -4982,9 +4982,9 @@
       "记忆"
     ],
     "social_link": "https://github.com/qa296/",
-    "stars": 23,
+    "stars": 24,
     "version": "v0.2.6",
-    "updated_at": "2025-12-27T19:35:28Z"
+    "updated_at": "2026-01-11T09:03:07Z"
   },
   "astrbot_plugin_iearning_style": {
     "desc": "使机器人可以从聊天中学习他人说话方式",
