@@ -4992,8 +4992,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 42,
-    "version": "2.0.0",
-    "updated_at": "2026-01-11T09:17:51Z",
+    "version": "2.1.2",
+    "updated_at": "2026-01-11T12:14:27Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "astrbot_plugin_keyword_monitor": {
@@ -7250,9 +7250,9 @@
       "贴表情"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 19,
+    "stars": 20,
     "version": "v1.1.3",
-    "updated_at": "2026-01-11T10:53:41Z",
+    "updated_at": "2026-01-11T12:20:44Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_emoji_like/main/logo.png"
   },
   "astrbot_plugin_lanraragi": {
@@ -9111,9 +9111,9 @@
       "功能",
       "推送"
     ],
-    "stars": 16,
+    "stars": 15,
     "version": "v2.1.0",
-    "updated_at": "2025-11-21T16:55:17Z"
+    "updated_at": "2026-01-11T12:20:24Z"
   },
   "astrbot_plugin_gemini_exp": {
     "desc": "让你在 AstrBot 调用 Gemini2.0-flash-exp 来生成图片或者 P 图。Gemini2.0-flash-exp为原生多模态模型，其既是语言模型，也是生图模型，因此能够对图像使用简单的自然语言命令进行处理。",
