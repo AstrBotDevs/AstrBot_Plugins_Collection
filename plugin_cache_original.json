@@ -2301,9 +2301,9 @@
       "小红书",
       "推特"
     ],
-    "stars": 14,
+    "stars": 15,
     "version": "v4.3.1",
-    "updated_at": "2026-01-11T03:35:32Z",
+    "updated_at": "2026-01-11T10:21:04Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -9183,9 +9183,9 @@
       "功能",
       "搬史"
     ],
-    "stars": 489,
+    "stars": 490,
     "version": "v0.915",
-    "updated_at": "2026-01-10T14:35:36Z"
+    "updated_at": "2026-01-11T10:40:15Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
