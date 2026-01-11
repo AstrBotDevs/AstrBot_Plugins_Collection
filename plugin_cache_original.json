@@ -1423,9 +1423,9 @@
       "分段"
     ],
     "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
-    "stars": 11,
+    "stars": 12,
     "version": "v1.2.0",
-    "updated_at": "2025-12-29T01:01:27Z",
+    "updated_at": "2026-01-11T15:51:18Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -1459,8 +1459,8 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "stars": 19,
-    "version": "v1.2.3",
-    "updated_at": "2026-01-08T21:24:07Z",
+    "version": "v1.3.1",
+    "updated_at": "2026-01-11T16:14:43Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -1963,7 +1963,7 @@
     ],
     "stars": 2,
     "version": "v1.3",
-    "updated_at": "2025-12-15T02:53:59Z",
+    "updated_at": "2026-01-11T15:47:51Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_genshinimpact/master/logo.png"
   },
   "astrbot_plugin_parse_hub": {
@@ -3280,9 +3280,9 @@
       "rvc"
     ],
     "social_link": "https://github.com/CCYellowStar2",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2025-10-24T18:37:40Z"
+    "updated_at": "2026-01-11T16:24:30Z"
   },
   "astrbot_plugin_yunsdf": {
     "name": "yunsdf",
@@ -3522,9 +3522,9 @@
       "平台适配器"
     ],
     "social_link": "https://magstic.art/",
-    "stars": 8,
+    "stars": 9,
     "version": "0.1.1",
-    "updated_at": "2025-12-15T09:01:53Z"
+    "updated_at": "2026-01-11T16:30:08Z"
   },
   "astrbot_plugin_gemini_search": {
     "desc": "一个调用Gemini格式API进行联网搜索的函数工具",
@@ -4992,8 +4992,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 42,
-    "version": "1.1.2",
-    "updated_at": "2026-01-11T15:31:38Z",
+    "version": "2.2.2",
+    "updated_at": "2026-01-11T15:32:13Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "astrbot_plugin_keyword_monitor": {
