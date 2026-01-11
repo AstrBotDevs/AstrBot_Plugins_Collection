@@ -398,8 +398,8 @@
     "social_link": "https://blog.zxqblog.cn",
     "tags": [],
     "stars": 1,
-    "version": "v1.1.3",
-    "updated_at": "2025-12-25T05:36:13Z"
+    "version": "v1.1.4",
+    "updated_at": "2026-01-11T08:16:50Z"
   },
   "astrbot_plugin_anti-bot": {
     "display_name": "bot自己怼人的插件",
@@ -1656,8 +1656,8 @@
       "抖音"
     ],
     "stars": 2,
-    "version": "v1.0.1",
-    "updated_at": "2026-01-02T05:17:48Z",
+    "version": "v1.1.0",
+    "updated_at": "2026-01-11T07:51:26Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_video_analysis/master/logo.png"
   },
   "astrbot_plugin_image_generation": {
@@ -2984,8 +2984,8 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "stars": 64,
-    "version": "v1.1.2",
-    "updated_at": "2026-01-10T07:54:06Z",
+    "version": "v1.1.3",
+    "updated_at": "2026-01-11T07:47:59Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -3449,7 +3449,7 @@
     "tags": [],
     "stars": 3,
     "version": "1.6.9",
-    "updated_at": "2026-01-11T06:25:40Z"
+    "updated_at": "2026-01-11T07:46:29Z"
   },
   "astrbot_plugin_33recognition": {
     "desc": "调用大模型检测图片中关键词",
