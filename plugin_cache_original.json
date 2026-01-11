@@ -1400,8 +1400,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 18,
-    "version": "v2.0.1",
-    "updated_at": "2026-01-11T00:39:17Z",
+    "version": "v2.1.0",
+    "updated_at": "2026-01-11T02:19:25Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -2302,8 +2302,8 @@
       "推特"
     ],
     "stars": 14,
-    "version": "v4.3.0",
-    "updated_at": "2026-01-08T17:19:35Z",
+    "version": "v4.3.1",
+    "updated_at": "2026-01-11T03:35:32Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -5709,7 +5709,7 @@
     "social_link": "https://magstic.art/",
     "stars": 4,
     "version": "1.0.1",
-    "updated_at": "2025-12-11T05:34:22Z"
+    "updated_at": "2026-01-11T02:25:29Z"
   },
   "astrbot_plugin_eat_history": {
     "desc": "自动保存转发的消息记录，随时查看",
