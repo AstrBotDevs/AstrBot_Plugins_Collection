@@ -11,7 +11,7 @@
     "social_link": "https://github.com/advent259141",
     "stars": 16,
     "version": "1.1.1",
-    "updated_at": "2026-01-10T01:05:16Z"
+    "updated_at": "2026-01-11T01:11:39Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -1400,8 +1400,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 18,
-    "version": "v2.0.0",
-    "updated_at": "2026-01-10T16:29:39Z",
+    "version": "v2.0.1",
+    "updated_at": "2026-01-11T00:39:17Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -7690,7 +7690,7 @@
     "social_link": "https://github.com/vmoranv-reborn",
     "stars": 3,
     "version": "1.4.3",
-    "updated_at": "2026-01-06T13:08:52Z",
+    "updated_at": "2026-01-11T00:48:14Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
@@ -7699,8 +7699,8 @@
     "repo": "https://github.com/vmoranv/astrbot_plugin_fuck",
     "tags": [],
     "stars": 2,
-    "version": "v1.1.0",
-    "updated_at": "2025-04-22T02:35:45Z"
+    "version": "v1.2.0",
+    "updated_at": "2026-01-11T02:04:33Z"
   },
   "astrbot_plugin_wuziqi": {
     "author": "大沙北",
