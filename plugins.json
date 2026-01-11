@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_mc_manager": {
+    "display_name": "astrbot_plugin_mc_manager",
+    "desc": "通过 LLM 智能管理 Minecraft 服务器，支持 Fabric/Forge/NeoForge",
+    "author": "Jason.Joestar",
+    "repo": "https://github.com/advent259141/astrbot_plugin_mc_manager",
+    "tags": ["MC","Agent"],
+    "social_link": "https://github.com/advent259141"
+  },
+  "astrbot_plugin_logplus": {
+    "display_name": "logplus",
+    "desc": "AstrBot日志增强插件，支持日志持久化、按插件分类、轮换、压缩、自动清理等功能",
+    "author": "lxfight",
+    "repo": "https://github.com/lxfight/astrbot_plugin_logplus",
+    "tags": ["log", "工具"],
+    "social_link": "https://github.com/lxfight"
+  },
   "astrbot_plugin_context_aware": {
     "display_name": "上下文场景感知增强",
     "desc": "增强 LLM 对群聊场景的理解能力，让 Bot 知道谁在和谁说话、当前是主动搭话还是被动回复",
@@ -54,6 +70,13 @@
       "网页验证"
     ],
     "social_link": "https://github.com/VanillaNahida/"
+  },
+  "astrbot_plugin_cliproxy_stats": {
+    "display_name": "CPA余额查询",
+    "desc": "CLIProxyAPI 额度与使用统计查询插件，通过指令查看 OAuth 模型额度和当日调用统计",
+    "author": "木有知",
+    "repo": "https://github.com/muyouzhi6/astrbot_plugin_cliproxy_stats",
+    "social_link": "https://github.com/muyouzhi6"
   },
   "astrbot_plugin_chord": {
     "display_name": "和弦查询",
