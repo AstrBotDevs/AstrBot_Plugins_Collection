@@ -117,8 +117,8 @@
     ],
     "social_link": "https://github.com/JustOneSummer",
     "stars": 0,
-    "version": "v0.0.3",
-    "updated_at": "2026-01-07T03:26:47Z",
+    "version": "v0.0.4",
+    "updated_at": "2026-01-11T06:25:35Z",
     "logo": "https://raw.githubusercontent.com/JustOneSummer/AstrByWowsYuyukoBot/master/logo.png"
   },
   "astrbot_plugin_office_assistant": {
@@ -1400,8 +1400,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 18,
-    "version": "v2.1.0",
-    "updated_at": "2026-01-11T02:19:25Z",
+    "version": "v2.1.2",
+    "updated_at": "2026-01-11T06:24:58Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -3449,7 +3449,7 @@
     "tags": [],
     "stars": 3,
     "version": "1.6.9",
-    "updated_at": "2026-01-10T09:27:30Z"
+    "updated_at": "2026-01-11T06:25:40Z"
   },
   "astrbot_plugin_33recognition": {
     "desc": "调用大模型检测图片中关键词",
@@ -3490,7 +3490,7 @@
     ],
     "stars": 0,
     "version": "v1.7.1",
-    "updated_at": "2026-01-10T06:11:26Z",
+    "updated_at": "2026-01-11T05:37:28Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_file_checker/master/logo.png"
   },
   "astrbot_plugin_tg_button": {
