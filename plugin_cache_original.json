@@ -1407,8 +1407,8 @@
       "表情"
     ],
     "stars": 6,
-    "version": "2.0.8",
-    "updated_at": "2026-01-04T13:15:21Z",
+    "version": "2.0.9",
+    "updated_at": "2026-01-11T14:10:31Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -1543,9 +1543,9 @@
       "画图"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 18,
+    "stars": 19,
     "version": "v2.1.2",
-    "updated_at": "2026-01-11T06:24:58Z",
+    "updated_at": "2026-01-11T14:03:03Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -6098,9 +6098,9 @@
       "鼠鼠"
     ],
     "author": "UyNewNas",
-    "stars": 11,
+    "stars": 12,
     "version": "v1.2",
-    "updated_at": "2025-12-10T15:12:32Z"
+    "updated_at": "2026-01-11T14:31:50Z"
   },
   "astrbot_plugin_LetAI_sendemojis": {
     "desc": "智能分析AI对话内容并发送匹配表情包，支持情感识别、历史记录和多数据源，让聊天更生动有趣",
