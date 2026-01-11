@@ -110,9 +110,9 @@
     "repo": "https://github.com/muyouzhi6/astrbot_plugin_cliproxy_stats",
     "social_link": "https://github.com/muyouzhi6",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.0",
-    "updated_at": "2026-01-11T05:51:37Z"
+    "updated_at": "2026-01-11T15:04:08Z"
   },
   "astrbot_plugin_chord": {
     "display_name": "和弦查询",
@@ -4992,8 +4992,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 42,
-    "version": "2.1.2",
-    "updated_at": "2026-01-11T12:14:27Z",
+    "version": "1.1.2",
+    "updated_at": "2026-01-11T15:31:38Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "astrbot_plugin_keyword_monitor": {
@@ -9327,9 +9327,9 @@
       "功能",
       "搬史"
     ],
-    "stars": 490,
+    "stars": 491,
     "version": "v0.915",
-    "updated_at": "2026-01-11T10:40:15Z"
+    "updated_at": "2026-01-11T14:59:42Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
