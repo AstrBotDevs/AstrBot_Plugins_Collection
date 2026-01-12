@@ -1543,9 +1543,9 @@
       "画图"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 21,
+    "stars": 22,
     "version": "v2.1.2",
-    "updated_at": "2026-01-12T01:39:46Z",
+    "updated_at": "2026-01-12T09:44:22Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -4717,9 +4717,9 @@
     "author": "天各一方",
     "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
     "tags": [],
-    "stars": 32,
+    "stars": 33,
     "version": "v1.0.4",
-    "updated_at": "2026-01-12T05:45:34Z"
+    "updated_at": "2026-01-12T10:27:55Z"
   },
   "astrbot_plugin_vtb_adapter": {
     "desc": "用于连接 AstrBot 与 Open LLM Vtuber，除安装插件外还需要修改 Open LLM Vtuber 中的相关文件",
@@ -9575,9 +9575,9 @@
     "author": "Soulter",
     "repo": "https://github.com/Soulter/astrbot_plugin_essential",
     "tags": [],
-    "stars": 33,
+    "stars": 34,
     "version": "v1.1.0",
-    "updated_at": "2026-01-07T16:12:22Z"
+    "updated_at": "2026-01-12T10:28:32Z"
   },
   "astrbot_plugin_rss": {
     "desc": "支持通过 RSSHub 路由和直接 URL 订阅 RSS 源，并定时获取最新的 RSS 内容，如推特、B站、油管、博客等任何支持 RSS 2.0 的网站。",
