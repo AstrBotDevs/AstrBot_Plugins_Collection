@@ -219,8 +219,8 @@
     "repo": "https://github.com/bylkuse/astrbot_plugin_help_typst",
     "tags": [],
     "stars": 6,
-    "version": "v0.0.6",
-    "updated_at": "2026-01-11T08:39:52Z",
+    "version": "v0.0.7",
+    "updated_at": "2026-01-12T15:06:53Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_help_typst/master/logo.png"
   },
   "astrbot_plugin_lb_provider": {
@@ -867,8 +867,8 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_custom_menu",
     "tags": [],
     "stars": 11,
-    "version": "1.7.6",
-    "updated_at": "2026-01-10T07:30:21Z",
+    "version": "1.8.0",
+    "updated_at": "2026-01-12T14:37:27Z",
     "logo": "https://raw.githubusercontent.com/shskjw/astrbot_plugin_custom_menu/master/logo.png"
   },
   "astrbot_plugin_webnovel_info": {
@@ -1408,7 +1408,7 @@
     ],
     "stars": 6,
     "version": "2.0.9",
-    "updated_at": "2026-01-12T14:11:05Z",
+    "updated_at": "2026-01-12T15:25:45Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -5164,9 +5164,9 @@
       "输出增强"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 16,
+    "stars": 17,
     "version": "v2.0.1",
-    "updated_at": "2026-01-09T17:16:39Z",
+    "updated_at": "2026-01-12T15:09:46Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
