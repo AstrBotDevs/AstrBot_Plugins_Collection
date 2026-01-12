@@ -34,9 +34,9 @@
     "repo": "https://github.com/muyouzhi6/astrbot_plugin_context_aware",
     "tags": [],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 2,
+    "stars": 3,
     "version": "2.2.0",
-    "updated_at": "2026-01-12T01:26:25Z",
+    "updated_at": "2026-01-12T16:23:10Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_context_aware/main/logo.png"
   },
   "astrbot_plugin_cloudmailapi": {
@@ -1407,8 +1407,8 @@
       "表情"
     ],
     "stars": 6,
-    "version": "2.0.9",
-    "updated_at": "2026-01-12T15:25:45Z",
+    "version": "2.1.0",
+    "updated_at": "2026-01-12T15:57:34Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -7657,9 +7657,9 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 125,
+    "stars": 126,
     "version": "v2.0.6",
-    "updated_at": "2026-01-12T07:24:45Z",
+    "updated_at": "2026-01-12T16:15:04Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
