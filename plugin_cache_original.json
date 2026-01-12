@@ -9575,9 +9575,9 @@
     "author": "Soulter",
     "repo": "https://github.com/Soulter/astrbot_plugin_essential",
     "tags": [],
-    "stars": 34,
+    "stars": 35,
     "version": "v1.1.0",
-    "updated_at": "2026-01-12T10:28:32Z"
+    "updated_at": "2026-01-12T16:57:21Z"
   },
   "astrbot_plugin_rss": {
     "desc": "支持通过 RSSHub 路由和直接 URL 订阅 RSS 源，并定时获取最新的 RSS 内容，如推特、B站、油管、博客等任何支持 RSS 2.0 的网站。",
