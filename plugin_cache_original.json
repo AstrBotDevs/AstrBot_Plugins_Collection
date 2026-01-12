@@ -98,9 +98,9 @@
       "网页验证"
     ],
     "social_link": "https://github.com/VanillaNahida/",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.1.2",
-    "updated_at": "2026-01-09T00:35:50Z",
+    "updated_at": "2026-01-12T02:11:26Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_geetest_verify/master/logo.png"
   },
   "astrbot_plugin_cliproxy_stats": {
@@ -503,9 +503,9 @@
       "下载"
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
-    "stars": 21,
+    "stars": 22,
     "version": "v1.1",
-    "updated_at": "2026-01-09T09:25:56Z"
+    "updated_at": "2026-01-12T02:22:36Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -855,9 +855,9 @@
       "BT",
       "磁力"
     ],
-    "stars": 8,
+    "stars": 9,
     "version": "v1.1.0",
-    "updated_at": "2026-01-08T09:36:36Z",
+    "updated_at": "2026-01-12T02:31:46Z",
     "logo": "https://raw.githubusercontent.com/NightDust981989/astrbot_plugin_BitTorrent/master/logo.png"
   },
   "astrbot_plugin_custom_menu_1": {
@@ -4993,7 +4993,7 @@
     "social_link": "https://github.com/muyouzhi6",
     "stars": 42,
     "version": "2.2.2",
-    "updated_at": "2026-01-11T15:32:13Z",
+    "updated_at": "2026-01-12T02:07:11Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "astrbot_plugin_keyword_monitor": {
@@ -7834,7 +7834,7 @@
     "social_link": "https://github.com/vmoranv-reborn",
     "stars": 3,
     "version": "1.4.3",
-    "updated_at": "2026-01-11T00:48:14Z",
+    "updated_at": "2026-01-12T03:15:43Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
