@@ -98,9 +98,9 @@
       "网页验证"
     ],
     "social_link": "https://github.com/VanillaNahida/",
-    "stars": 6,
-    "version": "v1.1.3",
-    "updated_at": "2026-01-12T08:12:42Z",
+    "stars": 7,
+    "version": "v1.1.4",
+    "updated_at": "2026-01-12T09:13:26Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_geetest_verify/master/logo.png"
   },
   "astrbot_plugin_cliproxy_stats": {
@@ -4615,9 +4615,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 118,
+    "stars": 119,
     "version": "v4.5.6",
-    "updated_at": "2026-01-10T08:06:09Z",
+    "updated_at": "2026-01-12T09:16:19Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -7164,9 +7164,9 @@
       "画像"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 50,
+    "stars": 51,
     "version": "v1.0.7",
-    "updated_at": "2026-01-09T17:16:32Z",
+    "updated_at": "2026-01-12T09:17:07Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
@@ -8844,9 +8844,9 @@
       "撤回",
       "禁言"
     ],
-    "stars": 3,
+    "stars": 4,
     "version": "v0.1.7",
-    "updated_at": "2025-12-04T00:57:38Z"
+    "updated_at": "2026-01-12T08:51:03Z"
   },
   "astrbot_plugin_custom_menu": {
     "desc": "自定义菜单图片，图片放置在 menu 目录下，支持格式jpg,jpeg,png,gif,bmp。",
