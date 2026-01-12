@@ -976,9 +976,9 @@
     "tags": [
       "文件解析"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v3.1.0",
-    "updated_at": "2025-12-21T08:19:26Z"
+    "updated_at": "2026-01-12T14:10:39Z"
   },
   "astrbot_plugin_reminder": {
     "display_name": "定时提醒插件",
@@ -1408,7 +1408,7 @@
     ],
     "stars": 6,
     "version": "2.0.9",
-    "updated_at": "2026-01-11T14:10:31Z",
+    "updated_at": "2026-01-12T14:11:05Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -1458,9 +1458,9 @@
       "海啸预警"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 19,
+    "stars": 20,
     "version": "v1.3.1",
-    "updated_at": "2026-01-11T19:25:40Z",
+    "updated_at": "2026-01-12T13:49:03Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -2825,9 +2825,9 @@
       "自动续聊"
     ],
     "social_link": "https://github.com/Luna-channel",
-    "stars": 10,
+    "stars": 11,
     "version": "1.4.2",
-    "updated_at": "2025-12-26T17:26:23Z",
+    "updated_at": "2026-01-12T14:26:13Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_Conversa/main/logo.png"
   },
   "astrbot_plugin_shutdown": {
