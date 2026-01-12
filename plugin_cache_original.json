@@ -4717,9 +4717,9 @@
     "author": "天各一方",
     "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
     "tags": [],
-    "stars": 31,
+    "stars": 32,
     "version": "v1.0.4",
-    "updated_at": "2026-01-01T15:36:46Z"
+    "updated_at": "2026-01-12T05:45:34Z"
   },
   "astrbot_plugin_vtb_adapter": {
     "desc": "用于连接 AstrBot 与 Open LLM Vtuber，除安装插件外还需要修改 Open LLM Vtuber 中的相关文件",
@@ -9368,9 +9368,9 @@
       "webui",
       "图床"
     ],
-    "stars": 117,
+    "stars": 118,
     "version": "v3.19",
-    "updated_at": "2026-01-12T05:37:54Z"
+    "updated_at": "2026-01-12T06:06:05Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
