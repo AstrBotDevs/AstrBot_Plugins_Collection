@@ -195,9 +195,9 @@
       "人格"
     ],
     "social_link": "https://github.com/NickCharlie",
-    "stars": 61,
+    "stars": 62,
     "version": "1.6.1",
-    "updated_at": "2026-01-06T12:03:50Z"
+    "updated_at": "2026-01-12T04:43:10Z"
   },
   "astrbot_plugin_mrfzccl": {
     "display_name": "明日方舟猜猜乐",
@@ -1877,7 +1877,7 @@
     "social_link": "https://box.firefly520.top/",
     "stars": 16,
     "version": "1.4.1",
-    "updated_at": "2026-01-09T15:22:02Z",
+    "updated_at": "2026-01-12T04:05:13Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/master/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -4881,9 +4881,9 @@
     "repo": "https://github.com/zgojin/astrbot_plugin_figurine_workshop",
     "tags": "娱乐",
     "social_link": "astrbot.uk",
-    "stars": 14,
+    "stars": 15,
     "version": "v1.5.1",
-    "updated_at": "2026-01-02T19:30:20Z"
+    "updated_at": "2026-01-12T04:13:31Z"
   },
   "should_I_respond": {
     "desc": "“我要回复这条消息吗？”当打开主动回复时，LLM 可能傻傻的就部分上下文一直回复。这个插件没准能解决这个问题。（在 aiocqhttp 平台测试，需要搭配主动回复功能使用）",
@@ -9327,9 +9327,9 @@
       "功能",
       "搬史"
     ],
-    "stars": 491,
+    "stars": 492,
     "version": "v0.915",
-    "updated_at": "2026-01-11T14:59:42Z"
+    "updated_at": "2026-01-12T04:41:33Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
