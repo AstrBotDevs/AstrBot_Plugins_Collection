@@ -1875,9 +1875,9 @@
       "工具"
     ],
     "social_link": "https://box.firefly520.top/",
-    "stars": 16,
+    "stars": 17,
     "version": "1.4.1",
-    "updated_at": "2026-01-12T04:05:13Z",
+    "updated_at": "2026-01-12T07:30:20Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/master/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -3922,9 +3922,9 @@
       "战斗",
       "抽奖"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v2.0",
-    "updated_at": "2025-09-03T07:41:44Z"
+    "updated_at": "2026-01-12T06:54:45Z"
   },
   "astrbot_plugin_mcman": {
     "desc": "一个基于RCON协议的MC服务器管理器插件",
