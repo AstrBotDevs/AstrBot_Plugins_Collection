@@ -35,8 +35,8 @@
     "tags": [],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 2,
-    "version": "2.1.2",
-    "updated_at": "2026-01-06T14:16:10Z",
+    "version": "2.2.0",
+    "updated_at": "2026-01-12T01:26:25Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_context_aware/main/logo.png"
   },
   "astrbot_plugin_cloudmailapi": {
@@ -1393,9 +1393,9 @@
       "拟人"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 7,
-    "version": "0.1.3",
-    "updated_at": "2025-12-27T06:34:54Z",
+    "stars": 8,
+    "version": "v2.0.0",
+    "updated_at": "2026-01-12T01:10:33Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_life_scheduler/main/logo.png"
   },
   "astrbot_plugin_stealer": {
@@ -1543,9 +1543,9 @@
       "画图"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 20,
+    "stars": 21,
     "version": "v2.1.2",
-    "updated_at": "2026-01-11T17:50:23Z",
+    "updated_at": "2026-01-12T01:39:46Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -1773,9 +1773,9 @@
     ],
     "repo": "https://github.com/Huahuatgc/astrbot_plugin_aicu",
     "social_link": "https://github.com/Huahuatgc",
-    "stars": 5,
+    "stars": 6,
     "version": "2.5.0",
-    "updated_at": "2025-12-20T08:06:52Z",
+    "updated_at": "2026-01-12T01:35:22Z",
     "logo": "https://raw.githubusercontent.com/Huahuatgc/astrbot_plugin_aicu/master/logo.png"
   },
   "astrbot_plugin_ShareholderPerks": {
