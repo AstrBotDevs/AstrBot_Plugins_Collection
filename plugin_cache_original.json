@@ -1291,9 +1291,9 @@
       "链接"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 42,
+    "stars": 43,
     "version": "v1.1.4",
-    "updated_at": "2026-01-10T12:03:45Z",
+    "updated_at": "2026-01-12T10:55:50Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -3720,9 +3720,9 @@
       "视奸"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 14,
+    "stars": 15,
     "version": "1.1.5",
-    "updated_at": "2025-12-18T03:36:41Z"
+    "updated_at": "2026-01-12T10:56:45Z"
   },
   "bmtxt2img": {
     "desc": "通过/bmimg指令调用智谱文生图模型",
@@ -4088,9 +4088,9 @@
     "author": "EraAsh",
     "repo": "https://github.com/EraAsh/astrbot_plugin_admin_emoji_reply",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.7.0",
-    "updated_at": "2025-12-01T07:04:38Z"
+    "updated_at": "2026-01-12T11:19:33Z"
   },
   "astrbot_plugin_dpcq_game": {
     "desc": "一个文字修仙游戏，基于经典小说《斗破苍穹》设定，包含境界突破、炼丹系统、副本挑战等丰富玩法",
@@ -5049,9 +5049,9 @@
       "表情包"
     ],
     "social_link": "https://github.com/SodaSizzle",
-    "stars": 14,
+    "stars": 15,
     "version": "v1.0.0",
-    "updated_at": "2026-01-02T05:01:27Z"
+    "updated_at": "2026-01-12T10:49:44Z"
   },
   "astrbot_plugin_baiduocr": {
     "desc": "百度智能云的 OCR 文字识别服务。新用户有千次的免费调用次数，适合轻度使用",
@@ -5773,8 +5773,8 @@
     ],
     "social_link": "https://github.com/advent259141",
     "stars": 66,
-    "version": "1.3.0",
-    "updated_at": "2026-01-05T12:21:41Z"
+    "version": "1.3.1",
+    "updated_at": "2026-01-12T11:02:58Z"
   },
   "cngal_search": {
     "desc": "CnGal查询",
@@ -6352,9 +6352,9 @@
     "tags": [
       "文字游戏"
     ],
-    "stars": 13,
+    "stars": 14,
     "version": "v1.0.0",
-    "updated_at": "2025-12-03T16:39:42Z",
+    "updated_at": "2026-01-12T10:52:15Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_textadventure/master/logo.png"
   },
   "astrbot_plugin_llmAtTool": {
@@ -6835,9 +6835,9 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 87,
+    "stars": 88,
     "version": "v2.0.5",
-    "updated_at": "2026-01-09T02:48:31Z",
+    "updated_at": "2026-01-12T10:44:14Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -7275,9 +7275,9 @@
       "game",
       "fish"
     ],
-    "stars": 40,
+    "stars": 41,
     "version": "1.4.6",
-    "updated_at": "2025-10-10T11:17:49Z"
+    "updated_at": "2026-01-12T10:45:34Z"
   },
   "astrbot_plugin_bilibili_live": {
     "author": "Raven95676",
@@ -8435,9 +8435,9 @@
     "author": "lm379",
     "repo": "https://github.com/lm379/astrbot_plugin_quarksave",
     "tags": [],
-    "stars": 12,
+    "stars": 13,
     "version": "v1.0.4",
-    "updated_at": "2026-01-04T11:17:15Z"
+    "updated_at": "2026-01-12T11:05:04Z"
   },
   "astrbot_plugins_ConvetPicture": {
     "desc": "[仅aiocqhttp]把QQ里面不可保存的表情转化为可以保存的图片，包括GIF",
@@ -9368,9 +9368,9 @@
       "webui",
       "图床"
     ],
-    "stars": 118,
+    "stars": 119,
     "version": "v3.19",
-    "updated_at": "2026-01-12T06:06:05Z"
+    "updated_at": "2026-01-12T11:08:11Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
