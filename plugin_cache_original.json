@@ -81,9 +81,9 @@
       "jimeng"
     ],
     "social_link": "https://www.misakanet.site",
-    "stars": 1,
-    "version": "v1.0.0",
-    "updated_at": "2025-12-28T09:39:20Z",
+    "stars": 2,
+    "version": "v1.0.1",
+    "updated_at": "2026-01-13T03:21:11Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_image_generation/master/logo.png"
   },
   "astrbot_plugin_group_geetest_verfy": {
@@ -592,9 +592,9 @@
       "三次元",
       "心理委员"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2025-12-31T09:06:12Z"
+    "updated_at": "2026-01-13T03:05:30Z"
   },
   "astrbot_plugin_yt-dlp": {
     "display_name": "yt-dlp网页视频下载",
@@ -782,9 +782,9 @@
       "小游戏"
     ],
     "social_link": "https://github.com/MegSopern",
-    "stars": 12,
+    "stars": 13,
     "version": "1.2.0",
-    "updated_at": "2026-01-12T07:55:28Z",
+    "updated_at": "2026-01-13T02:58:45Z",
     "logo": "https://raw.githubusercontent.com/MegSopern/astrbot_plugin_rollpig/main/logo.png"
   },
   "astrbot_plugin_gitee_zimg": {
@@ -925,9 +925,9 @@
       "主动应答",
       "群聊优化"
     ],
-    "stars": 23,
+    "stars": 24,
     "version": "0.8.8",
-    "updated_at": "2026-01-09T11:23:21Z"
+    "updated_at": "2026-01-13T02:58:57Z"
   },
   "astrbot_plugin_angel_eye": {
     "display_name": "天使之眼",
@@ -1001,9 +1001,9 @@
     "author": "三月",
     "repo": "https://github.com/ASanYueA/astrbot_plugin_binance",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "v0.1.1",
-    "updated_at": "2026-01-10T04:24:35Z",
+    "updated_at": "2026-01-13T03:05:34Z",
     "logo": "https://raw.githubusercontent.com/ASanYueA/astrbot_plugin_binance/main/logo.png"
   },
   "astrbot_plugin_qbittorrent_bridge": {
@@ -1179,9 +1179,9 @@
       "用户识别"
     ],
     "social_link": "https://github.com/Yue-bin",
-    "stars": 5,
+    "stars": 6,
     "version": "v0.0.1",
-    "updated_at": "2026-01-09T18:44:40Z"
+    "updated_at": "2026-01-13T03:28:18Z"
   },
   "astrbot_plugin_plugins_summary": {
     "display_name": "插件目录查询",
@@ -1291,9 +1291,9 @@
       "链接"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 43,
+    "stars": 44,
     "version": "v1.1.4",
-    "updated_at": "2026-01-12T10:55:50Z",
+    "updated_at": "2026-01-13T02:59:08Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -1458,9 +1458,9 @@
       "海啸预警"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 20,
+    "stars": 21,
     "version": "v1.3.1",
-    "updated_at": "2026-01-12T13:49:03Z",
+    "updated_at": "2026-01-13T02:58:52Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -1543,9 +1543,9 @@
       "画图"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 22,
+    "stars": 23,
     "version": "v2.1.2",
-    "updated_at": "2026-01-12T09:44:22Z",
+    "updated_at": "2026-01-13T03:30:56Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -1935,7 +1935,7 @@
     "social_link": "https://www.misakanet.site",
     "stars": 8,
     "version": "v1.3.1",
-    "updated_at": "2026-01-12T11:40:01Z",
+    "updated_at": "2026-01-13T03:39:33Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_gemini_image/master/logo.png"
   },
   "astrbot_plugin_gemini_image_generation": {
@@ -1949,8 +1949,8 @@
     ],
     "social_link": "https://github.com/piexian",
     "stars": 17,
-    "version": "v1.8.2",
-    "updated_at": "2026-01-10T16:16:42Z",
+    "version": "v1.8.3",
+    "updated_at": "2026-01-13T02:15:34Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -4470,9 +4470,9 @@
     "tags": [
       "音乐"
     ],
-    "stars": 7,
+    "stars": 8,
     "version": "2.1.1",
-    "updated_at": "2025-12-28T03:15:55Z"
+    "updated_at": "2026-01-13T02:59:01Z"
   },
   "astrbot_plugin_slg": {
     "desc": "用astrbot玩slg",
@@ -4615,9 +4615,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 120,
+    "stars": 121,
     "version": "v4.5.6",
-    "updated_at": "2026-01-13T01:11:19Z",
+    "updated_at": "2026-01-13T02:58:47Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -4717,9 +4717,9 @@
     "author": "天各一方",
     "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
     "tags": [],
-    "stars": 33,
+    "stars": 34,
     "version": "v1.0.4",
-    "updated_at": "2026-01-12T10:27:55Z"
+    "updated_at": "2026-01-13T02:58:56Z"
   },
   "astrbot_plugin_vtb_adapter": {
     "desc": "用于连接 AstrBot 与 Open LLM Vtuber，除安装插件外还需要修改 Open LLM Vtuber 中的相关文件",
@@ -4759,9 +4759,9 @@
       "群管"
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
-    "stars": 11,
+    "stars": 12,
     "version": "v1.5",
-    "updated_at": "2025-12-31T11:49:02Z"
+    "updated_at": "2026-01-13T02:58:42Z"
   },
   "command_to_llm": {
     "desc": "将指令（比如/help）转换为LLM函数（比如 get_help）调用，让AI能够通过LLM函数执行其他插件的指令，支持动态添加和管理指令映射",
@@ -4905,9 +4905,9 @@
       "手办化"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 158,
+    "stars": 159,
     "version": "v2.1.3",
-    "updated_at": "2026-01-02T23:09:45Z",
+    "updated_at": "2026-01-13T02:59:10Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_lmarena/main/logo.png"
   },
   "astrbot_plugin_Mirecraft_motd": {
@@ -5261,9 +5261,9 @@
       "表白墙"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 49,
+    "stars": 50,
     "version": "v2.2.9",
-    "updated_at": "2026-01-09T08:29:46Z",
+    "updated_at": "2026-01-13T02:59:12Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -5284,9 +5284,9 @@
       "撤回"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 14,
+    "stars": 15,
     "version": "v1.0.2",
-    "updated_at": "2026-01-06T12:57:52Z",
+    "updated_at": "2026-01-13T02:59:04Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_recall/main/logo.png"
   },
   "astrbot_plugin_record_converter": {
@@ -6835,9 +6835,9 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 88,
+    "stars": 89,
     "version": "v2.0.5",
-    "updated_at": "2026-01-12T10:44:14Z",
+    "updated_at": "2026-01-13T02:59:15Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -7135,9 +7135,9 @@
     "repo": "https://github.com/Zhalslar/astrbot_plugin_search_video",
     "social_link": "https://github.com/Zhalslar",
     "tags": [],
-    "stars": 38,
+    "stars": 39,
     "version": "v1.1.1",
-    "updated_at": "2026-01-08T06:17:36Z",
+    "updated_at": "2026-01-13T02:59:06Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_search_video/main/logo.png"
   },
   "astrbot_plugin_zt": {
@@ -7305,9 +7305,9 @@
       "词云"
     ],
     "social_link": "https://github.com/GEMILUXVII",
-    "stars": 22,
+    "stars": 23,
     "version": "v2.0.2",
-    "updated_at": "2025-12-30T08:01:38Z"
+    "updated_at": "2026-01-13T02:58:59Z"
   },
   "astrbot_plugin_liblibapi": {
     "author": "machinad",
@@ -9265,9 +9265,9 @@
       "主动回复"
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-    "stars": 91,
+    "stars": 92,
     "version": "v2.1.10",
-    "updated_at": "2026-01-09T11:23:20Z"
+    "updated_at": "2026-01-13T02:58:51Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
@@ -9575,9 +9575,9 @@
     "author": "Soulter",
     "repo": "https://github.com/Soulter/astrbot_plugin_essential",
     "tags": [],
-    "stars": 35,
+    "stars": 36,
     "version": "v1.1.0",
-    "updated_at": "2026-01-12T16:57:21Z"
+    "updated_at": "2026-01-13T02:58:54Z"
   },
   "astrbot_plugin_rss": {
     "desc": "支持通过 RSSHub 路由和直接 URL 订阅 RSS 源，并定时获取最新的 RSS 内容，如推特、B站、油管、博客等任何支持 RSS 2.0 的网站。",
@@ -9954,9 +9954,9 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 159,
+    "stars": 160,
     "version": "v2.0.15",
-    "updated_at": "2026-01-07T11:46:58Z"
+    "updated_at": "2026-01-13T02:58:50Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
