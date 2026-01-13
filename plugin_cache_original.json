@@ -100,7 +100,7 @@
     "social_link": "https://github.com/VanillaNahida/",
     "stars": 7,
     "version": "v1.1.4",
-    "updated_at": "2026-01-12T09:13:26Z",
+    "updated_at": "2026-01-13T07:48:18Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_geetest_verify/master/logo.png"
   },
   "astrbot_plugin_cliproxy_stats": {
@@ -195,9 +195,9 @@
       "人格"
     ],
     "social_link": "https://github.com/NickCharlie",
-    "stars": 63,
+    "stars": 64,
     "version": "Next-1.1.0",
-    "updated_at": "2026-01-13T07:19:49Z",
+    "updated_at": "2026-01-13T08:21:34Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrabot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -2297,9 +2297,9 @@
       "Minecraft"
     ],
     "social_link": "https://www.misakanet.site",
-    "stars": 4,
+    "stars": 5,
     "version": "1.2.0",
-    "updated_at": "2026-01-03T07:55:01Z",
+    "updated_at": "2026-01-13T08:07:54Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_minecraft_adapter/master/logo.png"
   },
   "astrbot_plugin_minecraft_monitor": {
@@ -2852,9 +2852,9 @@
       "主动回复"
     ],
     "social_link": "https://github.com/Him666233",
-    "stars": 27,
+    "stars": 28,
     "version": "v1.1.2",
-    "updated_at": "2026-01-12T19:45:05Z",
+    "updated_at": "2026-01-13T08:21:36Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -3634,8 +3634,8 @@
       "群文件"
     ],
     "stars": 0,
-    "version": "v1.7.1",
-    "updated_at": "2026-01-11T05:37:28Z",
+    "version": "v1.8.0",
+    "updated_at": "2026-01-13T07:45:49Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_file_checker/master/logo.png"
   },
   "astrbot_plugin_tg_button": {
@@ -3935,9 +3935,9 @@
       "Minecraft"
     ],
     "social_link": "https://kdja.top",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.2",
-    "updated_at": "2025-11-08T10:27:32Z"
+    "updated_at": "2026-01-13T08:07:50Z"
   },
   "astrbot_plugin_nbnhhsh": {
     "desc": "神奇海螺缩写查询，支持“XX是什么/是啥/是什么意思”提问，需先@机器人",
@@ -4617,8 +4617,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 121,
-    "version": "v4.5.7",
-    "updated_at": "2026-01-13T07:27:21Z",
+    "version": "v4.5.8",
+    "updated_at": "2026-01-13T08:36:26Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -4919,9 +4919,9 @@
       "Minecraft",
       "motd"
     ],
-    "stars": 3,
+    "stars": 4,
     "version": "v2.0.0",
-    "updated_at": "2025-10-30T01:31:06Z"
+    "updated_at": "2026-01-13T08:07:40Z"
   },
   "astrbot-plugin-huaer-bot": {
     "desc": "基于 SiliconFlow API 的多组群聊天插件，支持人格设定、Markdown 显示、联网搜索、检索增强生成（RAG）等功能",
@@ -7658,9 +7658,9 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 127,
+    "stars": 128,
     "version": "v2.0.6",
-    "updated_at": "2026-01-13T06:02:49Z",
+    "updated_at": "2026-01-13T08:06:00Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
