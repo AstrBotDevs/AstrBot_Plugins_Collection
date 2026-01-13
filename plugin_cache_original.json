@@ -197,7 +197,7 @@
     "social_link": "https://github.com/NickCharlie",
     "stars": 63,
     "version": "Next-1.1.0",
-    "updated_at": "2026-01-13T06:24:07Z",
+    "updated_at": "2026-01-13T07:19:49Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrabot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -338,9 +338,9 @@
     "author": "gabriel0721",
     "repo": "https://github.com/TenmaGabriel0721/astrbot_plugin_command_query",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "2.1.0",
-    "updated_at": "2025-12-30T18:23:25Z"
+    "updated_at": "2026-01-13T06:39:54Z"
   },
   "astrbot_plugin_maa": {
     "display_name": "MAA 远程控制",
@@ -4617,8 +4617,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 121,
-    "version": "v4.5.6",
-    "updated_at": "2026-01-13T02:58:47Z",
+    "version": "v4.5.7",
+    "updated_at": "2026-01-13T07:27:21Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -8784,9 +8784,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
-    "stars": 75,
+    "stars": 76,
     "version": "v3.0.3",
-    "updated_at": "2026-01-09T09:41:09Z",
+    "updated_at": "2026-01-13T06:57:16Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
@@ -8892,7 +8892,7 @@
     ],
     "stars": 28,
     "version": "v2.2.4",
-    "updated_at": "2026-01-09T18:35:19Z",
+    "updated_at": "2026-01-13T07:37:28Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
