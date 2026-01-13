@@ -132,7 +132,7 @@
   "astrbot_plugin_self_learning": {
     "desc": "智能自学习对话插件 - 通过实时消息捕获、多维度数据分析、渐进式学习机制和动态人格更新以及社交关系网络，使聊天机器人能够模仿特定用户的对话，实现更自然、个性化的交互",
     "author": "NickMo",
-    "repo": "https://github.com/NickCharlie/astrabot_plugin_self_learning",
+    "repo": "https://github.com/NickCharlie/astrbot_plugin_self_learning",
     "tags": [
       "模仿",
       "学习",
