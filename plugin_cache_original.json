@@ -98,9 +98,9 @@
       "网页验证"
     ],
     "social_link": "https://github.com/VanillaNahida/",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.1.4",
-    "updated_at": "2026-01-13T15:07:11Z",
+    "updated_at": "2026-01-13T22:21:38Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_geetest_verify/master/logo.png"
   },
   "astrbot_plugin_cliproxy_stats": {
@@ -965,9 +965,9 @@
       "图片"
     ],
     "social_link": "3268514224",
-    "stars": 0,
+    "stars": 1,
     "version": "1.6.6",
-    "updated_at": "2025-12-19T13:27:08Z"
+    "updated_at": "2026-01-13T22:24:12Z"
   },
   "astrbot_plugin_file_reader_pro": {
     "display_name": "文件读取插件（File Reader Pro）",
@@ -6055,9 +6055,9 @@
       "余票"
     ],
     "author": "satori5555",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0",
-    "updated_at": "2025-09-08T15:30:27Z"
+    "updated_at": "2026-01-13T21:41:15Z"
   },
   "astrbot_plugin_78animesearch": {
     "desc": "通过 `/78dm [关键词]` 命令在 78动漫模型网搜索模玩信息",
@@ -6971,9 +6971,9 @@
     "desc": "一款灵活高效的文本转图片工具，让文字呈现更具视觉张力",
     "repo": "https://github.com/wuyan1003/astrbot_plugin_text2image",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2025-05-23T13:02:36Z"
+    "updated_at": "2026-01-13T22:35:37Z"
   },
   "astrbot_plugin_angus": {
     "author": "angus-fw",
