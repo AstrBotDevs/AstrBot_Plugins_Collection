@@ -308,7 +308,7 @@
     "social_link": "https://github.com/stevessr",
     "stars": 4,
     "version": "0.2.7",
-    "updated_at": "2026-01-13T12:56:08Z",
+    "updated_at": "2026-01-13T16:16:44Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_url_image_auto": {
@@ -2363,9 +2363,9 @@
     "tags": [
       "MC"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.1.2",
-    "updated_at": "2025-12-20T06:39:55Z",
+    "updated_at": "2026-01-13T15:34:12Z",
     "logo": "https://raw.githubusercontent.com/SatellIta/astrbot_plugin_minecraft_skin_render/master/logo.png"
   },
   "astrbot_plugin_picstatus": {
@@ -3956,9 +3956,9 @@
       "game",
       "fishing"
     ],
-    "stars": 26,
+    "stars": 27,
     "version": "2.4.7",
-    "updated_at": "2025-12-25T11:16:45Z",
+    "updated_at": "2026-01-13T16:41:22Z",
     "logo": "https://raw.githubusercontent.com/xxlemon-io/astrbot_plugin_fishing/main/logo.png"
   },
   "astrbot_plugin_astrmetry": {
@@ -4356,8 +4356,8 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
     "stars": 35,
-    "version": "v1.8.0",
-    "updated_at": "2026-01-13T13:12:18Z"
+    "version": "v1.8.1",
+    "updated_at": "2026-01-13T16:42:15Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -8784,9 +8784,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
-    "stars": 76,
+    "stars": 77,
     "version": "v3.0.3",
-    "updated_at": "2026-01-13T06:57:16Z",
+    "updated_at": "2026-01-13T16:17:57Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
