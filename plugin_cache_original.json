@@ -23,9 +23,9 @@
       "工具"
     ],
     "social_link": "https://github.com/lxfight",
-    "stars": 4,
+    "stars": 5,
     "version": "1.1.0",
-    "updated_at": "2026-01-08T15:52:23Z"
+    "updated_at": "2026-01-13T06:34:16Z"
   },
   "astrbot_plugin_context_aware": {
     "display_name": "上下文场景感知增强",
@@ -195,9 +195,10 @@
       "人格"
     ],
     "social_link": "https://github.com/NickCharlie",
-    "stars": 62,
-    "version": "1.6.1",
-    "updated_at": "2026-01-12T04:43:10Z"
+    "stars": 63,
+    "version": "Next-1.1.0",
+    "updated_at": "2026-01-13T06:24:07Z",
+    "logo": "https://raw.githubusercontent.com/NickCharlie/astrabot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
     "display_name": "明日方舟猜猜乐",
@@ -782,9 +783,9 @@
       "小游戏"
     ],
     "social_link": "https://github.com/MegSopern",
-    "stars": 13,
+    "stars": 14,
     "version": "1.2.0",
-    "updated_at": "2026-01-13T02:58:45Z",
+    "updated_at": "2026-01-13T05:43:08Z",
     "logo": "https://raw.githubusercontent.com/MegSopern/astrbot_plugin_rollpig/main/logo.png"
   },
   "astrbot_plugin_gitee_zimg": {
@@ -2140,9 +2141,9 @@
       "热搜",
       "图片"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.2",
-    "updated_at": "2025-12-20T00:55:17Z",
+    "updated_at": "2026-01-13T06:18:46Z",
     "logo": "https://raw.githubusercontent.com/ningyou8023/astrbot_plugin_hotsearch/main/logo.png"
   },
   "astrbot_plugin_infinite_dialogue": {
@@ -4905,9 +4906,9 @@
       "手办化"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 159,
+    "stars": 160,
     "version": "v2.1.3",
-    "updated_at": "2026-01-13T02:59:10Z",
+    "updated_at": "2026-01-13T06:02:41Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_lmarena/main/logo.png"
   },
   "astrbot_plugin_Mirecraft_motd": {
@@ -5652,9 +5653,9 @@
     "tags": [
       "娱乐"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "0.0.2",
-    "updated_at": "2025-09-01T09:20:57Z"
+    "updated_at": "2026-01-13T06:04:37Z"
   },
   "LiteBridge": {
     "name": "LiteBridge",
@@ -6194,9 +6195,9 @@
       "GitHub",
       "病娇"
     ],
-    "stars": 8,
+    "stars": 7,
     "version": "v1.1.1",
-    "updated_at": "2025-10-17T12:35:07Z"
+    "updated_at": "2026-01-13T06:24:01Z"
   },
   "tron_address": {
     "author": "xinghanxu",
@@ -6835,9 +6836,9 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 89,
+    "stars": 90,
     "version": "v2.0.5",
-    "updated_at": "2026-01-13T02:59:15Z",
+    "updated_at": "2026-01-13T06:02:55Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -7657,9 +7658,9 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 126,
+    "stars": 127,
     "version": "v2.0.6",
-    "updated_at": "2026-01-12T16:15:04Z",
+    "updated_at": "2026-01-13T06:02:49Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -8357,9 +8358,9 @@
     "tags": [
       "QQ群管"
     ],
-    "stars": 80,
+    "stars": 81,
     "version": "v3.2.7",
-    "updated_at": "2026-01-09T08:13:20Z",
+    "updated_at": "2026-01-13T06:03:20Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
