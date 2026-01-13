@@ -277,8 +277,8 @@
     ],
     "social_link": "https://github.com/Clhikari",
     "stars": 1,
-    "version": "v1.1.2",
-    "updated_at": "2026-01-06T13:40:37Z",
+    "version": "v1.2.0",
+    "updated_at": "2026-01-13T10:10:22Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -1459,9 +1459,9 @@
       "海啸预警"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 21,
+    "stars": 22,
     "version": "v1.3.1",
-    "updated_at": "2026-01-13T02:58:52Z",
+    "updated_at": "2026-01-13T09:53:03Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
