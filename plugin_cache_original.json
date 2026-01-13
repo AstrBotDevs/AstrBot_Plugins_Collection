@@ -233,9 +233,9 @@
       "负载均衡",
       "故障转移"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "1.2.0",
-    "updated_at": "2026-01-07T09:27:27Z",
+    "updated_at": "2026-01-13T00:54:15Z",
     "logo": "https://raw.githubusercontent.com/fluidcat/astrbot_plugin_lb_provider/master/logo.png"
   },
   "astrbot_plugin_steam_status": {
@@ -4615,9 +4615,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 119,
+    "stars": 120,
     "version": "v4.5.6",
-    "updated_at": "2026-01-12T09:16:19Z",
+    "updated_at": "2026-01-13T01:11:19Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
