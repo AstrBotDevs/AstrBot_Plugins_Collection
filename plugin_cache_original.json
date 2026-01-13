@@ -1459,9 +1459,9 @@
       "海啸预警"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 22,
+    "stars": 23,
     "version": "v1.3.1",
-    "updated_at": "2026-01-13T09:53:03Z",
+    "updated_at": "2026-01-13T13:46:52Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -5617,7 +5617,7 @@
     ],
     "stars": 1,
     "version": "3.4",
-    "updated_at": "2025-09-03T14:17:28Z"
+    "updated_at": "2026-01-13T13:53:25Z"
   },
   "astrbot_plugin_LLMTempBan": {
     "desc": "让 Bot 学会主动拉黑或者通过管理员指令拉黑。",
@@ -9640,9 +9640,9 @@
     "author": "Camreishi",
     "repo": "https://github.com/Camreishi/astrbot_plugin_wol",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.1",
-    "updated_at": "2025-02-03T07:17:41Z"
+    "updated_at": "2026-01-13T14:38:26Z"
   },
   "astrbot_plugin_SDGen": {
     "desc": "Stable Diffusion WebUI图片生成插件，/sd help 查看帮助",
