@@ -308,7 +308,7 @@
     "social_link": "https://github.com/stevessr",
     "stars": 4,
     "version": "0.2.7",
-    "updated_at": "2026-01-13T12:18:25Z",
+    "updated_at": "2026-01-13T12:56:08Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_url_image_auto": {
@@ -3128,9 +3128,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 64,
+    "stars": 65,
     "version": "v1.1.3",
-    "updated_at": "2026-01-11T19:27:51Z",
+    "updated_at": "2026-01-13T13:46:43Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -4346,9 +4346,9 @@
       "黑名单",
       "错误"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "1.1.0",
-    "updated_at": "2025-09-08T04:03:52Z"
+    "updated_at": "2026-01-13T13:24:53Z"
   },
   "astrbot_plugin_shoubanhua": {
     "desc": "通过第三方api，实现手办化、cos化等等功能",
@@ -4356,8 +4356,8 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
     "stars": 35,
-    "version": "v1.7.6",
-    "updated_at": "2025-12-24T13:29:48Z"
+    "version": "v1.8.0",
+    "updated_at": "2026-01-13T13:12:18Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
