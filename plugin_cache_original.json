@@ -34,9 +34,9 @@
     "repo": "https://github.com/muyouzhi6/astrbot_plugin_context_aware",
     "tags": [],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 3,
+    "stars": 4,
     "version": "2.2.0",
-    "updated_at": "2026-01-12T16:23:10Z",
+    "updated_at": "2026-01-13T05:08:00Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_context_aware/main/logo.png"
   },
   "astrbot_plugin_cloudmailapi": {
@@ -138,9 +138,9 @@
       "游戏"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0.3",
-    "updated_at": "2026-01-09T15:37:07Z",
+    "updated_at": "2026-01-13T05:01:19Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_minesweeper/main/logo.png"
   },
   "astrbot_plugin_debounce": {
@@ -5642,7 +5642,7 @@
     ],
     "stars": 5,
     "version": "v1.3.2",
-    "updated_at": "2026-01-12T13:27:31Z",
+    "updated_at": "2026-01-13T05:26:39Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -8844,9 +8844,9 @@
       "撤回",
       "禁言"
     ],
-    "stars": 4,
+    "stars": 5,
     "version": "v0.1.7",
-    "updated_at": "2026-01-12T08:51:03Z"
+    "updated_at": "2026-01-13T05:32:32Z"
   },
   "astrbot_plugin_custom_menu": {
     "desc": "自定义菜单图片，图片放置在 menu 目录下，支持格式jpg,jpeg,png,gif,bmp。",
