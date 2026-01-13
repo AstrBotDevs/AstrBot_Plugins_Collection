@@ -188,7 +188,7 @@
   "astrbot_plugin_self_learning": {
     "desc": "智能自学习对话插件 - 通过实时消息捕获、多维度数据分析、渐进式学习机制和动态人格更新以及社交关系网络，使聊天机器人能够模仿特定用户的对话，实现更自然、个性化的交互",
     "author": "NickMo",
-    "repo": "https://github.com/NickCharlie/astrabot_plugin_self_learning",
+    "repo": "https://github.com/NickCharlie/astrbot_plugin_self_learning",
     "tags": [
       "模仿",
       "学习",
@@ -198,7 +198,7 @@
     "stars": 64,
     "version": "Next-1.1.0",
     "updated_at": "2026-01-13T08:21:34Z",
-    "logo": "https://raw.githubusercontent.com/NickCharlie/astrabot_plugin_self_learning/main/logo.png"
+    "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
     "display_name": "明日方舟猜猜乐",
@@ -308,7 +308,7 @@
     "social_link": "https://github.com/stevessr",
     "stars": 4,
     "version": "0.2.7",
-    "updated_at": "2026-01-09T16:15:55Z",
+    "updated_at": "2026-01-13T12:18:25Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_url_image_auto": {
@@ -1280,7 +1280,7 @@
     ],
     "stars": 1,
     "version": "v1.1.8",
-    "updated_at": "2026-01-09T01:54:19Z"
+    "updated_at": "2026-01-13T12:05:50Z"
   },
   "astrbot_plugin_parser": {
     "display_name": "万能解析器",
@@ -3798,8 +3798,8 @@
       "群文件"
     ],
     "stars": 4,
-    "version": "v1.0",
-    "updated_at": "2026-01-10T06:18:48Z",
+    "version": "v1.1",
+    "updated_at": "2026-01-13T12:00:10Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_GroupFS/master/logo.png"
   },
   "group_notice_manager": {
@@ -7833,9 +7833,9 @@
       "pixiv"
     ],
     "social_link": "https://github.com/vmoranv-reborn",
-    "stars": 3,
+    "stars": 4,
     "version": "1.4.3",
-    "updated_at": "2026-01-12T03:15:43Z",
+    "updated_at": "2026-01-13T12:42:54Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
