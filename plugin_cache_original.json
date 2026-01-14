@@ -4448,8 +4448,8 @@
       "记录"
     ],
     "stars": 2,
-    "version": "v1.0.2",
-    "updated_at": "2025-11-27T04:06:51Z"
+    "version": "v1.0.3",
+    "updated_at": "2026-01-14T08:00:26Z"
   },
   "astrbot_plugin_snap_translator": {
     "desc": "自动获取并翻译 Marvel Snap 开发者问答",
