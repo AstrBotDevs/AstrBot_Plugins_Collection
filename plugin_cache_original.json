@@ -35,8 +35,8 @@
     "tags": [],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 4,
-    "version": "2.2.0",
-    "updated_at": "2026-01-13T05:08:00Z",
+    "version": "2.2.2",
+    "updated_at": "2026-01-14T12:32:17Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_context_aware/main/logo.png"
   },
   "astrbot_plugin_cloudmailapi": {
@@ -308,7 +308,7 @@
     "social_link": "https://github.com/stevessr",
     "stars": 4,
     "version": "0.2.8",
-    "updated_at": "2026-01-14T10:46:47Z",
+    "updated_at": "2026-01-14T11:34:06Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_url_image_auto": {
@@ -1409,7 +1409,7 @@
     ],
     "stars": 6,
     "version": "2.1.0",
-    "updated_at": "2026-01-12T15:57:34Z",
+    "updated_at": "2026-01-14T12:04:20Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -1545,8 +1545,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 23,
-    "version": "v2.2.2",
-    "updated_at": "2026-01-14T11:19:28Z",
+    "version": "v2.2.3",
+    "updated_at": "2026-01-14T12:40:29Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -2297,9 +2297,9 @@
       "Minecraft"
     ],
     "social_link": "https://www.misakanet.site",
-    "stars": 5,
+    "stars": 6,
     "version": "1.2.0",
-    "updated_at": "2026-01-13T08:07:54Z",
+    "updated_at": "2026-01-14T11:47:41Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_minecraft_adapter/master/logo.png"
   },
   "astrbot_plugin_minecraft_monitor": {
@@ -4966,9 +4966,9 @@
       "token",
       "llm"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "0.1.0",
-    "updated_at": "2025-12-29T21:02:17Z"
+    "updated_at": "2026-01-14T12:50:04Z"
   },
   "astrbot_plugin_steam_topsellers": {
     "desc": "获取 Steam 热销榜前 5 名游戏",
@@ -9328,9 +9328,9 @@
       "功能",
       "搬史"
     ],
-    "stars": 493,
+    "stars": 494,
     "version": "v0.915",
-    "updated_at": "2026-01-14T05:11:47Z"
+    "updated_at": "2026-01-14T11:50:10Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
