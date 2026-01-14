@@ -195,9 +195,9 @@
       "人格"
     ],
     "social_link": "https://github.com/NickCharlie",
-    "stars": 72,
+    "stars": 73,
     "version": "Next-1.1.0",
-    "updated_at": "2026-01-14T06:30:24Z",
+    "updated_at": "2026-01-14T09:16:40Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -308,7 +308,7 @@
     "social_link": "https://github.com/stevessr",
     "stars": 4,
     "version": "0.2.7",
-    "updated_at": "2026-01-13T16:16:44Z",
+    "updated_at": "2026-01-14T09:20:55Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_url_image_auto": {
@@ -1877,8 +1877,8 @@
     ],
     "social_link": "https://box.firefly520.top/",
     "stars": 17,
-    "version": "1.4.1",
-    "updated_at": "2026-01-12T07:30:20Z",
+    "version": "1.4.2",
+    "updated_at": "2026-01-14T09:29:21Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/master/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
