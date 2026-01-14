@@ -8093,8 +8093,8 @@
     ],
     "social_link": "https://github.com/waterfeet",
     "stars": 3,
-    "version": "v2.1",
-    "updated_at": "2025-05-27T04:59:28Z"
+    "version": "v2.2",
+    "updated_at": "2026-01-14T05:28:09Z"
   },
   "astrbot_plugin_dajiao": {
     "author": "灵煞",
@@ -8547,9 +8547,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
-    "stars": 43,
+    "stars": 44,
     "version": "v2.0.1",
-    "updated_at": "2026-01-12T18:46:13Z",
+    "updated_at": "2026-01-14T05:09:37Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
@@ -9328,9 +9328,9 @@
       "功能",
       "搬史"
     ],
-    "stars": 492,
+    "stars": 493,
     "version": "v0.915",
-    "updated_at": "2026-01-12T04:41:33Z"
+    "updated_at": "2026-01-14T05:11:47Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
