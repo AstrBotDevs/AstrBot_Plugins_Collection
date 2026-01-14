@@ -195,9 +195,9 @@
       "人格"
     ],
     "social_link": "https://github.com/NickCharlie",
-    "stars": 73,
+    "stars": 74,
     "version": "Next-1.1.0",
-    "updated_at": "2026-01-14T09:16:40Z",
+    "updated_at": "2026-01-14T15:11:07Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -1124,7 +1124,7 @@
     ],
     "stars": 5,
     "version": "v2.3.1",
-    "updated_at": "2026-01-13T17:31:47Z",
+    "updated_at": "2026-01-14T14:34:01Z",
     "logo": "https://raw.githubusercontent.com/wangyingxuan383-ai/astrbot_plugin_pet_market/main/logo.png"
   },
   "astrbot_plugin_anuneko": {
@@ -3593,8 +3593,8 @@
     "repo": "https://github.com/BGYdook/AstrBot-plugin-tmp-bot",
     "tags": [],
     "stars": 3,
-    "version": "1.6.9",
-    "updated_at": "2026-01-11T07:46:29Z"
+    "version": "1.7.0",
+    "updated_at": "2026-01-14T15:03:14Z"
   },
   "astrbot_plugin_33recognition": {
     "desc": "调用大模型检测图片中关键词",
