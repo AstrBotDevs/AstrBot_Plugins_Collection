@@ -5615,9 +5615,9 @@
       "以图搜图",
       "找出处"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "3.4",
-    "updated_at": "2026-01-13T13:53:25Z"
+    "updated_at": "2026-01-14T18:48:50Z"
   },
   "astrbot_plugin_LLMTempBan": {
     "desc": "让 Bot 学会主动拉黑或者通过管理员指令拉黑。",
