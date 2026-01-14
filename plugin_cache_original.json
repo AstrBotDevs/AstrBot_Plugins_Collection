@@ -307,8 +307,8 @@
     ],
     "social_link": "https://github.com/stevessr",
     "stars": 4,
-    "version": "0.2.7",
-    "updated_at": "2026-01-14T09:20:55Z",
+    "version": "0.2.8",
+    "updated_at": "2026-01-14T10:46:47Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_url_image_auto": {
@@ -1545,8 +1545,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 23,
-    "version": "v2.1.2",
-    "updated_at": "2026-01-13T09:24:29Z",
+    "version": "v2.2.2",
+    "updated_at": "2026-01-14T11:19:28Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -3799,7 +3799,7 @@
     ],
     "stars": 4,
     "version": "v1.1",
-    "updated_at": "2026-01-13T12:00:10Z",
+    "updated_at": "2026-01-14T11:09:18Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_GroupFS/master/logo.png"
   },
   "group_notice_manager": {
