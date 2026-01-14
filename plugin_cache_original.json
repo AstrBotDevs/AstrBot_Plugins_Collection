@@ -504,9 +504,9 @@
       "下载"
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
-    "stars": 22,
+    "stars": 23,
     "version": "v1.1",
-    "updated_at": "2026-01-12T02:22:36Z"
+    "updated_at": "2026-01-14T03:00:33Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -1950,8 +1950,8 @@
     ],
     "social_link": "https://github.com/piexian",
     "stars": 17,
-    "version": "v1.8.3",
-    "updated_at": "2026-01-13T02:15:34Z",
+    "version": "v1.8.4",
+    "updated_at": "2026-01-14T02:22:24Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -3574,9 +3574,9 @@
       "审核",
       "审查"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.2.1",
-    "updated_at": "2025-12-24T12:28:12Z"
+    "updated_at": "2026-01-14T02:55:41Z"
   },
   "astrbot_quotes_plugin": {
     "desc": "语录插件。记录 QQ 群友说过的话。",
@@ -4906,9 +4906,9 @@
       "手办化"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 160,
+    "stars": 161,
     "version": "v2.1.3",
-    "updated_at": "2026-01-13T06:02:41Z",
+    "updated_at": "2026-01-14T03:07:50Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_lmarena/main/logo.png"
   },
   "astrbot_plugin_Mirecraft_motd": {
