@@ -23,6 +23,36 @@
     "tags": [],
     "social_link": "https://github.com/muyouzhi6"
   },
+  "astrbot_plugin_STEmbedding": {
+    "display_name": "本地SentenceTransformer编码器",
+    "desc": "一个基于本地SentenceTransformer的嵌入模型提供商实现",
+    "author": "lishining",
+    "repo": "https://github.com/Li-shi-ling/astrbot_plugin_STEmbedding",
+    "tags": [
+      "嵌入模型"
+    ]
+  },
+  "BUGJI/astrbot_plugin_balance": {
+    "display_name": "模型提供商余额查询",
+    "desc": "一个万能模型提供商余额查询插件，支持YAML配置，兼容90%的官方API",
+    "author": "BUGJI",
+    "repo": "https://github.com/BUGJI/astrbot_plugin_balance",
+    "tags": [
+      "余额"
+    ]
+  },
+  "astrbot_plugin_PersonaFlow": {
+    "display_name": "astrbot_plugin_PersonaFlow",
+    "desc": "由ai总结人物关系到数据库，实现ai自主更新人格设定",
+    "author": "yizyin",
+    "repo": "https://github.com/yizyin2/astrbot_plugin_PersonaFlow"
+  },
+  "astrbot_plugin_safety": {
+    "display_name": "✌️ 又活一天",
+    "desc": "监控用户活跃状态。如果用户在设定时间内未在群内或私聊中发言，插件将自动触发分级预警机制",
+    "author": "shskjw",
+    "repo": "https://github.com/shskjw/astrbot_plugin_safety"
+  },
   "astrbot_plugin_cloudmailapi": {
     "display_name": "CloudMail 邮箱 API 工具",
     "desc": "对接CloudMail邮件系统API，支持自助注册、登录及查信（仅测试napcat）",
