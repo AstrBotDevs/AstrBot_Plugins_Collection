@@ -9392,9 +9392,9 @@
     "author": "anka",
     "repo": "https://github.com/anka-afk/astrbot_plugin_humanlike",
     "tags": [],
-    "stars": 26,
+    "stars": 27,
     "version": "v0.2.2",
-    "updated_at": "2025-12-31T13:13:25Z"
+    "updated_at": "2026-01-15T21:45:50Z"
   },
   "astrbot_plugin_blue_archive": {
     "desc": "蔚蓝档案攻略查询 - 指令格式：攻略查询 <攻略名称>",
