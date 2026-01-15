@@ -1544,9 +1544,9 @@
       "画图"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 25,
+    "stars": 26,
     "version": "v2.4.0",
-    "updated_at": "2026-01-15T07:04:19Z",
+    "updated_at": "2026-01-15T07:49:58Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -3978,9 +3978,9 @@
     "repo": "https://github.com/Chris95743/astrbot_plugin_VITS_pro",
     "social_link": "https://voice.gbkgov.cn",
     "tags": [],
-    "stars": 14,
+    "stars": 15,
     "version": "v1.9.0",
-    "updated_at": "2025-12-17T04:55:16Z"
+    "updated_at": "2026-01-15T08:12:20Z"
   },
   "astrbot_plugin_blacklist_tools": {
     "desc": "允许管理员和 LLM 将用户添加到黑名单中，阻止他们的消息，自动拉黑！",
@@ -6467,7 +6467,7 @@
     "repo": "https://github.com/itismygo/astrbot_plugin_mathjax2image",
     "stars": 2,
     "version": "v2.0.0",
-    "updated_at": "2026-01-15T07:28:20Z"
+    "updated_at": "2026-01-15T08:28:49Z"
   },
   "astrbot_plugin_xyzw_box": {
     "author": "cloudcranesss",
@@ -8094,7 +8094,8 @@
     "social_link": "https://github.com/waterfeet",
     "stars": 3,
     "version": "v2.2",
-    "updated_at": "2026-01-14T05:28:09Z"
+    "updated_at": "2026-01-15T07:56:27Z",
+    "logo": "https://raw.githubusercontent.com/waterfeet/astrbot_plugin_goldprice/master/logo.png"
   },
   "astrbot_plugin_dajiao": {
     "author": "灵煞",
