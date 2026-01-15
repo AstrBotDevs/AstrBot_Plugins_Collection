@@ -23,9 +23,9 @@
       "工具"
     ],
     "social_link": "https://github.com/lxfight",
-    "stars": 5,
+    "stars": 6,
     "version": "1.1.0",
-    "updated_at": "2026-01-13T06:34:16Z"
+    "updated_at": "2026-01-15T11:35:53Z"
   },
   "astrbot_plugin_context_aware": {
     "display_name": "上下文场景感知增强",
@@ -142,9 +142,9 @@
       "网页验证"
     ],
     "social_link": "https://github.com/VanillaNahida/",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.1.5",
-    "updated_at": "2026-01-15T08:59:16Z",
+    "updated_at": "2026-01-15T11:26:30Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_geetest_verify/master/logo.png"
   },
   "astrbot_plugin_cliproxy_stats": {
@@ -6295,8 +6295,8 @@
     "repo": "https://github.com/sa1guu/astrbot_plugin_touchi",
     "tags": [],
     "stars": 33,
-    "version": "v2.8.1",
-    "updated_at": "2026-01-05T08:29:41Z",
+    "version": "v2.8.2",
+    "updated_at": "2026-01-15T12:24:02Z",
     "logo": "https://raw.githubusercontent.com/sa1guu/astrbot_plugin_touchi/master/logo.png"
   },
   "astrbot_plugin_Astrsupermarket": {
@@ -6386,9 +6386,9 @@
       "web search"
     ],
     "social_link": "https://github.com/lxfight",
-    "stars": 22,
+    "stars": 23,
     "version": "0.1.0",
-    "updated_at": "2026-01-10T15:55:06Z"
+    "updated_at": "2026-01-15T12:05:21Z"
   },
   "astrbot_plugin_textadventure": {
     "author": "LumineStory",
@@ -7321,9 +7321,9 @@
       "game",
       "fish"
     ],
-    "stars": 41,
+    "stars": 42,
     "version": "1.4.6",
-    "updated_at": "2026-01-12T10:45:34Z"
+    "updated_at": "2026-01-15T12:00:15Z"
   },
   "astrbot_plugin_bilibili_live": {
     "author": "Raven95676",
@@ -10001,9 +10001,9 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 160,
+    "stars": 161,
     "version": "v2.0.15",
-    "updated_at": "2026-01-13T02:58:50Z"
+    "updated_at": "2026-01-15T12:55:51Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
