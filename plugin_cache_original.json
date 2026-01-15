@@ -143,8 +143,8 @@
     ],
     "social_link": "https://github.com/VanillaNahida/",
     "stars": 10,
-    "version": "v1.1.5",
-    "updated_at": "2026-01-15T11:26:30Z",
+    "version": "v1.1.6",
+    "updated_at": "2026-01-15T14:34:37Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_geetest_verify/master/logo.png"
   },
   "astrbot_plugin_cliproxy_stats": {
@@ -352,7 +352,7 @@
     "social_link": "https://github.com/stevessr",
     "stars": 4,
     "version": "0.2.8",
-    "updated_at": "2026-01-15T11:18:03Z",
+    "updated_at": "2026-01-15T14:33:17Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_url_image_auto": {
@@ -4425,7 +4425,7 @@
     ],
     "stars": 4,
     "version": "v1.1.4",
-    "updated_at": "2026-01-10T15:43:59Z",
+    "updated_at": "2026-01-15T14:39:04Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_anti_revoke/master/logo.png"
   },
   "input_state_by_napcat": {
