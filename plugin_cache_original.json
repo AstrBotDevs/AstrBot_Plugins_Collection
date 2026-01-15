@@ -767,7 +767,7 @@
     "tags": "统计调用",
     "stars": 0,
     "version": "v1.0.3",
-    "updated_at": "2026-01-09T13:49:50Z",
+    "updated_at": "2026-01-15T17:14:55Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_hangout/main/logo.png"
   },
   "astrbot_plugin_joinmanager": {
@@ -1673,8 +1673,8 @@
     ],
     "social_link": "https://qm.qq.com/q/d4lwUp9ap4",
     "stars": 1,
-    "version": "v1.1.0",
-    "updated_at": "2025-12-28T19:47:38Z"
+    "version": "v1.1.1",
+    "updated_at": "2026-01-15T16:43:11Z"
   },
   "astrbot_plugin_AIpaper": {
     "display_name": "AI 论文推送",
@@ -2872,7 +2872,7 @@
     "social_link": "https://github.com/Luna-channel",
     "stars": 11,
     "version": "1.4.2",
-    "updated_at": "2026-01-12T14:26:13Z",
+    "updated_at": "2026-01-15T17:14:51Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_Conversa/main/logo.png"
   },
   "astrbot_plugin_shutdown": {
@@ -6512,7 +6512,7 @@
     "repo": "https://github.com/itismygo/astrbot_plugin_mathjax2image",
     "stars": 2,
     "version": "v2.0.0",
-    "updated_at": "2026-01-15T16:43:02Z"
+    "updated_at": "2026-01-15T17:29:21Z"
   },
   "astrbot_plugin_xyzw_box": {
     "author": "cloudcranesss",
