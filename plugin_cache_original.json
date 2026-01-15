@@ -1544,9 +1544,9 @@
       "画图"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 24,
+    "stars": 25,
     "version": "v2.4.0",
-    "updated_at": "2026-01-15T04:17:42Z",
+    "updated_at": "2026-01-15T07:04:19Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -6467,7 +6467,7 @@
     "repo": "https://github.com/itismygo/astrbot_plugin_mathjax2image",
     "stars": 2,
     "version": "v2.0.0",
-    "updated_at": "2026-01-15T05:50:05Z"
+    "updated_at": "2026-01-15T07:28:20Z"
   },
   "astrbot_plugin_xyzw_box": {
     "author": "cloudcranesss",
