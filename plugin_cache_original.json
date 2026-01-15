@@ -4192,9 +4192,9 @@
       "重启"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.0.5",
-    "updated_at": "2025-12-21T16:47:27Z",
+    "updated_at": "2026-01-15T06:23:01Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_restart/main/logo.png"
   },
   "astrbot_plugin_tts_llm": {
@@ -6466,8 +6466,8 @@
     ],
     "repo": "https://github.com/itismygo/astrbot_plugin_mathjax2image",
     "stars": 2,
-    "version": "v1.0",
-    "updated_at": "2025-11-24T16:49:36Z"
+    "version": "v2.0.0",
+    "updated_at": "2026-01-15T05:50:05Z"
   },
   "astrbot_plugin_xyzw_box": {
     "author": "cloudcranesss",
@@ -7383,8 +7383,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 8,
-    "version": "v1.0.4",
-    "updated_at": "2025-12-18T12:13:46Z",
+    "version": "v1.1.0",
+    "updated_at": "2026-01-15T06:24:12Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_broadcast/main/logo.png"
   },
   "astrbot_plugin_nobot": {
@@ -8358,9 +8358,9 @@
     "tags": [
       "QQ群管"
     ],
-    "stars": 81,
+    "stars": 82,
     "version": "v3.2.7",
-    "updated_at": "2026-01-13T06:03:20Z",
+    "updated_at": "2026-01-15T05:43:38Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
