@@ -99,8 +99,8 @@
     ],
     "social_link": "https://github.com/VanillaNahida/",
     "stars": 9,
-    "version": "v1.1.4",
-    "updated_at": "2026-01-14T05:36:16Z",
+    "version": "v1.1.5",
+    "updated_at": "2026-01-15T08:59:16Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_geetest_verify/master/logo.png"
   },
   "astrbot_plugin_cliproxy_stats": {
@@ -504,9 +504,9 @@
       "下载"
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
-    "stars": 24,
+    "stars": 25,
     "version": "v1.1",
-    "updated_at": "2026-01-15T02:23:02Z"
+    "updated_at": "2026-01-15T08:49:30Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -7384,7 +7384,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 8,
     "version": "v1.1.0",
-    "updated_at": "2026-01-15T06:24:12Z",
+    "updated_at": "2026-01-15T09:32:18Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_broadcast/main/logo.png"
   },
   "astrbot_plugin_nobot": {
@@ -9984,8 +9984,8 @@
     "repo": "https://github.com/zgojin/astrbot_plugin_pock",
     "tags": [],
     "stars": 6,
-    "version": "v2.1.0",
-    "updated_at": "2026-01-02T18:46:26Z"
+    "version": "v2.1.1",
+    "updated_at": "2026-01-15T09:43:20Z"
   },
   "astrbot_plugin_astrbot_plugin_repetition": {
     "desc": "用于AstrBot的复读机插件",
