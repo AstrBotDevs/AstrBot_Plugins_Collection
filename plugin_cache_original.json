@@ -39,6 +39,50 @@
     "updated_at": "2026-01-14T12:59:35Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_context_aware/main/logo.png"
   },
+  "astrbot_plugin_STEmbedding": {
+    "display_name": "本地SentenceTransformer编码器",
+    "desc": "一个基于本地SentenceTransformer的嵌入模型提供商实现",
+    "author": "lishining",
+    "repo": "https://github.com/Li-shi-ling/astrbot_plugin_STEmbedding",
+    "tags": [
+      "嵌入模型"
+    ],
+    "stars": 0,
+    "version": "v1.2.0",
+    "updated_at": "2026-01-11T07:40:08Z"
+  },
+  "BUGJI/astrbot_plugin_balance": {
+    "display_name": "模型提供商余额查询",
+    "desc": "一个万能模型提供商余额查询插件，支持YAML配置，兼容90%的官方API",
+    "author": "BUGJI",
+    "repo": "https://github.com/BUGJI/astrbot_plugin_balance",
+    "tags": [
+      "余额"
+    ],
+    "stars": 1,
+    "version": "v0.3.0",
+    "updated_at": "2026-01-10T09:56:07Z"
+  },
+  "astrbot_plugin_PersonaFlow": {
+    "display_name": "astrbot_plugin_PersonaFlow",
+    "desc": "由ai总结人物关系到数据库，实现ai自主更新人格设定",
+    "author": "yizyin",
+    "repo": "https://github.com/yizyin2/astrbot_plugin_PersonaFlow",
+    "tags": [],
+    "stars": 1,
+    "version": "1.0.0",
+    "updated_at": "2026-01-12T14:40:30Z"
+  },
+  "astrbot_plugin_safety": {
+    "display_name": "✌️ 又活一天",
+    "desc": "监控用户活跃状态。如果用户在设定时间内未在群内或私聊中发言，插件将自动触发分级预警机制",
+    "author": "shskjw",
+    "repo": "https://github.com/shskjw/astrbot_plugin_safety",
+    "tags": [],
+    "stars": 1,
+    "version": "1.0.7",
+    "updated_at": "2026-01-12T10:01:44Z"
+  },
   "astrbot_plugin_cloudmailapi": {
     "display_name": "CloudMail 邮箱 API 工具",
     "desc": "对接CloudMail邮件系统API，支持自助注册、登录及查信（仅测试napcat）",
@@ -4321,9 +4365,9 @@
       "记忆",
       "永久记忆"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v0.2.6.0",
-    "updated_at": "2025-11-23T15:06:25Z"
+    "updated_at": "2026-01-15T09:52:56Z"
   },
   "randomtoken": {
     "desc": "一个Token生成管理器，支持生成、导出、删除和查看Token列表。",
@@ -5814,8 +5858,9 @@
       "娱乐"
     ],
     "stars": 4,
-    "version": "v1.2",
-    "updated_at": "2025-12-16T11:01:08Z"
+    "version": "v1.3",
+    "updated_at": "2026-01-15T10:22:24Z",
+    "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_deer_check/master/logo.png"
   },
   "astrbot_plugin_pet": {
     "desc": "一个简单的的群内宠物养成插件，支持LLM随机事件、PVP对决和图片状态卡。",
@@ -7658,9 +7703,9 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 129,
+    "stars": 130,
     "version": "v2.0.6",
-    "updated_at": "2026-01-14T06:20:06Z",
+    "updated_at": "2026-01-15T10:11:02Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -8785,9 +8830,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
-    "stars": 78,
+    "stars": 79,
     "version": "v3.0.3",
-    "updated_at": "2026-01-14T14:17:23Z",
+    "updated_at": "2026-01-15T10:12:07Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
