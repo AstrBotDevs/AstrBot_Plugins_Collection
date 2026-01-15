@@ -352,7 +352,7 @@
     "social_link": "https://github.com/stevessr",
     "stars": 4,
     "version": "0.2.8",
-    "updated_at": "2026-01-14T11:34:06Z",
+    "updated_at": "2026-01-15T11:18:03Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_url_image_auto": {
@@ -6512,7 +6512,7 @@
     "repo": "https://github.com/itismygo/astrbot_plugin_mathjax2image",
     "stars": 2,
     "version": "v2.0.0",
-    "updated_at": "2026-01-15T08:28:49Z"
+    "updated_at": "2026-01-15T11:18:38Z"
   },
   "astrbot_plugin_xyzw_box": {
     "author": "cloudcranesss",
