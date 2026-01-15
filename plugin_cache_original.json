@@ -504,9 +504,9 @@
       "下载"
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
-    "stars": 23,
+    "stars": 24,
     "version": "v1.1",
-    "updated_at": "2026-01-14T03:00:33Z"
+    "updated_at": "2026-01-15T02:23:02Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -1279,8 +1279,8 @@
       "迫害群友"
     ],
     "stars": 1,
-    "version": "v1.1.8",
-    "updated_at": "2026-01-13T12:05:50Z"
+    "version": "v1.1.9",
+    "updated_at": "2026-01-15T02:46:07Z"
   },
   "astrbot_plugin_parser": {
     "display_name": "万能解析器",
