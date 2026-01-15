@@ -71,7 +71,7 @@
     "tags": [],
     "stars": 1,
     "version": "1.0.0",
-    "updated_at": "2026-01-12T14:40:30Z"
+    "updated_at": "2026-01-15T14:23:50Z"
   },
   "astrbot_plugin_safety": {
     "display_name": "✌️ 又活一天",
@@ -6296,7 +6296,7 @@
     "tags": [],
     "stars": 33,
     "version": "v2.8.2",
-    "updated_at": "2026-01-15T12:24:02Z",
+    "updated_at": "2026-01-15T13:02:19Z",
     "logo": "https://raw.githubusercontent.com/sa1guu/astrbot_plugin_touchi/master/logo.png"
   },
   "astrbot_plugin_Astrsupermarket": {
@@ -6881,9 +6881,9 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 91,
+    "stars": 92,
     "version": "v2.0.5",
-    "updated_at": "2026-01-14T17:02:04Z",
+    "updated_at": "2026-01-15T14:20:32Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -9073,9 +9073,9 @@
       "bilibili"
     ],
     "social_link": "https://github.com/miaoxutao123/",
-    "stars": 64,
+    "stars": 65,
     "version": "v0.2.14",
-    "updated_at": "2026-01-09T05:33:57Z"
+    "updated_at": "2026-01-15T13:07:44Z"
   },
   "astrbot_plugin_sjzb": {
     "desc": "随机生成《绝地潜兵2》游戏中一组 4 个战备配置",
