@@ -338,7 +338,7 @@
     "social_link": "https://github.com/Huahuatgc",
     "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-01-02T06:28:31Z"
+    "updated_at": "2026-01-16T17:25:34Z"
   },
   "astrbot_plugin_matrix_adapter": {
     "display_name": "Matrix 协议适配器",
@@ -5211,7 +5211,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 17,
     "version": "v2.0.1",
-    "updated_at": "2026-01-12T15:09:46Z",
+    "updated_at": "2026-01-16T17:30:55Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
