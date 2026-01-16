@@ -827,9 +827,9 @@
       "小游戏"
     ],
     "social_link": "https://github.com/MegSopern",
-    "stars": 15,
+    "stars": 16,
     "version": "1.2.0",
-    "updated_at": "2026-01-16T02:38:50Z",
+    "updated_at": "2026-01-16T05:32:01Z",
     "logo": "https://raw.githubusercontent.com/MegSopern/astrbot_plugin_rollpig/main/logo.png"
   },
   "astrbot_plugin_gitee_zimg": {
@@ -929,7 +929,7 @@
     ],
     "stars": 1,
     "version": "v1.0",
-    "updated_at": "2025-12-31T04:02:33Z",
+    "updated_at": "2026-01-16T06:03:45Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_webnovel_info/master/logo.png"
   },
   "astrbot_plugin_desktop_assistant": {
@@ -3513,7 +3513,7 @@
     ],
     "stars": 2,
     "version": "v1.5",
-    "updated_at": "2025-12-29T02:49:32Z",
+    "updated_at": "2026-01-16T05:41:26Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_youshusearch/master/logo.png"
   },
   "astrbot_plugin_persona_plus": {
@@ -7210,9 +7210,9 @@
       "画像"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 51,
+    "stars": 52,
     "version": "v1.0.7",
-    "updated_at": "2026-01-12T09:17:07Z",
+    "updated_at": "2026-01-16T05:43:09Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
