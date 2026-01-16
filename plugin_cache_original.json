@@ -48,8 +48,8 @@
       "嵌入模型"
     ],
     "stars": 0,
-    "version": "v1.2.0",
-    "updated_at": "2026-01-11T07:40:08Z"
+    "version": "v1.2.1",
+    "updated_at": "2026-01-16T02:40:56Z"
   },
   "BUGJI/astrbot_plugin_balance": {
     "display_name": "模型提供商余额查询",
@@ -142,9 +142,9 @@
       "网页验证"
     ],
     "social_link": "https://github.com/VanillaNahida/",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.1.6",
-    "updated_at": "2026-01-15T14:34:37Z",
+    "updated_at": "2026-01-16T03:37:45Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_geetest_verify/master/logo.png"
   },
   "astrbot_plugin_cliproxy_stats": {
@@ -827,9 +827,9 @@
       "小游戏"
     ],
     "social_link": "https://github.com/MegSopern",
-    "stars": 14,
+    "stars": 15,
     "version": "1.2.0",
-    "updated_at": "2026-01-13T05:43:08Z",
+    "updated_at": "2026-01-16T02:38:50Z",
     "logo": "https://raw.githubusercontent.com/MegSopern/astrbot_plugin_rollpig/main/logo.png"
   },
   "astrbot_plugin_gitee_zimg": {
@@ -4762,9 +4762,9 @@
     "author": "天各一方",
     "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
     "tags": [],
-    "stars": 35,
+    "stars": 36,
     "version": "v1.0.4",
-    "updated_at": "2026-01-13T09:12:54Z"
+    "updated_at": "2026-01-16T02:56:52Z"
   },
   "astrbot_plugin_vtb_adapter": {
     "desc": "用于连接 AstrBot 与 Open LLM Vtuber，除安装插件外还需要修改 Open LLM Vtuber 中的相关文件",
