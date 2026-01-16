@@ -1805,7 +1805,7 @@
     ],
     "stars": 0,
     "version": "v1.2",
-    "updated_at": "2025-12-31T08:58:39Z",
+    "updated_at": "2026-01-16T09:58:12Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_CloudImg/master/logo.png"
   },
   "astrbot_plugin_aicu_analysis": {
@@ -7351,9 +7351,9 @@
       "词云"
     ],
     "social_link": "https://github.com/GEMILUXVII",
-    "stars": 23,
+    "stars": 24,
     "version": "v2.0.2",
-    "updated_at": "2026-01-13T02:58:59Z"
+    "updated_at": "2026-01-16T10:06:51Z"
   },
   "astrbot_plugin_liblibapi": {
     "author": "machinad",
