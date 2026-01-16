@@ -69,9 +69,9 @@
     "author": "yizyin",
     "repo": "https://github.com/yizyin2/astrbot_plugin_PersonaFlow",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "1.0.0",
-    "updated_at": "2026-01-15T15:33:42Z"
+    "updated_at": "2026-01-16T11:49:38Z"
   },
   "astrbot_plugin_safety": {
     "display_name": "✌️ 又活一天",
@@ -142,9 +142,9 @@
       "网页验证"
     ],
     "social_link": "https://github.com/VanillaNahida/",
-    "stars": 11,
+    "stars": 12,
     "version": "v1.1.6",
-    "updated_at": "2026-01-16T03:37:45Z",
+    "updated_at": "2026-01-16T11:43:17Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_geetest_verify/master/logo.png"
   },
   "astrbot_plugin_cliproxy_stats": {
@@ -3638,7 +3638,7 @@
     "tags": [],
     "stars": 3,
     "version": "1.7.0",
-    "updated_at": "2026-01-14T15:03:14Z"
+    "updated_at": "2026-01-16T12:54:21Z"
   },
   "astrbot_plugin_33recognition": {
     "desc": "调用大模型检测图片中关键词",
@@ -6294,9 +6294,9 @@
     "desc": "三角洲鼠鼠偷吃模拟器（简易）",
     "repo": "https://github.com/sa1guu/astrbot_plugin_touchi",
     "tags": [],
-    "stars": 33,
+    "stars": 34,
     "version": "v2.8.2",
-    "updated_at": "2026-01-15T13:02:19Z",
+    "updated_at": "2026-01-16T12:42:11Z",
     "logo": "https://raw.githubusercontent.com/sa1guu/astrbot_plugin_touchi/master/logo.png"
   },
   "astrbot_plugin_Astrsupermarket": {
@@ -8101,9 +8101,9 @@
       "图库"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_gallery",
-    "stars": 24,
+    "stars": 23,
     "version": "v2.1.0",
-    "updated_at": "2026-01-07T11:50:24Z",
+    "updated_at": "2026-01-16T11:44:11Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_gallery/main/logo.png"
   },
   "astrbot_plugin_sensoji_pro": {
