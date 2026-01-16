@@ -71,7 +71,7 @@
     "tags": [],
     "stars": 3,
     "version": "1.0.0",
-    "updated_at": "2026-01-16T11:49:38Z"
+    "updated_at": "2026-01-16T13:30:51Z"
   },
   "astrbot_plugin_safety": {
     "display_name": "✌️ 又活一天",
@@ -144,7 +144,7 @@
     "social_link": "https://github.com/VanillaNahida/",
     "stars": 12,
     "version": "v1.1.6",
-    "updated_at": "2026-01-16T11:43:17Z",
+    "updated_at": "2026-01-16T13:27:25Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_geetest_verify/master/logo.png"
   },
   "astrbot_plugin_cliproxy_stats": {
@@ -1438,9 +1438,9 @@
       "拟人"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 8,
+    "stars": 9,
     "version": "v2.2.4",
-    "updated_at": "2026-01-16T01:49:44Z",
+    "updated_at": "2026-01-16T13:20:56Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_life_scheduler/main/logo.png"
   },
   "astrbot_plugin_stealer": {
@@ -1589,8 +1589,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 26,
-    "version": "v2.4.0",
-    "updated_at": "2026-01-16T01:50:42Z",
+    "version": "v2.5.0",
+    "updated_at": "2026-01-16T13:33:02Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -3638,7 +3638,7 @@
     "tags": [],
     "stars": 3,
     "version": "1.7.0",
-    "updated_at": "2026-01-16T12:54:21Z"
+    "updated_at": "2026-01-16T13:33:40Z"
   },
   "astrbot_plugin_33recognition": {
     "desc": "调用大模型检测图片中关键词",
