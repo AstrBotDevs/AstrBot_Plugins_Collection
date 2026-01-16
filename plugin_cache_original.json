@@ -35,8 +35,8 @@
     "tags": [],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 5,
-    "version": "2.2.2",
-    "updated_at": "2026-01-16T01:50:06Z",
+    "version": "2.4.0",
+    "updated_at": "2026-01-16T14:16:20Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_context_aware/main/logo.png"
   },
   "astrbot_plugin_STEmbedding": {
@@ -3638,7 +3638,7 @@
     "tags": [],
     "stars": 3,
     "version": "1.7.0",
-    "updated_at": "2026-01-16T13:33:40Z"
+    "updated_at": "2026-01-16T14:29:30Z"
   },
   "astrbot_plugin_33recognition": {
     "desc": "调用大模型检测图片中关键词",
@@ -5994,9 +5994,9 @@
       "文件处理"
     ],
     "author": null,
-    "stars": 18,
+    "stars": 19,
     "version": "2.3.0",
-    "updated_at": "2026-01-10T11:24:06Z"
+    "updated_at": "2026-01-16T14:17:28Z"
   },
   "astrbot_plugin_group_sign": {
     "name": "group_sign",
