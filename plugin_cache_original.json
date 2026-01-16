@@ -36,7 +36,7 @@
     "social_link": "https://github.com/muyouzhi6",
     "stars": 5,
     "version": "2.2.2",
-    "updated_at": "2026-01-14T12:59:35Z",
+    "updated_at": "2026-01-16T01:50:06Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_context_aware/main/logo.png"
   },
   "astrbot_plugin_STEmbedding": {
@@ -1440,7 +1440,7 @@
     "social_link": "https://github.com/muyouzhi6",
     "stars": 8,
     "version": "v2.2.4",
-    "updated_at": "2026-01-13T09:28:29Z",
+    "updated_at": "2026-01-16T01:49:44Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_life_scheduler/main/logo.png"
   },
   "astrbot_plugin_stealer": {
@@ -1590,7 +1590,7 @@
     "social_link": "https://github.com/muyouzhi6",
     "stars": 26,
     "version": "v2.4.0",
-    "updated_at": "2026-01-15T07:49:58Z",
+    "updated_at": "2026-01-16T01:50:42Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -5038,7 +5038,7 @@
     "social_link": "https://github.com/muyouzhi6",
     "stars": 42,
     "version": "2.2.2",
-    "updated_at": "2026-01-12T02:07:11Z",
+    "updated_at": "2026-01-16T01:49:00Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "astrbot_plugin_keyword_monitor": {
@@ -5062,9 +5062,9 @@
       "MiBand"
     ],
     "social_link": "https://github.com/Futureppo",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.0.3",
-    "updated_at": "2026-01-02T08:16:40Z",
+    "updated_at": "2026-01-16T00:11:18Z",
     "logo": "https://raw.githubusercontent.com/Futureppo/astrbot_plugin_Xiaomi_BandProMax/main/logo.png"
   },
   "astrbot_plugin_immersive_control": {
