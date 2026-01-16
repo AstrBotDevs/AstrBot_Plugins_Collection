@@ -4200,8 +4200,8 @@
       "galgame"
     ],
     "stars": 6,
-    "version": "v1.2",
-    "updated_at": "2025-12-29T15:04:14Z"
+    "version": "v1.3",
+    "updated_at": "2026-01-16T10:47:49Z"
   },
   "astrbot_plugins_steam_shop_price": {
     "desc": "用于查询 Steam 游戏的国区价格、史低信息，并支持与其他区服价格对比。支持识别游戏中文名。",
@@ -4661,8 +4661,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 122,
-    "version": "v4.5.8",
-    "updated_at": "2026-01-15T00:58:14Z",
+    "version": "v4.6.0",
+    "updated_at": "2026-01-16T10:51:20Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -7916,9 +7916,9 @@
     "desc": "食物推荐插件，可以根据时间、天气和季节智能推荐食物，并使用 AI 生成食物图片和描述",
     "social_link": "https://github.com/Wayzinx",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "v1.0.2",
-    "updated_at": "2025-06-12T14:09:15Z"
+    "updated_at": "2026-01-16T11:12:22Z"
   },
   "astrbot_plugin_status-pro": {
     "author": "tiker",
