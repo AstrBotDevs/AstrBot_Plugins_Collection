@@ -468,7 +468,7 @@
     ],
     "stars": 1,
     "version": "v1.0",
-    "updated_at": "2025-12-24T09:15:39Z",
+    "updated_at": "2026-01-16T09:03:14Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_admin_notifier/master/logo.png"
   },
   "astrbot_plugin_qymusic": {
@@ -796,7 +796,7 @@
     ],
     "stars": 0,
     "version": "v1.0",
-    "updated_at": "2025-12-21T16:35:36Z",
+    "updated_at": "2026-01-16T09:21:22Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_group_signin/master/logo.png"
   },
   "astrbot_plugin_furry_maopao": {
@@ -1964,7 +1964,7 @@
     ],
     "stars": 1,
     "version": "v1.2.1",
-    "updated_at": "2026-01-09T15:03:49Z",
+    "updated_at": "2026-01-16T09:09:34Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_openlistfile/master/logo.png"
   },
   "astrbot_plugin_gemini_image": {
@@ -4636,9 +4636,9 @@
       "画图",
       "AI绘画"
     ],
-    "stars": 24,
+    "stars": 23,
     "version": "v1.8.1",
-    "updated_at": "2025-12-26T03:35:40Z"
+    "updated_at": "2026-01-16T09:32:22Z"
   },
   "github_star_verify": {
     "desc": "[aiocqhttp]使用 GitHub 仓库的 Star 状态作为入群验证条件，仅允许已 Star 指定仓库的用户留在群内。",
@@ -5343,9 +5343,9 @@
       "语音转化"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 11,
+    "stars": 12,
     "version": "v1.0.3",
-    "updated_at": "2025-12-28T02:46:33Z",
+    "updated_at": "2026-01-16T08:45:33Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_record_converter/main/logo.png"
   },
   "astrbot_plugin_spark_tts": {
@@ -6024,9 +6024,9 @@
     "author": "Chris",
     "repo": "https://github.com/Chris95743/astrbot_plugin_balance",
     "tags": [],
-    "stars": 14,
+    "stars": 15,
     "version": "v1.5.0",
-    "updated_at": "2025-12-17T06:39:23Z"
+    "updated_at": "2026-01-16T08:52:16Z"
   },
   "astrbot_plugin_mp": {
     "desc": "一个适用于最新版本moviepilot的小工具，支持搜索、订阅、消息转发等功能",
@@ -7079,9 +7079,9 @@
       "监控",
       "服务器"
     ],
-    "stars": 5,
+    "stars": 6,
     "version": "0.1.0",
-    "updated_at": "2025-10-30T20:55:34Z"
+    "updated_at": "2026-01-16T09:38:58Z"
   },
   "astrbot_plugin_mcmod_modsearch": {
     "author": "mmyddd",
@@ -8966,9 +8966,9 @@
     "tags": [
       "消息推送"
     ],
-    "stars": 10,
+    "stars": 11,
     "version": "v0.2.1",
-    "updated_at": "2025-09-29T16:31:33Z"
+    "updated_at": "2026-01-16T09:38:55Z"
   },
   "astrbot_plugin_hello77": {
     "author": "hello七七",
