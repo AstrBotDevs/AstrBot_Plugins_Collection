@@ -913,7 +913,7 @@
     "tags": [],
     "stars": 13,
     "version": "1.8.0",
-    "updated_at": "2026-01-17T08:44:09Z",
+    "updated_at": "2026-01-17T13:23:09Z",
     "logo": "https://raw.githubusercontent.com/shskjw/astrbot_plugin_custom_menu/master/logo.png"
   },
   "astrbot_plugin_webnovel_info": {
@@ -1310,8 +1310,8 @@
     ],
     "social_link": "https://github.com/Xbodwf",
     "stars": 0,
-    "version": "1.26.0",
-    "updated_at": "2026-01-17T12:17:39Z"
+    "version": "1.27.0",
+    "updated_at": "2026-01-17T13:20:48Z"
   },
   "astrbot_plugin_QQbox": {
     "display_name": "QQbox",
@@ -6882,8 +6882,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 93,
-    "version": "v2.0.5",
-    "updated_at": "2026-01-17T08:23:09Z",
+    "version": "v2.0.6",
+    "updated_at": "2026-01-17T13:06:06Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
