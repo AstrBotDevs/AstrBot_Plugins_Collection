@@ -888,7 +888,7 @@
     ],
     "stars": 11,
     "version": "v0.1.7",
-    "updated_at": "2026-01-10T09:42:30Z",
+    "updated_at": "2026-01-17T19:54:13Z",
     "logo": "https://raw.githubusercontent.com/sukafon/astrbot_plugin_big_banana/main/logo.png"
   },
   "astrbot_plugin_BitTorrent": {
@@ -3422,9 +3422,9 @@
       "sora"
     ],
     "social_link": "https://github.com/CCYellowStar2",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.0.0",
-    "updated_at": "2025-12-21T05:42:42Z"
+    "updated_at": "2026-01-17T19:37:56Z"
   },
   "astrbot_plugin_video_sora2": {
     "display_name": "sora2",
