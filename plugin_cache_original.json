@@ -1673,8 +1673,8 @@
     ],
     "social_link": "https://qm.qq.com/q/d4lwUp9ap4",
     "stars": 1,
-    "version": "v1.1.1",
-    "updated_at": "2026-01-15T16:43:11Z"
+    "version": "v1.1.2",
+    "updated_at": "2026-01-17T01:35:54Z"
   },
   "astrbot_plugin_AIpaper": {
     "display_name": "AI 论文推送",
@@ -5209,9 +5209,9 @@
       "输出增强"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 17,
+    "stars": 18,
     "version": "v2.0.1",
-    "updated_at": "2026-01-16T17:30:55Z",
+    "updated_at": "2026-01-16T23:52:57Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -7714,9 +7714,9 @@
     "repo": "https://github.com/tinkerbellqwq/astrbot_plugin_help",
     "social_link": "https://github.com/tinkerbellqwq",
     "tags": [],
-    "stars": 25,
+    "stars": 26,
     "version": "v1.1.3",
-    "updated_at": "2025-10-31T12:02:51Z"
+    "updated_at": "2026-01-16T23:37:47Z"
   },
   "astrbot_qqemotionreply": {
     "author": "QiChen",
@@ -9415,9 +9415,9 @@
       "webui",
       "图床"
     ],
-    "stars": 119,
+    "stars": 121,
     "version": "v3.19",
-    "updated_at": "2026-01-12T11:08:11Z"
+    "updated_at": "2026-01-17T01:41:57Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
