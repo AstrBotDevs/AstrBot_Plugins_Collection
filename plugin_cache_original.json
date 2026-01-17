@@ -35,8 +35,8 @@
     "tags": [],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 5,
-    "version": "2.5.1",
-    "updated_at": "2026-01-17T07:29:26Z",
+    "version": "2.5.2",
+    "updated_at": "2026-01-17T11:12:00Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_context_aware/main/logo.png"
   },
   "astrbot_plugin_STEmbedding": {
@@ -6512,7 +6512,7 @@
     "repo": "https://github.com/itismygo/astrbot_plugin_mathjax2image",
     "stars": 2,
     "version": "v2.3.0",
-    "updated_at": "2026-01-17T10:27:59Z"
+    "updated_at": "2026-01-17T11:14:22Z"
   },
   "astrbot_plugin_xyzw_box": {
     "author": "cloudcranesss",
