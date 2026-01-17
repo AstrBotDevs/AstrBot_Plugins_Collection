@@ -912,8 +912,8 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_custom_menu",
     "tags": [],
     "stars": 13,
-    "version": "1.8.0",
-    "updated_at": "2026-01-17T13:23:09Z",
+    "version": "1.8.5",
+    "updated_at": "2026-01-17T14:20:04Z",
     "logo": "https://raw.githubusercontent.com/shskjw/astrbot_plugin_custom_menu/master/logo.png"
   },
   "astrbot_plugin_webnovel_info": {
@@ -1310,8 +1310,8 @@
     ],
     "social_link": "https://github.com/Xbodwf",
     "stars": 0,
-    "version": "1.27.0",
-    "updated_at": "2026-01-17T13:20:48Z"
+    "version": "1.28.1",
+    "updated_at": "2026-01-17T14:18:30Z"
   },
   "astrbot_plugin_QQbox": {
     "display_name": "QQbox",
@@ -4000,9 +4000,9 @@
       "game",
       "fishing"
     ],
-    "stars": 27,
+    "stars": 28,
     "version": "2.4.7",
-    "updated_at": "2026-01-13T16:41:22Z",
+    "updated_at": "2026-01-17T14:04:38Z",
     "logo": "https://raw.githubusercontent.com/xxlemon-io/astrbot_plugin_fishing/main/logo.png"
   },
   "astrbot_plugin_astrmetry": {
@@ -6512,7 +6512,7 @@
     "repo": "https://github.com/itismygo/astrbot_plugin_mathjax2image",
     "stars": 2,
     "version": "v2.3.0",
-    "updated_at": "2026-01-17T12:32:16Z"
+    "updated_at": "2026-01-17T14:14:00Z"
   },
   "astrbot_plugin_xyzw_box": {
     "author": "cloudcranesss",
