@@ -36,7 +36,7 @@
     "social_link": "https://github.com/muyouzhi6",
     "stars": 5,
     "version": "2.4.0",
-    "updated_at": "2026-01-16T14:16:20Z",
+    "updated_at": "2026-01-17T06:07:23Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_context_aware/main/logo.png"
   },
   "astrbot_plugin_STEmbedding": {
@@ -144,7 +144,7 @@
     "social_link": "https://github.com/VanillaNahida/",
     "stars": 12,
     "version": "v1.1.8",
-    "updated_at": "2026-01-17T05:08:58Z",
+    "updated_at": "2026-01-17T05:25:00Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_geetest_verify/master/logo.png"
   },
   "astrbot_plugin_cliproxy_stats": {
@@ -1311,7 +1311,7 @@
     "social_link": "https://github.com/Xbodwf",
     "stars": 0,
     "version": "1.22.0",
-    "updated_at": "2026-01-17T04:05:24Z"
+    "updated_at": "2026-01-17T05:37:21Z"
   },
   "astrbot_plugin_QQbox": {
     "display_name": "QQbox",
@@ -1845,8 +1845,8 @@
       "抖音"
     ],
     "stars": 2,
-    "version": "v1.1.0",
-    "updated_at": "2026-01-16T06:41:53Z",
+    "version": "v1.1.1",
+    "updated_at": "2026-01-17T05:27:48Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_video_analysis/master/logo.png"
   },
   "astrbot_plugin_image_generation": {
@@ -3637,8 +3637,8 @@
     "repo": "https://github.com/BGYdook/AstrBot-plugin-tmp-bot",
     "tags": [],
     "stars": 3,
-    "version": "1.7.0",
-    "updated_at": "2026-01-16T14:29:30Z"
+    "version": "1.7.1",
+    "updated_at": "2026-01-17T05:49:00Z"
   },
   "astrbot_plugin_33recognition": {
     "desc": "调用大模型检测图片中关键词",
@@ -6511,8 +6511,8 @@
     ],
     "repo": "https://github.com/itismygo/astrbot_plugin_mathjax2image",
     "stars": 2,
-    "version": "v2.0.0",
-    "updated_at": "2026-01-15T17:29:21Z"
+    "version": "v2.3.0",
+    "updated_at": "2026-01-17T06:36:38Z"
   },
   "astrbot_plugin_xyzw_box": {
     "author": "cloudcranesss",
@@ -7878,9 +7878,9 @@
       "pixiv"
     ],
     "social_link": "https://github.com/vmoranv-reborn",
-    "stars": 4,
+    "stars": 5,
     "version": "1.4.3",
-    "updated_at": "2026-01-13T12:42:54Z",
+    "updated_at": "2026-01-17T06:37:12Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
