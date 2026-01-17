@@ -1311,7 +1311,7 @@
     "social_link": "https://github.com/Xbodwf",
     "stars": 0,
     "version": "1.28.1",
-    "updated_at": "2026-01-17T14:18:30Z"
+    "updated_at": "2026-01-17T14:33:48Z"
   },
   "astrbot_plugin_QQbox": {
     "display_name": "QQbox",
@@ -5144,9 +5144,9 @@
     "tags": [
       "运势"
     ],
-    "stars": 13,
+    "stars": 14,
     "version": "v1.0.3",
-    "updated_at": "2026-01-01T02:19:08Z"
+    "updated_at": "2026-01-17T14:27:59Z"
   },
   "astrbot_plugin_wakepro": {
     "display_name": "唤醒增强",
@@ -6511,8 +6511,8 @@
     ],
     "repo": "https://github.com/itismygo/astrbot_plugin_mathjax2image",
     "stars": 2,
-    "version": "v2.3.0",
-    "updated_at": "2026-01-17T14:14:00Z"
+    "version": "v2.4.0",
+    "updated_at": "2026-01-17T15:02:51Z"
   },
   "astrbot_plugin_xyzw_box": {
     "author": "cloudcranesss",
