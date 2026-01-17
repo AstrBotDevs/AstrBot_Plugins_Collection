@@ -35,8 +35,8 @@
     "tags": [],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 5,
-    "version": "2.4.0",
-    "updated_at": "2026-01-17T06:07:23Z",
+    "version": "2.5.1",
+    "updated_at": "2026-01-17T07:29:26Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_context_aware/main/logo.png"
   },
   "astrbot_plugin_STEmbedding": {
@@ -1310,8 +1310,8 @@
     ],
     "social_link": "https://github.com/Xbodwf",
     "stars": 0,
-    "version": "1.22.0",
-    "updated_at": "2026-01-17T05:37:21Z"
+    "version": "1.26.0",
+    "updated_at": "2026-01-17T08:23:17Z"
   },
   "astrbot_plugin_QQbox": {
     "display_name": "QQbox",
@@ -1993,9 +1993,9 @@
       "修图"
     ],
     "social_link": "https://github.com/piexian",
-    "stars": 17,
+    "stars": 18,
     "version": "v1.8.4",
-    "updated_at": "2026-01-14T02:22:24Z",
+    "updated_at": "2026-01-17T08:17:14Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -4660,9 +4660,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 122,
+    "stars": 123,
     "version": "v4.6.1",
-    "updated_at": "2026-01-16T16:04:30Z",
+    "updated_at": "2026-01-17T08:22:44Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -6881,9 +6881,9 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 92,
+    "stars": 93,
     "version": "v2.0.5",
-    "updated_at": "2026-01-15T14:20:32Z",
+    "updated_at": "2026-01-17T08:23:09Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -9039,8 +9039,8 @@
       "猜单词"
     ],
     "stars": 0,
-    "version": "v2.2.1",
-    "updated_at": "2025-06-10T03:14:25Z"
+    "version": "v2.2.2",
+    "updated_at": "2026-01-17T08:23:57Z"
   },
   "astrbot_plugin_wordle": {
     "desc": "AstrBot Wordle 猜单词游戏，支持指定位数",
