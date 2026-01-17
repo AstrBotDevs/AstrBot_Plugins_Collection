@@ -913,7 +913,7 @@
     "tags": [],
     "stars": 13,
     "version": "1.8.0",
-    "updated_at": "2026-01-17T03:21:31Z",
+    "updated_at": "2026-01-17T08:44:09Z",
     "logo": "https://raw.githubusercontent.com/shskjw/astrbot_plugin_custom_menu/master/logo.png"
   },
   "astrbot_plugin_webnovel_info": {
@@ -2504,7 +2504,7 @@
     "tags": [],
     "stars": 2,
     "version": "v1.1.0",
-    "updated_at": "2025-12-31T10:47:45Z"
+    "updated_at": "2026-01-17T08:53:19Z"
   },
   "astrbot_plugin_newapi_checkin": {
     "display_name": "New-API 签到抽奖插件",
