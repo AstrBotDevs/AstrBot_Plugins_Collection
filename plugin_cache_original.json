@@ -36,7 +36,7 @@
     "social_link": "https://github.com/muyouzhi6",
     "stars": 5,
     "version": "2.5.2",
-    "updated_at": "2026-01-17T11:12:00Z",
+    "updated_at": "2026-01-17T11:19:19Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_context_aware/main/logo.png"
   },
   "astrbot_plugin_STEmbedding": {
@@ -47,9 +47,9 @@
     "tags": [
       "嵌入模型"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.2.1",
-    "updated_at": "2026-01-16T02:40:56Z"
+    "updated_at": "2026-01-17T12:08:07Z"
   },
   "BUGJI/astrbot_plugin_balance": {
     "display_name": "模型提供商余额查询",
@@ -239,9 +239,9 @@
       "人格"
     ],
     "social_link": "https://github.com/NickCharlie",
-    "stars": 75,
-    "version": "Next-1.1.0",
-    "updated_at": "2026-01-17T05:19:56Z",
+    "stars": 76,
+    "version": "Next-1.1.5",
+    "updated_at": "2026-01-17T12:28:07Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -548,9 +548,9 @@
       "下载"
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
-    "stars": 26,
+    "stars": 27,
     "version": "v1.1",
-    "updated_at": "2026-01-17T09:32:59Z"
+    "updated_at": "2026-01-17T12:16:03Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -1311,7 +1311,7 @@
     "social_link": "https://github.com/Xbodwf",
     "stars": 0,
     "version": "1.26.0",
-    "updated_at": "2026-01-17T08:23:17Z"
+    "updated_at": "2026-01-17T12:17:39Z"
   },
   "astrbot_plugin_QQbox": {
     "display_name": "QQbox",
@@ -4151,9 +4151,9 @@
     "author": "ctrlkk",
     "repo": "https://github.com/ctrlkk/astrbot_plugin_meme_manager_lite",
     "tags": [],
-    "stars": 9,
+    "stars": 10,
     "version": "v1.3",
-    "updated_at": "2026-01-01T18:56:20Z"
+    "updated_at": "2026-01-17T11:49:06Z"
   },
   "astrbot_plugin_festival_greeter": {
     "desc": "在节日期间为群聊推送使用LLM生成的祝福消息",
@@ -5210,8 +5210,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 18,
-    "version": "v2.0.1",
-    "updated_at": "2026-01-17T05:11:43Z",
+    "version": "v2.1.0",
+    "updated_at": "2026-01-17T12:45:56Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -6512,7 +6512,7 @@
     "repo": "https://github.com/itismygo/astrbot_plugin_mathjax2image",
     "stars": 2,
     "version": "v2.3.0",
-    "updated_at": "2026-01-17T11:14:22Z"
+    "updated_at": "2026-01-17T12:32:16Z"
   },
   "astrbot_plugin_xyzw_box": {
     "author": "cloudcranesss",
@@ -10073,9 +10073,9 @@
     "author": "buding",
     "repo": "https://github.com/zouyonghe/astrbot_plugin_ebooks",
     "tags": [],
-    "stars": 15,
+    "stars": 16,
     "version": "v2.0.0",
-    "updated_at": "2025-12-16T18:00:04Z"
+    "updated_at": "2026-01-17T12:41:44Z"
   },
   "astrbot_plugin_AIQTalk": {
     "desc": "基于QQ的AI声聊完成的（伪）TTS转语音",
