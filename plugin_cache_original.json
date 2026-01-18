@@ -1229,8 +1229,8 @@
       "大香蕉"
     ],
     "stars": 5,
-    "version": "1.2.0",
-    "updated_at": "2026-01-04T06:58:50Z",
+    "version": "1.2.1",
+    "updated_at": "2026-01-18T14:34:10Z",
     "logo": "https://raw.githubusercontent.com/wangyingxuan383-ai/astrbot_plugin_ronghedraw/main/logo.png"
   },
   "astrbot_plugin_model_router": {
@@ -1426,7 +1426,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 45,
     "version": "v1.1.4",
-    "updated_at": "2026-01-18T14:13:27Z",
+    "updated_at": "2026-01-18T15:04:12Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -3003,7 +3003,7 @@
     ],
     "stars": 10,
     "version": "1.7.5",
-    "updated_at": "2026-01-02T13:38:17Z",
+    "updated_at": "2026-01-18T15:12:04Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
