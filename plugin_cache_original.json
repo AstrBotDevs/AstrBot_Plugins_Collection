@@ -437,9 +437,9 @@
     "author": "gabriel0721",
     "repo": "https://github.com/TenmaGabriel0721/astrbot_plugin_llm_executor",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "1.1.0",
-    "updated_at": "2026-01-09T13:02:05Z"
+    "updated_at": "2026-01-18T16:52:27Z"
   },
   "astrbot_plugin_command_query": {
     "display_name": "指令查询工具",
@@ -447,9 +447,9 @@
     "author": "gabriel0721",
     "repo": "https://github.com/TenmaGabriel0721/astrbot_plugin_command_query",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "2.1.0",
-    "updated_at": "2026-01-13T06:39:54Z"
+    "updated_at": "2026-01-18T16:54:12Z"
   },
   "astrbot_plugin_maa": {
     "display_name": "MAA 远程控制",
@@ -761,9 +761,9 @@
     "author": "梦千秋",
     "repo": "https://github.com/WangYi82909/astrbot_plugin_yotts",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-01-09T16:17:39Z",
+    "updated_at": "2026-01-18T17:15:03Z",
     "logo": "https://raw.githubusercontent.com/WangYi82909/astrbot_plugin_yotts/main/logo.png"
   },
   "astrbot_plugin_better_reminder": {
@@ -1426,7 +1426,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 45,
     "version": "v1.1.5",
-    "updated_at": "2026-01-18T16:27:15Z",
+    "updated_at": "2026-01-18T17:18:34Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -8918,9 +8918,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
-    "stars": 80,
+    "stars": 81,
     "version": "v3.0.3",
-    "updated_at": "2026-01-18T06:37:35Z",
+    "updated_at": "2026-01-18T17:20:35Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
