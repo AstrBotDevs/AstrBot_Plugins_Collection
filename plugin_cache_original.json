@@ -39,7 +39,7 @@
     "social_link": "https://github.com/advent259141",
     "stars": 5,
     "version": "1.0.0",
-    "updated_at": "2026-01-10T12:27:41Z"
+    "updated_at": "2026-01-18T16:13:29Z"
   },
   "astrbot_plugin_ppnai": {
     "display_name": "泡泡画图",
@@ -1230,7 +1230,7 @@
     ],
     "stars": 5,
     "version": "1.2.1",
-    "updated_at": "2026-01-18T14:34:10Z",
+    "updated_at": "2026-01-18T15:45:50Z",
     "logo": "https://raw.githubusercontent.com/wangyingxuan383-ai/astrbot_plugin_ronghedraw/main/logo.png"
   },
   "astrbot_plugin_model_router": {
@@ -1425,8 +1425,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 45,
-    "version": "v1.1.4",
-    "updated_at": "2026-01-18T15:04:12Z",
+    "version": "v1.1.5",
+    "updated_at": "2026-01-18T16:27:15Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -9462,9 +9462,9 @@
       "功能",
       "搬史"
     ],
-    "stars": 494,
+    "stars": 495,
     "version": "v0.915",
-    "updated_at": "2026-01-14T11:50:10Z"
+    "updated_at": "2026-01-18T15:52:57Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
