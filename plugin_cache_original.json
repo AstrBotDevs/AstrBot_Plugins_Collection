@@ -100,8 +100,8 @@
     "tags": [],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 6,
-    "version": "2.5.2",
-    "updated_at": "2026-01-17T23:50:02Z",
+    "version": "2.5.3",
+    "updated_at": "2026-01-18T06:24:23Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_context_aware/main/logo.png"
   },
   "astrbot_plugin_STEmbedding": {
@@ -304,9 +304,9 @@
       "人格"
     ],
     "social_link": "https://github.com/NickCharlie",
-    "stars": 76,
+    "stars": 77,
     "version": "Next-1.1.5",
-    "updated_at": "2026-01-17T12:28:07Z",
+    "updated_at": "2026-01-18T06:12:34Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -1398,8 +1398,8 @@
     ],
     "social_link": "https://github.com/Xbodwf",
     "stars": 0,
-    "version": "1.28.1",
-    "updated_at": "2026-01-17T14:33:48Z"
+    "version": "1.29.0",
+    "updated_at": "2026-01-18T06:08:47Z"
   },
   "astrbot_plugin_QQbox": {
     "display_name": "QQbox",
@@ -1878,9 +1878,9 @@
       "@"
     ],
     "social_link": "https://qm.qq.com/q/RMjGPizOAm",
-    "stars": 9,
+    "stars": 10,
     "version": "v2.2.2",
-    "updated_at": "2026-01-09T11:22:36Z",
+    "updated_at": "2026-01-18T06:36:27Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_AtTool/main/logo.png"
   },
   "astrbot_plugin_CloudImg": {
@@ -4684,8 +4684,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 8,
-    "version": "v1.2.0",
-    "updated_at": "2026-01-02T20:10:49Z",
+    "version": "v2.0.0",
+    "updated_at": "2026-01-18T06:16:15Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_recall_cancel/main/logo.png"
   },
   "astrbot_plugin_multimsg": {
@@ -4750,7 +4750,7 @@
     "social_link": "https://github.com/SXP-Simon",
     "stars": 123,
     "version": "v4.6.4",
-    "updated_at": "2026-01-17T16:57:00Z",
+    "updated_at": "2026-01-18T05:57:45Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -5245,9 +5245,9 @@
       "唤醒增强"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 30,
+    "stars": 31,
     "version": "v2.1.0",
-    "updated_at": "2026-01-17T16:31:50Z",
+    "updated_at": "2026-01-18T06:37:59Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wakepro/main/logo.png"
   },
   "astrbot_plugin_memora_connect": {
@@ -5297,9 +5297,9 @@
       "输出增强"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 19,
+    "stars": 20,
     "version": "v2.1.0",
-    "updated_at": "2026-01-18T00:31:20Z",
+    "updated_at": "2026-01-18T06:38:08Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -6436,9 +6436,9 @@
     "repo": "https://github.com/HakimYu/astrbot_plugin_solve_longmsg",
     "desc": "撤回并合并转发群员或者机器人的长消息",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.1.2",
-    "updated_at": "2025-12-13T17:55:42Z"
+    "updated_at": "2026-01-18T06:37:11Z"
   },
   "astrbot_plugin_promise_keeper": {
     "author": "xunxi",
@@ -6969,9 +6969,9 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 93,
+    "stars": 94,
     "version": "v2.0.6",
-    "updated_at": "2026-01-17T13:06:06Z",
+    "updated_at": "2026-01-18T06:37:45Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -8492,9 +8492,9 @@
     "tags": [
       "QQ群管"
     ],
-    "stars": 82,
+    "stars": 83,
     "version": "v3.2.7",
-    "updated_at": "2026-01-15T05:43:38Z",
+    "updated_at": "2026-01-18T06:37:25Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -8918,9 +8918,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
-    "stars": 79,
+    "stars": 80,
     "version": "v3.0.3",
-    "updated_at": "2026-01-15T10:12:07Z",
+    "updated_at": "2026-01-18T06:37:35Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
@@ -10089,9 +10089,9 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 161,
+    "stars": 162,
     "version": "v2.0.15",
-    "updated_at": "2026-01-15T12:55:51Z"
+    "updated_at": "2026-01-18T06:08:58Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
