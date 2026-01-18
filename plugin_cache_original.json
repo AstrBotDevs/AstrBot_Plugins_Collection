@@ -37,9 +37,9 @@
       "Agent"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 5,
+    "stars": 6,
     "version": "1.0.0",
-    "updated_at": "2026-01-18T16:13:29Z"
+    "updated_at": "2026-01-18T17:30:11Z"
   },
   "astrbot_plugin_ppnai": {
     "display_name": "泡泡画图",
@@ -134,9 +134,9 @@
     "author": "yizyin",
     "repo": "https://github.com/yizyin2/astrbot_plugin_PersonaFlow",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "1.0.0",
-    "updated_at": "2026-01-16T15:44:19Z"
+    "updated_at": "2026-01-18T17:34:37Z"
   },
   "astrbot_plugin_safety": {
     "display_name": "✌️ 又活一天",
@@ -1426,7 +1426,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 45,
     "version": "v1.1.5",
-    "updated_at": "2026-01-18T17:18:34Z",
+    "updated_at": "2026-01-18T17:41:12Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -1540,8 +1540,8 @@
       "表情"
     ],
     "stars": 5,
-    "version": "2.1.1",
-    "updated_at": "2026-01-17T19:00:18Z",
+    "version": "2.1.2",
+    "updated_at": "2026-01-18T18:01:26Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -5016,7 +5016,7 @@
     "social_link": "astrbot.uk",
     "stars": 15,
     "version": "v1.5.1",
-    "updated_at": "2026-01-12T04:13:31Z"
+    "updated_at": "2026-01-18T17:51:20Z"
   },
   "should_I_respond": {
     "desc": "“我要回复这条消息吗？”当打开主动回复时，LLM 可能傻傻的就部分上下文一直回复。这个插件没准能解决这个问题。（在 aiocqhttp 平台测试，需要搭配主动回复功能使用）",
