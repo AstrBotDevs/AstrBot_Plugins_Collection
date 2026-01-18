@@ -34,9 +34,9 @@
     "repo": "https://github.com/muyouzhi6/astrbot_plugin_context_aware",
     "tags": [],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 5,
+    "stars": 6,
     "version": "2.5.2",
-    "updated_at": "2026-01-17T11:19:19Z",
+    "updated_at": "2026-01-17T23:50:02Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_context_aware/main/logo.png"
   },
   "astrbot_plugin_STEmbedding": {
@@ -912,8 +912,8 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_custom_menu",
     "tags": [],
     "stars": 13,
-    "version": "1.8.5",
-    "updated_at": "2026-01-17T14:20:04Z",
+    "version": "1.8.6",
+    "updated_at": "2026-01-18T01:50:38Z",
     "logo": "https://raw.githubusercontent.com/shskjw/astrbot_plugin_custom_menu/master/logo.png"
   },
   "astrbot_plugin_webnovel_info": {
@@ -5209,9 +5209,9 @@
       "输出增强"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 18,
+    "stars": 19,
     "version": "v2.1.0",
-    "updated_at": "2026-01-17T12:45:56Z",
+    "updated_at": "2026-01-18T00:31:20Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
