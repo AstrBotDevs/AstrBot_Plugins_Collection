@@ -1255,8 +1255,8 @@
       "群内互动"
     ],
     "stars": 6,
-    "version": "v2.3.1",
-    "updated_at": "2026-01-15T20:36:44Z",
+    "version": "v2.3.6",
+    "updated_at": "2026-01-18T08:53:33Z",
     "logo": "https://raw.githubusercontent.com/wangyingxuan383-ai/astrbot_plugin_pet_market/main/logo.png"
   },
   "astrbot_plugin_anuneko": {
@@ -6599,8 +6599,8 @@
     ],
     "repo": "https://github.com/itismygo/astrbot_plugin_mathjax2image",
     "stars": 2,
-    "version": "v2.4.0",
-    "updated_at": "2026-01-17T16:45:27Z"
+    "version": "v2.4.1",
+    "updated_at": "2026-01-18T09:15:50Z"
   },
   "astrbot_plugin_xyzw_box": {
     "author": "cloudcranesss",
