@@ -49,7 +49,7 @@
     "tags": [],
     "stars": 0,
     "version": "v1.0",
-    "updated_at": "2026-01-14T10:00:49Z"
+    "updated_at": "2026-01-18T04:36:27Z"
   },
   "astrbot_plugin_codemage": {
     "display_name": "插件生成器",
@@ -1426,7 +1426,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 44,
     "version": "v1.1.4",
-    "updated_at": "2026-01-13T02:59:08Z",
+    "updated_at": "2026-01-18T04:03:08Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
