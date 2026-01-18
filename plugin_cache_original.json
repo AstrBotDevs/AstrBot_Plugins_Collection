@@ -99,9 +99,9 @@
     "repo": "https://github.com/muyouzhi6/astrbot_plugin_context_aware",
     "tags": [],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 6,
-    "version": "2.5.3",
-    "updated_at": "2026-01-18T06:24:23Z",
+    "stars": 7,
+    "version": "3.0.0",
+    "updated_at": "2026-01-18T07:00:40Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_context_aware/main/logo.png"
   },
   "astrbot_plugin_STEmbedding": {
@@ -1424,9 +1424,9 @@
       "链接"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 44,
+    "stars": 45,
     "version": "v1.1.4",
-    "updated_at": "2026-01-18T04:03:08Z",
+    "updated_at": "2026-01-18T06:36:57Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -6461,9 +6461,9 @@
       "Kook",
       "平台适配器"
     ],
-    "stars": 9,
+    "stars": 10,
     "version": "v0.0.3",
-    "updated_at": "2025-12-08T09:27:31Z"
+    "updated_at": "2026-01-18T07:30:38Z"
   },
   "astrbot_plugin_deepresearch": {
     "author": "lxfight",
@@ -7637,8 +7637,8 @@
     "repo": "https://github.com/monbed/astrbot_plugin_animewifex",
     "tags": [],
     "stars": 5,
-    "version": "v1.6.4",
-    "updated_at": "2026-01-05T22:32:58Z",
+    "version": "v1.6.5",
+    "updated_at": "2026-01-18T07:21:15Z",
     "logo": "https://raw.githubusercontent.com/monbed/astrbot_plugin_animewifex/master/logo.png"
   },
   "astrbot_plugin_emojimix": {
@@ -8873,8 +8873,8 @@
     ],
     "repo": "https://github.com/xco2/astrbot_plugin_anime_gacha",
     "stars": 9,
-    "version": "v1.1.1",
-    "updated_at": "2025-11-27T05:27:01Z"
+    "version": "v1.1.2",
+    "updated_at": "2026-01-18T07:36:14Z"
   },
   "astrbot_plugin_nachoneko": {
     "desc": "一款获取甘城猫猫图片的插件",
