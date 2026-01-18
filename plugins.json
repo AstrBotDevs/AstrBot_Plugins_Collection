@@ -1,4 +1,26 @@
 {
+  "astrbot_plugin_simple_memory": {
+    "display_name": "基于 LLM 的简单记忆",
+    "desc": "一个帮助 AstrBot 将对话整理成「长期 /中期/ 短期记忆」的插件并在对话时候注入记忆。无需接入RAG。",
+    "author": "兔子",
+    "repo": "https://github.com/KonmaKanSinPack/astrbot_plugin_simple_memory",
+    "tags": [
+      "记忆",
+      "拟人",
+      "私聊"
+    ],
+    "social_link": "https://github.com/KonmaKanSinPack"
+  },
+  "astrbot_plugin_engram": {
+    "display_name": "仿生双轨记忆系统",
+    "desc": "仿生双轨记忆系统 - 长期记忆增强插件",
+    "author": "victical",
+    "repo": "https://github.com/victical/astrbot_plugin_engram",
+    "tags": [
+      "记忆",
+      "拟人"
+    ]
+  },
   "astrbot_plugin_mc_manager": {
     "display_name": "astrbot_plugin_mc_manager",
     "desc": "通过 LLM 智能管理 Minecraft 服务器，支持 Fabric/Forge/NeoForge",
@@ -6,6 +28,30 @@
     "repo": "https://github.com/advent259141/astrbot_plugin_mc_manager",
     "tags": ["MC","Agent"],
     "social_link": "https://github.com/advent259141"
+  },
+  "astrbot_plugin_ppnai": {
+    "display_name": "泡泡画图",
+    "desc": "泡泡画图：基于 NovelAI 官方 API 的绘图插件，具有强大的文生图/图生图、氛围转移、角色保持、AI 辅助生图、自动画图、队列与额度管理能力。",
+    "author": "LgCookie&etgpao&feiu",
+    "repo": "https://github.com/dafeiwu666/astrbot_plugin_ppnai"
+  },
+  "astrbot_plugin_codemage": {
+    "display_name": "插件生成器",
+    "desc": "一个基于AI的 AstrBot 插件生成器，可以根据自然语言描述自动生成完整的 AstrBot 插件。",
+    "author": "qa296",
+    "repo": "https://github.com/qa296/astrbot_plugin_codemage",
+    "tags": [
+      "插件",
+      "ai",
+      "生成"
+    ],
+    "social_link": "https://github.com/qa296/"
+  },
+  "astrbot_plugin_online_status": {
+    "display_name": "在线状态",
+    "desc": "在线状态管理与感知（仅适配 Napcat）",
+    "author": "bylkuse",
+    "repo": "https://github.com/bylkuse/astrbot_plugin_online_status"
   },
   "astrbot_plugin_logplus": {
     "display_name": "logplus",
@@ -338,6 +384,19 @@
       "举报",
       "审查"
     ]
+  },
+  "astrbot_plugin_models_ai": {
+    "display_name": "astrbot_plugin_models_ai",
+    "desc": "可以使用来自多家模型服务提供商的模型生成图片或通过自然语言让 LLM 生成",
+    "author": "祁筱欣",
+    "repo": "https://github.com/xiaomizhoubaobei/astrbot_plugin_models_ai",
+    "social_link": "https://github.com/xiaomizhoubaobei"
+  },
+  "astrbot_plugin_monixiuxian2": {
+    "display_name": "模拟修仙 v2",
+    "desc": "一款为 AstrBot 设计的、功能丰富的放置类修仙游戏插件。让你在聊天群中体验从凡人到大能的修行之路，工作摸鱼、畅聊吹水的同时亦可得道飞升！",
+    "author": "xiaojuwa",
+    "repo": "https://github.com/xiaojuwa/astrbot_plugin_monixiuxian2"
   },
   "astrbot_plugin_qymusic": {
     "display_name": "明航音乐",
