@@ -114,7 +114,7 @@
     ],
     "stars": 1,
     "version": "v1.2.3",
-    "updated_at": "2026-01-18T03:02:41Z"
+    "updated_at": "2026-01-18T08:26:01Z"
   },
   "BUGJI/astrbot_plugin_balance": {
     "display_name": "模型提供商余额查询",
@@ -2638,9 +2638,9 @@
       "好感度",
       "情感"
     ],
-    "stars": 7,
+    "stars": 8,
     "version": "v3.4",
-    "updated_at": "2025-12-07T05:04:40Z",
+    "updated_at": "2026-01-18T08:18:52Z",
     "logo": "https://raw.githubusercontent.com/tengtian3/astrbot-plugin-emotionai/main/logo.png"
   },
   "astrbot_plugin_email_narrator": {
