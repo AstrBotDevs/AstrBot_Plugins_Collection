@@ -89,8 +89,8 @@
     ],
     "social_link": "https://github.com/lxfight",
     "stars": 6,
-    "version": "1.1.0",
-    "updated_at": "2026-01-15T11:35:53Z"
+    "version": "1.2.0",
+    "updated_at": "2026-01-19T08:29:47Z"
   },
   "astrbot_plugin_context_aware": {
     "display_name": "上下文场景感知增强",
@@ -1229,8 +1229,8 @@
       "大香蕉"
     ],
     "stars": 5,
-    "version": "1.2.1",
-    "updated_at": "2026-01-18T15:45:50Z",
+    "version": "1.2.2",
+    "updated_at": "2026-01-19T08:37:07Z",
     "logo": "https://raw.githubusercontent.com/wangyingxuan383-ai/astrbot_plugin_ronghedraw/main/logo.png"
   },
   "astrbot_plugin_model_router": {
@@ -1411,8 +1411,8 @@
       "迫害群友"
     ],
     "stars": 1,
-    "version": "v1.1.9",
-    "updated_at": "2026-01-15T02:46:07Z"
+    "version": "v1.2.3",
+    "updated_at": "2026-01-19T07:36:14Z"
   },
   "astrbot_plugin_parser": {
     "display_name": "万能解析器",
@@ -1424,9 +1424,9 @@
       "链接"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 45,
+    "stars": 46,
     "version": "v1.1.5",
-    "updated_at": "2026-01-18T17:41:12Z",
+    "updated_at": "2026-01-19T07:52:58Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -4640,8 +4640,8 @@
       "rag"
     ],
     "stars": 54,
-    "version": "2.0.14",
-    "updated_at": "2026-01-13T11:01:36Z",
+    "version": "2.1.1",
+    "updated_at": "2026-01-19T07:45:22Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -4748,9 +4748,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 123,
+    "stars": 124,
     "version": "v4.6.4",
-    "updated_at": "2026-01-18T05:57:45Z",
+    "updated_at": "2026-01-19T07:49:36Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -5627,9 +5627,9 @@
       "屏蔽",
       "轮询"
     ],
-    "stars": 5,
+    "stars": 6,
     "version": "v1.2.0",
-    "updated_at": "2026-01-09T16:17:07Z"
+    "updated_at": "2026-01-19T08:07:19Z"
   },
   "astrbot_plugin_silent": {
     "desc": "一个极其简单的静默插件，当LLM回复内容中包含 silent 关键词时，自动阻止发送回复消息。",
