@@ -304,9 +304,9 @@
       "人格"
     ],
     "social_link": "https://github.com/NickCharlie",
-    "stars": 78,
+    "stars": 79,
     "version": "Next-1.1.5",
-    "updated_at": "2026-01-19T05:32:46Z",
+    "updated_at": "2026-01-19T06:08:20Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -1541,7 +1541,7 @@
     ],
     "stars": 5,
     "version": "2.1.2",
-    "updated_at": "2026-01-18T18:01:26Z",
+    "updated_at": "2026-01-19T06:30:08Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -6880,9 +6880,9 @@
       "Steam"
     ],
     "social_link": "https://github.com/Maoer233",
-    "stars": 47,
+    "stars": 48,
     "version": "2.1.8",
-    "updated_at": "2026-01-12T07:00:22Z"
+    "updated_at": "2026-01-19T06:41:14Z"
   },
   "astrbot_plugin_xiaoxue": {
     "author": "sbmikoto",
@@ -7411,7 +7411,7 @@
     ],
     "stars": 43,
     "version": "1.4.6",
-    "updated_at": "2026-01-16T04:41:00Z"
+    "updated_at": "2026-01-19T06:41:01Z"
   },
   "astrbot_plugin_bilibili_live": {
     "author": "Raven95676",
@@ -7637,8 +7637,8 @@
     "repo": "https://github.com/monbed/astrbot_plugin_animewifex",
     "tags": [],
     "stars": 5,
-    "version": "v1.6.6",
-    "updated_at": "2026-01-18T23:35:59Z",
+    "version": "v1.6.7",
+    "updated_at": "2026-01-19T06:47:10Z",
     "logo": "https://raw.githubusercontent.com/monbed/astrbot_plugin_animewifex/master/logo.png"
   },
   "astrbot_plugin_emojimix": {
