@@ -12,7 +12,7 @@
     "social_link": "https://github.com/KonmaKanSinPack",
     "stars": 1,
     "version": "v1.0.1",
-    "updated_at": "2026-01-19T14:17:06Z"
+    "updated_at": "2026-01-19T15:05:52Z"
   },
   "astrbot_plugin_engram": {
     "display_name": "仿生双轨记忆系统",
@@ -1001,7 +1001,7 @@
     "tags": [],
     "stars": 13,
     "version": "1.8.6",
-    "updated_at": "2026-01-18T01:50:38Z",
+    "updated_at": "2026-01-19T15:13:02Z",
     "logo": "https://raw.githubusercontent.com/shskjw/astrbot_plugin_custom_menu/master/logo.png"
   },
   "astrbot_plugin_webnovel_info": {
@@ -1030,8 +1030,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 13,
-    "version": "1.0.7",
-    "updated_at": "2026-01-19T11:39:06Z",
+    "version": "1.1.2",
+    "updated_at": "2026-01-19T15:25:08Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
@@ -5297,9 +5297,9 @@
       "输出增强"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 20,
-    "version": "v2.1.0",
-    "updated_at": "2026-01-18T06:38:08Z",
+    "stars": 21,
+    "version": "v2.1.1",
+    "updated_at": "2026-01-19T15:06:13Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -6083,8 +6083,8 @@
     ],
     "author": null,
     "stars": 20,
-    "version": "2.3.0",
-    "updated_at": "2026-01-19T13:04:06Z"
+    "version": "2.6.0",
+    "updated_at": "2026-01-19T14:50:27Z"
   },
   "astrbot_plugin_group_sign": {
     "name": "group_sign",
@@ -8492,9 +8492,9 @@
     "tags": [
       "QQ群管"
     ],
-    "stars": 83,
+    "stars": 84,
     "version": "v3.2.7",
-    "updated_at": "2026-01-18T06:37:25Z",
+    "updated_at": "2026-01-19T15:38:04Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
