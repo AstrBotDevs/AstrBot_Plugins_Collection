@@ -10,9 +10,9 @@
       "私聊"
     ],
     "social_link": "https://github.com/KonmaKanSinPack",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.1",
-    "updated_at": "2026-01-18T03:27:20Z"
+    "updated_at": "2026-01-19T14:17:06Z"
   },
   "astrbot_plugin_engram": {
     "display_name": "仿生双轨记忆系统",
@@ -1425,8 +1425,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 46,
-    "version": "v1.1.5",
-    "updated_at": "2026-01-19T07:52:58Z",
+    "version": "v1.1.6",
+    "updated_at": "2026-01-19T14:06:01Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -1556,9 +1556,9 @@
       "分段"
     ],
     "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
-    "stars": 13,
+    "stars": 14,
     "version": "v1.2.0",
-    "updated_at": "2026-01-19T05:29:27Z",
+    "updated_at": "2026-01-19T14:19:32Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -1591,9 +1591,9 @@
       "海啸预警"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 23,
+    "stars": 24,
     "version": "v1.3.1",
-    "updated_at": "2026-01-13T13:46:52Z",
+    "updated_at": "2026-01-19T14:30:35Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -1761,8 +1761,8 @@
     ],
     "social_link": "https://qm.qq.com/q/d4lwUp9ap4",
     "stars": 1,
-    "version": "v1.1.2",
-    "updated_at": "2026-01-17T01:35:54Z"
+    "version": "v1.1.3",
+    "updated_at": "2026-01-19T13:53:01Z"
   },
   "astrbot_plugin_AIpaper": {
     "display_name": "AI 论文推送",
@@ -2578,9 +2578,9 @@
       "小红书",
       "推特"
     ],
-    "stars": 15,
+    "stars": 16,
     "version": "v4.3.1",
-    "updated_at": "2026-01-11T10:21:04Z",
+    "updated_at": "2026-01-19T14:08:00Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
