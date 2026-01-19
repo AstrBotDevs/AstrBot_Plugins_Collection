@@ -1000,8 +1000,8 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_custom_menu",
     "tags": [],
     "stars": 13,
-    "version": "1.8.6",
-    "updated_at": "2026-01-19T15:13:02Z",
+    "version": "1.8.8",
+    "updated_at": "2026-01-19T16:20:03Z",
     "logo": "https://raw.githubusercontent.com/shskjw/astrbot_plugin_custom_menu/master/logo.png"
   },
   "astrbot_plugin_webnovel_info": {
@@ -1425,8 +1425,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 46,
-    "version": "v1.1.6",
-    "updated_at": "2026-01-19T14:06:01Z",
+    "version": "v1.1.7",
+    "updated_at": "2026-01-19T15:51:53Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
