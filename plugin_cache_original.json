@@ -4174,9 +4174,9 @@
       "战斗",
       "抽奖"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v2.0",
-    "updated_at": "2026-01-12T06:54:45Z"
+    "updated_at": "2026-01-20T17:21:39Z"
   },
   "astrbot_plugin_mcman": {
     "desc": "一个基于RCON协议的MC服务器管理器插件",
