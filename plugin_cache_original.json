@@ -259,9 +259,9 @@
       "动漫"
     ],
     "social_link": "https://github.com/kennylimz",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.1",
-    "updated_at": "2026-01-20T08:34:35Z",
+    "updated_at": "2026-01-20T15:00:27Z",
     "logo": "https://raw.githubusercontent.com/kennylimz/astrbot_plugin_mudae_qq/main/logo.png"
   },
   "BUGJI/astrbot_plugin_balance": {
@@ -1148,8 +1148,8 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_custom_menu",
     "tags": [],
     "stars": 13,
-    "version": "1.8.8",
-    "updated_at": "2026-01-19T16:20:03Z",
+    "version": "1.8.9",
+    "updated_at": "2026-01-20T15:21:25Z",
     "logo": "https://raw.githubusercontent.com/shskjw/astrbot_plugin_custom_menu/master/logo.png"
   },
   "astrbot_plugin_webnovel_info": {
@@ -4854,9 +4854,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 127,
+    "stars": 128,
     "version": "v4.6.6",
-    "updated_at": "2026-01-20T13:34:45Z",
+    "updated_at": "2026-01-20T15:33:03Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -5268,8 +5268,8 @@
     "social_link": "https://github.com/muyouzhi6",
     "tags": [],
     "stars": 5,
-    "version": "1.0.0",
-    "updated_at": "2026-01-02T08:32:30Z"
+    "version": "2.1.0",
+    "updated_at": "2026-01-20T15:45:03Z"
   },
   "astrbot_plugin_provider_ark_ResponsesAPI": {
     "desc": "将火山方舟(Volcengine Ark)的上下文缓存API(Responses API)注册为 AstrBot 的对话服务提供商(Provider)(支持/provider、缓存命中统计、Function Calling)",
