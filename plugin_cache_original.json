@@ -127,8 +127,8 @@
       "拟人"
     ],
     "stars": 1,
-    "version": "1.2.3",
-    "updated_at": "2026-01-20T08:34:47Z"
+    "version": "1.2.4",
+    "updated_at": "2026-01-20T10:00:40Z"
   },
   "astrbot_plugin_mc_manager": {
     "display_name": "astrbot_plugin_mc_manager",
@@ -7875,9 +7875,9 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 130,
+    "stars": 131,
     "version": "v2.0.6",
-    "updated_at": "2026-01-19T17:32:02Z",
+    "updated_at": "2026-01-20T10:13:42Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
