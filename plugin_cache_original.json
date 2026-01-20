@@ -294,7 +294,7 @@
     "tags": [],
     "stars": 1,
     "version": "1.0.7",
-    "updated_at": "2026-01-12T10:01:44Z"
+    "updated_at": "2026-01-20T13:45:18Z"
   },
   "astrbot_plugin_cloudmailapi": {
     "display_name": "CloudMail 邮箱 API 工具",
@@ -2012,8 +2012,8 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_gifcaijian",
     "tags": [],
     "stars": 8,
-    "version": "v1.4.0",
-    "updated_at": "2026-01-20T02:16:01Z"
+    "version": "v1.4.1",
+    "updated_at": "2026-01-20T13:22:55Z"
   },
   "astrbot_plugin_AtTool": {
     "display_name": "@工具（艾特工具）",
@@ -4854,9 +4854,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 126,
+    "stars": 127,
     "version": "v4.6.6",
-    "updated_at": "2026-01-20T12:35:22Z",
+    "updated_at": "2026-01-20T13:34:45Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -5869,7 +5869,7 @@
     ],
     "stars": 6,
     "version": "v1.3.2",
-    "updated_at": "2026-01-20T02:51:14Z",
+    "updated_at": "2026-01-20T13:50:00Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -7662,7 +7662,7 @@
     "repo": "https://github.com/zhewang448/astrbot_plugin_mrfz",
     "stars": 5,
     "version": "v3.4.1",
-    "updated_at": "2026-01-01T09:14:58Z",
+    "updated_at": "2026-01-20T13:45:05Z",
     "logo": "https://raw.githubusercontent.com/zhewang448/astrbot_plugin_mrfz/main/logo.png"
   },
   "astrbot_plugin_napdog_cleaner": {
