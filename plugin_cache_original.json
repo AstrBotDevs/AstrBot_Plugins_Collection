@@ -11,9 +11,9 @@
       "恋爱养成"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.0.9",
-    "updated_at": "2026-01-19T15:32:17Z",
+    "updated_at": "2026-01-20T04:38:31Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_love_formula/master/logo.png"
   },
   "astrbot_plugin_pjsk": {
@@ -26,9 +26,9 @@
       "表情包"
     ],
     "social_link": "https://github.com/camera-2018",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-01-20T02:34:43Z"
+    "updated_at": "2026-01-20T04:02:29Z"
   },
   "astrbot_plugin_galgame_box": {
     "display_name": "Galgame 百宝盒",
@@ -80,7 +80,7 @@
     "tags": [],
     "stars": 0,
     "version": "0.0.2",
-    "updated_at": "2026-01-16T21:06:14Z"
+    "updated_at": "2026-01-20T04:20:54Z"
   },
   "astrbot_plugin_fund_analyzer": {
     "display_name": "基金分析",
@@ -260,8 +260,8 @@
     ],
     "social_link": "https://github.com/kennylimz",
     "stars": 0,
-    "version": "v1.0",
-    "updated_at": "2026-01-11T23:28:59Z"
+    "version": "v1.1",
+    "updated_at": "2026-01-20T04:07:45Z"
   },
   "BUGJI/astrbot_plugin_balance": {
     "display_name": "模型提供商余额查询",
@@ -1402,8 +1402,8 @@
       "群内互动"
     ],
     "stars": 6,
-    "version": "v2.3.6",
-    "updated_at": "2026-01-18T10:01:56Z",
+    "version": "v2.3.7",
+    "updated_at": "2026-01-20T04:40:33Z",
     "logo": "https://raw.githubusercontent.com/wangyingxuan383-ai/astrbot_plugin_pet_market/main/logo.png"
   },
   "astrbot_plugin_anuneko": {
@@ -1573,7 +1573,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 46,
     "version": "v1.1.7",
-    "updated_at": "2026-01-19T15:51:53Z",
+    "updated_at": "2026-01-20T04:07:52Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -2228,9 +2228,9 @@
       "修图"
     ],
     "social_link": "https://github.com/piexian",
-    "stars": 18,
+    "stars": 19,
     "version": "v1.8.4",
-    "updated_at": "2026-01-17T08:17:14Z",
+    "updated_at": "2026-01-20T04:39:31Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -7720,8 +7720,8 @@
     "repo": "https://github.com/monbed/astrbot_plugin_animewifex",
     "tags": [],
     "stars": 5,
-    "version": "v1.6.7",
-    "updated_at": "2026-01-19T07:09:06Z",
+    "version": "v1.6.8",
+    "updated_at": "2026-01-20T05:01:20Z",
     "logo": "https://raw.githubusercontent.com/monbed/astrbot_plugin_animewifex/master/logo.png"
   },
   "astrbot_plugin_emojimix": {
