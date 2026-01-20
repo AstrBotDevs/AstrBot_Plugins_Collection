@@ -2231,7 +2231,7 @@
     "social_link": "https://github.com/piexian",
     "stars": 19,
     "version": "v1.8.5",
-    "updated_at": "2026-01-20T18:08:45Z",
+    "updated_at": "2026-01-20T18:47:29Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -8756,9 +8756,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
-    "stars": 45,
+    "stars": 46,
     "version": "v2.0.1",
-    "updated_at": "2026-01-14T18:06:02Z",
+    "updated_at": "2026-01-20T19:44:58Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
