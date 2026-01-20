@@ -12,8 +12,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 12,
-    "version": "v1.0.10",
-    "updated_at": "2026-01-20T06:39:19Z",
+    "version": "v1.0.11",
+    "updated_at": "2026-01-20T08:06:08Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_love_formula/master/logo.png"
   },
   "astrbot_plugin_pjsk": {
@@ -261,7 +261,7 @@
     "social_link": "https://github.com/kennylimz",
     "stars": 4,
     "version": "v1.1",
-    "updated_at": "2026-01-20T07:20:09Z",
+    "updated_at": "2026-01-20T08:34:35Z",
     "logo": "https://raw.githubusercontent.com/kennylimz/astrbot_plugin_mudae_qq/main/logo.png"
   },
   "BUGJI/astrbot_plugin_balance": {
@@ -4856,7 +4856,7 @@
     "social_link": "https://github.com/SXP-Simon",
     "stars": 126,
     "version": "v4.6.5",
-    "updated_at": "2026-01-20T06:37:59Z",
+    "updated_at": "2026-01-20T07:56:56Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -6694,7 +6694,7 @@
     "repo": "https://github.com/itismygo/astrbot_plugin_mathjax2image",
     "stars": 2,
     "version": "v2.4.1",
-    "updated_at": "2026-01-18T09:15:50Z"
+    "updated_at": "2026-01-20T08:24:59Z"
   },
   "astrbot_plugin_xyzw_box": {
     "author": "cloudcranesss",
