@@ -1,4 +1,107 @@
 {
+  "astrbot_plugin_love_formula": {
+    "display_name": "赛博恋爱演化诊断",
+    "desc": "基于“恋爱动力学”的群聊·今日恋爱成分分析 (Daily Cyber-Love Diagnosis)。",
+    "author": "SXP-Simon",
+    "repo": "https://github.com/SXP-Simon/astrbot_plugin_love_formula",
+    "tags": [
+      "QQ群",
+      "群友分析",
+      "个人形象",
+      "恋爱养成"
+    ],
+    "social_link": "https://github.com/SXP-Simon",
+    "stars": 9,
+    "version": "v1.0.9",
+    "updated_at": "2026-01-19T15:32:17Z",
+    "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_love_formula/master/logo.png"
+  },
+  "astrbot_plugin_pjsk": {
+    "display_name": "Sekai Stickers",
+    "desc": "Project Sekai 表情包制作插件",
+    "author": "camera-2018",
+    "repo": "https://github.com/camera-2018/astrbot_plugin_pjsk",
+    "tags": [
+      "pjsk",
+      "表情包"
+    ],
+    "social_link": "https://github.com/camera-2018",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-01-20T02:34:43Z"
+  },
+  "astrbot_plugin_galgame_box": {
+    "display_name": "Galgame 百宝盒",
+    "desc": "结合了VNDB和TouchGal的API，不但能够提供全面、细节的Galgame帮助信息，还能提供TouchGal的随机作品和资源下载等功能。后续会结合更多Gal网站的API提供更有趣的功能。",
+    "author": "PyuraMazo",
+    "repo": "https://github.com/PyuraMazo/astrbot_plugin_galgame_box",
+    "tags": [
+      "Galgame",
+      "旮旯给木",
+      "视觉小说",
+      "二次元",
+      "游戏资源"
+    ],
+    "social_link": "https://qwq.pyuramazo.online",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-01-19T16:10:46Z"
+  },
+  "astrbot_plugin_anitabi": {
+    "display_name": "圣地巡礼查询插件",
+    "desc": "基于 Anitabi API 的动漫圣地巡礼查询插件，支持随机作品、随机地点和猜地点游戏功能。",
+    "author": "enldm",
+    "repo": "https://github.com/enldm/astrbot_plugin_anitabi",
+    "tags": [
+      "动画"
+    ],
+    "social_link": "https://enldm.cyou",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-01-16T16:09:39Z"
+  },
+  "astrbot_plugin_vocechat_v2": {
+    "display_name": "vocechat 适配器插件",
+    "desc": "vocechat 适配器插件，基于旧版本做的兼容性优化",
+    "author": "ECRZ",
+    "repo": "https://github.com/ECR4Z/astrbot_plugin_vocechat",
+    "tags": [
+      "vocechat"
+    ],
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-01-16T06:47:33Z"
+  },
+  "astrbot_plugin_persona_manager": {
+    "display_name": "角色社区化人设管理",
+    "desc": "角色社区化人设管理插件：会话式创建/修改、标签检索、关键词触发、群私聊隔离；支持为角色注入配置/自定义前后置提示词，并可选启用正则文本清洗；同时支持 CozyNook 社区角色小屋的浏览/导入/导出与内容分享。",
+    "author": "Zaxpris&feiu",
+    "repo": "https://github.com/dafeiwu666/astrbot_plugin_persona_manager",
+    "tags": [],
+    "stars": 0,
+    "version": "0.0.2",
+    "updated_at": "2026-01-16T21:06:14Z"
+  },
+  "astrbot_plugin_fund_analyzer": {
+    "display_name": "基金分析",
+    "desc": "基金数据分析插件 - 提供实时行情、技术分析、量化指标、策略回测、AI智能分析",
+    "author": "2529huang",
+    "repo": "https://github.com/2529huang/astrbot_plugin_fund_analyzer",
+    "tags": [],
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-01-19T03:35:20Z"
+  },
+  "astrbot_plugin_CNKD_Admin": {
+    "display_name": "UapiPro言论管控",
+    "desc": "调用免费的敏感词审核接口监测群聊发言 管理员权限可阶梯式禁言 下载即用 支持白名单控制 支持配置管理员私信提示 6W+正则匹配词库 支持自定义敏感词（优先级高于API监测）",
+    "author": "CNKD-Yichex",
+    "repo": "https://github.com/YiChex/astrbot_plugin_CNKD_Admin",
+    "tags": [],
+    "stars": 0,
+    "version": "v0.1.1",
+    "updated_at": "2026-01-11T07:32:22Z"
+  },
   "astrbot_plugin_simple_memory": {
     "display_name": "基于 LLM 的简单记忆",
     "desc": "一个帮助 AstrBot 将对话整理成「长期 /中期/ 短期记忆」的插件并在对话时候注入记忆。无需接入RAG。",
@@ -37,9 +140,23 @@
       "Agent"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 7,
+    "stars": 8,
     "version": "1.0.0",
-    "updated_at": "2026-01-19T12:15:10Z"
+    "updated_at": "2026-01-20T03:41:01Z"
+  },
+  "astrbot_plugin_text2img": {
+    "display_name": "多平台文生图",
+    "desc": "多平台文生图插件，支持 Gitee AI、阿里云百炼、字节火山引擎。支持比例+质量参数智能选择分辨率，根据模型自动适配最佳配置。",
+    "author": "Olynx",
+    "repo": "https://github.com/Olynx7/astrbot_plugin_text2img",
+    "tags": [
+      "文生图"
+    ],
+    "social_link": "https://github.com/Olynx7",
+    "stars": 0,
+    "version": "v1.0",
+    "updated_at": "2026-01-02T15:52:36Z",
+    "logo": "https://raw.githubusercontent.com/Olynx7/astrbot_plugin_text2img/master/logo.png"
   },
   "astrbot_plugin_ppnai": {
     "display_name": "泡泡画图",
@@ -66,6 +183,22 @@
     "version": "1.0.0",
     "updated_at": "2026-01-19T12:47:40Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
+  },
+  "astrbot_plugin_music_pro": {
+    "display_name": "高级点歌",
+    "desc": "AstrBot 点歌插件，智能使用多个 API，达成免费听各种音乐",
+    "author": "Dayanshifu",
+    "repo": "https://github.com/Dayanshifu/astrbot_plugin_music_pro",
+    "tags": [
+      "点歌",
+      "音乐",
+      "网易云"
+    ],
+    "social_link": "https://github.com/Dayanshifu",
+    "stars": 2,
+    "version": "1.0.1",
+    "updated_at": "2026-01-12T17:47:21Z",
+    "logo": "https://raw.githubusercontent.com/Dayanshifu/astrbot_plugin_music_pro/main/logo.png"
   },
   "astrbot_plugin_online_status": {
     "display_name": "在线状态",
@@ -115,6 +248,20 @@
     "stars": 1,
     "version": "v1.2.3",
     "updated_at": "2026-01-19T02:11:24Z"
+  },
+  "astrbot_plugin_mudae_qq": {
+    "display_name": "二次元笑传之抽抽Bot",
+    "desc": "QQ 群动漫抽卡。",
+    "author": "kennylimz",
+    "repo": "https://github.com/kennylimz/astrbot_plugin_mudae_qq",
+    "tags": [
+      "群聊",
+      "动漫"
+    ],
+    "social_link": "https://github.com/kennylimz",
+    "stars": 0,
+    "version": "v1.0",
+    "updated_at": "2026-01-11T23:28:59Z"
   },
   "BUGJI/astrbot_plugin_balance": {
     "display_name": "模型提供商余额查询",
@@ -1539,9 +1686,9 @@
     "tags": [
       "表情"
     ],
-    "stars": 7,
+    "stars": 8,
     "version": "2.1.4",
-    "updated_at": "2026-01-19T19:06:25Z",
+    "updated_at": "2026-01-20T02:37:41Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -1863,9 +2010,9 @@
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_gifcaijian",
     "tags": [],
-    "stars": 7,
+    "stars": 8,
     "version": "v1.4.0",
-    "updated_at": "2025-12-30T07:07:22Z"
+    "updated_at": "2026-01-20T02:16:01Z"
   },
   "astrbot_plugin_AtTool": {
     "display_name": "@工具（艾特工具）",
@@ -2668,9 +2815,9 @@
       "视频生成"
     ],
     "social_link": "https://www.functen.cn/",
-    "stars": 5,
+    "stars": 6,
     "version": "1.0.0",
-    "updated_at": "2026-01-17T16:28:20Z"
+    "updated_at": "2026-01-20T02:22:08Z"
   },
   "astrbot_plugin_http_adapter": {
     "display_name": "HTTP 消息设配器",
@@ -4059,9 +4206,9 @@
       "game",
       "fishing"
     ],
-    "stars": 28,
+    "stars": 29,
     "version": "2.4.7",
-    "updated_at": "2026-01-17T14:04:38Z",
+    "updated_at": "2026-01-20T03:32:28Z",
     "logo": "https://raw.githubusercontent.com/xxlemon-io/astrbot_plugin_fishing/main/logo.png"
   },
   "astrbot_plugin_astrmetry": {
@@ -5256,8 +5403,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 22,
-    "version": "v2.1.1",
-    "updated_at": "2026-01-20T01:27:45Z",
+    "version": "v2.1.2",
+    "updated_at": "2026-01-20T03:05:29Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -5719,9 +5866,9 @@
       "用户信息",
       "主动回复"
     ],
-    "stars": 5,
+    "stars": 6,
     "version": "v1.3.2",
-    "updated_at": "2026-01-13T05:26:39Z",
+    "updated_at": "2026-01-20T02:51:14Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -9430,9 +9577,9 @@
       "webui",
       "图床"
     ],
-    "stars": 122,
+    "stars": 123,
     "version": "v3.19",
-    "updated_at": "2026-01-19T09:42:39Z"
+    "updated_at": "2026-01-20T03:44:22Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
