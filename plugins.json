@@ -1,4 +1,52 @@
 {
+  "astrbot_plugin_love_formula": {
+    "display_name": "赛博恋爱演化诊断",
+    "desc": "基于“恋爱动力学”的群聊·今日恋爱成分分析 (Daily Cyber-Love Diagnosis)。",
+    "author": "SXP-Simon",
+    "repo": "https://github.com/SXP-Simon/astrbot_plugin_love_formula",
+    "tags": [
+      "QQ群",
+      "群友分析",
+      "个人形象",
+      "恋爱养成"
+    ],
+    "social_link": "https://github.com/SXP-Simon"
+  },
+  "astrbot_plugin_pjsk": {
+    "display_name": "Sekai Stickers",
+    "desc": "Project Sekai 表情包制作插件",
+    "author": "camera-2018",
+    "repo": "https://github.com/camera-2018/astrbot_plugin_pjsk",
+    "tags": [
+      "pjsk",
+      "表情包"
+    ],
+    "social_link": "https://github.com/camera-2018"
+  },
+  "astrbot_plugin_galgame_box": {
+    "display_name": "Galgame 百宝盒",
+    "desc": "结合了VNDB和TouchGal的API，不但能够提供全面、细节的Galgame帮助信息，还能提供TouchGal的随机作品和资源下载等功能。后续会结合更多Gal网站的API提供更有趣的功能。",
+    "author": "PyuraMazo",
+    "repo": "https://github.com/PyuraMazo/astrbot_plugin_galgame_box",
+    "tags": [
+      "Galgame",
+      "旮旯给木",
+      "视觉小说",
+      "二次元",
+      "游戏资源"
+    ],
+    "social_link": "https://qwq.pyuramazo.online"
+  },
+  "astrbot_plugin_anitabi": {
+    "display_name": "圣地巡礼查询插件",
+    "desc": "基于 Anitabi API 的动漫圣地巡礼查询插件，支持随机作品、随机地点和猜地点游戏功能。",
+    "author": "enldm",
+    "repo": "https://github.com/enldm/astrbot_plugin_anitabi",
+    "tags": [
+      "动画"
+    ],
+    "social_link": "https://enldm.cyou"
+  },
   "astrbot_plugin_vocechat_v2": {
     "display_name": "vocechat 适配器插件",
     "desc": "vocechat 适配器插件，基于旧版本做的兼容性优化",
