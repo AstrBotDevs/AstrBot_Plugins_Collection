@@ -261,7 +261,8 @@
     "social_link": "https://github.com/kennylimz",
     "stars": 1,
     "version": "v1.1",
-    "updated_at": "2026-01-20T04:49:24Z"
+    "updated_at": "2026-01-20T06:25:44Z",
+    "logo": "https://raw.githubusercontent.com/kennylimz/astrbot_plugin_mudae_qq/main/logo.png"
   },
   "BUGJI/astrbot_plugin_balance": {
     "display_name": "模型提供商余额查询",
@@ -466,8 +467,8 @@
     ],
     "social_link": "https://github.com/Li-shi-ling",
     "stars": 0,
-    "version": "v1.0.6",
-    "updated_at": "2026-01-09T01:53:23Z"
+    "version": "v1.0.8",
+    "updated_at": "2026-01-20T05:46:33Z"
   },
   "astrbot_plugin_help_typst": {
     "display_name": "插件菜单(typst 实现)",
@@ -1558,8 +1559,8 @@
       "迫害群友"
     ],
     "stars": 1,
-    "version": "v1.2.3",
-    "updated_at": "2026-01-19T07:36:14Z"
+    "version": "v1.2.6",
+    "updated_at": "2026-01-20T06:27:01Z"
   },
   "astrbot_plugin_parser": {
     "display_name": "万能解析器",
@@ -4854,8 +4855,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 126,
-    "version": "v4.6.4",
-    "updated_at": "2026-01-19T16:51:15Z",
+    "version": "v4.6.5",
+    "updated_at": "2026-01-20T06:37:59Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -7720,8 +7721,8 @@
     "repo": "https://github.com/monbed/astrbot_plugin_animewifex",
     "tags": [],
     "stars": 5,
-    "version": "v1.6.8",
-    "updated_at": "2026-01-20T05:37:05Z",
+    "version": "v1.6.9",
+    "updated_at": "2026-01-20T05:45:23Z",
     "logo": "https://raw.githubusercontent.com/monbed/astrbot_plugin_animewifex/master/logo.png"
   },
   "astrbot_plugin_emojimix": {
