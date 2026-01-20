@@ -681,7 +681,7 @@
     ],
     "stars": 1,
     "version": "v1.0",
-    "updated_at": "2026-01-16T09:03:14Z",
+    "updated_at": "2026-01-20T11:43:52Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_admin_notifier/master/logo.png"
   },
   "astrbot_plugin_models_ai": {
@@ -784,9 +784,9 @@
       "下载"
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
-    "stars": 27,
+    "stars": 28,
     "version": "v1.1",
-    "updated_at": "2026-01-17T12:16:03Z"
+    "updated_at": "2026-01-20T12:39:58Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -2026,9 +2026,9 @@
       "@"
     ],
     "social_link": "https://qm.qq.com/q/RMjGPizOAm",
-    "stars": 10,
+    "stars": 11,
     "version": "v2.2.2",
-    "updated_at": "2026-01-18T06:36:27Z",
+    "updated_at": "2026-01-20T12:48:28Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_AtTool/main/logo.png"
   },
   "astrbot_plugin_CloudImg": {
@@ -4855,8 +4855,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 126,
-    "version": "v4.6.5",
-    "updated_at": "2026-01-20T07:56:56Z",
+    "version": "v4.6.6",
+    "updated_at": "2026-01-20T12:35:22Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -8567,9 +8567,9 @@
     "tags": [
       "QQ群管"
     ],
-    "stars": 85,
+    "stars": 86,
     "version": "v3.2.7",
-    "updated_at": "2026-01-20T02:06:51Z",
+    "updated_at": "2026-01-20T12:32:29Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
