@@ -11,9 +11,9 @@
       "恋爱养成"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 10,
+    "stars": 12,
     "version": "v1.0.9",
-    "updated_at": "2026-01-20T04:38:31Z",
+    "updated_at": "2026-01-20T04:58:20Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_love_formula/master/logo.png"
   },
   "astrbot_plugin_pjsk": {
@@ -259,9 +259,9 @@
       "动漫"
     ],
     "social_link": "https://github.com/kennylimz",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.1",
-    "updated_at": "2026-01-20T04:07:45Z"
+    "updated_at": "2026-01-20T04:49:24Z"
   },
   "BUGJI/astrbot_plugin_balance": {
     "display_name": "模型提供商余额查询",
@@ -7721,7 +7721,7 @@
     "tags": [],
     "stars": 5,
     "version": "v1.6.8",
-    "updated_at": "2026-01-20T05:01:20Z",
+    "updated_at": "2026-01-20T05:37:05Z",
     "logo": "https://raw.githubusercontent.com/monbed/astrbot_plugin_animewifex/master/logo.png"
   },
   "astrbot_plugin_emojimix": {
