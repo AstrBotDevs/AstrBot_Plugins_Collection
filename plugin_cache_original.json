@@ -1192,9 +1192,9 @@
       "学习",
       "人格"
     ],
-    "stars": 16,
+    "stars": 17,
     "version": "0.99.99",
-    "updated_at": "2026-01-21T06:16:48Z"
+    "updated_at": "2026-01-21T12:44:37Z"
   },
   "astrbot_plugin_angel_heart": {
     "display_name": "天使之心",
@@ -1206,9 +1206,9 @@
       "主动应答",
       "群聊优化"
     ],
-    "stars": 25,
+    "stars": 26,
     "version": "0.8.8",
-    "updated_at": "2026-01-21T05:12:15Z"
+    "updated_at": "2026-01-21T12:43:54Z"
   },
   "astrbot_plugin_angel_eye": {
     "display_name": "天使之眼",
@@ -4316,9 +4316,9 @@
     "author": "RC-CHN",
     "repo": "https://github.com/RC-CHN/astrbot_plugin_the_Big-3_Chinese_AI_conferences",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "v1.3",
-    "updated_at": "2025-12-28T14:57:49Z"
+    "updated_at": "2026-01-21T11:37:04Z"
   },
   "astrbot_plugin_mc_admin": {
     "desc": "这是 MC服务器 的管理插件，支持list，珍珠炮落点计算，服务器工程坐标，备货清单，白名单管理等功能",
@@ -4922,8 +4922,8 @@
     "repo": "https://github.com/muyouzhi6/astrbot_plugin_restrict_syscmd",
     "tags": [],
     "stars": 6,
-    "version": "0.2.1",
-    "updated_at": "2026-01-18T13:42:09Z"
+    "version": "2.0.0",
+    "updated_at": "2026-01-21T12:03:01Z"
   },
   "astrbot_plugin_jojo_stand_panel": {
     "desc": "一个用于 AstrBot 的 JOJO 替身面板生成插件，调用 TripleYing 的 API 生成 JOJO 风格替身面板图片。支持随机生成、自定义设置、替身系统等功能。",
