@@ -784,9 +784,9 @@
       "下载"
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
-    "stars": 30,
+    "stars": 29,
     "version": "v1.1",
-    "updated_at": "2026-01-21T06:28:21Z"
+    "updated_at": "2026-01-21T14:25:05Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -5268,8 +5268,8 @@
     "social_link": "https://github.com/muyouzhi6",
     "tags": [],
     "stars": 6,
-    "version": "2.3.0",
-    "updated_at": "2026-01-21T10:56:13Z",
+    "version": "2.3.1",
+    "updated_at": "2026-01-21T14:16:53Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_immersive_control/main/logo.png"
   },
   "astrbot_plugin_provider_ark_ResponsesAPI": {
