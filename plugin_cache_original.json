@@ -5268,8 +5268,9 @@
     "social_link": "https://github.com/muyouzhi6",
     "tags": [],
     "stars": 6,
-    "version": "2.2.0",
-    "updated_at": "2026-01-21T02:50:30Z"
+    "version": "2.3.0",
+    "updated_at": "2026-01-21T10:56:13Z",
+    "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_immersive_control/main/logo.png"
   },
   "astrbot_plugin_provider_ark_ResponsesAPI": {
     "desc": "将火山方舟(Volcengine Ark)的上下文缓存API(Responses API)注册为 AstrBot 的对话服务提供商(Provider)(支持/provider、缓存命中统计、Function Calling)",
@@ -7478,9 +7479,9 @@
       "贴表情"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 20,
+    "stars": 21,
     "version": "v1.1.3",
-    "updated_at": "2026-01-15T16:39:26Z",
+    "updated_at": "2026-01-21T11:16:15Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_emoji_like/main/logo.png"
   },
   "astrbot_plugin_lanraragi": {
