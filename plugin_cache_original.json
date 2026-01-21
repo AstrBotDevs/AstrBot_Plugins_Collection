@@ -478,7 +478,7 @@
     "tags": [],
     "stars": 6,
     "version": "v0.0.8",
-    "updated_at": "2026-01-12T23:05:46Z",
+    "updated_at": "2026-01-21T06:32:23Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_help_typst/master/logo.png"
   },
   "astrbot_plugin_lb_provider": {
@@ -784,9 +784,9 @@
       "下载"
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
-    "stars": 28,
+    "stars": 30,
     "version": "v1.1",
-    "updated_at": "2026-01-20T12:39:58Z"
+    "updated_at": "2026-01-21T06:28:21Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -1192,9 +1192,9 @@
       "学习",
       "人格"
     ],
-    "stars": 15,
+    "stars": 16,
     "version": "0.99.99",
-    "updated_at": "2026-01-06T16:46:00Z"
+    "updated_at": "2026-01-21T06:16:48Z"
   },
   "astrbot_plugin_angel_heart": {
     "display_name": "天使之心",
@@ -1560,7 +1560,7 @@
     ],
     "stars": 1,
     "version": "v1.2.6",
-    "updated_at": "2026-01-20T06:27:01Z"
+    "updated_at": "2026-01-21T06:39:03Z"
   },
   "astrbot_plugin_parser": {
     "display_name": "万能解析器",
@@ -7924,9 +7924,9 @@
       "minecraft",
       "游戏"
     ],
-    "stars": 9,
+    "stars": 10,
     "version": "v1.8.4",
-    "updated_at": "2026-01-10T05:01:59Z",
+    "updated_at": "2026-01-21T05:47:45Z",
     "logo": "https://raw.githubusercontent.com/kterna/astrbot_plugin_mcqq/main/logo.png"
   },
   "astrbot_plugin_Group-Verification": {
