@@ -1,4 +1,17 @@
 {
+  "astrbot_plugin_github_webhook": {
+    "display_name": "GitHub Webhook 插件",
+    "desc": "将 GitHub 事件（push、issue、PR 等）转发到聊天平台的插件",
+    "author": "TatsukiMeng",
+    "repo": "https://github.com/TatsukiMengChen/astrbot_plugin_github_webhook",
+    "tags": [
+      "Github"
+    ],
+    "social_link": "https://mc.mimeng.top",
+    "stars": 2,
+    "version": "0.4.0",
+    "updated_at": "2026-01-21T14:31:10Z"
+  },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
     "desc": "基于“恋爱动力学”的群聊·今日恋爱成分分析 (Daily Cyber-Love Diagnosis)。",
@@ -1687,9 +1700,9 @@
     "tags": [
       "表情"
     ],
-    "stars": 8,
+    "stars": 9,
     "version": "2.1.5",
-    "updated_at": "2026-01-20T16:30:25Z",
+    "updated_at": "2026-01-21T15:28:20Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -3379,9 +3392,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 66,
+    "stars": 67,
     "version": "v1.1.3",
-    "updated_at": "2026-01-18T14:06:48Z",
+    "updated_at": "2026-01-21T14:50:56Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
