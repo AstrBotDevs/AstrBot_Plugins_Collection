@@ -5868,8 +5868,8 @@
       "主动回复"
     ],
     "stars": 6,
-    "version": "v1.3.3",
-    "updated_at": "2026-01-20T13:58:51Z",
+    "version": "v1.3.4",
+    "updated_at": "2026-01-21T04:08:09Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -8840,7 +8840,7 @@
     "tags": [],
     "stars": 9,
     "version": "1.0.0",
-    "updated_at": "2025-11-09T07:12:05Z"
+    "updated_at": "2026-01-21T04:33:53Z"
   },
   "astrbot_plugin_vv_pic": {
     "desc": "发送最符合关键词的 vv 表情包",
