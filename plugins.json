@@ -1,4 +1,14 @@
 {
+  "astrbot_plugin_github_webhook": {
+    "display_name": "GitHub Webhook 插件",
+    "desc": "将 GitHub 事件（push、issue、PR 等）转发到聊天平台的插件",
+    "author": "TatsukiMeng",
+    "repo": "https://github.com/TatsukiMengChen/astrbot_plugin_github_webhook",
+    "tags": [
+      "Github"
+    ],
+    "social_link": "https://mc.mimeng.top"
+  },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
     "desc": "基于“恋爱动力学”的群聊·今日恋爱成分分析 (Daily Cyber-Love Diagnosis)。",
