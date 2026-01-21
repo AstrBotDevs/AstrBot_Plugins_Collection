@@ -12,8 +12,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 15,
-    "version": "v1.0.12",
-    "updated_at": "2026-01-21T08:32:50Z",
+    "version": "v1.0.13",
+    "updated_at": "2026-01-21T09:26:46Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_love_formula/master/logo.png"
   },
   "astrbot_plugin_pjsk": {
@@ -43,9 +43,9 @@
       "游戏资源"
     ],
     "social_link": "https://qwq.pyuramazo.online",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-01-19T16:10:46Z"
+    "updated_at": "2026-01-21T08:42:06Z"
   },
   "astrbot_plugin_anitabi": {
     "display_name": "圣地巡礼查询插件",
