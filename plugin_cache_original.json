@@ -1206,9 +1206,9 @@
       "主动应答",
       "群聊优化"
     ],
-    "stars": 24,
+    "stars": 25,
     "version": "0.8.8",
-    "updated_at": "2026-01-13T02:58:57Z"
+    "updated_at": "2026-01-21T05:12:15Z"
   },
   "astrbot_plugin_angel_eye": {
     "display_name": "天使之眼",
@@ -1572,9 +1572,9 @@
       "链接"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 46,
+    "stars": 47,
     "version": "v1.1.7",
-    "updated_at": "2026-01-20T04:07:52Z",
+    "updated_at": "2026-01-21T05:18:07Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
