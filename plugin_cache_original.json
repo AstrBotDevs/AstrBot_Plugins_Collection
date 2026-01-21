@@ -450,9 +450,9 @@
     "author": "薄暝",
     "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
     "tags": [],
-    "stars": 12,
+    "stars": 13,
     "version": "v3.9.13",
-    "updated_at": "2026-01-19T13:28:01Z",
+    "updated_at": "2026-01-21T15:55:46Z",
     "logo": "https://raw.githubusercontent.com/xiaoxi68/astrbot_zssm_explain/main/logo.png"
   },
   "astrbot_plugin_self_learning": {
@@ -4867,9 +4867,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 129,
+    "stars": 130,
     "version": "v4.6.6",
-    "updated_at": "2026-01-21T01:01:35Z",
+    "updated_at": "2026-01-21T16:28:32Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -5721,9 +5721,9 @@
       "截屏"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.0.5",
-    "updated_at": "2025-12-18T05:54:19Z",
+    "updated_at": "2026-01-21T16:24:07Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_screenctrl/main/logo.png"
   },
   "astrbot_plugin_error_pro": {
@@ -7735,8 +7735,8 @@
     "repo": "https://github.com/monbed/astrbot_plugin_animewifex",
     "tags": [],
     "stars": 5,
-    "version": "v1.6.9",
-    "updated_at": "2026-01-20T05:45:23Z",
+    "version": "v1.7.0",
+    "updated_at": "2026-01-21T16:21:29Z",
     "logo": "https://raw.githubusercontent.com/monbed/astrbot_plugin_animewifex/master/logo.png"
   },
   "astrbot_plugin_emojimix": {
@@ -9594,7 +9594,7 @@
     ],
     "stars": 123,
     "version": "v3.19",
-    "updated_at": "2026-01-20T03:44:22Z"
+    "updated_at": "2026-01-21T16:47:18Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
