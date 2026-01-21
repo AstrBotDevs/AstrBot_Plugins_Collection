@@ -12,8 +12,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 15,
-    "version": "v1.0.13",
-    "updated_at": "2026-01-21T09:26:46Z",
+    "version": "v1.0.15",
+    "updated_at": "2026-01-21T10:08:53Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_love_formula/master/logo.png"
   },
   "astrbot_plugin_pjsk": {
@@ -7039,9 +7039,9 @@
       "系统状态"
     ],
     "social_link": "https://github.com/BB0813",
-    "stars": 7,
+    "stars": 6,
     "version": "v2.0.0",
-    "updated_at": "2026-01-16T08:00:19Z"
+    "updated_at": "2026-01-21T10:05:24Z"
   },
   "astrbot_dg_lab_plugin": {
     "author": "RC-CHN",
@@ -7110,9 +7110,9 @@
       "天气查询"
     ],
     "social_link": "https://github.com/BB0813",
-    "stars": 3,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2025-09-16T10:52:18Z"
+    "updated_at": "2026-01-21T10:05:20Z"
   },
   "astrbot_plugin_chouqunyou": {
     "author": "灵煞",
