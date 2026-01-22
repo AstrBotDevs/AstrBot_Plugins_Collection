@@ -491,7 +491,7 @@
     "tags": [],
     "stars": 6,
     "version": "v0.1.0",
-    "updated_at": "2026-01-21T13:05:01Z",
+    "updated_at": "2026-01-22T04:15:25Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_help_typst/master/logo.png"
   },
   "astrbot_plugin_lb_provider": {
@@ -598,9 +598,9 @@
     "author": "gabriel0721",
     "repo": "https://github.com/TenmaGabriel0721/astrbot_plugin_llm_executor",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "1.1.0",
-    "updated_at": "2026-01-18T16:52:27Z"
+    "updated_at": "2026-01-22T03:56:06Z"
   },
   "astrbot_plugin_command_query": {
     "display_name": "指令查询工具",
@@ -608,9 +608,9 @@
     "author": "gabriel0721",
     "repo": "https://github.com/TenmaGabriel0721/astrbot_plugin_command_query",
     "tags": [],
-    "stars": 7,
+    "stars": 8,
     "version": "2.1.0",
-    "updated_at": "2026-01-18T16:54:12Z"
+    "updated_at": "2026-01-22T03:56:08Z"
   },
   "astrbot_plugin_maa": {
     "display_name": "MAA 远程控制",
