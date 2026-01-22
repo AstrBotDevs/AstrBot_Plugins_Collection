@@ -39,9 +39,9 @@
       "表情包"
     ],
     "social_link": "https://github.com/camera-2018",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-01-20T04:02:29Z"
+    "updated_at": "2026-01-22T01:10:08Z"
   },
   "astrbot_plugin_galgame_box": {
     "display_name": "Galgame 百宝盒",
@@ -423,9 +423,9 @@
       "NLP"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 16,
+    "stars": 17,
     "version": "1.1.1",
-    "updated_at": "2026-01-11T01:11:39Z"
+    "updated_at": "2026-01-22T00:35:16Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
