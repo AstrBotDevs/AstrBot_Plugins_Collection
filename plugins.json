@@ -1,4 +1,48 @@
 {
+  "astrbot_plugin_service_watcher": {
+    "display_name": "互联网服务监控",
+    "desc": "聚合监控 GitHub、OpenAI、Cloudflare 等主流服务的运行状态。通过各服务官方提供的 JSON API 进行轮询，在检测到服务状态异常或恢复时第一时间发送预警推送。",
+    "author": "Aloys233",
+    "repo": "https://github.com/Aloys233/astrbot_plugin_service_watcher"
+  },
+  "astrbot_plugin_daily_sharing": {
+    "display_name": "定时主动分享所见所闻",
+    "desc": "Daily Sharing 打破了单一的图文限制，让 Bot 拥有了“开口说话”的能力，根据时间段、生活状态、聊天记忆和网络热搜，通过带有情绪的语音、配图与文字，向指定的好友或群组分享生活点滴。",
+    "author": "四次元未来",
+    "repo": "https://github.com/siciyuanweilai/astrbot_plugin_daily_sharing",
+    "tags": ["拟人","分享","定时","推送"],
+    "social_link": "https://github.com/siciyuanweilai"
+  },
+  "astrbot_plugin_balance_get": {
+    "display_name": "模型平台余额查询",
+    "desc": "支持通过命令查询模型平台的余额。",
+    "author": "SakuraChiyo0v0",
+    "repo": "https://github.com/SakuraChiyo0v0/astrbot_plugin_balance_get",
+    "tags": [
+      "余额查询"
+    ],
+    "social_link": "https://github.com/SakuraChiyo0v0"
+  },
+  "astrbot_plugin_ww_gacha_sim": {
+    "display_name": "鸣潮模拟抽卡",
+    "desc": "一个提供模拟鸣潮抽卡功能的插件，展示抽卡结果和渲染图片，支持自定义卡池配置和物品导入等功能。",
+    "author": "Ruafafa",
+    "repo": "https://github.com/Ruafafa/astrbot_plugin_ww_gacha_sim",
+    "tags": [
+      "鸣潮",
+      "抽卡",
+      "模拟"
+    ],
+    "social_link": "https://github.com/Ruafafa"
+  },
+  "astrbot_plugin_mysql": {
+    "display_name": "MySQL数据库操作工具",
+    "desc": "一个简单的 MySQL 数据库管理插件，让AI通过自然语言安全地操作数据库，支持增删改查、WebUI管理、权限分割和日志审计。",
+    "author": "Chris",
+    "repo": "https://github.com/Chris95743/astrbot_plugin_mysql",
+    "tags": ["数据库","用来水作业再合适不过了"],
+    "social_link": "https://blog.gbkgov.cn"
+  },
   "astrbot_plugin_github_webhook": {
     "display_name": "GitHub Webhook 插件",
     "desc": "将 GitHub 事件（push、issue、PR 等）转发到聊天平台的插件",
@@ -104,6 +148,54 @@
     "repo": "https://github.com/advent259141/astrbot_plugin_mc_manager",
     "tags": ["MC", "Agent"],
     "social_link": "https://github.com/advent259141"
+  },
+  "astrbot_plugin_chatmaster": {
+    "display_name": "死了么 | 一款检测群聊活跃度的插件",
+    "desc": "活跃度监控插件，支持白名单/全员监控切换，每日定时日报。",
+    "author": "danfong1104",
+    "repo": "https://github.com/danfong1104/astrbot_plugin_chatmaster",
+    "tags": [
+      "群聊活跃度监测"
+    ]
+  },
+  "astrbot_plugin_cheer_mate": {
+    "display_name": "陪伴夸夸机器人",
+    "desc": "一个温暖的陪伴插件，在你焦虑时无条件肯定你。每天晚上主动问候，通过AI回复提供情绪价值。",
+    "author": "warrior-dl",
+    "repo": "https://github.com/warrior-dl/astrbot_plugin_cheer_mate"
+  },
+  "astrbot_plugin_self_iterative_core": {
+    "display_name": "自迭代核心",
+    "desc": "AI 自动升级完善自身功能的核心模块",
+    "author": "DITF16",
+    "repo": "https://github.com/DITF16/astrbot_plugin_self_iterative_core",
+    "tags": [
+      "Agent",
+      "升级",
+      "自迭代",
+      "插件编写"
+    ],
+    "social_link": "https://github.com/DITF16"
+  },
+  "astrbot_plugin_qq_group_summary": {
+    "display_name": "QQ群聊总结",
+    "desc": "QQ群聊总结，支持LLM TOOL调用。",
+    "author": "棒棒糖",
+    "repo": "https://github.com/zhoufan47/astrbot_plugin_qq_group_summary",
+    "tags": [
+      "QQ",
+      "总结"
+    ]
+  },
+  "astrbot_plugin_keywords_reply": {
+    "display_name": "关键词回复",
+    "desc": "支持图文回复、正则匹配关键词和灵活管理的关键词回复插件。",
+    "author": "Foolllll",
+    "repo": "https://github.com/Foolllll-J/astrbot_plugin_keywords_reply",
+    "tags": [
+      "关键词",
+      "自动回复"
+    ]
   },
   "astrbot_plugin_text2img": {
     "display_name": "多平台文生图",
@@ -476,6 +568,16 @@
     "repo": "https://github.com/TY-China/Van",
     "tags": ["aiohttp"]
   },
+  "astrbot_plugin_multi_execute": {
+    "display_name": "指令倍增器",
+    "desc": "通过发送 nx /指令 表示模拟执行连续 n 次 /指令，支持设置间隔时间。",
+    "author": "Foolllll",
+    "repo": "https://github.com/Foolllll-J/astrbot_plugin_multi_execute",
+    "tags": [
+      "指令",
+      "自动化"
+    ]
+  },
   "astrbot_plugin_recall_xz": {
     "display_name": "消息撤回",
     "desc"        : "一个自动撤回触发词和机器人发送的消息的插件。",
@@ -751,6 +853,18 @@
     "repo": "https://github.com/zhyx111999/astrbot_plugin_web_analysis",
     "tags": ["playwright", "解析", "网页"],
     "social_link": "3268514224"
+  },
+  "astrbot_plugin_gskard": {
+    "display_name": "搞牌...启动!",
+    "desc": "一个模拟GSkard抽牌系统的插件",
+    "author": "efsdw",
+    "repo": "https://github.com/efsdw/astrbot_plugin_gskard",
+    "tags": [
+      "抽卡",
+      "游戏",
+      "我的世界"
+    ],
+    "social_link": "https://space.bilibili.com/452006737"
   },
   "astrbot_plugin_img_rev_searcher_Ver2": {
     "display_name": "图片反搜聚合Ver2",
