@@ -368,9 +368,9 @@
       "网页验证"
     ],
     "social_link": "https://github.com/VanillaNahida/",
-    "stars": 12,
+    "stars": 13,
     "version": "v1.1.9",
-    "updated_at": "2026-01-20T11:17:41Z",
+    "updated_at": "2026-01-22T12:04:14Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_geetest_verify/master/logo.png"
   },
   "astrbot_plugin_cliproxy_stats": {
@@ -578,7 +578,7 @@
     "social_link": "https://github.com/stevessr",
     "stars": 4,
     "version": "0.2.8",
-    "updated_at": "2026-01-16T05:23:19Z",
+    "updated_at": "2026-01-22T12:49:17Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_url_image_auto": {
@@ -3584,9 +3584,9 @@
       "洛谷",
       "训练"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0",
-    "updated_at": "2025-11-11T15:54:11Z"
+    "updated_at": "2026-01-22T12:50:08Z"
   },
   "astrbot_plugin_chat_queue": {
     "desc": "让并发消息按照队列依次执行",
@@ -4242,9 +4242,9 @@
     "repo": "https://github.com/Chris95743/astrbot_plugin_VITS_pro",
     "social_link": "https://voice.gbkgov.cn",
     "tags": [],
-    "stars": 15,
+    "stars": 16,
     "version": "v1.9.0",
-    "updated_at": "2026-01-15T08:12:20Z"
+    "updated_at": "2026-01-22T11:35:09Z"
   },
   "astrbot_plugin_blacklist_tools": {
     "desc": "允许管理员和 LLM 将用户添加到黑名单中，阻止他们的消息，自动拉黑！",
@@ -5243,9 +5243,9 @@
       "SiliconFlow"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 42,
+    "stars": 43,
     "version": "2.2.2",
-    "updated_at": "2026-01-16T01:49:00Z",
+    "updated_at": "2026-01-22T12:28:35Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "astrbot_plugin_keyword_monitor": {
@@ -5418,8 +5418,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 22,
-    "version": "v2.1.3",
-    "updated_at": "2026-01-21T02:17:27Z",
+    "version": "v2.1.4",
+    "updated_at": "2026-01-22T12:46:17Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
