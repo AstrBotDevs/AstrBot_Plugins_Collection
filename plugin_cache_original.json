@@ -9551,9 +9551,9 @@
       "功能",
       "搬史"
     ],
-    "stars": 495,
+    "stars": 496,
     "version": "v0.915",
-    "updated_at": "2026-01-18T15:52:57Z"
+    "updated_at": "2026-01-22T02:51:02Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
