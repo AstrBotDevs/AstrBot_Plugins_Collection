@@ -1,4 +1,76 @@
 {
+  "astrbot_plugin_service_watcher": {
+    "display_name": "互联网服务监控",
+    "desc": "聚合监控 GitHub、OpenAI、Cloudflare 等主流服务的运行状态。通过各服务官方提供的 JSON API 进行轮询，在检测到服务状态异常或恢复时第一时间发送预警推送。",
+    "author": "Aloys233",
+    "repo": "https://github.com/Aloys233/astrbot_plugin_service_watcher",
+    "tags": [],
+    "stars": 3,
+    "version": "v0.0.1",
+    "updated_at": "2026-01-19T12:13:25Z"
+  },
+  "astrbot_plugin_daily_sharing": {
+    "display_name": "定时主动分享所见所闻",
+    "desc": "Daily Sharing 打破了单一的图文限制，让 Bot 拥有了“开口说话”的能力，根据时间段、生活状态、聊天记忆和网络热搜，通过带有情绪的语音、配图与文字，向指定的好友或群组分享生活点滴。",
+    "author": "四次元未来",
+    "repo": "https://github.com/siciyuanweilai/astrbot_plugin_daily_sharing",
+    "tags": [
+      "拟人",
+      "分享",
+      "定时",
+      "推送"
+    ],
+    "social_link": "https://github.com/siciyuanweilai",
+    "stars": 1,
+    "version": "1.0.0",
+    "updated_at": "2026-01-22T15:16:17Z",
+    "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
+  },
+  "astrbot_plugin_balance_get": {
+    "display_name": "模型平台余额查询",
+    "desc": "支持通过命令查询模型平台的余额。",
+    "author": "SakuraChiyo0v0",
+    "repo": "https://github.com/SakuraChiyo0v0/astrbot_plugin_balance_get",
+    "tags": [
+      "余额查询"
+    ],
+    "social_link": "https://github.com/SakuraChiyo0v0",
+    "stars": 1,
+    "version": "v0.4.0",
+    "updated_at": "2026-01-12T03:24:27Z",
+    "logo": "https://raw.githubusercontent.com/SakuraChiyo0v0/astrbot_plugin_balance_get/master/logo.png"
+  },
+  "astrbot_plugin_ww_gacha_sim": {
+    "display_name": "鸣潮模拟抽卡",
+    "desc": "一个提供模拟鸣潮抽卡功能的插件，展示抽卡结果和渲染图片，支持自定义卡池配置和物品导入等功能。",
+    "author": "Ruafafa",
+    "repo": "https://github.com/Ruafafa/astrbot_plugin_ww_gacha_sim",
+    "tags": [
+      "鸣潮",
+      "抽卡",
+      "模拟"
+    ],
+    "social_link": "https://github.com/Ruafafa",
+    "stars": 0,
+    "version": "v1.0",
+    "updated_at": "2026-01-16T18:13:53Z",
+    "logo": "https://raw.githubusercontent.com/Ruafafa/astrbot_plugin_ww_gacha_sim/master/logo.png"
+  },
+  "astrbot_plugin_mysql": {
+    "display_name": "MySQL数据库操作工具",
+    "desc": "一个简单的 MySQL 数据库管理插件，让AI通过自然语言安全地操作数据库，支持增删改查、WebUI管理、权限分割和日志审计。",
+    "author": "Chris",
+    "repo": "https://github.com/Chris95743/astrbot_plugin_mysql",
+    "tags": [
+      "数据库",
+      "用来水作业再合适不过了"
+    ],
+    "social_link": "https://blog.gbkgov.cn",
+    "stars": 2,
+    "version": "v1.0.0",
+    "updated_at": "2026-01-22T01:25:30Z",
+    "logo": "https://raw.githubusercontent.com/Chris95743/astrbot_plugin_mysql/main/logo.png"
+  },
   "astrbot_plugin_github_webhook": {
     "display_name": "GitHub Webhook 插件",
     "desc": "将 GitHub 事件（push、issue、PR 等）转发到聊天平台的插件",
@@ -157,6 +229,73 @@
     "version": "1.0.0",
     "updated_at": "2026-01-20T03:41:01Z"
   },
+  "astrbot_plugin_chatmaster": {
+    "display_name": "死了么 | 一款检测群聊活跃度的插件",
+    "desc": "活跃度监控插件，支持白名单/全员监控切换，每日定时日报。",
+    "author": "danfong1104",
+    "repo": "https://github.com/danfong1104/astrbot_plugin_chatmaster",
+    "tags": [
+      "群聊活跃度监测"
+    ],
+    "stars": 0,
+    "version": "2.1.0",
+    "updated_at": "2026-01-22T09:54:36Z",
+    "logo": "https://raw.githubusercontent.com/danfong1104/astrbot_plugin_chatmaster/main/logo.png"
+  },
+  "astrbot_plugin_cheer_mate": {
+    "display_name": "陪伴夸夸机器人",
+    "desc": "一个温暖的陪伴插件，在你焦虑时无条件肯定你。每天晚上主动问候，通过AI回复提供情绪价值。",
+    "author": "warrior-dl",
+    "repo": "https://github.com/warrior-dl/astrbot_plugin_cheer_mate",
+    "tags": [],
+    "stars": 0,
+    "version": "v0.1.0",
+    "updated_at": "2026-01-17T04:26:20Z"
+  },
+  "astrbot_plugin_self_iterative_core": {
+    "display_name": "自迭代核心",
+    "desc": "AI 自动升级完善自身功能的核心模块",
+    "author": "DITF16",
+    "repo": "https://github.com/DITF16/astrbot_plugin_self_iterative_core",
+    "tags": [
+      "Agent",
+      "升级",
+      "自迭代",
+      "插件编写"
+    ],
+    "social_link": "https://github.com/DITF16",
+    "stars": 2,
+    "version": "1.0.0",
+    "updated_at": "2026-01-15T07:29:28Z",
+    "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
+  },
+  "astrbot_plugin_qq_group_summary": {
+    "display_name": "QQ群聊总结",
+    "desc": "QQ群聊总结，支持LLM TOOL调用。",
+    "author": "棒棒糖",
+    "repo": "https://github.com/zhoufan47/astrbot_plugin_qq_group_summary",
+    "tags": [
+      "QQ",
+      "总结"
+    ],
+    "stars": 0,
+    "version": "v1.1.5",
+    "updated_at": "2026-01-19T10:19:56Z"
+  },
+  "astrbot_plugin_keywords_reply": {
+    "display_name": "关键词回复",
+    "desc": "支持图文回复、正则匹配关键词和灵活管理的关键词回复插件。",
+    "author": "Foolllll",
+    "repo": "https://github.com/Foolllll-J/astrbot_plugin_keywords_reply",
+    "tags": [
+      "关键词",
+      "自动回复"
+    ],
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-01-16T08:53:02Z",
+    "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_keywords_reply/master/logo.png"
+  },
   "astrbot_plugin_text2img": {
     "display_name": "多平台文生图",
     "desc": "多平台文生图插件，支持 Gitee AI、阿里云百炼、字节火山引擎。支持比例+质量参数智能选择分辨率，根据模型自动适配最佳配置。",
@@ -245,9 +384,9 @@
     "repo": "https://github.com/muyouzhi6/astrbot_plugin_context_aware",
     "tags": [],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 7,
+    "stars": 8,
     "version": "3.0.1",
-    "updated_at": "2026-01-19T01:16:42Z",
+    "updated_at": "2026-01-22T15:01:04Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_context_aware/main/logo.png"
   },
   "astrbot_plugin_STEmbedding": {
@@ -272,9 +411,9 @@
       "动漫"
     ],
     "social_link": "https://github.com/kennylimz",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.1",
-    "updated_at": "2026-01-21T20:03:00Z",
+    "updated_at": "2026-01-22T15:19:32Z",
     "logo": "https://raw.githubusercontent.com/kennylimz/astrbot_plugin_mudae_qq/main/logo.png"
   },
   "BUGJI/astrbot_plugin_balance": {
@@ -828,6 +967,20 @@
     "updated_at": "2025-12-28T04:34:08Z",
     "logo": "https://raw.githubusercontent.com/TY-China/Van/master/logo.png"
   },
+  "astrbot_plugin_multi_execute": {
+    "display_name": "指令倍增器",
+    "desc": "通过发送 nx /指令 表示模拟执行连续 n 次 /指令，支持设置间隔时间。",
+    "author": "Foolllll",
+    "repo": "https://github.com/Foolllll-J/astrbot_plugin_multi_execute",
+    "tags": [
+      "指令",
+      "自动化"
+    ],
+    "stars": 0,
+    "version": "v1.0",
+    "updated_at": "2026-01-16T08:43:36Z",
+    "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_multi_execute/master/logo.png"
+  },
   "astrbot_plugin_recall_xz": {
     "display_name": "消息撤回",
     "desc": "一个自动撤回触发词和机器人发送的消息的插件。",
@@ -1340,6 +1493,22 @@
     "stars": 2,
     "version": "0.4.3",
     "updated_at": "2026-01-13T22:26:48Z"
+  },
+  "astrbot_plugin_gskard": {
+    "display_name": "搞牌...启动!",
+    "desc": "一个模拟GSkard抽牌系统的插件",
+    "author": "efsdw",
+    "repo": "https://github.com/efsdw/astrbot_plugin_gskard",
+    "tags": [
+      "抽卡",
+      "游戏",
+      "我的世界"
+    ],
+    "social_link": "https://space.bilibili.com/452006737",
+    "stars": 0,
+    "version": "v1.0.2",
+    "updated_at": "2026-01-02T14:22:07Z",
+    "logo": "https://raw.githubusercontent.com/efsdw/astrbot_plugin_gskard/main/logo.png"
   },
   "astrbot_plugin_img_rev_searcher_Ver2": {
     "display_name": "图片反搜聚合Ver2",
@@ -3064,6 +3233,21 @@
     "updated_at": "2026-01-07T15:08:16Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_stockgame/master/logo.png"
   },
+  "astrbot_plugin_cryptocurrency": {
+    "display_name": "基于 LLM 的加密货币模拟交易",
+    "desc": "加密货币模拟交易插件具备实时价格、市场数据和AI投资模拟功能",
+    "author": "vmoranv",
+    "repo": "https://github.com/vmoranv/astrbot_plugin_cryptocurrency",
+    "tags": [
+      "加密货币",
+      "AI 投资模拟"
+    ],
+    "social_link": "https://github.com/vmoranv",
+    "stars": 4,
+    "version": "v2.0.0",
+    "updated_at": "2025-12-20T06:38:49Z",
+    "logo": "https://raw.githubusercontent.com/vmoranv/astrbot_plugin_cryptocurrency/master/logo.png"
+  },
   "astrbot_plugin_qqgal": {
     "display_name": "Gal 风格图片生成",
     "desc": "引用或跟随文本生成 GalGame 风格选项，支持图片渲染、自动生图+抠图叠加立绘。",
@@ -4550,6 +4734,19 @@
     "version": "v1.1",
     "updated_at": "2025-10-06T13:57:10Z"
   },
+  "astrbot_plugin_move3d": {
+    "desc": "将用户引用的图片转换为简笔画风格裸眼3D图的 AstrBot 插件。",
+    "author": "vmoranv",
+    "repo": "https://github.com/vmoranv/astrbot_plugin_move3d",
+    "tags": [
+      "简笔画",
+      "裸眼3d"
+    ],
+    "social_link": "https://github.com/vmoranv",
+    "stars": 0,
+    "version": "v1.0",
+    "updated_at": "2025-09-13T04:34:57Z"
+  },
   "astrbot_plugin_poker_game": {
     "desc": "德州扑克游戏插件 - 支持私聊发牌、多人游戏、积分系统、房间管理、管理员控制等完整功能",
     "author": "山萘",
@@ -4867,9 +5064,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 130,
+    "stars": 131,
     "version": "v4.6.6",
-    "updated_at": "2026-01-21T16:28:32Z",
+    "updated_at": "2026-01-22T15:00:54Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -5482,6 +5679,18 @@
     "version": "v1.0.4",
     "updated_at": "2025-09-27T08:56:51Z"
   },
+  "astrbot_plugin_aolastar": {
+    "desc": "通过Aolarhapsody后端 API 解析奥拉星游戏内容",
+    "author": "vmoranv",
+    "repo": "https://github.com/vmoranv/astrbot_plugin_aolastar",
+    "tags": [
+      "奥拉星"
+    ],
+    "social_link": "https://github.com/vmoranv",
+    "stars": 1,
+    "version": "1.0.3",
+    "updated_at": "2025-10-17T00:35:08Z"
+  },
   "astrbot_plugin_identity_strategy": {
     "desc": "为群聊/私聊注入指定的应对提示词（纯配置，无命令；支持特殊ID与空白策略）",
     "author": "CaQing ＆ GPT-5 Pro",
@@ -6053,9 +6262,9 @@
       "健康",
       "娱乐"
     ],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.3",
-    "updated_at": "2026-01-20T00:18:20Z",
+    "updated_at": "2026-01-22T15:36:47Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_deer_check/master/logo.png"
   },
   "astrbot_plugin_pet": {
@@ -7406,9 +7615,9 @@
       "画像"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 52,
+    "stars": 53,
     "version": "v1.0.7",
-    "updated_at": "2026-01-16T05:43:09Z",
+    "updated_at": "2026-01-22T15:00:37Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
@@ -7655,6 +7864,16 @@
     "stars": 10,
     "version": "v1.5.1",
     "updated_at": "2026-01-13T15:01:43Z"
+  },
+  "astrbot_plugin_yinlish": {
+    "author": "vmoranv",
+    "desc": "普通文本转换为'*语',支持自定义*乱度,*语字典",
+    "repo": "https://github.com/vmoranv/astrbot_plugin_yinlish",
+    "social_link": "https://github.com/vmoranv",
+    "tags": [],
+    "stars": 2,
+    "version": "v1.1.0",
+    "updated_at": "2026-01-22T15:36:46Z"
   },
   "astrbot_plugin_voiceprint": {
     "author": "hello七七",
@@ -8069,6 +8288,15 @@
     "updated_at": "2026-01-17T06:37:12Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
+  "astrbot_plugin_fuck": {
+    "author": "vmoranv",
+    "desc": "一个为 AstrBot 设计的命令纠错插件，灵感来源于著名的命令行工具 thefuck。当你不小心输错了一个命令时（例如 /pixic 而不是 /pixiv），只需紧接着发送 /fuck，此插件就会尝试找出你可能想输入的正确命令，并给出建议。",
+    "repo": "https://github.com/vmoranv/astrbot_plugin_fuck",
+    "tags": [],
+    "stars": 2,
+    "version": "v1.2.0",
+    "updated_at": "2026-01-11T02:04:33Z"
+  },
   "astrbot_plugin_wuziqi": {
     "author": "大沙北",
     "desc": "简单的五子棋对战游戏",
@@ -8471,9 +8699,9 @@
       "复读"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_reread",
-    "stars": 23,
+    "stars": 24,
     "version": "v1.1.5",
-    "updated_at": "2025-12-27T17:49:49Z",
+    "updated_at": "2026-01-22T15:00:44Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_reread/main/logo.png"
   },
   "astrbot_plugin_csbaoyan": {
@@ -9088,9 +9316,9 @@
     "tags": [
       "nsfw"
     ],
-    "stars": 11,
+    "stars": 12,
     "version": "v1.3",
-    "updated_at": "2026-01-20T00:18:19Z"
+    "updated_at": "2026-01-22T15:36:46Z"
   },
   "astrbot_plugin_Translation": {
     "desc": "通过调用百度翻译 API 接口实现翻译文本",
