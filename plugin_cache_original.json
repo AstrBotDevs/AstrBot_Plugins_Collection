@@ -2644,6 +2644,20 @@
     "version": "v0.0.7",
     "updated_at": "2025-11-28T06:07:30Z"
   },
+  "astrbot_plugin_command2llm": {
+    "display_name": "Command2LLM",
+    "desc": "让大模型能够调用所有插件命令的智能聊天插件。",
+    "author": "vmoranv",
+    "repo": "https://github.com/vmoranv/astrbot_plugin_command2llm",
+    "tags": [
+      "命令",
+      "llm工具"
+    ],
+    "social_link": "https://github.com/vmoranv",
+    "stars": 4,
+    "version": "v1.0.0",
+    "updated_at": "2025-12-18T09:29:31Z"
+  },
   "astrbot_plugin_whitelistpro": {
     "display_name": "白名单拓展",
     "desc": "支持临时会话、好友私聊、群聊的白名单独立控制和全局白名单黑名单",
@@ -2699,8 +2713,8 @@
     ],
     "social_link": "https://github.com/piexian",
     "stars": 2,
-    "version": "1.2.0",
-    "updated_at": "2025-11-27T08:00:15Z",
+    "version": "1.2.5",
+    "updated_at": "2026-01-22T16:19:26Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_rg2/master/logo.png"
   },
   "astrbot_plugin_maimaidx": {
