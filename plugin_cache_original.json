@@ -8266,8 +8266,8 @@
     ],
     "desc": "CS 武器箱开箱模拟支持大量目前已有的武器箱，可以展示开启物品的图案和对应的磨损",
     "stars": 3,
-    "version": "v1.1",
-    "updated_at": "2025-12-26T07:22:10Z"
+    "version": "v1.2",
+    "updated_at": "2026-01-22T09:40:21Z"
   },
   "astrbot_plugin_gallery": {
     "display_name": "图库管理器",
