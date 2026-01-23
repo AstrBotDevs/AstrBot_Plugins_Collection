@@ -237,9 +237,9 @@
     "tags": [
       "群聊活跃度监测"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "2.1.0",
-    "updated_at": "2026-01-22T09:54:36Z",
+    "updated_at": "2026-01-23T08:18:31Z",
     "logo": "https://raw.githubusercontent.com/danfong1104/astrbot_plugin_chatmaster/main/logo.png"
   },
   "astrbot_plugin_cheer_mate": {
@@ -5440,9 +5440,9 @@
       "Steam"
     ],
     "social_link": "https://github.com/danfong1104",
-    "stars": 1,
+    "stars": 2,
     "version": "v2.1.1",
-    "updated_at": "2025-09-20T05:41:21Z"
+    "updated_at": "2026-01-23T08:18:31Z"
   },
   "astrbot_plugin_tts_emotion_router": {
     "desc": "按情绪路由到不同音色与语速的 TTS 插件（硅基流动 API，其他OpenAI语音接口api同样适配），支持隐藏标记与启发式情绪识别、概率/长度/冷却门控与会话开关。",
@@ -9793,9 +9793,9 @@
       "功能",
       "搬史"
     ],
-    "stars": 496,
+    "stars": 497,
     "version": "v0.915",
-    "updated_at": "2026-01-22T02:51:02Z"
+    "updated_at": "2026-01-23T07:10:41Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
