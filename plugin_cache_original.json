@@ -23,7 +23,7 @@
     "social_link": "https://github.com/siciyuanweilai",
     "stars": 2,
     "version": "1.0.0",
-    "updated_at": "2026-01-23T09:02:08Z",
+    "updated_at": "2026-01-23T14:27:30Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_balance_get": {
@@ -264,9 +264,9 @@
       "插件编写"
     ],
     "social_link": "https://github.com/DITF16",
-    "stars": 5,
+    "stars": 6,
     "version": "1.1.1",
-    "updated_at": "2026-01-23T12:10:57Z",
+    "updated_at": "2026-01-23T14:35:46Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_qq_group_summary": {
@@ -520,8 +520,8 @@
     "social_link": "https://github.com/muyouzhi6",
     "tags": [],
     "stars": 2,
-    "version": "1.0.1",
-    "updated_at": "2026-01-23T14:17:38Z"
+    "version": "1.0.2",
+    "updated_at": "2026-01-23T15:19:28Z"
   },
   "astrbot_plugin_chord": {
     "display_name": "和弦查询",
@@ -3592,7 +3592,7 @@
     "social_link": "https://github.com/DBJD-CR",
     "stars": 68,
     "version": "v1.1.4",
-    "updated_at": "2026-01-23T01:52:52Z",
+    "updated_at": "2026-01-23T15:04:35Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
