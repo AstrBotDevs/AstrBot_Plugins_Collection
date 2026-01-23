@@ -21,9 +21,9 @@
       "推送"
     ],
     "social_link": "https://github.com/siciyuanweilai",
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.0",
-    "updated_at": "2026-01-22T15:16:17Z",
+    "updated_at": "2026-01-23T09:02:08Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_balance_get": {
@@ -66,9 +66,9 @@
       "用来水作业再合适不过了"
     ],
     "social_link": "https://blog.gbkgov.cn",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-01-22T01:25:30Z",
+    "updated_at": "2026-01-23T09:16:15Z",
     "logo": "https://raw.githubusercontent.com/Chris95743/astrbot_plugin_mysql/main/logo.png"
   },
   "astrbot_plugin_github_webhook": {
@@ -264,9 +264,9 @@
       "插件编写"
     ],
     "social_link": "https://github.com/DITF16",
-    "stars": 2,
+    "stars": 3,
     "version": "1.1.1",
-    "updated_at": "2026-01-23T06:56:57Z",
+    "updated_at": "2026-01-23T09:19:00Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_qq_group_summary": {
@@ -4569,9 +4569,9 @@
     "author": "ctrlkk",
     "repo": "https://github.com/ctrlkk/astrbot_plugin_meme_manager_lite",
     "tags": [],
-    "stars": 10,
+    "stars": 11,
     "version": "v1.3",
-    "updated_at": "2026-01-17T11:49:06Z"
+    "updated_at": "2026-01-23T09:32:44Z"
   },
   "astrbot_plugin_festival_greeter": {
     "desc": "在节日期间为群聊推送使用LLM生成的祝福消息",
