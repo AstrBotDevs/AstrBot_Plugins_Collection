@@ -173,9 +173,9 @@
     "author": "2529huang",
     "repo": "https://github.com/2529huang/astrbot_plugin_fund_analyzer",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "1.0.0",
-    "updated_at": "2026-01-19T03:35:20Z"
+    "updated_at": "2026-01-23T07:06:57Z"
   },
   "astrbot_plugin_CNKD_Admin": {
     "display_name": "UapiPro言论管控",
@@ -265,8 +265,8 @@
     ],
     "social_link": "https://github.com/DITF16",
     "stars": 2,
-    "version": "1.1.0",
-    "updated_at": "2026-01-23T06:10:52Z",
+    "version": "1.1.1",
+    "updated_at": "2026-01-23T06:56:57Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_qq_group_summary": {
@@ -6106,7 +6106,7 @@
     ],
     "stars": 6,
     "version": "v1.3.4",
-    "updated_at": "2026-01-21T04:08:09Z",
+    "updated_at": "2026-01-23T07:10:55Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -8509,7 +8509,7 @@
     "desc": "CS 武器箱开箱模拟支持大量目前已有的武器箱，可以展示开启物品的图案和对应的磨损",
     "stars": 3,
     "version": "v1.2",
-    "updated_at": "2026-01-23T01:11:07Z"
+    "updated_at": "2026-01-23T07:30:43Z"
   },
   "astrbot_plugin_gallery": {
     "display_name": "图库管理器",
