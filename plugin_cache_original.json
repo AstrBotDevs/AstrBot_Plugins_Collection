@@ -23,7 +23,7 @@
     "social_link": "https://github.com/siciyuanweilai",
     "stars": 2,
     "version": "1.0.0",
-    "updated_at": "2026-01-23T14:27:30Z",
+    "updated_at": "2026-01-23T15:46:34Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_balance_get": {
@@ -173,9 +173,9 @@
     "author": "2529huang",
     "repo": "https://github.com/2529huang/astrbot_plugin_fund_analyzer",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.0",
-    "updated_at": "2026-01-23T07:06:57Z"
+    "updated_at": "2026-01-23T15:43:07Z"
   },
   "astrbot_plugin_CNKD_Admin": {
     "display_name": "UapiPro言论管控",
@@ -1869,9 +1869,9 @@
     "tags": [
       "表情"
     ],
-    "stars": 9,
+    "stars": 10,
     "version": "2.1.6",
-    "updated_at": "2026-01-23T10:25:51Z",
+    "updated_at": "2026-01-23T16:20:41Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
