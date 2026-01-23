@@ -1871,7 +1871,7 @@
     ],
     "stars": 9,
     "version": "2.1.5",
-    "updated_at": "2026-01-21T15:28:20Z",
+    "updated_at": "2026-01-23T03:39:01Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -3425,8 +3425,8 @@
     "repo": "https://github.com/SatenShiroya/astrbot_plugin_llm_qqgroupTools",
     "tags": [],
     "stars": 11,
-    "version": "V1.2.0",
-    "updated_at": "2026-01-04T09:18:21Z",
+    "version": "V1.3.0",
+    "updated_at": "2026-01-23T02:35:15Z",
     "logo": "https://raw.githubusercontent.com/SatenShiroya/astrbot_plugin_llm_qqgroupTools/master/logo.png"
   },
   "astrbot_plugin_cs_skins": {
@@ -5727,7 +5727,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 52,
     "version": "v2.2.9",
-    "updated_at": "2026-01-21T13:09:06Z",
+    "updated_at": "2026-01-23T02:17:57Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -8298,8 +8298,8 @@
     ],
     "social_link": "https://github.com/vmoranv-reborn",
     "stars": 5,
-    "version": "1.4.3",
-    "updated_at": "2026-01-17T06:37:12Z",
+    "version": "1.5.0",
+    "updated_at": "2026-01-23T02:47:20Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
