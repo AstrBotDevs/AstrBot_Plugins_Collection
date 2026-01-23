@@ -265,8 +265,8 @@
     ],
     "social_link": "https://github.com/DITF16",
     "stars": 2,
-    "version": "1.0.3",
-    "updated_at": "2026-01-23T04:43:59Z",
+    "version": "1.0.4",
+    "updated_at": "2026-01-23T04:56:04Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_qq_group_summary": {
@@ -1871,7 +1871,7 @@
     ],
     "stars": 9,
     "version": "2.1.5",
-    "updated_at": "2026-01-23T03:39:01Z",
+    "updated_at": "2026-01-23T04:47:06Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
