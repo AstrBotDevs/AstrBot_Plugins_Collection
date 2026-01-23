@@ -348,8 +348,8 @@
     ],
     "social_link": "https://github.com/Dayanshifu",
     "stars": 2,
-    "version": "1.0.1",
-    "updated_at": "2026-01-12T17:47:21Z",
+    "version": "1.0.3",
+    "updated_at": "2026-01-23T13:48:04Z",
     "logo": "https://raw.githubusercontent.com/Dayanshifu/astrbot_plugin_music_pro/main/logo.png"
   },
   "astrbot_plugin_online_status": {
@@ -520,8 +520,8 @@
     "social_link": "https://github.com/muyouzhi6",
     "tags": [],
     "stars": 2,
-    "version": "1.0.0",
-    "updated_at": "2026-01-11T15:04:08Z"
+    "version": "1.0.1",
+    "updated_at": "2026-01-23T14:17:38Z"
   },
   "astrbot_plugin_chord": {
     "display_name": "和弦查询",
