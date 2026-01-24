@@ -35,9 +35,9 @@
       "注入"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 2,
+    "stars": 3,
     "version": "1.1.0",
-    "updated_at": "2026-01-24T08:51:37Z",
+    "updated_at": "2026-01-24T10:07:45Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_prompt_inject/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -2465,8 +2465,8 @@
     ],
     "social_link": "https://box.firefly520.top/",
     "stars": 18,
-    "version": "1.4.2",
-    "updated_at": "2026-01-19T04:31:06Z",
+    "version": "1.4.3",
+    "updated_at": "2026-01-24T09:53:27Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/master/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
