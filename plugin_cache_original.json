@@ -37,7 +37,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 1,
     "version": "1.1.0",
-    "updated_at": "2026-01-24T03:19:59Z",
+    "updated_at": "2026-01-24T08:28:30Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_prompt_inject/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -75,7 +75,7 @@
     "social_link": "https://github.com/siciyuanweilai",
     "stars": 3,
     "version": "1.0.0",
-    "updated_at": "2026-01-24T04:31:54Z",
+    "updated_at": "2026-01-24T07:37:13Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_judge": {
@@ -212,9 +212,9 @@
       "恋爱养成"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 16,
+    "stars": 17,
     "version": "v1.0.15",
-    "updated_at": "2026-01-23T13:10:30Z",
+    "updated_at": "2026-01-24T08:25:08Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_love_formula/master/logo.png"
   },
   "astrbot_plugin_pjsk": {
@@ -380,9 +380,9 @@
       "插件编写"
     ],
     "social_link": "https://github.com/DITF16",
-    "stars": 11,
+    "stars": 12,
     "version": "1.1.1",
-    "updated_at": "2026-01-24T06:40:23Z",
+    "updated_at": "2026-01-24T07:26:05Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_groupGuard": {
@@ -7338,8 +7338,8 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "stars": 49,
-    "version": "2.1.8",
-    "updated_at": "2026-01-19T12:34:49Z"
+    "version": "2.1.9",
+    "updated_at": "2026-01-24T08:32:25Z"
   },
   "astrbot_plugin_xiaoxue": {
     "author": "sbmikoto",
