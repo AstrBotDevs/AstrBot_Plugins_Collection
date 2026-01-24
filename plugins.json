@@ -17,15 +17,15 @@
     ],
     "social_link": "https://github.com/anneviliu"
   },
-  "astrbot_plugin_prompt_inject": {
-    "display_name": "提示词注入器",
-    "desc": "根据用户消息内容，自动向 LLM 注入预设提示词，从而临时或持续影响 AI 的回复行为, 支持在面板设置多套提示词和触发行为",
+  "astrbot_plugin_worldbook": {
+    "display_name": "世界书插件",
+    "desc": "面向 LLM 的「世界书」系统实现插件。可在特定触发条件下，将预设内容注入至 system_prompt，用于临时或持续影响 AI 的世界观、角色行为与回复逻辑",
     "author": "Zhalslar",
-    "repo": "https://github.com/Zhalslar/astrbot_plugin_prompt_inject",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_worldbook",
     "tags": [
       "提示词",
       "prompt",
-      "注入"
+      "世界书"
     ],
     "social_link": "https://github.com/Zhalslar"
   },
@@ -1081,7 +1081,7 @@
   },
   "astrbot_plugin_parser": {
     "display_name": "万能解析器",
-    "desc": "高性能低耦合的万能链接解析器。支持视频、图集、音频类型和 A站、B站、抖音、TikTok、微博、小红书、快手、Youtube、X 等平台",
+    "desc": "高性能低耦合的万能链接解析器。支持视频、图集、音频类型和 A站、B站、抖音、TikTok、微博、小红书、快手、Youtube、X、instagram 等平台",
     "author": "Zhalslar",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_parser",
     "tags": ["解析", "链接"],
@@ -3098,10 +3098,10 @@
   },
   "astrbot_plugin_wakepro": {
     "display_name": "唤醒增强",
-    "desc": "更强大的唤醒增强插件：唤醒CD、唤醒合并、提及唤醒、唤醒延长、空@唤醒、话题相关性唤醒、答疑唤醒、无聊唤醒、闭嘴机制、被骂沉默机制、屏蔽人机",
+    "desc": "给唤醒阶段提供多种增强策略: 指令屏蔽、敏感词屏蔽、唤醒CD、提及唤醒、唤醒延长、相关性唤醒、答疑唤醒、无聊唤醒、兴趣唤醒、沉默机制",
     "author": "Zhalslar",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_wakepro",
-    "tags": ["唤醒增强"],
+    "tags": ["唤醒增强", "拟人"],
     "social_link": "https://github.com/Zhalslar"
   },
   "astrbot_plugin_memora_connect": {
@@ -3127,7 +3127,7 @@
   },
   "astrbot_plugin_outputpro": {
     "display_name": "输出增强",
-    "desc": "输出增强插件：报错拦截、文本清洗、随机@、随机引用",
+    "desc": "在消息输出阶段提供多种增强策略: 图片外显 → 报错处理 → 消息拦截 → 解析艾特 → 文本清洗 → 文本替换 → 文转语音 → 文转图片 → 智能引用 → 合并转发 → 自动撤回 → 分段回复",
     "author": "Zhalslar",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_outputpro",
     "tags": ["输出增强"],
@@ -3180,7 +3180,7 @@
   },
   "astrbot_plugin_qzone": {
     "display_name": "QQ空间",
-    "desc": "QQ空间对接插件, 可自动发说说、表白墙投稿审核、查看说说",
+    "desc": "QQ空间对接插件, 支持查看/点赞/评论说说、自动发说说、AI写说说、表白墙投稿与审核等功能",
     "author": "Zhalslar",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_qzone",
     "tags": ["QQ空间", "说说", "表白墙"],
@@ -3193,7 +3193,7 @@
   },
   "astrbot_plugin_recall": {
     "display_name": "智能撤回",
-    "desc": "智能撤回插件，自动判断并撤回bot自身发的长文本、复读词、违禁词、色图、报错等",
+    "desc": "智能撤回插件，自动判断并撤回bot自身发的长文本、复读词、违禁词、报错等",
     "author": "Zhalslar",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_recall",
     "tags": ["撤回"],
@@ -4177,10 +4177,10 @@
     "tags": ["疯狂星期四"]
   },
   "astrbot_plugin_search_video": {
-    "display_name": "搜索视频",
-    "author"      : "Zhalslar",
-    "desc"        : "让bot直接搜索视频、下载视频，方便在群内直接看视频",
-    "repo"        : "https://github.com/Zhalslar/astrbot_plugin_search_video",
+    "display_name": "搜视频",
+    "author": "Zhalslar",
+    "desc": "让bot直接搜索视频、下载视频，方便在群内直接看视频",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_search_video",
     "social_link" : "https://github.com/Zhalslar"
   },
   "astrbot_plugin_zt": {
