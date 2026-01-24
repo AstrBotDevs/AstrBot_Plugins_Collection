@@ -35,9 +35,9 @@
       "世界书"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 3,
+    "stars": 4,
     "version": "1.1.0",
-    "updated_at": "2026-01-24T12:29:50Z",
+    "updated_at": "2026-01-24T15:42:54Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_worldbook/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -4246,9 +4246,9 @@
       "Image"
     ],
     "social_link": "https://zhxwu.com",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2025-11-02T09:22:55Z"
+    "updated_at": "2026-01-24T15:31:43Z"
   },
   "astrbot_plugin_auto_approve_all": {
     "desc": "自动同意所有的群邀请和好友申请",
@@ -7867,9 +7867,9 @@
       "game",
       "fish"
     ],
-    "stars": 43,
+    "stars": 44,
     "version": "1.4.6",
-    "updated_at": "2026-01-19T06:41:01Z"
+    "updated_at": "2026-01-24T16:22:32Z"
   },
   "astrbot_plugin_bilibili_live": {
     "author": "Raven95676",
