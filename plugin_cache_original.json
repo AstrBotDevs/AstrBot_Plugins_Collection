@@ -110,9 +110,9 @@
     "repo": "https://github.com/GCHkongcheng/astrbot_plugin_code_analyzer",
     "social_link": "https://github.com/GCHkongcheng",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-01-21T16:54:09Z"
+    "updated_at": "2026-01-24T07:09:20Z"
   },
   "astrbot_plugin_qq_group_daily_analysis": {
     "display_name": "QQ群分析总结插件",
@@ -380,9 +380,9 @@
       "插件编写"
     ],
     "social_link": "https://github.com/DITF16",
-    "stars": 10,
+    "stars": 11,
     "version": "1.1.1",
-    "updated_at": "2026-01-24T02:40:07Z",
+    "updated_at": "2026-01-24T06:40:23Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_groupGuard": {
@@ -843,7 +843,7 @@
     "social_link": "https://github.com/stevessr",
     "stars": 4,
     "version": "0.2.8",
-    "updated_at": "2026-01-22T12:49:17Z",
+    "updated_at": "2026-01-24T06:42:20Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_url_image_auto": {
@@ -3440,9 +3440,9 @@
       "主动回复"
     ],
     "social_link": "https://github.com/Him666233",
-    "stars": 28,
+    "stars": 29,
     "version": "v1.1.2",
-    "updated_at": "2026-01-13T08:21:36Z",
+    "updated_at": "2026-01-24T06:48:38Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -8171,9 +8171,9 @@
     "desc": "一个将 SillyTavern 角色卡（PNG 格式）转换为 Lorebook YAML 与角色信息的插件。",
     "repo": "https://github.com/LKarxa/astrbot_plugin_SillyTavern_card",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2025-11-24T08:24:28Z"
+    "updated_at": "2026-01-24T07:32:34Z"
   },
   "astrbot_plugin_reply": {
     "author": "yahayao",
@@ -9099,9 +9099,9 @@
       "lorebook",
       "世界书"
     ],
-    "stars": 9,
+    "stars": 10,
     "version": "v0.1.8",
-    "updated_at": "2025-08-26T08:54:35Z"
+    "updated_at": "2026-01-24T07:32:44Z"
   },
   "daily_limit": {
     "desc": "限制成员每日访问AI次数的插件，支持为不同用户和群组设置不同的调用限制(支持的astrbot最低版本为3.5.1)",
