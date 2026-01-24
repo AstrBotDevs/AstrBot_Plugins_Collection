@@ -196,9 +196,9 @@
       "Github"
     ],
     "social_link": "https://mc.mimeng.top",
-    "stars": 3,
+    "stars": 4,
     "version": "0.4.0",
-    "updated_at": "2026-01-23T11:00:06Z"
+    "updated_at": "2026-01-24T17:10:08Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -380,9 +380,9 @@
       "插件编写"
     ],
     "social_link": "https://github.com/DITF16",
-    "stars": 12,
+    "stars": 13,
     "version": "1.1.1",
-    "updated_at": "2026-01-24T07:26:05Z",
+    "updated_at": "2026-01-24T16:29:53Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_groupGuard": {
@@ -5306,9 +5306,9 @@
     "author": "天各一方",
     "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
     "tags": [],
-    "stars": 36,
+    "stars": 37,
     "version": "v1.0.4",
-    "updated_at": "2026-01-16T02:56:52Z"
+    "updated_at": "2026-01-24T17:10:22Z"
   },
   "astrbot_plugin_vtb_adapter": {
     "desc": "用于连接 AstrBot 与 Open LLM Vtuber，除安装插件外还需要修改 Open LLM Vtuber 中的相关文件",
@@ -9139,9 +9139,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
-    "stars": 46,
+    "stars": 47,
     "version": "v2.0.1",
-    "updated_at": "2026-01-20T19:44:58Z",
+    "updated_at": "2026-01-24T16:45:03Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
