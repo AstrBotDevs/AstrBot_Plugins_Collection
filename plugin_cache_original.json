@@ -57,9 +57,9 @@
     "repo": "https://github.com/muyouzhi6/strbot_plugin_cmdmask",
     "social_link": "https://github.com/muyouzhi6",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "0.3.1",
-    "updated_at": "2026-01-24T11:49:27Z"
+    "updated_at": "2026-01-24T14:07:40Z"
   },
   "astrbot_plugin_daily_sharing": {
     "display_name": "定时主动分享所见所闻",
@@ -9482,9 +9482,9 @@
     "tags": [
       "实用工具"
     ],
-    "stars": 28,
+    "stars": 29,
     "version": "v2.2.4",
-    "updated_at": "2026-01-13T07:37:28Z",
+    "updated_at": "2026-01-24T13:50:14Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
