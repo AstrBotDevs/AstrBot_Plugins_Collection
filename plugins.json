@@ -1,4 +1,22 @@
 {
+  "astrbot_plugin_komari_status": {
+    "display_name": "Komari 监控查询",
+    "desc": "AstrBot 的 Komari 服务器状态监控插件。支持查询节点列表、实时状态、公开设置及版本信息。支持生成精美的状态图片，并允许用户自定义触发指令。",
+    "author": "nulijiazaizhong",
+    "repo": "https://github.com/nulijiazaizhong/astrbot_plugin_komari_status",
+    "social_link": "https://github.com/nulijiazaizhong"
+  },
+  "astrbot_plugin_lark_enhance": {
+    "display_name": "飞书增强",
+    "desc": "增强 AstrBot 在飞书场景下的表现，支持上下文感知增强（名字、群名、聊天记录、引用回复），流式输出，@群成员等",
+    "author": "anneviliu",
+    "repo": "https://github.com/anneviliu/astrbot_lark_enhance",
+    "tags": [
+      "Lark",
+      "飞书"
+    ],
+    "social_link": "https://github.com/anneviliu"
+  },
   "astrbot_plugin_service_watcher": {
     "display_name": "互联网服务监控",
     "desc": "聚合监控 GitHub、OpenAI、Cloudflare 等主流服务的运行状态。通过各服务官方提供的 JSON API 进行轮询，在检测到服务状态异常或恢复时第一时间发送预警推送。",
@@ -12,6 +30,36 @@
     "repo": "https://github.com/siciyuanweilai/astrbot_plugin_daily_sharing",
     "tags": ["拟人","分享","定时","推送"],
     "social_link": "https://github.com/siciyuanweilai"
+  },
+  "astrbot_plugin_bbt_daily_news": {
+    "display_name": "棒棒糖的每日晨报",
+    "desc": "一个简单的每日晨报插件",
+    "author": "棒棒糖",
+    "repo": "https://github.com/zhoufan47/astrbot_plugin_bbt_daily_news",
+    "tags": [
+      "日报",
+      "数据搜刮"
+    ]
+  },
+  "astrbot_plugin_qq_group_daily_analysis": {
+    "display_name": "QQ群分析总结插件",
+    "desc": "QQ群日常分析总结插件 - 生成精美的群聊分析报告，支持话题分析、用户形象、群聊圣经等功能",
+    "author": "SXP-Simon",
+    "repo": "https://github.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis",
+    "tags": [
+      "群聊总结",
+      "话题分析",
+      "用户形象",
+      "群聊圣经"
+    ],
+    "social_link": "https://github.com/SXP-Simon"
+  },
+  "astrbot_plugin_poke_to_llm": {
+    "display_name": "忘@了戳一下吧",
+    "desc": "[仅 OneBotv11] 忘@了戳一下吧 - 戳一戳触发 LLM 回复，让 Bot 根据上下文自然响应",
+    "author": "木有知",
+    "repo": "https://github.com/muyouzhi6/astrbot_plugin_poke_to_llm",
+    "social_link": "https://github.com/muyouzhi6"
   },
   "astrbot_plugin_balance_get": {
     "display_name": "模型平台余额查询",
