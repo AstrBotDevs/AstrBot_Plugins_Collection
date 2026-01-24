@@ -1440,8 +1440,8 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_custom_menu",
     "tags": [],
     "stars": 14,
-    "version": "1.8.9",
-    "updated_at": "2026-01-24T02:40:06Z",
+    "version": "1.8.10",
+    "updated_at": "2026-01-24T15:08:03Z",
     "logo": "https://raw.githubusercontent.com/shskjw/astrbot_plugin_custom_menu/master/logo.png"
   },
   "astrbot_plugin_webnovel_info": {
@@ -3440,9 +3440,9 @@
       "主动回复"
     ],
     "social_link": "https://github.com/Him666233",
-    "stars": 29,
+    "stars": 30,
     "version": "v1.1.2",
-    "updated_at": "2026-01-24T06:48:38Z",
+    "updated_at": "2026-01-24T15:10:32Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -4944,8 +4944,8 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
     "stars": 39,
-    "version": "v1.8.1",
-    "updated_at": "2026-01-24T06:06:20Z"
+    "version": "v1.8.2",
+    "updated_at": "2026-01-24T15:13:24Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -6598,9 +6598,9 @@
       "aiocqhttp"
     ],
     "social_link": "https://blog.jojo.host/",
-    "stars": 7,
+    "stars": 8,
     "version": "v0.0.5",
-    "updated_at": "2026-01-18T12:00:15Z"
+    "updated_at": "2026-01-24T14:29:42Z"
   },
   "astrbot_plugin_ip_proxy": {
     "desc": "一个将HTTP代理API转换为本地代理的AstrBot插件",
