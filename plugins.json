@@ -443,7 +443,8 @@
   "astrbot_zssm_explain": {
     "desc": "zssm，支持关键词“zssm”（忽略前缀）与“zssm + 内容”直接解释；引用消息（含@）正常处理，Napcat get_msg 回溯图片；按 Provider ID 选择文本/图片模型并带回退；未回复仅发 zssm 时提示；默认提示词可在 main.py 顶部修改。",
     "author": "薄暝",
-    "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain"
+    "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
+    "pinned": true
   },
   "astrbot_plugin_self_learning": {
     "desc": "智能自学习对话插件 - 通过实时消息捕获、多维度数据分析、渐进式学习机制和动态人格更新以及社交关系网络，使聊天机器人能够模仿特定用户的对话，实现更自然、个性化的交互",
@@ -1145,7 +1146,8 @@
     "author": "DBJD-CR",
     "repo": "https://github.com/DBJD-CR/astrbot_plugin_disaster_warning",
     "tags": ["灾害预警", "EEW", "防灾减灾", "气象预警", "海啸预警"],
-    "social_link": "https://github.com/DBJD-CR"
+    "social_link": "https://github.com/DBJD-CR",
+    "pinned": true
   },
   "astrbot_plugin_lofter_parser": {
     "display_name": "Lofter自动解析",
