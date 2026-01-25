@@ -7,8 +7,8 @@
     "social_link": "https://github.com/nulijiazaizhong",
     "tags": [],
     "stars": 1,
-    "version": "1.0.0",
-    "updated_at": "2026-01-23T17:16:49Z"
+    "version": "1.0.2",
+    "updated_at": "2026-01-25T00:06:20Z"
   },
   "astrbot_plugin_lark_enhance": {
     "display_name": "飞书增强",
@@ -35,9 +35,9 @@
       "世界书"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 4,
+    "stars": 5,
     "version": "1.1.0",
-    "updated_at": "2026-01-24T15:42:54Z",
+    "updated_at": "2026-01-25T01:58:43Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_worldbook/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -380,9 +380,9 @@
       "插件编写"
     ],
     "social_link": "https://github.com/DITF16",
-    "stars": 13,
+    "stars": 15,
     "version": "1.1.1",
-    "updated_at": "2026-01-24T16:29:53Z",
+    "updated_at": "2026-01-25T00:52:03Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_groupGuard": {
