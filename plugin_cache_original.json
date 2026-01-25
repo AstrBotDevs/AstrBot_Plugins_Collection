@@ -327,9 +327,9 @@
       "记忆",
       "拟人"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "1.2.4",
-    "updated_at": "2026-01-20T10:00:40Z"
+    "updated_at": "2026-01-25T11:11:13Z"
   },
   "astrbot_plugin_mc_manager": {
     "display_name": "astrbot_plugin_mc_manager",
@@ -633,9 +633,9 @@
       "网页验证"
     ],
     "social_link": "https://github.com/VanillaNahida/",
-    "stars": 14,
+    "stars": 15,
     "version": "v1.1.9",
-    "updated_at": "2026-01-24T11:36:39Z",
+    "updated_at": "2026-01-25T10:29:15Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_geetest_verify/master/logo.png"
   },
   "astrbot_plugin_cliproxy_stats": {
@@ -1359,51 +1359,6 @@
     "version": "1.2.0",
     "updated_at": "2026-01-16T05:32:01Z",
     "logo": "https://raw.githubusercontent.com/MegSopern/astrbot_plugin_rollpig/main/logo.png"
-  },
-  "astrbot_plugin_gitee_zimg": {
-    "display_name": "Zimg文生图",
-    "desc": "接入 Gitee AI（模力方舟）z-image-turbo模型（文生图），支持多key轮询",
-    "author": "jengaklll-a11y",
-    "repo": "https://github.com/jengaklll-a11y/astrbot_plugin_gitee_zimg",
-    "tags": [
-      "绘图",
-      "Gitee"
-    ],
-    "social_link": "https://github.com/jengaklll-a11y",
-    "stars": 2,
-    "version": "v2.0.0",
-    "updated_at": "2026-01-11T17:31:57Z",
-    "logo": "https://raw.githubusercontent.com/jengaklll-a11y/astrbot_plugin_gitee_zimg/main/logo.png"
-  },
-  "astrbot_plugin_zssm_core": {
-    "display_name": "Zssm(Core)",
-    "desc": "可直接zssm解释引用内容，或使用 \"zssm + 内容\" 进行联网搜索",
-    "author": "jengaklll-a11y",
-    "repo": "https://github.com/jengaklll-a11y/astrbot_plugin_zssm_core",
-    "tags": [
-      "解析",
-      "搜索"
-    ],
-    "social_link": "https://github.com/jengaklll-a11y",
-    "stars": 0,
-    "version": "1.1.0",
-    "updated_at": "2026-01-03T12:21:53Z",
-    "logo": "https://raw.githubusercontent.com/jengaklll-a11y/astrbot_plugin_zssm_core/main/logo.png"
-  },
-  "astrbot_plugin_portrayal_core": {
-    "display_name": "人物画像(Core)",
-    "desc": "极简版群友性格分析插件",
-    "author": "jengaklll-a11y",
-    "repo": "https://github.com/jengaklll-a11y/astrbot_plugin_portrayal_core",
-    "tags": [
-      "性格",
-      "画像"
-    ],
-    "social_link": "https://github.com/jengaklll-a11y",
-    "stars": 1,
-    "version": "v1.2.0",
-    "updated_at": "2026-01-17T04:14:33Z",
-    "logo": "https://raw.githubusercontent.com/jengaklll-a11y/astrbot_plugin_portrayal_core/main/logo.png"
   },
   "astrbot_plugin_big_banana": {
     "display_name": "🍌大香蕉🍌",
@@ -2132,9 +2087,9 @@
       "画图"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 27,
+    "stars": 28,
     "version": "v2.6.0",
-    "updated_at": "2026-01-24T12:23:01Z",
+    "updated_at": "2026-01-25T11:08:52Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -2405,22 +2360,6 @@
     "stars": 1,
     "version": "v2.0.0",
     "updated_at": "2025-12-07T13:22:50Z"
-  },
-  "astrbot_plugin_image_editor": {
-    "display_name": "图片编辑",
-    "desc": "使用第三方 API，实现图片编辑功能",
-    "author": "jengaklll-a11y",
-    "repo": "https://github.com/jengaklll-a11y/astrbot_plugin_image_editor",
-    "tags": [
-      "模型",
-      "文生图",
-      "图生图",
-      "图片编辑"
-    ],
-    "social_link": "https://github.com/jengaklll-a11y",
-    "stars": 0,
-    "version": "v1.2.0",
-    "updated_at": "2025-11-23T02:12:04Z"
   },
   "astrbot_plugin_echoscore": {
     "display_name": "鸣潮声骸评分插件",
@@ -4909,9 +4848,9 @@
       "记忆",
       "永久记忆"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v0.2.6.0",
-    "updated_at": "2026-01-15T09:52:56Z"
+    "updated_at": "2026-01-25T11:08:57Z"
   },
   "randomtoken": {
     "desc": "一个Token生成管理器，支持生成、导出、删除和查看Token列表。",
