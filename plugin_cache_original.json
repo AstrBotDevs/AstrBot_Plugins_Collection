@@ -98,9 +98,9 @@
       "日报",
       "数据搜刮"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.5.4",
-    "updated_at": "2026-01-21T10:51:20Z",
+    "updated_at": "2026-01-25T08:02:17Z",
     "logo": "https://raw.githubusercontent.com/zhoufan47/astrbot_plugin_bbt_daily_news/master/logo.png"
   },
   "astrbot_plugin_code_analyzer": {
@@ -380,9 +380,9 @@
       "插件编写"
     ],
     "social_link": "https://github.com/DITF16",
-    "stars": 15,
+    "stars": 16,
     "version": "1.1.1",
-    "updated_at": "2026-01-25T00:52:03Z",
+    "updated_at": "2026-01-25T08:01:35Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_groupGuard": {
