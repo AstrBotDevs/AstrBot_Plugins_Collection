@@ -2991,9 +2991,9 @@
       "遗忘"
     ],
     "social_link": "https://github.com/SinkAbyss",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.1.6",
-    "updated_at": "2026-01-25T06:20:14Z"
+    "updated_at": "2026-01-25T06:47:15Z"
   },
   "astrbot_plugin_Furimg_Cloud": {
     "display_name": "兽云祭(兽兽图片/图鉴)",
@@ -5460,9 +5460,9 @@
     "tags": [
       "股市"
     ],
-    "stars": 10,
+    "stars": 11,
     "version": "v1.0.3",
-    "updated_at": "2026-01-02T16:52:52Z"
+    "updated_at": "2026-01-25T06:45:07Z"
   },
   "astrbot_plugin_figurine_workshop": {
     "desc": "基于gemini生图的手办化,不再需要本地部署。",
