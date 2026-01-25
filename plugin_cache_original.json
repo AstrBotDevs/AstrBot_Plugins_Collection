@@ -74,8 +74,8 @@
     ],
     "social_link": "https://github.com/siciyuanweilai",
     "stars": 4,
-    "version": "1.0.0",
-    "updated_at": "2026-01-25T03:09:11Z",
+    "version": "2.0.0",
+    "updated_at": "2026-01-25T13:20:50Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_judge": {
@@ -2002,9 +2002,9 @@
       "海啸预警"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 24,
+    "stars": 25,
     "version": "v1.3.1",
-    "updated_at": "2026-01-19T14:30:35Z",
+    "updated_at": "2026-01-25T13:18:41Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -5245,9 +5245,9 @@
     "author": "天各一方",
     "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
     "tags": [],
-    "stars": 37,
+    "stars": 38,
     "version": "v1.0.4",
-    "updated_at": "2026-01-24T17:10:22Z"
+    "updated_at": "2026-01-25T13:36:31Z"
   },
   "astrbot_plugin_vtb_adapter": {
     "desc": "用于连接 AstrBot 与 Open LLM Vtuber，除安装插件外还需要修改 Open LLM Vtuber 中的相关文件",
@@ -5656,9 +5656,9 @@
       "记忆"
     ],
     "social_link": "https://github.com/qa296/",
-    "stars": 24,
+    "stars": 25,
     "version": "v0.2.6",
-    "updated_at": "2026-01-11T09:03:07Z"
+    "updated_at": "2026-01-25T13:21:23Z"
   },
   "astrbot_plugin_iearning_style": {
     "desc": "使机器人可以从聊天中学习他人说话方式",
