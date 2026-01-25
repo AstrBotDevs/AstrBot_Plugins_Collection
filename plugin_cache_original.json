@@ -47,8 +47,8 @@
     "repo": "https://github.com/Aloys233/astrbot_plugin_service_watcher",
     "tags": [],
     "stars": 3,
-    "version": "v0.0.1",
-    "updated_at": "2026-01-19T12:13:25Z"
+    "version": "v0.0.2",
+    "updated_at": "2026-01-25T11:58:33Z"
   },
   "astrbot_plugin_cmdmask": {
     "display_name": "指令伪装",
@@ -2185,9 +2185,9 @@
       "论文",
       "推送"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.4.2",
-    "updated_at": "2025-12-27T07:33:23Z"
+    "updated_at": "2026-01-25T11:56:14Z"
   },
   "astrbot_plugin_comfyui_pro": {
     "display_name": "高级 ComfyUI 绘图插件",
