@@ -37,7 +37,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 5,
     "version": "1.1.0",
-    "updated_at": "2026-01-25T15:06:18Z",
+    "updated_at": "2026-01-25T16:18:15Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_worldbook/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -75,7 +75,7 @@
     "social_link": "https://github.com/siciyuanweilai",
     "stars": 4,
     "version": "2.0.0",
-    "updated_at": "2026-01-25T13:20:50Z",
+    "updated_at": "2026-01-25T15:34:11Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_judge": {
@@ -184,7 +184,7 @@
     "social_link": "https://blog.gbkgov.cn",
     "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-01-25T15:01:16Z",
+    "updated_at": "2026-01-25T15:25:59Z",
     "logo": "https://raw.githubusercontent.com/Chris95743/astrbot_plugin_mysql/main/logo.png"
   },
   "astrbot_plugin_github_webhook": {
@@ -562,7 +562,7 @@
     "tags": [],
     "stars": 4,
     "version": "1.0.0",
-    "updated_at": "2026-01-25T15:19:03Z"
+    "updated_at": "2026-01-25T16:15:27Z"
   },
   "astrbot_plugin_safety": {
     "display_name": "✌️ 又活一天",
@@ -8891,9 +8891,9 @@
     "tags": [
       "QQ群管"
     ],
-    "stars": 87,
+    "stars": 88,
     "version": "v3.2.7",
-    "updated_at": "2026-01-25T06:11:17Z",
+    "updated_at": "2026-01-25T16:38:23Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
