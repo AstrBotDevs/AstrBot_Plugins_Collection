@@ -73,9 +73,9 @@
       "推送"
     ],
     "social_link": "https://github.com/siciyuanweilai",
-    "stars": 3,
+    "stars": 4,
     "version": "1.0.0",
-    "updated_at": "2026-01-24T07:37:13Z",
+    "updated_at": "2026-01-25T03:09:11Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_judge": {
@@ -126,9 +126,9 @@
       "群聊圣经"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 131,
+    "stars": 132,
     "version": "v4.6.6",
-    "updated_at": "2026-01-22T15:00:54Z",
+    "updated_at": "2026-01-25T02:24:31Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -2663,8 +2663,8 @@
     ],
     "social_link": "www.zousanzy.cn",
     "stars": 0,
-    "version": "V6.2",
-    "updated_at": "2026-01-05T11:50:15Z",
+    "version": "v6.2",
+    "updated_at": "2026-01-25T02:48:03Z",
     "logo": "https://raw.githubusercontent.com/by-029/zxs60s/main/logo.png"
   },
   "astrbot_plugin_slave_market": {
@@ -2993,7 +2993,7 @@
     "social_link": "https://github.com/SinkAbyss",
     "stars": 6,
     "version": "v1.1.5",
-    "updated_at": "2026-01-06T13:07:07Z"
+    "updated_at": "2026-01-25T04:02:03Z"
   },
   "astrbot_plugin_Furimg_Cloud": {
     "display_name": "兽云祭(兽兽图片/图鉴)",
@@ -4599,9 +4599,9 @@
     "tags": [
       "骰子"
     ],
-    "stars": 6,
+    "stars": 8,
     "version": "v2.1.0",
-    "updated_at": "2025-12-12T14:10:12Z"
+    "updated_at": "2026-01-25T03:36:09Z"
   },
   "astrbot_plugin_xiuxian": {
     "desc": "基于astrbot框架的文字修仙游戏",
@@ -5204,9 +5204,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 131,
+    "stars": 132,
     "version": "v4.6.6",
-    "updated_at": "2026-01-22T15:00:54Z",
+    "updated_at": "2026-01-25T02:24:31Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -5755,9 +5755,9 @@
       "输出增强"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 22,
+    "stars": 23,
     "version": "v2.1.4",
-    "updated_at": "2026-01-22T12:46:17Z",
+    "updated_at": "2026-01-25T03:45:58Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -8950,9 +8950,9 @@
     "tags": [
       "QQ群管"
     ],
-    "stars": 86,
+    "stars": 87,
     "version": "v3.2.7",
-    "updated_at": "2026-01-20T12:32:29Z",
+    "updated_at": "2026-01-25T03:58:37Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
