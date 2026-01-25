@@ -37,7 +37,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 5,
     "version": "1.1.0",
-    "updated_at": "2026-01-25T01:58:43Z",
+    "updated_at": "2026-01-25T15:06:18Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_worldbook/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -184,7 +184,7 @@
     "social_link": "https://blog.gbkgov.cn",
     "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-01-23T09:16:15Z",
+    "updated_at": "2026-01-25T15:01:16Z",
     "logo": "https://raw.githubusercontent.com/Chris95743/astrbot_plugin_mysql/main/logo.png"
   },
   "astrbot_plugin_github_webhook": {
@@ -538,8 +538,8 @@
     ],
     "social_link": "https://github.com/kennylimz",
     "stars": 7,
-    "version": "v1.1",
-    "updated_at": "2026-01-22T21:34:28Z",
+    "version": "v1.2",
+    "updated_at": "2026-01-25T15:08:27Z",
     "logo": "https://raw.githubusercontent.com/kennylimz/astrbot_plugin_mudae_qq/main/logo.png"
   },
   "BUGJI/astrbot_plugin_balance": {
@@ -562,7 +562,7 @@
     "tags": [],
     "stars": 4,
     "version": "1.0.0",
-    "updated_at": "2026-01-18T17:34:37Z"
+    "updated_at": "2026-01-25T15:19:03Z"
   },
   "astrbot_plugin_safety": {
     "display_name": "✌️ 又活一天",
@@ -714,6 +714,7 @@
     "desc": "zssm，支持关键词“zssm”（忽略前缀）与“zssm + 内容”直接解释；引用消息（含@）正常处理，Napcat get_msg 回溯图片；按 Provider ID 选择文本/图片模型并带回退；未回复仅发 zssm 时提示；默认提示词可在 main.py 顶部修改。",
     "author": "薄暝",
     "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
+    "pinned": true,
     "tags": [],
     "stars": 13,
     "version": "v3.9.13",
@@ -2002,6 +2003,7 @@
       "海啸预警"
     ],
     "social_link": "https://github.com/DBJD-CR",
+    "pinned": true,
     "stars": 26,
     "version": "v1.3.1",
     "updated_at": "2026-01-25T14:08:13Z",
