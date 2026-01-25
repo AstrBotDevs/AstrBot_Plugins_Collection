@@ -380,9 +380,9 @@
       "插件编写"
     ],
     "social_link": "https://github.com/DITF16",
-    "stars": 16,
+    "stars": 17,
     "version": "1.1.1",
-    "updated_at": "2026-01-25T08:01:35Z",
+    "updated_at": "2026-01-25T14:14:44Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_groupGuard": {
@@ -475,7 +475,7 @@
     "social_link": "https://github.com/Dayanshifu",
     "stars": 2,
     "version": "1.0.3",
-    "updated_at": "2026-01-23T13:48:04Z",
+    "updated_at": "2026-01-25T13:34:32Z",
     "logo": "https://raw.githubusercontent.com/Dayanshifu/astrbot_plugin_music_pro/main/logo.png"
   },
   "astrbot_plugin_online_status": {
@@ -1394,9 +1394,9 @@
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_custom_menu",
     "tags": [],
-    "stars": 14,
+    "stars": 15,
     "version": "1.8.10",
-    "updated_at": "2026-01-24T15:08:03Z",
+    "updated_at": "2026-01-25T14:15:27Z",
     "logo": "https://raw.githubusercontent.com/shskjw/astrbot_plugin_custom_menu/master/logo.png"
   },
   "astrbot_plugin_webnovel_info": {
@@ -2002,9 +2002,9 @@
       "海啸预警"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 25,
+    "stars": 26,
     "version": "v1.3.1",
-    "updated_at": "2026-01-25T13:18:41Z",
+    "updated_at": "2026-01-25T14:08:13Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -7887,9 +7887,9 @@
       "戳一戳"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 40,
+    "stars": 41,
     "version": "v1.1.7",
-    "updated_at": "2026-01-25T06:10:55Z",
+    "updated_at": "2026-01-25T13:53:46Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_pokepro/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
