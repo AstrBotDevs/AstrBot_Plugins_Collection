@@ -37,7 +37,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 5,
     "version": "2.0.0",
-    "updated_at": "2026-01-26T04:43:55Z",
+    "updated_at": "2026-01-26T05:49:56Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_worldbook/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -731,9 +731,9 @@
       "人格"
     ],
     "social_link": "https://github.com/NickCharlie",
-    "stars": 81,
+    "stars": 82,
     "version": "Next-1.1.5",
-    "updated_at": "2026-01-24T04:42:05Z",
+    "updated_at": "2026-01-26T06:02:34Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -1397,7 +1397,7 @@
     "tags": [],
     "stars": 15,
     "version": "1.8.10",
-    "updated_at": "2026-01-25T14:15:27Z",
+    "updated_at": "2026-01-26T06:19:44Z",
     "logo": "https://raw.githubusercontent.com/shskjw/astrbot_plugin_custom_menu/master/logo.png"
   },
   "astrbot_plugin_webnovel_info": {
@@ -2278,7 +2278,7 @@
     "tags": [],
     "stars": 9,
     "version": "v1.4.2",
-    "updated_at": "2026-01-26T05:34:39Z"
+    "updated_at": "2026-01-26T05:41:05Z"
   },
   "astrbot_plugin_AtTool": {
     "display_name": "@工具（艾特工具）",
@@ -7635,9 +7635,9 @@
       "embedding"
     ],
     "social_link": "https://github.com/TheAnyan",
-    "stars": 11,
+    "stars": 12,
     "version": "v1.1.0",
-    "updated_at": "2026-01-03T05:32:21Z"
+    "updated_at": "2026-01-26T06:18:34Z"
   },
   "astrbot_plugin_stock": {
     "author": "anchor",
