@@ -73,9 +73,9 @@
       "推送"
     ],
     "social_link": "https://github.com/siciyuanweilai",
-    "stars": 5,
+    "stars": 6,
     "version": "2.0.0",
-    "updated_at": "2026-01-26T06:49:23Z",
+    "updated_at": "2026-01-26T11:27:45Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_judge": {
@@ -246,7 +246,7 @@
     "social_link": "https://qwq.pyuramazo.online",
     "stars": 1,
     "version": "v1.1.0",
-    "updated_at": "2026-01-26T07:38:31Z"
+    "updated_at": "2026-01-26T12:40:48Z"
   },
   "astrbot_plugin_anitabi": {
     "display_name": "圣地巡礼查询插件",
@@ -380,9 +380,9 @@
       "插件编写"
     ],
     "social_link": "https://github.com/DITF16",
-    "stars": 19,
+    "stars": 20,
     "version": "1.1.1",
-    "updated_at": "2026-01-25T21:11:56Z",
+    "updated_at": "2026-01-26T12:21:35Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_groupGuard": {
@@ -442,9 +442,9 @@
     "author": "LgCookie&etgpao&feiu",
     "repo": "https://github.com/dafeiwu666/astrbot_plugin_ppnai",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0",
-    "updated_at": "2026-01-18T04:36:27Z"
+    "updated_at": "2026-01-26T12:39:24Z"
   },
   "astrbot_plugin_codemage": {
     "display_name": "插件生成器",
@@ -2004,9 +2004,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "pinned": true,
-    "stars": 27,
+    "stars": 28,
     "version": "v1.3.1",
-    "updated_at": "2026-01-26T08:04:59Z",
+    "updated_at": "2026-01-26T12:15:59Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -7279,9 +7279,9 @@
       "Steam"
     ],
     "social_link": "https://github.com/Maoer233",
-    "stars": 49,
+    "stars": 50,
     "version": "2.2.0",
-    "updated_at": "2026-01-26T09:49:02Z",
+    "updated_at": "2026-01-26T11:58:03Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -8366,9 +8366,9 @@
       "pixiv"
     ],
     "social_link": "https://github.com/vmoranv-reborn",
-    "stars": 5,
+    "stars": 6,
     "version": "1.5.0",
-    "updated_at": "2026-01-23T02:47:20Z",
+    "updated_at": "2026-01-26T12:16:35Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
