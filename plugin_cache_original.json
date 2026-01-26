@@ -539,7 +539,7 @@
     "social_link": "https://github.com/kennylimz",
     "stars": 7,
     "version": "v1.2",
-    "updated_at": "2026-01-26T08:31:58Z",
+    "updated_at": "2026-01-26T09:24:21Z",
     "logo": "https://raw.githubusercontent.com/kennylimz/astrbot_plugin_mudae_qq/main/logo.png"
   },
   "BUGJI/astrbot_plugin_balance": {
@@ -1641,8 +1641,8 @@
       "大香蕉"
     ],
     "stars": 5,
-    "version": "1.2.3",
-    "updated_at": "2026-01-19T12:09:28Z",
+    "version": "1.2.6",
+    "updated_at": "2026-01-26T09:25:17Z",
     "logo": "https://raw.githubusercontent.com/wangyingxuan383-ai/astrbot_plugin_ronghedraw/main/logo.png"
   },
   "astrbot_plugin_model_router": {
@@ -2089,9 +2089,9 @@
       "画图"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 28,
+    "stars": 29,
     "version": "v2.6.0",
-    "updated_at": "2026-01-25T11:08:52Z",
+    "updated_at": "2026-01-26T09:23:33Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -7281,7 +7281,8 @@
     "social_link": "https://github.com/Maoer233",
     "stars": 49,
     "version": "2.2.0",
-    "updated_at": "2026-01-26T08:14:19Z"
+    "updated_at": "2026-01-26T09:49:02Z",
+    "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
     "author": "sbmikoto",
