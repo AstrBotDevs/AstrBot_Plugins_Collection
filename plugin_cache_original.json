@@ -380,9 +380,9 @@
       "插件编写"
     ],
     "social_link": "https://github.com/DITF16",
-    "stars": 23,
+    "stars": 24,
     "version": "1.1.1",
-    "updated_at": "2026-01-26T19:57:08Z",
+    "updated_at": "2026-01-26T23:17:46Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_groupGuard": {
@@ -570,9 +570,9 @@
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_safety",
     "tags": [],
-    "stars": 2,
+    "stars": 1,
     "version": "1.0.8",
-    "updated_at": "2026-01-24T02:40:27Z"
+    "updated_at": "2026-01-26T22:37:07Z"
   },
   "astrbot_plugin_cloudmailapi": {
     "display_name": "CloudMail 邮箱 API 工具",
@@ -1395,9 +1395,9 @@
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_custom_menu",
     "tags": [],
-    "stars": 15,
+    "stars": 14,
     "version": "1.8.10",
-    "updated_at": "2026-01-26T06:19:44Z",
+    "updated_at": "2026-01-26T22:37:07Z",
     "logo": "https://raw.githubusercontent.com/shskjw/astrbot_plugin_custom_menu/master/logo.png"
   },
   "astrbot_plugin_webnovel_info": {
@@ -2276,9 +2276,9 @@
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_gifcaijian",
     "tags": [],
-    "stars": 9,
+    "stars": 8,
     "version": "v1.4.2",
-    "updated_at": "2026-01-26T05:41:05Z"
+    "updated_at": "2026-01-26T22:37:07Z"
   },
   "astrbot_plugin_AtTool": {
     "display_name": "@工具（艾特工具）",
@@ -2419,9 +2419,9 @@
       "画图",
       "comfyui"
     ],
-    "stars": 11,
+    "stars": 12,
     "version": "3.6.0",
-    "updated_at": "2026-01-06T19:44:57Z"
+    "updated_at": "2026-01-26T22:52:54Z"
   },
   "astrbot_plugin_timeprogress": {
     "display_name": "时间可视化",
@@ -3157,9 +3157,9 @@
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_siliconflow-shouban",
     "tags": [],
-    "stars": 5,
+    "stars": 4,
     "version": "v1.3.5",
-    "updated_at": "2026-01-24T02:40:38Z"
+    "updated_at": "2026-01-26T22:37:07Z"
   },
   "astrbot_plugin_eatdrink": {
     "display_name": "吃喝什么呢？",
@@ -3197,18 +3197,18 @@
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_vangonography",
     "tags": [],
-    "stars": 3,
+    "stars": 2,
     "version": "v1.0.2",
-    "updated_at": "2026-01-24T02:40:43Z"
+    "updated_at": "2026-01-26T22:37:07Z"
   },
   "astrbot_plugin_bolatuship": {
     "desc": "使用柏拉图API接口和Sora 2等模型生成视频。",
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_bolatuship",
     "tags": [],
-    "stars": 4,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-01-24T02:40:42Z"
+    "updated_at": "2026-01-26T22:37:07Z"
   },
   "astrbot_plugin_NetEaseCloud_Music": {
     "display_name": "网易云点歌",
@@ -4228,9 +4228,9 @@
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_guijishiping",
     "tags": [],
-    "stars": 5,
+    "stars": 4,
     "version": "v1.1.0",
-    "updated_at": "2026-01-24T02:40:47Z"
+    "updated_at": "2026-01-26T22:37:07Z"
   },
   "astrbot_plugin_user_inject": {
     "desc": "根据用户id动态注入system_prompt",
@@ -4884,9 +4884,9 @@
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
-    "stars": 39,
+    "stars": 38,
     "version": "v1.8.2",
-    "updated_at": "2026-01-24T15:13:24Z"
+    "updated_at": "2026-01-26T22:37:07Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
