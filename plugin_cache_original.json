@@ -4696,9 +4696,9 @@
       "Steam"
     ],
     "social_link": "https://github.com/Maoer233",
-    "stars": 5,
+    "stars": 6,
     "version": "1.0.1",
-    "updated_at": "2026-01-09T10:43:42Z"
+    "updated_at": "2026-01-26T15:31:03Z"
   },
   "astrbot_plugin_personal_selfupdate": {
     "desc": "一个用于自更新人格数据的插件。",
@@ -5190,9 +5190,9 @@
       "wxauto"
     ],
     "social_link": "blog.isla.ltd",
-    "stars": 18,
+    "stars": 17,
     "version": "1.2.0",
-    "updated_at": "2026-01-01T16:53:18Z"
+    "updated_at": "2026-01-26T15:16:51Z"
   },
   "astrbot_plugin_AnimeMagnet": {
     "desc": "这是一个动漫磁链查询插件，可以获取动漫磁链",
@@ -8191,9 +8191,9 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 132,
+    "stars": 133,
     "version": "v2.0.6",
-    "updated_at": "2026-01-25T05:49:49Z",
+    "updated_at": "2026-01-26T15:16:36Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -10489,9 +10489,9 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 164,
+    "stars": 165,
     "version": "v2.0.15",
-    "updated_at": "2026-01-26T01:24:12Z"
+    "updated_at": "2026-01-26T14:54:43Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
