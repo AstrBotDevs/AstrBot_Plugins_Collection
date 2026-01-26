@@ -57,9 +57,9 @@
     "repo": "https://github.com/muyouzhi6/strbot_plugin_cmdmask",
     "social_link": "https://github.com/muyouzhi6",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "0.3.1",
-    "updated_at": "2026-01-24T14:07:40Z"
+    "updated_at": "2026-01-26T13:37:34Z"
   },
   "astrbot_plugin_daily_sharing": {
     "display_name": "定时主动分享所见所闻",
@@ -198,7 +198,7 @@
     "social_link": "https://mc.mimeng.top",
     "stars": 4,
     "version": "0.4.0",
-    "updated_at": "2026-01-24T17:10:08Z"
+    "updated_at": "2026-01-26T13:31:46Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -245,8 +245,8 @@
     ],
     "social_link": "https://qwq.pyuramazo.online",
     "stars": 1,
-    "version": "v1.1.0",
-    "updated_at": "2026-01-26T12:40:48Z"
+    "version": "v1.1.1",
+    "updated_at": "2026-01-26T13:09:19Z"
   },
   "astrbot_plugin_anitabi": {
     "display_name": "圣地巡礼查询插件",
