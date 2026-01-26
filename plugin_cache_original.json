@@ -37,7 +37,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 5,
     "version": "2.0.0",
-    "updated_at": "2026-01-26T05:49:56Z",
+    "updated_at": "2026-01-26T07:27:23Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_worldbook/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -73,9 +73,9 @@
       "推送"
     ],
     "social_link": "https://github.com/siciyuanweilai",
-    "stars": 4,
+    "stars": 5,
     "version": "2.0.0",
-    "updated_at": "2026-01-25T15:34:11Z",
+    "updated_at": "2026-01-26T06:49:23Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_judge": {
