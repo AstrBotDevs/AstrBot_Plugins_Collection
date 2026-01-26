@@ -417,9 +417,9 @@
       "关键词",
       "自动回复"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-01-16T08:53:02Z",
+    "updated_at": "2026-01-26T01:23:17Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_keywords_reply/master/logo.png"
   },
   "astrbot_plugin_text2img": {
@@ -5036,9 +5036,9 @@
       "memory",
       "rag"
     ],
-    "stars": 54,
+    "stars": 55,
     "version": "2.1.2",
-    "updated_at": "2026-01-20T09:11:04Z",
+    "updated_at": "2026-01-26T01:09:50Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -10488,9 +10488,9 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 163,
+    "stars": 164,
     "version": "v2.0.15",
-    "updated_at": "2026-01-18T10:27:23Z"
+    "updated_at": "2026-01-26T01:24:12Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
