@@ -37,7 +37,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 5,
     "version": "2.0.0",
-    "updated_at": "2026-01-26T02:57:36Z",
+    "updated_at": "2026-01-26T04:43:55Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_worldbook/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -418,8 +418,8 @@
       "自动回复"
     ],
     "stars": 1,
-    "version": "v1.0.0",
-    "updated_at": "2026-01-26T01:23:17Z",
+    "version": "v1.0.1",
+    "updated_at": "2026-01-26T04:22:44Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_keywords_reply/master/logo.png"
   },
   "astrbot_plugin_text2img": {
@@ -2277,8 +2277,8 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_gifcaijian",
     "tags": [],
     "stars": 9,
-    "version": "v1.4.1",
-    "updated_at": "2026-01-24T02:40:15Z"
+    "version": "v1.4.2",
+    "updated_at": "2026-01-26T05:34:39Z"
   },
   "astrbot_plugin_AtTool": {
     "display_name": "@工具（艾特工具）",
@@ -8970,8 +8970,8 @@
     "repo": "https://github.com/lm379/astrbot_plugin_quarksave",
     "tags": [],
     "stars": 13,
-    "version": "v1.0.4",
-    "updated_at": "2026-01-12T11:05:04Z"
+    "version": "v1.0.5",
+    "updated_at": "2026-01-26T05:48:15Z"
   },
   "astrbot_plugins_ConvetPicture": {
     "desc": "[仅aiocqhttp]把QQ里面不可保存的表情转化为可以保存的图片，包括GIF",
