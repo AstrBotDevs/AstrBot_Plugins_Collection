@@ -21,8 +21,8 @@
     ],
     "social_link": "https://github.com/anneviliu",
     "stars": 0,
-    "version": "0.1.0",
-    "updated_at": "2026-01-23T09:22:10Z"
+    "version": "0.2.0",
+    "updated_at": "2026-01-26T10:54:26Z"
   },
   "astrbot_plugin_worldbook": {
     "display_name": "世界书插件",
@@ -1641,8 +1641,8 @@
       "大香蕉"
     ],
     "stars": 5,
-    "version": "1.2.7",
-    "updated_at": "2026-01-26T09:50:18Z",
+    "version": "1.2.8",
+    "updated_at": "2026-01-26T11:18:58Z",
     "logo": "https://raw.githubusercontent.com/wangyingxuan383-ai/astrbot_plugin_ronghedraw/main/logo.png"
   },
   "astrbot_plugin_model_router": {
@@ -7669,9 +7669,9 @@
     "repo": "https://github.com/Zhalslar/astrbot_plugin_search_video",
     "social_link": "https://github.com/Zhalslar",
     "tags": [],
-    "stars": 40,
+    "stars": 41,
     "version": "v1.1.1",
-    "updated_at": "2026-01-25T09:44:08Z",
+    "updated_at": "2026-01-26T11:06:50Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_search_video/main/logo.png"
   },
   "astrbot_plugin_zt": {
