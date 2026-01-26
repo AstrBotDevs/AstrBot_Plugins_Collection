@@ -198,7 +198,7 @@
     "social_link": "https://mc.mimeng.top",
     "stars": 4,
     "version": "0.4.0",
-    "updated_at": "2026-01-26T13:31:46Z"
+    "updated_at": "2026-01-26T14:06:14Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -1952,8 +1952,8 @@
       "表情"
     ],
     "stars": 10,
-    "version": "2.1.6",
-    "updated_at": "2026-01-23T16:20:41Z",
+    "version": "2.1.7",
+    "updated_at": "2026-01-26T14:16:50Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
