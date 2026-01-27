@@ -73,9 +73,9 @@
       "推送"
     ],
     "social_link": "https://github.com/siciyuanweilai",
-    "stars": 6,
+    "stars": 7,
     "version": "2.0.0",
-    "updated_at": "2026-01-26T11:27:45Z",
+    "updated_at": "2026-01-27T05:50:21Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_judge": {
@@ -1938,9 +1938,9 @@
       "拟人"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 9,
+    "stars": 10,
     "version": "v2.2.5",
-    "updated_at": "2026-01-22T05:51:11Z",
+    "updated_at": "2026-01-27T05:50:30Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_life_scheduler/main/logo.png"
   },
   "astrbot_plugin_stealer": {
@@ -2089,9 +2089,9 @@
       "画图"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 29,
+    "stars": 30,
     "version": "v2.6.0",
-    "updated_at": "2026-01-26T09:23:33Z",
+    "updated_at": "2026-01-27T05:50:43Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -3356,8 +3356,8 @@
     ],
     "social_link": "https://github.com/Luna-channel",
     "stars": 12,
-    "version": "1.4.3",
-    "updated_at": "2026-01-25T10:26:04Z",
+    "version": "1.4.4",
+    "updated_at": "2026-01-27T06:09:53Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_Conversa/main/logo.png"
   },
   "astrbot_plugin_shutdown": {
