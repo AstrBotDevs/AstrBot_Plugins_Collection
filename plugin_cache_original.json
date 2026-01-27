@@ -198,7 +198,7 @@
     "social_link": "https://mc.mimeng.top",
     "stars": 4,
     "version": "0.4.0",
-    "updated_at": "2026-01-26T14:06:14Z"
+    "updated_at": "2026-01-27T03:51:39Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -354,8 +354,8 @@
       "群聊活跃度监测"
     ],
     "stars": 1,
-    "version": "2.1.0",
-    "updated_at": "2026-01-23T08:18:31Z",
+    "version": "2.1.1",
+    "updated_at": "2026-01-27T02:29:59Z",
     "logo": "https://raw.githubusercontent.com/danfong1104/astrbot_plugin_chatmaster/main/logo.png"
   },
   "astrbot_plugin_cheer_mate": {
@@ -6631,9 +6631,9 @@
       "鼠鼠"
     ],
     "author": "UyNewNas",
-    "stars": 12,
+    "stars": 13,
     "version": "v1.2",
-    "updated_at": "2026-01-11T14:31:50Z"
+    "updated_at": "2026-01-27T03:58:44Z"
   },
   "astrbot_plugin_LetAI_sendemojis": {
     "desc": "智能分析AI对话内容并发送匹配表情包，支持情感识别、历史记录和多数据源，让聊天更生动有趣",
@@ -10489,9 +10489,9 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 165,
+    "stars": 166,
     "version": "v2.0.15",
-    "updated_at": "2026-01-26T14:54:43Z"
+    "updated_at": "2026-01-27T03:45:10Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
