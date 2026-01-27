@@ -35,9 +35,9 @@
       "世界书"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 5,
+    "stars": 6,
     "version": "2.1.0",
-    "updated_at": "2026-01-26T09:39:33Z",
+    "updated_at": "2026-01-27T08:56:28Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_worldbook/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -291,7 +291,7 @@
     "tags": [],
     "stars": 3,
     "version": "1.0.0",
-    "updated_at": "2026-01-25T06:34:17Z"
+    "updated_at": "2026-01-27T09:09:16Z"
   },
   "astrbot_plugin_CNKD_Admin": {
     "display_name": "UapiPro言论管控",
@@ -716,9 +716,9 @@
     "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
     "pinned": true,
     "tags": [],
-    "stars": 13,
+    "stars": 14,
     "version": "v3.9.13",
-    "updated_at": "2026-01-21T15:55:46Z",
+    "updated_at": "2026-01-27T08:46:33Z",
     "logo": "https://raw.githubusercontent.com/xiaoxi68/astrbot_zssm_explain/main/logo.png"
   },
   "astrbot_plugin_self_learning": {
