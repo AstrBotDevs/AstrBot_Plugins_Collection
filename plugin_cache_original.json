@@ -36,8 +36,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 8,
-    "version": "2.2.0",
-    "updated_at": "2026-01-27T13:53:24Z",
+    "version": "2.2.1",
+    "updated_at": "2026-01-27T14:33:03Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_worldbook/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -126,9 +126,9 @@
       "群聊圣经"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 139,
+    "stars": 140,
     "version": "v4.6.6",
-    "updated_at": "2026-01-27T14:06:13Z",
+    "updated_at": "2026-01-27T15:11:56Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -245,8 +245,8 @@
     ],
     "social_link": "https://qwq.pyuramazo.online",
     "stars": 1,
-    "version": "v1.2.0",
-    "updated_at": "2026-01-27T12:27:58Z"
+    "version": "v1.2.1",
+    "updated_at": "2026-01-27T15:08:40Z"
   },
   "astrbot_plugin_anitabi": {
     "display_name": "圣地巡礼查询插件",
@@ -2006,7 +2006,7 @@
     "pinned": true,
     "stars": 28,
     "version": "v1.3.5",
-    "updated_at": "2026-01-27T12:06:18Z",
+    "updated_at": "2026-01-27T15:10:01Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -3657,9 +3657,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 69,
+    "stars": 70,
     "version": "v1.1.4",
-    "updated_at": "2026-01-27T13:50:45Z",
+    "updated_at": "2026-01-27T15:14:51Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -5145,9 +5145,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 139,
+    "stars": 140,
     "version": "v4.6.6",
-    "updated_at": "2026-01-27T14:06:13Z",
+    "updated_at": "2026-01-27T15:11:56Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
