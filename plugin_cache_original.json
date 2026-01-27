@@ -35,9 +35,9 @@
       "世界书"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 7,
-    "version": "2.1.0",
-    "updated_at": "2026-01-27T12:41:23Z",
+    "stars": 8,
+    "version": "2.2.0",
+    "updated_at": "2026-01-27T13:26:03Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_worldbook/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -126,9 +126,9 @@
       "群聊圣经"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 137,
+    "stars": 138,
     "version": "v4.6.6",
-    "updated_at": "2026-01-27T01:31:06Z",
+    "updated_at": "2026-01-27T12:56:20Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -2347,7 +2347,7 @@
     ],
     "stars": 2,
     "version": "v1.1.1",
-    "updated_at": "2026-01-17T05:27:48Z",
+    "updated_at": "2026-01-27T13:01:19Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_video_analysis/master/logo.png"
   },
   "astrbot_plugin_image_generation": {
@@ -3657,9 +3657,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 68,
+    "stars": 69,
     "version": "v1.1.4",
-    "updated_at": "2026-01-23T15:04:35Z",
+    "updated_at": "2026-01-27T13:50:45Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
