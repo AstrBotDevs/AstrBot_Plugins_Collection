@@ -510,9 +510,9 @@
     "repo": "https://github.com/muyouzhi6/astrbot_plugin_context_aware",
     "tags": [],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 8,
+    "stars": 9,
     "version": "3.0.2",
-    "updated_at": "2026-01-24T12:15:44Z",
+    "updated_at": "2026-01-27T17:09:50Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_context_aware/main/logo.png"
   },
   "astrbot_plugin_STEmbedding": {
@@ -1838,7 +1838,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 47,
     "version": "v1.1.7",
-    "updated_at": "2026-01-21T05:18:07Z",
+    "updated_at": "2026-01-27T17:14:54Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -3657,9 +3657,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 70,
+    "stars": 71,
     "version": "v1.1.4",
-    "updated_at": "2026-01-27T15:14:51Z",
+    "updated_at": "2026-01-27T17:13:41Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
