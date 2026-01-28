@@ -537,9 +537,9 @@
       "动漫"
     ],
     "social_link": "https://github.com/kennylimz",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.2",
-    "updated_at": "2026-01-27T22:38:57Z",
+    "updated_at": "2026-01-28T06:12:23Z",
     "logo": "https://raw.githubusercontent.com/kennylimz/astrbot_plugin_mudae_qq/main/logo.png"
   },
   "BUGJI/astrbot_plugin_balance": {
@@ -3381,9 +3381,9 @@
       "主动回复"
     ],
     "social_link": "https://github.com/Him666233",
-    "stars": 30,
+    "stars": 31,
     "version": "v1.1.2",
-    "updated_at": "2026-01-24T15:10:32Z",
+    "updated_at": "2026-01-28T06:06:35Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -5794,8 +5794,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 52,
-    "version": "v2.2.9",
-    "updated_at": "2026-01-23T02:17:57Z",
+    "version": "v2.3.0",
+    "updated_at": "2026-01-28T05:31:33Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -7555,9 +7555,9 @@
       "RAG",
       "知识库"
     ],
-    "stars": 77,
+    "stars": 78,
     "version": "v0.5.9",
-    "updated_at": "2025-12-18T16:20:48Z"
+    "updated_at": "2026-01-28T06:47:09Z"
   },
   "astrbot_uptime_kuma_webhook_plugin": {
     "author": "RC-CHN",
