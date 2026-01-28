@@ -126,9 +126,9 @@
       "群聊圣经"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 141,
+    "stars": 142,
     "version": "v4.6.6",
-    "updated_at": "2026-01-27T15:57:13Z",
+    "updated_at": "2026-01-28T02:44:54Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -731,9 +731,9 @@
       "人格"
     ],
     "social_link": "https://github.com/NickCharlie",
-    "stars": 82,
+    "stars": 83,
     "version": "Next-1.1.5",
-    "updated_at": "2026-01-26T06:02:34Z",
+    "updated_at": "2026-01-28T03:07:56Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -5121,9 +5121,9 @@
       "画图",
       "AI绘画"
     ],
-    "stars": 23,
+    "stars": 24,
     "version": "v1.8.1",
-    "updated_at": "2026-01-16T09:32:22Z"
+    "updated_at": "2026-01-28T02:06:30Z"
   },
   "github_star_verify": {
     "desc": "[aiocqhttp]使用 GitHub 仓库的 Star 状态作为入群验证条件，仅允许已 Star 指定仓库的用户留在群内。",
@@ -5145,9 +5145,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 141,
+    "stars": 142,
     "version": "v4.6.6",
-    "updated_at": "2026-01-27T15:57:13Z",
+    "updated_at": "2026-01-28T02:44:54Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -6873,9 +6873,9 @@
       "web search"
     ],
     "social_link": "https://github.com/lxfight",
-    "stars": 23,
+    "stars": 24,
     "version": "0.1.0",
-    "updated_at": "2026-01-15T12:05:21Z"
+    "updated_at": "2026-01-28T02:07:37Z"
   },
   "astrbot_plugin_textadventure": {
     "author": "LumineStory",
@@ -9127,9 +9127,9 @@
       "抽卡"
     ],
     "social_link": "https://github.com/Futureppo",
-    "stars": 18,
+    "stars": 19,
     "version": "v1.0.13",
-    "updated_at": "2025-12-01T20:17:53Z",
+    "updated_at": "2026-01-28T02:09:29Z",
     "logo": "https://raw.githubusercontent.com/Futureppo/astrbot_plugin_doro_today/master/logo.png"
   },
   "astrbot_plugin_litematic": {
