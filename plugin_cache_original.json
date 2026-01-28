@@ -38,7 +38,7 @@
     "social_link": "https://github.com/VanillaNahida",
     "stars": 0,
     "version": "v1.0.1",
-    "updated_at": "2026-01-15T08:16:36Z",
+    "updated_at": "2026-01-28T16:04:30Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_aip_review/master/logo.png"
   },
   "astrbot_plugin_goons": {
@@ -62,8 +62,8 @@
     "repo": "https://github.com/2732335411/astrbot_plugin_nnnu_wm_electricity_repo",
     "tags": [],
     "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-01-28T14:43:28Z"
+    "version": "1.1.0",
+    "updated_at": "2026-01-28T16:26:13Z"
   },
   "astrbot_plugin_spider": {
     "display_name": "网站订阅",
@@ -710,8 +710,8 @@
     ],
     "social_link": "https://github.com/VanillaNahida/",
     "stars": 16,
-    "version": "v1.1.9",
-    "updated_at": "2026-01-25T21:28:52Z",
+    "version": "v1.2.0",
+    "updated_at": "2026-01-28T15:51:52Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_geetest_verify/master/logo.png"
   },
   "astrbot_plugin_cliproxy_stats": {
