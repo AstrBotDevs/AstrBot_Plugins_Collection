@@ -74,8 +74,8 @@
     ],
     "social_link": "https://github.com/siciyuanweilai",
     "stars": 8,
-    "version": "2.0.0",
-    "updated_at": "2026-01-27T16:04:54Z",
+    "version": "3.0.0",
+    "updated_at": "2026-01-28T10:15:19Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_judge": {
@@ -843,8 +843,8 @@
     ],
     "social_link": "https://github.com/stevessr",
     "stars": 4,
-    "version": "0.2.8",
-    "updated_at": "2026-01-28T05:06:09Z",
+    "version": "0.2.9",
+    "updated_at": "2026-01-28T09:52:03Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_url_image_auto": {
@@ -1952,8 +1952,8 @@
       "表情"
     ],
     "stars": 11,
-    "version": "2.1.7",
-    "updated_at": "2026-01-27T18:31:44Z",
+    "version": "2.1.8",
+    "updated_at": "2026-01-28T10:19:07Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -2841,7 +2841,7 @@
     ],
     "stars": 2,
     "version": "v2.0",
-    "updated_at": "2026-01-28T09:30:59Z"
+    "updated_at": "2026-01-28T10:20:20Z"
   },
   "astrbot_plugin_temp-email": {
     "display_name": "临时邮箱",
@@ -4886,7 +4886,7 @@
     "tags": [],
     "stars": 38,
     "version": "v1.8.2",
-    "updated_at": "2026-01-26T22:37:07Z"
+    "updated_at": "2026-01-28T10:19:47Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
