@@ -1,4 +1,80 @@
 {
+  "astrbot_plugin_dailynews_agent": {
+    "display_name": "dailynews_agent",
+    "desc": "基于 Multi-Agent 的日报插件。",
+    "author": "xunxiing",
+    "repo": "https://github.com/xunxiing/astrbot_dailynews_agent",
+    "tags": [
+      "日报",
+      "multiagent"
+    ],
+    "stars": 1,
+    "version": "v0.3.7",
+    "updated_at": "2026-01-26T14:41:17Z"
+  },
+  "astrbot_plugin_wfbot": {
+    "display_name": "WF 游戏相关数据查询订阅",
+    "desc": "Warframe 数据层（世界状态/PublicExport/多镜像/market），支持缓存、清理与定时刷新",
+    "author": "Youzini",
+    "repo": "https://github.com/Youzini-afk/astrbot_plugin_wfbot",
+    "tags": [
+      "游戏",
+      "warframe"
+    ],
+    "social_link": "https://github.com/Youzini-afk",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-01-24T14:31:19Z"
+  },
+  "astrbot_plugin_group_aip_review": {
+    "display_name": "群消息内容安全审核插件",
+    "desc": "让我康康你的消息正不正常喵？基于百度内容审核API对群聊消息进行实时审查喵，支持文本和图片审核喵，自动处置违规内容并通知管理员喵。",
+    "author": "香草味的纳西妲喵（VanillaNahida）",
+    "repo": "https://github.com/VanillaNahida/astrbot_plugin_group_aip_review",
+    "tags": [
+      "管理",
+      "审查"
+    ],
+    "social_link": "https://github.com/VanillaNahida",
+    "stars": 0,
+    "version": "v1.0.1",
+    "updated_at": "2026-01-15T08:16:36Z",
+    "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_aip_review/master/logo.png"
+  },
+  "astrbot_plugin_goons": {
+    "display_name": "塔科夫三狗位置查询",
+    "desc": "查询逃离塔科夫中 Goons 小队（三狗）的实时位置",
+    "author": "Juhua402",
+    "repo": "https://github.com/Juhua402/astrbot_plugin_goons",
+    "tags": [
+      "游戏",
+      "塔科夫",
+      "工具"
+    ],
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-01-21T05:37:19Z"
+  },
+  "astrbot_plugin_nnnu_wm_electricity": {
+    "display_name": "南宁师范大学-武鸣校区电费提醒插件",
+    "desc": "提醒电费还够不够、有人充了电费等功能",
+    "author": "Tom?",
+    "repo": "https://github.com/2732335411/astrbot_plugin_nnnu_wm_electricity_repo",
+    "tags": [],
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-01-25T21:58:31Z"
+  },
+  "astrbot_plugin_spider": {
+    "display_name": "网站订阅",
+    "desc": "订阅不同网站的更新并推送给用户",
+    "author": "zanderzhng",
+    "repo": "https://github.com/stonk-org/astrbot_plugin_spider",
+    "tags": [],
+    "stars": 0,
+    "version": "v0.0.4",
+    "updated_at": "2025-10-12T17:00:55Z"
+  },
   "astrbot_plugin_komari_status": {
     "display_name": "Komari 监控查询",
     "desc": "AstrBot 的 Komari 服务器状态监控插件。支持查询节点列表、实时状态、公开设置及版本信息。支持生成精美的状态图片，并允许用户自定义触发指令。",
@@ -716,9 +792,9 @@
     "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
     "pinned": true,
     "tags": [],
-    "stars": 14,
+    "stars": 15,
     "version": "v3.9.13",
-    "updated_at": "2026-01-27T08:46:33Z",
+    "updated_at": "2026-01-28T12:46:46Z",
     "logo": "https://raw.githubusercontent.com/xiaoxi68/astrbot_zssm_explain/main/logo.png"
   },
   "astrbot_plugin_self_learning": {
@@ -959,8 +1035,8 @@
       "审查"
     ],
     "stars": 1,
-    "version": "v1.0",
-    "updated_at": "2026-01-20T11:43:52Z",
+    "version": "v1.1",
+    "updated_at": "2026-01-28T12:31:34Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_admin_notifier/master/logo.png"
   },
   "astrbot_plugin_models_ai": {
@@ -1953,7 +2029,7 @@
     ],
     "stars": 11,
     "version": "2.1.8",
-    "updated_at": "2026-01-28T10:19:07Z",
+    "updated_at": "2026-01-28T12:49:50Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -2306,7 +2382,7 @@
     ],
     "stars": 0,
     "version": "v1.2",
-    "updated_at": "2026-01-16T09:58:12Z",
+    "updated_at": "2026-01-28T11:30:34Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_CloudImg/master/logo.png"
   },
   "astrbot_plugin_aicu_analysis": {
@@ -3657,9 +3733,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 71,
+    "stars": 72,
     "version": "v1.1.4",
-    "updated_at": "2026-01-27T17:13:41Z",
+    "updated_at": "2026-01-28T11:39:30Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -4164,7 +4240,7 @@
     ],
     "stars": 0,
     "version": "v1.9.1",
-    "updated_at": "2026-01-22T17:22:43Z",
+    "updated_at": "2026-01-28T11:41:00Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_file_checker/master/logo.png"
   },
   "astrbot_plugin_tg_button": {
@@ -6806,8 +6882,8 @@
     ],
     "social_link": "https://github.com/zhewang448",
     "stars": 4,
-    "version": "v1.2.2",
-    "updated_at": "2026-01-06T05:14:44Z",
+    "version": "v1.2.3",
+    "updated_at": "2026-01-28T12:41:51Z",
     "logo": "https://raw.githubusercontent.com/zhewang448/astrbot_plugin_gameinfo/main/logo.png"
   },
   "astrbot_plugin_shutup": {
