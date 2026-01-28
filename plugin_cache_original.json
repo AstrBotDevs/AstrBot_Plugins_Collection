@@ -63,7 +63,7 @@
     "tags": [],
     "stars": 0,
     "version": "1.0.0",
-    "updated_at": "2026-01-25T21:58:31Z"
+    "updated_at": "2026-01-28T13:49:27Z"
   },
   "astrbot_plugin_spider": {
     "display_name": "网站订阅",
@@ -111,9 +111,9 @@
       "世界书"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 8,
+    "stars": 9,
     "version": "2.2.1",
-    "updated_at": "2026-01-27T14:33:03Z",
+    "updated_at": "2026-01-28T13:19:11Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_worldbook/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -150,8 +150,8 @@
     ],
     "social_link": "https://github.com/siciyuanweilai",
     "stars": 8,
-    "version": "3.0.0",
-    "updated_at": "2026-01-28T10:15:19Z",
+    "version": "3.1.0",
+    "updated_at": "2026-01-28T13:33:10Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_judge": {
@@ -1472,8 +1472,8 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_custom_menu",
     "tags": [],
     "stars": 14,
-    "version": "1.8.10",
-    "updated_at": "2026-01-27T05:17:22Z",
+    "version": "1.9.0",
+    "updated_at": "2026-01-28T12:57:27Z",
     "logo": "https://raw.githubusercontent.com/shskjw/astrbot_plugin_custom_menu/master/logo.png"
   },
   "astrbot_plugin_webnovel_info": {
@@ -4404,7 +4404,7 @@
     ],
     "stars": 4,
     "version": "v1.1",
-    "updated_at": "2026-01-14T13:57:18Z",
+    "updated_at": "2026-01-28T13:01:40Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_GroupFS/master/logo.png"
   },
   "group_notice_manager": {
@@ -7445,9 +7445,9 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 94,
+    "stars": 95,
     "version": "v2.0.7",
-    "updated_at": "2026-01-21T02:46:29Z",
+    "updated_at": "2026-01-28T13:33:23Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
