@@ -290,8 +290,8 @@
     "repo": "https://github.com/2529huang/astrbot_plugin_fund_analyzer",
     "tags": [],
     "stars": 3,
-    "version": "1.0.0",
-    "updated_at": "2026-01-27T09:09:16Z"
+    "version": "1.1.0",
+    "updated_at": "2026-01-28T10:43:11Z"
   },
   "astrbot_plugin_CNKD_Admin": {
     "display_name": "UapiPro言论管控",
@@ -4885,8 +4885,8 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
     "stars": 38,
-    "version": "v1.8.2",
-    "updated_at": "2026-01-28T10:19:47Z"
+    "version": "v1.8.3",
+    "updated_at": "2026-01-28T10:58:06Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
