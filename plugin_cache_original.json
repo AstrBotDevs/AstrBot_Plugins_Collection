@@ -63,7 +63,7 @@
     "tags": [],
     "stars": 0,
     "version": "1.0.0",
-    "updated_at": "2026-01-28T13:49:27Z"
+    "updated_at": "2026-01-28T14:43:28Z"
   },
   "astrbot_plugin_spider": {
     "display_name": "网站订阅",
@@ -111,9 +111,9 @@
       "世界书"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 9,
+    "stars": 10,
     "version": "2.2.1",
-    "updated_at": "2026-01-28T13:19:11Z",
+    "updated_at": "2026-01-28T14:33:45Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_worldbook/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -404,8 +404,8 @@
       "拟人"
     ],
     "stars": 2,
-    "version": "1.2.4",
-    "updated_at": "2026-01-25T11:11:13Z"
+    "version": "1.2.5",
+    "updated_at": "2026-01-28T14:33:18Z"
   },
   "astrbot_plugin_mc_manager": {
     "display_name": "astrbot_plugin_mc_manager",
@@ -1360,8 +1360,8 @@
     ],
     "social_link": "https://github.com/Dayanshifu/",
     "stars": 2,
-    "version": "v1.1.1",
-    "updated_at": "2026-01-04T12:37:52Z",
+    "version": "v1.1.2",
+    "updated_at": "2026-01-28T15:20:30Z",
     "logo": "https://raw.githubusercontent.com/Dayanshifu/astrbot_plugin_bilibili_livemonitor/main/logo.png"
   },
   "astrbot_plugin_hangout": {
