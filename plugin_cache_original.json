@@ -245,8 +245,8 @@
     ],
     "social_link": "https://qwq.pyuramazo.online",
     "stars": 1,
-    "version": "v1.2.1",
-    "updated_at": "2026-01-27T15:08:40Z"
+    "version": "v1.2.2",
+    "updated_at": "2026-01-28T04:15:07Z"
   },
   "astrbot_plugin_anitabi": {
     "display_name": "圣地巡礼查询插件",
@@ -2319,9 +2319,9 @@
     ],
     "repo": "https://github.com/Huahuatgc/astrbot_plugin_aicu",
     "social_link": "https://github.com/Huahuatgc",
-    "stars": 6,
+    "stars": 7,
     "version": "2.5.0",
-    "updated_at": "2026-01-12T01:35:22Z",
+    "updated_at": "2026-01-28T04:32:14Z",
     "logo": "https://raw.githubusercontent.com/Huahuatgc/astrbot_plugin_aicu/master/logo.png"
   },
   "astrbot_plugin_ShareholderPerks": {
@@ -9800,9 +9800,9 @@
       "主动回复"
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-    "stars": 92,
+    "stars": 93,
     "version": "v2.1.10",
-    "updated_at": "2026-01-19T02:07:46Z"
+    "updated_at": "2026-01-28T04:42:22Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
