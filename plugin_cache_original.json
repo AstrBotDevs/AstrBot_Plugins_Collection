@@ -316,7 +316,7 @@
     "social_link": "https://github.com/KonmaKanSinPack",
     "stars": 2,
     "version": "v1.0.1",
-    "updated_at": "2026-01-26T03:51:47Z"
+    "updated_at": "2026-01-28T08:27:58Z"
   },
   "astrbot_plugin_engram": {
     "display_name": "仿生双轨记忆系统",
@@ -8892,9 +8892,9 @@
     "tags": [
       "QQ群管"
     ],
-    "stars": 88,
+    "stars": 89,
     "version": "v3.2.7",
-    "updated_at": "2026-01-25T16:38:23Z",
+    "updated_at": "2026-01-28T08:18:40Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
