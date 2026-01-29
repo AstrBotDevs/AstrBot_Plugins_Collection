@@ -287,7 +287,7 @@
     "tags": [],
     "stars": 1,
     "version": "v1.3.0",
-    "updated_at": "2026-01-29T14:34:32Z",
+    "updated_at": "2026-01-29T14:50:11Z",
     "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_fflogs/master/logo.png"
   },
   "astrbot_plugin_CNKD_NEWS": {
@@ -326,9 +326,9 @@
       "群聊圣经"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 144,
+    "stars": 145,
     "version": "v4.6.6",
-    "updated_at": "2026-01-29T01:23:17Z",
+    "updated_at": "2026-01-29T15:31:56Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -3056,7 +3056,7 @@
     ],
     "stars": 2,
     "version": "v2.0",
-    "updated_at": "2026-01-29T14:26:28Z"
+    "updated_at": "2026-01-29T15:20:58Z"
   },
   "astrbot_plugin_temp-email": {
     "display_name": "临时邮箱",
@@ -5360,9 +5360,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 144,
+    "stars": 145,
     "version": "v4.6.6",
-    "updated_at": "2026-01-29T01:23:17Z",
+    "updated_at": "2026-01-29T15:31:56Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
