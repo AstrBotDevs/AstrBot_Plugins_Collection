@@ -151,7 +151,7 @@
     "social_link": "https://github.com/siciyuanweilai",
     "stars": 8,
     "version": "3.2.0",
-    "updated_at": "2026-01-28T14:29:25Z",
+    "updated_at": "2026-01-29T01:15:15Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_judge": {
@@ -202,9 +202,9 @@
       "群聊圣经"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 143,
+    "stars": 144,
     "version": "v4.6.6",
-    "updated_at": "2026-01-28T08:50:35Z",
+    "updated_at": "2026-01-29T01:23:17Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -5221,9 +5221,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 143,
+    "stars": 144,
     "version": "v4.6.6",
-    "updated_at": "2026-01-28T08:50:35Z",
+    "updated_at": "2026-01-29T01:23:17Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -6557,9 +6557,9 @@
       "文件处理"
     ],
     "author": null,
-    "stars": 20,
+    "stars": 21,
     "version": "2.6.0",
-    "updated_at": "2026-01-19T14:50:27Z"
+    "updated_at": "2026-01-29T00:39:03Z"
   },
   "astrbot_plugin_group_sign": {
     "name": "group_sign",
