@@ -710,8 +710,8 @@
     ],
     "social_link": "https://github.com/VanillaNahida/",
     "stars": 16,
-    "version": "v1.2.0",
-    "updated_at": "2026-01-28T15:51:52Z",
+    "version": "v1.2.1",
+    "updated_at": "2026-01-29T05:34:12Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_geetest_verify/master/logo.png"
   },
   "astrbot_plugin_cliproxy_stats": {
@@ -1717,8 +1717,8 @@
       "大香蕉"
     ],
     "stars": 5,
-    "version": "1.2.8",
-    "updated_at": "2026-01-26T11:18:58Z",
+    "version": "1.2.12",
+    "updated_at": "2026-01-29T05:41:33Z",
     "logo": "https://raw.githubusercontent.com/wangyingxuan383-ai/astrbot_plugin_ronghedraw/main/logo.png"
   },
   "astrbot_plugin_model_router": {
@@ -2317,9 +2317,9 @@
       "格式"
     ],
     "social_link": "https://space.bilibili.com/702922307",
-    "stars": 2,
+    "stars": 3,
     "version": "0.0.4",
-    "updated_at": "2025-12-06T11:23:19Z"
+    "updated_at": "2026-01-29T05:48:00Z"
   },
   "astrbot_plugin_fox_status": {
     "display_name": "Fox 状态监控",
