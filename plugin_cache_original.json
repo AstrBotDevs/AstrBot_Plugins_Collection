@@ -286,8 +286,8 @@
     "repo": "https://github.com/674537331/astrbot_plugin_fflogs",
     "tags": [],
     "stars": 1,
-    "version": "v1.1.0",
-    "updated_at": "2026-01-12T12:06:21Z",
+    "version": "v1.3.0",
+    "updated_at": "2026-01-29T14:34:32Z",
     "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_fflogs/master/logo.png"
   },
   "astrbot_plugin_CNKD_NEWS": {
@@ -460,8 +460,8 @@
     ],
     "social_link": "https://qwq.pyuramazo.online",
     "stars": 1,
-    "version": "v1.2.2",
-    "updated_at": "2026-01-28T04:15:07Z"
+    "version": "v1.3.0",
+    "updated_at": "2026-01-29T13:03:08Z"
   },
   "astrbot_plugin_anitabi": {
     "display_name": "圣地巡礼查询插件",
@@ -3056,7 +3056,7 @@
     ],
     "stars": 2,
     "version": "v2.0",
-    "updated_at": "2026-01-29T12:47:52Z"
+    "updated_at": "2026-01-29T14:26:28Z"
   },
   "astrbot_plugin_temp-email": {
     "display_name": "临时邮箱",
