@@ -37,9 +37,9 @@
       "odoo",
       "连接器"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-01-28T16:08:22Z"
+    "updated_at": "2026-01-29T16:21:31Z"
   },
   "astrbot_plugin_dailynews_agent": {
     "display_name": "dailynews_agent",
@@ -234,8 +234,8 @@
     ],
     "social_link": "https://github.com/siciyuanweilai",
     "stars": 8,
-    "version": "3.2.0",
-    "updated_at": "2026-01-29T01:15:15Z",
+    "version": "3.4.0",
+    "updated_at": "2026-01-29T16:28:12Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -2874,7 +2874,7 @@
     ],
     "stars": 1,
     "version": "1.2.0",
-    "updated_at": "2026-01-27T10:21:01Z"
+    "updated_at": "2026-01-29T16:26:54Z"
   },
   "astrbot_plugin_hotsearch": {
     "display_name": "实时热搜插件",
@@ -3056,7 +3056,7 @@
     ],
     "stars": 2,
     "version": "v2.0",
-    "updated_at": "2026-01-29T15:20:58Z"
+    "updated_at": "2026-01-29T16:15:39Z"
   },
   "astrbot_plugin_temp-email": {
     "display_name": "临时邮箱",
