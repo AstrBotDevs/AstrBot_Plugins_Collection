@@ -764,9 +764,9 @@
       "NLP"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 17,
+    "stars": 18,
     "version": "1.1.1",
-    "updated_at": "2026-01-22T00:35:16Z"
+    "updated_at": "2026-01-29T03:14:28Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -1021,9 +1021,9 @@
       "火山方舟",
       "豆包"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "3.2.0",
-    "updated_at": "2025-12-24T14:50:16Z"
+    "updated_at": "2026-01-29T04:14:07Z"
   },
   "astrbot_plugin_admin_notifier": {
     "display_name": "举报通知",
@@ -4505,7 +4505,7 @@
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
     "stars": 11,
     "version": "v0.1.0",
-    "updated_at": "2025-12-13T06:13:30Z"
+    "updated_at": "2026-01-29T02:19:16Z"
   },
   "qftp": {
     "desc": "一个基于 astrbot 的文件管理插件，支持文件下载、搜索等功能。只在napcat+linux下尝试",
