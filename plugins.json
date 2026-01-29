@@ -1,4 +1,37 @@
 {
+  "astrbot_plugin_skland": {
+    "display_name": "森空岛签到",
+    "desc": "森空岛签到，支持终末地和明日方舟，支持定时签到",
+    "author": "Azincc",
+    "repo": "https://github.com/Azincc/astrbot_plugin_skland",
+    "tags": [
+      "明日方舟",
+      "终末地",
+      "自动签到"
+    ],
+    "social_link": "https://github.com/Azincc/"
+  },
+  "astrbot_plugin_tomin": {
+    "display_name": "Tomin - 少女乐队游戏",
+    "desc": "一个少女乐队休闲游戏插件。",
+    "author": "Llyjus",
+    "repo": "https://github.com/Llyjus/astrbot_plugin_tomin",
+    "tags": [
+      "少女乐队",
+      "gbc",
+      "bangdream"
+    ]
+  },
+  "astrbot_plugin_odoo": {
+    "display_name": "AstrBot Odoo 连接器",
+    "desc": "连接 AstrBot 与 Odoo 18 Discuss 模块，实现企业内部 AI 机器人功能。",
+    "author": "mact",
+    "repo": "https://github.com/chaojimct/astrbot_plugin_odoo",
+    "tags": [
+      "odoo",
+      "连接器"
+    ]
+  },
   "astrbot_plugin_dailynews_agent": {
     "display_name": "dailynews_agent",
     "desc": "基于 Multi-Agent 的日报插件。",
@@ -8,6 +41,26 @@
       "日报",
       "multiagent"
     ]
+  },
+  "astrbot_plugin_trpgdice_rerolled": {
+    "display_name": "星星骰娘-重骰版！",
+    "desc": "支持自定义回复的骰娘插件！基于trpgdice_complete开发",
+    "author": "星空凌",
+    "repo": "https://github.com/HosisoraLing/astrbot_plugin_trpgdice_rerolled",
+    "tags": [
+      "TRPG",
+      "跑团",
+      "桌游",
+      "COC",
+      "骰娘"
+    ]
+  },
+  "astrbot_plugin_bestdori_tools": {
+    "display_name": "BanG！Dream！Bestdori工具箱",
+    "desc": "少女乐团派对 游戏查询工具：基于Bestdori资源网的活动信息、卡面查询、生日祝福、订阅播报（应该没成）等简易功能，代码基本是ai跑的，bug大堆，但还是跑通了，等其它大佬能够集成更多茨菇没有的指令简单的有趣功能。",
+    "author": "findx1197",
+    "repo": "https://github.com/findx010197/astrbot_plugin_bestdori_tools/tree/main",
+    "social_link": "https://github.com/findx010197"
   },
   "astrbot_plugin_wfbot": {
     "display_name": "WF 游戏相关数据查询订阅",
@@ -48,6 +101,17 @@
     "author": "Tom?",
     "repo": "https://github.com/2732335411/astrbot_plugin_nnnu_wm_electricity_repo"
   },
+  "astrbot_plugin_crypto_asset": {
+    "display_name": "数字货币资产查询与监控插件",
+    "desc": "astrbot_plugin_crypto_asset 是一个功能强大的 AstrBot 插件，专为加密货币用户设计。它不仅支持实时查询全网虚拟币价格，还具备多链钱包地址转账监控功能，让您随时随地掌握链上动态。",
+    "author": "Arturia169",
+    "repo": "https://github.com/Arturia169/astrbot_plugin_crypto_asset",
+    "tags": [
+      "虚拟货币",
+      "查询"
+    ],
+    "social_link": "https://github.com/Arturia169"
+  },
   "astrbot_plugin_spider": {
     "display_name": "网站订阅",
     "desc": "订阅不同网站的更新并推送给用户",
@@ -61,6 +125,7 @@
     "repo": "https://github.com/nulijiazaizhong/astrbot_plugin_komari_status",
     "social_link": "https://github.com/nulijiazaizhong"
   },
+
   "astrbot_plugin_lark_enhance": {
     "display_name": "飞书增强",
     "desc": "增强 AstrBot 在飞书场景下的表现，支持上下文感知增强（名字、群名、聊天记录、引用回复），流式输出，@群成员等",
@@ -105,6 +170,18 @@
     "tags": ["拟人","分享","定时","推送"],
     "social_link": "https://github.com/siciyuanweilai"
   },
+  "astrbot_plugin_group_auto_clean_member": {
+    "display_name": "群聊自动满员清人",
+    "desc": "(仅 OneBot) 当群聊满员时，自动移除活跃度倒数第一的成员，同时提示倒数第二成员尽快发言。",
+    "author": "香草味的纳西妲喵（VanillaNahida）",
+    "repo": "https://github.com/VanillaNahida/astrbot_plugin_group_auto_clean_member",
+    "tags": [
+      "群管",
+      "清人",
+      "管理"
+    ],
+    "social_link": "https://github.com/VanillaNahida"
+  },
   "astrbot_plugin_judge": {
     "display_name": "智能路由判断",
     "desc": "根据用户消息复杂度,智能选择高智商模型或快速模型进行回答",
@@ -121,6 +198,22 @@
       "日报",
       "数据搜刮"
     ]
+  },
+  "astrbot_plugin_fflogs": {
+    "display_name": "最终幻想14（FF14）LOGS查询",
+    "desc": "FF14 Logs 全版本查询插件",
+    "author": "RyanVaderAN",
+    "repo": "https://github.com/674537331/astrbot_plugin_fflogs"
+  },
+  "astrbot_plugin_CNKD_NEWS": {
+    "display_name": "UapiPro每日新闻",
+    "desc": "来源于稳定接口的每日新闻推送插件 使用权威来源整合 无需额外配置 下载即用 支持白名单控制 支持定时发送 支持时区配置",
+    "author": "CNKD-Yichex",
+    "repo": "https://github.com/YiChex/astrbot_plugin_CNKD_NEWS",
+    "tags": [
+      "新闻"
+    ],
+    "social_link": "https://qm.qq.com/q/hYngbMr1te"
   },
   "astrbot_plugin_code_analyzer": {
     "display_name": "代码分析器",
@@ -188,6 +281,18 @@
       "Github"
     ],
     "social_link": "https://mc.mimeng.top"
+  },
+  "astrbot_plugin_link_resolver": {
+    "display_name": "解析B站/抖音/小红书的卡片消息/链接",
+    "desc": "小红书无水印原图解析; B站视频解析; 抖音视频/图文解析",
+    "author": "Acacia",
+    "repo": "https://github.com/vacacia/astrbot_plugin_link_resolver",
+    "tags": [
+      "解析",
+      "小红书",
+      "B站",
+      "抖音"
+    ]
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
