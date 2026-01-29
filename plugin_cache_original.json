@@ -22,9 +22,9 @@
       "warframe"
     ],
     "social_link": "https://github.com/Youzini-afk",
-    "stars": 0,
+    "stars": 1,
     "version": "1.0.0",
-    "updated_at": "2026-01-24T14:31:19Z"
+    "updated_at": "2026-01-29T06:37:42Z"
   },
   "astrbot_plugin_group_aip_review": {
     "display_name": "群消息内容安全审核插件",
@@ -1717,8 +1717,8 @@
       "大香蕉"
     ],
     "stars": 5,
-    "version": "1.2.12",
-    "updated_at": "2026-01-29T05:41:33Z",
+    "version": "1.2.13",
+    "updated_at": "2026-01-29T06:05:49Z",
     "logo": "https://raw.githubusercontent.com/wangyingxuan383-ai/astrbot_plugin_ronghedraw/main/logo.png"
   },
   "astrbot_plugin_model_router": {
@@ -2027,9 +2027,9 @@
     "tags": [
       "表情"
     ],
-    "stars": 11,
+    "stars": 12,
     "version": "2.1.8",
-    "updated_at": "2026-01-28T12:49:50Z",
+    "updated_at": "2026-01-29T06:31:26Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -2568,8 +2568,8 @@
       "原神"
     ],
     "stars": 2,
-    "version": "v1.3",
-    "updated_at": "2026-01-11T15:47:51Z",
+    "version": "v1.4",
+    "updated_at": "2026-01-29T05:57:05Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_genshinimpact/master/logo.png"
   },
   "astrbot_plugin_parse_hub": {
