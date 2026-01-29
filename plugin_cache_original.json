@@ -2027,9 +2027,9 @@
     "tags": [
       "表情"
     ],
-    "stars": 12,
+    "stars": 13,
     "version": "2.1.8",
-    "updated_at": "2026-01-29T06:59:33Z",
+    "updated_at": "2026-01-29T07:59:35Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -5314,8 +5314,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 12,
-    "version": "v1.0.4",
-    "updated_at": "2026-01-25T06:13:53Z",
+    "version": "v1.2.0",
+    "updated_at": "2026-01-29T08:32:14Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qun_album/main/logo.png"
   },
   "astrbot_plugin_favourpro": {
@@ -7562,9 +7562,9 @@
       "生图",
       "函数工具"
     ],
-    "stars": 10,
+    "stars": 11,
     "version": "v1.5.0",
-    "updated_at": "2025-10-28T10:09:30Z"
+    "updated_at": "2026-01-29T08:40:41Z"
   },
   "astrbot_plugin_dzmm": {
     "author": "VincentHo",
@@ -7592,9 +7592,9 @@
       "工具"
     ],
     "social_link": "https://github.com/Angus-fw",
-    "stars": 20,
+    "stars": 21,
     "version": "v1.1.5",
-    "updated_at": "2025-12-06T11:30:55Z"
+    "updated_at": "2026-01-29T08:40:14Z"
   },
   "astrbot_plugin_timetask": {
     "author": "ZW",
@@ -7774,9 +7774,9 @@
       "画像"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 54,
+    "stars": 55,
     "version": "v1.0.7",
-    "updated_at": "2026-01-27T11:28:03Z",
+    "updated_at": "2026-01-29T08:41:39Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
@@ -8371,9 +8371,9 @@
       "osu!track"
     ],
     "social_link": "https://github.com/gameswu",
-    "stars": 11,
+    "stars": 10,
     "version": "v0.2.2",
-    "updated_at": "2025-12-04T13:05:40Z",
+    "updated_at": "2026-01-29T08:21:55Z",
     "logo": "https://raw.githubusercontent.com/gameswu/astrbot_plugin_osutrack/master/logo.png"
   },
   "astrbot_plugin_group_information": {
@@ -8442,9 +8442,9 @@
       "pixiv"
     ],
     "social_link": "https://github.com/vmoranv-reborn",
-    "stars": 6,
+    "stars": 7,
     "version": "1.5.0",
-    "updated_at": "2026-01-26T12:16:35Z",
+    "updated_at": "2026-01-29T08:42:44Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
@@ -9553,9 +9553,9 @@
       "防撤回"
     ],
     "repo": "https://github.com/NiceAir/astrbot_plugin_anti_withdrawal",
-    "stars": 1,
+    "stars": 2,
     "version": "v2.0.2",
-    "updated_at": "2025-06-25T10:24:34Z"
+    "updated_at": "2026-01-29T08:44:43Z"
   },
   "astrbot_plugin_Getcwm": {
     "desc": "一个刺猬猫小说数据获取与画图插件，/Getcwm help 查看帮助。",
@@ -10592,9 +10592,9 @@
     "author": "长安某",
     "repo": "https://github.com/zgojin/astrbot_plugin_pock",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "v2.1.1",
-    "updated_at": "2026-01-15T09:43:20Z"
+    "updated_at": "2026-01-29T08:47:51Z"
   },
   "astrbot_plugin_astrbot_plugin_repetition": {
     "desc": "用于AstrBot的复读机插件",
