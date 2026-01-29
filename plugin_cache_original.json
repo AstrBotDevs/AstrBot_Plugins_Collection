@@ -1181,7 +1181,7 @@
     ],
     "stars": 0,
     "version": "v1.0",
-    "updated_at": "2026-01-16T08:43:36Z",
+    "updated_at": "2026-01-29T09:05:02Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_multi_execute/master/logo.png"
   },
   "astrbot_plugin_recall_xz": {
@@ -1912,9 +1912,9 @@
       "链接"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 47,
+    "stars": 48,
     "version": "v1.1.7",
-    "updated_at": "2026-01-27T17:14:54Z",
+    "updated_at": "2026-01-29T09:18:50Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -2917,7 +2917,7 @@
     ],
     "stars": 2,
     "version": "v2.0",
-    "updated_at": "2026-01-28T10:20:20Z"
+    "updated_at": "2026-01-29T09:44:19Z"
   },
   "astrbot_plugin_temp-email": {
     "display_name": "临时邮箱",
@@ -3051,9 +3051,9 @@
       "小红书",
       "推特"
     ],
-    "stars": 17,
+    "stars": 18,
     "version": "v4.3.1",
-    "updated_at": "2026-01-20T01:36:28Z",
+    "updated_at": "2026-01-29T08:49:38Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -3676,7 +3676,7 @@
     ],
     "stars": 2,
     "version": "v1.1.0",
-    "updated_at": "2026-01-20T06:53:05Z",
+    "updated_at": "2026-01-29T09:00:06Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_magnet_preview/master/logo.png"
   },
   "astrbot_plugin_gemini-image": {
@@ -5315,7 +5315,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 12,
     "version": "v1.2.0",
-    "updated_at": "2026-01-29T08:32:14Z",
+    "updated_at": "2026-01-29T08:53:16Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qun_album/main/logo.png"
   },
   "astrbot_plugin_favourpro": {
@@ -9217,8 +9217,8 @@
       "游戏"
     ],
     "stars": 4,
-    "version": "v1.3.4",
-    "updated_at": "2026-01-10T05:04:26Z",
+    "version": "v1.3.5",
+    "updated_at": "2026-01-29T09:07:25Z",
     "logo": "https://raw.githubusercontent.com/kterna/astrbot_plugin_litematic/main/logo.png"
   },
   "astrbot_plugin_weather_wttr_in": {
