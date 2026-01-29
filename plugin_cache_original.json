@@ -1655,9 +1655,9 @@
       "学习",
       "人格"
     ],
-    "stars": 17,
+    "stars": 18,
     "version": "0.99.99",
-    "updated_at": "2026-01-21T12:44:37Z"
+    "updated_at": "2026-01-29T17:43:18Z"
   },
   "astrbot_plugin_angel_heart": {
     "display_name": "天使之心",
@@ -1669,9 +1669,9 @@
       "主动应答",
       "群聊优化"
     ],
-    "stars": 26,
+    "stars": 27,
     "version": "0.8.8",
-    "updated_at": "2026-01-21T18:11:01Z"
+    "updated_at": "2026-01-29T17:43:22Z"
   },
   "astrbot_plugin_angel_eye": {
     "display_name": "天使之眼",
@@ -1995,7 +1995,7 @@
     ],
     "stars": 14,
     "version": "v1.6.0",
-    "updated_at": "2026-01-06T02:29:28Z"
+    "updated_at": "2026-01-29T17:57:42Z"
   },
   "astrbot_plugin_echo": {
     "display_name": "echo",
@@ -2167,8 +2167,8 @@
       "表情"
     ],
     "stars": 13,
-    "version": "2.1.8",
-    "updated_at": "2026-01-29T07:59:35Z",
+    "version": "2.1.9",
+    "updated_at": "2026-01-29T17:42:17Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -2442,9 +2442,9 @@
       "记忆"
     ],
     "social_link": "https://github.com/asakiyoshi",
-    "stars": 4,
+    "stars": 3,
     "version": "v4.0.0",
-    "updated_at": "2026-01-27T10:59:57Z"
+    "updated_at": "2026-01-29T17:42:13Z"
   },
   "astrbot_plugin_markdown_killer": {
     "display_name": "Markdown 杀手",
