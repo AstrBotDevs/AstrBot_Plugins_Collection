@@ -495,9 +495,9 @@
     "author": "Zaxpris&feiu",
     "repo": "https://github.com/dafeiwu666/astrbot_plugin_persona_manager",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "0.0.2",
-    "updated_at": "2026-01-27T10:41:12Z"
+    "updated_at": "2026-01-30T06:57:31Z"
   },
   "astrbot_plugin_fund_analyzer": {
     "display_name": "基金分析",
@@ -5101,8 +5101,8 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
     "stars": 38,
-    "version": "v1.8.4",
-    "updated_at": "2026-01-30T06:36:41Z"
+    "version": "v1.8.5",
+    "updated_at": "2026-01-30T07:34:57Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
