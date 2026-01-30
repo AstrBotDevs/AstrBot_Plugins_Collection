@@ -26,7 +26,7 @@
     ],
     "stars": 0,
     "version": "v0.1.0",
-    "updated_at": "2026-01-28T14:40:37Z"
+    "updated_at": "2026-01-30T04:33:08Z"
   },
   "astrbot_plugin_odoo": {
     "display_name": "AstrBot Odoo 连接器",
@@ -79,7 +79,7 @@
     "tags": [],
     "stars": 0,
     "version": "1.3.1",
-    "updated_at": "2026-01-27T07:16:03Z",
+    "updated_at": "2026-01-30T03:55:23Z",
     "logo": "https://raw.githubusercontent.com/findx010197/astrbot_plugin_bestdori_tools/master/logo.png"
   },
   "astrbot_plugin_wfbot": {
@@ -234,8 +234,8 @@
     ],
     "social_link": "https://github.com/siciyuanweilai",
     "stars": 8,
-    "version": "3.4.0",
-    "updated_at": "2026-01-29T16:50:36Z",
+    "version": "3.6.0",
+    "updated_at": "2026-01-30T04:40:40Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -274,9 +274,9 @@
       "日报",
       "数据搜刮"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.5.4",
-    "updated_at": "2026-01-25T08:02:17Z",
+    "updated_at": "2026-01-30T04:24:23Z",
     "logo": "https://raw.githubusercontent.com/zhoufan47/astrbot_plugin_bbt_daily_news/master/logo.png"
   },
   "astrbot_plugin_fflogs": {
@@ -352,8 +352,8 @@
     ],
     "social_link": "https://github.com/SakuraChiyo0v0",
     "stars": 1,
-    "version": "v0.4.0",
-    "updated_at": "2026-01-12T03:24:27Z",
+    "version": "v0.5.1",
+    "updated_at": "2026-01-30T04:22:24Z",
     "logo": "https://raw.githubusercontent.com/SakuraChiyo0v0/astrbot_plugin_balance_get/master/logo.png"
   },
   "astrbot_plugin_ww_gacha_sim": {
@@ -411,9 +411,9 @@
       "B站",
       "抖音"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.2",
-    "updated_at": "2026-01-14T12:40:38Z"
+    "updated_at": "2026-01-30T04:25:09Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -673,8 +673,8 @@
     ],
     "social_link": "https://github.com/qa296/",
     "stars": 3,
-    "version": "1.0.0",
-    "updated_at": "2026-01-24T22:34:42Z",
+    "version": "1.1.0",
+    "updated_at": "2026-01-30T03:33:01Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_music_pro": {
@@ -754,7 +754,7 @@
     "social_link": "https://github.com/kennylimz",
     "stars": 8,
     "version": "v1.2",
-    "updated_at": "2026-01-28T06:12:23Z",
+    "updated_at": "2026-01-30T02:31:19Z",
     "logo": "https://raw.githubusercontent.com/kennylimz/astrbot_plugin_mudae_qq/main/logo.png"
   },
   "BUGJI/astrbot_plugin_balance": {
@@ -2695,7 +2695,7 @@
     "social_link": "https://github.com/piexian",
     "stars": 20,
     "version": "v1.8.5",
-    "updated_at": "2026-01-21T03:38:25Z",
+    "updated_at": "2026-01-30T02:14:03Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -8792,8 +8792,9 @@
     ],
     "desc": "CS 武器箱开箱模拟支持大量目前已有的武器箱，可以展示开启物品的图案和对应的磨损",
     "stars": 3,
-    "version": "v1.2",
-    "updated_at": "2026-01-23T07:30:43Z"
+    "version": "v1.3",
+    "updated_at": "2026-01-30T03:30:39Z",
+    "logo": "https://raw.githubusercontent.com/luooka/astrbot_plugin_openweaponscase/master/logo.png"
   },
   "astrbot_plugin_gallery": {
     "display_name": "图库管理器",
@@ -10776,9 +10777,9 @@
     "author": "buding",
     "repo": "https://github.com/zouyonghe/astrbot_plugin_ebooks",
     "tags": [],
-    "stars": 16,
+    "stars": 17,
     "version": "v2.0.0",
-    "updated_at": "2026-01-17T12:41:44Z"
+    "updated_at": "2026-01-30T04:41:58Z"
   },
   "astrbot_plugin_AIQTalk": {
     "desc": "基于QQ的AI声聊完成的（伪）TTS转语音",
