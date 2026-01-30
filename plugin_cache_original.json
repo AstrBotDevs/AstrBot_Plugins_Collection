@@ -79,7 +79,7 @@
     "tags": [],
     "stars": 0,
     "version": "1.3.1",
-    "updated_at": "2026-01-30T03:55:23Z",
+    "updated_at": "2026-01-30T05:43:30Z",
     "logo": "https://raw.githubusercontent.com/findx010197/astrbot_plugin_bestdori_tools/master/logo.png"
   },
   "astrbot_plugin_wfbot": {
@@ -5101,7 +5101,7 @@
     "tags": [],
     "stars": 38,
     "version": "v1.8.3",
-    "updated_at": "2026-01-28T10:58:06Z"
+    "updated_at": "2026-01-30T05:44:01Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -5453,8 +5453,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 12,
-    "version": "v1.2.0",
-    "updated_at": "2026-01-29T08:53:16Z",
+    "version": "v1.1.1",
+    "updated_at": "2026-01-30T05:56:20Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qun_album/main/logo.png"
   },
   "astrbot_plugin_favourpro": {
@@ -8792,8 +8792,8 @@
     ],
     "desc": "CS 武器箱开箱模拟支持大量目前已有的武器箱，可以展示开启物品的图案和对应的磨损",
     "stars": 3,
-    "version": "v1.3",
-    "updated_at": "2026-01-30T03:30:39Z",
+    "version": "v1.2",
+    "updated_at": "2026-01-30T05:16:14Z",
     "logo": "https://raw.githubusercontent.com/luooka/astrbot_plugin_openweaponscase/master/logo.png"
   },
   "astrbot_plugin_gallery": {
