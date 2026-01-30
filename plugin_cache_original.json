@@ -596,9 +596,9 @@
       "插件编写"
     ],
     "social_link": "https://github.com/DITF16",
-    "stars": 25,
+    "stars": 26,
     "version": "1.1.1",
-    "updated_at": "2026-01-27T10:34:13Z",
+    "updated_at": "2026-01-30T19:58:54Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_groupGuard": {
@@ -1981,7 +1981,7 @@
     ],
     "stars": 14,
     "version": "v1.6.0",
-    "updated_at": "2026-01-29T17:57:42Z"
+    "updated_at": "2026-01-30T19:58:37Z"
   },
   "astrbot_plugin_echo": {
     "display_name": "echo",
