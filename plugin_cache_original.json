@@ -2562,8 +2562,8 @@
       "抖音"
     ],
     "stars": 2,
-    "version": "v1.1.1",
-    "updated_at": "2026-01-27T13:01:19Z",
+    "version": "v1.2.0",
+    "updated_at": "2026-01-30T15:23:39Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_video_analysis/master/logo.png"
   },
   "astrbot_plugin_image_generation": {
@@ -3191,9 +3191,9 @@
       "小红书",
       "推特"
     ],
-    "stars": 18,
+    "stars": 17,
     "version": "v4.3.1",
-    "updated_at": "2026-01-29T08:49:38Z",
+    "updated_at": "2026-01-30T15:01:26Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -10079,9 +10079,9 @@
       "功能",
       "搬史"
     ],
-    "stars": 498,
+    "stars": 499,
     "version": "v0.915",
-    "updated_at": "2026-01-30T13:20:41Z"
+    "updated_at": "2026-01-30T15:51:04Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
