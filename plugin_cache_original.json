@@ -234,8 +234,8 @@
     ],
     "social_link": "https://github.com/siciyuanweilai",
     "stars": 8,
-    "version": "3.6.0",
-    "updated_at": "2026-01-30T04:40:40Z",
+    "version": "4.0.0",
+    "updated_at": "2026-01-30T13:41:23Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -326,9 +326,9 @@
       "群聊圣经"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 145,
+    "stars": 146,
     "version": "v4.6.6",
-    "updated_at": "2026-01-30T10:32:03Z",
+    "updated_at": "2026-01-30T13:20:47Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -2696,7 +2696,7 @@
     "social_link": "https://github.com/piexian",
     "stars": 20,
     "version": "v1.8.5",
-    "updated_at": "2026-01-30T02:14:03Z",
+    "updated_at": "2026-01-30T13:15:30Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -5145,9 +5145,9 @@
     "author": "Dt8333",
     "repo": "https://github.com/Dt8333/astrbot_plugin_model_mcp_bridge",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.2.0",
-    "updated_at": "2025-11-16T08:45:55Z"
+    "updated_at": "2026-01-30T13:41:04Z"
   },
   "Codex": {
     "desc": "AstrBot_Codex 是一个基于 Docker 的 Linux 命令执行插件，专为 AstrBot 开发，能够安全地在隔离的 Docker 容器中执行多种编程语言的代码并返回结果。",
@@ -5252,9 +5252,9 @@
       "memory",
       "rag"
     ],
-    "stars": 55,
+    "stars": 56,
     "version": "2.1.2",
-    "updated_at": "2026-01-30T10:32:04Z",
+    "updated_at": "2026-01-30T13:20:47Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -5361,9 +5361,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 145,
+    "stars": 146,
     "version": "v4.6.6",
-    "updated_at": "2026-01-30T10:32:03Z",
+    "updated_at": "2026-01-30T13:20:47Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -9109,9 +9109,9 @@
     "tags": [
       "QQ群管"
     ],
-    "stars": 89,
+    "stars": 90,
     "version": "v3.2.7",
-    "updated_at": "2026-01-30T10:32:01Z",
+    "updated_at": "2026-01-30T13:20:45Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
