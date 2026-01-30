@@ -3815,8 +3815,8 @@
       "磁链"
     ],
     "stars": 2,
-    "version": "v1.1.0",
-    "updated_at": "2026-01-29T09:00:06Z",
+    "version": "v1.1.1",
+    "updated_at": "2026-01-30T12:20:03Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_magnet_preview/master/logo.png"
   },
   "astrbot_plugin_gemini-image": {
@@ -10079,9 +10079,9 @@
       "功能",
       "搬史"
     ],
-    "stars": 497,
+    "stars": 498,
     "version": "v0.915",
-    "updated_at": "2026-01-23T07:10:41Z"
+    "updated_at": "2026-01-30T13:20:41Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
@@ -10120,9 +10120,9 @@
       "webui",
       "图床"
     ],
-    "stars": 123,
+    "stars": 124,
     "version": "v3.19",
-    "updated_at": "2026-01-21T16:47:18Z"
+    "updated_at": "2026-01-30T13:20:41Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
@@ -10706,9 +10706,9 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 167,
+    "stars": 168,
     "version": "v2.0.15",
-    "updated_at": "2026-01-30T10:32:02Z"
+    "updated_at": "2026-01-30T13:20:46Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
