@@ -1397,21 +1397,6 @@
     "updated_at": "2026-01-22T13:12:18Z",
     "logo": "https://raw.githubusercontent.com/204343414/astrbot_plugin_yt-dlp/master/logo.png"
   },
-  "astrbot_plugin_web_search": {
-    "display_name": "增强搜索",
-    "desc": "提供基于 Gemini 协议的网页搜索与时效性校对功能。",
-    "author": "YEZI",
-    "repo": "https://github.com/zhyx111999/astrbot_plugin_web_search",
-    "tags": [
-      "网页",
-      "搜索",
-      "网页搜索"
-    ],
-    "social_link": "3268514224",
-    "stars": 0,
-    "version": "v1.4.3",
-    "updated_at": "2025-12-20T04:18:06Z"
-  },
   "astrbot_plugin_yotts": {
     "display_name": "Aliyun百炼克隆音色TTS",
     "desc": "基于阿里云百炼平台声音复刻模型，上传30s音频使您的bot在聊天时使用你的音色聊天，提供对接阿里云的音色一站式创建管理脚本。",
@@ -1541,7 +1526,7 @@
     ],
     "stars": 0,
     "version": "v1.0",
-    "updated_at": "2026-01-16T09:21:22Z",
+    "updated_at": "2026-01-30T17:07:42Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_group_signin/master/logo.png"
   },
   "astrbot_plugin_furry_maopao": {
@@ -2763,7 +2748,7 @@
     "social_link": "https://github.com/bvzrays",
     "stars": 44,
     "version": "v2.2.0",
-    "updated_at": "2025-12-27T15:05:55Z",
+    "updated_at": "2026-01-30T16:57:55Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -4214,7 +4199,7 @@
     ],
     "stars": 2,
     "version": "v1.5",
-    "updated_at": "2026-01-16T05:41:26Z",
+    "updated_at": "2026-01-30T17:04:49Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_youshusearch/master/logo.png"
   },
   "astrbot_plugin_persona_plus": {
@@ -10081,7 +10066,7 @@
     ],
     "stars": 499,
     "version": "v0.915",
-    "updated_at": "2026-01-30T15:51:04Z"
+    "updated_at": "2026-01-30T17:35:06Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
