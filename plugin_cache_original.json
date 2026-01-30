@@ -2334,7 +2334,7 @@
     ],
     "stars": 4,
     "version": "v1.3.1",
-    "updated_at": "2026-01-03T21:38:19Z"
+    "updated_at": "2026-01-30T09:42:35Z"
   },
   "astrbot_plugin_bananic_ninjutsu": {
     "display_name": "香蕉忍法帖",
@@ -5102,7 +5102,7 @@
     "tags": [],
     "stars": 38,
     "version": "v1.8.5",
-    "updated_at": "2026-01-30T07:34:57Z"
+    "updated_at": "2026-01-30T09:25:27Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -5875,8 +5875,8 @@
     ],
     "social_link": "https://github.com/qa296/",
     "stars": 26,
-    "version": "v0.2.6",
-    "updated_at": "2026-01-30T07:57:06Z"
+    "version": "v0.2.7",
+    "updated_at": "2026-01-30T08:57:21Z"
   },
   "astrbot_plugin_iearning_style": {
     "desc": "使机器人可以从聊天中学习他人说话方式",
@@ -9298,9 +9298,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
-    "stars": 47,
+    "stars": 48,
     "version": "v2.0.1",
-    "updated_at": "2026-01-24T16:45:03Z",
+    "updated_at": "2026-01-30T09:12:10Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
