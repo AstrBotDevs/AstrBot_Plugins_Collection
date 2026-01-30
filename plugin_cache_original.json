@@ -2220,9 +2220,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "pinned": true,
-    "stars": 28,
+    "stars": 29,
     "version": "v1.3.6",
-    "updated_at": "2026-01-27T15:44:33Z",
+    "updated_at": "2026-01-30T16:31:15Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -3815,8 +3815,8 @@
       "磁链"
     ],
     "stars": 2,
-    "version": "v1.1.1",
-    "updated_at": "2026-01-30T12:20:03Z",
+    "version": "v1.2",
+    "updated_at": "2026-01-30T16:02:43Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_magnet_preview/master/logo.png"
   },
   "astrbot_plugin_gemini-image": {
@@ -7021,9 +7021,9 @@
       "selenium"
     ],
     "social_link": "https://github.com/zhewang448",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.2.3",
-    "updated_at": "2026-01-28T12:41:51Z",
+    "updated_at": "2026-01-30T16:07:46Z",
     "logo": "https://raw.githubusercontent.com/zhewang448/astrbot_plugin_gameinfo/main/logo.png"
   },
   "astrbot_plugin_shutup": {
