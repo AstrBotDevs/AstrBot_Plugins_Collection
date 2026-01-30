@@ -411,9 +411,9 @@
       "B站",
       "抖音"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.2",
-    "updated_at": "2026-01-30T04:25:09Z"
+    "updated_at": "2026-01-30T19:24:51Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -947,9 +947,9 @@
       "人格"
     ],
     "social_link": "https://github.com/NickCharlie",
-    "stars": 83,
+    "stars": 84,
     "version": "Next-1.1.5",
-    "updated_at": "2026-01-28T03:07:56Z",
+    "updated_at": "2026-01-30T19:27:30Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
