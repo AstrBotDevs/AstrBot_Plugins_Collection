@@ -251,7 +251,7 @@
     "social_link": "https://github.com/VanillaNahida",
     "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-01-29T09:39:26Z",
+    "updated_at": "2026-01-30T07:44:14Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_auto_clean_member/master/logo.png"
   },
   "astrbot_plugin_judge": {
@@ -1684,9 +1684,9 @@
       "记录查询",
       "聊天记录"
     ],
-    "stars": 8,
+    "stars": 9,
     "version": "1.0.3",
-    "updated_at": "2025-12-31T13:56:03Z"
+    "updated_at": "2026-01-30T08:04:06Z"
   },
   "lumingya/astrbot_plugin_regex_filter": {
     "display_name": "通用正则后处理",
@@ -1940,9 +1940,9 @@
       "用户识别"
     ],
     "social_link": "https://github.com/Yue-bin",
-    "stars": 6,
+    "stars": 7,
     "version": "v0.0.1",
-    "updated_at": "2026-01-13T03:28:18Z"
+    "updated_at": "2026-01-30T08:04:40Z"
   },
   "astrbot_plugin_plugins_summary": {
     "display_name": "插件目录查询",
@@ -2418,7 +2418,7 @@
     ],
     "stars": 5,
     "version": "2.2.0",
-    "updated_at": "2025-12-30T04:10:03Z"
+    "updated_at": "2026-01-30T08:41:22Z"
   },
   "astrbot_plugin_customized_active_reply_prompt": {
     "display_name": "自定义主动回复提示词",
@@ -5876,7 +5876,7 @@
     "social_link": "https://github.com/qa296/",
     "stars": 26,
     "version": "v0.2.6",
-    "updated_at": "2026-01-29T12:28:09Z"
+    "updated_at": "2026-01-30T07:57:06Z"
   },
   "astrbot_plugin_iearning_style": {
     "desc": "使机器人可以从聊天中学习他人说话方式",
@@ -7213,9 +7213,9 @@
       "Mathjax"
     ],
     "repo": "https://github.com/itismygo/astrbot_plugin_mathjax2image",
-    "stars": 2,
+    "stars": 3,
     "version": "v2.4.2",
-    "updated_at": "2026-01-20T09:19:43Z"
+    "updated_at": "2026-01-30T08:42:13Z"
   },
   "astrbot_plugin_xyzw_box": {
     "author": "cloudcranesss",
