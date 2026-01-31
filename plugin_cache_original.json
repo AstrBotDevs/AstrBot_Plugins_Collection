@@ -2746,9 +2746,9 @@
       "gal"
     ],
     "social_link": "https://github.com/bvzrays",
-    "stars": 44,
+    "stars": 45,
     "version": "v2.2.0",
-    "updated_at": "2026-01-30T16:57:55Z",
+    "updated_at": "2026-01-31T05:40:27Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -3569,7 +3569,7 @@
     "tags": [],
     "stars": 1,
     "version": "v1.0.7",
-    "updated_at": "2025-12-22T09:56:41Z"
+    "updated_at": "2026-01-31T05:02:52Z"
   },
   "astrbot_plugin_group_chat_plus": {
     "display_name": "chat_plus",
