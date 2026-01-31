@@ -702,9 +702,9 @@
       "插件编写"
     ],
     "social_link": "https://github.com/DITF16",
-    "stars": 26,
+    "stars": 27,
     "version": "1.1.1",
-    "updated_at": "2026-01-30T19:58:54Z",
+    "updated_at": "2026-01-31T14:52:20Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_groupGuard": {
@@ -1251,9 +1251,9 @@
       "媒体"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.0.1",
-    "updated_at": "2026-01-25T05:57:20Z",
+    "updated_at": "2026-01-31T15:09:40Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_extract/main/logo.png"
   },
   "astrbot_plugin_seedream_image": {
@@ -2287,9 +2287,9 @@
       "分段"
     ],
     "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
-    "stars": 14,
+    "stars": 15,
     "version": "v1.2.0",
-    "updated_at": "2026-01-19T14:19:32Z",
+    "updated_at": "2026-01-31T15:10:28Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -2422,9 +2422,9 @@
       "生图",
       "gemini"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "1.0.0",
-    "updated_at": "2025-12-09T10:35:29Z"
+    "updated_at": "2026-01-31T15:11:26Z"
   },
   "astrbot_plugin_chatsummary_v2": {
     "display_name": "群聊消息总结v2",
@@ -4429,8 +4429,8 @@
     "repo": "https://github.com/BGYdook/AstrBot-plugin-tmp-bot",
     "tags": [],
     "stars": 3,
-    "version": "1.7.1",
-    "updated_at": "2026-01-17T05:49:00Z"
+    "version": "1.7.2",
+    "updated_at": "2026-01-31T14:30:48Z"
   },
   "astrbot_plugin_33recognition": {
     "desc": "调用大模型检测图片中关键词",
@@ -4792,9 +4792,9 @@
       "game",
       "fishing"
     ],
-    "stars": 29,
+    "stars": 30,
     "version": "2.4.7",
-    "updated_at": "2026-01-20T03:32:28Z",
+    "updated_at": "2026-01-31T15:02:58Z",
     "logo": "https://raw.githubusercontent.com/xxlemon-io/astrbot_plugin_fishing/main/logo.png"
   },
   "astrbot_plugin_astrmetry": {
@@ -4943,9 +4943,9 @@
     "author": "ctrlkk",
     "repo": "https://github.com/ctrlkk/astrbot_plugin_meme_manager_lite",
     "tags": [],
-    "stars": 11,
+    "stars": 12,
     "version": "v1.3",
-    "updated_at": "2026-01-23T09:32:44Z"
+    "updated_at": "2026-01-31T15:19:25Z"
   },
   "astrbot_plugin_festival_greeter": {
     "desc": "在节日期间为群聊推送使用LLM生成的祝福消息",
@@ -5307,9 +5307,9 @@
     "tags": [
       "音乐"
     ],
-    "stars": 8,
+    "stars": 9,
     "version": "2.1.1",
-    "updated_at": "2026-01-13T02:59:01Z"
+    "updated_at": "2026-01-31T15:09:29Z"
   },
   "astrbot_plugin_slg": {
     "desc": "用astrbot玩slg",
@@ -7113,8 +7113,8 @@
     ],
     "social_link": "https://github.com/zhewang448",
     "stars": 5,
-    "version": "v1.2.3",
-    "updated_at": "2026-01-30T16:07:46Z",
+    "version": "v1.2.4",
+    "updated_at": "2026-01-31T14:19:40Z",
     "logo": "https://raw.githubusercontent.com/zhewang448/astrbot_plugin_gameinfo/main/logo.png"
   },
   "astrbot_plugin_shutup": {
@@ -10211,9 +10211,9 @@
       "webui",
       "图床"
     ],
-    "stars": 124,
+    "stars": 125,
     "version": "v3.19",
-    "updated_at": "2026-01-30T13:20:41Z"
+    "updated_at": "2026-01-31T15:34:46Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
@@ -10527,9 +10527,9 @@
     "author": "w33d",
     "repo": "https://github.com/Last-emo-boy/astrbot_plugin_buckshot_roulette",
     "tags": [],
-    "stars": 7,
+    "stars": 8,
     "version": "v1.1.1",
-    "updated_at": "2025-09-22T07:39:36Z"
+    "updated_at": "2026-01-31T15:03:33Z"
   },
   "astrbot_plugin_github_tracker": {
     "desc": "一个定期查询跟踪repo的小工具",
