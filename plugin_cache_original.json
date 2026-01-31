@@ -199,8 +199,8 @@
     ],
     "social_link": "https://github.com/Youzini-afk",
     "stars": 3,
-    "version": "1.6.6",
-    "updated_at": "2026-01-31T17:25:29Z"
+    "version": "1.8.3",
+    "updated_at": "2026-01-31T20:08:55Z"
   },
   "astrbot_plugin_group_aip_review": {
     "display_name": "群消息内容安全审核插件",
@@ -2098,8 +2098,8 @@
       "memory"
     ],
     "stars": 14,
-    "version": "v1.6.0",
-    "updated_at": "2026-01-31T18:06:01Z"
+    "version": "v3.0.0",
+    "updated_at": "2026-01-31T19:55:00Z"
   },
   "astrbot_plugin_echo": {
     "display_name": "echo",
