@@ -157,8 +157,8 @@
       "multiagent"
     ],
     "stars": 2,
-    "version": "v0.3.7",
-    "updated_at": "2026-01-31T03:00:29Z"
+    "version": "v0.3.8",
+    "updated_at": "2026-01-31T10:43:54Z"
   },
   "astrbot_plugin_trpgdice_rerolled": {
     "display_name": "星星骰娘-重骰版！",
@@ -325,7 +325,7 @@
     "tags": [],
     "stars": 3,
     "version": "0.3.2",
-    "updated_at": "2026-01-30T06:48:44Z"
+    "updated_at": "2026-01-31T10:30:20Z"
   },
   "astrbot_plugin_daily_sharing": {
     "display_name": "定时主动分享所见所闻",
@@ -834,7 +834,7 @@
     "social_link": "https://github.com/muyouzhi6",
     "stars": 9,
     "version": "3.0.2",
-    "updated_at": "2026-01-27T17:09:50Z",
+    "updated_at": "2026-01-31T10:30:21Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_context_aware/main/logo.png"
   },
   "astrbot_plugin_STEmbedding": {
@@ -3827,8 +3827,8 @@
       "战绩"
     ],
     "stars": 2,
-    "version": "v1.1",
-    "updated_at": "2025-12-18T18:03:38Z"
+    "version": "v1.0",
+    "updated_at": "2026-01-31T10:45:42Z"
   },
   "astrbot_plugin_email_tool": {
     "display_name": "SMTP 邮件小工具",
