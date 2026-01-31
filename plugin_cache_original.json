@@ -50,9 +50,9 @@
       "日报",
       "multiagent"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v0.3.7",
-    "updated_at": "2026-01-26T14:41:17Z"
+    "updated_at": "2026-01-31T03:00:29Z"
   },
   "astrbot_plugin_trpgdice_rerolled": {
     "display_name": "星星骰娘-重骰版！",
@@ -5086,8 +5086,8 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
     "stars": 38,
-    "version": "v1.8.5",
-    "updated_at": "2026-01-30T10:31:44Z"
+    "version": "v1.8.6",
+    "updated_at": "2026-01-31T04:22:10Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
