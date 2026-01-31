@@ -199,8 +199,8 @@
     ],
     "social_link": "https://github.com/Youzini-afk",
     "stars": 3,
-    "version": "1.6.0",
-    "updated_at": "2026-01-31T14:12:02Z"
+    "version": "1.6.6",
+    "updated_at": "2026-01-31T17:09:35Z"
   },
   "astrbot_plugin_group_aip_review": {
     "display_name": "群消息内容安全审核插件",
@@ -367,9 +367,9 @@
     "repo": "https://github.com/HEI1491/astrbot_plugin_judge",
     "social_link": "https://github.com/HEI1491",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "1.4.6",
-    "updated_at": "2026-01-23T05:54:26Z"
+    "updated_at": "2026-01-31T16:39:00Z"
   },
   "astrbot_plugin_bbt_daily_news": {
     "display_name": "棒棒糖的每日晨报",
@@ -874,7 +874,7 @@
     ],
     "stars": 1,
     "version": "v0.3.0",
-    "updated_at": "2026-01-10T09:56:07Z"
+    "updated_at": "2026-01-31T16:46:27Z"
   },
   "astrbot_plugin_PersonaFlow": {
     "display_name": "astrbot_plugin_PersonaFlow",
@@ -2099,7 +2099,7 @@
     ],
     "stars": 14,
     "version": "v1.6.0",
-    "updated_at": "2026-01-31T12:53:34Z"
+    "updated_at": "2026-01-31T16:56:04Z"
   },
   "astrbot_plugin_echo": {
     "display_name": "echo",
