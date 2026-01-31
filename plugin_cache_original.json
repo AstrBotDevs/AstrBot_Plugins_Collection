@@ -327,8 +327,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 146,
-    "version": "v4.6.6",
-    "updated_at": "2026-01-30T13:20:47Z",
+    "version": "v4.6.7",
+    "updated_at": "2026-01-31T08:15:13Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -1981,7 +1981,7 @@
     ],
     "stars": 14,
     "version": "v1.6.0",
-    "updated_at": "2026-01-30T19:58:37Z"
+    "updated_at": "2026-01-31T08:23:15Z"
   },
   "astrbot_plugin_echo": {
     "display_name": "echo",
@@ -2506,8 +2506,8 @@
       "图床"
     ],
     "stars": 0,
-    "version": "v1.2",
-    "updated_at": "2026-01-28T11:30:34Z",
+    "version": "v1.3",
+    "updated_at": "2026-01-31T07:41:17Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_CloudImg/master/logo.png"
   },
   "astrbot_plugin_aicu_analysis": {
@@ -5347,8 +5347,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 146,
-    "version": "v4.6.6",
-    "updated_at": "2026-01-30T13:20:47Z",
+    "version": "v4.6.7",
+    "updated_at": "2026-01-31T08:15:13Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
