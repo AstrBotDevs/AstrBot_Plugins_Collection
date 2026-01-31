@@ -102,8 +102,8 @@
       "QQ"
     ],
     "stars": 0,
-    "version": "v0.1.3",
-    "updated_at": "2026-01-31T10:04:43Z"
+    "version": "v0.1.4",
+    "updated_at": "2026-01-31T18:28:55Z"
   },
   "astrbot_plugin_skland": {
     "display_name": "森空岛签到",
@@ -200,7 +200,7 @@
     "social_link": "https://github.com/Youzini-afk",
     "stars": 3,
     "version": "1.6.6",
-    "updated_at": "2026-01-31T17:09:35Z"
+    "updated_at": "2026-01-31T17:25:29Z"
   },
   "astrbot_plugin_group_aip_review": {
     "display_name": "群消息内容安全审核插件",
@@ -2099,7 +2099,7 @@
     ],
     "stars": 14,
     "version": "v1.6.0",
-    "updated_at": "2026-01-31T16:56:04Z"
+    "updated_at": "2026-01-31T18:06:01Z"
   },
   "astrbot_plugin_echo": {
     "display_name": "echo",
