@@ -9763,9 +9763,9 @@
       "bilibili"
     ],
     "social_link": "https://github.com/miaoxutao123/",
-    "stars": 65,
+    "stars": 66,
     "version": "v0.2.14",
-    "updated_at": "2026-01-15T13:07:44Z"
+    "updated_at": "2026-01-31T06:34:03Z"
   },
   "astrbot_plugin_sjzb": {
     "desc": "随机生成《绝地潜兵2》游戏中一组 4 个战备配置",
@@ -10064,9 +10064,9 @@
       "功能",
       "搬史"
     ],
-    "stars": 499,
+    "stars": 500,
     "version": "v0.915",
-    "updated_at": "2026-01-30T17:35:06Z"
+    "updated_at": "2026-01-31T06:33:50Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
@@ -10691,9 +10691,9 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 168,
+    "stars": 169,
     "version": "v2.0.15",
-    "updated_at": "2026-01-30T13:20:46Z"
+    "updated_at": "2026-01-31T06:33:23Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
