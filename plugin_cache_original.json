@@ -690,8 +690,8 @@
     ],
     "social_link": "https://github.com/Dayanshifu",
     "stars": 2,
-    "version": "1.0.5",
-    "updated_at": "2026-01-27T15:45:18Z",
+    "version": "1.0.6",
+    "updated_at": "2026-01-31T08:56:45Z",
     "logo": "https://raw.githubusercontent.com/Dayanshifu/astrbot_plugin_music_pro/main/logo.png"
   },
   "astrbot_plugin_online_status": {
@@ -933,8 +933,8 @@
     "pinned": true,
     "tags": [],
     "stars": 15,
-    "version": "v3.9.13",
-    "updated_at": "2026-01-28T12:46:46Z",
+    "version": "v3.9.15",
+    "updated_at": "2026-01-31T08:57:33Z",
     "logo": "https://raw.githubusercontent.com/xiaoxi68/astrbot_zssm_explain/main/logo.png"
   },
   "astrbot_plugin_self_learning": {
@@ -2206,8 +2206,8 @@
     "social_link": "https://github.com/DBJD-CR",
     "pinned": true,
     "stars": 29,
-    "version": "v1.3.6",
-    "updated_at": "2026-01-30T16:31:15Z",
+    "version": "v1.3.7",
+    "updated_at": "2026-01-31T08:50:10Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -2680,8 +2680,8 @@
     ],
     "social_link": "https://github.com/piexian",
     "stars": 20,
-    "version": "v1.8.5",
-    "updated_at": "2026-01-30T13:15:30Z",
+    "version": "v1.9.0",
+    "updated_at": "2026-01-31T09:13:53Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -5897,9 +5897,9 @@
       "输出增强"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 24,
+    "stars": 25,
     "version": "v2.1.4",
-    "updated_at": "2026-01-28T09:20:23Z",
+    "updated_at": "2026-01-31T08:52:36Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -8392,9 +8392,9 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 133,
+    "stars": 134,
     "version": "v2.0.6",
-    "updated_at": "2026-01-26T15:16:36Z",
+    "updated_at": "2026-01-31T08:51:00Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -9185,7 +9185,7 @@
     ],
     "stars": 7,
     "version": "v1.1",
-    "updated_at": "2026-01-31T07:31:25Z"
+    "updated_at": "2026-01-31T09:01:14Z"
   },
   "astrbot_plugin_Merge_WeMSG": {
     "desc": "[仅gewechat]支持微信个人号(gewechat)的合并消息处理和转发",
