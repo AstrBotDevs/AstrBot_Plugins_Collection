@@ -2531,9 +2531,9 @@
     "tags": [
       "1.0.0"
     ],
-    "stars": 1,
+    "stars": 0,
     "version": "v1.0.0",
-    "updated_at": "2025-12-10T04:15:33Z"
+    "updated_at": "2026-01-31T19:18:03Z"
   },
   "astrbot_plugin_emotionaipro": {
     "display_name": "情感智能插件",
@@ -8974,9 +8974,9 @@
       "绝区零"
     ],
     "social_link": "https://docs.sayu-bot.com/",
-    "stars": 26,
+    "stars": 27,
     "version": "v0.4.3",
-    "updated_at": "2026-01-06T12:18:00Z"
+    "updated_at": "2026-01-31T19:30:10Z"
   },
   "astrbot_plugin_xyzw": {
     "author": "四郎",
