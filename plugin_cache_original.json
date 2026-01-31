@@ -234,8 +234,8 @@
     ],
     "social_link": "https://github.com/siciyuanweilai",
     "stars": 8,
-    "version": "4.0.0",
-    "updated_at": "2026-01-30T13:41:23Z",
+    "version": "4.0.1",
+    "updated_at": "2026-01-31T07:01:24Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -3800,8 +3800,8 @@
       "磁链"
     ],
     "stars": 3,
-    "version": "v1.2",
-    "updated_at": "2026-01-31T00:54:19Z",
+    "version": "v1.2.1",
+    "updated_at": "2026-01-31T07:17:09Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_magnet_preview/master/logo.png"
   },
   "astrbot_plugin_gemini-image": {
@@ -9185,7 +9185,7 @@
     ],
     "stars": 7,
     "version": "v1.1",
-    "updated_at": "2025-09-25T15:27:35Z"
+    "updated_at": "2026-01-31T07:31:25Z"
   },
   "astrbot_plugin_Merge_WeMSG": {
     "desc": "[仅gewechat]支持微信个人号(gewechat)的合并消息处理和转发",
