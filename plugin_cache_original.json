@@ -157,8 +157,8 @@
       "multiagent"
     ],
     "stars": 2,
-    "version": "v0.3.8",
-    "updated_at": "2026-01-31T12:54:14Z"
+    "version": "v0.3.9",
+    "updated_at": "2026-01-31T14:16:17Z"
   },
   "astrbot_plugin_trpgdice_rerolled": {
     "display_name": "星星骰娘-重骰版！",
@@ -199,8 +199,8 @@
     ],
     "social_link": "https://github.com/Youzini-afk",
     "stars": 3,
-    "version": "1.1.0",
-    "updated_at": "2026-01-31T09:58:53Z"
+    "version": "1.6.0",
+    "updated_at": "2026-01-31T14:12:02Z"
   },
   "astrbot_plugin_group_aip_review": {
     "display_name": "群消息内容安全审核插件",
@@ -796,8 +796,8 @@
     ],
     "social_link": "https://github.com/Dayanshifu",
     "stars": 2,
-    "version": "1.0.5",
-    "updated_at": "2026-01-31T13:00:31Z",
+    "version": "1.0.3",
+    "updated_at": "2026-01-31T14:07:37Z",
     "logo": "https://raw.githubusercontent.com/Dayanshifu/astrbot_plugin_music_pro/main/logo.png"
   },
   "astrbot_plugin_online_status": {
@@ -1054,8 +1054,8 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "stars": 85,
-    "version": "Next-1.1.5",
-    "updated_at": "2026-01-31T11:33:19Z",
+    "version": "Next-1.1.7",
+    "updated_at": "2026-01-31T14:18:18Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
