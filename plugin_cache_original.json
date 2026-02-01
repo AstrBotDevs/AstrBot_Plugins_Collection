@@ -64,8 +64,8 @@
       "图片"
     ],
     "stars": 0,
-    "version": "v1.0.6",
-    "updated_at": "2026-02-01T06:48:09Z"
+    "version": "v1.0.9",
+    "updated_at": "2026-02-01T07:15:00Z"
   },
   "astrbot_plugin_at_ignore": {
     "display_name": "忽略@消息",
