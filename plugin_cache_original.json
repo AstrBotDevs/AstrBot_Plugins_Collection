@@ -200,7 +200,7 @@
     "social_link": "https://github.com/Youzini-afk",
     "stars": 3,
     "version": "1.8.3",
-    "updated_at": "2026-01-31T20:08:55Z"
+    "updated_at": "2026-02-01T13:08:16Z"
   },
   "astrbot_plugin_group_aip_review": {
     "display_name": "群消息内容安全审核插件",
@@ -432,9 +432,9 @@
       "群聊圣经"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 146,
+    "stars": 147,
     "version": "v4.6.7",
-    "updated_at": "2026-01-31T08:15:13Z",
+    "updated_at": "2026-02-01T13:21:58Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -2324,8 +2324,8 @@
     "social_link": "https://github.com/DBJD-CR",
     "pinned": true,
     "stars": 29,
-    "version": "v1.3.7",
-    "updated_at": "2026-01-31T08:50:10Z",
+    "version": "v1.3.8",
+    "updated_at": "2026-02-01T13:14:27Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -5437,9 +5437,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 146,
+    "stars": 147,
     "version": "v4.6.7",
-    "updated_at": "2026-01-31T08:15:13Z",
+    "updated_at": "2026-02-01T13:21:58Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -7571,9 +7571,9 @@
       "Steam"
     ],
     "social_link": "https://github.com/Maoer233",
-    "stars": 51,
+    "stars": 52,
     "version": "2.2.0",
-    "updated_at": "2026-02-01T05:04:49Z",
+    "updated_at": "2026-02-01T13:38:00Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -7917,8 +7917,8 @@
     ],
     "social_link": "https://space.bilibili.com/447591776",
     "stars": 2,
-    "version": "v1.2.0",
-    "updated_at": "2025-11-11T08:09:57Z"
+    "version": "v1.2.1",
+    "updated_at": "2026-02-01T13:47:44Z"
   },
   "astrbot_plugin_embedding_adapter": {
     "author": "AnYan",
