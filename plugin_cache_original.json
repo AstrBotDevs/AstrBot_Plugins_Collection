@@ -116,9 +116,9 @@
       "自动签到"
     ],
     "social_link": "https://github.com/Azincc/",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.1.0",
-    "updated_at": "2026-02-01T07:54:22Z"
+    "updated_at": "2026-02-01T15:19:15Z"
   },
   "astrbot_plugin_tomin": {
     "display_name": "Tomin - 少女乐队游戏",
@@ -6085,9 +6085,9 @@
       "表白墙"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 53,
+    "stars": 54,
     "version": "v2.3.0",
-    "updated_at": "2026-02-01T02:10:52Z",
+    "updated_at": "2026-02-01T14:35:45Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
