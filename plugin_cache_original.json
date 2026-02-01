@@ -8,9 +8,9 @@
       "FGO",
       "搜索"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0",
-    "updated_at": "2026-01-31T03:12:11Z"
+    "updated_at": "2026-02-01T16:21:46Z"
   },
   "astrbot_plugin_vibe": {
     "display_name": "vibe",
@@ -2270,9 +2270,9 @@
     "tags": [
       "表情"
     ],
-    "stars": 13,
+    "stars": 14,
     "version": "2.1.9",
-    "updated_at": "2026-01-29T17:42:17Z",
+    "updated_at": "2026-02-01T16:03:18Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
