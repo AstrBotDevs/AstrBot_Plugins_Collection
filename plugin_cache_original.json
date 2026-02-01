@@ -34,9 +34,9 @@
       "steam",
       "视奸"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.1.0",
-    "updated_at": "2026-01-30T18:34:52Z"
+    "updated_at": "2026-01-31T23:58:24Z"
   },
   "astrbot_plugin_minecraft_monitor": {
     "display_name": "MC 服务器监控（适配基岩版与 Java 版）",
@@ -2258,8 +2258,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 10,
-    "version": "v2.2.5",
-    "updated_at": "2026-01-27T05:50:30Z",
+    "version": "v2.2.6",
+    "updated_at": "2026-02-01T01:56:32Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_life_scheduler/main/logo.png"
   },
   "astrbot_plugin_stealer": {
@@ -5387,9 +5387,9 @@
       "OneBot"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 8,
+    "stars": 9,
     "version": "v2.0.0",
-    "updated_at": "2026-01-18T06:16:15Z",
+    "updated_at": "2026-02-01T01:51:59Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_recall_cancel/main/logo.png"
   },
   "astrbot_plugin_multimsg": {
@@ -6100,9 +6100,9 @@
       "表白墙"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 52,
+    "stars": 53,
     "version": "v2.3.0",
-    "updated_at": "2026-01-28T05:31:33Z",
+    "updated_at": "2026-02-01T02:10:52Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
