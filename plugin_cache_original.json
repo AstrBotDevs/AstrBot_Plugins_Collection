@@ -5201,8 +5201,8 @@
       "撤回"
     ],
     "stars": 5,
-    "version": "v1.1.4",
-    "updated_at": "2026-02-01T09:10:45Z",
+    "version": "v1.1.5",
+    "updated_at": "2026-02-01T12:39:41Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_anti_revoke/master/logo.png"
   },
   "input_state_by_napcat": {
@@ -6465,8 +6465,8 @@
       "主动回复"
     ],
     "stars": 6,
-    "version": "v1.3.4",
-    "updated_at": "2026-01-23T07:10:55Z",
+    "version": "v1.4.0",
+    "updated_at": "2026-02-01T12:51:19Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
