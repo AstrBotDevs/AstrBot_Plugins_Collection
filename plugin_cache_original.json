@@ -64,8 +64,8 @@
       "图片"
     ],
     "stars": 0,
-    "version": "v1.0.2",
-    "updated_at": "2026-01-29T15:49:19Z"
+    "version": "v1.0.6",
+    "updated_at": "2026-02-01T06:48:09Z"
   },
   "astrbot_plugin_at_ignore": {
     "display_name": "忽略@消息",
@@ -518,8 +518,8 @@
       "抖音"
     ],
     "stars": 3,
-    "version": "v1.0.2",
-    "updated_at": "2026-01-30T19:24:51Z"
+    "version": "v1.0.3",
+    "updated_at": "2026-02-01T06:24:36Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -2155,9 +2155,9 @@
       "链接"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 48,
+    "stars": 49,
     "version": "v1.1.7",
-    "updated_at": "2026-01-29T09:18:50Z",
+    "updated_at": "2026-02-01T05:07:16Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -8960,8 +8960,8 @@
     ],
     "social_link": "https://docs.sayu-bot.com/",
     "stars": 27,
-    "version": "v0.4.3",
-    "updated_at": "2026-01-31T19:30:10Z"
+    "version": "v0.4.5",
+    "updated_at": "2026-02-01T05:32:32Z"
   },
   "astrbot_plugin_xyzw": {
     "author": "四郎",
