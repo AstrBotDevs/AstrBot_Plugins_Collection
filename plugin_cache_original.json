@@ -64,8 +64,8 @@
       "图片"
     ],
     "stars": 0,
-    "version": "v1.0.9",
-    "updated_at": "2026-02-01T07:15:00Z"
+    "version": "v1.1.4",
+    "updated_at": "2026-02-01T08:09:46Z"
   },
   "astrbot_plugin_at_ignore": {
     "display_name": "忽略@消息",
@@ -101,9 +101,9 @@
       "aiocqhttp",
       "QQ"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v0.1.4",
-    "updated_at": "2026-01-31T18:28:55Z"
+    "updated_at": "2026-02-01T07:40:04Z"
   },
   "astrbot_plugin_skland": {
     "display_name": "森空岛签到",
@@ -116,9 +116,9 @@
       "自动签到"
     ],
     "social_link": "https://github.com/Azincc/",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.1.0",
-    "updated_at": "2026-01-28T11:33:59Z"
+    "updated_at": "2026-02-01T07:54:22Z"
   },
   "astrbot_plugin_tomin": {
     "display_name": "Tomin - 少女乐队游戏",
@@ -565,9 +565,9 @@
       "游戏资源"
     ],
     "social_link": "https://qwq.pyuramazo.online",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.3.1",
-    "updated_at": "2026-01-30T05:51:50Z",
+    "updated_at": "2026-02-01T07:43:24Z",
     "logo": "https://raw.githubusercontent.com/PyuraMazo/astrbot_plugin_galgame_box/master/logo.png"
   },
   "astrbot_plugin_anitabi": {
@@ -3115,9 +3115,9 @@
       "控制台"
     ],
     "social_link": "https://github.com/HSOS6",
-    "stars": 1,
+    "stars": 2,
     "version": "2.0.25.12.WNMCNXM",
-    "updated_at": "2026-01-10T07:22:47Z",
+    "updated_at": "2026-02-01T07:55:34Z",
     "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_mcsmanager/main/logo.png"
   },
   "astrbot_plugin_minecraft_adapter": {
@@ -3479,9 +3479,9 @@
       "工具"
     ],
     "social_link": "https://github.com/Rentz412",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0",
-    "updated_at": "2025-11-27T04:06:52Z",
+    "updated_at": "2026-02-01T07:53:59Z",
     "logo": "https://raw.githubusercontent.com/Rentz412/astrbot_plugin_VisiStat/master/logo.png"
   },
   "astrbot_plugin_vangonography": {
@@ -3811,9 +3811,9 @@
       "5e",
       "战绩"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0",
-    "updated_at": "2026-01-31T10:45:42Z"
+    "updated_at": "2026-02-01T07:54:07Z"
   },
   "astrbot_plugin_email_tool": {
     "display_name": "SMTP 邮件小工具",
