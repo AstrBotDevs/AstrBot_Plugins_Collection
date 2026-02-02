@@ -1,4 +1,80 @@
 {
+  "astrbot_plugin_claudecode": {
+    "display_name": "Claude Code CLI",
+    "desc": "将 Claude Code CLI 作为 LLM 函数工具集成到 AstrBot",
+    "author": "YukiRa1n",
+    "repo": "https://github.com/YukiRa1n/astrbot_plugin_claudecode",
+    "tags": [
+      "AI",
+      "Claude",
+      "Claude Code"
+    ],
+    "social_link": "https://github.com/YukiRa1n",
+    "stars": 2,
+    "version": "v2.0.0",
+    "updated_at": "2026-02-02T04:39:20Z"
+  },
+  "astrbot_plugin_emby": {
+    "display_name": "Emby 助手",
+    "desc": "关联自部署 Emby 媒体库。支持 LLM 自动检索影片、获取元数据及最近更新。",
+    "author": "cyilin36",
+    "repo": "https://github.com/cyilin36/astrbot_plugin_emby",
+    "tags": [
+      "emby",
+      "媒体库",
+      "搜索"
+    ],
+    "social_link": "https://cyilin36.github.io",
+    "stars": 1,
+    "version": "v1.0",
+    "updated_at": "2026-02-01T18:21:15Z"
+  },
+  "astrbot_plugin_daily_stock_analysis_adapter": {
+    "display_name": "DailyStockAnalysis 适配器插件",
+    "desc": "接收股票分析 HTML 报告并通过 Astrbot 发送给指定群组或用户",
+    "author": "棒棒糖",
+    "repo": "https://github.com/zhoufan47/astrbot_plugin_daily_stock_analysis_adapter",
+    "tags": [
+      "股票"
+    ],
+    "stars": 1,
+    "version": "v1.0.1",
+    "updated_at": "2026-02-02T00:56:34Z"
+  },
+  "astrbot_plugin_telegram_forwarder": {
+    "display_name": "Telegram Forwarder",
+    "desc": "将一个公开 Telegram 频道的消息自动转发到你自己的 Telegram 频道或 QQ 群。",
+    "author": "HSJ-BanFan",
+    "repo": "https://github.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder",
+    "tags": [
+      "频道搬运",
+      "telegram",
+      "QQ群转发"
+    ],
+    "social_link": "https://meilunova.pages.dev/",
+    "stars": 0,
+    "version": "0.2.0",
+    "updated_at": "2026-02-02T03:24:34Z",
+    "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
+  },
+  "astrbot_plugin_NekoMusic": {
+    "display_name": "Neko 云音乐点歌",
+    "desc": "一个接入了 Neko 云音乐的点歌插件",
+    "author": "Nyanyagulugulu(不穿胖次の小奶猫)",
+    "repo": "https://github.com/NyaNyagulugulu/astrbot_NekoMusic",
+    "tags": [
+      "音乐",
+      "Neko",
+      "云音乐",
+      "免费",
+      "娱乐"
+    ],
+    "social_link": "https://www.cnmsb.xin",
+    "stars": 0,
+    "version": "v1.7.0",
+    "updated_at": "2026-01-31T12:31:06Z",
+    "logo": "https://raw.githubusercontent.com/NyaNyagulugulu/astrbot_NekoMusic/main/logo.png"
+  },
   "astrbot_plugin_mooncell_finder": {
     "display_name": "MOONCELL搜索插件",
     "desc": "MOONCELL搜索插件,用于查询FGO相关的从者、礼装、纹章和特性信息。",
@@ -11,6 +87,19 @@
     "stars": 1,
     "version": "v1.0",
     "updated_at": "2026-02-01T16:21:46Z"
+  },
+  "astrbot_plugin_smart_segment_reply": {
+    "display_name": "智能分段回复插件",
+    "desc": "通过调用硅基流动免费的大模型实现智能的分段回复，也支持自定义分段回复大模型",
+    "author": "Wyccotccy",
+    "repo": "https://github.com/Wyccotccy/astrbot_plugin_smart_segment_reply",
+    "tags": [
+      "分段回复"
+    ],
+    "social_link": "https://cinder.wyccotccy.cn/",
+    "stars": 0,
+    "version": "2.1.1",
+    "updated_at": "2026-01-22T01:53:53Z"
   },
   "astrbot_plugin_vibe": {
     "display_name": "vibe",
@@ -88,6 +177,31 @@
     "stars": 0,
     "version": "v6.6.6",
     "updated_at": "2026-01-15T19:04:50Z"
+  },
+  "astrbot_plugin_friends_welcome": {
+    "display_name": "friends_welcome",
+    "desc": "(OneBot v11) 好友审批系统",
+    "author": "mjy1113451# 作者",
+    "repo": "https://github.com/mjy1113451/astrbot_plugin_friends_welcome",
+    "tags": [],
+    "stars": 2,
+    "version": "v1.0.0",
+    "updated_at": "2026-01-30T08:59:45Z"
+  },
+  "astrbot_plugin_HowMuchIsYourFace": {
+    "display_name": "头像值多少",
+    "desc": "头像值多少钱？让 AstrBot 来给你估个价！ 本插件基于玄学算法（和一点点AI魔法），为群友的头像进行“专业”估值——可能是百万像素富翁，也可能是表情包难民。纯属娱乐，切勿当真！快@机器人看看你的头像值几个亿吧～ 💰📸",
+    "author": "qiyuqingyun",
+    "repo": "https://github.com/qiyuqingyun/HowMuchIsYourFace",
+    "tags": [
+      "头像",
+      "估价"
+    ],
+    "social_link": "https://github.com/qiyuqingyun",
+    "stars": 0,
+    "version": "v1.1",
+    "updated_at": "2026-01-04T18:02:19Z",
+    "logo": "https://raw.githubusercontent.com/qiyuqingyun/HowMuchIsYourFace/main/logo.png"
   },
   "astrbot_plugin_qq_tools": {
     "display_name": "QQ 工具集",
@@ -173,8 +287,8 @@
       "骰娘"
     ],
     "stars": 0,
-    "version": "v1.0.3",
-    "updated_at": "2026-01-27T17:23:11Z"
+    "version": "v1.1.0",
+    "updated_at": "2026-02-02T02:33:34Z"
   },
   "astrbot_plugin_bestdori_tools": {
     "display_name": "BanG！Dream！Bestdori工具箱",
@@ -533,9 +647,9 @@
       "恋爱养成"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 20,
+    "stars": 21,
     "version": "v1.0.16",
-    "updated_at": "2026-02-01T20:00:45Z",
+    "updated_at": "2026-02-02T04:50:25Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_love_formula/master/logo.png"
   },
   "astrbot_plugin_pjsk": {
@@ -1358,9 +1472,9 @@
     "tags": [
       "文件"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "1.0.0",
-    "updated_at": "2025-12-08T03:09:31Z"
+    "updated_at": "2026-02-02T03:11:39Z"
   },
   "astrbot_plugin_click2download": {
     "display_name": "链接下载",
@@ -1824,9 +1938,9 @@
     "tags": [
       "文件解析"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v3.1.0",
-    "updated_at": "2026-01-12T14:10:39Z"
+    "updated_at": "2026-02-02T03:10:59Z"
   },
   "astrbot_plugin_reminder": {
     "display_name": "定时提醒插件",
@@ -2155,9 +2269,9 @@
       "链接"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 49,
+    "stars": 50,
     "version": "v1.1.7",
-    "updated_at": "2026-02-01T05:07:16Z",
+    "updated_at": "2026-02-02T02:30:07Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -2961,9 +3075,9 @@
     "tags": [
       "ftp"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "1.2.0",
-    "updated_at": "2026-01-29T16:26:54Z"
+    "updated_at": "2026-02-02T03:10:31Z"
   },
   "astrbot_plugin_hotsearch": {
     "display_name": "实时热搜插件",
@@ -4618,9 +4732,9 @@
     "tags": [
       "群文件"
     ],
-    "stars": 4,
+    "stars": 5,
     "version": "v1.1",
-    "updated_at": "2026-01-28T13:01:40Z",
+    "updated_at": "2026-02-02T03:09:57Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_GroupFS/master/logo.png"
   },
   "group_notice_manager": {
@@ -5425,22 +5539,6 @@
     "stars": 3,
     "version": "v2.1.0",
     "updated_at": "2025-11-27T22:32:10Z"
-  },
-  "astrbot-qq-group-daily-analysis": {
-    "desc": "QQ群日常分析插件 - 生成精美的群聊分析报告，支持话题分析、用户称号、群聊金句等功能",
-    "author": "SXP-Simon",
-    "repo": "https://github.com/SXP-Simon/astrbot-qq-group-daily-analysis",
-    "tags": [
-      "QQ",
-      "群聊",
-      "分析",
-      "总结"
-    ],
-    "social_link": "https://github.com/SXP-Simon",
-    "stars": 148,
-    "version": "v4.6.7",
-    "updated_at": "2026-02-02T01:49:27Z",
-    "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
     "desc": "AstrBot头目通知插件，可更新头目信息并通知订阅者",
@@ -6697,9 +6795,9 @@
       "模仿"
     ],
     "social_link": "https://github.com/oyxning",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.1.0",
-    "updated_at": "2026-01-09T09:16:02Z"
+    "updated_at": "2026-02-02T03:04:50Z"
   },
   "EmailNotixion": {
     "name": "EmailNotixion",
@@ -6773,9 +6871,9 @@
       "文件处理"
     ],
     "author": null,
-    "stars": 22,
+    "stars": 23,
     "version": "2.6.0",
-    "updated_at": "2026-01-30T01:34:06Z"
+    "updated_at": "2026-02-02T03:14:06Z"
   },
   "astrbot_plugin_group_sign": {
     "name": "group_sign",
@@ -8660,7 +8758,7 @@
     "social_link": "https://github.com/vmoranv-reborn",
     "stars": 7,
     "version": "1.5.0",
-    "updated_at": "2026-01-29T08:42:44Z",
+    "updated_at": "2026-02-02T03:44:30Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
@@ -9185,9 +9283,9 @@
     "tags": [
       "QQ群管"
     ],
-    "stars": 90,
+    "stars": 91,
     "version": "v3.2.7",
-    "updated_at": "2026-01-30T13:20:45Z",
+    "updated_at": "2026-02-02T04:17:47Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
