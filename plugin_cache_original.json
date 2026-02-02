@@ -52,9 +52,9 @@
       "QQ群转发"
     ],
     "social_link": "https://meilunova.pages.dev/",
-    "stars": 0,
+    "stars": 1,
     "version": "0.2.0",
-    "updated_at": "2026-02-02T03:24:34Z",
+    "updated_at": "2026-02-02T05:07:13Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -10294,9 +10294,9 @@
       "webui",
       "图床"
     ],
-    "stars": 125,
+    "stars": 126,
     "version": "v3.19",
-    "updated_at": "2026-01-31T15:34:46Z"
+    "updated_at": "2026-02-02T06:06:07Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
