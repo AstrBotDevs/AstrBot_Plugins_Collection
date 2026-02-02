@@ -26,8 +26,8 @@
     ],
     "social_link": "https://cyilin36.github.io",
     "stars": 3,
-    "version": "v1.0",
-    "updated_at": "2026-02-02T12:10:40Z"
+    "version": "v1.1",
+    "updated_at": "2026-02-02T18:11:40Z"
   },
   "astrbot_plugin_daily_stock_analysis_adapter": {
     "display_name": "DailyStockAnalysis 适配器插件",
@@ -86,7 +86,7 @@
     ],
     "stars": 1,
     "version": "v0.9",
-    "updated_at": "2026-02-02T16:02:18Z",
+    "updated_at": "2026-02-02T18:16:12Z",
     "logo": "https://raw.githubusercontent.com/aki0623/astrbot_plugin_mooncell_finder/master/logo.png"
   },
   "astrbot_plugin_smart_segment_reply": {
@@ -1615,7 +1615,7 @@
     "tags": [],
     "stars": 3,
     "version": "1.0.1",
-    "updated_at": "2026-02-02T17:36:37Z",
+    "updated_at": "2026-02-02T18:33:29Z",
     "logo": "https://raw.githubusercontent.com/204343414/astrbot_plugin_yt-dlp/master/logo.png"
   },
   "astrbot_plugin_yotts": {
@@ -7405,8 +7405,8 @@
     ],
     "repo": "https://github.com/itismygo/astrbot_plugin_mathjax2image",
     "stars": 3,
-    "version": "v2.5.0",
-    "updated_at": "2026-02-02T17:23:38Z"
+    "version": "v2.5.1",
+    "updated_at": "2026-02-02T18:06:09Z"
   },
   "astrbot_plugin_xyzw_box": {
     "author": "cloudcranesss",
