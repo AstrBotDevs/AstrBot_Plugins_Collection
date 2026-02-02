@@ -1,4 +1,59 @@
 {
+  "astrbot_plugin_claudecode": {
+    "display_name": "Claude Code CLI",
+    "desc": "将 Claude Code CLI 作为 LLM 函数工具集成到 AstrBot",
+    "author": "YukiRa1n",
+    "repo": "https://github.com/YukiRa1n/astrbot_plugin_claudecode",
+    "tags": ["AI", "Claude", "Claude Code"],
+    "social_link": "https://github.com/YukiRa1n"
+  },
+  "astrbot_plugin_emby": {
+    "display_name": "Emby 助手",
+    "desc": "关联自部署 Emby 媒体库。支持 LLM 自动检索影片、获取元数据及最近更新。",
+    "author": "cyilin36",
+    "repo": "https://github.com/cyilin36/astrbot_plugin_emby",
+    "tags": [
+      "emby",
+      "媒体库",
+      "搜索"
+    ],
+    "social_link": "https://cyilin36.github.io"
+  },
+  "astrbot_plugin_daily_stock_analysis_adapter": {
+    "display_name": "DailyStockAnalysis 适配器插件",
+    "desc": "接收股票分析 HTML 报告并通过 Astrbot 发送给指定群组或用户",
+    "author": "棒棒糖",
+    "repo": "https://github.com/zhoufan47/astrbot_plugin_daily_stock_analysis_adapter",
+    "tags": [
+      "股票"
+    ]
+  },
+  "astrbot_plugin_telegram_forwarder": {
+    "display_name": "Telegram Forwarder",
+    "desc": "将一个公开 Telegram 频道的消息自动转发到你自己的 Telegram 频道或 QQ 群。",
+    "author": "HSJ-BanFan",
+    "repo": "https://github.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder",
+    "tags": [
+      "频道搬运",
+      "telegram",
+      "QQ群转发"
+    ],
+    "social_link": "https://meilunova.pages.dev/"
+  },
+  "astrbot_plugin_NekoMusic": {
+    "display_name": "Neko 云音乐点歌",
+    "desc": "一个接入了 Neko 云音乐的点歌插件",
+    "author": "Nyanyagulugulu(不穿胖次の小奶猫)",
+    "repo": "https://github.com/NyaNyagulugulu/astrbot_NekoMusic",
+    "tags": [
+      "音乐",
+      "Neko",
+      "云音乐",
+      "免费",
+      "娱乐"
+    ],
+    "social_link": "https://www.cnmsb.xin"
+  },
   "astrbot_plugin_mooncell_finder": {
     "display_name": "MOONCELL搜索插件",
     "desc": "MOONCELL搜索插件,用于查询FGO相关的从者、礼装、纹章和特性信息。",
@@ -8,6 +63,16 @@
       "FGO",
       "搜索"
     ]
+  },
+  "astrbot_plugin_smart_segment_reply": {
+    "display_name": "智能分段回复插件",
+    "desc": "通过调用硅基流动免费的大模型实现智能的分段回复，也支持自定义分段回复大模型",
+    "author": "Wyccotccy",
+    "repo": "https://github.com/Wyccotccy/astrbot_plugin_smart_segment_reply",
+    "tags": [
+      "分段回复"
+    ],
+    "social_link": "https://cinder.wyccotccy.cn/"
   },
   "astrbot_plugin_vibe": {
     "display_name": "vibe",
@@ -66,6 +131,23 @@
     "tags": [
       "美化"
     ]
+  },
+  "astrbot_plugin_friends_welcome": {
+    "display_name": "friends_welcome",
+    "desc": "(OneBot v11) 好友审批系统",
+    "author": "mjy1113451# 作者",
+    "repo": "https://github.com/mjy1113451/astrbot_plugin_friends_welcome"
+  },
+  "astrbot_plugin_HowMuchIsYourFace": {
+    "display_name": "头像值多少",
+    "desc": "头像值多少钱？让 AstrBot 来给你估个价！ 本插件基于玄学算法（和一点点AI魔法），为群友的头像进行“专业”估值——可能是百万像素富翁，也可能是表情包难民。纯属娱乐，切勿当真！快@机器人看看你的头像值几个亿吧～ 💰📸",
+    "author": "qiyuqingyun",
+    "repo": "https://github.com/qiyuqingyun/HowMuchIsYourFace",
+    "tags": [
+      "头像",
+      "估价"
+    ],
+    "social_link": "https://github.com/qiyuqingyun"
   },
   "astrbot_plugin_qq_tools": {
     "display_name": "QQ 工具集",
