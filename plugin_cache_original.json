@@ -86,7 +86,8 @@
     ],
     "stars": 1,
     "version": "v0.9",
-    "updated_at": "2026-02-02T13:24:26Z"
+    "updated_at": "2026-02-02T16:02:18Z",
+    "logo": "https://raw.githubusercontent.com/aki0623/astrbot_plugin_mooncell_finder/master/logo.png"
   },
   "astrbot_plugin_smart_segment_reply": {
     "display_name": "智能分段回复插件",
@@ -185,8 +186,8 @@
     "repo": "https://github.com/mjy1113451/astrbot_plugin_friends_welcome",
     "tags": [],
     "stars": 2,
-    "version": "v1.0.0",
-    "updated_at": "2026-02-02T07:10:10Z"
+    "version": "v1.1.0",
+    "updated_at": "2026-02-02T15:52:37Z"
   },
   "astrbot_plugin_HowMuchIsYourFace": {
     "display_name": "头像值多少",
@@ -7775,9 +7776,9 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 95,
+    "stars": 96,
     "version": "v2.0.7",
-    "updated_at": "2026-01-28T13:33:23Z",
+    "updated_at": "2026-02-02T16:37:35Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
