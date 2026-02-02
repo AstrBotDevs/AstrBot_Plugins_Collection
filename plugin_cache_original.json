@@ -25,9 +25,9 @@
       "搜索"
     ],
     "social_link": "https://cyilin36.github.io",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0",
-    "updated_at": "2026-02-01T18:21:15Z"
+    "updated_at": "2026-02-02T10:47:38Z"
   },
   "astrbot_plugin_daily_stock_analysis_adapter": {
     "display_name": "DailyStockAnalysis 适配器插件",
@@ -3040,6 +3040,21 @@
     "version": "v6.2",
     "updated_at": "2026-01-25T02:48:03Z",
     "logo": "https://raw.githubusercontent.com/by-029/zxs60s/main/logo.png"
+  },
+  "astrbot_plugin_slave_market": {
+    "display_name": "大牛马时代",
+    "desc": "Python 版牛马市场游戏，涵盖银行、市场、农务、VIP 等系统。",
+    "author": "magisk317",
+    "repo": "https://github.com/magisk317/astrbot_plugin_slave_market",
+    "tags": [
+      "牛马市场",
+      "经济系统",
+      "VIP自动化"
+    ],
+    "social_link": "https://github.com/magisk317",
+    "stars": 3,
+    "version": "v1.0.1",
+    "updated_at": "2026-01-15T15:37:29Z"
   },
   "astrbot_plugin_nyscheduler": {
     "display_name": "定时推送",
