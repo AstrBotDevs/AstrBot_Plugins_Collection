@@ -11,8 +11,8 @@
     ],
     "social_link": "https://github.com/YukiRa1n",
     "stars": 2,
-    "version": "v2.0.0",
-    "updated_at": "2026-02-02T04:39:20Z"
+    "version": "v2.1.0",
+    "updated_at": "2026-02-02T08:30:42Z"
   },
   "astrbot_plugin_emby": {
     "display_name": "Emby 助手",
@@ -54,7 +54,7 @@
     "social_link": "https://meilunova.pages.dev/",
     "stars": 1,
     "version": "0.2.0",
-    "updated_at": "2026-02-02T06:56:03Z",
+    "updated_at": "2026-02-02T08:19:19Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -1167,9 +1167,9 @@
       "人格"
     ],
     "social_link": "https://github.com/NickCharlie",
-    "stars": 85,
+    "stars": 86,
     "version": "Next-1.1.7",
-    "updated_at": "2026-01-31T14:18:18Z",
+    "updated_at": "2026-02-02T07:58:07Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -3323,9 +3323,9 @@
       "工具",
       "私聊"
     ],
-    "stars": 15,
+    "stars": 16,
     "version": "2.1.0",
-    "updated_at": "2025-12-27T20:53:47Z"
+    "updated_at": "2026-02-02T08:49:03Z"
   },
   "astrbot_plugin_llm_amnesia": {
     "display_name": "LLM 遗忘插件",
