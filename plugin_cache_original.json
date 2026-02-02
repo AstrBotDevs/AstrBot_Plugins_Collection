@@ -432,9 +432,9 @@
       "群聊圣经"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 147,
+    "stars": 148,
     "version": "v4.6.7",
-    "updated_at": "2026-02-01T13:21:58Z",
+    "updated_at": "2026-02-02T01:49:27Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -702,9 +702,9 @@
       "插件编写"
     ],
     "social_link": "https://github.com/DITF16",
-    "stars": 27,
+    "stars": 28,
     "version": "1.1.1",
-    "updated_at": "2026-01-31T14:52:20Z",
+    "updated_at": "2026-02-02T01:02:25Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_groupGuard": {
@@ -1744,9 +1744,9 @@
       "桌面客户端"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 15,
+    "stars": 16,
     "version": "1.1.2",
-    "updated_at": "2026-02-01T14:22:27Z",
+    "updated_at": "2026-02-02T01:42:49Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
@@ -5437,9 +5437,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 147,
+    "stars": 148,
     "version": "v4.6.7",
-    "updated_at": "2026-02-01T13:21:58Z",
+    "updated_at": "2026-02-02T01:49:27Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -10155,9 +10155,9 @@
       "功能",
       "搬史"
     ],
-    "stars": 500,
+    "stars": 501,
     "version": "v0.915",
-    "updated_at": "2026-01-31T06:33:50Z"
+    "updated_at": "2026-02-02T01:48:57Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
@@ -10422,8 +10422,8 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "tags": [],
     "stars": 39,
-    "version": "v1.5.1",
-    "updated_at": "2026-01-26T02:32:45Z",
+    "version": "v1.5.2",
+    "updated_at": "2026-02-02T02:14:20Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
