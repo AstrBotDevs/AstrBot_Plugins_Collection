@@ -37,9 +37,9 @@
     "tags": [
       "股票"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.1",
-    "updated_at": "2026-02-02T00:56:34Z"
+    "updated_at": "2026-02-02T15:32:56Z"
   },
   "astrbot_plugin_telegram_forwarder": {
     "display_name": "Telegram Forwarder",
@@ -387,8 +387,8 @@
     "social_link": "https://github.com/nulijiazaizhong",
     "tags": [],
     "stars": 1,
-    "version": "1.0.3",
-    "updated_at": "2026-01-31T09:39:15Z"
+    "version": "1.0.4",
+    "updated_at": "2026-02-02T15:17:46Z"
   },
   "astrbot_plugin_lark_enhance": {
     "display_name": "飞书增强",
@@ -853,9 +853,9 @@
       "关键词",
       "自动回复"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.1",
-    "updated_at": "2026-01-26T04:22:44Z",
+    "updated_at": "2026-02-02T15:26:38Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_keywords_reply/master/logo.png"
   },
   "astrbot_plugin_text2img": {
@@ -7405,7 +7405,7 @@
     "repo": "https://github.com/itismygo/astrbot_plugin_mathjax2image",
     "stars": 3,
     "version": "v2.4.2",
-    "updated_at": "2026-02-02T12:56:16Z"
+    "updated_at": "2026-02-02T14:54:59Z"
   },
   "astrbot_plugin_xyzw_box": {
     "author": "cloudcranesss",
