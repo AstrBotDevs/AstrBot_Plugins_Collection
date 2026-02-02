@@ -85,8 +85,8 @@
       "搜索"
     ],
     "stars": 1,
-    "version": "v1.0",
-    "updated_at": "2026-02-01T16:21:46Z"
+    "version": "v0.9",
+    "updated_at": "2026-02-02T13:24:26Z"
   },
   "astrbot_plugin_smart_segment_reply": {
     "display_name": "智能分段回复插件",
@@ -2403,7 +2403,7 @@
     "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
     "stars": 15,
     "version": "v1.2.0",
-    "updated_at": "2026-01-31T15:10:28Z",
+    "updated_at": "2026-02-02T13:25:01Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -2439,7 +2439,7 @@
     "pinned": true,
     "stars": 29,
     "version": "v1.3.8",
-    "updated_at": "2026-02-01T13:14:27Z",
+    "updated_at": "2026-02-02T13:22:22Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -5696,7 +5696,7 @@
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
     "stars": 12,
     "version": "v1.5",
-    "updated_at": "2026-01-13T02:58:42Z"
+    "updated_at": "2026-02-02T13:26:28Z"
   },
   "command_to_llm": {
     "desc": "将指令（比如/help）转换为LLM函数（比如 get_help）调用，让AI能够通过LLM函数执行其他插件的指令，支持动态添加和管理指令映射",
@@ -6864,8 +6864,9 @@
       "娱乐"
     ],
     "stars": 9,
-    "version": "v2.0.6",
-    "updated_at": "2025-12-26T07:25:27Z"
+    "version": "v2.0.7",
+    "updated_at": "2026-02-02T13:25:21Z",
+    "logo": "https://raw.githubusercontent.com/nuomicici/astrbot-plugin-choulaopo/main/logo.png"
   },
   "astrbot_plugin_file": {
     "name": "astrbot_plugin_file",
@@ -8773,7 +8774,7 @@
     "social_link": "https://github.com/vmoranv-reborn",
     "stars": 7,
     "version": "1.5.0",
-    "updated_at": "2026-02-02T03:44:30Z",
+    "updated_at": "2026-02-02T14:33:00Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
