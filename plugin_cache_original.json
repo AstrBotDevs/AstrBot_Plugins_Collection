@@ -54,7 +54,7 @@
     "social_link": "https://meilunova.pages.dev/",
     "stars": 1,
     "version": "0.2.0",
-    "updated_at": "2026-02-02T05:07:13Z",
+    "updated_at": "2026-02-02T06:56:03Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -97,9 +97,9 @@
       "分段回复"
     ],
     "social_link": "https://cinder.wyccotccy.cn/",
-    "stars": 0,
+    "stars": 1,
     "version": "2.1.1",
-    "updated_at": "2026-01-22T01:53:53Z"
+    "updated_at": "2026-02-02T06:43:37Z"
   },
   "astrbot_plugin_vibe": {
     "display_name": "vibe",
@@ -186,7 +186,7 @@
     "tags": [],
     "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-01-30T08:59:45Z"
+    "updated_at": "2026-02-02T07:10:10Z"
   },
   "astrbot_plugin_HowMuchIsYourFace": {
     "display_name": "头像值多少",
@@ -791,7 +791,7 @@
     ],
     "stars": 1,
     "version": "2.1.1",
-    "updated_at": "2026-01-27T02:29:59Z",
+    "updated_at": "2026-02-02T07:35:43Z",
     "logo": "https://raw.githubusercontent.com/danfong1104/astrbot_plugin_chatmaster/main/logo.png"
   },
   "astrbot_plugin_cheer_mate": {
@@ -2386,7 +2386,7 @@
     ],
     "stars": 14,
     "version": "2.2.0",
-    "updated_at": "2026-02-01T18:39:21Z",
+    "updated_at": "2026-02-02T06:44:38Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
