@@ -25,9 +25,9 @@
       "搜索"
     ],
     "social_link": "https://cyilin36.github.io",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0",
-    "updated_at": "2026-02-02T10:47:38Z"
+    "updated_at": "2026-02-02T12:10:40Z"
   },
   "astrbot_plugin_daily_stock_analysis_adapter": {
     "display_name": "DailyStockAnalysis 适配器插件",
@@ -288,7 +288,7 @@
     ],
     "stars": 0,
     "version": "v1.1.0",
-    "updated_at": "2026-02-02T02:33:34Z"
+    "updated_at": "2026-02-02T12:43:44Z"
   },
   "astrbot_plugin_bestdori_tools": {
     "display_name": "BanG！Dream！Bestdori工具箱",
@@ -816,9 +816,9 @@
       "插件编写"
     ],
     "social_link": "https://github.com/DITF16",
-    "stars": 28,
+    "stars": 29,
     "version": "1.1.1",
-    "updated_at": "2026-02-02T01:02:25Z",
+    "updated_at": "2026-02-02T12:20:59Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_groupGuard": {
@@ -5457,9 +5457,9 @@
       "memory",
       "rag"
     ],
-    "stars": 56,
+    "stars": 57,
     "version": "2.1.2",
-    "updated_at": "2026-01-30T13:20:47Z",
+    "updated_at": "2026-02-02T11:50:20Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -7061,9 +7061,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "author": "Zhalslar",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.0.3",
-    "updated_at": "2026-01-25T06:02:36Z",
+    "updated_at": "2026-02-02T13:09:21Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_monitor/main/logo.png"
   },
   "astrbot_plugin_decision_roulette": {
@@ -7404,7 +7404,7 @@
     "repo": "https://github.com/itismygo/astrbot_plugin_mathjax2image",
     "stars": 3,
     "version": "v2.4.2",
-    "updated_at": "2026-01-30T08:42:13Z"
+    "updated_at": "2026-02-02T12:56:16Z"
   },
   "astrbot_plugin_xyzw_box": {
     "author": "cloudcranesss",
