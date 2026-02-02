@@ -312,9 +312,9 @@
       "warframe"
     ],
     "social_link": "https://github.com/Youzini-afk",
-    "stars": 3,
+    "stars": 4,
     "version": "1.8.3",
-    "updated_at": "2026-02-01T13:08:16Z"
+    "updated_at": "2026-02-02T09:37:36Z"
   },
   "astrbot_plugin_group_aip_review": {
     "display_name": "群消息内容安全审核插件",
@@ -546,9 +546,9 @@
       "群聊圣经"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 148,
+    "stars": 149,
     "version": "v4.6.7",
-    "updated_at": "2026-02-02T01:49:27Z",
+    "updated_at": "2026-02-02T09:05:14Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -1382,8 +1382,8 @@
       "豆包"
     ],
     "stars": 1,
-    "version": "3.2.0",
-    "updated_at": "2026-01-29T04:14:07Z"
+    "version": "3.3.0",
+    "updated_at": "2026-02-02T09:49:43Z"
   },
   "astrbot_plugin_admin_notifier": {
     "display_name": "举报通知",
@@ -2839,8 +2839,8 @@
     ],
     "social_link": "https://box.firefly520.top/",
     "stars": 18,
-    "version": "1.4.3",
-    "updated_at": "2026-01-24T13:21:42Z",
+    "version": "1.4.4",
+    "updated_at": "2026-02-02T09:21:31Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/master/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
