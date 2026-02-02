@@ -4544,8 +4544,8 @@
     "repo": "https://github.com/BGYdook/AstrBot-plugin-tmp-bot",
     "tags": [],
     "stars": 3,
-    "version": "1.7.2",
-    "updated_at": "2026-01-31T14:30:48Z"
+    "version": "1.7.3",
+    "updated_at": "2026-02-02T21:26:34Z"
   },
   "astrbot_plugin_33recognition": {
     "desc": "调用大模型检测图片中关键词",
