@@ -157,7 +157,7 @@
     ],
     "stars": 2,
     "version": "v0.9",
-    "updated_at": "2026-02-03T17:02:12Z",
+    "updated_at": "2026-02-03T18:56:37Z",
     "logo": "https://raw.githubusercontent.com/aki0623/astrbot_plugin_mooncell_finder/master/logo.png"
   },
   "astrbot_plugin_smart_segment_reply": {
@@ -2969,9 +2969,9 @@
       "文件管理",
       "网盘"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.2.2",
-    "updated_at": "2026-01-30T06:31:20Z",
+    "updated_at": "2026-02-03T18:07:53Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_openlistfile/master/logo.png"
   },
   "astrbot_plugin_gemini_image": {
