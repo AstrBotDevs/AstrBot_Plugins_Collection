@@ -333,9 +333,9 @@
       "gbc",
       "bangdream"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v0.1.0",
-    "updated_at": "2026-01-30T06:39:19Z"
+    "updated_at": "2026-02-03T21:50:53Z"
   },
   "astrbot_plugin_odoo": {
     "display_name": "AstrBot Odoo 连接器",
