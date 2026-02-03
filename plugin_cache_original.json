@@ -10,9 +10,9 @@
       "vibe coding",
       "OpenCode"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "1.0.0",
-    "updated_at": "2026-02-02T15:23:21Z",
+    "updated_at": "2026-02-03T11:47:07Z",
     "logo": "https://raw.githubusercontent.com/singularity2000/astrbot_plugin_opencode/main/logo.png"
   },
   "astrbot_plugin_claudecode": {
@@ -53,9 +53,9 @@
     "tags": [
       "股票"
     ],
-    "stars": 2,
+    "stars": 4,
     "version": "v1.0.1",
-    "updated_at": "2026-02-02T15:32:56Z"
+    "updated_at": "2026-02-03T12:34:57Z"
   },
   "astrbot_plugin_emby": {
     "display_name": "Emby 助手",
@@ -85,7 +85,7 @@
     "social_link": "https://meilunova.pages.dev/",
     "stars": 1,
     "version": "0.2.0",
-    "updated_at": "2026-02-03T05:34:41Z",
+    "updated_at": "2026-02-03T12:38:57Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -1223,9 +1223,9 @@
     "author": "bylkuse",
     "repo": "https://github.com/bylkuse/astrbot_plugin_help_typst",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "v0.1.1",
-    "updated_at": "2026-01-22T06:31:59Z",
+    "updated_at": "2026-02-03T12:13:29Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_help_typst/master/logo.png"
   },
   "astrbot_plugin_lb_provider": {
@@ -2581,9 +2581,9 @@
       "群聊",
       "消息总结"
     ],
-    "stars": 4,
+    "stars": 5,
     "version": "v1.3.2",
-    "updated_at": "2026-01-30T09:46:54Z"
+    "updated_at": "2026-02-03T11:47:20Z"
   },
   "astrbot_plugin_bananic_ninjutsu": {
     "display_name": "香蕉忍法帖",
@@ -6095,9 +6095,9 @@
       "记忆"
     ],
     "social_link": "https://github.com/qa296/",
-    "stars": 26,
+    "stars": 27,
     "version": "v0.2.7",
-    "updated_at": "2026-01-30T08:57:21Z"
+    "updated_at": "2026-02-03T11:50:00Z"
   },
   "astrbot_plugin_iearning_style": {
     "desc": "使机器人可以从聊天中学习他人说话方式",
@@ -10277,9 +10277,9 @@
     "tags": [
       "功能"
     ],
-    "stars": 23,
+    "stars": 24,
     "version": "1.1.0",
-    "updated_at": "2026-01-30T00:13:04Z"
+    "updated_at": "2026-02-03T13:14:45Z"
   },
   "astrbot_plugin_moyuren": {
     "desc": "每天定时推送摸鱼人日历",
