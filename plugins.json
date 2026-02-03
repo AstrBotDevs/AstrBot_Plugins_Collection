@@ -1,4 +1,16 @@
 {
+  "astrbot_plugin_opencode": {
+    "display_name": "OpenCode Bridge",
+    "desc": "让 AstrBot 对接 OpenCode，通过自然语言远程指挥电脑干活。使用此插件，意味着你已知晓相关风险。",
+    "author": "singularity2000",
+    "repo": "https://github.com/singularity2000/astrbot_plugin_opencode",
+    "tags": [
+      "AI",
+      "Agent",
+      "vibe coding",
+      "OpenCode"
+    ]
+  },
   "astrbot_plugin_claudecode": {
     "display_name": "Claude Code CLI",
     "desc": "将 Claude Code CLI 作为 LLM 函数工具集成到 AstrBot",
@@ -6,6 +18,27 @@
     "repo": "https://github.com/YukiRa1n/astrbot_plugin_claudecode",
     "tags": ["AI", "Claude", "Claude Code"],
     "social_link": "https://github.com/YukiRa1n"
+  },
+  "astrbot_plugin_sudoku": {
+    "display_name": "数独游戏",
+    "desc": "功能：生成唯一解数独题目（简单/中等/困难）对局持久化与超时清理 图片渲染展示棋盘（优先使用PIL本地渲染）填错扣生命值（默认 3 次，归零结束）",
+    "author": "金幺",
+    "repo": "https://github.com/wangyingxuan383-ai/astrbot_plugin_sudoku",
+    "tags": [
+      "数独",
+      "游戏",
+      "娱乐"
+    ],
+    "social_link": "846994183@qq.com"
+  },
+  "astrbot_plugin_daily_stock_analysis_adapter": {
+    "display_name": "DailyStockAnalysis",
+    "desc": "接收股票分析HTML报告并通过Astrbot发送给指定群组或用户",
+    "author": "棒棒糖",
+    "repo": "https://github.com/zhoufan47/astrbot_plugin_daily_stock_analysis_adapter",
+    "tags": [
+      "股票"
+    ]
   },
   "astrbot_plugin_emby": {
     "display_name": "Emby 助手",
