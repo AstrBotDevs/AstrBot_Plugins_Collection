@@ -1,21 +1,4 @@
 {
-  "astrbot_plugin_wifepicker": {
-    "display_name": "今日老婆",
-    "desc": "全新的抽取群友当老婆的插件，可以增进群友的感情（）。只抽一个月内取发言过的人，并且可生成老婆关系图，还可以强娶哦~",
-    "author": "何夕",
-    "repo": "https://github.com/Heximiao/astrbot-plugin-wifepicker",
-    "tags": [
-      "抽老婆",
-      "抽",
-      "群友",
-      "老婆"
-    ],
-    "social_link": "https://github.com/Heximiao",
-    "stars": 4,
-    "version": "v2.1.2",
-    "updated_at": "2026-02-03T14:39:38Z",
-    "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
-  },
   "astrbot_plugin_grok_web_search": {
     "display_name": "Grok联网搜索",
     "desc": "通过 Grok API 进行实时联网搜索，返回综合答案和来源链接，支持指令，LLM Tool和skills调用。",
@@ -68,8 +51,8 @@
       "OpenCode"
     ],
     "stars": 1,
-    "version": "1.0.0",
-    "updated_at": "2026-02-03T11:47:07Z",
+    "version": "1.1.0",
+    "updated_at": "2026-02-03T14:50:08Z",
     "logo": "https://raw.githubusercontent.com/singularity2000/astrbot_plugin_opencode/main/logo.png"
   },
   "astrbot_plugin_claudecode": {
@@ -103,8 +86,8 @@
     "updated_at": "2026-02-03T13:18:05Z"
   },
   "astrbot_plugin_daily_stock_analysis_adapter": {
-    "display_name": "DailyStockAnalysis 适配器插件",
-    "desc": "接收股票分析 HTML 报告并通过 Astrbot 发送给指定群组或用户",
+    "display_name": "DailyStockAnalysis",
+    "desc": "接收股票分析HTML报告并通过Astrbot发送给指定群组或用户",
     "author": "棒棒糖",
     "repo": "https://github.com/zhoufan47/astrbot_plugin_daily_stock_analysis_adapter",
     "tags": [
@@ -142,7 +125,7 @@
     "social_link": "https://meilunova.pages.dev/",
     "stars": 1,
     "version": "0.2.0",
-    "updated_at": "2026-02-03T12:38:57Z",
+    "updated_at": "2026-02-03T15:39:37Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -202,6 +185,23 @@
     "stars": 0,
     "version": "v0.3.15",
     "updated_at": "2026-01-26T16:23:10Z"
+  },
+  "astrbot_plugin_wifepicker": {
+    "display_name": "今日老婆",
+    "desc": "全新的抽取群友当老婆的插件，可以增进群友的感情（）。只抽一个月内取发言过的人，并且可生成老婆关系图，还可以强娶哦~",
+    "author": "何夕",
+    "repo": "https://github.com/Heximiao/astrbot-plugin-wifepicker",
+    "tags": [
+      "抽老婆",
+      "抽",
+      "群友",
+      "老婆"
+    ],
+    "social_link": "https://github.com/Heximiao",
+    "stars": 4,
+    "version": "v2.1.2",
+    "updated_at": "2026-02-03T15:35:25Z",
+    "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
     "display_name": "Steam 视奸机器人",
@@ -905,9 +905,9 @@
       "插件编写"
     ],
     "social_link": "https://github.com/DITF16",
-    "stars": 32,
+    "stars": 34,
     "version": "1.1.1",
-    "updated_at": "2026-02-03T14:06:07Z",
+    "updated_at": "2026-02-03T15:13:18Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_groupGuard": {
@@ -1213,9 +1213,9 @@
       "NLP"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 18,
+    "stars": 19,
     "version": "1.1.1",
-    "updated_at": "2026-01-29T03:14:28Z"
+    "updated_at": "2026-02-03T15:35:14Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -1239,7 +1239,6 @@
     "desc": "zssm，支持关键词“zssm”（忽略前缀）与“zssm + 内容”直接解释；引用消息（含@）正常处理，Napcat get_msg 回溯图片；按 Provider ID 选择文本/图片模型并带回退；未回复仅发 zssm 时提示；默认提示词可在 main.py 顶部修改。",
     "author": "薄暝",
     "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
-    "pinned": true,
     "tags": [],
     "stars": 15,
     "version": "v3.9.16",
@@ -1255,6 +1254,7 @@
       "学习",
       "人格"
     ],
+    "pinned": true,
     "social_link": "https://github.com/NickCharlie",
     "stars": 86,
     "version": "Next-1.1.7",
@@ -1495,9 +1495,9 @@
     "repo": "https://github.com/xiaomizhoubaobei/astrbot_plugin_models_ai",
     "social_link": "https://github.com/xiaomizhoubaobei",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v0.0.6",
-    "updated_at": "2026-01-14T06:38:57Z",
+    "updated_at": "2026-02-03T15:48:35Z",
     "logo": "https://raw.githubusercontent.com/xiaomizhoubaobei/astrbot_plugin_models_ai/main/logo.png"
   },
   "astrbot_plugin_monixiuxian2": {
@@ -2941,9 +2941,9 @@
       "画图",
       "comfyui"
     ],
-    "stars": 11,
-    "version": "3.6.0",
-    "updated_at": "2026-02-03T14:05:07Z"
+    "stars": 12,
+    "version": "3.6.1",
+    "updated_at": "2026-02-03T15:29:08Z"
   },
   "astrbot_plugin_timeprogress": {
     "display_name": "时间可视化",
@@ -9388,9 +9388,9 @@
     "tags": [
       "QQ群管"
     ],
-    "stars": 91,
+    "stars": 92,
     "version": "v3.2.7",
-    "updated_at": "2026-02-02T04:17:47Z",
+    "updated_at": "2026-02-03T15:55:57Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -10399,6 +10399,7 @@
       "webui",
       "图床"
     ],
+    "pinned": true,
     "stars": 126,
     "version": "v3.19",
     "updated_at": "2026-02-02T06:06:07Z"
