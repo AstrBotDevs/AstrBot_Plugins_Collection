@@ -758,8 +758,8 @@
     "repo": "https://github.com/2529huang/astrbot_plugin_fund_analyzer",
     "tags": [],
     "stars": 3,
-    "version": "1.1.0",
-    "updated_at": "2026-01-28T10:43:11Z"
+    "version": "1.1.1",
+    "updated_at": "2026-02-03T03:27:57Z"
   },
   "astrbot_plugin_CNKD_Admin": {
     "display_name": "UapiPro言论管控",
@@ -2857,7 +2857,7 @@
     "social_link": "https://github.com/itismygo",
     "stars": 6,
     "version": "v1.0.2",
-    "updated_at": "2025-12-29T05:22:46Z"
+    "updated_at": "2026-02-03T04:11:17Z"
   },
   "astrbot_plugin_web_analyzer": {
     "display_name": "网页分析插件",
@@ -7437,7 +7437,7 @@
     "repo": "https://github.com/itismygo/astrbot_plugin_mathjax2image",
     "stars": 3,
     "version": "v2.5.1",
-    "updated_at": "2026-02-02T18:06:09Z"
+    "updated_at": "2026-02-03T04:21:22Z"
   },
   "astrbot_plugin_xyzw_box": {
     "author": "cloudcranesss",
