@@ -125,7 +125,7 @@
     "social_link": "https://meilunova.pages.dev/",
     "stars": 1,
     "version": "0.2.0",
-    "updated_at": "2026-02-03T15:39:37Z",
+    "updated_at": "2026-02-03T16:50:40Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -543,7 +543,7 @@
     ],
     "social_link": "https://github.com/siciyuanweilai",
     "stars": 8,
-    "version": "4.0.1",
+    "version": "4.1.0",
     "updated_at": "2026-01-31T07:01:24Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
@@ -2943,7 +2943,7 @@
     ],
     "stars": 12,
     "version": "3.6.1",
-    "updated_at": "2026-02-03T15:29:08Z"
+    "updated_at": "2026-02-03T15:57:24Z"
   },
   "astrbot_plugin_timeprogress": {
     "display_name": "时间可视化",
@@ -9278,9 +9278,9 @@
       "复读"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_reread",
-    "stars": 24,
+    "stars": 25,
     "version": "v1.1.5",
-    "updated_at": "2026-01-25T06:17:50Z",
+    "updated_at": "2026-02-03T16:09:00Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_reread/main/logo.png"
   },
   "astrbot_plugin_csbaoyan": {
