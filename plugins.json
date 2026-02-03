@@ -1,17 +1,4 @@
 {
-  "astrbot_plugin_wifepicker": {
-    "display_name": "今日老婆",
-    "desc": "全新的抽取群友当老婆的插件，可以增进群友的感情（）。只抽一个月内取发言过的人，并且可生成老婆关系图，还可以强娶哦~",
-    "author": "何夕",
-    "repo": "https://github.com/Heximiao/astrbot-plugin-wifepicker",
-    "tags": [
-      "抽老婆",
-      "抽",
-      "群友",
-      "老婆"
-    ],
-    "social_link": "https://github.com/Heximiao"
-  },
   "astrbot_plugin_grok_web_search": {
     "display_name": "Grok联网搜索",
     "desc": "通过 Grok API 进行实时联网搜索，返回综合答案和来源链接，支持指令，LLM Tool和skills调用。",
@@ -149,6 +136,19 @@
       "vibecoding"
     ],
     "social_link": "https://github.com/vmoranv/"
+  },
+  "astrbot_plugin_wifepicker": {
+    "display_name": "今日老婆",
+    "desc": "全新的抽取群友当老婆的插件，可以增进群友的感情（）。只抽一个月内取发言过的人，并且可生成老婆关系图，还可以强娶哦~",
+    "author": "何夕",
+    "repo": "https://github.com/Heximiao/astrbot-plugin-wifepicker",
+    "tags": [
+      "抽老婆",
+      "抽",
+      "群友",
+      "老婆"
+    ],
+    "social_link": "https://github.com/Heximiao"
   },
   "astrbot_plugin_steamwatch": {
     "display_name": "Steam 视奸机器人",
