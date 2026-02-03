@@ -85,7 +85,7 @@
     "social_link": "https://meilunova.pages.dev/",
     "stars": 1,
     "version": "0.2.0",
-    "updated_at": "2026-02-02T17:22:35Z",
+    "updated_at": "2026-02-03T05:34:41Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -848,9 +848,9 @@
       "插件编写"
     ],
     "social_link": "https://github.com/DITF16",
-    "stars": 29,
+    "stars": 30,
     "version": "1.1.1",
-    "updated_at": "2026-02-02T12:20:59Z",
+    "updated_at": "2026-02-03T05:23:19Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_groupGuard": {
@@ -1310,9 +1310,9 @@
       "平台适配器"
     ],
     "social_link": "https://github.com/stevessr",
-    "stars": 4,
+    "stars": 5,
     "version": "0.2.9",
-    "updated_at": "2026-01-28T09:52:03Z",
+    "updated_at": "2026-02-03T05:46:01Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_url_image_auto": {
@@ -1426,9 +1426,9 @@
       "举报",
       "审查"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.1",
-    "updated_at": "2026-01-28T12:31:34Z",
+    "updated_at": "2026-02-03T05:49:07Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_admin_notifier/master/logo.png"
   },
   "astrbot_plugin_models_ai": {
@@ -2871,8 +2871,8 @@
     ],
     "social_link": "https://box.firefly520.top/",
     "stars": 18,
-    "version": "1.4.5",
-    "updated_at": "2026-02-02T10:48:33Z",
+    "version": "1.4.6",
+    "updated_at": "2026-02-03T05:26:52Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/master/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -8629,9 +8629,9 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 134,
+    "stars": 135,
     "version": "v2.0.6",
-    "updated_at": "2026-01-31T08:51:00Z",
+    "updated_at": "2026-02-03T05:53:34Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
