@@ -36,8 +36,8 @@
     "repo": "https://github.com/lumingya/astrbot_plugin_html_render",
     "tags": [],
     "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-02-03T08:20:02Z"
+    "version": "1.0.1",
+    "updated_at": "2026-02-03T17:18:48Z"
   },
   "astrbot_plugin_opencode": {
     "display_name": "OpenCode Bridge",
@@ -157,7 +157,7 @@
     ],
     "stars": 2,
     "version": "v0.9",
-    "updated_at": "2026-02-03T07:04:21Z",
+    "updated_at": "2026-02-03T17:02:12Z",
     "logo": "https://raw.githubusercontent.com/aki0623/astrbot_plugin_mooncell_finder/master/logo.png"
   },
   "astrbot_plugin_smart_segment_reply": {
@@ -544,7 +544,7 @@
     "social_link": "https://github.com/siciyuanweilai",
     "stars": 8,
     "version": "4.1.0",
-    "updated_at": "2026-01-31T07:01:24Z",
+    "updated_at": "2026-02-03T16:57:35Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -905,9 +905,9 @@
       "插件编写"
     ],
     "social_link": "https://github.com/DITF16",
-    "stars": 34,
+    "stars": 35,
     "version": "1.1.1",
-    "updated_at": "2026-02-03T15:13:18Z",
+    "updated_at": "2026-02-03T17:05:45Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_groupGuard": {
@@ -4632,8 +4632,8 @@
     "repo": "https://github.com/BGYdook/AstrBot-plugin-tmp-bot",
     "tags": [],
     "stars": 3,
-    "version": "1.7.3",
-    "updated_at": "2026-02-02T21:26:34Z"
+    "version": "1.7.4",
+    "updated_at": "2026-02-03T18:04:24Z"
   },
   "astrbot_plugin_33recognition": {
     "desc": "调用大模型检测图片中关键词",
