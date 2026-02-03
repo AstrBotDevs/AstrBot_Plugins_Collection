@@ -216,9 +216,9 @@
     "author": "mjy1113451# 作者",
     "repo": "https://github.com/mjy1113451/astrbot_plugin_friends_welcome",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.1.0",
-    "updated_at": "2026-02-02T15:52:37Z"
+    "updated_at": "2026-02-03T05:54:41Z"
   },
   "astrbot_plugin_HowMuchIsYourFace": {
     "display_name": "头像值多少",
@@ -1426,9 +1426,9 @@
       "举报",
       "审查"
     ],
-    "stars": 2,
+    "stars": 1,
     "version": "v1.1",
-    "updated_at": "2026-02-03T05:49:07Z",
+    "updated_at": "2026-02-03T05:57:58Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_admin_notifier/master/logo.png"
   },
   "astrbot_plugin_models_ai": {
@@ -5201,8 +5201,8 @@
       "https://github.com/qa296/"
     ],
     "stars": 5,
-    "version": "1.1.0",
-    "updated_at": "2025-11-15T15:11:29Z"
+    "version": "1.2.0",
+    "updated_at": "2026-02-03T06:14:12Z"
   },
   "wallabag": {
     "desc": "自动监听消息中的 URL 并保存到 Wallabag",
