@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_opencode": {
+    "display_name": "OpenCode Bridge",
+    "desc": "让 AstrBot 对接 OpenCode，通过自然语言远程指挥电脑干活。使用此插件，意味着你已知晓相关风险。",
+    "author": "singularity2000",
+    "repo": "https://github.com/singularity2000/astrbot_plugin_opencode",
+    "tags": [
+      "AI",
+      "Agent",
+      "vibe coding",
+      "OpenCode"
+    ],
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-02-02T15:23:21Z",
+    "logo": "https://raw.githubusercontent.com/singularity2000/astrbot_plugin_opencode/main/logo.png"
+  },
   "astrbot_plugin_claudecode": {
     "display_name": "Claude Code CLI",
     "desc": "将 Claude Code CLI 作为 LLM 函数工具集成到 AstrBot",
@@ -14,6 +30,33 @@
     "version": "v2.1.0",
     "updated_at": "2026-02-02T17:28:29Z"
   },
+  "astrbot_plugin_sudoku": {
+    "display_name": "数独游戏",
+    "desc": "功能：生成唯一解数独题目（简单/中等/困难）对局持久化与超时清理 图片渲染展示棋盘（优先使用PIL本地渲染）填错扣生命值（默认 3 次，归零结束）",
+    "author": "金幺",
+    "repo": "https://github.com/wangyingxuan383-ai/astrbot_plugin_sudoku",
+    "tags": [
+      "数独",
+      "游戏",
+      "娱乐"
+    ],
+    "social_link": "846994183@qq.com",
+    "stars": 0,
+    "version": "v1.2.0",
+    "updated_at": "2026-02-02T13:51:53Z"
+  },
+  "astrbot_plugin_daily_stock_analysis_adapter": {
+    "display_name": "DailyStockAnalysis 适配器插件",
+    "desc": "接收股票分析 HTML 报告并通过 Astrbot 发送给指定群组或用户",
+    "author": "棒棒糖",
+    "repo": "https://github.com/zhoufan47/astrbot_plugin_daily_stock_analysis_adapter",
+    "tags": [
+      "股票"
+    ],
+    "stars": 2,
+    "version": "v1.0.1",
+    "updated_at": "2026-02-02T15:32:56Z"
+  },
   "astrbot_plugin_emby": {
     "display_name": "Emby 助手",
     "desc": "关联自部署 Emby 媒体库。支持 LLM 自动检索影片、获取元数据及最近更新。",
@@ -28,18 +71,6 @@
     "stars": 3,
     "version": "v1.1",
     "updated_at": "2026-02-02T18:11:40Z"
-  },
-  "astrbot_plugin_daily_stock_analysis_adapter": {
-    "display_name": "DailyStockAnalysis 适配器插件",
-    "desc": "接收股票分析 HTML 报告并通过 Astrbot 发送给指定群组或用户",
-    "author": "棒棒糖",
-    "repo": "https://github.com/zhoufan47/astrbot_plugin_daily_stock_analysis_adapter",
-    "tags": [
-      "股票"
-    ],
-    "stars": 2,
-    "version": "v1.0.1",
-    "updated_at": "2026-02-02T15:32:56Z"
   },
   "astrbot_plugin_telegram_forwarder": {
     "display_name": "Telegram Forwarder",
@@ -289,7 +320,7 @@
     ],
     "stars": 0,
     "version": "v1.1.0",
-    "updated_at": "2026-02-02T12:43:44Z"
+    "updated_at": "2026-02-03T01:55:44Z"
   },
   "astrbot_plugin_bestdori_tools": {
     "display_name": "BanG！Dream！Bestdori工具箱",
@@ -547,9 +578,9 @@
       "群聊圣经"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 149,
+    "stars": 150,
     "version": "v4.6.7",
-    "updated_at": "2026-02-02T09:05:14Z",
+    "updated_at": "2026-02-03T01:56:59Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
