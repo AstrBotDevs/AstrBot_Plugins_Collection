@@ -94,15 +94,6 @@
     ],
     "social_link": "https://cyilin36.github.io"
   },
-  "astrbot_plugin_daily_stock_analysis_adapter": {
-    "display_name": "DailyStockAnalysis 适配器插件",
-    "desc": "接收股票分析 HTML 报告并通过 Astrbot 发送给指定群组或用户",
-    "author": "棒棒糖",
-    "repo": "https://github.com/zhoufan47/astrbot_plugin_daily_stock_analysis_adapter",
-    "tags": [
-      "股票"
-    ]
-  },
   "astrbot_plugin_telegram_forwarder": {
     "display_name": "Telegram Forwarder",
     "desc": "将一个公开 Telegram 频道的消息自动转发到你自己的 Telegram 频道或 QQ 群。",
@@ -911,8 +902,7 @@
   "astrbot_zssm_explain": {
     "desc": "zssm，支持关键词“zssm”（忽略前缀）与“zssm + 内容”直接解释；引用消息（含@）正常处理，Napcat get_msg 回溯图片；按 Provider ID 选择文本/图片模型并带回退；未回复仅发 zssm 时提示；默认提示词可在 main.py 顶部修改。",
     "author": "薄暝",
-    "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
-    "pinned": true
+    "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain"
   },
   "astrbot_plugin_self_learning": {
     "desc": "智能自学习对话插件 - 通过实时消息捕获、多维度数据分析、渐进式学习机制和动态人格更新以及社交关系网络，使聊天机器人能够模仿特定用户的对话，实现更自然、个性化的交互",
@@ -923,6 +913,7 @@
       "学习",
       "人格"
     ],
+    "pinned": true,
     "social_link": "https://github.com/NickCharlie"
   },
   "astrbot_plugin_mrfzccl": {
@@ -7439,7 +7430,8 @@
       "meme",
       "webui",
       "图床"
-    ]
+    ],
+    "pinned": true
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
