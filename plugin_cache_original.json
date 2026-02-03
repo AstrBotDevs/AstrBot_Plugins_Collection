@@ -115,9 +115,9 @@
       "FGO",
       "搜索"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v0.9",
-    "updated_at": "2026-02-02T18:16:12Z",
+    "updated_at": "2026-02-03T07:04:21Z",
     "logo": "https://raw.githubusercontent.com/aki0623/astrbot_plugin_mooncell_finder/master/logo.png"
   },
   "astrbot_plugin_smart_segment_reply": {
@@ -2301,9 +2301,9 @@
       "链接"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 50,
+    "stars": 51,
     "version": "v1.1.7",
-    "updated_at": "2026-02-02T02:30:07Z",
+    "updated_at": "2026-02-03T07:31:07Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -2416,9 +2416,9 @@
     "tags": [
       "表情"
     ],
-    "stars": 14,
+    "stars": 15,
     "version": "2.2.0",
-    "updated_at": "2026-02-02T06:44:38Z",
+    "updated_at": "2026-02-03T07:01:22Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -2871,8 +2871,8 @@
     ],
     "social_link": "https://box.firefly520.top/",
     "stars": 18,
-    "version": "1.4.6",
-    "updated_at": "2026-02-03T05:26:52Z",
+    "version": "1.4.7",
+    "updated_at": "2026-02-03T07:13:41Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/master/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
