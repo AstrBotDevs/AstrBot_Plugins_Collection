@@ -86,8 +86,8 @@
     ],
     "social_link": "hlymcn.cn",
     "stars": 0,
-    "version": "v0.7.0",
-    "updated_at": "2026-02-03T18:18:42Z",
+    "version": "v0.7.1",
+    "updated_at": "2026-02-04T23:03:56Z",
     "logo": "https://raw.githubusercontent.com/DearCrazyLeaf/astrbot_plugin_hlymcn_signin/master/logo.png"
   },
   "astrbot_plugin_pic_mirror": {
@@ -1746,9 +1746,9 @@
       "下载"
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
-    "stars": 31,
+    "stars": 32,
     "version": "v1.1",
-    "updated_at": "2026-02-01T03:40:01Z"
+    "updated_at": "2026-02-04T23:12:16Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -10889,8 +10889,9 @@
     "repo": "https://github.com/Last-emo-boy/astrbot_plugin_cr4zyThursday",
     "tags": [],
     "stars": 5,
-    "version": "v1.1.0",
-    "updated_at": "2026-01-03T03:46:25Z"
+    "version": "v1.2.0",
+    "updated_at": "2026-02-04T23:10:47Z",
+    "logo": "https://raw.githubusercontent.com/Last-emo-boy/astrbot_plugin_cr4zyThursday/master/logo.png"
   },
   "astrbot_plugin_buckshot_roulette": {
     "desc": "一个好玩的简单恶魔轮盘",
