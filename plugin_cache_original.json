@@ -287,9 +287,9 @@
       "估价"
     ],
     "social_link": "https://github.com/qiyuqingyun",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.1",
-    "updated_at": "2026-01-04T18:02:19Z",
+    "updated_at": "2026-02-04T05:46:34Z",
     "logo": "https://raw.githubusercontent.com/qiyuqingyun/HowMuchIsYourFace/main/logo.png"
   },
   "astrbot_plugin_qq_tools": {
@@ -504,9 +504,9 @@
       "世界书"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 11,
+    "stars": 12,
     "version": "2.2.1",
-    "updated_at": "2026-01-30T06:43:46Z",
+    "updated_at": "2026-02-04T05:39:21Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_worldbook/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -2625,9 +2625,9 @@
       "生图",
       "gemini"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.0",
-    "updated_at": "2026-01-31T15:11:26Z"
+    "updated_at": "2026-02-04T05:53:36Z"
   },
   "astrbot_plugin_chatsummary_v2": {
     "display_name": "群聊消息总结v2",
@@ -4519,9 +4519,9 @@
       "人格"
     ],
     "social_link": "https://www.misakanet.site",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.3.1",
-    "updated_at": "2025-12-18T08:44:33Z",
+    "updated_at": "2026-02-04T05:44:14Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_persona_plus/master/logo.png"
   },
   "astrbot_plugin_sticker": {
@@ -4718,9 +4718,9 @@
     "tags": [
       "galgame"
     ],
-    "stars": 5,
+    "stars": 6,
     "version": "1.3.1",
-    "updated_at": "2025-12-25T11:10:16Z"
+    "updated_at": "2026-02-04T05:43:37Z"
   },
   "astrbot_plugin_sha_fork": {
     "desc": "基于原仓库 IGCrystal-NEO/astrbot_plugin_sha 的fork版本",
@@ -5146,9 +5146,9 @@
     "author": "ctrlkk",
     "repo": "https://github.com/ctrlkk/astrbot_plugin_meme_manager_lite",
     "tags": [],
-    "stars": 12,
+    "stars": 13,
     "version": "v1.3",
-    "updated_at": "2026-01-31T15:19:25Z"
+    "updated_at": "2026-02-04T05:47:18Z"
   },
   "astrbot_plugin_festival_greeter": {
     "desc": "在节日期间为群聊推送使用LLM生成的祝福消息",
@@ -5348,9 +5348,9 @@
       "多人",
       "积分系统"
     ],
-    "stars": 7,
+    "stars": 8,
     "version": "1.1.0",
-    "updated_at": "2025-11-19T07:08:28Z"
+    "updated_at": "2026-02-04T05:46:32Z"
   },
   "persistent_history": {
     "desc": "基本无需设置的简单永久记忆插件",
@@ -5895,9 +5895,9 @@
     "tags": [
       "股市"
     ],
-    "stars": 11,
+    "stars": 12,
     "version": "v1.0.3",
-    "updated_at": "2026-01-25T06:45:07Z"
+    "updated_at": "2026-02-04T05:53:40Z"
   },
   "astrbot_plugin_figurine_workshop": {
     "desc": "基于gemini生图的手办化,不再需要本地部署。",
@@ -5929,9 +5929,9 @@
       "手办化"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 160,
+    "stars": 161,
     "version": "v2.1.3",
-    "updated_at": "2026-01-21T08:01:43Z",
+    "updated_at": "2026-02-04T05:50:16Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_lmarena/main/logo.png"
   },
   "astrbot_plugin_Mirecraft_motd": {
@@ -7563,9 +7563,9 @@
     ],
     "desc": "[仅aiocqhttp]让bot 转人工/转人机，真人客服 接入对话/结束对话",
     "social_link": "https://github.com/Zhalslar",
-    "stars": 27,
+    "stars": 28,
     "version": "v1.7.3",
-    "updated_at": "2026-01-05T04:19:22Z",
+    "updated_at": "2026-02-04T05:55:01Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_human_service/main/logo.png"
   },
   "astrbot_plugin_reimage": {
