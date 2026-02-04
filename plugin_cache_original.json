@@ -200,7 +200,7 @@
     "social_link": "https://github.com/Heximiao",
     "stars": 6,
     "version": "v2.3.0",
-    "updated_at": "2026-02-04T08:31:40Z",
+    "updated_at": "2026-02-04T09:04:19Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
@@ -375,9 +375,9 @@
       "COC",
       "骰娘"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.1.0",
-    "updated_at": "2026-02-03T01:55:44Z"
+    "updated_at": "2026-02-04T08:44:49Z"
   },
   "astrbot_plugin_bestdori_tools": {
     "display_name": "BanG！Dream！Bestdori工具箱",
@@ -7006,9 +7006,9 @@
     "author": "Chris",
     "repo": "https://github.com/Chris95743/astrbot_plugin_balance",
     "tags": [],
-    "stars": 15,
+    "stars": 14,
     "version": "v1.5.0",
-    "updated_at": "2026-01-16T08:52:16Z"
+    "updated_at": "2026-02-04T09:12:40Z"
   },
   "astrbot_plugin_mp": {
     "desc": "一个适用于最新版本moviepilot的小工具，支持搜索、订阅、消息转发等功能",
