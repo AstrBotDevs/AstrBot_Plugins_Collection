@@ -905,9 +905,9 @@
       "插件编写"
     ],
     "social_link": "https://github.com/DITF16",
-    "stars": 35,
+    "stars": 36,
     "version": "1.1.1",
-    "updated_at": "2026-02-03T17:05:45Z",
+    "updated_at": "2026-02-04T00:48:49Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_groupGuard": {
@@ -3507,9 +3507,9 @@
     "author": "miao",
     "repo": "https://github.com/libin99527/astrbot_plugin_newapi_checkin",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-01-06T00:00:11Z"
+    "updated_at": "2026-02-04T01:37:10Z"
   },
   "astrbot_plugin_furry_chehui": {
     "display_name": "爱撤回",
@@ -5095,9 +5095,9 @@
     "author": "tacbana",
     "repo": "https://github.com/tacbana/astrbot_plugin_scheduled_reply",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "1.1.0",
-    "updated_at": "2025-10-18T02:36:40Z"
+    "updated_at": "2026-02-04T01:31:42Z"
   },
   "astrbot_plugin_the_Big-3_Chinese_AI_conferences": {
     "desc": "亿万人将要精读中文AI顶会",
@@ -5964,9 +5964,9 @@
     "author": "RC-CHN",
     "repo": "https://github.com/RC-CHN/astrbot_plugin_pic_search",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "v0.1",
-    "updated_at": "2025-11-16T12:14:42Z"
+    "updated_at": "2026-02-04T02:13:24Z"
   },
   "astrbot_plugin_spaghetti_concrete": {
     "desc": "一本正经胡说八道生成器 —— 基于“意大利面混凝土理论”，输出跨领域因果谬误文案。",
@@ -7851,9 +7851,9 @@
     "tags": [
       "玩具"
     ],
-    "stars": 15,
+    "stars": 16,
     "version": "v0.1",
-    "updated_at": "2025-12-27T16:07:07Z"
+    "updated_at": "2026-02-04T02:08:59Z"
   },
   "astrbot_plugin_music": {
     "display_name": "点歌插件",
@@ -9477,9 +9477,9 @@
     "tags": [
       "日常使用"
     ],
-    "stars": 7,
+    "stars": 8,
     "version": "v1.1",
-    "updated_at": "2026-01-31T09:01:14Z"
+    "updated_at": "2026-02-04T02:07:39Z"
   },
   "astrbot_plugin_Merge_WeMSG": {
     "desc": "[仅gewechat]支持微信个人号(gewechat)的合并消息处理和转发",
@@ -10142,9 +10142,9 @@
       "功能",
       "推送"
     ],
-    "stars": 15,
+    "stars": 16,
     "version": "v2.1.0",
-    "updated_at": "2026-01-11T12:20:24Z"
+    "updated_at": "2026-02-04T01:40:36Z"
   },
   "astrbot_plugin_gemini_exp": {
     "desc": "让你在 AstrBot 调用 Gemini2.0-flash-exp 来生成图片或者 P 图。Gemini2.0-flash-exp为原生多模态模型，其既是语言模型，也是生图模型，因此能够对图像使用简单的自然语言命令进行处理。",
@@ -10358,9 +10358,9 @@
       "功能",
       "搬史"
     ],
-    "stars": 501,
+    "stars": 500,
     "version": "v0.915",
-    "updated_at": "2026-02-02T01:48:57Z"
+    "updated_at": "2026-02-04T01:30:55Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
