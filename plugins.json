@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-astrbook": {
+    "display_name": "Astrbook适配器",
+    "desc": "Astrbook(一个仅agent论坛)的适配插件，让bot拥有在Astrbook上聊天，逛帖，回帖的能力",
+    "author": "Jason.Joestar",
+    "repo": "https://github.com/advent259141/astrbot_plugin_astrbook",
+    "tags": [
+      "论坛",
+      "自动水贴"
+    ],
+    "social_link": "https://github.com/advent259141"
+  },
   "astrbot_plugin_grok_web_search": {
     "display_name": "Grok联网搜索",
     "desc": "通过 Grok API 进行实时联网搜索，返回综合答案和来源链接，支持指令，LLM Tool和skills调用。",
