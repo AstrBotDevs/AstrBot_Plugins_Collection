@@ -267,8 +267,8 @@
     ],
     "social_link": "https://cyilin36.github.io",
     "stars": 4,
-    "version": "v1.1",
-    "updated_at": "2026-02-04T07:30:58Z"
+    "version": "v1.2",
+    "updated_at": "2026-02-04T19:10:16Z"
   },
   "astrbot_plugin_telegram_forwarder": {
     "display_name": "Telegram Forwarder",
