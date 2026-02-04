@@ -82,7 +82,7 @@
     "social_link": "https://github.com/YukiRa1n",
     "stars": 2,
     "version": "v2.1.0",
-    "updated_at": "2026-02-02T17:28:29Z"
+    "updated_at": "2026-02-04T13:52:14Z"
   },
   "astrbot_plugin_sudoku": {
     "display_name": "数独游戏",
@@ -139,7 +139,7 @@
     "social_link": "https://meilunova.pages.dev/",
     "stars": 2,
     "version": "0.2.0",
-    "updated_at": "2026-02-04T12:20:05Z",
+    "updated_at": "2026-02-04T13:38:24Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -705,9 +705,9 @@
       "用来水作业再合适不过了"
     ],
     "social_link": "https://blog.gbkgov.cn",
-    "stars": 3,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-01-25T15:25:59Z",
+    "updated_at": "2026-02-04T14:24:04Z",
     "logo": "https://raw.githubusercontent.com/Chris95743/astrbot_plugin_mysql/main/logo.png"
   },
   "astrbot_plugin_github_webhook": {
@@ -1227,9 +1227,9 @@
       "NLP"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 19,
+    "stars": 20,
     "version": "1.1.1",
-    "updated_at": "2026-02-03T15:35:14Z"
+    "updated_at": "2026-02-04T13:41:15Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -2203,8 +2203,8 @@
       "群内互动"
     ],
     "stars": 6,
-    "version": "v2.3.8",
-    "updated_at": "2026-02-04T12:34:34Z",
+    "version": "v2.3.9",
+    "updated_at": "2026-02-04T13:34:52Z",
     "logo": "https://raw.githubusercontent.com/wangyingxuan383-ai/astrbot_plugin_pet_market/main/logo.png"
   },
   "astrbot_plugin_anuneko": {
@@ -2540,9 +2540,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "pinned": true,
-    "stars": 29,
+    "stars": 30,
     "version": "v1.3.8",
-    "updated_at": "2026-02-02T13:22:22Z",
+    "updated_at": "2026-02-04T13:35:15Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -4181,9 +4181,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 72,
+    "stars": 73,
     "version": "v1.1.4",
-    "updated_at": "2026-01-28T11:39:30Z",
+    "updated_at": "2026-02-04T13:35:33Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
