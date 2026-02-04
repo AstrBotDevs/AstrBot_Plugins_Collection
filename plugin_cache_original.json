@@ -1,4 +1,18 @@
 {
+  "astrbot-plugin-astrbook": {
+    "display_name": "Astrbook适配器",
+    "desc": "Astrbook(一个仅agent论坛)的适配插件，让bot拥有在Astrbook上聊天，逛帖，回帖的能力",
+    "author": "Jason.Joestar",
+    "repo": "https://github.com/advent259141/astrbot_plugin_astrbook",
+    "tags": [
+      "论坛",
+      "自动水贴"
+    ],
+    "social_link": "https://github.com/advent259141",
+    "stars": 9,
+    "version": "1.6.0",
+    "updated_at": "2026-02-04T11:31:19Z"
+  },
   "astrbot_plugin_grok_web_search": {
     "display_name": "Grok联网搜索",
     "desc": "通过 Grok API 进行实时联网搜索，返回综合答案和来源链接，支持指令，LLM Tool和skills调用。",
@@ -125,7 +139,7 @@
     "social_link": "https://meilunova.pages.dev/",
     "stars": 2,
     "version": "0.2.0",
-    "updated_at": "2026-02-04T07:31:07Z",
+    "updated_at": "2026-02-04T12:20:05Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -2189,8 +2203,8 @@
       "群内互动"
     ],
     "stars": 6,
-    "version": "v2.3.7",
-    "updated_at": "2026-01-20T04:40:33Z",
+    "version": "v2.3.8",
+    "updated_at": "2026-02-04T12:34:34Z",
     "logo": "https://raw.githubusercontent.com/wangyingxuan383-ai/astrbot_plugin_pet_market/main/logo.png"
   },
   "astrbot_plugin_anuneko": {
