@@ -108,9 +108,9 @@
       "搜索"
     ],
     "social_link": "https://cyilin36.github.io",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.1",
-    "updated_at": "2026-02-02T18:11:40Z"
+    "updated_at": "2026-02-04T07:30:58Z"
   },
   "astrbot_plugin_telegram_forwarder": {
     "display_name": "Telegram Forwarder",
@@ -123,9 +123,9 @@
       "QQ群转发"
     ],
     "social_link": "https://meilunova.pages.dev/",
-    "stars": 1,
+    "stars": 2,
     "version": "0.2.0",
-    "updated_at": "2026-02-03T16:50:40Z",
+    "updated_at": "2026-02-04T07:31:07Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -212,9 +212,9 @@
       "steam",
       "视奸"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.1.0",
-    "updated_at": "2026-01-31T23:58:24Z"
+    "updated_at": "2026-02-04T07:30:46Z"
   },
   "astrbot_plugin_minecraft_monitor": {
     "display_name": "MC 服务器监控（适配基岩版与 Java 版）",
@@ -1256,9 +1256,9 @@
     ],
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
-    "stars": 86,
+    "stars": 87,
     "version": "Next-1.1.7",
-    "updated_at": "2026-02-02T07:58:07Z",
+    "updated_at": "2026-02-04T07:30:30Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -2138,9 +2138,9 @@
       "昵称"
     ],
     "social_link": "https://github.com/Hakuin123",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.1.1",
-    "updated_at": "2026-02-01T16:41:41Z"
+    "updated_at": "2026-02-04T07:14:50Z"
   },
   "astrbot_plugin_yoimg": {
     "display_name": "Gitee 图系模型文生图，图生图",
@@ -7343,9 +7343,9 @@
       "守信",
       "排行榜"
     ],
-    "stars": 5,
+    "stars": 6,
     "version": "2.1.2",
-    "updated_at": "2025-11-30T11:28:31Z"
+    "updated_at": "2026-02-04T07:23:53Z"
   },
   "astrbot_plugin_kook_adapter": {
     "author": "wuyan1003",
