@@ -85,6 +85,20 @@
     "author": "WLEzj",
     "repo": "https://github.com/WLEzj/astrbot_plugin_qqrecord"
   },
+  "astrbot_plugin_upfanswatcher": {
+    "display_name": "astrbot_plugin_upfanswatcher",
+    "desc": "b站up粉丝数定时推送",
+    "author": "laopanmemz",
+    "repo": "https://github.com/laopanmemz/astrbot_plugin_upfanswatcher",
+    "tags": [
+      "b站",
+      "哔哩哔哩",
+      "up",
+      "监控",
+      "粉丝"
+    ],
+    "social_link": "https://space.bilibili.com/447591776"
+  },
   "anti_repeat": {
     "display_name": "anti_repeat",
     "desc": "指令冷却与防刷屏拦截插件",
@@ -155,6 +169,15 @@
       "娱乐"
     ],
     "social_link": "846994183@qq.com"
+  },
+  "astrbot_plugin_meme": {
+    "display_name": "表情包插件",
+    "desc": "基于本地目录的表情包发送插件，支持 LLM 自动使用表情包增强对话效果。",
+    "author": "总觉得缺什么",
+    "repo": "https://github.com/kasumi-ppp/astrbot_meme_plugin",
+    "tags": [
+      "表情包"
+    ]
   },
   "astrbot_plugin_daily_stock_analysis_adapter": {
     "display_name": "DailyStockAnalysis",
@@ -4452,6 +4475,20 @@
       "SiliconFlow"
     ],
     "social_link": "https://github.com/muyouzhi6"
+  },
+  "findx010197/astrbot_plugin_reminder": {
+    "display_name": "智能日程提醒助手",
+    "desc": "智能日程提醒插件，支持LLM监控与指令双模式创建日程，基于人格生成提醒话语，支持TTS语音播报，使用SQLite数据库存储",
+    "author": "findx010197",
+    "repo": "https://github.com/findx010197/astrbot_plugin_reminder",
+    "social_link": "https://github.com/findx010197"
+  },
+  "astrbot_plugin_tts_modify": {
+    "display_name": "TTS_modify",
+    "desc": "对特定的语句进行TTS请求。",
+    "author": "L1ke40oz",
+    "repo": "https://github.com/L1ke40oz/astrbot_plugin_tts_modify",
+    "social_link": "https://github.com/L1ke40oz"
   },
   "astrbot_plugin_keyword_monitor": {
     "desc": "当群里出现关键词时触发自动提醒。",
