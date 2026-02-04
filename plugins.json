@@ -10,6 +10,91 @@
     ],
     "social_link": "https://github.com/advent259141"
   },
+  "astrbot_plugin_elves_world": {
+    "display_name": "精灵世界",
+    "desc": "精灵对战游戏 - 探索、收集、战斗！",
+    "author": "DITF16",
+    "repo": "https://github.com/DITF16/astrbot_plugin_elves_world",
+    "tags": [
+      "游戏",
+      "养成",
+      "对战"
+    ],
+    "social_link": "https://github.com/DITF16"
+  },
+  "astrbot_plugin_simple_injections": {
+    "name": "",
+    "display_name": "轻量级提示词注入",
+    "desc": "轻量级提示词注入插件。允许用户使用指令进行指定轮次的提示词注入，适用于跑团主持人等需要在规定轮次内持续完成特定任务的场景。",
+    "author": "fjontk",
+    "repo": "https://github.com/fjontk/astrbot_plugin_simple_injections",
+    "tags": [
+      "提示词注入",
+      "prompt"
+    ]
+  },
+  "astrbot_plugin_ipquery": {
+    "name": "",
+    "display_name": "IP地址查询",
+    "desc": "查询 IP 地理位置及类型查询插件。",
+    "author": "TianLang Hacker",
+    "repo": "https://github.com/TianLang-Hacker/astrbot_plugin_ipquery",
+    "tags": [
+      "IP查询",
+      "IP Query",
+      "IP"
+    ],
+    "social_link": "https://tianlang-hacker.github.io/"
+  },
+  "diyrule": {
+    "display_name": "自定义群聊的唤醒规则",
+    "desc": "为每个群聊自定义唤醒规则",
+    "author": "懒大猫",
+    "repo": "https://github.com/landamao/diyrule",
+    "tags": [
+      "工具",
+      "辅助",
+      "群聊",
+      "功能"
+    ]
+  },
+  "astrbot_plugin_hlymcn_signin": {
+    "display_name": "HLYM服务器工具",
+    "desc": "一个为HLYM社区定向开发的服务器工具插件，提供基础的查询功能，如果需要使用捆绑的更多功能需要自行适配后端系统",
+    "author": "HLYMCN",
+    "repo": "https://github.com/DearCrazyLeaf/astrbot_plugin_hlymcn_signin",
+    "tags": [
+      "服务器管理"
+    ],
+    "social_link": "hlymcn.cn"
+  },
+  "astrbot_plugin_pic_mirror": {
+    "display_name": "更多的图像对称",
+    "desc": "一个图像对称处理插件，用于生成诡异弔图，可以为图片添加多种镜像效果",
+    "author": "FenChen0211",
+    "repo": "https://github.com/FenChen0211/astrbot-plugin-pic-mirror",
+    "tags": [
+      "对称",
+      "图像编辑"
+    ],
+    "social_link": "https://github.com/FenChen0211"
+  },
+  "astrbot_plugin_qqrecord": {
+    "display_name": "Meeting Recorder",
+    "desc": "将群消息以“内容【群昵称】”的形式及时进行会议记录。调用命令 `/record [limit]`返回当前会话的最近 N 行",
+    "author": "WLEzj",
+    "repo": "https://github.com/WLEzj/astrbot_plugin_qqrecord"
+  },
+  "anti_repeat": {
+    "display_name": "anti_repeat",
+    "desc": "指令冷却与防刷屏拦截插件",
+    "author": "灵汐",
+    "repo": "https://github.com/yuanshen-scaramouche/star",
+    "tags": [
+      "拦截指令",
+      "刷屏"
+    ]
+  },
   "astrbot_plugin_grok_web_search": {
     "display_name": "Grok联网搜索",
     "desc": "通过 Grok API 进行实时联网搜索，返回综合答案和来源链接，支持指令，LLM Tool和skills调用。",
