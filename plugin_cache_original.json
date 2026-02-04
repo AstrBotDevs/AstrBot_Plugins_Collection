@@ -24,9 +24,9 @@
       "对战"
     ],
     "social_link": "https://github.com/DITF16",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-02-04T15:30:06Z",
+    "updated_at": "2026-02-04T16:26:35Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_elves_world/master/logo.png"
   },
   "astrbot_plugin_simple_injections": {
@@ -72,8 +72,8 @@
       "功能"
     ],
     "stars": 0,
-    "version": "v2.0",
-    "updated_at": "2026-02-04T14:22:26Z",
+    "version": "v2.4",
+    "updated_at": "2026-02-04T16:48:03Z",
     "logo": "https://raw.githubusercontent.com/landamao/diyrule/main/logo.png"
   },
   "astrbot_plugin_hlymcn_signin": {
@@ -113,6 +113,24 @@
     "stars": 0,
     "version": "v1.1",
     "updated_at": "2026-02-01T03:10:02Z"
+  },
+  "astrbot_plugin_upfanswatcher": {
+    "display_name": "astrbot_plugin_upfanswatcher",
+    "desc": "b站up粉丝数定时推送",
+    "author": "laopanmemz",
+    "repo": "https://github.com/laopanmemz/astrbot_plugin_upfanswatcher",
+    "tags": [
+      "b站",
+      "哔哩哔哩",
+      "up",
+      "监控",
+      "粉丝"
+    ],
+    "social_link": "https://space.bilibili.com/447591776",
+    "stars": 0,
+    "version": "v1.0.2",
+    "updated_at": "2026-01-26T09:38:31Z",
+    "logo": "https://raw.githubusercontent.com/laopanmemz/astrbot_plugin_upfanswatcher/master/logo.png"
   },
   "anti_repeat": {
     "display_name": "anti_repeat",
@@ -212,6 +230,18 @@
     "stars": 1,
     "version": "v1.2.0",
     "updated_at": "2026-02-03T13:18:05Z"
+  },
+  "astrbot_plugin_meme": {
+    "display_name": "表情包插件",
+    "desc": "基于本地目录的表情包发送插件，支持 LLM 自动使用表情包增强对话效果。",
+    "author": "总觉得缺什么",
+    "repo": "https://github.com/kasumi-ppp/astrbot_meme_plugin",
+    "tags": [
+      "表情包"
+    ],
+    "stars": 2,
+    "version": "v1.0.0",
+    "updated_at": "2026-01-29T11:43:24Z"
   },
   "astrbot_plugin_daily_stock_analysis_adapter": {
     "display_name": "DailyStockAnalysis",
@@ -402,8 +432,8 @@
     "repo": "https://github.com/mjy1113451/astrbot_plugin_friends_welcome",
     "tags": [],
     "stars": 3,
-    "version": "v1.1.0",
-    "updated_at": "2026-02-03T05:54:41Z"
+    "version": "v1.1.1",
+    "updated_at": "2026-02-04T15:52:53Z"
   },
   "astrbot_plugin_HowMuchIsYourFace": {
     "display_name": "头像值多少",
@@ -6147,6 +6177,29 @@
     "version": "2.2.2",
     "updated_at": "2026-01-29T11:41:21Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
+  },
+  "findx010197/astrbot_plugin_reminder": {
+    "display_name": "智能日程提醒助手",
+    "desc": "智能日程提醒插件，支持LLM监控与指令双模式创建日程，基于人格生成提醒话语，支持TTS语音播报，使用SQLite数据库存储",
+    "author": "findx010197",
+    "repo": "https://github.com/findx010197/astrbot_plugin_reminder",
+    "social_link": "https://github.com/findx010197",
+    "tags": [],
+    "stars": 0,
+    "version": "v3.3.5",
+    "updated_at": "2026-02-03T09:04:57Z"
+  },
+  "astrbot_plugin_tts_modify": {
+    "display_name": "TTS_modify",
+    "desc": "对特定的语句进行TTS请求。",
+    "author": "L1ke40oz",
+    "repo": "https://github.com/L1ke40oz/astrbot_plugin_tts_modify",
+    "social_link": "https://github.com/L1ke40oz",
+    "tags": [],
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-01-28T12:13:53Z",
+    "logo": "https://raw.githubusercontent.com/L1ke40oz/astrbot_plugin_tts_modify/master/logo.png"
   },
   "astrbot_plugin_keyword_monitor": {
     "desc": "当群里出现关键词时触发自动提醒。",
