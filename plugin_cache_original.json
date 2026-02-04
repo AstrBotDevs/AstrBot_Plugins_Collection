@@ -36,8 +36,8 @@
     "repo": "https://github.com/lumingya/astrbot_plugin_html_render",
     "tags": [],
     "stars": 0,
-    "version": "1.0.1",
-    "updated_at": "2026-02-03T17:18:48Z"
+    "version": "1.0.2",
+    "updated_at": "2026-02-04T03:50:35Z"
   },
   "astrbot_plugin_opencode": {
     "display_name": "OpenCode Bridge",
@@ -572,7 +572,7 @@
     "tags": [],
     "stars": 2,
     "version": "1.4.6",
-    "updated_at": "2026-01-31T16:39:00Z"
+    "updated_at": "2026-02-04T03:51:15Z"
   },
   "astrbot_plugin_bbt_daily_news": {
     "display_name": "棒棒糖的每日晨报",
@@ -1064,7 +1064,7 @@
     "social_link": "https://github.com/kennylimz",
     "stars": 8,
     "version": "v1.2",
-    "updated_at": "2026-01-30T02:31:19Z",
+    "updated_at": "2026-02-04T03:14:00Z",
     "logo": "https://raw.githubusercontent.com/kennylimz/astrbot_plugin_mudae_qq/main/logo.png"
   },
   "BUGJI/astrbot_plugin_balance": {
@@ -2473,9 +2473,9 @@
     "tags": [
       "表情"
     ],
-    "stars": 15,
+    "stars": 16,
     "version": "2.2.0",
-    "updated_at": "2026-02-03T07:01:22Z",
+    "updated_at": "2026-02-04T02:24:16Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -5407,9 +5407,9 @@
       "拟人"
     ],
     "social_link": "https://github.com/qa296/",
-    "stars": 4,
+    "stars": 5,
     "version": "1.0.4",
-    "updated_at": "2025-11-08T09:48:33Z"
+    "updated_at": "2026-02-04T02:30:30Z"
   },
   "astrbot_plugin_anti_revoke": {
     "desc": "[仅 OneBot]监控指定群聊会话撤回的消息并发送给目标用户",
@@ -5732,8 +5732,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 12,
-    "version": "v1.1.1",
-    "updated_at": "2026-01-30T05:56:20Z",
+    "version": "v1.1.2",
+    "updated_at": "2026-02-04T03:49:01Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qun_album/main/logo.png"
   },
   "astrbot_plugin_favourpro": {
@@ -8686,9 +8686,9 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 135,
+    "stars": 136,
     "version": "v2.0.6",
-    "updated_at": "2026-02-03T05:53:34Z",
+    "updated_at": "2026-02-04T03:24:47Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
