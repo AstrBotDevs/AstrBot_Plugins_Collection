@@ -315,7 +315,7 @@
     ],
     "stars": 2,
     "version": "v0.9",
-    "updated_at": "2026-02-03T18:56:37Z",
+    "updated_at": "2026-02-04T20:06:39Z",
     "logo": "https://raw.githubusercontent.com/aki0623/astrbot_plugin_mooncell_finder/master/logo.png"
   },
   "astrbot_plugin_smart_segment_reply": {
@@ -421,9 +421,9 @@
     "tags": [
       "美化"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v6.6.6",
-    "updated_at": "2026-01-15T19:04:50Z"
+    "updated_at": "2026-02-04T20:17:55Z"
   },
   "astrbot_plugin_friends_welcome": {
     "display_name": "friends_welcome",
