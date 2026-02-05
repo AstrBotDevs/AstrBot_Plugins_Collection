@@ -11,7 +11,7 @@
     "social_link": "https://github.com/advent259141",
     "stars": 9,
     "version": "1.7.0",
-    "updated_at": "2026-02-05T10:11:09Z"
+    "updated_at": "2026-02-05T11:33:27Z"
   },
   "astrbot_plugin_elves_world": {
     "display_name": "精灵世界",
@@ -72,8 +72,8 @@
       "功能"
     ],
     "stars": 0,
-    "version": "v2.8",
-    "updated_at": "2026-02-05T06:39:53Z",
+    "version": "v3.0",
+    "updated_at": "2026-02-05T11:28:39Z",
     "logo": "https://raw.githubusercontent.com/landamao/diyrule/main/logo.png"
   },
   "astrbot_plugin_hlymcn_signin": {
@@ -281,9 +281,9 @@
       "QQ群转发"
     ],
     "social_link": "https://meilunova.pages.dev/",
-    "stars": 2,
+    "stars": 3,
     "version": "0.2.1",
-    "updated_at": "2026-02-04T17:37:32Z",
+    "updated_at": "2026-02-05T11:12:52Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
