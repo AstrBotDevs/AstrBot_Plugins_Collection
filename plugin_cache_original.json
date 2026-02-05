@@ -10,8 +10,8 @@
     ],
     "social_link": "https://github.com/advent259141",
     "stars": 9,
-    "version": "1.6.0",
-    "updated_at": "2026-02-04T11:31:19Z"
+    "version": "1.7.0",
+    "updated_at": "2026-02-05T10:11:09Z"
   },
   "astrbot_plugin_elves_world": {
     "display_name": "精灵世界",
@@ -8045,9 +8045,9 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 96,
+    "stars": 97,
     "version": "v2.0.7",
-    "updated_at": "2026-02-02T16:37:35Z",
+    "updated_at": "2026-02-05T10:39:54Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
