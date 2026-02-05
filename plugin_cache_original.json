@@ -357,8 +357,8 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "stars": 6,
-    "version": "v2.8.2",
-    "updated_at": "2026-02-05T14:51:27Z",
+    "version": "v2.8.5",
+    "updated_at": "2026-02-05T17:00:10Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
@@ -519,7 +519,7 @@
     ],
     "stars": 2,
     "version": "v0.3.9",
-    "updated_at": "2026-02-05T16:27:01Z"
+    "updated_at": "2026-02-05T17:30:25Z"
   },
   "astrbot_plugin_trpgdice_rerolled": {
     "display_name": "星星骰娘-重骰版！",
@@ -2134,9 +2134,9 @@
       "主动应答",
       "群聊优化"
     ],
-    "stars": 27,
+    "stars": 28,
     "version": "0.8.8",
-    "updated_at": "2026-01-29T17:43:22Z"
+    "updated_at": "2026-02-05T17:42:21Z"
   },
   "astrbot_plugin_angel_eye": {
     "display_name": "天使之眼",
@@ -5704,9 +5704,9 @@
       "memory",
       "rag"
     ],
-    "stars": 57,
+    "stars": 58,
     "version": "2.1.2",
-    "updated_at": "2026-02-02T11:50:20Z",
+    "updated_at": "2026-02-05T17:26:47Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -10539,9 +10539,9 @@
       "功能",
       "搬史"
     ],
-    "stars": 502,
+    "stars": 503,
     "version": "v0.915",
-    "updated_at": "2026-02-05T08:16:14Z"
+    "updated_at": "2026-02-05T17:32:18Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
