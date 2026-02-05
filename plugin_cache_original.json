@@ -24,9 +24,9 @@
       "对战"
     ],
     "social_link": "https://github.com/DITF16",
-    "stars": 1,
-    "version": "v1.0.0",
-    "updated_at": "2026-02-04T16:26:35Z",
+    "stars": 3,
+    "version": "v1.0.1",
+    "updated_at": "2026-02-05T04:00:01Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_elves_world/master/logo.png"
   },
   "astrbot_plugin_simple_injections": {
@@ -266,9 +266,9 @@
       "搜索"
     ],
     "social_link": "https://cyilin36.github.io",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.2",
-    "updated_at": "2026-02-04T19:10:16Z"
+    "updated_at": "2026-02-05T02:12:52Z"
   },
   "astrbot_plugin_telegram_forwarder": {
     "display_name": "Telegram Forwarder",
@@ -431,9 +431,9 @@
     "author": "mjy1113451# 作者",
     "repo": "https://github.com/mjy1113451/astrbot_plugin_friends_welcome",
     "tags": [],
-    "stars": 3,
-    "version": "v1.2.1",
-    "updated_at": "2026-02-05T00:49:36Z"
+    "stars": 4,
+    "version": "v1.2.2",
+    "updated_at": "2026-02-05T04:21:02Z"
   },
   "astrbot_plugin_HowMuchIsYourFace": {
     "display_name": "头像值多少",
@@ -477,9 +477,9 @@
       "自动签到"
     ],
     "social_link": "https://github.com/Azincc/",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.1.0",
-    "updated_at": "2026-02-01T15:19:15Z"
+    "updated_at": "2026-02-05T04:32:32Z"
   },
   "astrbot_plugin_tomin": {
     "display_name": "Tomin - 少女乐队游戏",
@@ -1140,9 +1140,9 @@
       "生成"
     ],
     "social_link": "https://github.com/qa296/",
-    "stars": 4,
+    "stars": 5,
     "version": "1.1.0",
-    "updated_at": "2026-02-04T17:23:16Z",
+    "updated_at": "2026-02-05T02:13:14Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_music_pro": {
@@ -1440,7 +1440,7 @@
     "tags": [],
     "stars": 7,
     "version": "v0.1.1",
-    "updated_at": "2026-02-03T12:13:29Z",
+    "updated_at": "2026-02-05T03:29:48Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_help_typst/master/logo.png"
   },
   "astrbot_plugin_lb_provider": {
@@ -1664,9 +1664,9 @@
     "author": "xiaojuwa",
     "repo": "https://github.com/xiaojuwa/astrbot_plugin_monixiuxian2",
     "tags": [],
-    "stars": 7,
+    "stars": 8,
     "version": "v3.1.3",
-    "updated_at": "2026-01-31T12:03:01Z",
+    "updated_at": "2026-02-05T04:18:24Z",
     "logo": "https://raw.githubusercontent.com/xiaojuwa/astrbot_plugin_monixiuxian2/main/logo.png"
   },
   "astrbot_plugin_qymusic": {
@@ -3643,9 +3643,9 @@
       "小红书",
       "推特"
     ],
-    "stars": 17,
+    "stars": 18,
     "version": "v4.3.1",
-    "updated_at": "2026-01-30T15:01:26Z",
+    "updated_at": "2026-02-05T03:45:36Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -4239,9 +4239,9 @@
     "tags": [
       "修仙"
     ],
-    "stars": 6,
+    "stars": 5,
     "version": "v1.0.5dev",
-    "updated_at": "2026-01-05T02:12:58Z",
+    "updated_at": "2026-02-05T04:18:10Z",
     "logo": "https://raw.githubusercontent.com/linjianyan0229/astrbot_plugin_monixiuxian/main/logo.png"
   },
   "astrbot_plugin_invitecount": {
@@ -6469,8 +6469,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 54,
-    "version": "v2.3.0",
-    "updated_at": "2026-02-01T14:35:45Z",
+    "version": "v3.0.0",
+    "updated_at": "2026-02-05T04:08:39Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -8878,9 +8878,9 @@
     "repo": "https://github.com/tinkerbellqwq/astrbot_plugin_help",
     "social_link": "https://github.com/tinkerbellqwq",
     "tags": [],
-    "stars": 26,
+    "stars": 27,
     "version": "v1.1.3",
-    "updated_at": "2026-01-16T23:37:47Z"
+    "updated_at": "2026-02-05T03:29:55Z"
   },
   "astrbot_qqemotionreply": {
     "author": "QiChen",
@@ -9171,9 +9171,9 @@
     "desc": "[仅aiocqhttp] 为用户进群退群发送信息提示",
     "repo": "https://github.com/1113-yangfanou/astrbot_plugin_hello-bye",
     "tags": [],
-    "stars": 15,
+    "stars": 16,
     "version": "v1.10",
-    "updated_at": "2025-11-22T14:45:19Z"
+    "updated_at": "2026-02-05T02:35:17Z"
   },
   "astrbot_plugin_pexels": {
     "author": "xiamuceer-j",
