@@ -57,8 +57,8 @@
     ],
     "social_link": "https://tianlang-hacker.github.io/",
     "stars": 0,
-    "version": "v0.0.1",
-    "updated_at": "2026-02-05T08:35:10Z"
+    "version": "v0.0.2",
+    "updated_at": "2026-02-05T09:36:33Z"
   },
   "diyrule": {
     "display_name": "自定义群聊的唤醒规则",
@@ -433,7 +433,7 @@
     "tags": [],
     "stars": 4,
     "version": "v1.2.9",
-    "updated_at": "2026-02-05T08:42:43Z"
+    "updated_at": "2026-02-05T09:10:22Z"
   },
   "astrbot_plugin_HowMuchIsYourFace": {
     "display_name": "头像值多少",
@@ -6470,7 +6470,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 54,
     "version": "v3.0.0",
-    "updated_at": "2026-02-05T08:33:11Z",
+    "updated_at": "2026-02-05T09:14:17Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
