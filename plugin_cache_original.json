@@ -86,8 +86,8 @@
     ],
     "social_link": "hlymcn.cn",
     "stars": 0,
-    "version": "v0.7.1",
-    "updated_at": "2026-02-04T23:03:56Z",
+    "version": "v0.7.2",
+    "updated_at": "2026-02-05T01:16:42Z",
     "logo": "https://raw.githubusercontent.com/DearCrazyLeaf/astrbot_plugin_hlymcn_signin/master/logo.png"
   },
   "astrbot_plugin_pic_mirror": {
@@ -432,8 +432,8 @@
     "repo": "https://github.com/mjy1113451/astrbot_plugin_friends_welcome",
     "tags": [],
     "stars": 3,
-    "version": "v1.1.1",
-    "updated_at": "2026-02-04T15:52:53Z"
+    "version": "v1.2.1",
+    "updated_at": "2026-02-05T00:49:36Z"
   },
   "astrbot_plugin_HowMuchIsYourFace": {
     "display_name": "头像值多少",
@@ -793,9 +793,9 @@
       "群聊圣经"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 150,
+    "stars": 151,
     "version": "v4.6.7",
-    "updated_at": "2026-02-03T01:56:59Z",
+    "updated_at": "2026-02-05T01:45:03Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -1746,9 +1746,9 @@
       "下载"
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
-    "stars": 32,
+    "stars": 33,
     "version": "v1.1",
-    "updated_at": "2026-02-04T23:12:16Z"
+    "updated_at": "2026-02-05T02:10:20Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -2769,9 +2769,9 @@
       "画图"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 30,
+    "stars": 31,
     "version": "v4.0.0",
-    "updated_at": "2026-02-03T13:31:38Z",
+    "updated_at": "2026-02-05T01:25:17Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -5644,9 +5644,9 @@
       "睡眠",
       "记录"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.3",
-    "updated_at": "2026-01-14T08:00:26Z"
+    "updated_at": "2026-02-05T02:06:54Z"
   },
   "astrbot_plugin_snap_translator": {
     "desc": "自动获取并翻译 Marvel Snap 开发者问答",
@@ -6186,8 +6186,8 @@
     "social_link": "https://github.com/findx010197",
     "tags": [],
     "stars": 0,
-    "version": "v3.3.5",
-    "updated_at": "2026-02-03T09:04:57Z"
+    "version": "v3.3.6",
+    "updated_at": "2026-02-05T02:19:13Z"
   },
   "astrbot_plugin_tts_modify": {
     "display_name": "TTS_modify",
@@ -10788,9 +10788,9 @@
     "author": "Soulter",
     "repo": "https://github.com/Soulter/astrbot_plugin_essential",
     "tags": [],
-    "stars": 37,
+    "stars": 38,
     "version": "v1.1.0",
-    "updated_at": "2026-01-19T04:33:37Z"
+    "updated_at": "2026-02-05T01:50:06Z"
   },
   "astrbot_plugin_rss": {
     "desc": "支持通过 RSSHub 路由和直接 URL 订阅 RSS 源，并定时获取最新的 RSS 内容，如推特、B站、油管、博客等任何支持 RSS 2.0 的网站。",
