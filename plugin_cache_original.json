@@ -72,8 +72,8 @@
       "功能"
     ],
     "stars": 0,
-    "version": "v2.5",
-    "updated_at": "2026-02-04T16:59:40Z",
+    "version": "v2.8",
+    "updated_at": "2026-02-05T06:39:53Z",
     "logo": "https://raw.githubusercontent.com/landamao/diyrule/main/logo.png"
   },
   "astrbot_plugin_hlymcn_signin": {
@@ -432,8 +432,8 @@
     "repo": "https://github.com/mjy1113451/astrbot_plugin_friends_welcome",
     "tags": [],
     "stars": 4,
-    "version": "v1.2.4",
-    "updated_at": "2026-02-05T05:45:10Z"
+    "version": "v1.2.5",
+    "updated_at": "2026-02-05T06:23:01Z"
   },
   "astrbot_plugin_HowMuchIsYourFace": {
     "display_name": "头像值多少",
@@ -701,8 +701,8 @@
     ],
     "social_link": "https://github.com/siciyuanweilai",
     "stars": 8,
-    "version": "4.1.0",
-    "updated_at": "2026-02-03T16:57:35Z",
+    "version": "4.2.0",
+    "updated_at": "2026-02-05T07:03:05Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -1849,9 +1849,9 @@
       "三次元",
       "心理委员"
     ],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.0",
-    "updated_at": "2026-01-26T07:43:31Z"
+    "updated_at": "2026-02-05T06:00:09Z"
   },
   "astrbot_plugin_yt-dlp": {
     "display_name": "yt-dlp网页视频下载",
@@ -8867,9 +8867,9 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 136,
+    "stars": 137,
     "version": "v2.0.6",
-    "updated_at": "2026-02-04T03:24:47Z",
+    "updated_at": "2026-02-05T06:12:11Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -10101,9 +10101,9 @@
     "tags": [
       "实用工具"
     ],
-    "stars": 29,
+    "stars": 30,
     "version": "v2.2.4",
-    "updated_at": "2026-01-24T13:50:14Z",
+    "updated_at": "2026-02-05T07:16:33Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
@@ -10541,7 +10541,7 @@
     ],
     "stars": 501,
     "version": "v0.915",
-    "updated_at": "2026-02-05T06:09:34Z"
+    "updated_at": "2026-02-05T07:26:41Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
