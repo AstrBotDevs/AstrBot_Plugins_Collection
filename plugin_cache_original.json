@@ -58,7 +58,7 @@
     "social_link": "https://tianlang-hacker.github.io/",
     "stars": 0,
     "version": "v0.0.1",
-    "updated_at": "2026-02-03T23:32:33Z"
+    "updated_at": "2026-02-05T08:35:10Z"
   },
   "diyrule": {
     "display_name": "自定义群聊的唤醒规则",
@@ -432,8 +432,8 @@
     "repo": "https://github.com/mjy1113451/astrbot_plugin_friends_welcome",
     "tags": [],
     "stars": 4,
-    "version": "v1.2.5",
-    "updated_at": "2026-02-05T06:23:01Z"
+    "version": "v1.2.9",
+    "updated_at": "2026-02-05T08:42:43Z"
   },
   "astrbot_plugin_HowMuchIsYourFace": {
     "display_name": "头像值多少",
@@ -2685,8 +2685,8 @@
     "social_link": "https://github.com/DBJD-CR",
     "pinned": true,
     "stars": 30,
-    "version": "v1.3.8",
-    "updated_at": "2026-02-04T13:35:15Z",
+    "version": "v1.3.9",
+    "updated_at": "2026-02-05T08:28:03Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -6470,7 +6470,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 54,
     "version": "v3.0.0",
-    "updated_at": "2026-02-05T04:08:39Z",
+    "updated_at": "2026-02-05T08:33:11Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -7674,8 +7674,8 @@
     ],
     "repo": "https://github.com/itismygo/astrbot_plugin_mathjax2image",
     "stars": 3,
-    "version": "v2.5.1",
-    "updated_at": "2026-02-03T04:21:22Z"
+    "version": "v3.0.0",
+    "updated_at": "2026-02-05T08:38:49Z"
   },
   "astrbot_plugin_xyzw_box": {
     "author": "cloudcranesss",
@@ -8867,9 +8867,9 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 137,
+    "stars": 138,
     "version": "v2.0.6",
-    "updated_at": "2026-02-05T06:12:11Z",
+    "updated_at": "2026-02-05T08:22:22Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -10539,9 +10539,9 @@
       "功能",
       "搬史"
     ],
-    "stars": 501,
+    "stars": 502,
     "version": "v0.915",
-    "updated_at": "2026-02-05T07:26:41Z"
+    "updated_at": "2026-02-05T08:16:14Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
