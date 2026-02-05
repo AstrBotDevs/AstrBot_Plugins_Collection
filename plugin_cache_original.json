@@ -57,8 +57,8 @@
     ],
     "social_link": "https://tianlang-hacker.github.io/",
     "stars": 0,
-    "version": "v0.0.2",
-    "updated_at": "2026-02-05T09:36:33Z"
+    "version": "v0.0.3",
+    "updated_at": "2026-02-05T13:27:13Z"
   },
   "diyrule": {
     "display_name": "自定义群聊的唤醒规则",
@@ -357,7 +357,7 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "stars": 6,
-    "version": "v2.8.0",
+    "version": "v2.8.2",
     "updated_at": "2026-02-04T11:12:40Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
@@ -794,8 +794,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 151,
-    "version": "v4.6.7",
-    "updated_at": "2026-02-05T01:45:03Z",
+    "version": "v4.6.9",
+    "updated_at": "2026-02-05T14:06:32Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -2075,9 +2075,9 @@
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_custom_menu",
     "tags": [],
-    "stars": 14,
+    "stars": 15,
     "version": "1.9.1",
-    "updated_at": "2026-01-29T16:54:49Z",
+    "updated_at": "2026-02-05T13:37:06Z",
     "logo": "https://raw.githubusercontent.com/shskjw/astrbot_plugin_custom_menu/master/logo.png"
   },
   "astrbot_plugin_webnovel_info": {
@@ -4325,9 +4325,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 73,
+    "stars": 74,
     "version": "v1.1.4",
-    "updated_at": "2026-02-04T13:35:33Z",
+    "updated_at": "2026-02-05T13:45:59Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -5153,9 +5153,9 @@
       "game",
       "fishing"
     ],
-    "stars": 31,
+    "stars": 32,
     "version": "2.4.7",
-    "updated_at": "2026-02-04T14:51:43Z",
+    "updated_at": "2026-02-05T13:25:00Z",
     "logo": "https://raw.githubusercontent.com/xxlemon-io/astrbot_plugin_fishing/main/logo.png"
   },
   "astrbot_plugin_astrmetry": {
@@ -6469,7 +6469,7 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 55,
-    "version": "v3.0.0",
+    "version": "v3.0.1",
     "updated_at": "2026-02-05T13:02:19Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
@@ -8231,9 +8231,9 @@
       "RAG",
       "知识库"
     ],
-    "stars": 78,
+    "stars": 79,
     "version": "v0.5.9",
-    "updated_at": "2026-01-28T06:47:09Z"
+    "updated_at": "2026-02-05T13:42:05Z"
   },
   "astrbot_uptime_kuma_webhook_plugin": {
     "author": "RC-CHN",
