@@ -11,7 +11,7 @@
     "social_link": "https://github.com/advent259141",
     "stars": 11,
     "version": "1.7.0",
-    "updated_at": "2026-02-05T15:18:42Z"
+    "updated_at": "2026-02-05T15:55:05Z"
   },
   "astrbot_plugin_elves_world": {
     "display_name": "精灵世界",
@@ -282,8 +282,8 @@
     ],
     "social_link": "https://meilunova.pages.dev/",
     "stars": 3,
-    "version": "0.2.1",
-    "updated_at": "2026-02-05T11:12:52Z",
+    "version": "0.3.0",
+    "updated_at": "2026-02-05T15:43:32Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -328,8 +328,8 @@
     ],
     "social_link": "https://cinder.wyccotccy.cn/",
     "stars": 1,
-    "version": "2.1.1",
-    "updated_at": "2026-02-02T06:43:37Z"
+    "version": "3.0.2",
+    "updated_at": "2026-02-05T16:13:34Z"
   },
   "astrbot_plugin_vibe": {
     "display_name": "vibe",
@@ -519,7 +519,7 @@
     ],
     "stars": 2,
     "version": "v0.3.9",
-    "updated_at": "2026-01-31T14:16:17Z"
+    "updated_at": "2026-02-05T16:27:01Z"
   },
   "astrbot_plugin_trpgdice_rerolled": {
     "display_name": "星星骰娘-重骰版！",
@@ -700,9 +700,9 @@
       "推送"
     ],
     "social_link": "https://github.com/siciyuanweilai",
-    "stars": 8,
+    "stars": 9,
     "version": "4.2.0",
-    "updated_at": "2026-02-05T07:03:05Z",
+    "updated_at": "2026-02-05T15:52:23Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -3158,9 +3158,9 @@
       "修图"
     ],
     "social_link": "https://github.com/piexian",
-    "stars": 21,
+    "stars": 22,
     "version": "v1.9.2",
-    "updated_at": "2026-02-05T15:10:15Z",
+    "updated_at": "2026-02-05T16:49:03Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
