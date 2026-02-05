@@ -72,8 +72,8 @@
       "功能"
     ],
     "stars": 0,
-    "version": "v3.0",
-    "updated_at": "2026-02-05T11:28:39Z",
+    "version": "v3.2",
+    "updated_at": "2026-02-05T12:50:04Z",
     "logo": "https://raw.githubusercontent.com/landamao/diyrule/main/logo.png"
   },
   "astrbot_plugin_hlymcn_signin": {
@@ -172,8 +172,8 @@
     ],
     "social_link": "https://github.com/FenChen0211",
     "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-02-01T17:01:39Z"
+    "version": "v1.0.1",
+    "updated_at": "2026-02-05T12:41:45Z"
   },
   "astrbot_plugin_html_render": {
     "display_name": "HTML 渲染插件",
@@ -2036,9 +2036,9 @@
       "小游戏"
     ],
     "social_link": "https://github.com/MegSopern",
-    "stars": 16,
+    "stars": 17,
     "version": "1.2.0",
-    "updated_at": "2026-01-16T05:32:01Z",
+    "updated_at": "2026-02-05T13:08:11Z",
     "logo": "https://raw.githubusercontent.com/MegSopern/astrbot_plugin_rollpig/main/logo.png"
   },
   "astrbot_plugin_big_banana": {
@@ -2489,9 +2489,9 @@
       "图片"
     ],
     "social_link": "https://github.com/Xbodwf",
-    "stars": 2,
+    "stars": 3,
     "version": "1.29.0",
-    "updated_at": "2026-01-24T02:40:52Z"
+    "updated_at": "2026-02-05T12:17:47Z"
   },
   "astrbot_plugin_QQbox": {
     "display_name": "QQbox",
@@ -2604,9 +2604,9 @@
       "playwright"
     ],
     "social_link": "https://github.com/Xbodwf",
-    "stars": 2,
+    "stars": 3,
     "version": "1.5.0",
-    "updated_at": "2026-01-02T07:51:28Z",
+    "updated_at": "2026-02-05T12:18:51Z",
     "logo": "https://raw.githubusercontent.com/Xbodwf/astrbot_plugin_code_renderer/master/logo.png"
   },
   "astrbot_plugin_life_scheduler": {
@@ -6305,9 +6305,9 @@
     "tags": [
       "运势"
     ],
-    "stars": 13,
+    "stars": 14,
     "version": "v1.0.3",
-    "updated_at": "2026-01-19T01:21:21Z"
+    "updated_at": "2026-02-05T12:21:53Z"
   },
   "astrbot_plugin_wakepro": {
     "display_name": "唤醒增强",
@@ -6468,9 +6468,9 @@
       "表白墙"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 54,
+    "stars": 55,
     "version": "v3.0.0",
-    "updated_at": "2026-02-05T09:14:17Z",
+    "updated_at": "2026-02-05T13:02:19Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -8045,9 +8045,9 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 97,
+    "stars": 98,
     "version": "v2.0.7",
-    "updated_at": "2026-02-05T10:39:54Z",
+    "updated_at": "2026-02-05T12:57:07Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -9042,9 +9042,9 @@
       "pixiv"
     ],
     "social_link": "https://github.com/vmoranv-reborn",
-    "stars": 7,
+    "stars": 8,
     "version": "1.5.0",
-    "updated_at": "2026-02-02T14:33:00Z",
+    "updated_at": "2026-02-05T12:22:06Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
