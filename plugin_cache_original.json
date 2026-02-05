@@ -9,9 +9,9 @@
       "自动水贴"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 9,
+    "stars": 11,
     "version": "1.7.0",
-    "updated_at": "2026-02-05T11:33:27Z"
+    "updated_at": "2026-02-05T15:18:42Z"
   },
   "astrbot_plugin_elves_world": {
     "display_name": "精灵世界",
@@ -358,7 +358,7 @@
     "social_link": "https://github.com/Heximiao",
     "stars": 6,
     "version": "v2.8.2",
-    "updated_at": "2026-02-04T11:12:40Z",
+    "updated_at": "2026-02-05T14:51:27Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
@@ -795,7 +795,7 @@
     "social_link": "https://github.com/SXP-Simon",
     "stars": 151,
     "version": "v4.6.9",
-    "updated_at": "2026-02-05T14:06:32Z",
+    "updated_at": "2026-02-05T15:29:05Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -1388,9 +1388,9 @@
       "游戏"
     ],
     "social_link": "https://github.com/siciyuanweilai",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-01-31T10:20:44Z",
+    "updated_at": "2026-02-05T14:48:36Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_80lv/main/logo.png"
   },
   "astrbot_zssm_explain": {
@@ -3159,8 +3159,8 @@
     ],
     "social_link": "https://github.com/piexian",
     "stars": 21,
-    "version": "v1.9.1",
-    "updated_at": "2026-02-05T05:03:06Z",
+    "version": "v1.9.2",
+    "updated_at": "2026-02-05T15:10:15Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -6470,7 +6470,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 55,
     "version": "v3.0.1",
-    "updated_at": "2026-02-05T13:02:19Z",
+    "updated_at": "2026-02-05T15:14:46Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -6849,7 +6849,7 @@
     ],
     "stars": 6,
     "version": "v1.4.0",
-    "updated_at": "2026-02-01T12:51:19Z",
+    "updated_at": "2026-02-05T15:25:27Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
