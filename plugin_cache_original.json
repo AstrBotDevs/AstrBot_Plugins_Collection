@@ -24,9 +24,9 @@
       "对战"
     ],
     "social_link": "https://github.com/DITF16",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.2",
-    "updated_at": "2026-02-05T05:50:36Z",
+    "updated_at": "2026-02-06T02:06:50Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_elves_world/master/logo.png"
   },
   "astrbot_plugin_simple_injections": {
@@ -477,9 +477,9 @@
       "自动签到"
     ],
     "social_link": "https://github.com/Azincc/",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.1.0",
-    "updated_at": "2026-02-05T04:32:32Z"
+    "updated_at": "2026-02-06T01:27:45Z"
   },
   "astrbot_plugin_tomin": {
     "display_name": "Tomin - 少女乐队游戏",
@@ -1010,9 +1010,9 @@
       "记忆",
       "拟人"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "1.2.5",
-    "updated_at": "2026-01-28T14:33:18Z"
+    "updated_at": "2026-02-05T23:46:51Z"
   },
   "astrbot_plugin_mc_manager": {
     "display_name": "astrbot_plugin_mc_manager",
@@ -5762,9 +5762,9 @@
       "消息"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.0.5",
-    "updated_at": "2026-01-09T02:50:39Z",
+    "updated_at": "2026-02-06T02:12:31Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_multimsg/main/logo.png"
   },
   "astrbot_plugin_keywordsreply": {
@@ -7804,9 +7804,9 @@
       "魔方"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0.2",
-    "updated_at": "2026-01-25T05:52:39Z",
+    "updated_at": "2026-02-06T02:10:17Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_cube/main/logo.png"
   },
   "astrbot_plugin_constellation": {
