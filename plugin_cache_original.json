@@ -456,8 +456,8 @@
       "视奸"
     ],
     "stars": 2,
-    "version": "v1.2.1",
-    "updated_at": "2026-02-06T19:23:48Z"
+    "version": "v1.1.0",
+    "updated_at": "2026-02-06T20:01:25Z"
   },
   "astrbot_plugin_minecraft_monitor": {
     "display_name": "MC 服务器监控（适配基岩版与 Java 版）",
