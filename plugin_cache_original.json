@@ -101,8 +101,8 @@
     ],
     "social_link": "https://github.com/FenChen0211",
     "stars": 2,
-    "version": "v1.2.1",
-    "updated_at": "2026-02-01T14:51:32Z"
+    "version": "v1.2.2",
+    "updated_at": "2026-02-06T10:40:33Z"
   },
   "astrbot_plugin_qqrecord": {
     "display_name": "Meeting Recorder",
@@ -387,7 +387,7 @@
     "social_link": "https://github.com/cryfly666",
     "stars": 0,
     "version": "v2.0",
-    "updated_at": "2026-01-29T13:48:32Z"
+    "updated_at": "2026-02-06T10:19:04Z"
   },
   "astrbot_plugin_image_url_base64_to_mcp": {
     "display_name": "图片_url_base64_传递至_mcp",
@@ -400,8 +400,8 @@
       "图片"
     ],
     "stars": 0,
-    "version": "v1.1.4",
-    "updated_at": "2026-02-01T08:09:46Z"
+    "version": "v1.1.5",
+    "updated_at": "2026-02-06T10:22:33Z"
   },
   "astrbot_plugin_at_ignore": {
     "display_name": "忽略@消息",
@@ -464,7 +464,7 @@
     ],
     "stars": 1,
     "version": "v0.1.4",
-    "updated_at": "2026-02-01T07:40:04Z"
+    "updated_at": "2026-02-06T09:45:25Z"
   },
   "astrbot_plugin_skland": {
     "display_name": "森空岛签到",
@@ -2684,9 +2684,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "pinned": true,
-    "stars": 30,
+    "stars": 31,
     "version": "v1.3.9",
-    "updated_at": "2026-02-05T08:28:03Z",
+    "updated_at": "2026-02-06T10:09:22Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -6848,8 +6848,8 @@
       "主动回复"
     ],
     "stars": 6,
-    "version": "v1.4.0",
-    "updated_at": "2026-02-06T09:52:29Z",
+    "version": "v1.5.0",
+    "updated_at": "2026-02-06T10:39:01Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
