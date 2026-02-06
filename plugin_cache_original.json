@@ -372,7 +372,7 @@
     ],
     "stars": 2,
     "version": "v1.1.0",
-    "updated_at": "2026-02-04T07:30:46Z"
+    "updated_at": "2026-02-06T07:31:11Z"
   },
   "astrbot_plugin_minecraft_monitor": {
     "display_name": "MC 服务器监控（适配基岩版与 Java 版）",
@@ -432,8 +432,8 @@
     "repo": "https://github.com/mjy1113451/astrbot_plugin_friends_welcome",
     "tags": [],
     "stars": 4,
-    "version": "v1.3.0",
-    "updated_at": "2026-02-06T05:59:44Z"
+    "version": "v1.3.1",
+    "updated_at": "2026-02-06T07:14:12Z"
   },
   "astrbot_plugin_HowMuchIsYourFace": {
     "display_name": "头像值多少",
@@ -1414,9 +1414,9 @@
     ],
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
-    "stars": 88,
+    "stars": 89,
     "version": "Next-1.1.7",
-    "updated_at": "2026-02-06T03:37:44Z",
+    "updated_at": "2026-02-06T07:45:26Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -3086,8 +3086,8 @@
     ],
     "social_link": "https://box.firefly520.top/",
     "stars": 18,
-    "version": "1.4.7",
-    "updated_at": "2026-02-06T06:20:48Z",
+    "version": "1.4.8",
+    "updated_at": "2026-02-06T07:13:53Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/master/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -4049,9 +4049,9 @@
       "主动回复"
     ],
     "social_link": "https://github.com/Him666233",
-    "stars": 32,
+    "stars": 33,
     "version": "v1.1.2",
-    "updated_at": "2026-01-28T07:12:33Z",
+    "updated_at": "2026-02-06T07:45:22Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -5577,8 +5577,8 @@
       "撤回"
     ],
     "stars": 5,
-    "version": "v1.1.5",
-    "updated_at": "2026-02-01T12:39:41Z",
+    "version": "v1.1.6",
+    "updated_at": "2026-02-06T07:18:51Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_anti_revoke/master/logo.png"
   },
   "input_state_by_napcat": {
@@ -5704,9 +5704,9 @@
       "memory",
       "rag"
     ],
-    "stars": 58,
+    "stars": 59,
     "version": "2.1.2",
-    "updated_at": "2026-02-05T17:26:47Z",
+    "updated_at": "2026-02-06T07:47:10Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
