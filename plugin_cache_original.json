@@ -299,9 +299,9 @@
       "娱乐"
     ],
     "social_link": "https://www.cnmsb.xin",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.7.0",
-    "updated_at": "2026-01-31T12:31:06Z",
+    "updated_at": "2026-02-06T06:38:06Z",
     "logo": "https://raw.githubusercontent.com/NyaNyagulugulu/astrbot_NekoMusic/main/logo.png"
   },
   "astrbot_plugin_mooncell_finder": {
@@ -432,8 +432,8 @@
     "repo": "https://github.com/mjy1113451/astrbot_plugin_friends_welcome",
     "tags": [],
     "stars": 4,
-    "version": "v1.2.9",
-    "updated_at": "2026-02-05T09:10:22Z"
+    "version": "v1.3.0",
+    "updated_at": "2026-02-06T05:59:44Z"
   },
   "astrbot_plugin_HowMuchIsYourFace": {
     "display_name": "头像值多少",
@@ -648,8 +648,8 @@
     ],
     "social_link": "https://github.com/anneviliu",
     "stars": 0,
-    "version": "0.2.0",
-    "updated_at": "2026-01-26T10:54:26Z"
+    "version": "0.3.0",
+    "updated_at": "2026-02-06T06:22:32Z"
   },
   "astrbot_plugin_worldbook": {
     "display_name": "世界书插件",
@@ -3087,7 +3087,7 @@
     "social_link": "https://box.firefly520.top/",
     "stars": 18,
     "version": "1.4.7",
-    "updated_at": "2026-02-03T07:13:41Z",
+    "updated_at": "2026-02-06T06:20:48Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/master/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -6849,7 +6849,7 @@
     ],
     "stars": 6,
     "version": "v1.4.0",
-    "updated_at": "2026-02-06T05:08:02Z",
+    "updated_at": "2026-02-06T06:17:53Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
