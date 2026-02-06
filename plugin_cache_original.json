@@ -24,9 +24,9 @@
       "对战"
     ],
     "social_link": "https://github.com/DITF16",
-    "stars": 4,
+    "stars": 6,
     "version": "v1.0.2",
-    "updated_at": "2026-02-06T02:06:50Z",
+    "updated_at": "2026-02-06T08:51:01Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_elves_world/master/logo.png"
   },
   "astrbot_plugin_simple_injections": {
@@ -6849,7 +6849,7 @@
     ],
     "stars": 6,
     "version": "v1.4.0",
-    "updated_at": "2026-02-06T06:17:53Z",
+    "updated_at": "2026-02-06T09:52:29Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
