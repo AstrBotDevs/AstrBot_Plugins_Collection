@@ -367,8 +367,8 @@
     ],
     "social_link": "https://meilunova.pages.dev/",
     "stars": 3,
-    "version": "0.3.0",
-    "updated_at": "2026-02-05T15:43:32Z",
+    "version": "0.4.0",
+    "updated_at": "2026-02-06T17:27:27Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -3562,7 +3562,7 @@
     "social_link": "https://github.com/HSOS6",
     "stars": 2,
     "version": "2.0.25.12.WNMCNXM",
-    "updated_at": "2026-02-01T07:55:34Z",
+    "updated_at": "2026-02-06T17:43:57Z",
     "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_mcsmanager/main/logo.png"
   },
   "astrbot_plugin_minecraft_adapter": {
