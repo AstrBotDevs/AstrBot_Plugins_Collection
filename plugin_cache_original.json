@@ -5126,8 +5126,8 @@
       "合并消息分析与回复"
     ],
     "stars": 5,
-    "version": "1.1.1",
-    "updated_at": "2025-10-30T20:48:11Z"
+    "version": "1.2.2",
+    "updated_at": "2026-02-06T18:04:42Z"
   },
   "zhiyu-astrbot-qqquery": {
     "desc": "一款查询QQ空间 QQ音乐 QQ基本信息的AstrBot插件",
@@ -7743,8 +7743,8 @@
     ],
     "repo": "https://github.com/itismygo/astrbot_plugin_mathjax2image",
     "stars": 3,
-    "version": "v3.0.0",
-    "updated_at": "2026-02-05T08:38:49Z"
+    "version": "v3.1.0",
+    "updated_at": "2026-02-06T18:53:13Z"
   },
   "astrbot_plugin_xyzw_box": {
     "author": "cloudcranesss",
