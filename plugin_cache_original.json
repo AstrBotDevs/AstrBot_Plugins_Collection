@@ -9,9 +9,9 @@
       "自动水贴"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 11,
-    "version": "1.7.0",
-    "updated_at": "2026-02-05T15:55:05Z"
+    "stars": 12,
+    "version": "1.8.0",
+    "updated_at": "2026-02-06T04:46:34Z"
   },
   "astrbot_plugin_elves_world": {
     "display_name": "精灵世界",
@@ -519,7 +519,7 @@
     ],
     "stars": 2,
     "version": "v0.3.9",
-    "updated_at": "2026-02-05T17:30:25Z"
+    "updated_at": "2026-02-06T04:31:41Z"
   },
   "astrbot_plugin_trpgdice_rerolled": {
     "display_name": "星星骰娘-重骰版！",
@@ -793,9 +793,9 @@
       "群聊圣经"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 151,
+    "stars": 152,
     "version": "v4.6.9",
-    "updated_at": "2026-02-05T15:29:05Z",
+    "updated_at": "2026-02-06T04:11:27Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -1038,7 +1038,7 @@
     ],
     "stars": 1,
     "version": "2.1.1",
-    "updated_at": "2026-02-02T07:35:43Z",
+    "updated_at": "2026-02-06T03:32:41Z",
     "logo": "https://raw.githubusercontent.com/danfong1104/astrbot_plugin_chatmaster/main/logo.png"
   },
   "astrbot_plugin_cheer_mate": {
@@ -1414,9 +1414,9 @@
     ],
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
-    "stars": 87,
+    "stars": 88,
     "version": "Next-1.1.7",
-    "updated_at": "2026-02-04T07:30:30Z",
+    "updated_at": "2026-02-06T03:37:44Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -2632,8 +2632,8 @@
       "表情"
     ],
     "stars": 16,
-    "version": "2.2.0",
-    "updated_at": "2026-02-04T02:24:16Z",
+    "version": "2.2.1",
+    "updated_at": "2026-02-06T02:49:09Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -4502,9 +4502,9 @@
     "tags": [
       "实用"
     ],
-    "stars": 13,
+    "stars": 14,
     "version": "v2.8.6",
-    "updated_at": "2026-01-08T05:54:40Z",
+    "updated_at": "2026-02-06T03:37:59Z",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
   "astrbot_plugin_acm_helper": {
@@ -9731,9 +9731,9 @@
       "工具",
       "安全"
     ],
-    "stars": 13,
+    "stars": 14,
     "version": "v2.8.6",
-    "updated_at": "2026-01-08T05:54:40Z",
+    "updated_at": "2026-02-06T03:37:59Z",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
   "astrbot_plugin_quote_collocter": {
@@ -11159,9 +11159,9 @@
     "author": "长安某",
     "repo": "https://github.com/zgojin/astrbot_plugin_AW",
     "tags": [],
-    "stars": 14,
+    "stars": 15,
     "version": "v1.5.3",
-    "updated_at": "2026-01-08T09:10:18Z"
+    "updated_at": "2026-02-06T03:25:31Z"
   },
   "astrbot_plugin_mnemosyne": {
     "desc": "一个长期记忆插件，基于milvus数据库实现，详情请见README.md",
