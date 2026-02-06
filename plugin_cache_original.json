@@ -10,8 +10,8 @@
     ],
     "social_link": "https://github.com/advent259141",
     "stars": 12,
-    "version": "1.8.0",
-    "updated_at": "2026-02-06T04:46:34Z"
+    "version": "1.9.0",
+    "updated_at": "2026-02-06T04:51:26Z"
   },
   "astrbot_plugin_elves_world": {
     "display_name": "精灵世界",
@@ -182,8 +182,8 @@
     "repo": "https://github.com/lumingya/astrbot_plugin_html_render",
     "tags": [],
     "stars": 0,
-    "version": "1.0.2",
-    "updated_at": "2026-02-04T03:50:35Z"
+    "version": "1.1.0",
+    "updated_at": "2026-02-06T04:49:18Z"
   },
   "astrbot_plugin_opencode": {
     "display_name": "OpenCode Bridge",
@@ -6849,7 +6849,7 @@
     ],
     "stars": 6,
     "version": "v1.4.0",
-    "updated_at": "2026-02-05T15:25:27Z",
+    "updated_at": "2026-02-06T05:08:02Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
