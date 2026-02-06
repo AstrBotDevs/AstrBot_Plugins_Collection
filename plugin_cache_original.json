@@ -401,7 +401,7 @@
     ],
     "stars": 0,
     "version": "v1.1.5",
-    "updated_at": "2026-02-06T11:26:14Z"
+    "updated_at": "2026-02-06T11:49:20Z"
   },
   "astrbot_plugin_at_ignore": {
     "display_name": "忽略@消息",
@@ -432,8 +432,8 @@
     "repo": "https://github.com/mjy1113451/astrbot_plugin_friends_welcome",
     "tags": [],
     "stars": 4,
-    "version": "v1.3.2",
-    "updated_at": "2026-02-06T08:15:18Z"
+    "version": "v1.3.3",
+    "updated_at": "2026-02-06T12:09:13Z"
   },
   "astrbot_plugin_HowMuchIsYourFace": {
     "display_name": "头像值多少",
@@ -865,7 +865,7 @@
     "social_link": "https://mc.mimeng.top",
     "stars": 4,
     "version": "0.4.0",
-    "updated_at": "2026-01-27T03:57:21Z"
+    "updated_at": "2026-02-06T11:47:33Z"
   },
   "astrbot_plugin_link_resolver": {
     "display_name": "解析B站/抖音/小红书的卡片消息/链接",
@@ -1140,9 +1140,9 @@
       "生成"
     ],
     "social_link": "https://github.com/qa296/",
-    "stars": 5,
-    "version": "1.1.0",
-    "updated_at": "2026-02-05T02:13:14Z",
+    "stars": 6,
+    "version": "1.1.1",
+    "updated_at": "2026-02-06T12:53:41Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_music_pro": {
@@ -1497,7 +1497,7 @@
     "social_link": "https://github.com/Clhikari",
     "stars": 2,
     "version": "v1.2.1",
-    "updated_at": "2026-02-04T06:34:24Z",
+    "updated_at": "2026-02-06T12:32:40Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -3703,9 +3703,9 @@
       "好感度",
       "情感"
     ],
-    "stars": 8,
+    "stars": 9,
     "version": "v3.4",
-    "updated_at": "2026-01-18T08:18:52Z",
+    "updated_at": "2026-02-06T11:44:51Z",
     "logo": "https://raw.githubusercontent.com/tengtian3/astrbot-plugin-emotionai/main/logo.png"
   },
   "astrbot_plugin_email_narrator": {
@@ -6372,8 +6372,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 25,
-    "version": "v2.1.5",
-    "updated_at": "2026-02-03T10:03:27Z",
+    "version": "v2.1.6",
+    "updated_at": "2026-02-06T13:05:40Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -9472,9 +9472,9 @@
       "计算机",
       "保研"
     ],
-    "stars": 4,
+    "stars": 5,
     "version": "1.0.0",
-    "updated_at": "2026-01-29T11:47:17Z"
+    "updated_at": "2026-02-06T13:02:52Z"
   },
   "astrbot_plugin_composting_bucket": {
     "desc": "一个用于降低 DeepSeek API 调用费用的 AstrBot 插件",
