@@ -663,8 +663,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 12,
-    "version": "2.2.1",
-    "updated_at": "2026-02-04T05:39:21Z",
+    "version": "2.2.2",
+    "updated_at": "2026-02-06T13:50:02Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_worldbook/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -1414,9 +1414,9 @@
     ],
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
-    "stars": 89,
+    "stars": 90,
     "version": "Next-1.1.7",
-    "updated_at": "2026-02-06T07:45:26Z",
+    "updated_at": "2026-02-06T13:45:53Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
