@@ -10,6 +10,66 @@
     ],
     "social_link": "https://github.com/advent259141"
   },
+  "astrbot_plugin_steam_updates": {
+    "display_name": "Steam 游戏更新推送插件",
+    "desc": "使用 Steam News API 轮询游戏更新并推送（支持多 AppID / 卡片或文本）",
+    "author": "DearCrazyLeaf",
+    "repo": "https://github.com/DearCrazyLeaf/astrbot_plugin_steam_updates",
+    "tags": [
+      "steam"
+    ]
+  },
+  "astrbot_plugin_codemage": {
+    "display_name": "CodeMage",
+    "desc": "还在手写 AstrBot 插件？描述你想要的功能，看着 AI 把它变成可运行的代码——不需要编程经验，不需要翻阅文档，只需要一句话。CodeMage 正在改变机器人扩展的开发方式，而你绝对想不到它还能做到什么。",
+    "author": "qa296",
+    "repo": "https://github.com/qa296/astrbot_plugin_codemage",
+    "tags": ["ai", "agent", "codegen"]
+  },
+  "astrbot_plugin_XYTUFunction": {
+    "display_name": "XYTUFunction | XYTU 功能集",
+    "desc": "AstrBot 基础功能插件？ 一个就够了！",
+    "author": "Tangzixy, Slime, SLserver, XYTUworkshop",
+    "repo": "https://github.com/XYTUworkshop/astrbot_plugin_XYTUFunction",
+    "tags": [
+      "功能",
+      "状态查询"
+    ],
+    "social_link": "https://www.xytuws.cn"
+  },
+  "astrbot_plugin_lzpersona": {
+    "display_name": "快捷人格生成",
+    "desc": "AI 驱动的人格生成、优化、画像工具。通过简单描述生成人格，智能优化提示词，与 AstrBot 原生 Persona 系统无缝集成。",
+    "author": "SJ",
+    "repo": "https://github.com/idiotsj/astrbot_plugin_lzpersona/tree/main",
+    "tags": [
+      "画像",
+      "效率",
+      "人格",
+      "提示词"
+    ],
+    "social_link": "https://github.com/idiotsj"
+  },
+  "astrbot_plugin_clawdbot_bridge": {
+    "display_name": "astrbot_plugin_clawdbot_bridge",
+    "desc": "AstrBot 与 OpenClaw 的桥接插件，允许管理员通过 QQ 消息直接与 OpenClaw AI Agent 交互，执行系统管理、文档生成等任务。",
+    "author": "4869-yinxu",
+    "repo": "https://github.com/4869-yinxu/astrbot_plugin_clawdbot_bridge",
+    "tags": [
+      "openclaw",
+      "qq"
+    ],
+    "social_link": "https://github.com/4869-yinxu"
+  },
+  "astrbot_plugin_xinsanguo_voice": {
+    "display_name": "新三国语音梗插件",
+    "desc": "一个 AstrBot 插件，用于识别群聊中的新三国经典台词关键词，自动发送对应的语音片段。",
+    "author": "落日七号、复读机长",
+    "repo": "https://github.com/luori7hao/astrbot_plugin_xinsanguo_voice",
+    "tags": [
+      "娱乐"
+    ]
+  },
   "astrbot_plugin_elves_world": {
     "display_name": "精灵世界",
     "desc": "精灵对战游戏 - 探索、收集、战斗！",
@@ -826,18 +886,6 @@
     "desc": "泡泡画图：基于 NovelAI 官方 API 的绘图插件，具有强大的文生图/图生图、氛围转移、角色保持、AI 辅助生图、自动画图、队列与额度管理能力。",
     "author": "LgCookie&etgpao&feiu",
     "repo": "https://github.com/dafeiwu666/astrbot_plugin_ppnai"
-  },
-  "astrbot_plugin_codemage": {
-    "display_name": "插件生成器",
-    "desc": "一个基于AI的 AstrBot 插件生成器，可以根据自然语言描述自动生成完整的 AstrBot 插件。",
-    "author": "qa296",
-    "repo": "https://github.com/qa296/astrbot_plugin_codemage",
-    "tags": [
-      "插件",
-      "ai",
-      "生成"
-    ],
-    "social_link": "https://github.com/qa296/"
   },
   "astrbot_plugin_music_pro": {
     "display_name": "高级点歌",
