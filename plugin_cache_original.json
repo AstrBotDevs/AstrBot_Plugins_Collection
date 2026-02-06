@@ -357,8 +357,8 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "stars": 6,
-    "version": "v2.8.5",
-    "updated_at": "2026-02-05T17:00:10Z",
+    "version": "v2.8.6",
+    "updated_at": "2026-02-06T08:03:49Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
@@ -432,8 +432,8 @@
     "repo": "https://github.com/mjy1113451/astrbot_plugin_friends_welcome",
     "tags": [],
     "stars": 4,
-    "version": "v1.3.1",
-    "updated_at": "2026-02-06T07:14:12Z"
+    "version": "v1.3.2",
+    "updated_at": "2026-02-06T08:15:18Z"
   },
   "astrbot_plugin_HowMuchIsYourFace": {
     "display_name": "头像值多少",
@@ -7957,7 +7957,7 @@
     "social_link": "https://github.com/Maoer233",
     "stars": 53,
     "version": "2.2.0",
-    "updated_at": "2026-02-03T07:58:44Z",
+    "updated_at": "2026-02-06T07:40:56Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
