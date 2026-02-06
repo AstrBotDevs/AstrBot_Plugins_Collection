@@ -73,7 +73,7 @@
     ],
     "stars": 0,
     "version": "v3.2",
-    "updated_at": "2026-02-05T12:50:04Z",
+    "updated_at": "2026-02-06T11:28:23Z",
     "logo": "https://raw.githubusercontent.com/landamao/diyrule/main/logo.png"
   },
   "astrbot_plugin_hlymcn_signin": {
@@ -100,9 +100,9 @@
       "图像编辑"
     ],
     "social_link": "https://github.com/FenChen0211",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.2.2",
-    "updated_at": "2026-02-06T10:40:33Z"
+    "updated_at": "2026-02-06T11:03:13Z"
   },
   "astrbot_plugin_qqrecord": {
     "display_name": "Meeting Recorder",
@@ -401,7 +401,7 @@
     ],
     "stars": 0,
     "version": "v1.1.5",
-    "updated_at": "2026-02-06T10:22:33Z"
+    "updated_at": "2026-02-06T11:26:14Z"
   },
   "astrbot_plugin_at_ignore": {
     "display_name": "忽略@消息",
@@ -1102,7 +1102,7 @@
     ],
     "stars": 2,
     "version": "v1.0.1",
-    "updated_at": "2026-02-02T15:26:38Z",
+    "updated_at": "2026-02-06T11:11:22Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_keywords_reply/master/logo.png"
   },
   "astrbot_plugin_text2img": {
@@ -5352,9 +5352,9 @@
     "tags": [
       "galgame"
     ],
-    "stars": 6,
+    "stars": 7,
     "version": "v1.3",
-    "updated_at": "2026-01-16T10:47:49Z"
+    "updated_at": "2026-02-06T11:27:28Z"
   },
   "astrbot_plugins_steam_shop_price": {
     "desc": "用于查询 Steam 游戏的国区价格、史低信息，并支持与其他区服价格对比。支持识别游戏中文名。",
