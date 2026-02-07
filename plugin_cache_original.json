@@ -13,6 +13,16 @@
     "version": "1.9.0",
     "updated_at": "2026-02-06T04:51:26Z"
   },
+  "astrbot_plugin_live2d_pet": {
+    "display_name": "live2d_pet",
+    "desc": "聊天信息投射到桌宠，以及与桌宠交互。",
+    "author": "coolwind886",
+    "repo": "https://github.com/coolwind886-spec/astrbot_plugin_live2d_pet/",
+    "tags": [],
+    "stars": 0,
+    "version": "v4.3.0",
+    "updated_at": "2026-01-27T07:25:31Z"
+  },
   "astrbot_plugin_steam_updates": {
     "display_name": "Steam 游戏更新推送插件",
     "desc": "使用 Steam News API 轮询游戏更新并推送（支持多 AppID / 卡片或文本）",
@@ -85,6 +95,23 @@
     "stars": 0,
     "version": "1.1.0",
     "updated_at": "2026-02-05T05:01:27Z"
+  },
+  "astrbot_plugin_riddlegame": {
+    "display_name": "qq群棋类游戏",
+    "desc": "qq群生图棋类游戏",
+    "author": "Riddle",
+    "repo": "https://github.com/R1ddle1337/astrbot_plugin_riddlegame",
+    "tags": [
+      "游戏",
+      "文生图",
+      "围棋",
+      "象棋",
+      "井字棋"
+    ],
+    "social_link": "https://github.com/R1ddle1337",
+    "stars": 1,
+    "version": "v1.0.0",
+    "updated_at": "2026-02-05T12:41:05Z"
   },
   "astrbot_plugin_xinsanguo_voice": {
     "display_name": "新三国语音梗插件",
@@ -1483,9 +1510,9 @@
     ],
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
-    "stars": 92,
+    "stars": 93,
     "version": "Next-1.1.7",
-    "updated_at": "2026-02-07T03:41:57Z",
+    "updated_at": "2026-02-07T07:05:38Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -2753,9 +2780,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "pinned": true,
-    "stars": 31,
+    "stars": 32,
     "version": "v1.3.9",
-    "updated_at": "2026-02-06T10:09:22Z",
+    "updated_at": "2026-02-07T07:07:23Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -2839,8 +2866,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 31,
-    "version": "v4.0.1",
-    "updated_at": "2026-02-07T06:33:03Z",
+    "version": "v4.0.2",
+    "updated_at": "2026-02-07T07:03:47Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -9112,8 +9139,8 @@
     ],
     "social_link": "https://github.com/vmoranv-reborn",
     "stars": 8,
-    "version": "1.5.2",
-    "updated_at": "2026-02-07T03:41:36Z",
+    "version": "1.6.0",
+    "updated_at": "2026-02-07T07:14:19Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
