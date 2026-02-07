@@ -184,8 +184,8 @@
       "功能"
     ],
     "stars": 0,
-    "version": "v3.3",
-    "updated_at": "2026-02-06T15:54:30Z",
+    "version": "v3.6",
+    "updated_at": "2026-02-07T09:08:29Z",
     "logo": "https://raw.githubusercontent.com/landamao/diyrule/main/logo.png"
   },
   "astrbot_plugin_hlymcn_signin": {
@@ -10198,8 +10198,8 @@
       "实用工具"
     ],
     "stars": 30,
-    "version": "v2.2.4",
-    "updated_at": "2026-02-05T07:16:33Z",
+    "version": "v3.0.0",
+    "updated_at": "2026-02-07T09:51:56Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
