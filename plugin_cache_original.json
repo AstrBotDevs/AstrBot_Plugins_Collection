@@ -9,9 +9,9 @@
       "自动水贴"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 14,
-    "version": "2.0.0",
-    "updated_at": "2026-02-07T14:26:18Z"
+    "stars": 16,
+    "version": "2.1.0",
+    "updated_at": "2026-02-07T15:22:08Z"
   },
   "astrbot_plugin_live2d_pet": {
     "display_name": "live2d_pet",
@@ -63,7 +63,7 @@
     "social_link": "https://www.xytuws.cn",
     "stars": 1,
     "version": "v0.2.5",
-    "updated_at": "2026-02-06T11:57:53Z",
+    "updated_at": "2026-02-07T15:19:41Z",
     "logo": "https://raw.githubusercontent.com/XYTUworkshop/astrbot_plugin_XYTUFunction/master/logo.png"
   },
   "astrbot_plugin_lzpersona": {
@@ -80,7 +80,7 @@
     "social_link": "https://github.com/idiotsj",
     "stars": 3,
     "version": "v2.0.2",
-    "updated_at": "2026-02-06T15:47:25Z"
+    "updated_at": "2026-02-07T15:01:51Z"
   },
   "astrbot_plugin_clawdbot_bridge": {
     "display_name": "astrbot_plugin_clawdbot_bridge",
@@ -1510,9 +1510,9 @@
     ],
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
-    "stars": 93,
+    "stars": 94,
     "version": "Next-1.1.7",
-    "updated_at": "2026-02-07T07:05:38Z",
+    "updated_at": "2026-02-07T14:33:54Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -1749,9 +1749,9 @@
     "repo": "https://github.com/xiaomizhoubaobei/astrbot_plugin_models_ai",
     "social_link": "https://github.com/xiaomizhoubaobei",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "v0.0.6",
-    "updated_at": "2026-02-07T08:10:26Z",
+    "updated_at": "2026-02-07T15:22:16Z",
     "logo": "https://raw.githubusercontent.com/xiaomizhoubaobei/astrbot_plugin_models_ai/main/logo.png"
   },
   "astrbot_plugin_monixiuxian2": {
@@ -3321,9 +3321,9 @@
       "gal"
     ],
     "social_link": "https://github.com/bvzrays",
-    "stars": 45,
+    "stars": 46,
     "version": "v2.2.0",
-    "updated_at": "2026-02-07T13:14:45Z",
+    "updated_at": "2026-02-07T14:40:20Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -4145,9 +4145,9 @@
       "主动回复"
     ],
     "social_link": "https://github.com/Him666233",
-    "stars": 35,
+    "stars": 36,
     "version": "v1.1.2",
-    "updated_at": "2026-02-07T13:50:01Z",
+    "updated_at": "2026-02-07T14:43:29Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -5674,7 +5674,7 @@
     ],
     "stars": 5,
     "version": "v1.1.6",
-    "updated_at": "2026-02-06T07:18:51Z",
+    "updated_at": "2026-02-07T15:11:53Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_anti_revoke/master/logo.png"
   },
   "input_state_by_napcat": {
@@ -5800,9 +5800,9 @@
       "memory",
       "rag"
     ],
-    "stars": 59,
+    "stars": 60,
     "version": "2.1.2",
-    "updated_at": "2026-02-06T07:47:10Z",
+    "updated_at": "2026-02-07T14:56:39Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -6955,9 +6955,9 @@
     "tags": [
       "娱乐"
     ],
-    "stars": 3,
+    "stars": 4,
     "version": "0.0.3",
-    "updated_at": "2026-02-07T12:02:03Z",
+    "updated_at": "2026-02-07T14:42:45Z",
     "logo": "https://raw.githubusercontent.com/xiaomizhoubaobei/astrbot_plugin_treasure_bag/main/logo.png"
   },
   "LiteBridge": {
