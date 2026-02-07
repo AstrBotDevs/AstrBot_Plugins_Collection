@@ -11,7 +11,7 @@
     "social_link": "https://github.com/advent259141",
     "stars": 16,
     "version": "2.1.0",
-    "updated_at": "2026-02-07T15:22:08Z"
+    "updated_at": "2026-02-07T15:29:20Z"
   },
   "astrbot_plugin_live2d_pet": {
     "display_name": "live2d_pet",
@@ -79,8 +79,8 @@
     ],
     "social_link": "https://github.com/idiotsj",
     "stars": 3,
-    "version": "v2.0.2",
-    "updated_at": "2026-02-07T15:01:51Z"
+    "version": "v2.0.4",
+    "updated_at": "2026-02-07T16:07:21Z"
   },
   "astrbot_plugin_clawdbot_bridge": {
     "display_name": "astrbot_plugin_clawdbot_bridge",
@@ -5153,8 +5153,8 @@
       "合并消息分析与回复"
     ],
     "stars": 5,
-    "version": "2.0.1",
-    "updated_at": "2026-02-07T02:53:57Z"
+    "version": "2.0.0",
+    "updated_at": "2026-02-07T16:26:36Z"
   },
   "zhiyu-astrbot-qqquery": {
     "desc": "一款查询QQ空间 QQ音乐 QQ基本信息的AstrBot插件",
@@ -10903,9 +10903,9 @@
     "author": "Flartiny & Soulter",
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "tags": [],
-    "stars": 39,
+    "stars": 38,
     "version": "v1.5.2",
-    "updated_at": "2026-02-02T02:14:20Z",
+    "updated_at": "2026-02-07T16:13:06Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
