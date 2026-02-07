@@ -10,6 +10,12 @@
     ],
     "social_link": "https://github.com/advent259141"
   },
+  "astrbot_plugin_live2d_pet": {
+    "display_name": "live2d_pet",
+    "desc": "聊天信息投射到桌宠，以及与桌宠交互。",
+    "author": "coolwind886",
+    "repo": "https://github.com/coolwind886-spec/astrbot_plugin_live2d_pet/"
+  },
   "astrbot_plugin_steam_updates": {
     "display_name": "Steam 游戏更新推送插件",
     "desc": "使用 Steam News API 轮询游戏更新并推送（支持多 AppID / 卡片或文本）",
@@ -60,6 +66,20 @@
       "qq"
     ],
     "social_link": "https://github.com/4869-yinxu"
+  },
+  "astrbot_plugin_riddlegame": {
+    "display_name": "qq群棋类游戏",
+    "desc": "qq群生图棋类游戏",
+    "author": "Riddle",
+    "repo": "https://github.com/R1ddle1337/astrbot_plugin_riddlegame",
+    "tags": [
+      "游戏",
+      "文生图",
+      "围棋",
+      "象棋",
+      "井字棋"
+    ],
+    "social_link": "https://github.com/R1ddle1337"
   },
   "astrbot_plugin_xinsanguo_voice": {
     "display_name": "新三国语音梗插件",
