@@ -92,9 +92,9 @@
       "qq"
     ],
     "social_link": "https://github.com/4869-yinxu",
-    "stars": 0,
+    "stars": 1,
     "version": "1.1.0",
-    "updated_at": "2026-02-05T05:01:27Z"
+    "updated_at": "2026-02-07T18:45:43Z"
   },
   "astrbot_plugin_riddlegame": {
     "display_name": "qq群棋类游戏",
@@ -8964,9 +8964,9 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 138,
+    "stars": 139,
     "version": "v2.0.6",
-    "updated_at": "2026-02-05T08:22:22Z",
+    "updated_at": "2026-02-07T19:24:30Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
