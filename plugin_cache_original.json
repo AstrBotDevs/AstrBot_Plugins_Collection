@@ -9,9 +9,9 @@
       "自动水贴"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 12,
+    "stars": 14,
     "version": "2.0.0",
-    "updated_at": "2026-02-07T13:44:26Z"
+    "updated_at": "2026-02-07T14:26:18Z"
   },
   "astrbot_plugin_live2d_pet": {
     "display_name": "live2d_pet",
@@ -393,9 +393,9 @@
       "QQ群转发"
     ],
     "social_link": "https://meilunova.pages.dev/",
-    "stars": 3,
+    "stars": 4,
     "version": "0.4.0",
-    "updated_at": "2026-02-06T17:27:27Z",
+    "updated_at": "2026-02-07T14:03:10Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -544,8 +544,8 @@
     "repo": "https://github.com/mjy1113451/astrbot_plugin_friends_welcome",
     "tags": [],
     "stars": 4,
-    "version": "v1.3.3",
-    "updated_at": "2026-02-06T12:09:13Z"
+    "version": "v1.3.4",
+    "updated_at": "2026-02-07T14:02:49Z"
   },
   "astrbot_plugin_HowMuchIsYourFace": {
     "display_name": "头像值多少",
@@ -10200,7 +10200,7 @@
     ],
     "stars": 30,
     "version": "v3.0.0",
-    "updated_at": "2026-02-07T09:59:06Z",
+    "updated_at": "2026-02-07T14:03:47Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
