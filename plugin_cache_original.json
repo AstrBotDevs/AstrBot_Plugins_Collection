@@ -197,7 +197,7 @@
     "tags": [],
     "stars": 0,
     "version": "v1.1",
-    "updated_at": "2026-02-01T03:10:02Z"
+    "updated_at": "2026-02-07T02:11:44Z"
   },
   "astrbot_plugin_upfanswatcher": {
     "display_name": "astrbot_plugin_upfanswatcher",
@@ -732,9 +732,9 @@
       "飞书"
     ],
     "social_link": "https://github.com/anneviliu",
-    "stars": 0,
+    "stars": 1,
     "version": "0.3.0",
-    "updated_at": "2026-02-06T06:22:32Z"
+    "updated_at": "2026-02-07T04:13:51Z"
   },
   "astrbot_plugin_worldbook": {
     "display_name": "世界书插件",
@@ -964,8 +964,8 @@
       "抖音"
     ],
     "stars": 4,
-    "version": "v1.0.3",
-    "updated_at": "2026-02-03T14:23:37Z"
+    "version": "v1.0.4",
+    "updated_at": "2026-02-07T04:39:03Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -1483,9 +1483,9 @@
     ],
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
-    "stars": 91,
+    "stars": 92,
     "version": "Next-1.1.7",
-    "updated_at": "2026-02-06T16:15:42Z",
+    "updated_at": "2026-02-07T03:41:57Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -2976,9 +2976,9 @@
       "记忆"
     ],
     "social_link": "https://github.com/asakiyoshi",
-    "stars": 3,
+    "stars": 4,
     "version": "v4.0.0",
-    "updated_at": "2026-01-29T17:42:13Z"
+    "updated_at": "2026-02-07T04:18:22Z"
   },
   "astrbot_plugin_markdown_killer": {
     "display_name": "Markdown 杀手",
@@ -5126,8 +5126,8 @@
       "合并消息分析与回复"
     ],
     "stars": 5,
-    "version": "1.2.2",
-    "updated_at": "2026-02-06T18:04:42Z"
+    "version": "2.0.1",
+    "updated_at": "2026-02-07T02:53:57Z"
   },
   "zhiyu-astrbot-qqquery": {
     "desc": "一款查询QQ空间 QQ音乐 QQ基本信息的AstrBot插件",
@@ -6242,9 +6242,9 @@
       "SiliconFlow"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 45,
+    "stars": 46,
     "version": "2.2.2",
-    "updated_at": "2026-01-29T11:41:21Z",
+    "updated_at": "2026-02-07T04:35:19Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "findx010197/astrbot_plugin_reminder": {
@@ -9112,8 +9112,8 @@
     ],
     "social_link": "https://github.com/vmoranv-reborn",
     "stars": 8,
-    "version": "1.5.0",
-    "updated_at": "2026-02-05T12:22:06Z",
+    "version": "1.5.2",
+    "updated_at": "2026-02-07T03:41:36Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
