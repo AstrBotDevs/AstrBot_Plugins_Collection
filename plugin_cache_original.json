@@ -486,7 +486,7 @@
     ],
     "stars": 0,
     "version": "v1.1.5",
-    "updated_at": "2026-02-06T11:49:20Z"
+    "updated_at": "2026-02-07T00:55:02Z"
   },
   "astrbot_plugin_at_ignore": {
     "display_name": "忽略@消息",
@@ -562,9 +562,9 @@
       "自动签到"
     ],
     "social_link": "https://github.com/Azincc/",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.1.0",
-    "updated_at": "2026-02-06T01:27:45Z"
+    "updated_at": "2026-02-07T00:53:58Z"
   },
   "astrbot_plugin_tomin": {
     "display_name": "Tomin - 少女乐队游戏",
