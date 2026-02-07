@@ -1751,7 +1751,7 @@
     "tags": [],
     "stars": 3,
     "version": "v0.0.6",
-    "updated_at": "2026-02-03T15:48:35Z",
+    "updated_at": "2026-02-07T08:10:26Z",
     "logo": "https://raw.githubusercontent.com/xiaomizhoubaobei/astrbot_plugin_models_ai/main/logo.png"
   },
   "astrbot_plugin_monixiuxian2": {
@@ -2087,8 +2087,8 @@
     ],
     "social_link": "https://github.com/WhiteCloudOL",
     "stars": 0,
-    "version": "v1.3.3",
-    "updated_at": "2026-01-09T14:15:34Z",
+    "version": "v1.4.0",
+    "updated_at": "2026-02-07T07:53:20Z",
     "logo": "https://raw.githubusercontent.com/WhiteCloudOL/astrbot_plugin_joinmanager/master/logo.png"
   },
   "astrbot_plugin_group_signin": {
@@ -2780,9 +2780,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "pinned": true,
-    "stars": 32,
+    "stars": 34,
     "version": "v1.3.9",
-    "updated_at": "2026-02-07T07:07:23Z",
+    "updated_at": "2026-02-07T08:15:41Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -2866,8 +2866,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 31,
-    "version": "v4.0.2",
-    "updated_at": "2026-02-07T07:03:47Z",
+    "version": "v4.0.3",
+    "updated_at": "2026-02-07T08:16:03Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -4033,9 +4033,9 @@
       "AI"
     ],
     "social_link": "https://github.com/Ryan7t",
-    "stars": 3,
+    "stars": 2,
     "version": "v1.0.2",
-    "updated_at": "2025-12-18T07:25:02Z"
+    "updated_at": "2026-02-07T08:07:50Z"
   },
   "astrbot_plugin_blue_archive_auto_calendar": {
     "desc": "Blue Archive 蔚蓝档案定时发送活动日历以及活动结束提醒插件",
@@ -4421,9 +4421,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 74,
+    "stars": 75,
     "version": "v1.1.4",
-    "updated_at": "2026-02-05T13:45:59Z",
+    "updated_at": "2026-02-07T07:58:10Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
