@@ -813,8 +813,8 @@
     ],
     "social_link": "https://github.com/siciyuanweilai",
     "stars": 9,
-    "version": "4.2.0",
-    "updated_at": "2026-02-05T15:52:23Z",
+    "version": "4.3.0",
+    "updated_at": "2026-02-07T12:53:55Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -905,9 +905,9 @@
       "群聊圣经"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 153,
+    "stars": 154,
     "version": "v4.6.9",
-    "updated_at": "2026-02-07T05:27:01Z",
+    "updated_at": "2026-02-07T12:42:37Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -2780,9 +2780,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "pinned": true,
-    "stars": 34,
+    "stars": 35,
     "version": "v1.3.9",
-    "updated_at": "2026-02-07T08:15:41Z",
+    "updated_at": "2026-02-07T11:46:40Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -6956,8 +6956,9 @@
       "娱乐"
     ],
     "stars": 3,
-    "version": "0.0.2",
-    "updated_at": "2026-01-13T06:04:37Z"
+    "version": "0.0.3",
+    "updated_at": "2026-02-07T12:02:03Z",
+    "logo": "https://raw.githubusercontent.com/xiaomizhoubaobei/astrbot_plugin_treasure_bag/main/logo.png"
   },
   "LiteBridge": {
     "name": "LiteBridge",
