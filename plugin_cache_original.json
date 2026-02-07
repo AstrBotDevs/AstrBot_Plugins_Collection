@@ -94,9 +94,9 @@
     "tags": [
       "娱乐"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-02-06T15:13:43Z"
+    "updated_at": "2026-02-07T05:18:30Z"
   },
   "astrbot_plugin_elves_world": {
     "display_name": "精灵世界",
@@ -442,8 +442,8 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "stars": 6,
-    "version": "v2.8.6",
-    "updated_at": "2026-02-06T08:03:49Z",
+    "version": "v2.9.0",
+    "updated_at": "2026-02-07T05:37:12Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
@@ -878,9 +878,9 @@
       "群聊圣经"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 152,
+    "stars": 153,
     "version": "v4.6.9",
-    "updated_at": "2026-02-06T04:11:27Z",
+    "updated_at": "2026-02-07T05:27:01Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -4118,9 +4118,9 @@
       "主动回复"
     ],
     "social_link": "https://github.com/Him666233",
-    "stars": 33,
+    "stars": 34,
     "version": "v1.1.2",
-    "updated_at": "2026-02-06T07:45:22Z",
+    "updated_at": "2026-02-07T05:18:51Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -6657,7 +6657,7 @@
     "social_link": "https://github.com/huntuo146",
     "stars": 8,
     "version": "2.1.0",
-    "updated_at": "2026-01-18T13:59:02Z"
+    "updated_at": "2026-02-07T05:11:18Z"
   },
   "pokemon_fusion": {
     "desc": "宝可梦融合插件，支持指定宝可梦融合和随机融合。",
@@ -11237,9 +11237,9 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 169,
+    "stars": 170,
     "version": "v2.0.15",
-    "updated_at": "2026-01-31T06:33:23Z"
+    "updated_at": "2026-02-07T05:39:22Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
