@@ -62,8 +62,8 @@
     ],
     "social_link": "https://www.xytuws.cn",
     "stars": 1,
-    "version": "v0.3.1",
-    "updated_at": "2026-02-08T15:34:46Z",
+    "version": "v0.3.2",
+    "updated_at": "2026-02-08T18:37:20Z",
     "logo": "https://raw.githubusercontent.com/XYTUworkshop/astrbot_plugin_XYTUFunction/master/logo.png"
   },
   "astrbot_plugin_lzpersona": {
@@ -8052,9 +8052,9 @@
       "Steam"
     ],
     "social_link": "https://github.com/Maoer233",
-    "stars": 54,
+    "stars": 55,
     "version": "2.2.0",
-    "updated_at": "2026-02-08T15:23:49Z",
+    "updated_at": "2026-02-08T18:45:53Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -8471,9 +8471,9 @@
       "画像"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 56,
+    "stars": 57,
     "version": "v1.1.0",
-    "updated_at": "2026-02-08T13:39:20Z",
+    "updated_at": "2026-02-08T18:46:19Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
