@@ -10,8 +10,8 @@
     ],
     "social_link": "https://github.com/advent259141",
     "stars": 16,
-    "version": "2.2.0",
-    "updated_at": "2026-02-08T03:24:43Z"
+    "version": "2.3.0",
+    "updated_at": "2026-02-08T13:15:16Z"
   },
   "astrbot_plugin_live2d_pet": {
     "display_name": "live2d_pet",
@@ -62,8 +62,8 @@
     ],
     "social_link": "https://www.xytuws.cn",
     "stars": 1,
-    "version": "v0.2.5",
-    "updated_at": "2026-02-07T15:19:41Z",
+    "version": "v0.3.1",
+    "updated_at": "2026-02-08T13:04:45Z",
     "logo": "https://raw.githubusercontent.com/XYTUworkshop/astrbot_plugin_XYTUFunction/master/logo.png"
   },
   "astrbot_plugin_lzpersona": {
@@ -8473,7 +8473,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 56,
     "version": "v1.1.0",
-    "updated_at": "2026-02-08T12:16:09Z",
+    "updated_at": "2026-02-08T13:39:20Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
