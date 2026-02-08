@@ -19,9 +19,9 @@
     "author": "coolwind886",
     "repo": "https://github.com/coolwind886-spec/astrbot_plugin_live2d_pet/",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "v4.3.0",
-    "updated_at": "2026-01-27T07:25:31Z"
+    "updated_at": "2026-02-08T02:29:01Z"
   },
   "astrbot_plugin_steam_updates": {
     "display_name": "Steam 游戏更新推送插件",
@@ -9668,7 +9668,7 @@
     ],
     "stars": 92,
     "version": "v3.2.7",
-    "updated_at": "2026-02-03T15:55:57Z",
+    "updated_at": "2026-02-08T02:47:38Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -10199,8 +10199,8 @@
       "实用工具"
     ],
     "stars": 30,
-    "version": "v3.0.0",
-    "updated_at": "2026-02-07T14:03:47Z",
+    "version": "v3.0.1",
+    "updated_at": "2026-02-08T01:13:46Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
