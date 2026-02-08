@@ -10,8 +10,8 @@
     ],
     "social_link": "https://github.com/advent259141",
     "stars": 16,
-    "version": "2.1.0",
-    "updated_at": "2026-02-07T15:29:20Z"
+    "version": "2.2.0",
+    "updated_at": "2026-02-08T03:24:43Z"
   },
   "astrbot_plugin_live2d_pet": {
     "display_name": "live2d_pet",
@@ -813,8 +813,8 @@
     ],
     "social_link": "https://github.com/siciyuanweilai",
     "stars": 9,
-    "version": "4.3.0",
-    "updated_at": "2026-02-07T12:53:55Z",
+    "version": "4.3.1",
+    "updated_at": "2026-02-08T04:44:57Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -3183,7 +3183,7 @@
     "social_link": "https://box.firefly520.top/",
     "stars": 18,
     "version": "1.4.8",
-    "updated_at": "2026-02-06T07:13:53Z",
+    "updated_at": "2026-02-08T05:07:45Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/master/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -9668,7 +9668,7 @@
     ],
     "stars": 92,
     "version": "v3.2.7",
-    "updated_at": "2026-02-08T02:47:38Z",
+    "updated_at": "2026-02-08T02:56:10Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
