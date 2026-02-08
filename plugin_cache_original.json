@@ -1510,9 +1510,9 @@
     ],
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
-    "stars": 94,
+    "stars": 95,
     "version": "Next-1.1.7",
-    "updated_at": "2026-02-07T14:33:54Z",
+    "updated_at": "2026-02-08T09:06:12Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -7772,7 +7772,7 @@
     "repo": "https://github.com/itismygo/astrbot_plugin_mathjax2image",
     "stars": 3,
     "version": "v3.1.0",
-    "updated_at": "2026-02-06T18:53:13Z"
+    "updated_at": "2026-02-08T09:03:56Z"
   },
   "astrbot_plugin_xyzw_box": {
     "author": "cloudcranesss",
@@ -8472,8 +8472,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 56,
-    "version": "v1.0.7",
-    "updated_at": "2026-01-31T12:17:40Z",
+    "version": "v1.1.0",
+    "updated_at": "2026-02-08T09:27:56Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
