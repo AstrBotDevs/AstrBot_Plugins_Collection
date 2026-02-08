@@ -46,9 +46,9 @@
       "agent",
       "codegen"
     ],
-    "stars": 7,
+    "stars": 8,
     "version": "1.1.1",
-    "updated_at": "2026-02-07T13:28:49Z",
+    "updated_at": "2026-02-08T09:52:20Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -1086,7 +1086,7 @@
     "tags": [],
     "stars": 3,
     "version": "1.1.1",
-    "updated_at": "2026-02-03T03:27:57Z"
+    "updated_at": "2026-02-08T10:10:38Z"
   },
   "astrbot_plugin_CNKD_Admin": {
     "display_name": "UapiPro言论管控",
