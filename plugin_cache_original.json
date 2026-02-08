@@ -78,9 +78,9 @@
       "提示词"
     ],
     "social_link": "https://github.com/idiotsj",
-    "stars": 3,
+    "stars": 4,
     "version": "v2.0.4",
-    "updated_at": "2026-02-07T16:07:21Z"
+    "updated_at": "2026-02-08T05:33:51Z"
   },
   "astrbot_plugin_clawdbot_bridge": {
     "display_name": "astrbot_plugin_clawdbot_bridge",
@@ -308,9 +308,9 @@
       "vibe coding",
       "OpenCode"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "1.1.0",
-    "updated_at": "2026-02-03T14:50:08Z",
+    "updated_at": "2026-02-08T06:22:53Z",
     "logo": "https://raw.githubusercontent.com/singularity2000/astrbot_plugin_opencode/main/logo.png"
   },
   "astrbot_plugin_claudecode": {
@@ -6601,9 +6601,9 @@
       "语音转化"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 12,
+    "stars": 13,
     "version": "v1.0.3",
-    "updated_at": "2026-01-25T06:17:20Z",
+    "updated_at": "2026-02-08T05:37:04Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_record_converter/main/logo.png"
   },
   "astrbot_plugin_spark_tts": {
