@@ -483,8 +483,8 @@
       "视奸"
     ],
     "stars": 2,
-    "version": "v1.1.0",
-    "updated_at": "2026-02-06T20:01:25Z"
+    "version": "v1.1.3",
+    "updated_at": "2026-02-08T14:13:32Z"
   },
   "astrbot_plugin_minecraft_monitor": {
     "display_name": "MC 服务器监控（适配基岩版与 Java 版）",
@@ -5800,9 +5800,9 @@
       "memory",
       "rag"
     ],
-    "stars": 60,
+    "stars": 61,
     "version": "2.1.2",
-    "updated_at": "2026-02-07T14:56:39Z",
+    "updated_at": "2026-02-08T14:13:24Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
