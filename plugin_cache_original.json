@@ -521,9 +521,9 @@
     "author": "lamp3721",
     "repo": "https://github.com/lamp3721/astrbot_plugin_at_ignore",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-01-15T00:35:17Z"
+    "updated_at": "2026-02-08T10:56:07Z"
   },
   "message_cleaner": {
     "display_name": "消息清洗器",
@@ -8964,9 +8964,9 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 139,
+    "stars": 140,
     "version": "v2.0.6",
-    "updated_at": "2026-02-07T19:24:30Z",
+    "updated_at": "2026-02-08T11:43:02Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
