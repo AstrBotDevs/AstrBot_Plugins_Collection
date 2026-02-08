@@ -46,9 +46,9 @@
       "agent",
       "codegen"
     ],
-    "stars": 8,
+    "stars": 9,
     "version": "1.1.1",
-    "updated_at": "2026-02-08T09:52:20Z",
+    "updated_at": "2026-02-08T11:25:44Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -326,7 +326,7 @@
     "social_link": "https://github.com/YukiRa1n",
     "stars": 2,
     "version": "v2.1.0",
-    "updated_at": "2026-02-04T13:52:14Z"
+    "updated_at": "2026-02-08T11:28:08Z"
   },
   "astrbot_plugin_sudoku": {
     "display_name": "数独游戏",
@@ -544,8 +544,8 @@
     "repo": "https://github.com/mjy1113451/astrbot_plugin_friends_welcome",
     "tags": [],
     "stars": 4,
-    "version": "v1.3.4",
-    "updated_at": "2026-02-07T14:02:49Z"
+    "version": "v1.3.5",
+    "updated_at": "2026-02-08T12:39:59Z"
   },
   "astrbot_plugin_HowMuchIsYourFace": {
     "display_name": "头像值多少",
@@ -1844,7 +1844,7 @@
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
     "stars": 33,
     "version": "v1.1",
-    "updated_at": "2026-02-08T08:22:53Z"
+    "updated_at": "2026-02-08T11:35:48Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -2902,9 +2902,9 @@
     "author": "bylkuse",
     "repo": "https://github.com/bylkuse/astrbot_plugin_bananic_ninjutsu",
     "tags": [],
-    "stars": 8,
-    "version": "v0.4.0",
-    "updated_at": "2026-01-05T12:29:53Z",
+    "stars": 9,
+    "version": "v0.4.1",
+    "updated_at": "2026-02-08T12:50:55Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_bananic_ninjutsu/master/logo.png"
   },
   "astrbot_plugin_ASCII": {
@@ -3518,9 +3518,9 @@
     "author": "GuJi08233",
     "repo": "https://github.com/GuJi08233/astrbot_plugin_val_shop",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "v3.2.3",
-    "updated_at": "2025-12-24T17:36:36Z"
+    "updated_at": "2026-02-08T11:57:15Z"
   },
   "astrbot_plugin_doubao": {
     "display_name": "豆包即梦生成",
@@ -8473,7 +8473,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 56,
     "version": "v1.1.0",
-    "updated_at": "2026-02-08T09:27:56Z",
+    "updated_at": "2026-02-08T12:16:09Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
