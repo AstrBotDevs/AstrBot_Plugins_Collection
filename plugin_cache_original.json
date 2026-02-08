@@ -212,9 +212,9 @@
       "图像编辑"
     ],
     "social_link": "https://github.com/FenChen0211",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.2.3",
-    "updated_at": "2026-02-07T11:08:23Z"
+    "updated_at": "2026-02-08T08:01:27Z"
   },
   "astrbot_plugin_qqrecord": {
     "display_name": "Meeting Recorder",
@@ -469,8 +469,8 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "stars": 7,
-    "version": "v2.9.2",
-    "updated_at": "2026-02-07T10:03:39Z",
+    "version": "v2.9.3",
+    "updated_at": "2026-02-08T07:44:43Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
@@ -1844,7 +1844,7 @@
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
     "stars": 33,
     "version": "v1.1",
-    "updated_at": "2026-02-05T02:10:20Z"
+    "updated_at": "2026-02-08T08:22:53Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -2866,8 +2866,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 31,
-    "version": "v4.0.3",
-    "updated_at": "2026-02-07T08:16:03Z",
+    "version": "v4.0.4",
+    "updated_at": "2026-02-08T08:37:32Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
