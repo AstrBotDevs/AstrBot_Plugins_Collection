@@ -63,7 +63,7 @@
     "social_link": "https://www.xytuws.cn",
     "stars": 1,
     "version": "v0.3.1",
-    "updated_at": "2026-02-08T13:04:45Z",
+    "updated_at": "2026-02-08T15:34:46Z",
     "logo": "https://raw.githubusercontent.com/XYTUworkshop/astrbot_plugin_XYTUFunction/master/logo.png"
   },
   "astrbot_plugin_lzpersona": {
@@ -469,8 +469,8 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "stars": 7,
-    "version": "v2.9.3",
-    "updated_at": "2026-02-08T07:44:43Z",
+    "version": "v2.9.5",
+    "updated_at": "2026-02-08T16:33:17Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
@@ -604,8 +604,8 @@
       "bangdream"
     ],
     "stars": 2,
-    "version": "v0.1.0",
-    "updated_at": "2026-02-03T21:50:53Z"
+    "version": "v0.2.0",
+    "updated_at": "2026-02-08T15:51:14Z"
   },
   "astrbot_plugin_odoo": {
     "display_name": "AstrBot Odoo 连接器",
@@ -907,7 +907,7 @@
     "social_link": "https://github.com/SXP-Simon",
     "stars": 154,
     "version": "v4.6.9",
-    "updated_at": "2026-02-07T12:42:37Z",
+    "updated_at": "2026-02-08T16:29:49Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -1842,9 +1842,9 @@
       "下载"
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
-    "stars": 33,
+    "stars": 34,
     "version": "v1.1",
-    "updated_at": "2026-02-08T11:35:48Z"
+    "updated_at": "2026-02-08T16:23:33Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -4726,8 +4726,8 @@
     "repo": "https://github.com/xiaoxi68/astrbot_plugin_blessingholidays",
     "tags": [],
     "stars": 0,
-    "version": "v1.3",
-    "updated_at": "2025-12-19T10:53:28Z"
+    "version": "v1.5",
+    "updated_at": "2026-02-08T16:09:48Z"
   },
   "astrbot_plugin_image_replay": {
     "name": "astrbot_plugin_image_replay",
@@ -8443,8 +8443,8 @@
     "social_link": "https://github.com/Zhalslar",
     "tags": [],
     "stars": 41,
-    "version": "v1.1.1",
-    "updated_at": "2026-01-26T11:06:50Z",
+    "version": "v1.2.0",
+    "updated_at": "2026-02-08T16:04:53Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_search_video/main/logo.png"
   },
   "astrbot_plugin_zt": {
