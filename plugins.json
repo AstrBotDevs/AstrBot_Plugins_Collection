@@ -10,6 +10,76 @@
     ],
     "social_link": "https://github.com/advent259141"
   },
+  "astrbot_plugin_live2d_adapter": {
+    "display_name": "Live2D 适配器",
+    "desc": "Live2D 桌面客户端平台适配器，支持 L2D-Bridge Protocol v1.0",
+    "author": "lxfight",
+    "repo": "https://github.com/lxfight/astrbot_plugin_live2d_adapter",
+    "tags": ["platform"],
+    "social_link": "https://github.com/lxfight"
+  },
+  "astrbot_plugin_telegram_summary": {
+    "name": "",
+    "display_name": "Telegram 频道消息总结",
+    "desc": "一个 Telegram 频道消息总结插件，每周自动生成指定频道的消息汇总报告，支持自动推送到QQ群组和用户。",
+    "author": "车厘子小樱",
+    "repo": "https://github.com/Sakura520222/astrbot_plugin_telegram_summary",
+    "tags": [
+      "Telegram",
+      "周报",
+      "资讯"
+    ],
+    "social_link": "https://github.com/Sakura520222"
+  },
+  "astrbot_plugin_gok": {
+    "display_name": "王者荣耀游戏数据查询工具",
+    "desc": "王者荣耀的战绩、资料等内容的查询",
+    "author": "飞翔大野猪",
+    "repo": "https://github.com/qsc20001102/astrbot_plugin_gok",
+    "tags": [
+      "王者荣耀",
+      "数据查询"
+    ]
+  },
+  "astrbot_plugin_lyrics_trigger": {
+    "display_name": "接歌词",
+    "desc": "基于网易云API的接歌词插件。",
+    "author": "Azured",
+    "repo": "https://github.com/Aoi-Karlin/astrbot_plugin_lyrics_trigger"
+  },
+  "astrbot_plugin_autobackup": {
+    "display_name": "AstrBot 自动备份插件",
+    "desc": "AstrBot 自动备份插件，支持定时备份和手动备份，自动排除 .venv 目录及其他不必要的文件。",
+    "author": "enldm",
+    "repo": "https://github.com/enldm/astrbot_plugin_autobackup",
+    "tags": [
+      "工具"
+    ],
+    "social_link": "github.com/enldm"
+  },
+  "astrbot_plugin_teamup": {
+    "display_name": "谁 TM 和我组队",
+    "desc": "组队报名与随机分队插件。",
+    "author": "Chinachani",
+    "repo": "https://github.com/Chinachani/astrbot_plugin_teamup",
+    "tags": [
+      "组队",
+      "跨群"
+    ]
+  },
+  "astrbot_plugin_newapi": {
+    "display_name": "NewAPI 多功能插件",
+    "desc": "astrbot_plugin_newapi是一个为 AstrBot 打造的 QQ 群 ↔ New API 网站联动插件，集用户绑定、额度经济、群聊互动、管理员工具 于一体，并支持 退群自动解绑与账号净化 的全自动管理套件。",
+    "author": "Future-404",
+    "repo": "https://github.com/Future-404/astrbot_plugin_newapi",
+    "tags": [
+      "newapi",
+      "api",
+      "签到",
+      "娱乐"
+    ],
+    "social_link": "https://github.com/Future-404"
+  },
   "astrbot_plugin_live2d_pet": {
     "display_name": "live2d_pet",
     "desc": "聊天信息投射到桌宠，以及与桌宠交互。",
@@ -2045,7 +2115,6 @@
       "海啸预警"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "pinned": true
   },
   "astrbot_plugin_lofter_parser": {
     "display_name": "Lofter自动解析",
