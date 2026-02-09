@@ -93,8 +93,8 @@
     ],
     "social_link": "https://github.com/4869-yinxu",
     "stars": 1,
-    "version": "1.1.0",
-    "updated_at": "2026-02-07T18:45:43Z"
+    "version": "1.3.0",
+    "updated_at": "2026-02-09T01:45:38Z"
   },
   "astrbot_plugin_riddlegame": {
     "display_name": "qq群棋类游戏",
@@ -616,9 +616,9 @@
       "odoo",
       "连接器"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-01-29T16:21:31Z"
+    "updated_at": "2026-02-09T01:15:16Z"
   },
   "astrbot_plugin_dailynews_agent": {
     "display_name": "dailynews_agent",
@@ -775,8 +775,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 13,
-    "version": "2.2.2",
-    "updated_at": "2026-02-08T22:25:04Z",
+    "version": "2.2.3",
+    "updated_at": "2026-02-09T01:10:56Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_worldbook/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -1150,7 +1150,7 @@
     ],
     "stars": 1,
     "version": "2.1.1",
-    "updated_at": "2026-02-06T03:32:41Z",
+    "updated_at": "2026-02-09T01:11:44Z",
     "logo": "https://raw.githubusercontent.com/danfong1104/astrbot_plugin_chatmaster/main/logo.png"
   },
   "astrbot_plugin_cheer_mate": {
@@ -2727,9 +2727,9 @@
     "tags": [
       "表情"
     ],
-    "stars": 16,
+    "stars": 17,
     "version": "2.2.2",
-    "updated_at": "2026-02-08T20:46:49Z",
+    "updated_at": "2026-02-09T00:46:46Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -6351,9 +6351,9 @@
       "表情包"
     ],
     "social_link": "https://github.com/SodaSizzle",
-    "stars": 15,
+    "stars": 16,
     "version": "v1.0.0",
-    "updated_at": "2026-01-12T10:49:44Z"
+    "updated_at": "2026-02-09T01:45:18Z"
   },
   "astrbot_plugin_baiduocr": {
     "desc": "百度智能云的 OCR 文字识别服务。新用户有千次的免费调用次数，适合轻度使用",
