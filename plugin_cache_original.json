@@ -38,9 +38,9 @@
       "资讯"
     ],
     "social_link": "https://github.com/Sakura520222",
-    "stars": 2,
+    "stars": 3,
     "version": "1.2.2",
-    "updated_at": "2026-02-08T12:34:19Z",
+    "updated_at": "2026-02-11T17:14:17Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_telegram_summary/main/logo.png"
   },
   "astrbot_plugin_gok": {
@@ -640,8 +640,8 @@
     "repo": "https://github.com/mjy1113451/astrbot_plugin_friends_welcome",
     "tags": [],
     "stars": 4,
-    "version": "v1.4.7",
-    "updated_at": "2026-02-11T15:53:11Z"
+    "version": "v1.4.8",
+    "updated_at": "2026-02-11T16:34:39Z"
   },
   "astrbot_plugin_HowMuchIsYourFace": {
     "display_name": "头像值多少",
@@ -11352,9 +11352,9 @@
     "author": "jmt059",
     "repo": "https://github.com/jmt059/DailyWife",
     "tags": [],
-    "stars": 8,
+    "stars": 9,
     "version": "v1.0.2",
-    "updated_at": "2026-01-02T23:33:12Z"
+    "updated_at": "2026-02-11T16:14:11Z"
   },
   "astrbot_plugin_AW": {
     "desc": "群老婆插件，记得点右上角帮助查看readme",
