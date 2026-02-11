@@ -11,7 +11,7 @@
     "social_link": "https://github.com/advent259141",
     "stars": 18,
     "version": "2.5.0",
-    "updated_at": "2026-02-10T13:56:05Z"
+    "updated_at": "2026-02-11T10:26:05Z"
   },
   "astrbot_plugin_live2d_adapter": {
     "display_name": "Live2D 适配器",
@@ -640,8 +640,8 @@
     "repo": "https://github.com/mjy1113451/astrbot_plugin_friends_welcome",
     "tags": [],
     "stars": 4,
-    "version": "v1.4.5",
-    "updated_at": "2026-02-11T06:26:19Z"
+    "version": "v1.4.6",
+    "updated_at": "2026-02-11T10:04:59Z"
   },
   "astrbot_plugin_HowMuchIsYourFace": {
     "display_name": "头像值多少",
@@ -1170,9 +1170,9 @@
     "author": "Zaxpris&feiu",
     "repo": "https://github.com/dafeiwu666/astrbot_plugin_persona_manager",
     "tags": [],
-    "stars": 2,
+    "stars": 1,
     "version": "0.0.2",
-    "updated_at": "2026-01-30T06:57:31Z"
+    "updated_at": "2026-02-11T10:43:23Z"
   },
   "astrbot_plugin_fund_analyzer": {
     "display_name": "基金分析",
@@ -1333,9 +1333,9 @@
     "author": "LgCookie&etgpao&feiu",
     "repo": "https://github.com/dafeiwu666/astrbot_plugin_ppnai",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0",
-    "updated_at": "2026-02-09T05:55:08Z"
+    "updated_at": "2026-02-11T10:43:17Z"
   },
   "astrbot_plugin_music_pro": {
     "display_name": "高级点歌",
@@ -7050,7 +7050,7 @@
     ],
     "stars": 6,
     "version": "v1.5.0",
-    "updated_at": "2026-02-09T11:18:19Z",
+    "updated_at": "2026-02-11T10:02:42Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
