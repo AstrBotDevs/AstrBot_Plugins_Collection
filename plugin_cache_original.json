@@ -640,8 +640,8 @@
     "repo": "https://github.com/mjy1113451/astrbot_plugin_friends_welcome",
     "tags": [],
     "stars": 4,
-    "version": "v1.4.3",
-    "updated_at": "2026-02-11T04:51:55Z"
+    "version": "v1.4.5",
+    "updated_at": "2026-02-11T06:26:19Z"
   },
   "astrbot_plugin_HowMuchIsYourFace": {
     "display_name": "头像值多少",
@@ -1002,8 +1002,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 155,
-    "version": "v4.6.9",
-    "updated_at": "2026-02-10T15:53:20Z",
+    "version": "v4.7.4",
+    "updated_at": "2026-02-11T06:22:06Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -2718,9 +2718,9 @@
       "链接"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 53,
-    "version": "v1.2.0",
-    "updated_at": "2026-02-11T02:27:04Z",
+    "stars": 54,
+    "version": "v1.3.0",
+    "updated_at": "2026-02-11T06:39:35Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -8769,8 +8769,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 41,
-    "version": "v2.0.1",
-    "updated_at": "2026-02-10T14:51:07Z",
+    "version": "v2.0.2",
+    "updated_at": "2026-02-11T06:08:48Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_pokepro/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
