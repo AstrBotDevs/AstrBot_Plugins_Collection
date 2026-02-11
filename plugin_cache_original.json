@@ -280,8 +280,8 @@
       "功能"
     ],
     "stars": 0,
-    "version": "v7.5.1",
-    "updated_at": "2026-02-11T14:53:58Z",
+    "version": "v7.5.5",
+    "updated_at": "2026-02-11T15:03:30Z",
     "logo": "https://raw.githubusercontent.com/landamao/diyrule/main/logo.png"
   },
   "astrbot_plugin_hlymcn_signin": {
@@ -641,7 +641,7 @@
     "tags": [],
     "stars": 4,
     "version": "v1.4.7",
-    "updated_at": "2026-02-11T12:06:14Z"
+    "updated_at": "2026-02-11T15:53:11Z"
   },
   "astrbot_plugin_HowMuchIsYourFace": {
     "display_name": "头像值多少",
@@ -949,9 +949,9 @@
       "日报",
       "数据搜刮"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.5.4",
-    "updated_at": "2026-01-30T04:24:23Z",
+    "updated_at": "2026-02-11T15:53:30Z",
     "logo": "https://raw.githubusercontent.com/zhoufan47/astrbot_plugin_bbt_daily_news/master/logo.png"
   },
   "astrbot_plugin_fflogs": {
@@ -1001,9 +1001,9 @@
       "群聊圣经"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 155,
+    "stars": 156,
     "version": "v4.7.4",
-    "updated_at": "2026-02-11T06:22:06Z",
+    "updated_at": "2026-02-11T15:54:26Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -6456,9 +6456,9 @@
       "表情包"
     ],
     "social_link": "https://github.com/SodaSizzle",
-    "stars": 16,
+    "stars": 17,
     "version": "v1.0.0",
-    "updated_at": "2026-02-09T01:45:18Z"
+    "updated_at": "2026-02-11T15:54:20Z"
   },
   "astrbot_plugin_baiduocr": {
     "desc": "百度智能云的 OCR 文字识别服务。新用户有千次的免费调用次数，适合轻度使用",
@@ -10679,9 +10679,9 @@
       "主动回复"
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-    "stars": 94,
+    "stars": 95,
     "version": "v2.1.10",
-    "updated_at": "2026-01-31T11:37:08Z"
+    "updated_at": "2026-02-11T15:53:24Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
@@ -10717,9 +10717,9 @@
     "tags": [
       "功能"
     ],
-    "stars": 24,
+    "stars": 25,
     "version": "1.1.0",
-    "updated_at": "2026-02-03T13:14:45Z"
+    "updated_at": "2026-02-11T15:53:09Z"
   },
   "astrbot_plugin_moyuren": {
     "desc": "每天定时推送摸鱼人日历",
@@ -10783,9 +10783,9 @@
       "图床"
     ],
     "pinned": true,
-    "stars": 128,
+    "stars": 129,
     "version": "v3.19",
-    "updated_at": "2026-02-11T11:53:36Z"
+    "updated_at": "2026-02-11T15:54:35Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
