@@ -9,9 +9,9 @@
       "自动水贴"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 18,
+    "stars": 19,
     "version": "2.5.0",
-    "updated_at": "2026-02-11T10:26:05Z"
+    "updated_at": "2026-02-11T13:02:43Z"
   },
   "astrbot_plugin_live2d_adapter": {
     "display_name": "Live2D 适配器",
@@ -640,8 +640,8 @@
     "repo": "https://github.com/mjy1113451/astrbot_plugin_friends_welcome",
     "tags": [],
     "stars": 4,
-    "version": "v1.4.6",
-    "updated_at": "2026-02-11T10:04:59Z"
+    "version": "v1.4.7",
+    "updated_at": "2026-02-11T12:06:14Z"
   },
   "astrbot_plugin_HowMuchIsYourFace": {
     "display_name": "头像值多少",
@@ -781,9 +781,9 @@
       "审查"
     ],
     "social_link": "https://github.com/VanillaNahida",
-    "stars": 0,
-    "version": "v1.0.1",
-    "updated_at": "2026-01-28T16:04:30Z",
+    "stars": 2,
+    "version": "v1.0.2",
+    "updated_at": "2026-02-11T13:06:36Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_aip_review/master/logo.png"
   },
   "astrbot_plugin_goons": {
@@ -7617,9 +7617,9 @@
     ],
     "social_link": "https://t.me/tianxu648",
     "repo": "https://github.com/xinghanxu666/tron-q",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0",
-    "updated_at": "2025-10-07T01:34:41Z"
+    "updated_at": "2026-02-11T13:00:46Z"
   },
   "astrbot_plugin_test_helper": {
     "author": "LumineStory",
@@ -10783,9 +10783,9 @@
       "图床"
     ],
     "pinned": true,
-    "stars": 127,
+    "stars": 128,
     "version": "v3.19",
-    "updated_at": "2026-02-09T07:02:57Z"
+    "updated_at": "2026-02-11T11:53:36Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
@@ -11009,8 +11009,8 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "tags": [],
     "stars": 38,
-    "version": "v1.5.2",
-    "updated_at": "2026-02-07T16:13:06Z",
+    "version": "v1.5.3",
+    "updated_at": "2026-02-11T13:05:48Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
