@@ -280,8 +280,8 @@
       "功能"
     ],
     "stars": 0,
-    "version": "v7.3.2",
-    "updated_at": "2026-02-10T18:17:19Z",
+    "version": "v7.3.3",
+    "updated_at": "2026-02-11T09:09:11Z",
     "logo": "https://raw.githubusercontent.com/landamao/diyrule/main/logo.png"
   },
   "astrbot_plugin_hlymcn_signin": {
@@ -565,8 +565,8 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "stars": 10,
-    "version": "v3.0.1",
-    "updated_at": "2026-02-11T04:53:27Z",
+    "version": "v3.0.2",
+    "updated_at": "2026-02-11T09:14:56Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
@@ -1508,9 +1508,9 @@
       "网页验证"
     ],
     "social_link": "https://github.com/VanillaNahida/",
-    "stars": 17,
+    "stars": 18,
     "version": "v1.2.1",
-    "updated_at": "2026-02-09T17:48:18Z",
+    "updated_at": "2026-02-11T09:25:49Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_geetest_verify/master/logo.png"
   },
   "astrbot_plugin_cliproxy_stats": {
@@ -2307,9 +2307,9 @@
       "桌面客户端"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 18,
+    "stars": 17,
     "version": "1.1.3",
-    "updated_at": "2026-02-09T09:53:39Z",
+    "updated_at": "2026-02-11T09:10:57Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
@@ -4468,8 +4468,8 @@
       "磁链"
     ],
     "stars": 3,
-    "version": "v1.2.1",
-    "updated_at": "2026-01-31T07:17:09Z",
+    "version": "v1.2.2",
+    "updated_at": "2026-02-11T09:46:33Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_magnet_preview/master/logo.png"
   },
   "astrbot_plugin_gemini-image": {
@@ -8768,9 +8768,9 @@
       "戳一戳"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 41,
+    "stars": 42,
     "version": "v2.0.2",
-    "updated_at": "2026-02-11T06:08:48Z",
+    "updated_at": "2026-02-11T09:46:01Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_pokepro/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
