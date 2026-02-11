@@ -15,7 +15,9 @@
     "desc": "Live2D 桌面客户端平台适配器，支持 L2D-Bridge Protocol v1.0",
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_live2d_adapter",
-    "tags": ["platform"],
+    "tags": [
+      "platform"
+    ],
     "social_link": "https://github.com/lxfight"
   },
   "astrbot_plugin_telegram_summary": {
@@ -100,7 +102,11 @@
     "desc": "还在手写 AstrBot 插件？描述你想要的功能，看着 AI 把它变成可运行的代码——不需要编程经验，不需要翻阅文档，只需要一句话。CodeMage 正在改变机器人扩展的开发方式，而你绝对想不到它还能做到什么。",
     "author": "qa296",
     "repo": "https://github.com/qa296/astrbot_plugin_codemage",
-    "tags": ["ai", "agent", "codegen"]
+    "tags": [
+      "ai",
+      "agent",
+      "codegen"
+    ]
   },
   "astrbot_plugin_XYTUFunction": {
     "display_name": "XYTUFunction | XYTU 功能集",
@@ -305,7 +311,11 @@
     "desc": "将 Claude Code CLI 作为 LLM 函数工具集成到 AstrBot",
     "author": "YukiRa1n",
     "repo": "https://github.com/YukiRa1n/astrbot_plugin_claudecode",
-    "tags": ["AI", "Claude", "Claude Code"],
+    "tags": [
+      "AI",
+      "Claude",
+      "Claude Code"
+    ],
     "social_link": "https://github.com/YukiRa1n"
   },
   "astrbot_plugin_sudoku": {
@@ -2114,7 +2124,7 @@
       "气象预警",
       "海啸预警"
     ],
-    "social_link": "https://github.com/DBJD-CR",
+    "social_link": "https://github.com/DBJD-CR"
   },
   "astrbot_plugin_lofter_parser": {
     "display_name": "Lofter自动解析",
