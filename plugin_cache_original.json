@@ -640,8 +640,8 @@
     "repo": "https://github.com/mjy1113451/astrbot_plugin_friends_welcome",
     "tags": [],
     "stars": 4,
-    "version": "v1.4.1",
-    "updated_at": "2026-02-10T14:06:10Z"
+    "version": "v1.4.2",
+    "updated_at": "2026-02-11T03:43:08Z"
   },
   "astrbot_plugin_HowMuchIsYourFace": {
     "display_name": "头像值多少",
@@ -1808,6 +1808,16 @@
     "version": "v1.0.1",
     "updated_at": "2026-01-31T15:09:40Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_extract/main/logo.png"
+  },
+  "astrbot_plugin_realistic_persona": {
+    "display_name": "realistic_persona",
+    "desc": "拟人化角色行为系统：整合情绪感知、生活模拟、QQ空间日记、AI配图等功能，使用系统人设，支持终端日志，支持自然图文并茂回复",
+    "author": "LMG-arch",
+    "repo": "https://github.com/LMG-arch/astrbot-plugin-realistic-persona.git",
+    "tags": [],
+    "stars": 0,
+    "version": "1.11.1",
+    "updated_at": "2025-12-25T15:28:24Z"
   },
   "astrbot_plugin_seedream_image": {
     "display_name": "火山方舟生图",
