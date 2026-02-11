@@ -280,8 +280,8 @@
       "功能"
     ],
     "stars": 0,
-    "version": "v7.3.3",
-    "updated_at": "2026-02-11T09:09:11Z",
+    "version": "v7.5.1",
+    "updated_at": "2026-02-11T14:53:58Z",
     "logo": "https://raw.githubusercontent.com/landamao/diyrule/main/logo.png"
   },
   "astrbot_plugin_hlymcn_signin": {
@@ -9960,9 +9960,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
-    "stars": 49,
+    "stars": 50,
     "version": "v3.0.2",
-    "updated_at": "2026-02-09T07:23:41Z",
+    "updated_at": "2026-02-11T13:40:16Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
@@ -10741,9 +10741,9 @@
       "功能",
       "搬史"
     ],
-    "stars": 503,
+    "stars": 504,
     "version": "v0.916",
-    "updated_at": "2026-02-10T09:46:45Z"
+    "updated_at": "2026-02-11T13:20:52Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
