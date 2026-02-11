@@ -564,9 +564,9 @@
       "老婆"
     ],
     "social_link": "https://github.com/Heximiao",
-    "stars": 9,
+    "stars": 10,
     "version": "v3.0.1",
-    "updated_at": "2026-02-10T08:26:43Z",
+    "updated_at": "2026-02-11T04:53:27Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
@@ -640,8 +640,8 @@
     "repo": "https://github.com/mjy1113451/astrbot_plugin_friends_welcome",
     "tags": [],
     "stars": 4,
-    "version": "v1.4.2",
-    "updated_at": "2026-02-11T03:43:08Z"
+    "version": "v1.4.3",
+    "updated_at": "2026-02-11T04:51:55Z"
   },
   "astrbot_plugin_HowMuchIsYourFace": {
     "display_name": "头像值多少",
@@ -3359,9 +3359,9 @@
       "修图"
     ],
     "social_link": "https://github.com/piexian",
-    "stars": 22,
+    "stars": 23,
     "version": "v1.9.2",
-    "updated_at": "2026-02-05T16:49:03Z",
+    "updated_at": "2026-02-11T03:50:38Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
