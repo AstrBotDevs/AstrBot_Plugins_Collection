@@ -13,6 +13,135 @@
     "version": "2.5.0",
     "updated_at": "2026-02-12T02:19:37Z"
   },
+  "astrbot_plugin_group_quiz": {
+    "display_name": "每日技术问答",
+    "desc": "定时推送技术题目、支持小组订阅和批次管理的群聊答题插件",
+    "author": "Misaka13906",
+    "repo": "https://github.com/Misaka13906/astrbot_plugin_group_quiz",
+    "tags": [
+      "学习"
+    ],
+    "social_link": "https://github.com/Misaka13906/",
+    "stars": 2,
+    "version": "v1.0.0",
+    "updated_at": "2026-02-12T07:55:16Z"
+  },
+  "astrbot_plugin_hapi_connector": {
+    "name": "",
+    "display_name": "HAPI Vibe Coding 遥控器",
+    "desc": "连接 HAPI 服务，借助Astrbot在任意聊天平台（QQ、微信、Telegram 等）上操控 Claude Code / Codex / Gemini / OpenCode 会话，随时随地 vibe coding，支持实时消息推送、快捷审批。",
+    "author": "LiJinHao999",
+    "repo": "https://github.com/LiJinHao999/astrbot_plugin_hapi_connector",
+    "tags": [
+      "vibe coding",
+      "claudecode",
+      "codex",
+      "geminicil",
+      "opencode"
+    ],
+    "stars": 11,
+    "version": "v1.1.0",
+    "updated_at": "2026-02-12T05:49:20Z"
+  },
+  "astrbot_plugin_mc_duration": {
+    "display_name": "MC魔人时长统计",
+    "desc": "MC魔人检测插件，主要用于统计每个玩家的游戏时长并进行魔人颁奖，可以查看指定玩家的游戏时间段等。",
+    "author": "gangcaiyoule",
+    "repo": "https://github.com/gangcaiyoule/astrbot_plugin_mc_duration",
+    "tags": [
+      "mc",
+      "minecraft"
+    ],
+    "stars": 0,
+    "version": "v1.4.0",
+    "updated_at": "2026-02-11T14:59:47Z"
+  },
+  "astrbot_plugin_minecraftconsole": {
+    "display_name": "Minecraft 控制台",
+    "desc": "使用 Rcon 发送命令至 MC",
+    "author": "H_aaa",
+    "repo": "https://github.com/H-aaaa/astrbot_plugin_minecraftconsole",
+    "tags": [
+      "MineCraft",
+      "Console"
+    ],
+    "social_link": "github.com/hutuyee",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-02-10T09:28:11Z"
+  },
+  "astrbot_plugin_memory_reboot": {
+    "display_name": "旧消息提醒 火星救援插件",
+    "desc": "当群聊中有人重复发送旧的新闻/话题时，自动引用回复提醒该用户",
+    "author": "s11IM、idiotsj",
+    "repo": "https://github.com/s11IM/astrbot_plugin_memory_reboot",
+    "tags": [
+      "群聊",
+      "提醒"
+    ],
+    "stars": 1,
+    "version": "v3.5",
+    "updated_at": "2026-02-09T10:11:53Z"
+  },
+  "astrbot_plugin_nbalance": {
+    "display_name": "NewAPI余额查询",
+    "desc": "格式化 NewAPI 余额接口返回数据，供 AstrBot 查询展示使用，支持命令行查询和 LLM 工具调用两种方式",
+    "author": "Radiant303",
+    "repo": "https://github.com/Radiant303/astrbot_plugin_nbalance",
+    "social_link": "https://github.com/Radiant303",
+    "tags": [],
+    "stars": 1,
+    "version": "v1.0.0",
+    "updated_at": "2026-02-10T11:04:27Z",
+    "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_nbalance/master/logo.png"
+  },
+  "astrbot_plugin_lingbao_market": {
+    "display_name": "灵宝集市监控",
+    "desc": "监听灵宝市集分享码，发送至后端接口。",
+    "author": "QiChen",
+    "repo": "https://github.com/QiChenSn/astrbot-wzry-lingbao-market",
+    "tags": [
+      "王者荣耀",
+      "灵宝",
+      "小马糕"
+    ],
+    "social_link": "https://github.com/QiChenSn",
+    "stars": 1,
+    "version": "v1.0.0",
+    "updated_at": "2026-02-10T07:26:44Z"
+  },
+  "astrbot_plugin_BombGame": {
+    "display_name": "数字炸弹游戏插件",
+    "desc": "群内互动猜数字，支持多群独立游戏、轮流点名、超时临时会话提醒及 HTML 精美排行榜",
+    "author": "haoyuedashi",
+    "repo": "https://github.com/haoyuedashi/astrbot_plugin_BombGame",
+    "tags": [
+      "小游戏"
+    ],
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-02-11T03:40:49Z"
+  },
+  "astrbot_plugin_lyricsplus": {
+    "display_name": "接歌词 Plus",
+    "desc": "重新编写的基于网易云API的接歌词插件。",
+    "author": "Azured",
+    "repo": "https://github.com/Aoi-Karlin/astrbot_plugin_lyricsplus",
+    "tags": [],
+    "stars": 0,
+    "version": "v1.0",
+    "updated_at": "2026-02-09T14:07:45Z"
+  },
+  "astrbot_plugin_messenger": {
+    "display_name": "通风报信插件 (astrbot_plugin_messenger)",
+    "desc": "通风报信插件 - 帮你传话给好友，支持来回对话",
+    "author": "落日七号",
+    "repo": "https://github.com/luori7hao/astrbot_plugin_messenger",
+    "tags": [],
+    "stars": 0,
+    "version": "1.3.1",
+    "updated_at": "2026-02-09T05:29:05Z"
+  },
   "astrbot_plugin_live2d_adapter": {
     "display_name": "Live2D 适配器",
     "desc": "Live2D 桌面客户端平台适配器，支持 L2D-Bridge Protocol v1.0",
@@ -53,8 +182,8 @@
       "数据查询"
     ],
     "stars": 2,
-    "version": "v1.0.0",
-    "updated_at": "2026-02-12T07:37:25Z",
+    "version": "v1.0.1",
+    "updated_at": "2026-02-12T08:03:58Z",
     "logo": "https://raw.githubusercontent.com/qsc20001102/astrbot_plugin_gok/master/logo.png"
   },
   "astrbot_plugin_lyrics_trigger": {
@@ -1002,8 +1131,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 158,
-    "version": "v4.7.4",
-    "updated_at": "2026-02-12T07:52:45Z",
+    "version": "v4.7.5",
+    "updated_at": "2026-02-12T08:23:10Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -1414,7 +1543,7 @@
     "social_link": "https://github.com/kennylimz",
     "stars": 8,
     "version": "v1.2",
-    "updated_at": "2026-02-04T03:14:00Z",
+    "updated_at": "2026-02-12T08:47:28Z",
     "logo": "https://raw.githubusercontent.com/kennylimz/astrbot_plugin_mudae_qq/main/logo.png"
   },
   "BUGJI/astrbot_plugin_balance": {
@@ -11010,7 +11139,7 @@
     "tags": [],
     "stars": 38,
     "version": "v1.5.3",
-    "updated_at": "2026-02-11T13:05:48Z",
+    "updated_at": "2026-02-12T08:14:13Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
