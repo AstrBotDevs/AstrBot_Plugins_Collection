@@ -151,9 +151,9 @@
       "platform"
     ],
     "social_link": "https://github.com/lxfight",
-    "stars": 0,
+    "stars": 1,
     "version": "1.0.0",
-    "updated_at": "2026-02-11T08:06:00Z"
+    "updated_at": "2026-02-12T12:44:15Z"
   },
   "astrbot_plugin_telegram_summary": {
     "name": "",
@@ -1132,7 +1132,7 @@
     "social_link": "https://github.com/SXP-Simon",
     "stars": 158,
     "version": "v4.7.6",
-    "updated_at": "2026-02-12T11:08:56Z",
+    "updated_at": "2026-02-12T12:19:50Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -2479,9 +2479,9 @@
       "记录查询",
       "聊天记录"
     ],
-    "stars": 9,
+    "stars": 10,
     "version": "1.0.3",
-    "updated_at": "2026-01-30T08:04:06Z"
+    "updated_at": "2026-02-12T12:20:47Z"
   },
   "lumingya/astrbot_plugin_regex_filter": {
     "display_name": "通用正则后处理",
@@ -3995,9 +3995,9 @@
     "author": "miao",
     "repo": "https://github.com/libin99527/astrbot_plugin_newapi_checkin",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-02-04T01:37:10Z"
+    "updated_at": "2026-02-12T12:16:45Z"
   },
   "astrbot_plugin_furry_chehui": {
     "display_name": "爱撤回",
@@ -6798,9 +6798,9 @@
       "表白墙"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 55,
+    "stars": 57,
     "version": "v3.0.1",
-    "updated_at": "2026-02-05T15:14:46Z",
+    "updated_at": "2026-02-12T13:10:02Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
