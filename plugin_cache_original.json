@@ -9,9 +9,9 @@
       "自动水贴"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 19,
+    "stars": 20,
     "version": "2.5.0",
-    "updated_at": "2026-02-11T13:02:43Z"
+    "updated_at": "2026-02-12T02:19:37Z"
   },
   "astrbot_plugin_live2d_adapter": {
     "display_name": "Live2D 适配器",
@@ -640,8 +640,8 @@
     "repo": "https://github.com/mjy1113451/astrbot_plugin_friends_welcome",
     "tags": [],
     "stars": 4,
-    "version": "v1.4.8",
-    "updated_at": "2026-02-11T16:34:39Z"
+    "version": "v1.4.9",
+    "updated_at": "2026-02-12T00:46:08Z"
   },
   "astrbot_plugin_HowMuchIsYourFace": {
     "display_name": "头像值多少",
@@ -1001,9 +1001,9 @@
       "群聊圣经"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 157,
+    "stars": 158,
     "version": "v4.7.4",
-    "updated_at": "2026-02-11T19:00:45Z",
+    "updated_at": "2026-02-12T01:15:00Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -1606,9 +1606,9 @@
     ],
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
-    "stars": 99,
+    "stars": 100,
     "version": "Next-1.1.7",
-    "updated_at": "2026-02-11T07:06:00Z",
+    "updated_at": "2026-02-12T00:39:31Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
