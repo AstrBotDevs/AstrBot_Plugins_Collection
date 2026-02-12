@@ -54,7 +54,7 @@
     ],
     "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-02-11T02:40:48Z",
+    "updated_at": "2026-02-12T07:37:25Z",
     "logo": "https://raw.githubusercontent.com/qsc20001102/astrbot_plugin_gok/master/logo.png"
   },
   "astrbot_plugin_lyrics_trigger": {
@@ -280,8 +280,8 @@
       "功能"
     ],
     "stars": 0,
-    "version": "v7.5.5",
-    "updated_at": "2026-02-11T20:19:30Z",
+    "version": "v8.3.2",
+    "updated_at": "2026-02-12T06:33:25Z",
     "logo": "https://raw.githubusercontent.com/landamao/diyrule/main/logo.png"
   },
   "astrbot_plugin_hlymcn_signin": {
@@ -640,8 +640,8 @@
     "repo": "https://github.com/mjy1113451/astrbot_plugin_friends_welcome",
     "tags": [],
     "stars": 4,
-    "version": "v1.4.9",
-    "updated_at": "2026-02-12T00:46:08Z"
+    "version": "v1.5.1",
+    "updated_at": "2026-02-12T07:14:09Z"
   },
   "astrbot_plugin_HowMuchIsYourFace": {
     "display_name": "头像值多少",
@@ -1003,7 +1003,7 @@
     "social_link": "https://github.com/SXP-Simon",
     "stars": 158,
     "version": "v4.7.4",
-    "updated_at": "2026-02-12T01:15:00Z",
+    "updated_at": "2026-02-12T07:52:45Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -4526,9 +4526,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 75,
+    "stars": 76,
     "version": "v1.1.4",
-    "updated_at": "2026-02-07T07:58:10Z",
+    "updated_at": "2026-02-12T06:22:13Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
