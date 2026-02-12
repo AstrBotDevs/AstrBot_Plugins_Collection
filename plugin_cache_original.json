@@ -1333,9 +1333,9 @@
     "author": "LgCookie&etgpao&feiu",
     "repo": "https://github.com/dafeiwu666/astrbot_plugin_ppnai",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0",
-    "updated_at": "2026-02-11T10:43:17Z"
+    "updated_at": "2026-02-12T05:54:25Z"
   },
   "astrbot_plugin_music_pro": {
     "display_name": "高级点歌",
@@ -2115,9 +2115,9 @@
     "tags": [
       "监测"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "1.0.0",
-    "updated_at": "2026-01-22T16:35:49Z"
+    "updated_at": "2026-02-12T05:56:04Z"
   },
   "astrbot_plugin_chat4severals": {
     "display_name": "优化私聊体验，不再说一句回一句",
