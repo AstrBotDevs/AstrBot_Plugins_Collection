@@ -52,9 +52,9 @@
       "mc",
       "minecraft"
     ],
-    "stars": 0,
-    "version": "v1.4.0",
-    "updated_at": "2026-02-11T14:59:47Z"
+    "stars": 1,
+    "version": "v1.4.1",
+    "updated_at": "2026-02-12T09:50:53Z"
   },
   "astrbot_plugin_minecraftconsole": {
     "display_name": "Minecraft 控制台",
@@ -1215,9 +1215,9 @@
       "B站",
       "抖音"
     ],
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0.4",
-    "updated_at": "2026-02-07T04:39:03Z"
+    "updated_at": "2026-02-12T09:44:03Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -1543,7 +1543,7 @@
     "social_link": "https://github.com/kennylimz",
     "stars": 8,
     "version": "v1.2",
-    "updated_at": "2026-02-12T08:47:28Z",
+    "updated_at": "2026-02-12T08:53:10Z",
     "logo": "https://raw.githubusercontent.com/kennylimz/astrbot_plugin_mudae_qq/main/logo.png"
   },
   "BUGJI/astrbot_plugin_balance": {
@@ -7004,9 +7004,9 @@
       "猜歌",
       "初音未来 缤纷舞台"
     ],
-    "stars": 7,
+    "stars": 8,
     "version": "v1.1.3",
-    "updated_at": "2025-12-30T18:06:30Z"
+    "updated_at": "2026-02-12T09:08:47Z"
   },
   "astrbot_plugin_screenctrl": {
     "display_name": "截屏助手",
