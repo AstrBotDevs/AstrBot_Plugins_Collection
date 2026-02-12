@@ -770,7 +770,7 @@
     "tags": [],
     "stars": 4,
     "version": "v1.5.2",
-    "updated_at": "2026-02-12T10:00:35Z"
+    "updated_at": "2026-02-12T11:23:26Z"
   },
   "astrbot_plugin_HowMuchIsYourFace": {
     "display_name": "头像值多少",
@@ -1131,8 +1131,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 158,
-    "version": "v4.7.5",
-    "updated_at": "2026-02-12T08:23:10Z",
+    "version": "v4.7.6",
+    "updated_at": "2026-02-12T11:08:56Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -1400,9 +1400,9 @@
       "插件编写"
     ],
     "social_link": "https://github.com/DITF16",
-    "stars": 36,
+    "stars": 37,
     "version": "1.1.1",
-    "updated_at": "2026-02-04T00:48:49Z",
+    "updated_at": "2026-02-12T10:55:07Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_groupGuard": {
@@ -1774,9 +1774,9 @@
       "负载均衡",
       "故障转移"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "1.2.0",
-    "updated_at": "2026-01-13T00:54:15Z",
+    "updated_at": "2026-02-12T10:54:17Z",
     "logo": "https://raw.githubusercontent.com/fluidcat/astrbot_plugin_lb_provider/master/logo.png"
   },
   "astrbot_plugin_steam_status": {
@@ -5505,9 +5505,9 @@
     "repo": "https://github.com/Chris95743/astrbot_plugin_VITS_pro",
     "social_link": "https://voice.gbkgov.cn",
     "tags": [],
-    "stars": 16,
+    "stars": 17,
     "version": "v1.9.0",
-    "updated_at": "2026-01-22T11:35:09Z"
+    "updated_at": "2026-02-12T11:33:12Z"
   },
   "astrbot_plugin_blacklist_tools": {
     "desc": "允许管理员和 LLM 将用户添加到黑名单中，阻止他们的消息，自动拉黑！",
@@ -9674,9 +9674,9 @@
       "绝区零"
     ],
     "social_link": "https://docs.sayu-bot.com/",
-    "stars": 28,
+    "stars": 29,
     "version": "v0.4.5",
-    "updated_at": "2026-02-08T14:52:20Z"
+    "updated_at": "2026-02-12T11:06:55Z"
   },
   "astrbot_plugin_xyzw": {
     "author": "四郎",
