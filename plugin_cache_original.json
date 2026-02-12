@@ -257,8 +257,8 @@
       "steam"
     ],
     "stars": 0,
-    "version": "v1.1.0",
-    "updated_at": "2026-02-12T21:34:37Z",
+    "version": "v1.2.1",
+    "updated_at": "2026-02-12T22:04:35Z",
     "logo": "https://raw.githubusercontent.com/DearCrazyLeaf/astrbot_plugin_steam_updates/master/logo.png"
   },
   "astrbot_plugin_codemage": {
@@ -770,7 +770,7 @@
     "tags": [],
     "stars": 4,
     "version": "v1.5.3",
-    "updated_at": "2026-02-12T14:13:46Z"
+    "updated_at": "2026-02-12T22:16:16Z"
   },
   "astrbot_plugin_HowMuchIsYourFace": {
     "display_name": "头像值多少",
