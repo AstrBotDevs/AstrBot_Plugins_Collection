@@ -1,14 +1,16 @@
 {
-  "astrbot-plugin-bili-resolver": {
-    "display_name": "Bilibili 小程序原链解析",
-    "desc": "Bilibili的小组件最麻烦了，电脑打不开，于是做了个可以直接转成原链接和展示播放和介绍的工具",
-    "author": "chufeng",
-    "repo": "https://github.com/chufeng/astrbot_plugin_bili_resolver",
+  "91": {
+    "display_name": "A1111文生图插件",
+    "desc": "用于Astrbot的Pollinations、SD（stable diffusion A1111）、llm图片生成插件",
+    "author": "F5",
+    "repo": "91",
     "tags": [
-      "Bilibili",
-      "B站",
-      "转链"
-    ]
+      "A1111",
+      "stable diffusion",
+      "text2img",
+      "sd"
+    ],
+    "social_link": "https://fatsnk.github.io/fatsnk/"
   },
   "astrbot-plugin-inkfusion": {
     "display_name": "A1111文生图插件",
