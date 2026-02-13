@@ -769,8 +769,8 @@
     "repo": "https://github.com/mjy1113451/astrbot_plugin_friends_welcome",
     "tags": [],
     "stars": 4,
-    "version": "v1.5.3",
-    "updated_at": "2026-02-13T01:01:16Z"
+    "version": "v1.5.4",
+    "updated_at": "2026-02-13T05:24:12Z"
   },
   "astrbot_plugin_HowMuchIsYourFace": {
     "display_name": "头像值多少",
@@ -10432,9 +10432,9 @@
     "tags": [
       "实用工具"
     ],
-    "stars": 30,
+    "stars": 31,
     "version": "v3.0.1",
-    "updated_at": "2026-02-09T14:03:37Z",
+    "updated_at": "2026-02-13T04:58:19Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
