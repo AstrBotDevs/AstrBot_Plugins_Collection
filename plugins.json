@@ -3,7 +3,7 @@
     "display_name": "A1111文生图插件",
     "desc": "用于Astrbot的Pollinations、SD（stable diffusion A1111）、llm图片生成插件",
     "author": "F5",
-    "repo": "91",
+    "repo": "92",
     "tags": [
       "A1111",
       "stable diffusion",
