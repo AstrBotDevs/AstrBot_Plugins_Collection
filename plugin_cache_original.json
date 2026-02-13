@@ -330,9 +330,9 @@
       "agent",
       "codegen"
     ],
-    "stars": 14,
+    "stars": 15,
     "version": "1.1.1",
-    "updated_at": "2026-02-13T13:26:31Z",
+    "updated_at": "2026-02-13T14:41:06Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -405,9 +405,9 @@
     "tags": [
       "娱乐"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-02-11T07:51:42Z"
+    "updated_at": "2026-02-13T15:21:00Z"
   },
   "astrbot_plugin_elves_world": {
     "display_name": "精灵世界",
@@ -1751,9 +1751,9 @@
       "NLP"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 21,
+    "stars": 22,
     "version": "1.1.1",
-    "updated_at": "2026-02-10T03:26:16Z"
+    "updated_at": "2026-02-13T15:09:13Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -4714,9 +4714,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 76,
+    "stars": 79,
     "version": "v1.1.4",
-    "updated_at": "2026-02-12T06:22:13Z",
+    "updated_at": "2026-02-13T15:17:27Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -6093,9 +6093,9 @@
       "memory",
       "rag"
     ],
-    "stars": 61,
+    "stars": 62,
     "version": "2.1.2",
-    "updated_at": "2026-02-10T14:39:14Z",
+    "updated_at": "2026-02-13T14:51:10Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
