@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout the repository
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
 
       - name: Set up jq and curl
         run: |
@@ -19,52 +21,81 @@ jobs:
 
       - name: Clean unreachable plugins
         run: |
-          echo "Cleaning unreachable plugins from plugins.json..."
+          set -euo pipefail
+          echo "=== 开始清理不可达插件 ==="
 
-          # 初始化无效插件列表
-          invalid_plugins=()
+          PLUGINS_JSON="plugins.json"
+          UNREACHABLE_JSON="unreachable-plugins.json"
+          TEMP_CURRENT_UNREACHABLE="temp_current.json"
+          TEMP_PREV_UNREACHABLE="temp_prev.json"
 
-          # 遍历 plugins.json 的每个键
-          jq -r 'keys[]' plugins.json | while read -r plugin; do
-            # 获取 repo 地址
-            repo=$(jq -r ".[\"$plugin\"].repo" plugins.json)
+          # 初始化当前不可达列表
+          echo "{}" > "$TEMP_CURRENT_UNREACHABLE"
 
-            # 检查 repo 地址的可访问性
-            if curl --head --silent --fail --max-time 5 "$repo" > /dev/null; then
-              echo "Plugin $plugin repository is accessible."
+          # 获取主分支上一版本 unreachable-plugins.json
+          echo "获取主分支上的上一版本 unreachable-plugins.json..."
+          if git show origin/main:"$UNREACHABLE_JSON" > "$TEMP_PREV_UNREACHABLE" 2>/dev/null; then
+            echo "成功获取上一版本 unreachable-plugins.json"
+            PREV_UNREACHABLE_EXISTS=true
+          else
+            echo "未找到上一版本 unreachable-plugins.json，视为首次运行"
+            PREV_UNREACHABLE_EXISTS=false
+            echo "{}" > "$TEMP_PREV_UNREACHABLE"
+          fi
+
+          # 检测当前所有插件可达性
+          echo "检测 plugins.json 中所有插件的可达性..."
+          jq -r 'keys[]' "$PLUGINS_JSON" | while read -r plugin; do
+            repo=$(jq -r ".[\"$plugin\"].repo" "$PLUGINS_JSON")
+            echo "检查插件 $plugin 的仓库: $repo"
+            if curl --head --silent --fail --max-time 5 "$repo" >/dev/null; then
+              echo "✓ $plugin 可达"
             else
-              echo "Plugin $plugin repository is NOT accessible."
-              invalid_plugins+=("$plugin") # 将无效插件名添加到列表
-              # 通过 jq 删除插件
-              jq "del(.\"$plugin\")" plugins.json > temp.json && mv temp.json plugins.json
+              echo "✗ $plugin 不可达"
+              jq --arg p "$plugin" '. + {($p): $repo}' "$TEMP_CURRENT_UNREACHABLE" > "$TEMP_CURRENT_UNREACHABLE.tmp" && mv "$TEMP_CURRENT_UNREACHABLE.tmp" "$TEMP_CURRENT_UNREACHABLE"
             fi
           done
 
-          # 打印输出所有无效插件名
-          if [ ${#invalid_plugins[@]} -ne 0 ]; then
-            echo "Removed the following unreachable plugins:"
-            for plugin in "${invalid_plugins[@]}"; do
-              echo "$plugin"
-            done
-          else
-            echo "No unreachable plugins found."
+          # 处理已知不可达插件（来自上一版本）
+          KNOWN_UNREACHABLE_PLUGINS=()
+          if [ "$PREV_UNREACHABLE_EXISTS" = true ]; then
+            mapfile -t KNOWN_UNREACHABLE_PLUGINS < <(jq -r 'keys[]' "$TEMP_PREV_UNREACHABLE")
           fi
+
+          for plugin in "${KNOWN_UNREACHABLE_PLUGINS[@]}"; do
+            if jq -e ".[\"$plugin\"]" "$TEMP_CURRENT_UNREACHABLE" >/dev/null; then
+              echo "🔁 插件 $plugin 仍不可达，将从 plugins.json 中删除"
+              jq "del(.\"$plugin\")" "$PLUGINS_JSON" > temp.json && mv temp.json "$PLUGINS_JSON"
+            else
+              echo "✅ 插件 $plugin 已恢复可达，保留在 plugins.json 中"
+            fi
+          done
+
+          # 保存本次不可达列表
+          cp "$TEMP_CURRENT_UNREACHABLE" "$UNREACHABLE_JSON"
+
+          # 统计信息
+          CURRENT_COUNT=$(jq 'length' "$TEMP_CURRENT_UNREACHABLE")
+          PREV_COUNT=$(jq 'length' "$TEMP_PREV_UNREACHABLE")
+          echo "本次共检测到 $CURRENT_COUNT 个不可达插件"
+          echo "上一版本记录了 $PREV_COUNT 个不可达插件"
 
       - name: Output the cleaned plugins.json
         run: |
           echo "Cleaned plugins.json:"
           cat plugins.json
+          echo "Current unreachable-plugins.json:"
+          cat unreachable-plugins.json
 
       - name: Commit and push changes
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           
-          # 检查是否有需要提交的更改
           if [[ $(git status --porcelain) ]]; then
             echo "Changes detected. Proceeding to commit and push."
-            git add plugins.json
-            git commit -m "Clean unreachable plugins from plugins.json"
+            git add plugins.json unreachable-plugins.json
+            git commit -m "Clean unreachable plugins and update unreachable-plugins.json"
             git push origin HEAD
           else
             echo "No changes detected. Skipping commit and push."
