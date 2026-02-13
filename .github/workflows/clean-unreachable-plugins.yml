@@ -59,7 +59,7 @@ jobs:
               echo "✓ $plugin 可达"
             else
               echo "✗ $plugin 不可达"
-              jq --arg p "$plugin" '. + {($p): $repo}' "$TEMP_CURRENT_UNREACHABLE" > "$TEMP_CURRENT_UNREACHABLE.tmp" && mv "$TEMP_CURRENT_UNREACHABLE.tmp" "$TEMP_CURRENT_UNREACHABLE"
+              jq --arg p "$plugin" --arg r "$repo" '. + {($p): $r}' "$TEMP_CURRENT_UNREACHABLE" > "$TEMP_CURRENT_UNREACHABLE.tmp" && mv "$TEMP_CURRENT_UNREACHABLE.tmp" "$TEMP_CURRENT_UNREACHABLE"
             fi
           done
 
