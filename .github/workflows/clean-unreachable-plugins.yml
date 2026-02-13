@@ -99,19 +99,25 @@ jobs:
           # 处理连续两次不可达的插件
           for plugin in "${CURRENT_UNREACHABLE_PLUGINS[@]}"; do
             if printf '%s\n' "${PREV_UNREACHABLE_PLUGINS[@]}" | grep -q "^$plugin$"; then
-              repo=$(jq -r ".[\"$plugin\"].repo" "$PLUGINS_JSON")
-              if ! curl --head --silent --fail --max-time 5 "$repo" >/dev/null; then
-                echo "🔁 插件 $plugin 连续两次不可达，将从 plugins.json 和 unreachable-plugins.json 中删除"
+              # 先从 plugins.json 获取完整数据（删除前）
+              plugin_data=$(jq ".[\"$plugin\"]" "$PLUGINS_JSON")
+              if [ "$plugin_data" != "null" ]; then
+                # 确认仍然不可达
+                repo=$(echo "$plugin_data" | jq -r '.repo')
+                if ! curl --head --silent --fail --max-time 5 "$repo" >/dev/null; then
+                  echo "🔁 插件 $plugin 连续两次不可达，将从 plugins.json 和 unreachable-plugins.json 中删除"
 
-                # 从 plugins.json 删除
-                jq "del(.\"$plugin\")" "$PLUGINS_JSON" > "$TEMP_PLUGINS" && mv "$TEMP_PLUGINS" "$PLUGINS_JSON"
+                  # 先写入 del-plugins.json（删除前写入，确保数据完整）
+                  TEMP_DEL_PLUGINS="temp_del_plugins.json"
+                  jq --arg p "$plugin" --argjson d "$plugin_data" '. + {($p): $d}' "$DEL_PLUGINS" > "$TEMP_DEL_PLUGINS" && mv "$TEMP_DEL_PLUGINS" "$DEL_PLUGINS"
+                  echo "✅ 已记录插件 $plugin 到 del-plugins.json"
 
-                # 从 unreachable-plugins.json 删除（使用独立临时文件）
-                jq "del(.\"$plugin\")" "$UNREACHABLE_JSON" > "$TEMP_UPDATED_UNREACHABLE" && mv "$TEMP_UPDATED_UNREACHABLE" "$UNREACHABLE_JSON"
+                  # 从 plugins.json 删除
+                  jq "del(.\"$plugin\")" "$PLUGINS_JSON" > "$TEMP_PLUGINS" && mv "$TEMP_PLUGINS" "$PLUGINS_JSON"
 
-                # 写入 del-plugins.json，使用独立临时文件避免冲突
-                TEMP_DEL_PLUGINS="temp_del_plugins.json"
-                jq --arg p "$plugin" --arg r "$repo" '. + {($p): $r}' "$DEL_PLUGINS" > "$TEMP_DEL_PLUGINS" && mv "$TEMP_DEL_PLUGINS" "$DEL_PLUGINS"
+                  # 从 unreachable-plugins.json 删除（使用独立临时文件）
+                  jq "del(.\"$plugin\")" "$UNREACHABLE_JSON" > "$TEMP_UPDATED_UNREACHABLE" && mv "$TEMP_UPDATED_UNREACHABLE" "$UNREACHABLE_JSON"
+                fi
               fi
             fi
           done
