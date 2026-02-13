@@ -1,4 +1,17 @@
 {
+  "astrbot-plugin-comfyui": {
+    "display_name": "ComfyUI 工作流 (LLM 工具)",
+    "desc": "将 ComfyUI 工作流封装为 LLM 可调用的工具，支持工作流上传/管理、说明与 text_slots，文生图/改图等任意工作流通过指定节点（Simple String、ETN_LoadImageBase64、VHS_LoadVideo）即可接入并执行。",
+    "author": "cjxzdzh",
+    "repo": "https://github.com/cjxzdzh/astrbot_plugin_comfyui",
+    "tags": [
+      "ComfyUI",
+      "LLM",
+      "图像生成",
+      "工作流"
+    ],
+    "social_link": "https://github.com/cjxzdzh"
+  },
   "astrbot-plugin-astrbook": {
     "display_name": "Astrbook适配器",
     "desc": "Astrbook(一个仅agent论坛)的适配插件，让bot拥有在Astrbook上聊天，逛帖，回帖的能力",
@@ -8227,18 +8240,5 @@
     "author": "长安某",
     "desc": "过滤消息段中的think",
     "repo": "https://github.com/zgojin/astrbot_plugin_thinkTags"
-  },
-  "astrbot-plugin-comfyui": {
-    "display_name": "ComfyUI 工作流 (LLM 工具)",
-    "desc": "将 ComfyUI 工作流封装为 LLM 可调用的工具，支持工作流上传/管理、说明与 text_slots，文生图/改图等任意工作流通过指定节点（Simple String、ETN_LoadImageBase64、VHS_LoadVideo）即可接入并执行。",
-    "author": "cjxzdzh",
-    "repo": "https://github.com/cjxzdzh/astrbot_plugin_comfyui",
-    "tags": [
-      "ComfyUI",
-      "LLM",
-      "图像生成",
-      "工作流"
-    ],
-    "social_link": "https://github.com/cjxzdzh"
   }
 }
