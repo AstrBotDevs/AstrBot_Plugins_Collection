@@ -1276,7 +1276,7 @@
     ],
     "stars": 5,
     "version": "v1.0.4",
-    "updated_at": "2026-02-12T09:44:03Z"
+    "updated_at": "2026-02-13T17:34:09Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -2511,8 +2511,8 @@
       "人格"
     ],
     "stars": 19,
-    "version": "0.99.999",
-    "updated_at": "2026-02-10T17:11:57Z"
+    "version": "0.99.1000",
+    "updated_at": "2026-02-13T16:56:31Z"
   },
   "astrbot_plugin_angel_heart": {
     "display_name": "天使之心",
@@ -9103,8 +9103,8 @@
     "repo": "https://github.com/monbed/astrbot_plugin_animewifex",
     "tags": [],
     "stars": 5,
-    "version": "v1.7.1",
-    "updated_at": "2026-02-13T16:43:23Z",
+    "version": "v1.7.2",
+    "updated_at": "2026-02-13T17:02:23Z",
     "logo": "https://raw.githubusercontent.com/monbed/astrbot_plugin_animewifex/master/logo.png"
   },
   "astrbot_plugin_emojimix": {
