@@ -9,9 +9,9 @@
       "自动水贴"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 20,
+    "stars": 21,
     "version": "2.5.0",
-    "updated_at": "2026-02-12T02:19:37Z"
+    "updated_at": "2026-02-13T01:57:31Z"
   },
   "astrbot_plugin_group_quiz": {
     "display_name": "每日技术问答",
@@ -770,7 +770,7 @@
     "tags": [],
     "stars": 4,
     "version": "v1.5.3",
-    "updated_at": "2026-02-12T22:16:16Z"
+    "updated_at": "2026-02-13T01:01:16Z"
   },
   "astrbot_plugin_HowMuchIsYourFace": {
     "display_name": "头像值多少",
