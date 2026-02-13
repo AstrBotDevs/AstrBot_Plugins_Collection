@@ -8240,5 +8240,15 @@
     "author": "长安某",
     "desc": "过滤消息段中的think",
     "repo": "https://github.com/zgojin/astrbot_plugin_thinkTags"
+  },
+  "ImgBB助手": {
+    "display_name": "ImgBB助手",
+    "desc": "这是一个用于AstrBot的插件，允许用户抓取指定 ImgBB 用户的公开相册图片，支持对订阅用户随机抓取,使用api_key上传图片到图床,以及通过 Cookie 访问受限内容。",
+    "author": "FGXYX",
+    "repo": "https://github.com/FGXYX/astrbot_plugin_ImgBB_Subscriber",
+    "tags": [
+      "免费图床"
+    ],
+    "social_link": "https://github.com/FGXYX"
   }
 }
