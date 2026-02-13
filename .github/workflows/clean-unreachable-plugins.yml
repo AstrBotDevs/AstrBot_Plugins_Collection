@@ -32,7 +32,7 @@ jobs:
 
           # 清理临时文件函数
           cleanup() {
-              rm -f "$TEMP_CURRENT_UNREACHABLE" "$TEMP_PREV_UNREACHABLE" "$TEMP_PLUGINS"
+              rm -f "$TEMP_CURRENT_UNREACHABLE" "$TEMP_PREV_UNREACHABLE" "$TEMP_PLUGINS" "$TEMP_CURRENT_UNREACHABLE.tmp"
           }
           trap cleanup EXIT
 
