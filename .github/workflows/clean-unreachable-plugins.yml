@@ -28,6 +28,13 @@ jobs:
           UNREACHABLE_JSON="unreachable-plugins.json"
           TEMP_CURRENT_UNREACHABLE="temp_current.json"
           TEMP_PREV_UNREACHABLE="temp_prev.json"
+          TEMP_PLUGINS="temp_plugins.json"
+
+          # 清理临时文件函数
+          cleanup() {
+              rm -f "$TEMP_CURRENT_UNREACHABLE" "$TEMP_PREV_UNREACHABLE" "$TEMP_PLUGINS"
+          }
+          trap cleanup EXIT
 
           # 初始化当前不可达列表
           echo "{}" > "$TEMP_CURRENT_UNREACHABLE"
@@ -65,7 +72,7 @@ jobs:
           for plugin in "${KNOWN_UNREACHABLE_PLUGINS[@]}"; do
             if jq -e ".[\"$plugin\"]" "$TEMP_CURRENT_UNREACHABLE" >/dev/null; then
               echo "🔁 插件 $plugin 仍不可达，将从 plugins.json 中删除"
-              jq "del(.\"$plugin\")" "$PLUGINS_JSON" > temp.json && mv temp.json "$PLUGINS_JSON"
+              jq "del(.\"$plugin\")" "$PLUGINS_JSON" > "$TEMP_PLUGINS" && mv "$TEMP_PLUGINS" "$PLUGINS_JSON"
             else
               echo "✅ 插件 $plugin 已恢复可达，保留在 plugins.json 中"
             fi
