@@ -136,7 +136,7 @@ jobs:
           
           if [[ $(git status --porcelain) ]]; then
             echo "Changes detected. Proceeding to commit and push."
-            git add plugins.json unreachable-plugins.json
+            git add plugins.json unreachable-plugins.json del-plugins.json
             git commit -m "Clean unreachable plugins and update unreachable-plugins.json"
             git push origin HEAD
           else
