@@ -56,14 +56,14 @@
     "social_link": "github.com/hutuyee"
   },
   "astrbot_plugin_memory_reboot": {
-     "display_name": "旧消息提醒 火星救援插件", 
-     "desc": "当群聊中有人重复发送旧的新闻/话题时，自动引用回复提醒该用户", 
-     "author": "s11IM、idiotsj", 
-     "repo": "https://github.com/s11IM/astrbot_plugin_memory_reboot", 
-     "tags": [ 
-       "群聊", 
-       "提醒"
-     ] 
+    "display_name": "旧消息提醒 火星救援插件",
+    "desc": "当群聊中有人重复发送旧的新闻/话题时，自动引用回复提醒该用户",
+    "author": "s11IM、idiotsj",
+    "repo": "https://github.com/s11IM/astrbot_plugin_memory_reboot",
+    "tags": [
+      "群聊",
+      "提醒"
+    ]
   },
   "astrbot_plugin_nbalance": {
     "display_name": "NewAPI余额查询",
@@ -8227,5 +8227,18 @@
     "author": "长安某",
     "desc": "过滤消息段中的think",
     "repo": "https://github.com/zgojin/astrbot_plugin_thinkTags"
+  },
+  "astrbot-plugin-comfyui": {
+    "display_name": "ComfyUI 工作流 (LLM 工具)",
+    "desc": "将 ComfyUI 工作流封装为 LLM 可调用的工具，支持工作流上传/管理、说明与 text_slots，文生图/改图等任意工作流通过指定节点（Simple String、ETN_LoadImageBase64、VHS_LoadVideo）即可接入并执行。",
+    "author": "cjxzdzh",
+    "repo": "https://github.com/cjxzdzh/astrbot_plugin_comfyui",
+    "tags": [
+      "ComfyUI",
+      "LLM",
+      "图像生成",
+      "工作流"
+    ],
+    "social_link": "https://github.com/cjxzdzh"
   }
 }
