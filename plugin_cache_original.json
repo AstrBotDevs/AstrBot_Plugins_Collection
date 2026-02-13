@@ -1,4 +1,63 @@
 {
+  "astrbot-plugin-bili-resolver": {
+    "display_name": "Bilibili 小程序原链解析",
+    "desc": "Bilibili的小组件最麻烦了，电脑打不开，于是做了个可以直接转成原链接和展示播放和介绍的工具",
+    "author": "chufeng",
+    "repo": "https://github.com/chufeng/astrbot_plugin_bili_resolver",
+    "tags": [
+      "Bilibili",
+      "B站",
+      "转链"
+    ],
+    "stars": 0,
+    "version": "1.0.1",
+    "updated_at": "2026-02-12T02:59:11Z"
+  },
+  "astrbot-plugin-inkfusion": {
+    "display_name": "A1111文生图插件",
+    "desc": "用于Astrbot的Pollinations、SD（stable diffusion A1111）、llm图片生成插件",
+    "author": "F5",
+    "repo": "https://github.com/fatsnk/astrbot_plugin_inkfusion",
+    "tags": [
+      "A1111",
+      "stable diffusion",
+      "text2img",
+      "sd"
+    ],
+    "social_link": "https://fatsnk.github.io/fatsnk/",
+    "stars": 0,
+    "version": "0.1.0",
+    "updated_at": "2026-02-12T13:46:15Z"
+  },
+  "ImgBB助手": {
+    "display_name": "ImgBB助手",
+    "desc": "这是一个用于AstrBot的插件，允许用户抓取指定 ImgBB 用户的公开相册图片，支持对订阅用户随机抓取,使用api_key上传图片到图床,以及通过 Cookie 访问受限内容。",
+    "author": "FGXYX",
+    "repo": "https://github.com/FGXYX/astrbot_plugin_ImgBB_Subscriber",
+    "tags": [
+      "免费图床"
+    ],
+    "social_link": "https://github.com/FGXYX",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-02-05T16:50:22Z"
+  },
+  "astrbot-plugin-comfyui": {
+    "display_name": "ComfyUI 工作流 (LLM 工具)",
+    "desc": "将 ComfyUI 工作流封装为 LLM 可调用的工具，支持工作流上传/管理、说明与 text_slots，文生图/改图等任意工作流通过指定节点（Simple String、ETN_LoadImageBase64、VHS_LoadVideo）即可接入并执行。",
+    "author": "cjxzdzh",
+    "repo": "https://github.com/cjxzdzh/astrbot_plugin_comfyui",
+    "tags": [
+      "ComfyUI",
+      "LLM",
+      "图像生成",
+      "工作流"
+    ],
+    "social_link": "https://github.com/cjxzdzh",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-02-12T08:46:26Z"
+  },
   "astrbot-plugin-astrbook": {
     "display_name": "Astrbook适配器",
     "desc": "Astrbook(一个仅agent论坛)的适配插件，让bot拥有在Astrbook上聊天，逛帖，回帖的能力",
@@ -271,9 +330,9 @@
       "agent",
       "codegen"
     ],
-    "stars": 13,
+    "stars": 14,
     "version": "1.1.1",
-    "updated_at": "2026-02-13T08:10:42Z",
+    "updated_at": "2026-02-13T13:26:31Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -1130,9 +1189,9 @@
       "群聊圣经"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 163,
+    "stars": 164,
     "version": "v4.7.7",
-    "updated_at": "2026-02-13T08:21:56Z",
+    "updated_at": "2026-02-13T13:29:56Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -1186,9 +1245,9 @@
       "用来水作业再合适不过了"
     ],
     "social_link": "https://blog.gbkgov.cn",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-02-04T14:24:04Z",
+    "updated_at": "2026-02-13T13:25:42Z",
     "logo": "https://raw.githubusercontent.com/Chris95743/astrbot_plugin_mysql/main/logo.png"
   },
   "astrbot_plugin_github_webhook": {
@@ -3556,8 +3615,8 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "stars": 47,
-    "version": "v2.2.0",
-    "updated_at": "2026-02-11T07:33:38Z",
+    "version": "v2.3.0",
+    "updated_at": "2026-02-13T14:32:43Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -7179,7 +7238,7 @@
     ],
     "stars": 6,
     "version": "v1.5.0",
-    "updated_at": "2026-02-11T10:02:42Z",
+    "updated_at": "2026-02-13T13:47:36Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -8524,8 +8583,8 @@
     ],
     "social_link": "https://github.com/Angus-fw",
     "stars": 21,
-    "version": "v1.1.5",
-    "updated_at": "2026-01-29T08:40:14Z"
+    "version": "v1.2.2",
+    "updated_at": "2026-02-13T14:40:02Z"
   },
   "astrbot_plugin_timetask": {
     "author": "ZW",
@@ -10191,8 +10250,8 @@
     "social_link": "https://github.com/xiewoc",
     "tags": [],
     "stars": 5,
-    "version": "v1.0.2",
-    "updated_at": "2025-12-21T05:11:42Z"
+    "version": "v1.0.3",
+    "updated_at": "2026-02-13T13:33:27Z"
   },
   "astrbot_plugin_CounterStrikle": {
     "desc": "Blast-TV 上的 Counter-Strikle 小游戏，图片卡片渲染。",
@@ -11673,21 +11732,5 @@
     "stars": 5,
     "version": "v1.4.2",
     "updated_at": "2025-12-21T13:30:29Z"
-  },
-  "astrbot-plugin-comfyui": {
-    "display_name": "ComfyUI 工作流 (LLM 工具)",
-    "desc": "将 ComfyUI 工作流封装为 LLM 可调用的工具，支持工作流上传/管理、说明与 text_slots，文生图/改图等任意工作流通过指定节点（Simple String、ETN_LoadImageBase64、VHS_LoadVideo）即可接入并执行。",
-    "author": "cjxzdzh",
-    "repo": "https://github.com/cjxzdzh/astrbot_plugin_comfyui",
-    "tags": [
-      "ComfyUI",
-      "LLM",
-      "图像生成",
-      "工作流"
-    ],
-    "social_link": "https://github.com/cjxzdzh",
-    "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-02-12T08:46:26Z"
   }
 }
