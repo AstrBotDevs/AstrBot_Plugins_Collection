@@ -1735,9 +1735,9 @@
     ],
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
-    "stars": 100,
+    "stars": 101,
     "version": "Next-1.1.7",
-    "updated_at": "2026-02-12T00:39:31Z",
+    "updated_at": "2026-02-13T06:56:59Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -11137,9 +11137,9 @@
     "author": "Flartiny & Soulter",
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "tags": [],
-    "stars": 38,
+    "stars": 39,
     "version": "v1.5.3",
-    "updated_at": "2026-02-12T08:14:13Z",
+    "updated_at": "2026-02-13T07:00:57Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
