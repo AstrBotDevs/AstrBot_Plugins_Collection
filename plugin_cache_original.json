@@ -153,7 +153,7 @@
     "social_link": "https://github.com/lxfight",
     "stars": 1,
     "version": "1.0.0",
-    "updated_at": "2026-02-12T12:44:15Z"
+    "updated_at": "2026-02-13T08:04:14Z"
   },
   "astrbot_plugin_telegram_summary": {
     "name": "",
@@ -271,9 +271,9 @@
       "agent",
       "codegen"
     ],
-    "stars": 12,
+    "stars": 13,
     "version": "1.1.1",
-    "updated_at": "2026-02-10T02:07:40Z",
+    "updated_at": "2026-02-13T08:10:42Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -769,8 +769,8 @@
     "repo": "https://github.com/mjy1113451/astrbot_plugin_friends_welcome",
     "tags": [],
     "stars": 4,
-    "version": "v1.5.4",
-    "updated_at": "2026-02-13T05:24:12Z"
+    "version": "v1.5.5",
+    "updated_at": "2026-02-13T07:57:09Z"
   },
   "astrbot_plugin_HowMuchIsYourFace": {
     "display_name": "头像值多少",
@@ -1053,9 +1053,9 @@
       "管理"
     ],
     "social_link": "https://github.com/VanillaNahida",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-01-30T07:44:14Z",
+    "updated_at": "2026-02-13T07:37:29Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_auto_clean_member/master/logo.png"
   },
   "astrbot_plugin_judge": {
@@ -1130,9 +1130,9 @@
       "群聊圣经"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 162,
+    "stars": 163,
     "version": "v4.7.7",
-    "updated_at": "2026-02-13T02:51:30Z",
+    "updated_at": "2026-02-13T08:21:56Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -1438,8 +1438,8 @@
       "自动回复"
     ],
     "stars": 2,
-    "version": "v1.0.1",
-    "updated_at": "2026-02-06T11:11:22Z",
+    "version": "v1.1.0",
+    "updated_at": "2026-02-13T08:20:42Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_keywords_reply/master/logo.png"
   },
   "astrbot_plugin_text2img": {
@@ -2436,9 +2436,9 @@
       "桌面客户端"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 17,
+    "stars": 18,
     "version": "1.1.3",
-    "updated_at": "2026-02-11T09:10:57Z",
+    "updated_at": "2026-02-13T07:56:36Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
@@ -8705,9 +8705,9 @@
       "画像"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 57,
+    "stars": 58,
     "version": "v1.1.0",
-    "updated_at": "2026-02-08T18:46:19Z",
+    "updated_at": "2026-02-13T08:23:04Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
@@ -8897,9 +8897,9 @@
       "戳一戳"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 42,
+    "stars": 43,
     "version": "v2.0.2",
-    "updated_at": "2026-02-11T09:46:01Z",
+    "updated_at": "2026-02-13T08:23:02Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_pokepro/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
@@ -10326,9 +10326,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
-    "stars": 82,
+    "stars": 83,
     "version": "v3.0.3",
-    "updated_at": "2026-01-20T09:17:43Z",
+    "updated_at": "2026-02-13T08:22:32Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
@@ -10808,9 +10808,9 @@
       "主动回复"
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-    "stars": 95,
+    "stars": 96,
     "version": "v2.1.10",
-    "updated_at": "2026-02-11T15:53:24Z"
+    "updated_at": "2026-02-13T08:22:18Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
@@ -11499,9 +11499,9 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 171,
+    "stars": 172,
     "version": "v2.0.15",
-    "updated_at": "2026-02-12T04:50:55Z"
+    "updated_at": "2026-02-13T08:21:39Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
