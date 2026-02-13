@@ -1735,9 +1735,9 @@
     ],
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
-    "stars": 101,
+    "stars": 102,
     "version": "Next-1.1.7",
-    "updated_at": "2026-02-13T06:56:59Z",
+    "updated_at": "2026-02-13T12:49:35Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -3836,9 +3836,9 @@
       "Minecraft"
     ],
     "social_link": "https://www.misakanet.site",
-    "stars": 6,
+    "stars": 7,
     "version": "1.2.0",
-    "updated_at": "2026-01-14T11:47:41Z",
+    "updated_at": "2026-02-13T13:03:08Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_minecraft_adapter/master/logo.png"
   },
   "astrbot_plugin_temp-email": {
@@ -4379,9 +4379,9 @@
       "主动回复"
     ],
     "social_link": "https://github.com/Him666233",
-    "stars": 38,
+    "stars": 39,
     "version": "v1.1.2",
-    "updated_at": "2026-02-11T07:34:51Z",
+    "updated_at": "2026-02-13T12:53:13Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -8376,9 +8376,9 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 98,
+    "stars": 99,
     "version": "v2.0.7",
-    "updated_at": "2026-02-05T12:57:07Z",
+    "updated_at": "2026-02-13T12:42:07Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -8897,9 +8897,9 @@
       "戳一戳"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 43,
+    "stars": 44,
     "version": "v2.0.2",
-    "updated_at": "2026-02-13T08:23:02Z",
+    "updated_at": "2026-02-13T12:48:42Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_pokepro/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
@@ -10808,9 +10808,9 @@
       "主动回复"
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-    "stars": 96,
+    "stars": 97,
     "version": "v2.1.10",
-    "updated_at": "2026-02-13T08:22:18Z"
+    "updated_at": "2026-02-13T12:42:24Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
@@ -10912,9 +10912,9 @@
       "图床"
     ],
     "pinned": true,
-    "stars": 130,
+    "stars": 131,
     "version": "v3.19",
-    "updated_at": "2026-02-12T10:24:47Z"
+    "updated_at": "2026-02-13T12:48:15Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
@@ -11673,5 +11673,21 @@
     "stars": 5,
     "version": "v1.4.2",
     "updated_at": "2025-12-21T13:30:29Z"
+  },
+  "astrbot-plugin-comfyui": {
+    "display_name": "ComfyUI 工作流 (LLM 工具)",
+    "desc": "将 ComfyUI 工作流封装为 LLM 可调用的工具，支持工作流上传/管理、说明与 text_slots，文生图/改图等任意工作流通过指定节点（Simple String、ETN_LoadImageBase64、VHS_LoadVideo）即可接入并执行。",
+    "author": "cjxzdzh",
+    "repo": "https://github.com/cjxzdzh/astrbot_plugin_comfyui",
+    "tags": [
+      "ComfyUI",
+      "LLM",
+      "图像生成",
+      "工作流"
+    ],
+    "social_link": "https://github.com/cjxzdzh",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-02-12T08:46:26Z"
   }
 }
