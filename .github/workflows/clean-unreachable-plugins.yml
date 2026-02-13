@@ -63,23 +63,21 @@ jobs:
             fi
           done
 
-          # 处理已知不可达插件（来自上一版本）
-          KNOWN_UNREACHABLE_PLUGINS=()
-          if [ "$PREV_UNREACHABLE_EXISTS" = true ]; then
-            mapfile -t KNOWN_UNREACHABLE_PLUGINS < <(jq -r 'keys[]' "$TEMP_PREV_UNREACHABLE")
-          fi
-
-          for plugin in "${KNOWN_UNREACHABLE_PLUGINS[@]}"; do
-            if jq -e ".[\"$plugin\"]" "$TEMP_CURRENT_UNREACHABLE" >/dev/null; then
-              echo "🔁 插件 $plugin 仍不可达，将从 plugins.json 中删除"
-              jq "del(.\"$plugin\")" "$PLUGINS_JSON" > "$TEMP_PLUGINS" && mv "$TEMP_PLUGINS" "$PLUGINS_JSON"
-            else
-              echo "✅ 插件 $plugin 已恢复可达，保留在 plugins.json 中"
-            fi
-          done
-
           # 保存本次不可达列表
           cp "$TEMP_CURRENT_UNREACHABLE" "$UNREACHABLE_JSON"
+
+          # 处理所有当前不可达插件
+          mapfile -t CURRENT_UNREACHABLE_PLUGINS < <(jq -r 'keys[]' "$UNREACHABLE_JSON")
+
+          for plugin in "${CURRENT_UNREACHABLE_PLUGINS[@]}"; do
+            repo=$(jq -r ".[\"$plugin\"].repo" "$PLUGINS_JSON")
+            if curl --head --silent --fail --max-time 5 "$repo" >/dev/null; then
+              echo "✅ 插件 $plugin 恢复可达，保留在 plugins.json 中"
+            else
+              echo "🔁 插件 $plugin 不可达，将从 plugins.json 中删除"
+              jq "del(.\"$plugin\")" "$PLUGINS_JSON" > "$TEMP_PLUGINS" && mv "$TEMP_PLUGINS" "$PLUGINS_JSON"
+            fi
+          done
 
           # 统计信息
           CURRENT_COUNT=$(jq 'length' "$TEMP_CURRENT_UNREACHABLE")
