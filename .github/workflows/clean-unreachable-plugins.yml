@@ -84,6 +84,18 @@ jobs:
           # 当前仍不可达的插件
           mapfile -t CURRENT_UNREACHABLE_PLUGINS < <(jq -r 'keys[]' "$UNREACHABLE_JSON")
 
+          # 先处理恢复可达的情况：从 unreachable-plugins.json 中移除已恢复的插件
+          for plugin in "${PREV_UNREACHABLE_PLUGINS[@]}"; do
+            if ! printf '%s\n' "${CURRENT_UNREACHABLE_PLUGINS[@]}" | grep -q "^$plugin$"; then
+              # 插件曾不可达但当前可达了
+              repo=$(jq -r ".[\"$plugin\"].repo" "$PLUGINS_JSON")
+              if curl --head --silent --fail --max-time 5 "$repo" >/dev/null; then
+                echo "✅ 插件 $plugin 已恢复可达，从 unreachable-plugins.json 中移除"
+                jq "del(.\"$plugin\")" "$UNREACHABLE_JSON" > "$TEMP_UPDATED_UNREACHABLE" && mv "$TEMP_UPDATED_UNREACHABLE" "$UNREACHABLE_JSON"
+              fi
+            fi
+          done
+
           # 处理连续两次不可达的插件
           for plugin in "${CURRENT_UNREACHABLE_PLUGINS[@]}"; do
             if printf '%s\n' "${PREV_UNREACHABLE_PLUGINS[@]}" | grep -q "^$plugin$"; then
