@@ -97,8 +97,9 @@ jobs:
                 # 从 unreachable-plugins.json 删除（使用独立临时文件）
                 jq "del(.\"$plugin\")" "$UNREACHABLE_JSON" > "$TEMP_UPDATED_UNREACHABLE" && mv "$TEMP_UPDATED_UNREACHABLE" "$UNREACHABLE_JSON"
 
-                # 写入 del-plugins.json
-                jq --arg p "$plugin" --arg r "$repo" '. + {($p): $r}' "$DEL_PLUGINS" > "$TEMP_PLUGINS" && mv "$TEMP_PLUGINS" "$DEL_PLUGINS"
+                # 写入 del-plugins.json，使用独立临时文件避免冲突
+                TEMP_DEL_PLUGINS="temp_del_plugins.json"
+                jq --arg p "$plugin" --arg r "$repo" '. + {($p): $r}' "$DEL_PLUGINS" > "$TEMP_DEL_PLUGINS" && mv "$TEMP_DEL_PLUGINS" "$DEL_PLUGINS"
               fi
             fi
           done
