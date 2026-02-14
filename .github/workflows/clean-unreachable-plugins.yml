@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout the repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4.2.2
         with:
           fetch-depth: 0
 
@@ -26,7 +26,11 @@ jobs:
 
           PLUGINS_JSON="plugins.json"
           UNREACHABLE_JSON="unreachable-plugins.json"
-          DEFAULT_BRANCH="${{ github.event.repository.default_branch }}"
+          DEFAULT_BRANCH=""
+          DEFAULT_BRANCH="$(git symbolic-ref --quiet --short refs/remotes/origin/HEAD 2>/dev/null | sed 's@^origin/@@' || true)"
+          if [[ -z "${DEFAULT_BRANCH:-}" && "${GITHUB_REF:-}" == refs/heads/* ]]; then
+            DEFAULT_BRANCH="${GITHUB_REF#refs/heads/}"
+          fi
           DEFAULT_BRANCH="${DEFAULT_BRANCH:-main}"
           TEMP_CURRENT_UNREACHABLE="temp_current.json"
           TEMP_CURRENT_UNREACHABLE_TMP="temp_current.tmp.json"
@@ -67,10 +71,11 @@ jobs:
             [[ -z "$plugin" ]] && continue
             [[ -z "$repo" || "$repo" == "null" ]] && { echo "跳过插件 $plugin：缺少 repo"; continue; }
             echo "检查插件 $plugin 的仓库: $repo"
-            if curl --silent --fail --location --max-time 5 --request GET --range 0-0 "$repo" >/dev/null; then
+            http_code="$(curl --silent --location --max-time 5 --request GET --range 0-0 --output /dev/null --write-out '%{http_code}' "$repo" || true)"
+            if [[ "$http_code" =~ ^2[0-9][0-9]$ || "$http_code" =~ ^3[0-9][0-9]$ || "$http_code" == "416" ]]; then
               echo "✓ $plugin 可达"
             else
-              echo "✗ $plugin 不可达"
+              echo "✗ $plugin 不可达（HTTP $http_code）"
               jq --arg p "$plugin" --arg r "$repo" '. + {($p): $r}' "$TEMP_CURRENT_UNREACHABLE" > "$TEMP_CURRENT_UNREACHABLE_TMP" && mv "$TEMP_CURRENT_UNREACHABLE_TMP" "$TEMP_CURRENT_UNREACHABLE"
             fi
           done < <(jq -r 'to_entries[] | [.key, .value.repo] | @tsv' "$PLUGINS_JSON")
@@ -134,7 +139,7 @@ jobs:
           done
 
           # 统计信息
-          CURRENT_COUNT=$(jq 'length' "$TEMP_CURRENT_UNREACHABLE")
+          CURRENT_COUNT=$(jq 'length' "$UNREACHABLE_JSON")
           PREV_COUNT=$(jq 'length' "$TEMP_PREV_UNREACHABLE")
           echo "本次共检测到 $CURRENT_COUNT 个不可达插件"
           echo "上一版本记录了 $PREV_COUNT 个不可达插件"
