@@ -1314,8 +1314,8 @@
       "抖音"
     ],
     "stars": 5,
-    "version": "v1.0.4",
-    "updated_at": "2026-02-13T17:54:44Z"
+    "version": "v1.0.5",
+    "updated_at": "2026-02-14T16:38:39Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -5295,7 +5295,7 @@
     "tags": [],
     "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2025-11-29T08:35:38Z"
+    "updated_at": "2026-02-14T16:51:52Z"
   },
   "astrbot_plugin_galplayer": {
     "desc": "一个可以让你和群友一起推galgame的插件，需要在windows电脑上运行galgame本体。",
