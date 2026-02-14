@@ -1,4 +1,17 @@
 {
+  "astrbot-plugin-mcbe-news": {
+    "display_name": "MCBE 更新监控与 AI 总结插件",
+    "desc": "定时监控 Minecraft 基岩版官方更新，自动使用 AI 总结并推送到群聊，支持 Beta 和正式版",
+    "author": "Yuehua",
+    "repo": "https://github.com/YueHua46/astrbot_plugin_mcbe_news",
+    "tags": [
+      "MC",
+      "我的世界",
+      "我的世界基岩版",
+      "MCBE"
+    ],
+    "social_link": "https://github.com/YueHua46"
+  },
   "astrbot-plugin-wordlimit": {
     "display_name": "字数限制器",
     "desc": "在 LLM 回复后检查字数，超过限制时自动使用 LLM 缩短回复内容",
