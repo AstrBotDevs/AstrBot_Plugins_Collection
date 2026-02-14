@@ -82,7 +82,7 @@
     "social_link": "https://github.com/advent259141",
     "stars": 21,
     "version": "2.6.2",
-    "updated_at": "2026-02-14T06:14:59Z"
+    "updated_at": "2026-02-14T10:52:37Z"
   },
   "astrbot_plugin_group_quiz": {
     "display_name": "每日技术问答",
@@ -253,8 +253,8 @@
       "数据查询"
     ],
     "stars": 3,
-    "version": "v1.0.1",
-    "updated_at": "2026-02-14T03:56:42Z",
+    "version": "v1.0.2",
+    "updated_at": "2026-02-14T10:33:14Z",
     "logo": "https://raw.githubusercontent.com/qsc20001102/astrbot_plugin_gok/master/logo.png"
   },
   "astrbot_plugin_lyrics_trigger": {
@@ -1889,7 +1889,7 @@
     "social_link": "https://github.com/Clhikari",
     "stars": 2,
     "version": "v1.2.3",
-    "updated_at": "2026-02-14T10:02:39Z",
+    "updated_at": "2026-02-14T11:17:10Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
