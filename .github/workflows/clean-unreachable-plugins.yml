@@ -2,15 +2,25 @@ name: Clean Unreachable Plugins
 
 on:
   workflow_dispatch:
+    inputs:
+      curl_timeout_seconds:
+        description: "curl 请求超时时间（秒）"
+        required: false
+        default: "5"
   schedule:
-    - cron: '0 16 */3 * *'
+    - cron: '0 21 * * *'
 
 jobs:
   clean-unreachable-plugins:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash
+    env:
+      CURL_TIMEOUT_SECONDS: ${{ github.event.inputs.curl_timeout_seconds || '5' }}
     steps:
       - name: Checkout the repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4.2.2
         with:
           fetch-depth: 0
 
@@ -26,51 +36,78 @@ jobs:
 
           PLUGINS_JSON="plugins.json"
           UNREACHABLE_JSON="unreachable-plugins.json"
+          DEFAULT_BRANCH=""
+          DEFAULT_BRANCH="$(git symbolic-ref --quiet --short refs/remotes/origin/HEAD 2>/dev/null | sed 's@^origin/@@' || true)"
+          if [[ -z "${DEFAULT_BRANCH:-}" && "${GITHUB_REF:-}" == refs/heads/* ]]; then
+            DEFAULT_BRANCH="${GITHUB_REF#refs/heads/}"
+          fi
+          DEFAULT_BRANCH="${DEFAULT_BRANCH:-main}"
           TEMP_CURRENT_UNREACHABLE="temp_current.json"
-          TEMP_CURRENT_UNREACHABLE_TMP="temp_current.tmp.json"
+          TEMP_CURRENT_UNREACHABLE_LINES="temp_current_unreachable_lines.tsv"
           TEMP_PREV_UNREACHABLE="temp_prev.json"
           TEMP_PLUGINS="temp_plugins.json"
           TEMP_UPDATED_UNREACHABLE="temp_updated_unreachable.json"
           TEMP_DEL_PLUGINS="temp_del_plugins.json"
+          TEMP_FILES=(
+            "$TEMP_CURRENT_UNREACHABLE"
+            "$TEMP_CURRENT_UNREACHABLE_LINES"
+            "$TEMP_PREV_UNREACHABLE"
+            "$TEMP_PLUGINS"
+            "$TEMP_UPDATED_UNREACHABLE"
+            "$TEMP_DEL_PLUGINS"
+          )
 
           # 清理临时文件函数
           cleanup() {
-              rm -f \
-                "$TEMP_CURRENT_UNREACHABLE" \
-                "$TEMP_CURRENT_UNREACHABLE_TMP" \
-                "$TEMP_PREV_UNREACHABLE" \
-                "$TEMP_PLUGINS" \
-                "$TEMP_UPDATED_UNREACHABLE" \
-                "$TEMP_DEL_PLUGINS"
+              rm -f "${TEMP_FILES[@]}"
           }
           trap cleanup EXIT
 
-          # 初始化当前不可达列表
-          echo "{}" > "$TEMP_CURRENT_UNREACHABLE"
+          # 允许通过 workflow_dispatch input 或环境变量调整超时
+          CURL_TIMEOUT_SECONDS="${CURL_TIMEOUT_SECONDS:-5}"
+          if ! [[ "$CURL_TIMEOUT_SECONDS" =~ ^[1-9][0-9]*$ ]]; then
+            echo "无效的 CURL_TIMEOUT_SECONDS=$CURL_TIMEOUT_SECONDS，回退到 5 秒"
+            CURL_TIMEOUT_SECONDS=5
+          fi
 
-          # 获取主分支上一版本 unreachable-plugins.json
-          echo "获取主分支上的上一版本 unreachable-plugins.json..."
-          if git show origin/main:"$UNREACHABLE_JSON" > "$TEMP_PREV_UNREACHABLE" 2>/dev/null; then
+          # 初始化当前不可达列表
+          : > "$TEMP_CURRENT_UNREACHABLE_LINES"
+
+          # 获取默认分支上一版本 unreachable-plugins.json
+          echo "获取默认分支（$DEFAULT_BRANCH）上的上一版本 unreachable-plugins.json..."
+          if git show "origin/${DEFAULT_BRANCH}:${UNREACHABLE_JSON}" > "$TEMP_PREV_UNREACHABLE" 2>/dev/null; then
             echo "成功获取上一版本 unreachable-plugins.json"
-            PREV_UNREACHABLE_EXISTS=true
           else
             echo "未找到上一版本 unreachable-plugins.json，视为首次运行"
-            PREV_UNREACHABLE_EXISTS=false
             echo "{}" > "$TEMP_PREV_UNREACHABLE"
           fi
 
           # 检测当前所有插件可达性
           echo "检测 plugins.json 中所有插件的可达性..."
-          jq -r 'keys[]' "$PLUGINS_JSON" | while read -r plugin; do
-            repo=$(jq -r --arg p "$plugin" '.[$p].repo' "$PLUGINS_JSON")
+          while IFS=$'\t' read -r plugin repo; do
+            [[ -z "$plugin" ]] && continue
+            [[ -z "$repo" || "$repo" == "null" ]] && { echo "跳过插件 $plugin：缺少 repo"; continue; }
             echo "检查插件 $plugin 的仓库: $repo"
-            if curl --head --silent --fail --max-time 5 "$repo" >/dev/null; then
+            http_code="$(curl --silent --location --max-time "$CURL_TIMEOUT_SECONDS" --request GET --range 0-0 --output /dev/null --write-out '%{http_code}' "$repo" || true)"
+            if [[ "$http_code" =~ ^2[0-9][0-9]$ || "$http_code" =~ ^3[0-9][0-9]$ || "$http_code" == "416" ]]; then
               echo "✓ $plugin 可达"
             else
-              echo "✗ $plugin 不可达"
-              jq --arg p "$plugin" --arg r "$repo" '. + {($p): $r}' "$TEMP_CURRENT_UNREACHABLE" > "$TEMP_CURRENT_UNREACHABLE_TMP" && mv "$TEMP_CURRENT_UNREACHABLE_TMP" "$TEMP_CURRENT_UNREACHABLE"
+              echo "✗ $plugin 不可达（HTTP $http_code）"
+              printf '%s\t%s\n' "$plugin" "$repo" >> "$TEMP_CURRENT_UNREACHABLE_LINES"
             fi
-          done
+          done < <(jq -r 'to_entries[] | [.key, .value.repo] | @tsv' "$PLUGINS_JSON")
+
+          # 将本次不可达插件一次性构建为 JSON，减少循环内 jq 调用
+          if [[ -s "$TEMP_CURRENT_UNREACHABLE_LINES" ]]; then
+            jq -Rn '
+              reduce inputs as $line ({};
+                ($line | split("\t")) as $f
+                | if ($f | length) == 2 then . + {($f[0]): $f[1]} else . end
+              )
+            ' "$TEMP_CURRENT_UNREACHABLE_LINES" > "$TEMP_CURRENT_UNREACHABLE"
+          else
+            echo "{}" > "$TEMP_CURRENT_UNREACHABLE"
+          fi
 
           # 保存本次不可达列表
           cp "$TEMP_CURRENT_UNREACHABLE" "$UNREACHABLE_JSON"
@@ -78,7 +115,8 @@ jobs:
           # 初始化已删除插件记录文件
           DEL_PLUGINS="del-plugins.json"
           if [[ ! -f "$DEL_PLUGINS" ]]; then
-            echo "{}" > "$DEL_PLUGINS"
+            # Use a temp file + atomic rename to avoid leaving partial files on failure.
+            echo "{}" > "$TEMP_DEL_PLUGINS" && mv "$TEMP_DEL_PLUGINS" "$DEL_PLUGINS"
           fi
 
           # 读取之前记录的不可达插件
@@ -89,10 +127,14 @@ jobs:
 
           # 当前仍不可达的插件
           mapfile -t CURRENT_UNREACHABLE_PLUGINS < <(jq -r 'keys[]' "$UNREACHABLE_JSON")
+          declare -A PREV_UNREACHABLE_SET=()
+          declare -A CURRENT_UNREACHABLE_SET=()
+          for plugin in "${PREV_UNREACHABLE_PLUGINS[@]}"; do PREV_UNREACHABLE_SET["$plugin"]=1; done
+          for plugin in "${CURRENT_UNREACHABLE_PLUGINS[@]}"; do CURRENT_UNREACHABLE_SET["$plugin"]=1; done
 
           # 先处理恢复可达的情况：从 unreachable-plugins.json 中移除已恢复的插件
           for plugin in "${PREV_UNREACHABLE_PLUGINS[@]}"; do
-            if ! printf '%s\n' "${CURRENT_UNREACHABLE_PLUGINS[@]}" | grep -Fxq -- "$plugin"; then
+            if [[ -z "${CURRENT_UNREACHABLE_SET[$plugin]+x}" ]]; then
               # 这里直接复用本次首轮检测结果：不在 CURRENT_UNREACHABLE_PLUGINS 中即视为已恢复或已移除
               if jq -e --arg p "$plugin" 'has($p)' "$PLUGINS_JSON" >/dev/null; then
                 echo "✅ 插件 $plugin 已恢复可达，从 unreachable-plugins.json 中移除"
@@ -105,7 +147,7 @@ jobs:
 
           # 处理连续两次不可达的插件
           for plugin in "${CURRENT_UNREACHABLE_PLUGINS[@]}"; do
-            if printf '%s\n' "${PREV_UNREACHABLE_PLUGINS[@]}" | grep -Fxq -- "$plugin"; then
+            if [[ -n "${PREV_UNREACHABLE_SET[$plugin]+x}" ]]; then
               # 先从 plugins.json 获取完整数据（删除前）
               plugin_data=$(jq --arg p "$plugin" '.[$p]' "$PLUGINS_JSON")
               if [ "$plugin_data" != "null" ]; then
@@ -126,7 +168,7 @@ jobs:
           done
 
           # 统计信息
-          CURRENT_COUNT=$(jq 'length' "$TEMP_CURRENT_UNREACHABLE")
+          CURRENT_COUNT=$(jq 'length' "$UNREACHABLE_JSON")
           PREV_COUNT=$(jq 'length' "$TEMP_PREV_UNREACHABLE")
           echo "本次共检测到 $CURRENT_COUNT 个不可达插件"
           echo "上一版本记录了 $PREV_COUNT 个不可达插件"
