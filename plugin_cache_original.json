@@ -1763,9 +1763,9 @@
       "NLP"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 22,
+    "stars": 23,
     "version": "1.1.1",
-    "updated_at": "2026-02-13T15:09:13Z"
+    "updated_at": "2026-02-14T07:36:46Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -1903,9 +1903,9 @@
       "每日推送"
     ],
     "social_link": "https://github.com/Huahuatgc",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-01-16T17:25:34Z"
+    "updated_at": "2026-02-14T07:37:01Z"
   },
   "astrbot_plugin_matrix_adapter": {
     "display_name": "Matrix 协议适配器",
@@ -3559,9 +3559,9 @@
       "修图"
     ],
     "social_link": "https://github.com/piexian",
-    "stars": 23,
+    "stars": 24,
     "version": "v1.9.2",
-    "updated_at": "2026-02-11T03:50:38Z",
+    "updated_at": "2026-02-14T07:36:50Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -3823,9 +3823,9 @@
     "author": "GuJi08233",
     "repo": "https://github.com/GuJi08233/astrbot_plugin_val_shop",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "v3.2.3",
-    "updated_at": "2026-02-09T02:43:06Z"
+    "updated_at": "2026-02-14T07:36:52Z"
   },
   "astrbot_plugin_doubao": {
     "display_name": "豆包即梦生成",
@@ -4424,9 +4424,9 @@
       "自动续聊"
     ],
     "social_link": "https://github.com/Luna-channel",
-    "stars": 12,
+    "stars": 13,
     "version": "1.4.4",
-    "updated_at": "2026-01-27T06:09:53Z",
+    "updated_at": "2026-02-14T07:36:38Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_Conversa/main/logo.png"
   },
   "astrbot_plugin_shutdown": {
@@ -4774,9 +4774,9 @@
     "repo": "https://github.com/miaoxutao123/astrbot_plugin_LLMPerception",
     "social_link": "https://github.com/miaoxutao123",
     "tags": [],
-    "stars": 14,
+    "stars": 15,
     "version": "v1.2.0",
-    "updated_at": "2026-01-06T10:58:00Z"
+    "updated_at": "2026-02-14T07:36:54Z"
   },
   "astrbot_plugin_furry_zan": {
     "display_name": "爱点赞",
@@ -6292,7 +6292,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 12,
     "version": "v1.1.2",
-    "updated_at": "2026-02-04T03:49:01Z",
+    "updated_at": "2026-02-14T07:50:06Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qun_album/main/logo.png"
   },
   "astrbot_plugin_favourpro": {
@@ -10879,9 +10879,9 @@
       "主动回复"
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-    "stars": 97,
+    "stars": 98,
     "version": "v2.1.10",
-    "updated_at": "2026-02-13T12:42:24Z"
+    "updated_at": "2026-02-14T07:36:58Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
@@ -11208,9 +11208,9 @@
     "author": "Flartiny & Soulter",
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "tags": [],
-    "stars": 39,
+    "stars": 40,
     "version": "v1.5.3",
-    "updated_at": "2026-02-13T07:00:57Z",
+    "updated_at": "2026-02-14T07:36:44Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
@@ -11570,9 +11570,9 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 172,
+    "stars": 173,
     "version": "v2.0.15",
-    "updated_at": "2026-02-13T08:21:39Z"
+    "updated_at": "2026-02-14T07:37:05Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
