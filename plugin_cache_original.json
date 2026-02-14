@@ -8221,9 +8221,9 @@
       "zodiac"
     ],
     "social_link": "https://github.com/Abyss-Seeker",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2025-07-17T11:42:18Z"
+    "updated_at": "2026-02-14T13:06:57Z"
   },
   "astrbot_plugin_zhanxing": {
     "author": "雨爲/yuweitk",
@@ -9419,9 +9419,9 @@
     "desc": "一个基于 AstrBot 框架的塔罗牌占卜插件，支持多牌阵和单张牌占卜，并通过 AI 生成详细解析。",
     "repo": "https://github.com/XziXmn/astrbot_plugin_tarot",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "v0.1.1",
-    "updated_at": "2025-11-20T15:59:23Z"
+    "updated_at": "2026-02-14T13:08:00Z"
   },
   "astrbot_plugin_a2s": {
     "author": "ZvZPvz",
