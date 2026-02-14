@@ -224,7 +224,7 @@
     "social_link": "https://github.com/lxfight",
     "stars": 1,
     "version": "1.0.0",
-    "updated_at": "2026-02-13T09:02:18Z"
+    "updated_at": "2026-02-14T12:15:40Z"
   },
   "astrbot_plugin_telegram_summary": {
     "name": "",
@@ -254,7 +254,7 @@
     ],
     "stars": 3,
     "version": "v1.0.2",
-    "updated_at": "2026-02-14T10:33:14Z",
+    "updated_at": "2026-02-14T12:01:39Z",
     "logo": "https://raw.githubusercontent.com/qsc20001102/astrbot_plugin_gok/master/logo.png"
   },
   "astrbot_plugin_lyrics_trigger": {
@@ -3050,9 +3050,9 @@
       "分段"
     ],
     "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
-    "stars": 15,
+    "stars": 14,
     "version": "v1.2.0",
-    "updated_at": "2026-02-02T13:25:01Z",
+    "updated_at": "2026-02-14T12:51:47Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -10959,9 +10959,9 @@
     "author": "anka",
     "repo": "https://github.com/anka-afk/astrbot_plugin_humanlike",
     "tags": [],
-    "stars": 28,
+    "stars": 29,
     "version": "v0.2.2",
-    "updated_at": "2026-02-10T19:48:40Z"
+    "updated_at": "2026-02-14T12:43:00Z"
   },
   "astrbot_plugin_blue_archive": {
     "desc": "蔚蓝档案攻略查询 - 指令格式：攻略查询 <攻略名称>",
