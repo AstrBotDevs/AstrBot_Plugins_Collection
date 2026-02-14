@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-wordlimit": {
+    "display_name": "字数限制器",
+    "desc": "在 LLM 回复后检查字数，超过限制时自动使用 LLM 缩短回复内容",
+    "author": "lingyu",
+    "repo": "https://github.com/DCM234/astrbot_plugin_wordlimit",
+    "tags": [
+      "字数限制"
+    ],
+    "stars": 0,
+    "version": "0.1.0",
+    "updated_at": "2026-02-14T04:01:04Z"
+  },
   "astrbot-plugin-bili-resolver": {
     "display_name": "Bilibili 小程序原链解析",
     "desc": "Bilibili的小组件最麻烦了，电脑打不开，于是做了个可以直接转成原链接和展示播放和介绍的工具",
