@@ -56,7 +56,7 @@
     "social_link": "https://github.com/cjxzdzh",
     "stars": 1,
     "version": "1.0.1",
-    "updated_at": "2026-02-14T01:52:39Z"
+    "updated_at": "2026-02-14T02:18:22Z"
   },
   "astrbot-plugin-astrbook": {
     "display_name": "Astrbook适配器",
@@ -240,9 +240,9 @@
       "王者荣耀",
       "数据查询"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.1",
-    "updated_at": "2026-02-12T08:03:58Z",
+    "updated_at": "2026-02-14T03:56:42Z",
     "logo": "https://raw.githubusercontent.com/qsc20001102/astrbot_plugin_gok/master/logo.png"
   },
   "astrbot_plugin_lyrics_trigger": {
@@ -6724,7 +6724,7 @@
     "social_link": "https://github.com/qa296/",
     "stars": 27,
     "version": "v0.2.7",
-    "updated_at": "2026-02-03T11:50:00Z"
+    "updated_at": "2026-02-14T04:40:43Z"
   },
   "astrbot_plugin_iearning_style": {
     "desc": "使机器人可以从聊天中学习他人说话方式",
@@ -6760,9 +6760,9 @@
       "输出增强"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 26,
+    "stars": 27,
     "version": "v2.1.6",
-    "updated_at": "2026-02-10T15:19:12Z",
+    "updated_at": "2026-02-14T04:34:53Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -6857,9 +6857,9 @@
       "表白墙"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 57,
+    "stars": 58,
     "version": "v3.0.1",
-    "updated_at": "2026-02-12T13:10:02Z",
+    "updated_at": "2026-02-14T04:13:49Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -8764,9 +8764,9 @@
       "画像"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 58,
+    "stars": 59,
     "version": "v1.1.0",
-    "updated_at": "2026-02-13T08:23:04Z",
+    "updated_at": "2026-02-14T04:19:46Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
@@ -9959,9 +9959,9 @@
     "tags": [
       "QQ群管"
     ],
-    "stars": 92,
+    "stars": 93,
     "version": "v3.2.7",
-    "updated_at": "2026-02-08T02:56:10Z",
+    "updated_at": "2026-02-14T04:11:46Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
