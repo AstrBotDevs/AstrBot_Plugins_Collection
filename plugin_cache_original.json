@@ -69,8 +69,8 @@
     ],
     "social_link": "https://github.com/advent259141",
     "stars": 21,
-    "version": "2.5.0",
-    "updated_at": "2026-02-13T01:57:31Z"
+    "version": "2.6.2",
+    "updated_at": "2026-02-14T06:14:59Z"
   },
   "astrbot_plugin_group_quiz": {
     "display_name": "每日技术问答",
@@ -8435,9 +8435,9 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 99,
+    "stars": 98,
     "version": "v2.0.7",
-    "updated_at": "2026-02-13T12:42:07Z",
+    "updated_at": "2026-02-14T05:58:19Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
