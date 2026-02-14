@@ -65,6 +65,7 @@ jobs:
           echo "检测 plugins.json 中所有插件的可达性..."
           while IFS=$'\t' read -r plugin repo; do
             [[ -z "$plugin" ]] && continue
+            [[ -z "$repo" || "$repo" == "null" ]] && { echo "跳过插件 $plugin：缺少 repo"; continue; }
             echo "检查插件 $plugin 的仓库: $repo"
             if curl --head --silent --fail --max-time 5 "$repo" >/dev/null; then
               echo "✓ $plugin 可达"
