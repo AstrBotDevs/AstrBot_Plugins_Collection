@@ -54,10 +54,8 @@ jobs:
           echo "获取主分支上的上一版本 unreachable-plugins.json..."
           if git show origin/main:"$UNREACHABLE_JSON" > "$TEMP_PREV_UNREACHABLE" 2>/dev/null; then
             echo "成功获取上一版本 unreachable-plugins.json"
-            PREV_UNREACHABLE_EXISTS=true
           else
             echo "未找到上一版本 unreachable-plugins.json，视为首次运行"
-            PREV_UNREACHABLE_EXISTS=false
             echo "{}" > "$TEMP_PREV_UNREACHABLE"
           fi
 
@@ -81,7 +79,8 @@ jobs:
           # 初始化已删除插件记录文件
           DEL_PLUGINS="del-plugins.json"
           if [[ ! -f "$DEL_PLUGINS" ]]; then
-            echo "{}" > "$DEL_PLUGINS"
+            # Use a temp file + atomic rename to avoid leaving partial files on failure.
+            echo "{}" > "$TEMP_DEL_PLUGINS" && mv "$TEMP_DEL_PLUGINS" "$DEL_PLUGINS"
           fi
 
           # 读取之前记录的不可达插件
