@@ -54,9 +54,9 @@
       "工作流"
     ],
     "social_link": "https://github.com/cjxzdzh",
-    "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-02-12T08:46:26Z"
+    "stars": 1,
+    "version": "1.0.1",
+    "updated_at": "2026-02-14T01:52:39Z"
   },
   "astrbot-plugin-astrbook": {
     "display_name": "Astrbook适配器",
@@ -293,9 +293,9 @@
       "娱乐"
     ],
     "social_link": "https://github.com/Future-404",
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.0",
-    "updated_at": "2026-02-10T20:54:21Z"
+    "updated_at": "2026-02-14T00:21:58Z"
   },
   "astrbot_plugin_live2d_pet": {
     "display_name": "live2d_pet",
