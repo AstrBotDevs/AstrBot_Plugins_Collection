@@ -2,12 +2,22 @@ name: Clean Unreachable Plugins
 
 on:
   workflow_dispatch:
+    inputs:
+      curl_timeout_seconds:
+        description: "curl 请求超时时间（秒）"
+        required: false
+        default: "5"
   schedule:
     - cron: '0 21 * * *'
 
 jobs:
   clean-unreachable-plugins:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash
+    env:
+      CURL_TIMEOUT_SECONDS: ${{ github.event.inputs.curl_timeout_seconds || '5' }}
     steps:
       - name: Checkout the repository
         uses: actions/checkout@v4.2.2
@@ -33,14 +43,14 @@ jobs:
           fi
           DEFAULT_BRANCH="${DEFAULT_BRANCH:-main}"
           TEMP_CURRENT_UNREACHABLE="temp_current.json"
-          TEMP_CURRENT_UNREACHABLE_TMP="temp_current.tmp.json"
+          TEMP_CURRENT_UNREACHABLE_LINES="temp_current_unreachable_lines.tsv"
           TEMP_PREV_UNREACHABLE="temp_prev.json"
           TEMP_PLUGINS="temp_plugins.json"
           TEMP_UPDATED_UNREACHABLE="temp_updated_unreachable.json"
           TEMP_DEL_PLUGINS="temp_del_plugins.json"
           TEMP_FILES=(
             "$TEMP_CURRENT_UNREACHABLE"
-            "$TEMP_CURRENT_UNREACHABLE_TMP"
+            "$TEMP_CURRENT_UNREACHABLE_LINES"
             "$TEMP_PREV_UNREACHABLE"
             "$TEMP_PLUGINS"
             "$TEMP_UPDATED_UNREACHABLE"
@@ -53,8 +63,15 @@ jobs:
           }
           trap cleanup EXIT
 
+          # 允许通过 workflow_dispatch input 或环境变量调整超时
+          CURL_TIMEOUT_SECONDS="${CURL_TIMEOUT_SECONDS:-5}"
+          if ! [[ "$CURL_TIMEOUT_SECONDS" =~ ^[1-9][0-9]*$ ]]; then
+            echo "无效的 CURL_TIMEOUT_SECONDS=$CURL_TIMEOUT_SECONDS，回退到 5 秒"
+            CURL_TIMEOUT_SECONDS=5
+          fi
+
           # 初始化当前不可达列表
-          echo "{}" > "$TEMP_CURRENT_UNREACHABLE"
+          : > "$TEMP_CURRENT_UNREACHABLE_LINES"
 
           # 获取默认分支上一版本 unreachable-plugins.json
           echo "获取默认分支（$DEFAULT_BRANCH）上的上一版本 unreachable-plugins.json..."
@@ -71,14 +88,26 @@ jobs:
             [[ -z "$plugin" ]] && continue
             [[ -z "$repo" || "$repo" == "null" ]] && { echo "跳过插件 $plugin：缺少 repo"; continue; }
             echo "检查插件 $plugin 的仓库: $repo"
-            http_code="$(curl --silent --location --max-time 5 --request GET --range 0-0 --output /dev/null --write-out '%{http_code}' "$repo" || true)"
+            http_code="$(curl --silent --location --max-time "$CURL_TIMEOUT_SECONDS" --request GET --range 0-0 --output /dev/null --write-out '%{http_code}' "$repo" || true)"
             if [[ "$http_code" =~ ^2[0-9][0-9]$ || "$http_code" =~ ^3[0-9][0-9]$ || "$http_code" == "416" ]]; then
               echo "✓ $plugin 可达"
             else
               echo "✗ $plugin 不可达（HTTP $http_code）"
-              jq --arg p "$plugin" --arg r "$repo" '. + {($p): $r}' "$TEMP_CURRENT_UNREACHABLE" > "$TEMP_CURRENT_UNREACHABLE_TMP" && mv "$TEMP_CURRENT_UNREACHABLE_TMP" "$TEMP_CURRENT_UNREACHABLE"
+              printf '%s\t%s\n' "$plugin" "$repo" >> "$TEMP_CURRENT_UNREACHABLE_LINES"
             fi
           done < <(jq -r 'to_entries[] | [.key, .value.repo] | @tsv' "$PLUGINS_JSON")
+
+          # 将本次不可达插件一次性构建为 JSON，减少循环内 jq 调用
+          if [[ -s "$TEMP_CURRENT_UNREACHABLE_LINES" ]]; then
+            jq -Rn '
+              reduce inputs as $line ({};
+                ($line | split("\t")) as $f
+                | if ($f | length) == 2 then . + {($f[0]): $f[1]} else . end
+              )
+            ' "$TEMP_CURRENT_UNREACHABLE_LINES" > "$TEMP_CURRENT_UNREACHABLE"
+          else
+            echo "{}" > "$TEMP_CURRENT_UNREACHABLE"
+          fi
 
           # 保存本次不可达列表
           cp "$TEMP_CURRENT_UNREACHABLE" "$UNREACHABLE_JSON"
