@@ -1888,8 +1888,8 @@
     ],
     "social_link": "https://github.com/Clhikari",
     "stars": 2,
-    "version": "v1.2.2",
-    "updated_at": "2026-02-10T12:55:49Z",
+    "version": "v1.2.3",
+    "updated_at": "2026-02-14T10:02:39Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -4450,9 +4450,9 @@
       "主动回复"
     ],
     "social_link": "https://github.com/Him666233",
-    "stars": 39,
+    "stars": 40,
     "version": "v1.1.2",
-    "updated_at": "2026-02-13T12:53:13Z",
+    "updated_at": "2026-02-14T10:04:13Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -4726,9 +4726,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 79,
+    "stars": 80,
     "version": "v1.1.4",
-    "updated_at": "2026-02-13T15:17:27Z",
+    "updated_at": "2026-02-14T10:05:41Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -5679,8 +5679,8 @@
       "备货"
     ],
     "stars": 4,
-    "version": "v0.4.10",
-    "updated_at": "2026-02-12T21:04:25Z"
+    "version": "v0.4.11",
+    "updated_at": "2026-02-14T10:24:22Z"
   },
   "astrbot_plugin_admin_emoji_reply": {
     "desc": "自动为指定的用户回复表情消息，支持开关和自定义速度",
@@ -6291,8 +6291,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 12,
-    "version": "v1.1.2",
-    "updated_at": "2026-02-14T07:50:06Z",
+    "version": "v1.1.3",
+    "updated_at": "2026-02-14T09:37:15Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qun_album/main/logo.png"
   },
   "astrbot_plugin_favourpro": {
@@ -9192,9 +9192,9 @@
     "desc": "一个将 SillyTavern 角色卡（PNG 格式）转换为 Lorebook YAML 与角色信息的插件。",
     "repo": "https://github.com/LKarxa/astrbot_plugin_SillyTavern_card",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-01-24T07:32:34Z"
+    "updated_at": "2026-02-14T09:48:35Z"
   },
   "astrbot_plugin_reply": {
     "author": "yahayao",
@@ -11037,9 +11037,9 @@
     "author": "七七七七",
     "repo": "https://github.com/18005575/astrbot_plugin_flux",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.5",
-    "updated_at": "2025-08-01T21:01:40Z"
+    "updated_at": "2026-02-14T09:58:47Z"
   },
   "mccloud_meme_sender": {
     "desc": "这是一个表情包发送插件，可以识别AI回复中的表情符号并发送对应的表情包。记得看帮助需要配置人格 地址：https://github.com/MCYUNIDC/mccloud_meme_sender",
