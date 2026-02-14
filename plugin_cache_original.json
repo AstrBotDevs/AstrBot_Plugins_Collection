@@ -807,7 +807,7 @@
     ],
     "stars": 2,
     "version": "v1.1.11",
-    "updated_at": "2026-02-08T15:11:46Z"
+    "updated_at": "2026-02-14T17:26:34Z"
   },
   "astrbot_plugin_minecraft_monitor": {
     "display_name": "MC 服务器监控（适配基岩版与 Java 版）",
