@@ -27,12 +27,21 @@ jobs:
           PLUGINS_JSON="plugins.json"
           UNREACHABLE_JSON="unreachable-plugins.json"
           TEMP_CURRENT_UNREACHABLE="temp_current.json"
+          TEMP_CURRENT_UNREACHABLE_TMP="temp_current.tmp.json"
           TEMP_PREV_UNREACHABLE="temp_prev.json"
           TEMP_PLUGINS="temp_plugins.json"
+          TEMP_UPDATED_UNREACHABLE="temp_updated_unreachable.json"
+          TEMP_DEL_PLUGINS="temp_del_plugins.json"
 
           # 清理临时文件函数
           cleanup() {
-              rm -f "$TEMP_CURRENT_UNREACHABLE" "$TEMP_PREV_UNREACHABLE" "$TEMP_PLUGINS" "$TEMP_CURRENT_UNREACHABLE.tmp"
+              rm -f \
+                "$TEMP_CURRENT_UNREACHABLE" \
+                "$TEMP_CURRENT_UNREACHABLE_TMP" \
+                "$TEMP_PREV_UNREACHABLE" \
+                "$TEMP_PLUGINS" \
+                "$TEMP_UPDATED_UNREACHABLE" \
+                "$TEMP_DEL_PLUGINS"
           }
           trap cleanup EXIT
 
@@ -53,13 +62,13 @@ jobs:
           # 检测当前所有插件可达性
           echo "检测 plugins.json 中所有插件的可达性..."
           jq -r 'keys[]' "$PLUGINS_JSON" | while read -r plugin; do
-            repo=$(jq -r ".[\"$plugin\"].repo" "$PLUGINS_JSON")
+            repo=$(jq -r --arg p "$plugin" '.[$p].repo' "$PLUGINS_JSON")
             echo "检查插件 $plugin 的仓库: $repo"
             if curl --head --silent --fail --max-time 5 "$repo" >/dev/null; then
               echo "✓ $plugin 可达"
             else
               echo "✗ $plugin 不可达"
-              jq --arg p "$plugin" --arg r "$repo" '. + {($p): $r}' "$TEMP_CURRENT_UNREACHABLE" > "$TEMP_CURRENT_UNREACHABLE.tmp" && mv "$TEMP_CURRENT_UNREACHABLE.tmp" "$TEMP_CURRENT_UNREACHABLE"
+              jq --arg p "$plugin" --arg r "$repo" '. + {($p): $r}' "$TEMP_CURRENT_UNREACHABLE" > "$TEMP_CURRENT_UNREACHABLE_TMP" && mv "$TEMP_CURRENT_UNREACHABLE_TMP" "$TEMP_CURRENT_UNREACHABLE"
             fi
           done
 
@@ -72,9 +81,6 @@ jobs:
             echo "{}" > "$DEL_PLUGINS"
           fi
 
-          # 用于存储更新后 unreachable 列表的临时文件
-          TEMP_UPDATED_UNREACHABLE="temp_updated_unreachable.json"
-
           # 读取之前记录的不可达插件
           PREV_UNREACHABLE_PLUGINS=()
           if [[ -s "$TEMP_PREV_UNREACHABLE" ]]; then
@@ -86,38 +92,35 @@ jobs:
 
           # 先处理恢复可达的情况：从 unreachable-plugins.json 中移除已恢复的插件
           for plugin in "${PREV_UNREACHABLE_PLUGINS[@]}"; do
-            if ! printf '%s\n' "${CURRENT_UNREACHABLE_PLUGINS[@]}" | grep -q "^$plugin$"; then
-              # 插件曾不可达但当前可达了
-              repo=$(jq -r ".[\"$plugin\"].repo" "$PLUGINS_JSON")
-              if curl --head --silent --fail --max-time 5 "$repo" >/dev/null; then
+            if ! printf '%s\n' "${CURRENT_UNREACHABLE_PLUGINS[@]}" | grep -Fxq -- "$plugin"; then
+              # 这里直接复用本次首轮检测结果：不在 CURRENT_UNREACHABLE_PLUGINS 中即视为已恢复或已移除
+              if jq -e --arg p "$plugin" 'has($p)' "$PLUGINS_JSON" >/dev/null; then
                 echo "✅ 插件 $plugin 已恢复可达，从 unreachable-plugins.json 中移除"
-                jq "del(.\"$plugin\")" "$UNREACHABLE_JSON" > "$TEMP_UPDATED_UNREACHABLE" && mv "$TEMP_UPDATED_UNREACHABLE" "$UNREACHABLE_JSON"
+              else
+                echo "ℹ️ 插件 $plugin 已不在 plugins.json 中，从 unreachable-plugins.json 中移除"
               fi
+              jq --arg p "$plugin" 'del(.[$p])' "$UNREACHABLE_JSON" > "$TEMP_UPDATED_UNREACHABLE" && mv "$TEMP_UPDATED_UNREACHABLE" "$UNREACHABLE_JSON"
             fi
           done
 
           # 处理连续两次不可达的插件
           for plugin in "${CURRENT_UNREACHABLE_PLUGINS[@]}"; do
-            if printf '%s\n' "${PREV_UNREACHABLE_PLUGINS[@]}" | grep -q "^$plugin$"; then
+            if printf '%s\n' "${PREV_UNREACHABLE_PLUGINS[@]}" | grep -Fxq -- "$plugin"; then
               # 先从 plugins.json 获取完整数据（删除前）
-              plugin_data=$(jq ".[\"$plugin\"]" "$PLUGINS_JSON")
+              plugin_data=$(jq --arg p "$plugin" '.[$p]' "$PLUGINS_JSON")
               if [ "$plugin_data" != "null" ]; then
-                # 确认仍然不可达
-                repo=$(echo "$plugin_data" | jq -r '.repo')
-                if ! curl --head --silent --fail --max-time 5 "$repo" >/dev/null; then
-                  echo "🔁 插件 $plugin 连续两次不可达，将从 plugins.json 和 unreachable-plugins.json 中删除"
+                # 这里直接复用本次首轮检测结果（current + prev 交集即连续两次不可达）
+                echo "🔁 插件 $plugin 连续两次不可达，将从 plugins.json 和 unreachable-plugins.json 中删除"
 
-                  # 先写入 del-plugins.json（删除前写入，确保数据完整）
-                  TEMP_DEL_PLUGINS="temp_del_plugins.json"
-                  jq --arg p "$plugin" --argjson d "$plugin_data" '. + {($p): $d}' "$DEL_PLUGINS" > "$TEMP_DEL_PLUGINS" && mv "$TEMP_DEL_PLUGINS" "$DEL_PLUGINS"
-                  echo "✅ 已记录插件 $plugin 到 del-plugins.json"
+                # 先写入 del-plugins.json（删除前写入，确保数据完整）
+                jq --arg p "$plugin" --argjson d "$plugin_data" '. + {($p): $d}' "$DEL_PLUGINS" > "$TEMP_DEL_PLUGINS" && mv "$TEMP_DEL_PLUGINS" "$DEL_PLUGINS"
+                echo "✅ 已记录插件 $plugin 到 del-plugins.json"
 
-                  # 从 plugins.json 删除
-                  jq "del(.\"$plugin\")" "$PLUGINS_JSON" > "$TEMP_PLUGINS" && mv "$TEMP_PLUGINS" "$PLUGINS_JSON"
+                # 从 plugins.json 删除
+                jq --arg p "$plugin" 'del(.[$p])' "$PLUGINS_JSON" > "$TEMP_PLUGINS" && mv "$TEMP_PLUGINS" "$PLUGINS_JSON"
 
-                  # 从 unreachable-plugins.json 删除（使用独立临时文件）
-                  jq "del(.\"$plugin\")" "$UNREACHABLE_JSON" > "$TEMP_UPDATED_UNREACHABLE" && mv "$TEMP_UPDATED_UNREACHABLE" "$UNREACHABLE_JSON"
-                fi
+                # 从 unreachable-plugins.json 删除（使用独立临时文件）
+                jq --arg p "$plugin" 'del(.[$p])' "$UNREACHABLE_JSON" > "$TEMP_UPDATED_UNREACHABLE" && mv "$TEMP_UPDATED_UNREACHABLE" "$UNREACHABLE_JSON"
               fi
             fi
           done
