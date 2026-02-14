@@ -1,4 +1,10 @@
 {
+  "astrbot-plugin-napcat-enhanced": {
+    "display_name": "Napcat_Enhanced",
+    "desc": "基于原有功能的增强的 AstrBot NapCat 接入插件，提供丰富的 QQ 机器人功能。",
+    "author": "Nonepf",
+    "repo": "https://github.com/Nonepf/astrbot_plugin_napcat_enhanced"
+  },
   "astrbot-plugin-mcbe-news": {
     "display_name": "MCBE 更新监控与 AI 总结插件",
     "desc": "定时监控 Minecraft 基岩版官方更新，自动使用 AI 总结并推送到群聊，支持 Beta 和正式版",
