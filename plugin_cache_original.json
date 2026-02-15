@@ -616,9 +616,9 @@
     "author": "lumingya",
     "repo": "https://github.com/lumingya/astrbot_plugin_html_render",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "1.2.0",
-    "updated_at": "2026-02-10T11:22:03Z"
+    "updated_at": "2026-02-15T16:10:15Z"
   },
   "astrbot_plugin_opencode": {
     "display_name": "OpenCode Bridge",
