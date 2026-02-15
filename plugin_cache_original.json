@@ -591,9 +591,9 @@
       "grok"
     ],
     "social_link": "https://github.com/piexian",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.5",
-    "updated_at": "2026-02-12T18:16:44Z",
+    "updated_at": "2026-02-15T14:09:56Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_grok_web_search/master/logo.png"
   },
   "astrbot_plugin_fake_ai_watermark": {
@@ -1833,9 +1833,9 @@
     ],
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
-    "stars": 104,
+    "stars": 105,
     "version": "Next-1.1.8",
-    "updated_at": "2026-02-15T05:54:49Z",
+    "updated_at": "2026-02-15T14:08:18Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -2920,7 +2920,7 @@
     "social_link": "https://github.com/Xbodwf",
     "stars": 3,
     "version": "1.29.0",
-    "updated_at": "2026-02-05T12:17:47Z"
+    "updated_at": "2026-02-15T14:05:16Z"
   },
   "astrbot_plugin_QQbox": {
     "display_name": "QQbox",
@@ -4753,9 +4753,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 80,
+    "stars": 81,
     "version": "v1.1.4",
-    "updated_at": "2026-02-14T10:05:41Z",
+    "updated_at": "2026-02-15T13:03:02Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -9472,8 +9472,8 @@
     ],
     "social_link": "https://github.com/vmoranv-reborn",
     "stars": 8,
-    "version": "1.6.0",
-    "updated_at": "2026-02-07T07:14:19Z",
+    "version": "1.6.1",
+    "updated_at": "2026-02-15T14:22:07Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
@@ -11010,9 +11010,9 @@
       "图床"
     ],
     "pinned": true,
-    "stars": 131,
+    "stars": 132,
     "version": "v3.19",
-    "updated_at": "2026-02-13T12:48:15Z"
+    "updated_at": "2026-02-15T13:08:21Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
