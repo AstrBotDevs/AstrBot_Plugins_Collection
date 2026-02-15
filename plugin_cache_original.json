@@ -93,9 +93,9 @@
       "工作流"
     ],
     "social_link": "https://github.com/cjxzdzh",
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.1",
-    "updated_at": "2026-02-14T02:18:22Z"
+    "updated_at": "2026-02-15T03:13:32Z"
   },
   "astrbot-plugin-astrbook": {
     "display_name": "Astrbook适配器",
@@ -9153,7 +9153,7 @@
     "tags": [],
     "stars": 5,
     "version": "v1.0.2",
-    "updated_at": "2025-11-30T10:47:09Z"
+    "updated_at": "2026-02-15T04:12:48Z"
   },
   "astrBot_plugin_0721galgame": {
     "author": "明日香奈",
@@ -11235,9 +11235,9 @@
     "author": "Flartiny & Soulter",
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "tags": [],
-    "stars": 40,
+    "stars": 41,
     "version": "v1.5.3",
-    "updated_at": "2026-02-14T07:36:44Z",
+    "updated_at": "2026-02-15T03:26:37Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
