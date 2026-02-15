@@ -190,7 +190,7 @@
     "tags": [],
     "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-02-10T11:04:27Z",
+    "updated_at": "2026-02-15T13:21:06Z",
     "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_nbalance/master/logo.png"
   },
   "astrbot_plugin_lingbao_market": {
@@ -1361,9 +1361,9 @@
       "游戏资源"
     ],
     "social_link": "https://qwq.pyuramazo.online",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.4.2",
-    "updated_at": "2026-02-05T05:50:45Z",
+    "updated_at": "2026-02-15T13:22:47Z",
     "logo": "https://raw.githubusercontent.com/PyuraMazo/astrbot_plugin_galgame_box/master/logo.png"
   },
   "astrbot_plugin_anitabi": {
