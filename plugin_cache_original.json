@@ -793,7 +793,7 @@
     "social_link": "https://github.com/Heximiao",
     "stars": 10,
     "version": "v3.0.2",
-    "updated_at": "2026-02-11T09:14:56Z",
+    "updated_at": "2026-02-15T12:40:02Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
@@ -2564,8 +2564,8 @@
       "群聊优化"
     ],
     "stars": 30,
-    "version": "0.8.10",
-    "updated_at": "2026-02-13T19:10:58Z"
+    "version": "0.8.11",
+    "updated_at": "2026-02-15T12:41:14Z"
   },
   "astrbot_plugin_angel_eye": {
     "display_name": "天使之眼",
