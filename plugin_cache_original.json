@@ -107,9 +107,9 @@
       "自动水贴"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 22,
+    "stars": 23,
     "version": "2.6.2",
-    "updated_at": "2026-02-14T13:54:24Z"
+    "updated_at": "2026-02-15T11:04:39Z"
   },
   "astrbot_plugin_group_quiz": {
     "display_name": "每日技术问答",
@@ -6005,8 +6005,8 @@
       "撤回"
     ],
     "stars": 6,
-    "version": "v1.1.6",
-    "updated_at": "2026-02-15T06:11:32Z",
+    "version": "v1.2.0",
+    "updated_at": "2026-02-15T10:35:31Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_anti_revoke/master/logo.png"
   },
   "input_state_by_napcat": {
