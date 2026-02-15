@@ -2175,9 +2175,9 @@
       "下载"
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
-    "stars": 35,
+    "stars": 36,
     "version": "v1.1",
-    "updated_at": "2026-02-12T14:22:27Z"
+    "updated_at": "2026-02-15T01:28:50Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
