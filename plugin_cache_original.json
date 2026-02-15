@@ -3653,9 +3653,9 @@
       "gal"
     ],
     "social_link": "https://github.com/bvzrays",
-    "stars": 48,
+    "stars": 49,
     "version": "v2.3.0",
-    "updated_at": "2026-02-14T15:46:44Z",
+    "updated_at": "2026-02-15T19:35:45Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -3936,7 +3936,7 @@
     "social_link": "https://www.misakanet.site",
     "stars": 7,
     "version": "2.0.1",
-    "updated_at": "2026-02-15T16:53:38Z",
+    "updated_at": "2026-02-15T19:46:54Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_minecraft_adapter/master/logo.png"
   },
   "astrbot_plugin_temp-email": {
