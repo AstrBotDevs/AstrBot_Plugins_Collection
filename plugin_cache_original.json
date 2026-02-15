@@ -1135,9 +1135,9 @@
       "推送"
     ],
     "social_link": "https://github.com/siciyuanweilai",
-    "stars": 9,
+    "stars": 10,
     "version": "4.5.0",
-    "updated_at": "2026-02-10T06:58:49Z",
+    "updated_at": "2026-02-15T16:44:30Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -3935,8 +3935,8 @@
     ],
     "social_link": "https://www.misakanet.site",
     "stars": 7,
-    "version": "1.2.0",
-    "updated_at": "2026-02-13T13:03:08Z",
+    "version": "2.0.1",
+    "updated_at": "2026-02-15T16:53:38Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_minecraft_adapter/master/logo.png"
   },
   "astrbot_plugin_temp-email": {
@@ -9143,7 +9143,7 @@
     "tags": [],
     "stars": 5,
     "version": "v1.7.2",
-    "updated_at": "2026-02-13T17:02:23Z",
+    "updated_at": "2026-02-15T16:44:15Z",
     "logo": "https://raw.githubusercontent.com/monbed/astrbot_plugin_animewifex/master/logo.png"
   },
   "astrbot_plugin_emojimix": {
