@@ -281,7 +281,7 @@
     ],
     "stars": 3,
     "version": "v1.0.2",
-    "updated_at": "2026-02-14T12:01:39Z",
+    "updated_at": "2026-02-16T10:13:19Z",
     "logo": "https://raw.githubusercontent.com/qsc20001102/astrbot_plugin_gok/master/logo.png"
   },
   "astrbot_plugin_lyrics_trigger": {
@@ -2479,9 +2479,9 @@
       "nano_banana",
       "vertex_ai"
     ],
-    "stars": 11,
+    "stars": 12,
     "version": "v0.1.7",
-    "updated_at": "2026-01-17T19:54:13Z",
+    "updated_at": "2026-02-16T10:38:55Z",
     "logo": "https://raw.githubusercontent.com/sukafon/astrbot_plugin_big_banana/main/logo.png"
   },
   "astrbot_plugin_BitTorrent": {
