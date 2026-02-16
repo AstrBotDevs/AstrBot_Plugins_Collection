@@ -153,7 +153,7 @@
     ],
     "stars": 11,
     "version": "v1.1.0",
-    "updated_at": "2026-02-16T19:15:52Z"
+    "updated_at": "2026-02-16T20:00:54Z"
   },
   "astrbot_plugin_mc_duration": {
     "display_name": "MC魔人时长统计",
@@ -9157,7 +9157,7 @@
     "tags": [],
     "stars": 5,
     "version": "v1.7.2",
-    "updated_at": "2026-02-15T16:44:15Z",
+    "updated_at": "2026-02-16T20:19:55Z",
     "logo": "https://raw.githubusercontent.com/monbed/astrbot_plugin_animewifex/master/logo.png"
   },
   "astrbot_plugin_emojimix": {
