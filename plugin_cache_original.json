@@ -152,8 +152,8 @@
       "opencode"
     ],
     "stars": 11,
-    "version": "v1.1.0",
-    "updated_at": "2026-02-16T20:00:54Z"
+    "version": "v1.2.0",
+    "updated_at": "2026-02-16T20:35:08Z"
   },
   "astrbot_plugin_mc_duration": {
     "display_name": "MC魔人时长统计",
@@ -9156,8 +9156,8 @@
     "repo": "https://github.com/monbed/astrbot_plugin_animewifex",
     "tags": [],
     "stars": 5,
-    "version": "v1.7.2",
-    "updated_at": "2026-02-16T20:19:55Z",
+    "version": "v1.7.3",
+    "updated_at": "2026-02-16T20:38:02Z",
     "logo": "https://raw.githubusercontent.com/monbed/astrbot_plugin_animewifex/master/logo.png"
   },
   "astrbot_plugin_emojimix": {
