@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-chat-polisher": {
+    "display_name": "最终文本润色",
+    "desc": "自动将输出的回复文本内容截取，并通过设定的规则进行润色后发出。",
+    "author": "cyilin",
+    "repo": "https://github.com/cyilin36/astrbot_plugin_chat_polisher",
+    "tags": [
+      "润色",
+      "校对"
+    ],
+    "social_link": "https://cyilin36.github.io/"
+  },
   "astrbot-plugin-napcat-enhanced": {
     "display_name": "Napcat_Enhanced",
     "desc": "基于原有功能的增强的 AstrBot NapCat 接入插件，提供丰富的 QQ 机器人功能。",
