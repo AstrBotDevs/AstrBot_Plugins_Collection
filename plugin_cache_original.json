@@ -1736,8 +1736,8 @@
     ],
     "social_link": "https://github.com/VanillaNahida/",
     "stars": 18,
-    "version": "v1.2.1",
-    "updated_at": "2026-02-11T09:25:49Z",
+    "version": "v1.2.2",
+    "updated_at": "2026-02-16T07:51:53Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_geetest_verify/master/logo.png"
   },
   "astrbot_plugin_cliproxy_stats": {
@@ -2534,9 +2534,9 @@
       "桌面客户端"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 18,
+    "stars": 19,
     "version": "1.1.3",
-    "updated_at": "2026-02-13T07:56:36Z",
+    "updated_at": "2026-02-16T06:56:33Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
@@ -6132,9 +6132,9 @@
       "memory",
       "rag"
     ],
-    "stars": 62,
+    "stars": 63,
     "version": "2.1.2",
-    "updated_at": "2026-02-16T06:10:57Z",
+    "updated_at": "2026-02-16T06:30:25Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
