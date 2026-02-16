@@ -631,9 +631,9 @@
       "vibe coding",
       "OpenCode"
     ],
-    "stars": 2,
+    "stars": 1,
     "version": "1.1.0",
-    "updated_at": "2026-02-08T06:22:53Z",
+    "updated_at": "2026-02-16T02:54:01Z",
     "logo": "https://raw.githubusercontent.com/singularity2000/astrbot_plugin_opencode/main/logo.png"
   },
   "astrbot_plugin_claudecode": {
@@ -2945,9 +2945,9 @@
       "链接"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 54,
+    "stars": 55,
     "version": "v1.3.0",
-    "updated_at": "2026-02-15T07:20:09Z",
+    "updated_at": "2026-02-16T04:58:35Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -3936,7 +3936,7 @@
     "social_link": "https://www.misakanet.site",
     "stars": 7,
     "version": "2.0.1",
-    "updated_at": "2026-02-15T19:46:54Z",
+    "updated_at": "2026-02-16T03:21:49Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_minecraft_adapter/master/logo.png"
   },
   "astrbot_plugin_temp-email": {
@@ -10187,9 +10187,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
-    "stars": 50,
+    "stars": 51,
     "version": "v3.0.2",
-    "updated_at": "2026-02-11T13:40:16Z",
+    "updated_at": "2026-02-16T02:30:05Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
