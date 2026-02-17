@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-grok-suite": {
+    "display_name": "Grok AI 助手",
+    "desc": "Grok 全能插件：文生图、图生图、图生视频、智能对话（自动联网）、LLM Tool 调用，一站式 AI 多媒体体验",
+    "author": "沐沐沐倾",
+    "repo": "https://github.com/muqing-kg/astrbot_plugin_grok_suite",
+    "tags": [
+      "AI",
+      "生图",
+      "视频",
+      "联网搜索"
+    ]
+  },
   "astrbot-plugin-chat-polisher": {
     "display_name": "最终文本润色",
     "desc": "自动将输出的回复文本内容截取，并通过设定的规则进行润色后发出。",
