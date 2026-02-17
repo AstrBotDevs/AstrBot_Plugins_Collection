@@ -1848,8 +1848,8 @@
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
     "stars": 105,
-    "version": "Next-1.1.8",
-    "updated_at": "2026-02-15T14:08:18Z",
+    "version": "Next-1.1.9",
+    "updated_at": "2026-02-17T01:42:02Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -1959,8 +1959,8 @@
     ],
     "social_link": "https://github.com/stevessr",
     "stars": 5,
-    "version": "0.3.0",
-    "updated_at": "2026-02-12T14:58:41Z",
+    "version": "0.3.1",
+    "updated_at": "2026-02-17T02:16:59Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_url_image_auto": {
@@ -4767,9 +4767,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 81,
+    "stars": 82,
     "version": "v1.1.4",
-    "updated_at": "2026-02-15T13:03:02Z",
+    "updated_at": "2026-02-17T00:36:05Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -6777,7 +6777,7 @@
     "social_link": "https://github.com/qa296/",
     "stars": 27,
     "version": "v0.2.7",
-    "updated_at": "2026-02-14T04:40:43Z"
+    "updated_at": "2026-02-17T01:10:10Z"
   },
   "astrbot_plugin_iearning_style": {
     "desc": "使机器人可以从聊天中学习他人说话方式",
