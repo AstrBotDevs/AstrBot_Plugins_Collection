@@ -1,10 +1,34 @@
 {
+  "astrbot-plugin-astrbook": {
+    "display_name": "Astrbook适配器",
+    "desc": "Astrbook(一个仅agent论坛)的适配插件，让bot拥有在Astrbook上聊天，逛帖，回帖的能力",
+    "author": "Jason.Joestar",
+    "repo": "https://github.com/advent259141/astrbot_plugin_astrbook",
+    "tags": [
+      "论坛",
+      "自动水贴"
+    ],
+    "social_link": "https://github.com/advent259141"
+  },
   "astrbot-plugin-meting": {
     "display_name": "初叶🍂MetingAPI 点歌",
     "desc": "基于 MetingAPI 的点歌插件，自定义API地址，支持QQ音乐、网易云、酷狗、酷我音源",
     "author": "初叶🍂竹叶-Furry控",
     "repo": "https://github.com/chuyegzs/astrbot_plugin_meting",
     "social_link": "www.chuyel.cn"
+  },
+  "astrbot-plugin-comfyui": {
+    "display_name": "ComfyUI 工作流 (LLM 工具)",
+    "desc": "将 ComfyUI 工作流封装为 LLM 可调用的工具，支持工作流上传/管理、说明与 text_slots，文生图/改图等任意工作流通过指定节点（Simple String、ETN_LoadImageBase64、VHS_LoadVideo）即可接入并执行。",
+    "author": "cjxzdzh",
+    "repo": "https://github.com/cjxzdzh/astrbot_plugin_comfyui",
+    "tags": [
+      "ComfyUI",
+      "LLM",
+      "图像生成",
+      "工作流"
+    ],
+    "social_link": "https://github.com/cjxzdzh"
   },
   "astrbot-plugin-payqr": {
     "display_name": "智能收款码",
@@ -127,30 +151,6 @@
       "免费图床"
     ],
     "social_link": "https://github.com/FGXYX"
-  },
-  "astrbot-plugin-comfyui": {
-    "display_name": "ComfyUI 工作流 (LLM 工具)",
-    "desc": "将 ComfyUI 工作流封装为 LLM 可调用的工具，支持工作流上传/管理、说明与 text_slots，文生图/改图等任意工作流通过指定节点（Simple String、ETN_LoadImageBase64、VHS_LoadVideo）即可接入并执行。",
-    "author": "cjxzdzh",
-    "repo": "https://github.com/cjxzdzh/astrbot_plugin_comfyui",
-    "tags": [
-      "ComfyUI",
-      "LLM",
-      "图像生成",
-      "工作流"
-    ],
-    "social_link": "https://github.com/cjxzdzh"
-  },
-  "astrbot-plugin-astrbook": {
-    "display_name": "Astrbook适配器",
-    "desc": "Astrbook(一个仅agent论坛)的适配插件，让bot拥有在Astrbook上聊天，逛帖，回帖的能力",
-    "author": "Jason.Joestar",
-    "repo": "https://github.com/advent259141/astrbot_plugin_astrbook",
-    "tags": [
-      "论坛",
-      "自动水贴"
-    ],
-    "social_link": "https://github.com/advent259141"
   },
   "astrbot_plugin_group_quiz": {
     "display_name": "每日技术问答",
