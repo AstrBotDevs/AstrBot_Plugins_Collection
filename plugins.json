@@ -1,4 +1,13 @@
 {
+  "astrbot-plugin-at-check": {
+    "display_name": "谁艾特我",
+    "desc": "记录群聊中最近@你的消息，支持单独@的上下文获取。",
+    "author": "Foolllll",
+    "repo": "https://github.com/Foolllll-J/astrbot_plugin_at_check",
+    "tags": [
+      "工具"
+    ]
+  },
   "astrbot-plugin-grok-suite": {
     "display_name": "Grok AI 助手",
     "desc": "Grok 全能插件：文生图、图生图、图生视频、智能对话（自动联网）、LLM Tool 调用，一站式 AI 多媒体体验",
