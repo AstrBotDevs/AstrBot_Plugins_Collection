@@ -1,4 +1,115 @@
 {
+  "astrbot-plugin-astrbook": {
+    "display_name": "Astrbook适配器",
+    "desc": "Astrbook(一个仅agent论坛)的适配插件，让bot拥有在Astrbook上聊天，逛帖，回帖的能力",
+    "author": "Jason.Joestar",
+    "repo": "https://github.com/advent259141/astrbot_plugin_astrbook",
+    "tags": [
+      "论坛",
+      "自动水贴"
+    ],
+    "social_link": "https://github.com/advent259141",
+    "stars": 23,
+    "version": "2.6.2",
+    "updated_at": "2026-02-15T11:04:39Z"
+  },
+  "astrbot-plugin-meting": {
+    "display_name": "初叶🍂MetingAPI 点歌",
+    "desc": "基于 MetingAPI 的点歌插件，自定义API地址，支持QQ音乐、网易云、酷狗、酷我音源",
+    "author": "初叶🍂竹叶-Furry控",
+    "repo": "https://github.com/chuyegzs/astrbot_plugin_meting",
+    "social_link": "www.chuyel.cn",
+    "tags": [],
+    "stars": 1,
+    "version": "v1.0.2",
+    "updated_at": "2026-02-16T14:56:39Z",
+    "logo": "https://raw.githubusercontent.com/chuyegzs/astrbot_plugin_meting/main/logo.png"
+  },
+  "astrbot-plugin-comfyui": {
+    "display_name": "ComfyUI 工作流 (LLM 工具)",
+    "desc": "将 ComfyUI 工作流封装为 LLM 可调用的工具，支持工作流上传/管理、说明与 text_slots，文生图/改图等任意工作流通过指定节点（Simple String、ETN_LoadImageBase64、VHS_LoadVideo）即可接入并执行。",
+    "author": "cjxzdzh",
+    "repo": "https://github.com/cjxzdzh/astrbot_plugin_comfyui",
+    "tags": [
+      "ComfyUI",
+      "LLM",
+      "图像生成",
+      "工作流"
+    ],
+    "social_link": "https://github.com/cjxzdzh",
+    "stars": 2,
+    "version": "1.0.1",
+    "updated_at": "2026-02-15T03:13:32Z"
+  },
+  "astrbot-plugin-payqr": {
+    "display_name": "智能收款码",
+    "desc": "当 LLM 觉得自己没钱了或提到要别人给钱时，自动发送用户上传的收款码图片",
+    "author": "落日七号",
+    "repo": "https://github.com/luori7hao/astrbot_plugin_payqr",
+    "tags": [],
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-02-11T13:41:51Z"
+  },
+  "astrbot-plugin-jx3": {
+    "display_name": "剑网三游戏数据查询工具",
+    "desc": "通过接口调用剑网三API接口获取游戏数据",
+    "author": "飞翔大野猪",
+    "repo": "https://github.com/qsc20001102/astrbot_plugin_jx3",
+    "tags": [
+      "剑网三",
+      "数据查询"
+    ],
+    "stars": 2,
+    "version": "v1.0.0",
+    "updated_at": "2026-02-15T08:28:27Z",
+    "logo": "https://raw.githubusercontent.com/qsc20001102/astrbot_plugin_jx3/main/logo.png"
+  },
+  "astrbot-plugin-zirunbi": {
+    "display_name": "孜然币模拟炒股",
+    "desc": "一款多币种虚拟加密货币交易模拟插件。在群聊中体验模拟炒股的乐趣，体验“韭菜”的起起落落！",
+    "author": "LumineStory",
+    "repo": "https://github.com/oyxning/astrbot_plugin_zirunbi",
+    "tags": [
+      "炒股",
+      "模拟",
+      "本地"
+    ],
+    "social_link": "https://github.com/oyxning",
+    "stars": 0,
+    "version": "1.1.1",
+    "updated_at": "2026-02-08T12:40:17Z",
+    "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_zirunbi/main/logo.png"
+  },
+  "astrbot-plugin-at-check": {
+    "display_name": "谁艾特我",
+    "desc": "记录群聊中最近@你的消息，支持单独@的上下文获取。",
+    "author": "Foolllll",
+    "repo": "https://github.com/Foolllll-J/astrbot_plugin_at_check",
+    "tags": [
+      "工具"
+    ],
+    "stars": 0,
+    "version": "v1.0",
+    "updated_at": "2026-01-27T12:55:03Z",
+    "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_at_check/master/logo.png"
+  },
+  "astrbot-plugin-grok-suite": {
+    "display_name": "Grok AI 助手",
+    "desc": "Grok 全能插件：文生图、图生图、图生视频、智能对话（自动联网）、LLM Tool 调用，一站式 AI 多媒体体验",
+    "author": "沐沐沐倾",
+    "repo": "https://github.com/muqing-kg/astrbot_plugin_grok_suite",
+    "tags": [
+      "AI",
+      "生图",
+      "视频",
+      "联网搜索"
+    ],
+    "stars": 0,
+    "version": "2.2.0",
+    "updated_at": "2026-02-09T07:20:31Z",
+    "logo": "https://raw.githubusercontent.com/muqing-kg/astrbot_plugin_grok_suite/main/logo.png"
+  },
   "astrbot-plugin-chat-polisher": {
     "display_name": "最终文本润色",
     "desc": "自动将输出的回复文本内容截取，并通过设定的规则进行润色后发出。",
@@ -94,36 +205,6 @@
     "stars": 0,
     "version": "v1.0.0",
     "updated_at": "2026-02-05T16:50:22Z"
-  },
-  "astrbot-plugin-comfyui": {
-    "display_name": "ComfyUI 工作流 (LLM 工具)",
-    "desc": "将 ComfyUI 工作流封装为 LLM 可调用的工具，支持工作流上传/管理、说明与 text_slots，文生图/改图等任意工作流通过指定节点（Simple String、ETN_LoadImageBase64、VHS_LoadVideo）即可接入并执行。",
-    "author": "cjxzdzh",
-    "repo": "https://github.com/cjxzdzh/astrbot_plugin_comfyui",
-    "tags": [
-      "ComfyUI",
-      "LLM",
-      "图像生成",
-      "工作流"
-    ],
-    "social_link": "https://github.com/cjxzdzh",
-    "stars": 2,
-    "version": "1.0.1",
-    "updated_at": "2026-02-15T03:13:32Z"
-  },
-  "astrbot-plugin-astrbook": {
-    "display_name": "Astrbook适配器",
-    "desc": "Astrbook(一个仅agent论坛)的适配插件，让bot拥有在Astrbook上聊天，逛帖，回帖的能力",
-    "author": "Jason.Joestar",
-    "repo": "https://github.com/advent259141/astrbot_plugin_astrbook",
-    "tags": [
-      "论坛",
-      "自动水贴"
-    ],
-    "social_link": "https://github.com/advent259141",
-    "stars": 23,
-    "version": "2.6.2",
-    "updated_at": "2026-02-15T11:04:39Z"
   },
   "astrbot_plugin_group_quiz": {
     "display_name": "每日技术问答",
@@ -2563,9 +2644,9 @@
       "学习",
       "人格"
     ],
-    "stars": 19,
+    "stars": 20,
     "version": "0.99.1002",
-    "updated_at": "2026-02-13T18:06:09Z"
+    "updated_at": "2026-02-17T09:07:32Z"
   },
   "astrbot_plugin_angel_heart": {
     "display_name": "天使之心",
@@ -3682,9 +3763,9 @@
       "游戏"
     ],
     "social_link": "https://github.com/bvzrays",
-    "stars": 6,
+    "stars": 7,
     "version": "1.6.0",
-    "updated_at": "2025-12-18T06:41:06Z",
+    "updated_at": "2026-02-17T09:40:34Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_steamgame/master/logo.png"
   },
   "astrbot_plugin_gloryofkings": {
@@ -4768,8 +4849,8 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "stars": 82,
-    "version": "v1.1.4",
-    "updated_at": "2026-02-17T00:36:05Z",
+    "version": "v1.1.5",
+    "updated_at": "2026-02-17T09:46:50Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
