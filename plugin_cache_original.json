@@ -1421,9 +1421,9 @@
     "author": "2529huang",
     "repo": "https://github.com/2529huang/astrbot_plugin_fund_analyzer",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "1.1.1",
-    "updated_at": "2026-02-08T10:10:38Z"
+    "updated_at": "2026-02-17T04:14:46Z"
   },
   "astrbot_plugin_CNKD_Admin": {
     "display_name": "UapiPro言论管控",
@@ -2628,9 +2628,9 @@
     "tags": [
       "文件解析"
     ],
-    "stars": 3,
+    "stars": 4,
     "version": "v3.1.0",
-    "updated_at": "2026-02-02T03:10:59Z"
+    "updated_at": "2026-02-17T04:33:20Z"
   },
   "astrbot_plugin_reminder": {
     "display_name": "定时提醒插件",
@@ -3091,9 +3091,9 @@
       "分段"
     ],
     "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
-    "stars": 14,
+    "stars": 13,
     "version": "v1.2.0",
-    "updated_at": "2026-02-14T12:51:47Z",
+    "updated_at": "2026-02-17T02:46:41Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -3225,9 +3225,9 @@
       "生图",
       "gemini"
     ],
-    "stars": 2,
+    "stars": 1,
     "version": "1.0.0",
-    "updated_at": "2026-02-04T05:53:36Z"
+    "updated_at": "2026-02-17T02:46:33Z"
   },
   "astrbot_plugin_chatsummary_v2": {
     "display_name": "群聊消息总结v2",
@@ -5995,8 +5995,8 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
     "stars": 39,
-    "version": "v1.8.6",
-    "updated_at": "2026-02-07T17:44:27Z"
+    "version": "v1.8.7",
+    "updated_at": "2026-02-17T03:29:50Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -6352,9 +6352,9 @@
     "tags": [
       "适配器"
     ],
-    "stars": 5,
+    "stars": 6,
     "version": "v0.0.1",
-    "updated_at": "2025-10-10T15:14:04Z"
+    "updated_at": "2026-02-17T02:50:23Z"
   },
   "astrbot_plugin_ms_aiimg": {
     "desc": "接入魔搭社区文生图模型",
@@ -9487,7 +9487,7 @@
     "social_link": "https://github.com/vmoranv-reborn",
     "stars": 8,
     "version": "1.7.0",
-    "updated_at": "2026-02-16T10:56:01Z",
+    "updated_at": "2026-02-17T04:20:58Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
@@ -10302,9 +10302,9 @@
     "repo": "https://github.com/xiewoc/astrbot_plugin_file_reader",
     "social_link": "https://github.com/xiewoc",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "v1.0.3",
-    "updated_at": "2026-02-13T13:33:27Z"
+    "updated_at": "2026-02-17T04:33:29Z"
   },
   "astrbot_plugin_CounterStrikle": {
     "desc": "Blast-TV 上的 Counter-Strikle 小游戏，图片卡片渲染。",
