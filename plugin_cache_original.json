@@ -688,9 +688,9 @@
     "tags": [
       "表情包"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-01-29T11:43:24Z"
+    "updated_at": "2026-02-17T06:06:22Z"
   },
   "astrbot_plugin_daily_stock_analysis_adapter": {
     "display_name": "DailyStockAnalysis",
@@ -1849,7 +1849,7 @@
     "social_link": "https://github.com/NickCharlie",
     "stars": 105,
     "version": "Next-1.1.9",
-    "updated_at": "2026-02-17T05:53:14Z",
+    "updated_at": "2026-02-17T06:02:20Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
