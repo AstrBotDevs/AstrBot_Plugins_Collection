@@ -1,4 +1,10 @@
 {
+  "astrbot-plugin-payqr": {
+    "display_name": "智能收款码",
+    "desc": "当 LLM 觉得自己没钱了或提到要别人给钱时，自动发送用户上传的收款码图片",
+    "author": "落日七号",
+    "repo": "https://github.com/luori7hao/astrbot_plugin_payqr"
+  },
   "astrbot-plugin-jx3": {
     "display_name": "剑网三游戏数据查询工具",
     "desc": "通过接口调用剑网三API接口获取游戏数据",
