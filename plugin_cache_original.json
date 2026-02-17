@@ -234,7 +234,7 @@
     ],
     "stars": 11,
     "version": "v1.2.0",
-    "updated_at": "2026-02-17T10:01:25Z"
+    "updated_at": "2026-02-17T11:20:32Z"
   },
   "astrbot_plugin_mc_duration": {
     "display_name": "MC魔人时长统计",
@@ -2574,9 +2574,9 @@
       "nano_banana",
       "vertex_ai"
     ],
-    "stars": 12,
+    "stars": 13,
     "version": "v0.1.7",
-    "updated_at": "2026-02-16T10:38:55Z",
+    "updated_at": "2026-02-17T11:15:18Z",
     "logo": "https://raw.githubusercontent.com/sukafon/astrbot_plugin_big_banana/main/logo.png"
   },
   "astrbot_plugin_BitTorrent": {
