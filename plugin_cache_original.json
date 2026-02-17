@@ -1023,7 +1023,7 @@
     ],
     "stars": 3,
     "version": "v0.2.0",
-    "updated_at": "2026-02-17T16:49:32Z"
+    "updated_at": "2026-02-17T19:05:26Z"
   },
   "astrbot_plugin_odoo": {
     "display_name": "AstrBot Odoo 连接器",
@@ -1335,9 +1335,9 @@
     "repo": "https://github.com/muyouzhi6/astrbot_plugin_poke_to_llm",
     "social_link": "https://github.com/muyouzhi6",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "2.2.0",
-    "updated_at": "2026-01-17T11:52:39Z"
+    "updated_at": "2026-02-17T18:14:30Z"
   },
   "astrbot_plugin_balance_get": {
     "display_name": "模型平台余额查询",
@@ -11719,9 +11719,9 @@
     "author": "长安某",
     "repo": "https://github.com/zgojin/astrbot_plugin_pock",
     "tags": [],
-    "stars": 7,
+    "stars": 8,
     "version": "v2.1.1",
-    "updated_at": "2026-01-29T08:47:51Z"
+    "updated_at": "2026-02-17T18:09:03Z"
   },
   "astrbot_plugin_astrbot_plugin_repetition": {
     "desc": "用于AstrBot的复读机插件",
