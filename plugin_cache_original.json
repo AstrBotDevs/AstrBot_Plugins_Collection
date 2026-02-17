@@ -1021,9 +1021,9 @@
       "gbc",
       "bangdream"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v0.2.0",
-    "updated_at": "2026-02-16T15:01:08Z"
+    "updated_at": "2026-02-17T14:56:50Z"
   },
   "astrbot_plugin_odoo": {
     "display_name": "AstrBot Odoo 连接器",
@@ -1177,9 +1177,9 @@
       "飞书"
     ],
     "social_link": "https://github.com/anneviliu",
-    "stars": 1,
+    "stars": 2,
     "version": "0.3.0",
-    "updated_at": "2026-02-07T04:13:51Z"
+    "updated_at": "2026-02-17T14:54:11Z"
   },
   "astrbot_plugin_worldbook": {
     "display_name": "世界书插件",
@@ -1323,9 +1323,9 @@
       "群聊圣经"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 165,
+    "stars": 166,
     "version": "v4.7.7",
-    "updated_at": "2026-02-14T15:59:00Z",
+    "updated_at": "2026-02-17T15:12:02Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -2177,9 +2177,9 @@
     "repo": "https://github.com/xiaomizhoubaobei/astrbot_plugin_models_ai",
     "social_link": "https://github.com/xiaomizhoubaobei",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "v0.0.6",
-    "updated_at": "2026-02-07T15:22:16Z",
+    "updated_at": "2026-02-17T15:21:53Z",
     "logo": "https://raw.githubusercontent.com/xiaomizhoubaobei/astrbot_plugin_models_ai/main/logo.png"
   },
   "astrbot_plugin_monixiuxian2": {
@@ -9391,9 +9391,9 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 143,
+    "stars": 144,
     "version": "v2.0.6",
-    "updated_at": "2026-02-17T10:11:32Z",
+    "updated_at": "2026-02-17T15:17:31Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
