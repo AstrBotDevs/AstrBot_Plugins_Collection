@@ -1,4 +1,11 @@
 {
+  "astrbot-plugin-meting": {
+    "display_name": "初叶🍂MetingAPI 点歌",
+    "desc": "基于 MetingAPI 的点歌插件，自定义API地址，支持QQ音乐、网易云、酷狗、酷我音源",
+    "author": "初叶🍂竹叶-Furry控",
+    "repo": "https://github.com/chuyegzs/astrbot_plugin_meting",
+    "social_link": "www.chuyel.cn"
+  },
   "astrbot-plugin-payqr": {
     "display_name": "智能收款码",
     "desc": "当 LLM 觉得自己没钱了或提到要别人给钱时，自动发送用户上传的收款码图片",
