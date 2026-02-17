@@ -62,9 +62,9 @@
       "B站",
       "转链"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "1.0.1",
-    "updated_at": "2026-02-12T02:59:11Z"
+    "updated_at": "2026-02-17T07:35:27Z"
   },
   "astrbot-plugin-inkfusion": {
     "display_name": "A1111文生图插件",
@@ -620,9 +620,9 @@
       "水印"
     ],
     "social_link": "https://github.com/FenChen0211",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.1",
-    "updated_at": "2026-02-05T12:41:45Z"
+    "updated_at": "2026-02-17T07:16:36Z"
   },
   "astrbot_plugin_html_render": {
     "display_name": "HTML 渲染插件",
@@ -858,9 +858,9 @@
     "author": "lamp3721",
     "repo": "https://github.com/lamp3721/astrbot_plugin_at_ignore",
     "tags": [],
-    "stars": 1,
+    "stars": 0,
     "version": "v1.0.0",
-    "updated_at": "2026-02-08T10:56:07Z"
+    "updated_at": "2026-02-17T07:48:56Z"
   },
   "message_cleaner": {
     "display_name": "消息清洗器",
@@ -1523,9 +1523,9 @@
     "author": "星星旁の旷野",
     "repo": "https://github.com/xingkuangye/astrbot_plugin_groupGuard",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-01-08T14:09:09Z"
+    "updated_at": "2026-02-17T07:22:06Z"
   },
   "astrbot_plugin_qq_group_summary": {
     "display_name": "QQ群聊总结",
@@ -1847,9 +1847,9 @@
     ],
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
-    "stars": 105,
+    "stars": 106,
     "version": "Next-1.1.9",
-    "updated_at": "2026-02-17T06:02:20Z",
+    "updated_at": "2026-02-17T07:28:52Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -3013,9 +3013,9 @@
     "repo": "https://github.com/CJSen/astrbot_plugin_epic_free_games_notice",
     "social_link": "https://chjs.936668.xyz/",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "v0.0.4",
-    "updated_at": "2025-12-20T06:31:20Z"
+    "updated_at": "2026-02-17T07:21:57Z"
   },
   "astrbot_plugin_be_checker": {
     "display_name": "封禁检查",
@@ -3512,9 +3512,9 @@
       "每日一词"
     ],
     "social_link": "https://github.com/itismygo",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.0.2",
-    "updated_at": "2026-02-03T04:11:17Z"
+    "updated_at": "2026-02-17T07:21:51Z"
   },
   "astrbot_plugin_web_analyzer": {
     "display_name": "网页分析插件",
@@ -4829,9 +4829,9 @@
       "赞我",
       "自动点赞"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.3.0",
-    "updated_at": "2025-12-21T21:05:38Z",
+    "updated_at": "2026-02-17T07:21:49Z",
     "logo": "https://raw.githubusercontent.com/furry520-source/astrbot_plugin_furry_zan/astrbot_plugin_furry_zan/logo.png"
   },
   "zhiyu-astrbot-business": {
@@ -4878,9 +4878,9 @@
       "查违规"
     ],
     "social_link": "https://github.com/Futureppo",
-    "stars": 1,
+    "stars": 2,
     "version": "v0.0.2",
-    "updated_at": "2025-11-01T03:57:48Z",
+    "updated_at": "2026-02-17T07:19:14Z",
     "logo": "https://raw.githubusercontent.com/Futureppo/astrbot_plugin_violation_record/main/logo.png"
   },
   "zhiyu-astrbot-qqaiavatar": {
@@ -5583,9 +5583,9 @@
     "author": "薄暝",
     "repo": "https://github.com/xiaoxi68/astrbot_plugin_nbnhhsh",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "v0.1.1",
-    "updated_at": "2025-11-07T10:34:05Z"
+    "updated_at": "2026-02-17T07:21:39Z"
   },
   "Fishing Another!": {
     "desc": "升级版的钓鱼插件，附带后台管理界面（个性化钓鱼游戏！支持原版fashing2 1.4.6版本fishing存档继续游玩）\n另外一个作者tinker似乎不再继续维护了，我将接手钓鱼插件的后续开发。",
@@ -5782,9 +5782,9 @@
       "抽奖"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0.4",
-    "updated_at": "2026-01-25T06:00:46Z",
+    "updated_at": "2026-02-17T07:21:35Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_lottery/main/logo.png"
   },
   "astrbot_plugin_touchgal": {
@@ -6018,9 +6018,9 @@
     "tags": [
       "撤回"
     ],
-    "stars": 6,
+    "stars": 7,
     "version": "v1.2.0",
-    "updated_at": "2026-02-15T10:35:31Z",
+    "updated_at": "2026-02-17T08:09:00Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_anti_revoke/master/logo.png"
   },
   "input_state_by_napcat": {
@@ -6134,9 +6134,9 @@
       "QQ群打卡"
     ],
     "social_link": "https://github.com/EraAsh",
-    "stars": 4,
+    "stars": 5,
     "version": "v2.1.0",
-    "updated_at": "2025-12-20T10:32:55Z"
+    "updated_at": "2026-02-17T07:21:27Z"
   },
   "astrbot_plugin_livingmemory": {
     "desc": "为 AstrBot 打造的、拥有完整记忆生命周期的智能长期记忆插件。",
@@ -6331,9 +6331,9 @@
       "群相册"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 12,
+    "stars": 13,
     "version": "v1.1.3",
-    "updated_at": "2026-02-14T09:37:15Z",
+    "updated_at": "2026-02-17T07:18:15Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qun_album/main/logo.png"
   },
   "astrbot_plugin_favourpro": {
@@ -6910,9 +6910,9 @@
       "表白墙"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 58,
+    "stars": 59,
     "version": "v3.0.1",
-    "updated_at": "2026-02-14T04:13:49Z",
+    "updated_at": "2026-02-17T07:18:25Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -7250,9 +7250,9 @@
       "文件解析"
     ],
     "social_link": "https://qm.qq.com/q/d4lwUp9ap4",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.1",
-    "updated_at": "2025-12-12T09:48:20Z"
+    "updated_at": "2026-02-17T07:21:24Z"
   },
   "astrbot_plugin_img_rev_searcher": {
     "desc": "图片反搜项目，以图搜图，找出处",
@@ -7291,7 +7291,7 @@
     ],
     "stars": 6,
     "version": "v1.5.0",
-    "updated_at": "2026-02-16T11:55:06Z",
+    "updated_at": "2026-02-17T07:43:50Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -7462,9 +7462,9 @@
       "健康",
       "娱乐"
     ],
-    "stars": 5,
+    "stars": 6,
     "version": "v1.3",
-    "updated_at": "2026-02-09T17:08:17Z",
+    "updated_at": "2026-02-17T07:21:08Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_deer_check/master/logo.png"
   },
   "astrbot_plugin_pet": {
@@ -8054,9 +8054,9 @@
       "爱发电"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.0.1",
-    "updated_at": "2026-01-02T12:10:13Z",
+    "updated_at": "2026-02-17T07:22:11Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_afdian/main/logo.png"
   },
   "astrbot_plugin_runes": {
@@ -8149,9 +8149,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "desc": "动态词库，自定义回复词",
-    "stars": 11,
+    "stars": 12,
     "version": "v1.1.0",
-    "updated_at": "2026-01-25T06:21:40Z",
+    "updated_at": "2026-02-17T07:22:13Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wbank/main/logo.png"
   },
   "astrbot_plugin_lyricnext": {
@@ -9009,9 +9009,9 @@
       "戳一戳"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 45,
+    "stars": 46,
     "version": "v2.0.2",
-    "updated_at": "2026-02-15T08:54:53Z",
+    "updated_at": "2026-02-17T07:22:18Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_pokepro/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
@@ -9034,9 +9034,9 @@
       "广播"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.1.1",
-    "updated_at": "2026-01-25T05:51:59Z",
+    "updated_at": "2026-02-17T07:16:14Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_broadcast/main/logo.png"
   },
   "astrbot_plugin_nobot": {
@@ -9048,9 +9048,9 @@
       "人机"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_nobot",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.0.4",
-    "updated_at": "2026-01-25T06:07:41Z",
+    "updated_at": "2026-02-17T07:22:15Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_nobot/main/logo.png"
   },
   "astrbot_plugin_mcgetter": {
@@ -10012,9 +10012,9 @@
     "tags": [
       "QQ群管"
     ],
-    "stars": 94,
+    "stars": 95,
     "version": "v3.2.7",
-    "updated_at": "2026-02-15T07:27:35Z",
+    "updated_at": "2026-02-17T07:22:21Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -10438,9 +10438,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
-    "stars": 83,
+    "stars": 84,
     "version": "v3.0.3",
-    "updated_at": "2026-02-13T08:22:32Z",
+    "updated_at": "2026-02-17T07:16:02Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
@@ -10858,8 +10858,8 @@
     "repo": "https://github.com/4Nest/astrbot_plugin_mp_sub",
     "tags": [],
     "stars": 17,
-    "version": "v1.1.1",
-    "updated_at": "2025-12-31T06:30:18Z"
+    "version": "v1.2.0",
+    "updated_at": "2026-02-17T08:21:14Z"
   },
   "astrbot_plugin_random_vtb": {
     "desc": "随机推送正在直播的管人直播间",
