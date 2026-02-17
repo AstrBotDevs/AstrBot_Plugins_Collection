@@ -1230,9 +1230,9 @@
       "推送"
     ],
     "social_link": "https://github.com/siciyuanweilai",
-    "stars": 11,
-    "version": "4.5.0",
-    "updated_at": "2026-02-17T11:53:58Z",
+    "stars": 12,
+    "version": "4.6.0",
+    "updated_at": "2026-02-17T17:39:35Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -1541,8 +1541,8 @@
       "拟人"
     ],
     "stars": 4,
-    "version": "1.3.1",
-    "updated_at": "2026-02-14T15:39:57Z"
+    "version": "1.4.0",
+    "updated_at": "2026-02-17T17:24:55Z"
   },
   "astrbot_plugin_mc_manager": {
     "display_name": "astrbot_plugin_mc_manager",
@@ -2383,9 +2383,9 @@
     "author": "AGI_Friend_And_You",
     "repo": "https://github.com/204343414/astrbot_plugin_yt-dlp",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "1.0.1",
-    "updated_at": "2026-02-12T04:43:32Z",
+    "updated_at": "2026-02-17T17:51:59Z",
     "logo": "https://raw.githubusercontent.com/204343414/astrbot_plugin_yt-dlp/master/logo.png"
   },
   "astrbot_plugin_yotts": {
@@ -3156,8 +3156,8 @@
       "表情"
     ],
     "stars": 17,
-    "version": "2.2.2",
-    "updated_at": "2026-02-09T00:46:46Z",
+    "version": "2.2.3",
+    "updated_at": "2026-02-17T17:27:04Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -6100,8 +6100,8 @@
       "撤回"
     ],
     "stars": 7,
-    "version": "v1.2.1",
-    "updated_at": "2026-02-17T13:01:22Z",
+    "version": "v1.2.2",
+    "updated_at": "2026-02-17T17:06:05Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_anti_revoke/master/logo.png"
   },
   "input_state_by_napcat": {
