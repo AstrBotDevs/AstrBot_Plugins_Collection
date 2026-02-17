@@ -1230,9 +1230,9 @@
       "推送"
     ],
     "social_link": "https://github.com/siciyuanweilai",
-    "stars": 10,
+    "stars": 11,
     "version": "4.5.0",
-    "updated_at": "2026-02-15T16:44:30Z",
+    "updated_at": "2026-02-17T11:53:58Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -1282,9 +1282,9 @@
     "author": "RyanVaderAN",
     "repo": "https://github.com/674537331/astrbot_plugin_fflogs",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.3.0",
-    "updated_at": "2026-01-29T14:50:11Z",
+    "updated_at": "2026-02-17T11:52:42Z",
     "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_fflogs/master/logo.png"
   },
   "astrbot_plugin_CNKD_NEWS": {
@@ -1502,9 +1502,9 @@
     "author": "2529huang",
     "repo": "https://github.com/2529huang/astrbot_plugin_fund_analyzer",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "1.1.1",
-    "updated_at": "2026-02-17T04:14:46Z"
+    "updated_at": "2026-02-17T12:09:35Z"
   },
   "astrbot_plugin_CNKD_Admin": {
     "display_name": "UapiPro言论管控",
@@ -6100,8 +6100,8 @@
       "撤回"
     ],
     "stars": 7,
-    "version": "v1.2.0",
-    "updated_at": "2026-02-17T08:09:00Z",
+    "version": "v1.2.1",
+    "updated_at": "2026-02-17T13:01:22Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_anti_revoke/master/logo.png"
   },
   "input_state_by_napcat": {
@@ -11105,9 +11105,9 @@
       "图床"
     ],
     "pinned": true,
-    "stars": 132,
+    "stars": 133,
     "version": "v3.19",
-    "updated_at": "2026-02-15T13:08:21Z"
+    "updated_at": "2026-02-17T11:42:47Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
@@ -11694,7 +11694,7 @@
     "tags": [],
     "stars": 174,
     "version": "v2.0.15",
-    "updated_at": "2026-02-15T14:39:42Z"
+    "updated_at": "2026-02-17T12:47:49Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
