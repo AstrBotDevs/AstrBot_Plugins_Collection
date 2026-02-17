@@ -234,7 +234,7 @@
     ],
     "stars": 11,
     "version": "v1.2.0",
-    "updated_at": "2026-02-17T05:15:23Z"
+    "updated_at": "2026-02-17T10:01:25Z"
   },
   "astrbot_plugin_mc_duration": {
     "display_name": "MC魔人时长统计",
@@ -3720,7 +3720,7 @@
     "social_link": "https://enldm.cyou/about",
     "stars": 1,
     "version": "v0.1",
-    "updated_at": "2025-12-01T07:37:14Z",
+    "updated_at": "2026-02-17T10:24:09Z",
     "logo": "https://raw.githubusercontent.com/enldm/astrbot_plugin_bangmap/master/logo.png"
   },
   "astrbot_plugin_msg_transfer": {
@@ -8869,9 +8869,9 @@
     "repo": "https://github.com/Zhalslar/astrbot_plugin_search_video",
     "social_link": "https://github.com/Zhalslar",
     "tags": [],
-    "stars": 41,
+    "stars": 42,
     "version": "v1.2.1",
-    "updated_at": "2026-02-09T07:39:12Z",
+    "updated_at": "2026-02-17T10:26:00Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_search_video/main/logo.png"
   },
   "astrbot_plugin_zt": {
@@ -9391,9 +9391,9 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 142,
+    "stars": 143,
     "version": "v2.0.6",
-    "updated_at": "2026-02-17T04:58:36Z",
+    "updated_at": "2026-02-17T10:11:32Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
