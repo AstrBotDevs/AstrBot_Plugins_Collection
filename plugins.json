@@ -1,4 +1,14 @@
 {
+  "astrbot-plugin-jx3": {
+    "display_name": "剑网三游戏数据查询工具",
+    "desc": "通过接口调用剑网三API接口获取游戏数据",
+    "author": "飞翔大野猪",
+    "repo": "https://github.com/qsc20001102/astrbot_plugin_jx3",
+    "tags": [
+      "剑网三",
+      "数据查询"
+    ]
+  },
   "astrbot-plugin-zirunbi": {
     "display_name": "孜然币模拟炒股",
     "desc": "一款多币种虚拟加密货币交易模拟插件。在群聊中体验模拟炒股的乐趣，体验“韭菜”的起起落落！",
