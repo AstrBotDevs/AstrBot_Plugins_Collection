@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-zirunbi": {
+    "display_name": "孜然币模拟炒股",
+    "desc": "一款多币种虚拟加密货币交易模拟插件。在群聊中体验模拟炒股的乐趣，体验“韭菜”的起起落落！",
+    "author": "LumineStory",
+    "repo": "https://github.com/oyxning/astrbot_plugin_zirunbi",
+    "tags": [
+      "炒股",
+      "模拟",
+      "本地"
+    ],
+    "social_link": "https://github.com/oyxning"
+  },
   "astrbot-plugin-at-check": {
     "display_name": "谁艾特我",
     "desc": "记录群聊中最近@你的消息，支持单独@的上下文获取。",
