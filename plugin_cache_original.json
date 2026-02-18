@@ -36,7 +36,7 @@
     "social_link": "https://github.com/1-20182",
     "stars": 2,
     "version": "v1.3.0",
-    "updated_at": "2026-02-18T15:44:06Z"
+    "updated_at": "2026-02-18T17:27:54Z"
   },
   "astrbot-plugin-Gemini-STT": {
     "display_name": "Gemini_STT",
@@ -2034,7 +2034,7 @@
     "tags": [],
     "stars": 7,
     "version": "v0.1.1",
-    "updated_at": "2026-02-05T03:29:48Z",
+    "updated_at": "2026-02-18T17:59:51Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_help_typst/master/logo.png"
   },
   "astrbot_plugin_lb_provider": {
@@ -7583,9 +7583,9 @@
       "拟人"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 67,
+    "stars": 68,
     "version": "2.0.0",
-    "updated_at": "2026-02-18T15:45:13Z"
+    "updated_at": "2026-02-18T17:24:01Z"
   },
   "cngal_search": {
     "desc": "CnGal查询",
