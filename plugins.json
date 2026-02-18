@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-niji": {
+    "display_name": "Niji Diary Sync",
+    "desc": "自动将聊天记录同步到你的日记网站，支持每日自动上传和手动触发同步。",
+    "author": "iamfromchangsha",
+    "repo": "https://github.com/iamfromchangsha/astrbot_plugin_niji",
+    "tags": [
+      "你的日记",
+      "日记保存"
+    ],
+    "social_link": "https://github.com/iamfromchangsha"
+  },
   "astrbot-plugin-phigros": {
     "display_name": "phigros音游插件",
     "desc": "Phigros 音游数据查询插件，支持查询玩家存档、RKS历史、排行榜、歌曲搜索和新曲速递",
