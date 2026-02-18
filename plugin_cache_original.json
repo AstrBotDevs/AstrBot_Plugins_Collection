@@ -1,4 +1,45 @@
 {
+  "astrbot-plugin-Gemini-STT": {
+    "display_name": "Gemini_STT",
+    "desc": "使用Gemini模型来实现STT(分析特别详细哦)",
+    "author": "政ひかりはる",
+    "repo": "https://github.com/Weather-719/astrbot_plugin_Gemini_STT",
+    "tags": [
+      "STT",
+      "语音",
+      "桥接",
+      "Gemini"
+    ],
+    "social_link": "https://github.com/Weather-719",
+    "stars": 4,
+    "version": "2.1.0",
+    "updated_at": "2026-02-18T02:40:38Z"
+  },
+  "astrbot-plugin-openai-responses": {
+    "display_name": "OpenAI Responses API Provider",
+    "desc": "添加OpenAI Responses适配",
+    "author": "okami-horo",
+    "repo": "https://github.com/okami-horo/astrbot_plugin_openai_responses",
+    "tags": [],
+    "stars": 0,
+    "version": "0.1.4",
+    "updated_at": "2026-02-18T07:27:24Z"
+  },
+  "astrbot-plugin-matrix-sticker": {
+    "display_name": "Matrix Sticker 管理插件",
+    "desc": "Matrix Sticker 管理插件，提供 sticker 保存、列表和发送命令",
+    "author": "stevessr",
+    "repo": "https://github.com/stevessr/astrbot_plugin_matrix_sticker",
+    "tags": [
+      "matrix",
+      "sticker",
+      "表情"
+    ],
+    "social_link": "https://github.com/stevessr",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-02-17T14:07:48Z"
+  },
   "astrbot-plugin-astrbook": {
     "display_name": "Astrbook适配器",
     "desc": "Astrbook(一个仅agent论坛)的适配插件，让bot拥有在Astrbook上聊天，逛帖，回帖的能力",
@@ -3550,7 +3591,7 @@
     ],
     "stars": 2,
     "version": "v1.2.0",
-    "updated_at": "2026-01-30T15:23:39Z",
+    "updated_at": "2026-02-18T09:01:38Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_video_analysis/master/logo.png"
   },
   "astrbot_plugin_image_generation": {
@@ -11105,9 +11146,9 @@
       "图床"
     ],
     "pinned": true,
-    "stars": 134,
+    "stars": 135,
     "version": "v3.19",
-    "updated_at": "2026-02-17T15:57:41Z"
+    "updated_at": "2026-02-18T09:01:04Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
