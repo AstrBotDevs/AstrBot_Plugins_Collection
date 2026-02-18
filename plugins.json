@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-matrix-sticker": {
+    "display_name": "Matrix Sticker 管理插件",
+    "desc": "Matrix Sticker 管理插件，提供 sticker 保存、列表和发送命令",
+    "author": "stevessr",
+    "repo": "https://github.com/stevessr/astrbot_plugin_matrix_sticker",
+    "tags": [
+      "matrix",
+      "sticker",
+      "表情"
+    ],
+    "social_link": "https://github.com/stevessr"
+  },
   "astrbot-plugin-astrbook": {
     "display_name": "Astrbook适配器",
     "desc": "Astrbook(一个仅agent论坛)的适配插件，让bot拥有在Astrbook上聊天，逛帖，回帖的能力",
