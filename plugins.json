@@ -1,4 +1,10 @@
 {
+  "astrbot-plugin-openai-responses": {
+    "display_name": "OpenAI Responses API Provider",
+    "desc": "添加OpenAI Responses适配",
+    "author": "okami-horo",
+    "repo": "https://github.com/okami-horo/astrbot_plugin_openai_responses"
+  },
   "astrbot-plugin-matrix-sticker": {
     "display_name": "Matrix Sticker 管理插件",
     "desc": "Matrix Sticker 管理插件，提供 sticker 保存、列表和发送命令",
