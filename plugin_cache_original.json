@@ -9,9 +9,9 @@
       "自动水贴"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 23,
+    "stars": 24,
     "version": "2.6.2",
-    "updated_at": "2026-02-15T11:04:39Z"
+    "updated_at": "2026-02-17T23:50:56Z"
   },
   "astrbot-plugin-meting": {
     "display_name": "初叶🍂MetingAPI 点歌",
@@ -1928,9 +1928,9 @@
     ],
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
-    "stars": 106,
+    "stars": 107,
     "version": "Next-1.1.9",
-    "updated_at": "2026-02-17T07:28:52Z",
+    "updated_at": "2026-02-18T02:02:49Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -6227,9 +6227,9 @@
       "memory",
       "rag"
     ],
-    "stars": 63,
+    "stars": 64,
     "version": "2.1.2",
-    "updated_at": "2026-02-16T06:30:25Z",
+    "updated_at": "2026-02-18T01:50:51Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -6894,9 +6894,9 @@
       "输出增强"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 28,
+    "stars": 29,
     "version": "v2.1.6",
-    "updated_at": "2026-02-15T18:22:21Z",
+    "updated_at": "2026-02-18T01:28:18Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
