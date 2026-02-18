@@ -11,7 +11,7 @@
     "social_link": "https://github.com/advent259141",
     "stars": 24,
     "version": "2.6.2",
-    "updated_at": "2026-02-17T23:50:56Z"
+    "updated_at": "2026-02-18T05:50:27Z"
   },
   "astrbot-plugin-meting": {
     "display_name": "初叶🍂MetingAPI 点歌",
@@ -1913,8 +1913,8 @@
     "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
     "tags": [],
     "stars": 18,
-    "version": "v3.9.16",
-    "updated_at": "2026-02-12T10:44:48Z",
+    "version": "v4.0.0",
+    "updated_at": "2026-02-18T06:01:21Z",
     "logo": "https://raw.githubusercontent.com/xiaoxi68/astrbot_zssm_explain/main/logo.png"
   },
   "astrbot_plugin_self_learning": {
@@ -1928,9 +1928,9 @@
     ],
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
-    "stars": 107,
+    "stars": 108,
     "version": "Next-1.1.9",
-    "updated_at": "2026-02-18T02:02:49Z",
+    "updated_at": "2026-02-18T05:53:22Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -9391,9 +9391,9 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 145,
+    "stars": 146,
     "version": "v3.0.0",
-    "updated_at": "2026-02-18T04:30:58Z",
+    "updated_at": "2026-02-18T05:56:08Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
