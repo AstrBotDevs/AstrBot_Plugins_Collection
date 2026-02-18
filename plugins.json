@@ -1,4 +1,17 @@
 {
+  "astrbot-plugin-Gemini-STT": {
+    "display_name": "Gemini_STT",
+    "desc": "使用Gemini模型来实现STT(分析特别详细哦)",
+    "author": "政ひかりはる",
+    "repo": "https://github.com/Weather-719/astrbot_plugin_Gemini_STT",
+    "tags": [
+      "STT",
+      "语音",
+      "桥接",
+      "Gemini"
+    ],
+    "social_link": "https://github.com/Weather-719"
+  },
   "astrbot-plugin-openai-responses": {
     "display_name": "OpenAI Responses API Provider",
     "desc": "添加OpenAI Responses适配",
