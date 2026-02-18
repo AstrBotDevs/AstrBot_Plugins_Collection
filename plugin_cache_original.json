@@ -688,7 +688,7 @@
     "social_link": "https://github.com/piexian",
     "stars": 3,
     "version": "v1.0.5",
-    "updated_at": "2026-02-15T14:09:56Z",
+    "updated_at": "2026-02-18T08:17:13Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_grok_web_search/master/logo.png"
   },
   "astrbot_plugin_fake_ai_watermark": {
@@ -1457,8 +1457,8 @@
     ],
     "social_link": "https://qwq.pyuramazo.online",
     "stars": 3,
-    "version": "v1.4.2",
-    "updated_at": "2026-02-15T13:22:47Z",
+    "version": "v1.4.3",
+    "updated_at": "2026-02-18T08:14:14Z",
     "logo": "https://raw.githubusercontent.com/PyuraMazo/astrbot_plugin_galgame_box/master/logo.png"
   },
   "astrbot_plugin_anitabi": {
@@ -3683,7 +3683,7 @@
     "social_link": "https://github.com/piexian",
     "stars": 24,
     "version": "v1.9.2",
-    "updated_at": "2026-02-14T07:36:50Z",
+    "updated_at": "2026-02-18T08:16:41Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -3984,7 +3984,7 @@
     "social_link": "https://github.com/piexian",
     "stars": 2,
     "version": "1.2.5",
-    "updated_at": "2026-01-22T16:19:26Z",
+    "updated_at": "2026-02-18T08:16:10Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_rg2/master/logo.png"
   },
   "astrbot_plugin_maimaidx": {
@@ -6696,9 +6696,9 @@
       "SiliconFlow"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 46,
+    "stars": 47,
     "version": "3.0.0",
-    "updated_at": "2026-02-09T13:34:05Z",
+    "updated_at": "2026-02-18T08:45:51Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "findx010197/astrbot_plugin_reminder": {
@@ -11330,9 +11330,9 @@
     "author": "Flartiny & Soulter",
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "tags": [],
-    "stars": 41,
+    "stars": 42,
     "version": "v1.5.3",
-    "updated_at": "2026-02-15T03:26:37Z",
+    "updated_at": "2026-02-18T08:30:47Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
