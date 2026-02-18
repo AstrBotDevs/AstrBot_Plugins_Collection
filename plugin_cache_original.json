@@ -20,9 +20,9 @@
     "repo": "https://github.com/chuyegzs/astrbot_plugin_meting",
     "social_link": "www.chuyel.cn",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.2",
-    "updated_at": "2026-02-16T14:56:39Z",
+    "updated_at": "2026-02-18T04:28:18Z",
     "logo": "https://raw.githubusercontent.com/chuyegzs/astrbot_plugin_meting/main/logo.png"
   },
   "astrbot-plugin-comfyui": {
@@ -1271,9 +1271,9 @@
       "日报",
       "数据搜刮"
     ],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.5.4",
-    "updated_at": "2026-02-11T15:53:30Z",
+    "updated_at": "2026-02-18T04:14:55Z",
     "logo": "https://raw.githubusercontent.com/zhoufan47/astrbot_plugin_bbt_daily_news/master/logo.png"
   },
   "astrbot_plugin_fflogs": {
@@ -1323,9 +1323,9 @@
       "群聊圣经"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 166,
+    "stars": 167,
     "version": "v4.7.7",
-    "updated_at": "2026-02-17T15:12:02Z",
+    "updated_at": "2026-02-18T03:12:46Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -1593,9 +1593,9 @@
       "插件编写"
     ],
     "social_link": "https://github.com/DITF16",
-    "stars": 37,
+    "stars": 38,
     "version": "1.1.1",
-    "updated_at": "2026-02-12T10:55:07Z",
+    "updated_at": "2026-02-18T02:43:16Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_groupGuard": {
@@ -3719,8 +3719,8 @@
     ],
     "social_link": "https://enldm.cyou/about",
     "stars": 1,
-    "version": "v0.1",
-    "updated_at": "2026-02-17T10:24:09Z",
+    "version": "v0.3",
+    "updated_at": "2026-02-18T04:10:59Z",
     "logo": "https://raw.githubusercontent.com/enldm/astrbot_plugin_bangmap/master/logo.png"
   },
   "astrbot_plugin_msg_transfer": {
@@ -6227,9 +6227,9 @@
       "memory",
       "rag"
     ],
-    "stars": 64,
+    "stars": 65,
     "version": "2.1.2",
-    "updated_at": "2026-02-18T01:50:51Z",
+    "updated_at": "2026-02-18T03:11:57Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -9391,9 +9391,9 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 144,
+    "stars": 145,
     "version": "v3.0.0",
-    "updated_at": "2026-02-17T16:49:58Z",
+    "updated_at": "2026-02-18T04:30:58Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -9566,9 +9566,9 @@
       "pixiv"
     ],
     "social_link": "https://github.com/vmoranv-reborn",
-    "stars": 8,
+    "stars": 9,
     "version": "1.7.1",
-    "updated_at": "2026-02-17T05:16:35Z",
+    "updated_at": "2026-02-18T03:44:21Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
