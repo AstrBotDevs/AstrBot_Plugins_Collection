@@ -1,4 +1,43 @@
 {
+  "astrbot-plugin-halo-manager": {
+    "display_name": "博客管理器",
+    "desc": "Bot管理的halo博客插件",
+    "author": "血与蔷薇",
+    "repo": "https://github.com/danielsunrise/astrbot_plugin_halo_manager",
+    "tags": [],
+    "stars": 0,
+    "version": "1.2.1",
+    "updated_at": "2026-02-16T04:23:10Z"
+  },
+  "astrbot-plugin-niji": {
+    "display_name": "Niji Diary Sync",
+    "desc": "自动将聊天记录同步到你的日记网站，支持每日自动上传和手动触发同步。",
+    "author": "iamfromchangsha",
+    "repo": "https://github.com/iamfromchangsha/astrbot_plugin_niji",
+    "tags": [
+      "你的日记",
+      "日记保存"
+    ],
+    "social_link": "https://github.com/iamfromchangsha",
+    "stars": 0,
+    "version": "1.4.0",
+    "updated_at": "2026-02-18T09:23:57Z",
+    "logo": "https://raw.githubusercontent.com/iamfromchangsha/astrbot_plugin_niji/master/logo.png"
+  },
+  "astrbot-plugin-phigros": {
+    "display_name": "phigros音游插件",
+    "desc": "Phigros 音游数据查询插件，支持查询玩家存档、RKS历史、排行榜、歌曲搜索和新曲速递",
+    "author": "飞翔的死猪",
+    "repo": "https://github.com/1-20182/astrbot_plugin_phigros",
+    "tags": [
+      "音游",
+      "phigros"
+    ],
+    "social_link": "https://github.com/1-20182",
+    "stars": 1,
+    "version": "v1.3.0",
+    "updated_at": "2026-02-18T14:39:27Z"
+  },
   "astrbot-plugin-Gemini-STT": {
     "display_name": "Gemini_STT",
     "desc": "使用Gemini模型来实现STT(分析特别详细哦)",
@@ -13,7 +52,7 @@
     "social_link": "https://github.com/Weather-719",
     "stars": 4,
     "version": "2.3.1",
-    "updated_at": "2026-02-18T11:51:23Z"
+    "updated_at": "2026-02-18T13:38:27Z"
   },
   "astrbot-plugin-openai-responses": {
     "display_name": "OpenAI Responses API Provider",
@@ -37,8 +76,8 @@
     ],
     "social_link": "https://github.com/stevessr",
     "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-02-17T14:07:48Z"
+    "version": "1.0.1",
+    "updated_at": "2026-02-18T14:45:13Z"
   },
   "astrbot-plugin-astrbook": {
     "display_name": "Astrbook适配器",
@@ -102,8 +141,8 @@
       "数据查询"
     ],
     "stars": 2,
-    "version": "v1.0.0",
-    "updated_at": "2026-02-15T08:28:27Z",
+    "version": "v1.1.0",
+    "updated_at": "2026-02-18T13:32:04Z",
     "logo": "https://raw.githubusercontent.com/qsc20001102/astrbot_plugin_jx3/main/logo.png"
   },
   "astrbot-plugin-zirunbi": {
@@ -275,7 +314,7 @@
     ],
     "stars": 11,
     "version": "v1.2.0",
-    "updated_at": "2026-02-17T11:20:32Z"
+    "updated_at": "2026-02-18T14:42:41Z"
   },
   "astrbot_plugin_mc_duration": {
     "display_name": "MC魔人时长统计",
@@ -1969,9 +2008,9 @@
     ],
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
-    "stars": 109,
-    "version": "Next-1.1.9",
-    "updated_at": "2026-02-18T12:56:23Z",
+    "stars": 110,
+    "version": "Next-1.2.0",
+    "updated_at": "2026-02-18T13:28:22Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -9432,9 +9471,9 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 146,
+    "stars": 147,
     "version": "v3.0.0",
-    "updated_at": "2026-02-18T05:56:08Z",
+    "updated_at": "2026-02-18T13:50:19Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -10514,9 +10553,9 @@
       "番剧"
     ],
     "repo": "https://github.com/xco2/astrbot_plugin_anime_gacha",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.1.2",
-    "updated_at": "2026-01-18T07:36:14Z"
+    "updated_at": "2026-02-18T14:41:14Z"
   },
   "astrbot_plugin_nachoneko": {
     "desc": "一款获取甘城猫猫图片的插件",
@@ -11146,9 +11185,9 @@
       "图床"
     ],
     "pinned": true,
-    "stars": 135,
+    "stars": 136,
     "version": "v3.19",
-    "updated_at": "2026-02-18T09:01:04Z"
+    "updated_at": "2026-02-18T13:27:55Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
