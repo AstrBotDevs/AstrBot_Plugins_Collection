@@ -13,7 +13,7 @@
     "social_link": "https://github.com/Weather-719",
     "stars": 4,
     "version": "2.3.1",
-    "updated_at": "2026-02-18T11:30:52Z"
+    "updated_at": "2026-02-18T11:51:23Z"
   },
   "astrbot-plugin-openai-responses": {
     "display_name": "OpenAI Responses API Provider",
@@ -131,8 +131,8 @@
       "工具"
     ],
     "stars": 0,
-    "version": "v1.0",
-    "updated_at": "2026-01-27T12:55:03Z",
+    "version": "v1.0.1",
+    "updated_at": "2026-02-18T12:51:35Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_at_check/master/logo.png"
   },
   "astrbot-plugin-grok-suite": {
@@ -1954,8 +1954,8 @@
     "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
     "tags": [],
     "stars": 18,
-    "version": "v4.0.1",
-    "updated_at": "2026-02-18T07:31:00Z",
+    "version": "v4.0.2",
+    "updated_at": "2026-02-18T12:05:13Z",
     "logo": "https://raw.githubusercontent.com/xiaoxi68/astrbot_zssm_explain/main/logo.png"
   },
   "astrbot_plugin_self_learning": {
@@ -1969,9 +1969,9 @@
     ],
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
-    "stars": 108,
+    "stars": 109,
     "version": "Next-1.1.9",
-    "updated_at": "2026-02-18T05:53:22Z",
+    "updated_at": "2026-02-18T12:56:23Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -3746,9 +3746,9 @@
     "author": "Neilyo",
     "repo": "https://github.com/lixinzai/astrbot_plugin_parse_hub",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-01-05T09:20:46Z"
+    "updated_at": "2026-02-18T12:56:58Z"
   },
   "astrbot_plugin_bangmap": {
     "display_name": "全国邦邦同好会信息查询",
@@ -5354,8 +5354,8 @@
     "repo": "https://github.com/BGYdook/AstrBot-plugin-tmp-bot",
     "tags": [],
     "stars": 3,
-    "version": "1.7.4",
-    "updated_at": "2026-02-03T18:04:24Z"
+    "version": "1.7.5",
+    "updated_at": "2026-02-18T12:30:11Z"
   },
   "astrbot_plugin_33recognition": {
     "desc": "调用大模型检测图片中关键词",
@@ -6869,9 +6869,9 @@
     "tags": [
       "运势"
     ],
-    "stars": 14,
+    "stars": 15,
     "version": "v1.0.3",
-    "updated_at": "2026-02-05T12:21:53Z"
+    "updated_at": "2026-02-18T12:51:51Z"
   },
   "astrbot_plugin_wakepro": {
     "display_name": "唤醒增强",
