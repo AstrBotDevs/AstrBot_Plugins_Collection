@@ -296,8 +296,8 @@
     ],
     "social_link": "https://github.com/Misaka13906/",
     "stars": 2,
-    "version": "v1.0.1",
-    "updated_at": "2026-02-14T15:51:29Z"
+    "version": "v1.1.0",
+    "updated_at": "2026-02-18T17:01:05Z"
   },
   "astrbot_plugin_hapi_connector": {
     "name": "",
@@ -3372,9 +3372,9 @@
       "画图"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 36,
+    "stars": 37,
     "version": "v4.1.0",
-    "updated_at": "2026-02-18T15:46:28Z",
+    "updated_at": "2026-02-18T16:56:13Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -4163,9 +4163,9 @@
     "tags": [
       "MC"
     ],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.1.2",
-    "updated_at": "2026-01-13T15:34:12Z",
+    "updated_at": "2026-02-18T16:35:04Z",
     "logo": "https://raw.githubusercontent.com/SatellIta/astrbot_plugin_minecraft_skin_render/master/logo.png"
   },
   "astrbot_plugin_picstatus": {
