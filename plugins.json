@@ -1,4 +1,10 @@
 {
+  "astrbot-plugin-halo-manager": {
+    "display_name": "博客管理器",
+    "desc": "Bot管理的halo博客插件",
+    "author": "血与蔷薇",
+    "repo": "https://github.com/danielsunrise/astrbot_plugin_halo_manager"
+  },
   "astrbot-plugin-niji": {
     "display_name": "Niji Diary Sync",
     "desc": "自动将聊天记录同步到你的日记网站，支持每日自动上传和手动触发同步。",
