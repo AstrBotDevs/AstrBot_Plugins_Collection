@@ -1,4 +1,13 @@
 {
+  "astrbot-plugin-httpadapter": {
+    "display_name": "HTTP平台适配器",
+    "desc": "为 AstrBot 提供 HTTP/HTTPS 接口，支持外部应用通过 HTTP 协议与 AstrBot 交互",
+    "author": "lishining",
+    "repo": "https://github.com/Li-shi-ling/astrbot_plugin_httpplatform",
+    "tags": [
+      "平台适配器"
+    ]
+  },
   "astrbot-plugin-halo-manager": {
     "display_name": "博客管理器",
     "desc": "Bot管理的halo博客插件",
