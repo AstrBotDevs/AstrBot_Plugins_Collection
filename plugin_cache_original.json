@@ -679,9 +679,9 @@
     "tags": [
       "娱乐"
     ],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.0",
-    "updated_at": "2026-02-13T15:21:00Z"
+    "updated_at": "2026-02-19T06:24:00Z"
   },
   "astrbot_plugin_elves_world": {
     "display_name": "精灵世界",
@@ -4989,9 +4989,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 84,
+    "stars": 85,
     "version": "v1.1.5",
-    "updated_at": "2026-02-19T03:09:14Z",
+    "updated_at": "2026-02-19T06:09:46Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -7645,8 +7645,8 @@
     ],
     "social_link": "https://github.com/advent259141",
     "stars": 68,
-    "version": "2.0.0",
-    "updated_at": "2026-02-18T17:24:01Z"
+    "version": "2.1.0",
+    "updated_at": "2026-02-19T06:17:15Z"
   },
   "cngal_search": {
     "desc": "CnGal查询",
@@ -10662,7 +10662,7 @@
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "stars": 84,
     "version": "v3.0.3",
-    "updated_at": "2026-02-17T07:16:02Z",
+    "updated_at": "2026-02-19T06:02:55Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
