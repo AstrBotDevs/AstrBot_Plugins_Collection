@@ -112,7 +112,7 @@
     "social_link": "https://github.com/Weather-719",
     "stars": 5,
     "version": "2.3.4",
-    "updated_at": "2026-02-19T08:02:07Z"
+    "updated_at": "2026-02-19T09:04:18Z"
   },
   "astrbot-plugin-openai-responses": {
     "display_name": "OpenAI Responses API Provider",
@@ -604,9 +604,9 @@
       "agent",
       "codegen"
     ],
-    "stars": 15,
+    "stars": 16,
     "version": "1.1.1",
-    "updated_at": "2026-02-19T02:23:57Z",
+    "updated_at": "2026-02-19T09:05:53Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -852,8 +852,8 @@
     "repo": "https://github.com/lumingya/astrbot_plugin_html_render",
     "tags": [],
     "stars": 1,
-    "version": "1.2.0",
-    "updated_at": "2026-02-15T16:10:15Z"
+    "version": "1.3.0",
+    "updated_at": "2026-02-19T09:34:56Z"
   },
   "astrbot_plugin_opencode": {
     "display_name": "OpenCode Bridge",
@@ -1333,9 +1333,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "pinned": true,
-    "stars": 14,
+    "stars": 15,
     "version": "2.2.3",
-    "updated_at": "2026-02-12T04:16:55Z",
+    "updated_at": "2026-02-19T09:36:18Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_worldbook/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -5004,9 +5004,9 @@
       "AI"
     ],
     "social_link": "https://github.com/oyxning",
-    "stars": 6,
+    "stars": 7,
     "version": "0.3.0",
-    "updated_at": "2026-01-15T04:59:48Z",
+    "updated_at": "2026-02-19T09:21:05Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot-plugin-moremorelove/main/logo.png"
   },
   "astrbot_plugin_genie-tts": {
@@ -10220,9 +10220,9 @@
       "浏览器"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
-    "stars": 22,
+    "stars": 23,
     "version": "v2.0.0",
-    "updated_at": "2025-12-27T07:25:57Z",
+    "updated_at": "2026-02-19T09:05:51Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_browser/main/logo.png"
   },
   "astrbot_plugin_qqadmin": {
