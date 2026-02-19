@@ -9,9 +9,9 @@
       "群聊总结",
       "共同协作"
     ],
-    "stars": 3,
+    "stars": 4,
     "version": "2.4.0",
-    "updated_at": "2026-02-19T05:02:43Z",
+    "updated_at": "2026-02-19T15:53:15Z",
     "logo": "https://raw.githubusercontent.com/blueraina/astrbot_plugin_novel/main/logo.png"
   },
   "astrbot-plugin-clonetts": {
@@ -135,9 +135,9 @@
       "表情"
     ],
     "social_link": "https://github.com/stevessr",
-    "stars": 0,
+    "stars": 1,
     "version": "1.0.1",
-    "updated_at": "2026-02-18T14:45:13Z"
+    "updated_at": "2026-02-19T16:45:25Z"
   },
   "astrbot-plugin-astrbook": {
     "display_name": "Astrbook适配器",
@@ -2180,9 +2180,9 @@
       "平台适配器"
     ],
     "social_link": "https://github.com/stevessr",
-    "stars": 6,
+    "stars": 7,
     "version": "0.3.1",
-    "updated_at": "2026-02-17T14:40:01Z",
+    "updated_at": "2026-02-19T16:45:36Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_url_image_auto": {
@@ -6369,8 +6369,8 @@
       "rag"
     ],
     "stars": 65,
-    "version": "2.1.6",
-    "updated_at": "2026-02-19T14:38:37Z",
+    "version": "2.1.7",
+    "updated_at": "2026-02-19T16:38:46Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -9532,9 +9532,9 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 147,
-    "version": "v3.0.0",
-    "updated_at": "2026-02-18T13:50:19Z",
+    "stars": 148,
+    "version": "v3.0.1",
+    "updated_at": "2026-02-19T16:34:58Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -10412,7 +10412,7 @@
     "social_link": "https://m.bilibili.com/space/172230783",
     "stars": 8,
     "version": "v1.3",
-    "updated_at": "2025-11-11T03:33:19Z"
+    "updated_at": "2026-02-19T16:26:39Z"
   },
   "astrbot_plugin_GPT_SoVITS": {
     "display_name": "GPT SoVITS",
