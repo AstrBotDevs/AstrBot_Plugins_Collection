@@ -1,4 +1,64 @@
 {
+  "astrbot-plugin-novel": {
+    "display_name": "群聊AI小说构建插件",
+    "desc": "QQ群群友协作 + AI辅助写作的长篇小说插件（每群独立/知识库/多AI打分/冲突投票/风格模仿/用户修正/EPUB/PDF导出）",
+    "author": "blueraina",
+    "repo": "https://github.com/blueraina/astrbot_plugin_novel",
+    "tags": [
+      "小说",
+      "群聊总结",
+      "共同协作"
+    ],
+    "stars": 3,
+    "version": "2.4.0",
+    "updated_at": "2026-02-19T03:16:08Z",
+    "logo": "https://raw.githubusercontent.com/blueraina/astrbot_plugin_novel/main/logo.png"
+  },
+  "astrbot-plugin-clonetts": {
+    "display_name": "克隆语音",
+    "desc": "基于火山引擎音色克隆的文本转语音插件",
+    "author": "Radiant303",
+    "repo": "https://github.com/Radiant303/astrbot_plugin_clonetts",
+    "tags": [
+      "声音",
+      "语音",
+      "火山引擎",
+      "豆包"
+    ],
+    "social_link": "https://github.com/Radiant303",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-02-15T12:51:10Z",
+    "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_clonetts/master/logo.png"
+  },
+  "astrbot-plugin-ssh": {
+    "display_name": "远程SSH执行器",
+    "desc": "一个功能弱小的 AstrBot 插件，允许您通过聊天连接远程 SSH 服务器并执行命令。支持交互式 Shell 会话、状态保持、LLM 函数调用，并具备一定的安全保护机制。",
+    "author": "5060ti个马力的6999",
+    "repo": "https://github.com/HSOS6/astrbot_plugin_ssh",
+    "tags": [
+      "ssh",
+      "远程控制",
+      "服务器"
+    ],
+    "social_link": "https://github.com/HSOS6",
+    "stars": 2,
+    "version": "v1.3.0",
+    "updated_at": "2026-02-18T11:49:05Z",
+    "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_ssh/main/logo.png"
+  },
+  "astrbot-plugin-httpadapter": {
+    "display_name": "HTTP平台适配器",
+    "desc": "为 AstrBot 提供 HTTP/HTTPS 接口，支持外部应用通过 HTTP 协议与 AstrBot 交互",
+    "author": "lishining",
+    "repo": "https://github.com/Li-shi-ling/astrbot_plugin_httpplatform",
+    "tags": [
+      "平台适配器"
+    ],
+    "stars": 2,
+    "version": "v1.0.0",
+    "updated_at": "2026-02-18T16:26:12Z"
+  },
   "astrbot-plugin-halo-manager": {
     "display_name": "博客管理器",
     "desc": "Bot管理的halo博客插件",
@@ -117,9 +177,9 @@
       "工作流"
     ],
     "social_link": "https://github.com/cjxzdzh",
-    "stars": 2,
+    "stars": 3,
     "version": "1.0.1",
-    "updated_at": "2026-02-15T03:13:32Z"
+    "updated_at": "2026-02-19T04:29:32Z"
   },
   "astrbot-plugin-payqr": {
     "display_name": "智能收款码",
@@ -142,7 +202,7 @@
     ],
     "stars": 2,
     "version": "v1.1.0",
-    "updated_at": "2026-02-18T13:32:04Z",
+    "updated_at": "2026-02-19T04:21:50Z",
     "logo": "https://raw.githubusercontent.com/qsc20001102/astrbot_plugin_jx3/main/logo.png"
   },
   "astrbot-plugin-zirunbi": {
@@ -544,9 +604,9 @@
       "agent",
       "codegen"
     ],
-    "stars": 14,
+    "stars": 15,
     "version": "1.1.1",
-    "updated_at": "2026-02-13T16:39:42Z",
+    "updated_at": "2026-02-19T02:23:57Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -1272,6 +1332,7 @@
       "世界书"
     ],
     "social_link": "https://github.com/Zhalslar",
+    "pinned": true,
     "stars": 14,
     "version": "2.2.3",
     "updated_at": "2026-02-12T04:16:55Z",
@@ -1607,9 +1668,9 @@
       "私聊"
     ],
     "social_link": "https://github.com/KonmaKanSinPack",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.1",
-    "updated_at": "2026-01-28T08:27:58Z"
+    "updated_at": "2026-02-19T03:31:36Z"
   },
   "astrbot_plugin_engram": {
     "display_name": "仿生双轨记忆系统",
@@ -1620,9 +1681,9 @@
       "记忆",
       "拟人"
     ],
-    "stars": 4,
+    "stars": 5,
     "version": "1.4.0",
-    "updated_at": "2026-02-17T17:24:55Z"
+    "updated_at": "2026-02-19T03:33:09Z"
   },
   "astrbot_plugin_mc_manager": {
     "display_name": "astrbot_plugin_mc_manager",
@@ -1787,9 +1848,9 @@
     "repo": "https://github.com/muyouzhi6/astrbot_plugin_context_aware",
     "tags": [],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 9,
+    "stars": 10,
     "version": "3.1.1",
-    "updated_at": "2026-02-04T15:23:01Z",
+    "updated_at": "2026-02-19T03:01:36Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_context_aware/main/logo.png"
   },
   "astrbot_plugin_STEmbedding": {
@@ -2009,8 +2070,8 @@
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
     "stars": 110,
-    "version": "Next-1.2.5",
-    "updated_at": "2026-02-18T19:28:29Z",
+    "version": "Next-1.2.8",
+    "updated_at": "2026-02-19T03:30:32Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -4652,9 +4713,9 @@
       "主动回复"
     ],
     "social_link": "https://github.com/Him666233",
-    "stars": 41,
+    "stars": 43,
     "version": "v1.1.2",
-    "updated_at": "2026-02-17T13:45:38Z",
+    "updated_at": "2026-02-19T04:11:57Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -4928,9 +4989,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 83,
+    "stars": 84,
     "version": "v1.1.5",
-    "updated_at": "2026-02-18T10:55:35Z",
+    "updated_at": "2026-02-19T03:09:14Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -6309,7 +6370,7 @@
     ],
     "stars": 65,
     "version": "2.1.2",
-    "updated_at": "2026-02-18T03:11:57Z",
+    "updated_at": "2026-02-19T04:22:52Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -6777,8 +6838,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 47,
-    "version": "3.0.0",
-    "updated_at": "2026-02-18T08:45:51Z",
+    "version": "3.0.2",
+    "updated_at": "2026-02-19T03:53:17Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "findx010197/astrbot_plugin_reminder": {
@@ -7450,9 +7511,9 @@
       "用户信息",
       "主动回复"
     ],
-    "stars": 6,
+    "stars": 7,
     "version": "v1.5.0",
-    "updated_at": "2026-02-17T07:43:50Z",
+    "updated_at": "2026-02-19T03:50:00Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
