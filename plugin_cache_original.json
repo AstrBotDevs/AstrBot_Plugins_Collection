@@ -9024,9 +9024,9 @@
       "状态"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 11,
+    "stars": 12,
     "version": "v1.0.2",
-    "updated_at": "2026-01-25T06:21:58Z",
+    "updated_at": "2026-02-19T11:58:29Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_zt/main/logo.png"
   },
   "astrbot_plugin_portrayal": {
@@ -11462,9 +11462,9 @@
     "author": "Soulter",
     "repo": "https://github.com/Soulter/astrbot_plugin_rss",
     "tags": [],
-    "stars": 23,
+    "stars": 24,
     "version": "v1.1.2",
-    "updated_at": "2026-02-19T10:02:01Z"
+    "updated_at": "2026-02-19T12:27:23Z"
   },
   "astrbot_plugin_bilibili": {
     "desc": "哔哩哔哩动态推送、视频信息、直播间信息查询插件",
