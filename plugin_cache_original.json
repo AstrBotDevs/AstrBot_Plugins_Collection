@@ -81,7 +81,7 @@
     "social_link": "https://github.com/iamfromchangsha",
     "stars": 2,
     "version": "1.4.0",
-    "updated_at": "2026-02-19T05:43:46Z",
+    "updated_at": "2026-02-19T11:36:44Z",
     "logo": "https://raw.githubusercontent.com/iamfromchangsha/astrbot_plugin_niji/master/logo.png"
   },
   "astrbot-plugin-phigros": {
@@ -1464,9 +1464,9 @@
       "群聊圣经"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 167,
+    "stars": 168,
     "version": "v4.7.7",
-    "updated_at": "2026-02-18T03:12:46Z",
+    "updated_at": "2026-02-19T10:55:15Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -2069,9 +2069,9 @@
     ],
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
-    "stars": 112,
+    "stars": 113,
     "version": "Next-1.2.8",
-    "updated_at": "2026-02-19T08:41:59Z",
+    "updated_at": "2026-02-19T10:45:09Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -2166,9 +2166,9 @@
       "每日推送"
     ],
     "social_link": "https://github.com/Huahuatgc",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.0",
-    "updated_at": "2026-02-14T07:37:01Z"
+    "updated_at": "2026-02-19T11:22:40Z"
   },
   "astrbot_plugin_matrix_adapter": {
     "display_name": "Matrix 协议适配器",
@@ -2786,8 +2786,8 @@
       "人格"
     ],
     "stars": 20,
-    "version": "0.99.1002",
-    "updated_at": "2026-02-17T09:07:32Z"
+    "version": "0.99.1005",
+    "updated_at": "2026-02-19T11:16:55Z"
   },
   "astrbot_plugin_angel_heart": {
     "display_name": "天使之心",
@@ -7685,8 +7685,8 @@
       "娱乐"
     ],
     "stars": 6,
-    "version": "v1.3",
-    "updated_at": "2026-02-17T07:21:08Z",
+    "version": "v1.4",
+    "updated_at": "2026-02-19T10:46:40Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_deer_check/master/logo.png"
   },
   "astrbot_plugin_pet": {
