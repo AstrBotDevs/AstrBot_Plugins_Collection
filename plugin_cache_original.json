@@ -11,7 +11,7 @@
     ],
     "stars": 3,
     "version": "2.4.0",
-    "updated_at": "2026-02-19T03:16:08Z",
+    "updated_at": "2026-02-19T05:02:43Z",
     "logo": "https://raw.githubusercontent.com/blueraina/astrbot_plugin_novel/main/logo.png"
   },
   "astrbot-plugin-clonetts": {
@@ -57,7 +57,7 @@
     ],
     "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-02-18T16:26:12Z"
+    "updated_at": "2026-02-19T05:26:27Z"
   },
   "astrbot-plugin-halo-manager": {
     "display_name": "博客管理器",
@@ -79,9 +79,9 @@
       "日记保存"
     ],
     "social_link": "https://github.com/iamfromchangsha",
-    "stars": 1,
+    "stars": 2,
     "version": "1.4.0",
-    "updated_at": "2026-02-18T15:18:44Z",
+    "updated_at": "2026-02-19T05:43:46Z",
     "logo": "https://raw.githubusercontent.com/iamfromchangsha/astrbot_plugin_niji/master/logo.png"
   },
   "astrbot-plugin-phigros": {
@@ -110,9 +110,9 @@
       "Gemini"
     ],
     "social_link": "https://github.com/Weather-719",
-    "stars": 4,
+    "stars": 5,
     "version": "2.3.1",
-    "updated_at": "2026-02-18T13:38:27Z"
+    "updated_at": "2026-02-19T05:05:03Z"
   },
   "astrbot-plugin-openai-responses": {
     "display_name": "OpenAI Responses API Provider",
@@ -1344,9 +1344,9 @@
     "author": "Aloys233",
     "repo": "https://github.com/Aloys233/astrbot_plugin_service_watcher",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "v0.1.0",
-    "updated_at": "2026-01-26T02:40:47Z"
+    "updated_at": "2026-02-19T05:26:54Z"
   },
   "astrbot_plugin_cmdmask": {
     "display_name": "指令伪装",
@@ -2026,9 +2026,9 @@
       "NLP"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 23,
+    "stars": 24,
     "version": "1.1.1",
-    "updated_at": "2026-02-14T07:36:46Z"
+    "updated_at": "2026-02-19T05:15:18Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -2069,9 +2069,9 @@
     ],
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
-    "stars": 110,
+    "stars": 111,
     "version": "Next-1.2.8",
-    "updated_at": "2026-02-19T03:30:32Z",
+    "updated_at": "2026-02-19T05:16:05Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -2278,9 +2278,9 @@
     "author": "LMG-arch",
     "repo": "https://github.com/LMG-arch/astrbot-plugin-realistic-persona.git",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "1.11.1",
-    "updated_at": "2025-12-25T15:28:24Z"
+    "updated_at": "2026-02-19T05:30:44Z"
   },
   "astrbot_plugin_seedream_image": {
     "display_name": "火山方舟生图",
@@ -2514,9 +2514,9 @@
       "三次元",
       "心理委员"
     ],
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0.0",
-    "updated_at": "2026-02-05T06:00:09Z"
+    "updated_at": "2026-02-19T05:14:29Z"
   },
   "astrbot_plugin_yt-dlp": {
     "display_name": "yt-dlp网页视频下载",
@@ -2535,9 +2535,9 @@
     "author": "梦千秋",
     "repo": "https://github.com/WangYi82909/astrbot_plugin_yotts",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.0",
-    "updated_at": "2026-01-18T17:15:03Z",
+    "updated_at": "2026-02-19T05:16:31Z",
     "logo": "https://raw.githubusercontent.com/WangYi82909/astrbot_plugin_yotts/main/logo.png"
   },
   "astrbot_plugin_better_reminder": {
@@ -2799,9 +2799,9 @@
       "主动应答",
       "群聊优化"
     ],
-    "stars": 30,
+    "stars": 31,
     "version": "0.8.11",
-    "updated_at": "2026-02-15T12:41:14Z"
+    "updated_at": "2026-02-19T05:19:00Z"
   },
   "astrbot_plugin_angel_eye": {
     "display_name": "天使之眼",
@@ -2947,9 +2947,9 @@
       "以图搜图",
       "工具"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "2.0.0",
-    "updated_at": "2025-12-15T07:46:01Z"
+    "updated_at": "2026-02-19T05:22:03Z"
   },
   "astrbot_plugin_uni_nickname": {
     "display_name": "Uni-nickname 统一昵称插件",
@@ -3296,9 +3296,9 @@
     "tags": [
       "表情"
     ],
-    "stars": 17,
+    "stars": 18,
     "version": "2.2.3",
-    "updated_at": "2026-02-17T17:27:04Z",
+    "updated_at": "2026-02-19T05:25:09Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -4086,9 +4086,9 @@
     "author": "GuJi08233",
     "repo": "https://github.com/GuJi08233/astrbot_plugin_val_shop",
     "tags": [],
-    "stars": 7,
+    "stars": 8,
     "version": "v3.2.3",
-    "updated_at": "2026-02-14T07:36:52Z"
+    "updated_at": "2026-02-19T05:38:15Z"
   },
   "astrbot_plugin_doubao": {
     "display_name": "豆包即梦生成",
@@ -6369,8 +6369,8 @@
       "rag"
     ],
     "stars": 65,
-    "version": "2.1.2",
-    "updated_at": "2026-02-19T04:22:52Z",
+    "version": "2.1.4",
+    "updated_at": "2026-02-19T05:39:05Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
