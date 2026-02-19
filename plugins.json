@@ -1,4 +1,17 @@
 {
+  "astrbot-plugin-clonetts": {
+    "display_name": "克隆语音",
+    "desc": "基于火山引擎音色克隆的文本转语音插件",
+    "author": "Radiant303",
+    "repo": "https://github.com/Radiant303/astrbot_plugin_clonetts",
+    "tags": [
+      "声音",
+      "语音",
+      "火山引擎",
+      "豆包"
+    ],
+    "social_link": "https://github.com/Radiant303"
+  },
   "astrbot-plugin-ssh": {
     "display_name": "远程SSH执行器",
     "desc": "一个功能弱小的 AstrBot 插件，允许您通过聊天连接远程 SSH 服务器并执行命令。支持交互式 Shell 会话、状态保持、LLM 函数调用，并具备一定的安全保护机制。",
