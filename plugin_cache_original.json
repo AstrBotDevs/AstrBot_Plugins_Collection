@@ -110,9 +110,9 @@
       "Gemini"
     ],
     "social_link": "https://github.com/Weather-719",
-    "stars": 5,
+    "stars": 6,
     "version": "2.3.4",
-    "updated_at": "2026-02-19T09:04:18Z"
+    "updated_at": "2026-02-19T14:08:45Z"
   },
   "astrbot-plugin-openai-responses": {
     "display_name": "OpenAI Responses API Provider",
@@ -471,9 +471,9 @@
     "author": "落日七号",
     "repo": "https://github.com/luori7hao/astrbot_plugin_messenger",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "2.1.0",
-    "updated_at": "2026-02-19T08:04:45Z"
+    "updated_at": "2026-02-19T13:10:30Z"
   },
   "astrbot_plugin_live2d_adapter": {
     "display_name": "Live2D 适配器",
@@ -2786,8 +2786,8 @@
       "人格"
     ],
     "stars": 20,
-    "version": "0.99.1005",
-    "updated_at": "2026-02-19T11:16:55Z"
+    "version": "0.99.1008",
+    "updated_at": "2026-02-19T13:22:16Z"
   },
   "astrbot_plugin_angel_heart": {
     "display_name": "天使之心",
@@ -6369,8 +6369,8 @@
       "rag"
     ],
     "stars": 65,
-    "version": "2.1.4",
-    "updated_at": "2026-02-19T05:39:05Z",
+    "version": "2.1.6",
+    "updated_at": "2026-02-19T14:38:37Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -7132,9 +7132,9 @@
       "表白墙"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 59,
+    "stars": 60,
     "version": "v3.0.1",
-    "updated_at": "2026-02-17T07:18:25Z",
+    "updated_at": "2026-02-19T14:49:49Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -9231,9 +9231,9 @@
       "戳一戳"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 46,
-    "version": "v2.0.2",
-    "updated_at": "2026-02-17T07:22:18Z",
+    "stars": 47,
+    "version": "v2.0.3",
+    "updated_at": "2026-02-19T14:45:40Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_pokepro/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
@@ -11204,9 +11204,9 @@
       "功能",
       "搬史"
     ],
-    "stars": 504,
+    "stars": 505,
     "version": "v0.916",
-    "updated_at": "2026-02-11T13:20:52Z"
+    "updated_at": "2026-02-19T14:37:02Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
