@@ -7,7 +7,7 @@
     "tags": [],
     "stars": 0,
     "version": "1.2.1",
-    "updated_at": "2026-02-16T04:23:10Z"
+    "updated_at": "2026-02-19T00:38:33Z"
   },
   "astrbot-plugin-niji": {
     "display_name": "Niji Diary Sync",
@@ -62,7 +62,7 @@
     "tags": [],
     "stars": 0,
     "version": "0.1.4",
-    "updated_at": "2026-02-18T07:27:24Z"
+    "updated_at": "2026-02-19T02:00:47Z"
   },
   "astrbot-plugin-matrix-sticker": {
     "display_name": "Matrix Sticker 管理插件",
@@ -3373,8 +3373,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 37,
-    "version": "v4.1.0",
-    "updated_at": "2026-02-18T16:56:13Z",
+    "version": "v4.1.1",
+    "updated_at": "2026-02-19T01:45:26Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
