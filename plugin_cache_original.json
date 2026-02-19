@@ -372,9 +372,9 @@
       "geminicil",
       "opencode"
     ],
-    "stars": 11,
+    "stars": 12,
     "version": "v1.2.0",
-    "updated_at": "2026-02-18T14:42:41Z"
+    "updated_at": "2026-02-19T10:20:22Z"
   },
   "astrbot_plugin_mc_duration": {
     "display_name": "MC魔人时长统计",
@@ -604,9 +604,9 @@
       "agent",
       "codegen"
     ],
-    "stars": 16,
+    "stars": 17,
     "version": "1.1.1",
-    "updated_at": "2026-02-19T09:05:53Z",
+    "updated_at": "2026-02-19T10:29:57Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -2151,8 +2151,8 @@
     ],
     "social_link": "https://github.com/Clhikari",
     "stars": 2,
-    "version": "v1.2.3",
-    "updated_at": "2026-02-14T11:17:10Z",
+    "version": "v1.2.4",
+    "updated_at": "2026-02-19T09:52:51Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -2800,8 +2800,8 @@
       "群聊优化"
     ],
     "stars": 31,
-    "version": "0.8.11",
-    "updated_at": "2026-02-19T05:19:00Z"
+    "version": "0.8.12",
+    "updated_at": "2026-02-19T10:40:11Z"
   },
   "astrbot_plugin_angel_eye": {
     "display_name": "天使之眼",
@@ -3433,9 +3433,9 @@
       "画图"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 37,
+    "stars": 38,
     "version": "v4.1.1",
-    "updated_at": "2026-02-19T01:45:26Z",
+    "updated_at": "2026-02-19T10:41:44Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -7513,7 +7513,7 @@
     ],
     "stars": 7,
     "version": "v1.5.0",
-    "updated_at": "2026-02-19T03:50:00Z",
+    "updated_at": "2026-02-19T09:52:09Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -10234,9 +10234,9 @@
     "tags": [
       "QQ群管"
     ],
-    "stars": 95,
+    "stars": 96,
     "version": "v3.2.7",
-    "updated_at": "2026-02-17T07:22:21Z",
+    "updated_at": "2026-02-19T10:26:19Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -11462,9 +11462,9 @@
     "author": "Soulter",
     "repo": "https://github.com/Soulter/astrbot_plugin_rss",
     "tags": [],
-    "stars": 22,
+    "stars": 23,
     "version": "v1.1.2",
-    "updated_at": "2025-12-05T05:55:51Z"
+    "updated_at": "2026-02-19T10:02:01Z"
   },
   "astrbot_plugin_bilibili": {
     "desc": "哔哩哔哩动态推送、视频信息、直播间信息查询插件",
