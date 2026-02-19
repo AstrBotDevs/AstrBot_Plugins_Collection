@@ -950,7 +950,8 @@
       "prompt",
       "世界书"
     ],
-    "social_link": "https://github.com/Zhalslar"
+    "social_link": "https://github.com/Zhalslar",
+    "pinned": true
   },
   "astrbot_plugin_service_watcher": {
     "display_name": "互联网服务监控",
