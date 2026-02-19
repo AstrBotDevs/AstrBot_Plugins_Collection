@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-ssh": {
+    "display_name": "远程SSH执行器",
+    "desc": "一个功能弱小的 AstrBot 插件，允许您通过聊天连接远程 SSH 服务器并执行命令。支持交互式 Shell 会话、状态保持、LLM 函数调用，并具备一定的安全保护机制。",
+    "author": "5060ti个马力的6999",
+    "repo": "https://github.com/HSOS6/astrbot_plugin_ssh",
+    "tags": [
+      "ssh",
+      "远程控制",
+      "服务器"
+    ],
+    "social_link": "https://github.com/HSOS6"
+  },
   "astrbot-plugin-httpadapter": {
     "display_name": "HTTP平台适配器",
     "desc": "为 AstrBot 提供 HTTP/HTTPS 接口，支持外部应用通过 HTTP 协议与 AstrBot 交互",
