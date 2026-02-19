@@ -6426,9 +6426,9 @@
       "消息"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.0.5",
-    "updated_at": "2026-02-09T13:50:10Z",
+    "updated_at": "2026-02-19T18:53:16Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_multimsg/main/logo.png"
   },
   "astrbot_plugin_keywordsreply": {
@@ -9534,7 +9534,7 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "stars": 148,
     "version": "v3.0.2",
-    "updated_at": "2026-02-19T17:49:14Z",
+    "updated_at": "2026-02-19T17:53:03Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
