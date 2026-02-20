@@ -1,4 +1,14 @@
 {
+  "astrbot-plugin-command-router": {
+    "display_name": "智能指令路由器",
+    "desc": "基于AI的自然语言指令解析，允许用户使用自然语言调用 AstrBot 中已注册的指令。",
+    "author": "PyuraMazo",
+    "repo": "https://github.com/PyuraMazo/astrbot_plugin_command_router",
+    "tags": [
+      "指令解析"
+    ],
+    "social_link": "https://github.com/PyuraMazo"
+  },
   "astrbot-plugin-iamthinking": {
     "display_name": "别吵我在思考",
     "desc": "别吵，我在思考！还在因为思考型模型反应太慢而烦恼？这个插件不能解决问题，但可以提升一点体验。收到用户消息并准备调用 LLM 时，为这条用户消息贴一个表情表示处理中；发送回复后，再贴一个表情表示处理完成。",
