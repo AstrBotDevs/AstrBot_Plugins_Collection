@@ -11,7 +11,7 @@
     ],
     "stars": 4,
     "version": "2.4.0",
-    "updated_at": "2026-02-20T04:10:06Z",
+    "updated_at": "2026-02-20T05:07:39Z",
     "logo": "https://raw.githubusercontent.com/blueraina/astrbot_plugin_novel/main/logo.png"
   },
   "astrbot-plugin-clonetts": {
@@ -122,7 +122,7 @@
     "tags": [],
     "stars": 1,
     "version": "0.1.4",
-    "updated_at": "2026-02-19T08:00:16Z"
+    "updated_at": "2026-02-20T05:48:15Z"
   },
   "astrbot-plugin-matrix-sticker": {
     "display_name": "Matrix Sticker 管理插件",
@@ -161,8 +161,8 @@
     "social_link": "www.chuyel.cn",
     "tags": [],
     "stars": 3,
-    "version": "v1.0.2",
-    "updated_at": "2026-02-18T15:21:58Z",
+    "version": "v1.0.3",
+    "updated_at": "2026-02-20T05:20:21Z",
     "logo": "https://raw.githubusercontent.com/chuyegzs/astrbot_plugin_meting/main/logo.png"
   },
   "astrbot-plugin-comfyui": {
@@ -1040,9 +1040,9 @@
       "steam",
       "视奸"
     ],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.1.11",
-    "updated_at": "2026-02-19T15:18:45Z"
+    "updated_at": "2026-02-20T05:14:07Z"
   },
   "astrbot_plugin_minecraft_monitor": {
     "display_name": "MC 服务器监控（适配基岩版与 Java 版）",
@@ -1132,9 +1132,9 @@
       "aiocqhttp",
       "QQ"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v0.1.4",
-    "updated_at": "2026-02-09T08:25:20Z"
+    "updated_at": "2026-02-20T05:13:51Z"
   },
   "astrbot_plugin_skland": {
     "display_name": "森空岛签到",
@@ -1734,9 +1734,9 @@
       "插件编写"
     ],
     "social_link": "https://github.com/DITF16",
-    "stars": 38,
+    "stars": 39,
     "version": "1.1.1",
-    "updated_at": "2026-02-18T02:43:16Z",
+    "updated_at": "2026-02-20T05:10:18Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_groupGuard": {
@@ -1848,9 +1848,9 @@
     "repo": "https://github.com/muyouzhi6/astrbot_plugin_context_aware",
     "tags": [],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 10,
+    "stars": 11,
     "version": "3.1.1",
-    "updated_at": "2026-02-19T03:01:36Z",
+    "updated_at": "2026-02-20T05:16:22Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_context_aware/main/logo.png"
   },
   "astrbot_plugin_STEmbedding": {
@@ -8884,9 +8884,9 @@
     "desc": "[仅 napcat] 使用Onnx检测发送的图片是否包含_百合园圣娅_并且有特定回复。",
     "repo": "https://github.com/orchidsziyou/astrbot_plugin_seiadetect",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0",
-    "updated_at": "2025-11-20T14:27:08Z"
+    "updated_at": "2026-02-20T05:00:35Z"
   },
   "astrbot_plugin_knowledge_base": {
     "author": "lxfight",
@@ -9010,9 +9010,9 @@
     "repo": "https://github.com/Zhalslar/astrbot_plugin_search_video",
     "social_link": "https://github.com/Zhalslar",
     "tags": [],
-    "stars": 42,
+    "stars": 43,
     "version": "v1.2.1",
-    "updated_at": "2026-02-17T10:26:00Z",
+    "updated_at": "2026-02-20T05:42:15Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_search_video/main/logo.png"
   },
   "astrbot_plugin_zt": {
@@ -11646,7 +11646,7 @@
     "tags": [],
     "stars": 14,
     "version": "v4.7.2",
-    "updated_at": "2025-12-24T08:48:12Z"
+    "updated_at": "2026-02-20T05:33:07Z"
   },
   "astrbot_plugin_mohoyo_cos": {
     "desc": "获取米游社社区cos插件，支持LLM自识别",
