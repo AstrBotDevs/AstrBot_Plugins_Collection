@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-sentinel": {
+    "display_name": "QQ 群哨兵",
+    "desc": "实时监控群聊消息，通过关键词或正则表达式进行识别，并自动执行撤回、禁言以及踢出等操作。",
+    "author": "Foolllll",
+    "repo": "https://github.com/Foolllll-J/astrbot_plugin_sentinel",
+    "tags": [
+      "群管理",
+      "禁言",
+      "撤回",
+      "踢人"
+    ]
+  },
   "astrbot-plugin-bilibanshi": {
     "display_name": "b站搬石",
     "desc": "让你的bot在b站搬石",
