@@ -422,9 +422,9 @@
       "B站",
       "转链"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.1",
-    "updated_at": "2026-02-17T07:35:27Z"
+    "updated_at": "2026-02-20T23:05:37Z"
   },
   "astrbot-plugin-inkfusion": {
     "display_name": "A1111文生图插件",
@@ -464,9 +464,9 @@
       "学习"
     ],
     "social_link": "https://github.com/Misaka13906/",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.1.0",
-    "updated_at": "2026-02-18T17:01:05Z"
+    "updated_at": "2026-02-20T23:21:42Z"
   },
   "astrbot_plugin_hapi_connector": {
     "name": "",
@@ -521,9 +521,9 @@
       "群聊",
       "提醒"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v3.5",
-    "updated_at": "2026-02-09T10:11:53Z"
+    "updated_at": "2026-02-20T23:14:33Z"
   },
   "astrbot_plugin_nbalance": {
     "display_name": "NewAPI余额查询",
@@ -906,9 +906,9 @@
       "粉丝"
     ],
     "social_link": "https://space.bilibili.com/447591776",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.2",
-    "updated_at": "2026-01-26T09:38:31Z",
+    "updated_at": "2026-02-20T23:20:56Z",
     "logo": "https://raw.githubusercontent.com/laopanmemz/astrbot_plugin_upfanswatcher/master/logo.png"
   },
   "anti_repeat": {
@@ -9120,9 +9120,9 @@
     "repo": "https://github.com/Zhalslar/astrbot_plugin_search_video",
     "social_link": "https://github.com/Zhalslar",
     "tags": [],
-    "stars": 43,
+    "stars": 44,
     "version": "v1.2.1",
-    "updated_at": "2026-02-20T05:42:15Z",
+    "updated_at": "2026-02-20T23:11:12Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_search_video/main/logo.png"
   },
   "astrbot_plugin_zt": {
