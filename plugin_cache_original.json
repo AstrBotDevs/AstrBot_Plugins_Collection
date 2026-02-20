@@ -11,7 +11,7 @@
     ],
     "stars": 4,
     "version": "2.4.0",
-    "updated_at": "2026-02-19T15:53:15Z",
+    "updated_at": "2026-02-20T04:10:06Z",
     "logo": "https://raw.githubusercontent.com/blueraina/astrbot_plugin_novel/main/logo.png"
   },
   "astrbot-plugin-clonetts": {
@@ -55,9 +55,9 @@
     "tags": [
       "平台适配器"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-02-19T05:26:27Z"
+    "updated_at": "2026-02-20T03:37:54Z"
   },
   "astrbot-plugin-halo-manager": {
     "display_name": "博客管理器",
@@ -201,8 +201,8 @@
       "数据查询"
     ],
     "stars": 2,
-    "version": "v1.1.0",
-    "updated_at": "2026-02-19T04:21:50Z",
+    "version": "v1.1.1",
+    "updated_at": "2026-02-20T04:32:06Z",
     "logo": "https://raw.githubusercontent.com/qsc20001102/astrbot_plugin_jx3/main/logo.png"
   },
   "astrbot-plugin-zirunbi": {
@@ -245,9 +245,9 @@
       "视频",
       "联网搜索"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "2.2.0",
-    "updated_at": "2026-02-09T07:20:31Z",
+    "updated_at": "2026-02-20T02:33:47Z",
     "logo": "https://raw.githubusercontent.com/muqing-kg/astrbot_plugin_grok_suite/main/logo.png"
   },
   "astrbot-plugin-chat-polisher": {
@@ -451,9 +451,9 @@
     "tags": [
       "小游戏"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "1.0.0",
-    "updated_at": "2026-02-11T03:40:49Z"
+    "updated_at": "2026-02-20T02:44:57Z"
   },
   "astrbot_plugin_lyricsplus": {
     "display_name": "接歌词 Plus",
@@ -1861,9 +1861,9 @@
     "tags": [
       "嵌入模型"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.2.3",
-    "updated_at": "2026-01-19T02:11:24Z"
+    "updated_at": "2026-02-20T03:38:11Z"
   },
   "astrbot_plugin_mudae_qq": {
     "display_name": "二次元笑传之抽抽Bot",
@@ -1875,9 +1875,9 @@
       "动漫"
     ],
     "social_link": "https://github.com/kennylimz",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.2",
-    "updated_at": "2026-02-12T08:53:10Z",
+    "updated_at": "2026-02-20T03:04:36Z",
     "logo": "https://raw.githubusercontent.com/kennylimz/astrbot_plugin_mudae_qq/main/logo.png"
   },
   "BUGJI/astrbot_plugin_balance": {
@@ -2083,9 +2083,9 @@
       "明日方舟"
     ],
     "social_link": "https://github.com/Li-shi-ling",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.1.0",
-    "updated_at": "2026-02-09T12:22:13Z"
+    "updated_at": "2026-02-20T03:38:19Z"
   },
   "astrbot_plugin_help_typst": {
     "display_name": "插件菜单(typst 实现)",
@@ -3167,9 +3167,9 @@
       "恶搞",
       "迫害群友"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.2.6",
-    "updated_at": "2026-01-21T06:39:03Z"
+    "updated_at": "2026-02-20T03:38:46Z"
   },
   "astrbot_plugin_parser": {
     "display_name": "万能解析器",
@@ -4123,9 +4123,9 @@
       "轮盘"
     ],
     "social_link": "https://github.com/piexian",
-    "stars": 2,
+    "stars": 3,
     "version": "1.2.5",
-    "updated_at": "2026-02-18T08:16:10Z",
+    "updated_at": "2026-02-20T04:40:30Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_rg2/master/logo.png"
   },
   "astrbot_plugin_maimaidx": {
@@ -4411,9 +4411,9 @@
       "视频生成"
     ],
     "social_link": "https://www.functen.cn/",
-    "stars": 6,
+    "stars": 7,
     "version": "1.0.0",
-    "updated_at": "2026-01-20T02:22:08Z"
+    "updated_at": "2026-02-20T02:16:55Z"
   },
   "astrbot_plugin_http_adapter": {
     "display_name": "HTTP 消息设配器",
@@ -9532,9 +9532,9 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 148,
+    "stars": 149,
     "version": "v3.0.2",
-    "updated_at": "2026-02-19T17:53:03Z",
+    "updated_at": "2026-02-20T02:59:41Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -10830,9 +10830,9 @@
     "tags": [
       "刺猬猫"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.8",
-    "updated_at": "2025-12-12T08:09:16Z"
+    "updated_at": "2026-02-20T03:39:19Z"
   },
   "astrbot_plugin_majsoul-master": {
     "desc": "一个雀魂多功能插件",
