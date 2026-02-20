@@ -1,4 +1,11 @@
 {
+  "astrbot-plugin-iamthinking": {
+    "display_name": "别吵我在思考",
+    "desc": "别吵，我在思考！还在因为思考型模型反应太慢而烦恼？这个插件不能解决问题，但可以提升一点体验。收到用户消息并准备调用 LLM 时，为这条用户消息贴一个表情表示处理中；发送回复后，再贴一个表情表示处理完成。",
+    "author": "石上三年",
+    "repo": "https://github.com/sssn-tech/astrbot_plugin_iamthinking",
+    "social_link": "https://github.com/sssn-tech"
+  },
   "astrbot-plugin-gbif-search": {
     "display_name": "GBIF自然科学数据库查询插件",
     "desc": "一个基于 GBIF API 的 AstrBot 插件，支持物种分类信息查询和 occurrence（出现记录）搜索。支持关键词模糊匹配，命令缩写，可返回文本或图片。",
