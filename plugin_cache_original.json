@@ -2561,8 +2561,8 @@
       "自动化"
     ],
     "stars": 0,
-    "version": "v1.0",
-    "updated_at": "2026-01-29T09:05:02Z",
+    "version": "v1.1",
+    "updated_at": "2026-02-20T19:42:14Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_multi_execute/master/logo.png"
   },
   "astrbot_plugin_recall_xz": {
@@ -3873,9 +3873,9 @@
       "画图",
       "comfyui"
     ],
-    "stars": 12,
+    "stars": 13,
     "version": "3.6.1",
-    "updated_at": "2026-02-03T15:57:24Z"
+    "updated_at": "2026-02-20T20:20:44Z"
   },
   "astrbot_plugin_timeprogress": {
     "display_name": "时间可视化",
