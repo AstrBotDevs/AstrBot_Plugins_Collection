@@ -187,9 +187,9 @@
     "author": "落日七号",
     "repo": "https://github.com/luori7hao/astrbot_plugin_payqr",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "1.0.0",
-    "updated_at": "2026-02-11T13:41:51Z"
+    "updated_at": "2026-02-20T09:35:20Z"
   },
   "astrbot-plugin-jx3": {
     "display_name": "剑网三游戏数据查询工具",
@@ -951,9 +951,9 @@
       "QQ群转发"
     ],
     "social_link": "https://meilunova.pages.dev/",
-    "stars": 5,
+    "stars": 6,
     "version": "0.5.0",
-    "updated_at": "2026-02-14T05:41:27Z",
+    "updated_at": "2026-02-20T08:54:47Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -2084,8 +2084,8 @@
     ],
     "social_link": "https://github.com/Li-shi-ling",
     "stars": 1,
-    "version": "v1.1.0",
-    "updated_at": "2026-02-20T03:38:19Z"
+    "version": "v1.1.4",
+    "updated_at": "2026-02-20T09:23:58Z"
   },
   "astrbot_plugin_help_typst": {
     "display_name": "插件菜单(typst 实现)",
@@ -7132,9 +7132,9 @@
       "表白墙"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 60,
+    "stars": 61,
     "version": "v3.0.1",
-    "updated_at": "2026-02-19T15:17:27Z",
+    "updated_at": "2026-02-20T09:05:48Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -8301,9 +8301,9 @@
       "调教"
     ],
     "social_link": "https://github.com/oyxning",
-    "stars": 42,
+    "stars": 43,
     "version": "v3.5.1",
-    "updated_at": "2025-12-31T15:19:49Z",
+    "updated_at": "2026-02-20T09:38:22Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_antipromptinjector/master/logo.png"
   },
   "astrbot_plugin_alistfile": {
@@ -10423,9 +10423,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
-    "stars": 53,
+    "stars": 54,
     "version": "v3.0.2",
-    "updated_at": "2026-02-19T19:27:55Z",
+    "updated_at": "2026-02-20T09:05:48Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
