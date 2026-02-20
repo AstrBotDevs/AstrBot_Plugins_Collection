@@ -1,4 +1,20 @@
 {
+  "astrbot-plugin-gbif-search": {
+    "display_name": "GBIF自然科学数据库查询插件",
+    "desc": "一个基于 GBIF API 的 AstrBot 插件，支持物种分类信息查询和 occurrence（出现记录）搜索。支持关键词模糊匹配，命令缩写，可返回文本或图片。",
+    "author": "CecilyGao",
+    "repo": "https://github.com/CecilyGao/astrbot_plugin_gbif_search",
+    "tags": [
+      "自然",
+      "科学",
+      "数据库",
+      "关键词搜索",
+      "生物",
+      "生态",
+      "分布"
+    ],
+    "social_link": "https://github.com/CecilyGao"
+  },
   "astrbot-plugin-novel": {
     "display_name": "群聊AI小说构建插件",
     "desc": "QQ群群友协作 + AI辅助写作的长篇小说插件（每群独立/知识库/多AI打分/冲突投票/风格模仿/用户修正/EPUB/PDF导出）",
