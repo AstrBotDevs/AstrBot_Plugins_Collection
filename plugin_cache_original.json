@@ -451,9 +451,9 @@
       "免费图床"
     ],
     "social_link": "https://github.com/FGXYX",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-02-05T16:50:22Z"
+    "updated_at": "2026-02-20T16:21:22Z"
   },
   "astrbot_plugin_group_quiz": {
     "display_name": "每日技术问答",
@@ -1150,8 +1150,8 @@
       "视奸"
     ],
     "stars": 4,
-    "version": "v1.1.11",
-    "updated_at": "2026-02-20T05:14:07Z"
+    "version": "v1.2.2",
+    "updated_at": "2026-02-20T16:22:46Z"
   },
   "astrbot_plugin_minecraft_monitor": {
     "display_name": "MC 服务器监控（适配基岩版与 Java 版）",
@@ -1575,7 +1575,7 @@
     "social_link": "https://github.com/SXP-Simon",
     "stars": 168,
     "version": "v4.7.8",
-    "updated_at": "2026-02-20T15:34:55Z",
+    "updated_at": "2026-02-20T15:40:32Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -3233,9 +3233,9 @@
     "tags": [
       "memory"
     ],
-    "stars": 15,
+    "stars": 16,
     "version": "v3.0.1",
-    "updated_at": "2026-02-10T13:53:22Z"
+    "updated_at": "2026-02-20T16:03:41Z"
   },
   "astrbot_plugin_echo": {
     "display_name": "echo",
@@ -8519,9 +8519,9 @@
     ],
     "desc": "[仅aiocqhttp]让bot 转人工/转人机，真人客服 接入对话/结束对话",
     "social_link": "https://github.com/Zhalslar",
-    "stars": 29,
+    "stars": 28,
     "version": "v1.7.3",
-    "updated_at": "2026-02-08T15:33:29Z",
+    "updated_at": "2026-02-20T15:46:44Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_human_service/main/logo.png"
   },
   "astrbot_plugin_reimage": {
