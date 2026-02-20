@@ -72,9 +72,9 @@
       "指令解析"
     ],
     "social_link": "https://github.com/PyuraMazo",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-02-20T14:38:18Z"
+    "updated_at": "2026-02-20T20:58:18Z"
   },
   "astrbot-plugin-iamthinking": {
     "display_name": "别吵我在思考",
@@ -151,9 +151,9 @@
       "服务器"
     ],
     "social_link": "https://github.com/HSOS6",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.3.0",
-    "updated_at": "2026-02-20T13:49:28Z",
+    "updated_at": "2026-02-20T21:17:59Z",
     "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_ssh/main/logo.png"
   },
   "astrbot-plugin-httpadapter": {
@@ -660,9 +660,9 @@
       "组队",
       "跨群"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.5",
-    "updated_at": "2026-02-06T18:39:16Z"
+    "updated_at": "2026-02-20T20:37:28Z"
   },
   "astrbot_plugin_newapi": {
     "display_name": "NewAPI 多功能插件",
@@ -11356,9 +11356,9 @@
       "图床"
     ],
     "pinned": true,
-    "stars": 137,
+    "stars": 138,
     "version": "v3.19",
-    "updated_at": "2026-02-18T15:47:47Z"
+    "updated_at": "2026-02-20T20:37:03Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
