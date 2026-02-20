@@ -2895,8 +2895,8 @@
       "人格"
     ],
     "stars": 21,
-    "version": "1.1.0",
-    "updated_at": "2026-02-20T14:59:45Z"
+    "version": "1.2.2",
+    "updated_at": "2026-02-20T18:51:04Z"
   },
   "astrbot_plugin_angel_heart": {
     "display_name": "天使之心",
@@ -7934,7 +7934,7 @@
     "author": null,
     "stars": 24,
     "version": "2.6.0",
-    "updated_at": "2026-02-07T20:51:07Z"
+    "updated_at": "2026-02-20T17:50:48Z"
   },
   "astrbot_plugin_group_sign": {
     "name": "group_sign",
