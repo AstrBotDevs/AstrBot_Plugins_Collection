@@ -1,4 +1,81 @@
 {
+  "astrbot-plugin-sentinel": {
+    "display_name": "QQ 群哨兵",
+    "desc": "实时监控群聊消息，通过关键词或正则表达式进行识别，并自动执行撤回、禁言以及踢出等操作。",
+    "author": "Foolllll",
+    "repo": "https://github.com/Foolllll-J/astrbot_plugin_sentinel",
+    "tags": [
+      "群管理",
+      "禁言",
+      "撤回",
+      "踢人"
+    ],
+    "stars": 0,
+    "version": "v1.0",
+    "updated_at": "2026-02-14T08:20:18Z",
+    "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_sentinel/master/logo.png"
+  },
+  "astrbot-plugin-bilibanshi": {
+    "display_name": "b站搬石",
+    "desc": "让你的bot在b站搬石",
+    "author": "雪雾",
+    "repo": "https://github.com/Xuewu-awa/astrbot_plugin_bilibanshi",
+    "tags": [],
+    "stars": 1,
+    "version": "v1.0.0",
+    "updated_at": "2026-02-15T13:07:14Z"
+  },
+  "blueraina/astrbot-plugin-novel": {
+    "desc": "QQ群群友协作 + AI辅助写作的长篇小说插件（每群独立/知识库/多AI打分/冲突投票/风格模仿/用户修正/EPUB/PDF导出）",
+    "author": "blueraina",
+    "repo": "https://github.com/blueraina/astrbot_plugin_novel",
+    "tags": [
+      "小说",
+      "AI写作",
+      "群协作",
+      "创作",
+      "EPUB",
+      "PDF"
+    ],
+    "stars": 6,
+    "version": "2.4.0",
+    "updated_at": "2026-02-20T14:58:44Z",
+    "logo": "https://raw.githubusercontent.com/blueraina/astrbot_plugin_novel/main/logo.png"
+  },
+  "astrbot-plugin-inaturalist-search": {
+    "display_name": "iNaturalist自然观察数据查询插件",
+    "desc": "一个基于 iNaturalist API 的 AstrBot 插件，支持物种分类信息查询和观察记录搜索。",
+    "author": "CecilyGao",
+    "repo": "https://github.com/CecilyGao/astrbot_plugin_inaturalist_search",
+    "tags": [
+      "自然",
+      "生物",
+      "生态",
+      "照片",
+      "观察",
+      "科学",
+      "记录",
+      "数据库"
+    ],
+    "social_link": "https://github.com/CecilyGao",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-02-20T12:43:41Z",
+    "logo": "https://raw.githubusercontent.com/CecilyGao/astrbot_plugin_inaturalist_search/main/logo.png"
+  },
+  "astrbot-plugin-command-router": {
+    "display_name": "智能指令路由器",
+    "desc": "基于AI的自然语言指令解析，允许用户使用自然语言调用 AstrBot 中已注册的指令。",
+    "author": "PyuraMazo",
+    "repo": "https://github.com/PyuraMazo/astrbot_plugin_command_router",
+    "tags": [
+      "指令解析"
+    ],
+    "social_link": "https://github.com/PyuraMazo",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-02-20T14:38:18Z"
+  },
   "astrbot-plugin-iamthinking": {
     "display_name": "别吵我在思考",
     "desc": "别吵，我在思考！还在因为思考型模型反应太慢而烦恼？这个插件不能解决问题，但可以提升一点体验。收到用户消息并准备调用 LLM 时，为这条用户消息贴一个表情表示处理中；发送回复后，再贴一个表情表示处理完成。",
@@ -43,7 +120,7 @@
     ],
     "stars": 6,
     "version": "2.4.0",
-    "updated_at": "2026-02-20T14:32:31Z",
+    "updated_at": "2026-02-20T14:58:44Z",
     "logo": "https://raw.githubusercontent.com/blueraina/astrbot_plugin_novel/main/logo.png"
   },
   "astrbot-plugin-clonetts": {
@@ -1497,8 +1574,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 168,
-    "version": "v4.7.7",
-    "updated_at": "2026-02-19T10:55:15Z",
+    "version": "v4.7.8",
+    "updated_at": "2026-02-20T15:34:55Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -2212,9 +2289,9 @@
       "平台适配器"
     ],
     "social_link": "https://github.com/stevessr",
-    "stars": 7,
+    "stars": 8,
     "version": "0.3.1",
-    "updated_at": "2026-02-19T16:45:36Z",
+    "updated_at": "2026-02-20T15:27:21Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_url_image_auto": {
@@ -2817,9 +2894,9 @@
       "学习",
       "人格"
     ],
-    "stars": 20,
+    "stars": 21,
     "version": "1.1.0",
-    "updated_at": "2026-02-20T13:57:55Z"
+    "updated_at": "2026-02-20T14:59:45Z"
   },
   "astrbot_plugin_angel_heart": {
     "display_name": "天使之心",
