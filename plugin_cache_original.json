@@ -41,9 +41,9 @@
       "群聊总结",
       "共同协作"
     ],
-    "stars": 5,
+    "stars": 6,
     "version": "2.4.0",
-    "updated_at": "2026-02-20T11:54:54Z",
+    "updated_at": "2026-02-20T14:32:31Z",
     "logo": "https://raw.githubusercontent.com/blueraina/astrbot_plugin_novel/main/logo.png"
   },
   "astrbot-plugin-clonetts": {
@@ -74,9 +74,9 @@
       "服务器"
     ],
     "social_link": "https://github.com/HSOS6",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.3.0",
-    "updated_at": "2026-02-20T11:45:10Z",
+    "updated_at": "2026-02-20T13:49:28Z",
     "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_ssh/main/logo.png"
   },
   "astrbot-plugin-httpadapter": {
@@ -279,7 +279,7 @@
     ],
     "stars": 1,
     "version": "2.2.0",
-    "updated_at": "2026-02-20T02:33:47Z",
+    "updated_at": "2026-02-20T14:29:18Z",
     "logo": "https://raw.githubusercontent.com/muqing-kg/astrbot_plugin_grok_suite/main/logo.png"
   },
   "astrbot-plugin-chat-polisher": {
@@ -405,8 +405,8 @@
       "opencode"
     ],
     "stars": 13,
-    "version": "v1.2.0",
-    "updated_at": "2026-02-20T10:57:41Z"
+    "version": "v1.2.3",
+    "updated_at": "2026-02-20T14:11:49Z"
   },
   "astrbot_plugin_mc_duration": {
     "display_name": "MC魔人时长统计",
@@ -2058,9 +2058,9 @@
       "NLP"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 24,
+    "stars": 23,
     "version": "1.1.1",
-    "updated_at": "2026-02-19T05:15:18Z"
+    "updated_at": "2026-02-20T14:12:26Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -2101,9 +2101,9 @@
     ],
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
-    "stars": 116,
+    "stars": 115,
     "version": "Next-1.2.9",
-    "updated_at": "2026-02-20T12:07:24Z",
+    "updated_at": "2026-02-20T14:11:53Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -2818,8 +2818,8 @@
       "人格"
     ],
     "stars": 20,
-    "version": "0.99.1008",
-    "updated_at": "2026-02-19T13:22:16Z"
+    "version": "1.1.0",
+    "updated_at": "2026-02-20T13:57:55Z"
   },
   "astrbot_plugin_angel_heart": {
     "display_name": "天使之心",
@@ -3767,9 +3767,9 @@
       "每日一词"
     ],
     "social_link": "https://github.com/itismygo",
-    "stars": 7,
+    "stars": 6,
     "version": "v1.0.2",
-    "updated_at": "2026-02-17T07:21:51Z"
+    "updated_at": "2026-02-20T14:13:27Z"
   },
   "astrbot_plugin_web_analyzer": {
     "display_name": "网页分析插件",
@@ -4203,9 +4203,9 @@
       "Minecraft"
     ],
     "social_link": "https://www.misakanet.site",
-    "stars": 7,
+    "stars": 8,
     "version": "2.0.1",
-    "updated_at": "2026-02-16T03:21:49Z",
+    "updated_at": "2026-02-20T13:19:19Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_minecraft_adapter/master/logo.png"
   },
   "astrbot_plugin_temp-email": {
@@ -6402,8 +6402,8 @@
       "rag"
     ],
     "stars": 66,
-    "version": "2.1.7",
-    "updated_at": "2026-02-20T07:24:36Z",
+    "version": "2.1.8",
+    "updated_at": "2026-02-20T14:07:49Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -7165,9 +7165,9 @@
       "表白墙"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 61,
+    "stars": 62,
     "version": "v3.0.1",
-    "updated_at": "2026-02-20T09:05:48Z",
+    "updated_at": "2026-02-20T14:18:59Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -8334,9 +8334,9 @@
       "调教"
     ],
     "social_link": "https://github.com/oyxning",
-    "stars": 43,
+    "stars": 44,
     "version": "v3.5.1",
-    "updated_at": "2026-02-20T09:38:22Z",
+    "updated_at": "2026-02-20T14:31:43Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_antipromptinjector/master/logo.png"
   },
   "astrbot_plugin_alistfile": {
@@ -10865,7 +10865,7 @@
     ],
     "stars": 1,
     "version": "v1.0.8",
-    "updated_at": "2026-02-20T03:39:19Z"
+    "updated_at": "2026-02-20T14:10:28Z"
   },
   "astrbot_plugin_majsoul-master": {
     "desc": "一个雀魂多功能插件",
