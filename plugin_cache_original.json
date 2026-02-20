@@ -11,7 +11,7 @@
     ],
     "stars": 4,
     "version": "2.4.0",
-    "updated_at": "2026-02-20T05:07:39Z",
+    "updated_at": "2026-02-20T07:58:58Z",
     "logo": "https://raw.githubusercontent.com/blueraina/astrbot_plugin_novel/main/logo.png"
   },
   "astrbot-plugin-clonetts": {
@@ -161,8 +161,8 @@
     "social_link": "www.chuyel.cn",
     "tags": [],
     "stars": 3,
-    "version": "v1.0.3",
-    "updated_at": "2026-02-20T07:19:28Z",
+    "version": "v1.0.4",
+    "updated_at": "2026-02-20T08:35:23Z",
     "logo": "https://raw.githubusercontent.com/chuyegzs/astrbot_plugin_meting/main/logo.png"
   },
   "astrbot-plugin-comfyui": {
