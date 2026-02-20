@@ -1,4 +1,21 @@
 {
+  "astrbot-plugin-inaturalist-search": {
+    "display_name": "iNaturalist自然观察数据查询插件",
+    "desc": "一个基于 iNaturalist API 的 AstrBot 插件，支持物种分类信息查询和观察记录搜索。",
+    "author": "CecilyGao",
+    "repo": "https://github.com/CecilyGao/astrbot_plugin_inaturalist_search",
+    "tags": [
+      "自然",
+      "生物",
+      "生态",
+      "照片",
+      "观察",
+      "科学",
+      "记录",
+      "数据库"
+    ],
+    "social_link": "https://github.com/CecilyGao"
+  },
   "astrbot-plugin-command-router": {
     "display_name": "智能指令路由器",
     "desc": "基于AI的自然语言指令解析，允许用户使用自然语言调用 AstrBot 中已注册的指令。",
