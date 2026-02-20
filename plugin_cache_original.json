@@ -162,7 +162,7 @@
     "tags": [],
     "stars": 3,
     "version": "v1.0.3",
-    "updated_at": "2026-02-20T05:20:21Z",
+    "updated_at": "2026-02-20T07:19:28Z",
     "logo": "https://raw.githubusercontent.com/chuyegzs/astrbot_plugin_meting/main/logo.png"
   },
   "astrbot-plugin-comfyui": {
@@ -4480,9 +4480,9 @@
     "tags": [
       "磁链"
     ],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.0",
-    "updated_at": "2025-12-07T05:25:28Z"
+    "updated_at": "2026-02-20T07:08:40Z"
   },
   "astrbot_plugin_siliconflow-shouban": {
     "desc": "接入硅基流动画图，图片编辑，可自定义预设",
@@ -6368,9 +6368,9 @@
       "memory",
       "rag"
     ],
-    "stars": 65,
+    "stars": 66,
     "version": "2.1.7",
-    "updated_at": "2026-02-19T16:38:46Z",
+    "updated_at": "2026-02-20T07:24:36Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -7513,7 +7513,7 @@
     ],
     "stars": 7,
     "version": "v1.5.0",
-    "updated_at": "2026-02-19T09:52:09Z",
+    "updated_at": "2026-02-20T07:06:51Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -10111,9 +10111,9 @@
     "tags": [
       "ehentai"
     ],
-    "stars": 6,
+    "stars": 7,
     "version": "v3.2",
-    "updated_at": "2026-01-12T05:43:07Z"
+    "updated_at": "2026-02-20T07:10:13Z"
   },
   "astrbot_plugin_reread": {
     "display_name": "复读姬",
