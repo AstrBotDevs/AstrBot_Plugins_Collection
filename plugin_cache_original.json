@@ -28,7 +28,8 @@
     "social_link": "https://github.com/CecilyGao",
     "stars": 0,
     "version": "v1.0.0",
-    "updated_at": "2026-02-20T09:51:41Z"
+    "updated_at": "2026-02-20T12:36:43Z",
+    "logo": "https://raw.githubusercontent.com/CecilyGao/astrbot_plugin_gbif_search/master/logo.png"
   },
   "astrbot-plugin-novel": {
     "display_name": "群聊AI小说构建插件",
@@ -42,7 +43,7 @@
     ],
     "stars": 5,
     "version": "2.4.0",
-    "updated_at": "2026-02-20T10:41:14Z",
+    "updated_at": "2026-02-20T11:54:54Z",
     "logo": "https://raw.githubusercontent.com/blueraina/astrbot_plugin_novel/main/logo.png"
   },
   "astrbot-plugin-clonetts": {
@@ -73,9 +74,9 @@
       "服务器"
     ],
     "social_link": "https://github.com/HSOS6",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.3.0",
-    "updated_at": "2026-02-18T11:49:05Z",
+    "updated_at": "2026-02-20T11:45:10Z",
     "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_ssh/main/logo.png"
   },
   "astrbot-plugin-httpadapter": {
@@ -1110,9 +1111,9 @@
     "author": "lamp3721",
     "repo": "https://github.com/lamp3721/astrbot_plugin_at_ignore",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-02-17T07:48:56Z"
+    "updated_at": "2026-02-20T12:52:08Z"
   },
   "message_cleaner": {
     "display_name": "消息清洗器",
@@ -2100,9 +2101,9 @@
     ],
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
-    "stars": 114,
+    "stars": 116,
     "version": "Next-1.2.9",
-    "updated_at": "2026-02-20T01:26:07Z",
+    "updated_at": "2026-02-20T12:07:24Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -3129,7 +3130,8 @@
     ],
     "stars": 0,
     "version": "v1.0.3",
-    "updated_at": "2025-12-24T02:31:34Z"
+    "updated_at": "2026-02-20T12:08:28Z",
+    "logo": "https://raw.githubusercontent.com/CecilyGao/astrbot_plugin_color/main/logo.png"
   },
   "astrbot_plugin_wca": {
     "display_name": "WCA 查询",
@@ -7544,7 +7546,7 @@
     ],
     "stars": 7,
     "version": "v1.5.0",
-    "updated_at": "2026-02-20T07:06:51Z",
+    "updated_at": "2026-02-20T12:45:00Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -7701,9 +7703,9 @@
       "工具"
     ],
     "social_link": "https://github.com/EIA2024",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.0",
-    "updated_at": "2026-01-07T06:37:37Z"
+    "updated_at": "2026-02-20T12:52:20Z"
   },
   "astrbot_plugin_deer_check": {
     "desc": "一个发送'🦌'进行打卡并生成月度日历的插件",
@@ -11173,9 +11175,9 @@
       "主动回复"
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-    "stars": 98,
+    "stars": 99,
     "version": "v2.1.10",
-    "updated_at": "2026-02-14T07:36:58Z"
+    "updated_at": "2026-02-20T12:14:19Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
