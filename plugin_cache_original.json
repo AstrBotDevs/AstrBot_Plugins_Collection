@@ -2081,8 +2081,8 @@
     ],
     "social_link": "https://github.com/VanillaNahida/",
     "stars": 19,
-    "version": "v1.2.2",
-    "updated_at": "2026-02-16T07:55:17Z",
+    "version": "v1.2.3",
+    "updated_at": "2026-02-21T17:58:38Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_geetest_verify/master/logo.png"
   },
   "astrbot_plugin_cliproxy_stats": {
@@ -2417,7 +2417,7 @@
     ],
     "stars": 1,
     "version": "v1.1",
-    "updated_at": "2026-02-03T05:57:58Z",
+    "updated_at": "2026-02-21T18:31:38Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_admin_notifier/master/logo.png"
   },
   "astrbot_plugin_models_ai": {
@@ -2973,9 +2973,9 @@
       "提醒",
       "通知"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.1.2",
-    "updated_at": "2026-02-21T15:57:00Z",
+    "updated_at": "2026-02-21T18:23:56Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_reminder/master/logo.png"
   },
   "astrbot_plugin_binance": {
