@@ -1508,9 +1508,9 @@
     "repo": "https://github.com/HEI1491/astrbot_plugin_judge",
     "social_link": "https://github.com/HEI1491",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "1.4.6",
-    "updated_at": "2026-02-10T16:24:04Z"
+    "updated_at": "2026-02-21T16:56:21Z"
   },
   "astrbot_plugin_bbt_daily_news": {
     "display_name": "棒棒糖的每日晨报",
@@ -1521,9 +1521,9 @@
       "日报",
       "数据搜刮"
     ],
-    "stars": 5,
+    "stars": 6,
     "version": "v1.5.4",
-    "updated_at": "2026-02-19T15:07:22Z",
+    "updated_at": "2026-02-21T17:00:37Z",
     "logo": "https://raw.githubusercontent.com/zhoufan47/astrbot_plugin_bbt_daily_news/master/logo.png"
   },
   "astrbot_plugin_fflogs": {
@@ -1791,8 +1791,8 @@
       "拟人"
     ],
     "stars": 5,
-    "version": "1.4.0",
-    "updated_at": "2026-02-19T03:33:09Z"
+    "version": "1.4.4",
+    "updated_at": "2026-02-21T17:01:14Z"
   },
   "astrbot_plugin_mc_manager": {
     "display_name": "astrbot_plugin_mc_manager",
@@ -8820,9 +8820,9 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 102,
+    "stars": 103,
     "version": "v2.0.7",
-    "updated_at": "2026-02-21T12:35:19Z",
+    "updated_at": "2026-02-21T17:06:26Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
