@@ -2178,9 +2178,9 @@
     ],
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
-    "stars": 116,
+    "stars": 117,
     "version": "Next-1.2.9",
-    "updated_at": "2026-02-21T01:59:03Z",
+    "updated_at": "2026-02-21T07:30:43Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -2894,9 +2894,9 @@
       "学习",
       "人格"
     ],
-    "stars": 22,
+    "stars": 23,
     "version": "1.2.2",
-    "updated_at": "2026-02-21T02:14:51Z"
+    "updated_at": "2026-02-21T07:23:41Z"
   },
   "astrbot_plugin_angel_heart": {
     "display_name": "天使之心",
@@ -6479,8 +6479,8 @@
       "rag"
     ],
     "stars": 66,
-    "version": "2.2.1",
-    "updated_at": "2026-02-21T06:11:13Z",
+    "version": "2.2.2",
+    "updated_at": "2026-02-21T07:02:04Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
