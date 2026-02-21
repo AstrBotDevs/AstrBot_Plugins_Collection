@@ -39,7 +39,7 @@
     ],
     "stars": 6,
     "version": "2.4.0",
-    "updated_at": "2026-02-20T14:58:44Z",
+    "updated_at": "2026-02-21T05:37:00Z",
     "logo": "https://raw.githubusercontent.com/blueraina/astrbot_plugin_novel/main/logo.png"
   },
   "astrbot-plugin-inaturalist-search": {
@@ -120,7 +120,7 @@
     ],
     "stars": 6,
     "version": "2.4.0",
-    "updated_at": "2026-02-20T14:58:44Z",
+    "updated_at": "2026-02-21T05:37:00Z",
     "logo": "https://raw.githubusercontent.com/blueraina/astrbot_plugin_novel/main/logo.png"
   },
   "astrbot-plugin-clonetts": {
@@ -296,9 +296,9 @@
     "author": "落日七号",
     "repo": "https://github.com/luori7hao/astrbot_plugin_payqr",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.0",
-    "updated_at": "2026-02-20T09:35:20Z"
+    "updated_at": "2026-02-21T05:15:20Z"
   },
   "astrbot-plugin-jx3": {
     "display_name": "剑网三游戏数据查询工具",
@@ -730,7 +730,7 @@
     "social_link": "https://www.xytuws.cn",
     "stars": 4,
     "version": "v0.3.2",
-    "updated_at": "2026-02-10T05:53:49Z",
+    "updated_at": "2026-02-21T05:27:42Z",
     "logo": "https://raw.githubusercontent.com/XYTUworkshop/astrbot_plugin_XYTUFunction/master/logo.png"
   },
   "astrbot_plugin_lzpersona": {
@@ -3581,8 +3581,8 @@
     "repo": "https://github.com/bylkuse/astrbot_plugin_bananic_ninjutsu",
     "tags": [],
     "stars": 9,
-    "version": "v0.4.3",
-    "updated_at": "2026-02-21T03:30:12Z",
+    "version": "v0.4.4",
+    "updated_at": "2026-02-21T04:45:42Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_bananic_ninjutsu/master/logo.png"
   },
   "astrbot_plugin_ASCII": {
@@ -6479,8 +6479,8 @@
       "rag"
     ],
     "stars": 66,
-    "version": "2.1.8",
-    "updated_at": "2026-02-20T14:07:49Z",
+    "version": "2.2.0",
+    "updated_at": "2026-02-21T05:39:39Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -10330,9 +10330,9 @@
       "浏览器"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
-    "stars": 23,
+    "stars": 24,
     "version": "v2.0.0",
-    "updated_at": "2026-02-19T09:05:51Z",
+    "updated_at": "2026-02-21T04:37:04Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_browser/main/logo.png"
   },
   "astrbot_plugin_qqadmin": {
@@ -11314,9 +11314,9 @@
       "功能",
       "搬史"
     ],
-    "stars": 505,
+    "stars": 506,
     "version": "v0.916",
-    "updated_at": "2026-02-19T14:37:02Z"
+    "updated_at": "2026-02-21T04:32:52Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
