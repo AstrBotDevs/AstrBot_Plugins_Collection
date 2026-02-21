@@ -311,7 +311,7 @@
     ],
     "stars": 2,
     "version": "v1.1.1",
-    "updated_at": "2026-02-20T04:32:06Z",
+    "updated_at": "2026-02-21T10:23:15Z",
     "logo": "https://raw.githubusercontent.com/qsc20001102/astrbot_plugin_jx3/main/logo.png"
   },
   "astrbot-plugin-zirunbi": {
@@ -2879,9 +2879,9 @@
       "桌面客户端"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 19,
+    "stars": 20,
     "version": "1.1.3",
-    "updated_at": "2026-02-16T06:56:33Z",
+    "updated_at": "2026-02-21T09:35:24Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
@@ -4417,9 +4417,9 @@
       "小红书",
       "推特"
     ],
-    "stars": 18,
+    "stars": 19,
     "version": "v4.3.1",
-    "updated_at": "2026-02-05T03:45:36Z",
+    "updated_at": "2026-02-21T09:51:02Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -7623,7 +7623,7 @@
     ],
     "stars": 7,
     "version": "v1.5.0",
-    "updated_at": "2026-02-20T12:45:00Z",
+    "updated_at": "2026-02-21T10:27:49Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
