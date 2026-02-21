@@ -3407,8 +3407,8 @@
       "表情"
     ],
     "stars": 18,
-    "version": "2.2.3",
-    "updated_at": "2026-02-19T05:25:09Z",
+    "version": "2.3.0",
+    "updated_at": "2026-02-21T19:53:31Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -7093,9 +7093,9 @@
       "拟人"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 32,
+    "stars": 33,
     "version": "v2.1.2",
-    "updated_at": "2026-02-21T02:15:39Z",
+    "updated_at": "2026-02-21T19:43:48Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wakepro/main/logo.png"
   },
   "astrbot_plugin_memora_connect": {
