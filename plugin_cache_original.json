@@ -245,8 +245,8 @@
     ],
     "social_link": "https://github.com/stevessr",
     "stars": 1,
-    "version": "1.0.1",
-    "updated_at": "2026-02-19T16:45:25Z"
+    "version": "1.0.2",
+    "updated_at": "2026-02-21T00:43:07Z"
   },
   "astrbot-plugin-astrbook": {
     "display_name": "Astrbook适配器",
@@ -2178,9 +2178,9 @@
     ],
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
-    "stars": 115,
+    "stars": 116,
     "version": "Next-1.2.9",
-    "updated_at": "2026-02-20T14:11:53Z",
+    "updated_at": "2026-02-21T01:59:03Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -2290,8 +2290,8 @@
     ],
     "social_link": "https://github.com/stevessr",
     "stars": 8,
-    "version": "0.3.1",
-    "updated_at": "2026-02-20T15:27:21Z",
+    "version": "0.3.2",
+    "updated_at": "2026-02-21T00:43:06Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_url_image_auto": {
@@ -5099,9 +5099,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 86,
+    "stars": 87,
     "version": "v1.1.5",
-    "updated_at": "2026-02-20T01:33:54Z",
+    "updated_at": "2026-02-21T01:40:04Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -8822,7 +8822,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 100,
     "version": "v2.0.7",
-    "updated_at": "2026-02-17T05:06:03Z",
+    "updated_at": "2026-02-21T02:01:50Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
