@@ -166,7 +166,7 @@
     ],
     "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-02-20T03:37:54Z"
+    "updated_at": "2026-02-21T15:56:43Z"
   },
   "astrbot-plugin-halo-manager": {
     "display_name": "博客管理器",
@@ -338,9 +338,9 @@
     "tags": [
       "工具"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.1",
-    "updated_at": "2026-02-18T12:51:35Z",
+    "updated_at": "2026-02-21T16:17:34Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_at_check/master/logo.png"
   },
   "astrbot-plugin-grok-suite": {
@@ -1574,8 +1574,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 169,
-    "version": "v4.7.9",
-    "updated_at": "2026-02-21T11:57:14Z",
+    "version": "v4.7.10",
+    "updated_at": "2026-02-21T15:36:59Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -1972,7 +1972,7 @@
     ],
     "stars": 2,
     "version": "v1.2.3",
-    "updated_at": "2026-02-20T03:38:11Z"
+    "updated_at": "2026-02-21T15:56:19Z"
   },
   "astrbot_plugin_mudae_qq": {
     "display_name": "二次元笑传之抽抽Bot",
@@ -2194,7 +2194,7 @@
     "social_link": "https://github.com/Li-shi-ling",
     "stars": 2,
     "version": "v1.1.4",
-    "updated_at": "2026-02-20T11:23:59Z"
+    "updated_at": "2026-02-21T15:56:29Z"
   },
   "astrbot_plugin_help_typst": {
     "display_name": "插件菜单(typst 实现)",
@@ -2974,8 +2974,8 @@
       "通知"
     ],
     "stars": 0,
-    "version": "v1.1.1",
-    "updated_at": "2026-02-21T06:20:14Z",
+    "version": "v1.1.2",
+    "updated_at": "2026-02-21T15:57:00Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_reminder/master/logo.png"
   },
   "astrbot_plugin_binance": {
@@ -3279,7 +3279,7 @@
     ],
     "stars": 3,
     "version": "v1.2.6",
-    "updated_at": "2026-02-21T14:28:30Z"
+    "updated_at": "2026-02-21T15:56:09Z"
   },
   "astrbot_plugin_parser": {
     "display_name": "万能解析器",
@@ -6478,9 +6478,9 @@
       "memory",
       "rag"
     ],
-    "stars": 67,
+    "stars": 68,
     "version": "2.2.3",
-    "updated_at": "2026-02-21T14:39:06Z",
+    "updated_at": "2026-02-21T16:10:38Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
