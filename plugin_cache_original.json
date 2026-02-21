@@ -73,8 +73,8 @@
     ],
     "social_link": "https://github.com/PyuraMazo",
     "stars": 1,
-    "version": "v1.0.0",
-    "updated_at": "2026-02-20T20:58:18Z"
+    "version": "v1.2.0",
+    "updated_at": "2026-02-21T05:58:24Z"
   },
   "astrbot-plugin-iamthinking": {
     "display_name": "别吵我在思考",
@@ -2974,8 +2974,8 @@
       "通知"
     ],
     "stars": 0,
-    "version": "v1.1",
-    "updated_at": "2026-01-30T06:32:39Z",
+    "version": "v1.1.1",
+    "updated_at": "2026-02-21T06:20:14Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_reminder/master/logo.png"
   },
   "astrbot_plugin_binance": {
@@ -3291,9 +3291,9 @@
       "链接"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 55,
+    "stars": 56,
     "version": "v1.3.0",
-    "updated_at": "2026-02-16T04:58:35Z",
+    "updated_at": "2026-02-21T05:56:24Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -4282,7 +4282,7 @@
     "social_link": "https://www.misakanet.site",
     "stars": 8,
     "version": "2.0.1",
-    "updated_at": "2026-02-20T13:19:19Z",
+    "updated_at": "2026-02-21T06:36:22Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_minecraft_adapter/master/logo.png"
   },
   "astrbot_plugin_temp-email": {
@@ -6479,8 +6479,8 @@
       "rag"
     ],
     "stars": 66,
-    "version": "2.2.0",
-    "updated_at": "2026-02-21T05:39:39Z",
+    "version": "2.2.1",
+    "updated_at": "2026-02-21T06:11:13Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -6947,9 +6947,9 @@
       "SiliconFlow"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 47,
+    "stars": 48,
     "version": "3.0.2",
-    "updated_at": "2026-02-19T03:53:17Z",
+    "updated_at": "2026-02-21T06:36:16Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "findx010197/astrbot_plugin_reminder": {
