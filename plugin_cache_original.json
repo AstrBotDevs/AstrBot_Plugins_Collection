@@ -37,9 +37,9 @@
       "EPUB",
       "PDF"
     ],
-    "stars": 6,
+    "stars": 5,
     "version": "2.4.0",
-    "updated_at": "2026-02-21T05:37:00Z",
+    "updated_at": "2026-02-21T10:35:43Z",
     "logo": "https://raw.githubusercontent.com/blueraina/astrbot_plugin_novel/main/logo.png"
   },
   "astrbot-plugin-inaturalist-search": {
@@ -118,9 +118,9 @@
       "群聊总结",
       "共同协作"
     ],
-    "stars": 6,
+    "stars": 5,
     "version": "2.4.0",
-    "updated_at": "2026-02-21T05:37:00Z",
+    "updated_at": "2026-02-21T10:35:43Z",
     "logo": "https://raw.githubusercontent.com/blueraina/astrbot_plugin_novel/main/logo.png"
   },
   "astrbot-plugin-clonetts": {
@@ -296,9 +296,9 @@
     "author": "落日七号",
     "repo": "https://github.com/luori7hao/astrbot_plugin_payqr",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "1.0.0",
-    "updated_at": "2026-02-21T05:15:20Z"
+    "updated_at": "2026-02-21T10:30:57Z"
   },
   "astrbot-plugin-jx3": {
     "display_name": "剑网三游戏数据查询工具",
@@ -310,8 +310,8 @@
       "数据查询"
     ],
     "stars": 2,
-    "version": "v1.1.1",
-    "updated_at": "2026-02-21T10:23:15Z",
+    "version": "v1.2.0",
+    "updated_at": "2026-02-21T11:20:57Z",
     "logo": "https://raw.githubusercontent.com/qsc20001102/astrbot_plugin_jx3/main/logo.png"
   },
   "astrbot-plugin-zirunbi": {
@@ -2493,9 +2493,9 @@
     "tags": [
       "文件"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.0",
-    "updated_at": "2026-02-02T03:11:39Z"
+    "updated_at": "2026-02-21T11:17:51Z"
   },
   "astrbot_plugin_click2download": {
     "display_name": "链接下载",
@@ -2894,9 +2894,9 @@
       "学习",
       "人格"
     ],
-    "stars": 23,
+    "stars": 24,
     "version": "1.2.2",
-    "updated_at": "2026-02-21T07:23:41Z"
+    "updated_at": "2026-02-21T10:31:29Z"
   },
   "astrbot_plugin_angel_heart": {
     "display_name": "天使之心",
@@ -2908,9 +2908,9 @@
       "主动应答",
       "群聊优化"
     ],
-    "stars": 32,
+    "stars": 33,
     "version": "0.8.12",
-    "updated_at": "2026-02-19T21:44:51Z"
+    "updated_at": "2026-02-21T10:31:27Z"
   },
   "astrbot_plugin_angel_eye": {
     "display_name": "天使之眼",
@@ -6163,9 +6163,9 @@
       "重启"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 12,
+    "stars": 13,
     "version": "v1.0.5",
-    "updated_at": "2026-02-10T07:34:55Z",
+    "updated_at": "2026-02-21T10:51:13Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_restart/main/logo.png"
   },
   "astrbot_plugin_tts_llm": {
@@ -9642,9 +9642,9 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 149,
+    "stars": 148,
     "version": "v3.0.2",
-    "updated_at": "2026-02-20T02:59:41Z",
+    "updated_at": "2026-02-21T11:23:26Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
