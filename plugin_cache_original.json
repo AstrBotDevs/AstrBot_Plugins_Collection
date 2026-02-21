@@ -3277,9 +3277,9 @@
       "恶搞",
       "迫害群友"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.2.6",
-    "updated_at": "2026-02-20T03:38:46Z"
+    "updated_at": "2026-02-21T14:28:30Z"
   },
   "astrbot_plugin_parser": {
     "display_name": "万能解析器",
@@ -6138,9 +6138,9 @@
       "Steam"
     ],
     "social_link": "https://github.com/Maoer233",
-    "stars": 6,
+    "stars": 7,
     "version": "1.0.1",
-    "updated_at": "2026-01-26T15:31:03Z"
+    "updated_at": "2026-02-21T15:20:26Z"
   },
   "astrbot_plugin_personal_selfupdate": {
     "desc": "一个用于自更新人格数据的插件。",
@@ -6479,8 +6479,8 @@
       "rag"
     ],
     "stars": 67,
-    "version": "2.2.2",
-    "updated_at": "2026-02-21T14:23:48Z",
+    "version": "2.2.3",
+    "updated_at": "2026-02-21T14:39:06Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -8730,9 +8730,9 @@
       "Steam"
     ],
     "social_link": "https://github.com/Maoer233",
-    "stars": 55,
+    "stars": 56,
     "version": "2.2.0",
-    "updated_at": "2026-02-08T18:45:53Z",
+    "updated_at": "2026-02-21T14:37:08Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
