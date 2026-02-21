@@ -151,9 +151,9 @@
       "服务器"
     ],
     "social_link": "https://github.com/HSOS6",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.3.0",
-    "updated_at": "2026-02-21T02:32:46Z",
+    "updated_at": "2026-02-21T12:04:55Z",
     "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_ssh/main/logo.png"
   },
   "astrbot-plugin-httpadapter": {
@@ -311,7 +311,7 @@
     ],
     "stars": 2,
     "version": "v1.2.0",
-    "updated_at": "2026-02-21T11:20:57Z",
+    "updated_at": "2026-02-21T11:55:25Z",
     "logo": "https://raw.githubusercontent.com/qsc20001102/astrbot_plugin_jx3/main/logo.png"
   },
   "astrbot-plugin-zirunbi": {
@@ -483,7 +483,7 @@
     ],
     "stars": 13,
     "version": "v1.2.3",
-    "updated_at": "2026-02-20T14:11:49Z"
+    "updated_at": "2026-02-21T11:31:18Z"
   },
   "astrbot_plugin_mc_duration": {
     "display_name": "MC魔人时长统计",
@@ -1574,8 +1574,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 169,
-    "version": "v4.7.8",
-    "updated_at": "2026-02-21T09:02:17Z",
+    "version": "v4.7.9",
+    "updated_at": "2026-02-21T11:57:14Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -1658,9 +1658,9 @@
       "B站",
       "抖音"
     ],
-    "stars": 5,
+    "stars": 6,
     "version": "v1.0.5",
-    "updated_at": "2026-02-14T16:38:39Z"
+    "updated_at": "2026-02-21T11:55:36Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -2301,9 +2301,9 @@
     "repo": "https://github.com/San-sin-sun/url_image_auto",
     "social_link": "https://san-sin-sun.github.io/",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "0.1.1",
-    "updated_at": "2026-01-21T02:23:15Z"
+    "updated_at": "2026-02-21T11:57:39Z"
   },
   "astrbot_plugin_llm_executor": {
     "display_name": "指令执行器",
@@ -5099,9 +5099,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 88,
+    "stars": 89,
     "version": "v1.1.5",
-    "updated_at": "2026-02-21T07:49:06Z",
+    "updated_at": "2026-02-21T11:50:53Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -6673,9 +6673,9 @@
     "author": "天各一方",
     "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
     "tags": [],
-    "stars": 38,
+    "stars": 39,
     "version": "v1.0.4",
-    "updated_at": "2026-01-25T13:36:31Z"
+    "updated_at": "2026-02-21T12:08:51Z"
   },
   "astrbot_plugin_vtb_adapter": {
     "desc": "用于连接 AstrBot 与 Open LLM Vtuber，除安装插件外还需要修改 Open LLM Vtuber 中的相关文件",
@@ -8820,9 +8820,9 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 100,
+    "stars": 102,
     "version": "v2.0.7",
-    "updated_at": "2026-02-21T02:01:50Z",
+    "updated_at": "2026-02-21T12:35:19Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -10346,7 +10346,7 @@
     ],
     "stars": 96,
     "version": "v3.2.7",
-    "updated_at": "2026-02-19T10:26:19Z",
+    "updated_at": "2026-02-21T12:27:22Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
