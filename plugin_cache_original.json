@@ -151,9 +151,9 @@
       "服务器"
     ],
     "social_link": "https://github.com/HSOS6",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.3.0",
-    "updated_at": "2026-02-20T21:17:59Z",
+    "updated_at": "2026-02-21T02:32:46Z",
     "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_ssh/main/logo.png"
   },
   "astrbot-plugin-httpadapter": {
@@ -203,9 +203,9 @@
       "phigros"
     ],
     "social_link": "https://github.com/1-20182",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.3.0",
-    "updated_at": "2026-02-18T17:27:54Z"
+    "updated_at": "2026-02-21T03:47:58Z"
   },
   "astrbot-plugin-Gemini-STT": {
     "display_name": "Gemini_STT",
@@ -271,7 +271,7 @@
     "tags": [],
     "stars": 3,
     "version": "v1.0.4",
-    "updated_at": "2026-02-20T08:35:23Z",
+    "updated_at": "2026-02-21T03:47:17Z",
     "logo": "https://raw.githubusercontent.com/chuyegzs/astrbot_plugin_meting/main/logo.png"
   },
   "astrbot-plugin-comfyui": {
@@ -355,8 +355,8 @@
       "联网搜索"
     ],
     "stars": 1,
-    "version": "2.2.0",
-    "updated_at": "2026-02-20T14:29:18Z",
+    "version": "2.3.0",
+    "updated_at": "2026-02-21T04:21:49Z",
     "logo": "https://raw.githubusercontent.com/muqing-kg/astrbot_plugin_grok_suite/main/logo.png"
   },
   "astrbot-plugin-chat-polisher": {
@@ -936,8 +936,8 @@
     ],
     "social_link": "https://github.com/piexian",
     "stars": 3,
-    "version": "v1.0.5",
-    "updated_at": "2026-02-18T08:17:13Z",
+    "version": "v1.0.6",
+    "updated_at": "2026-02-21T04:09:51Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_grok_web_search/master/logo.png"
   },
   "astrbot_plugin_fake_ai_watermark": {
@@ -2163,8 +2163,8 @@
     "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
     "tags": [],
     "stars": 18,
-    "version": "v4.0.2",
-    "updated_at": "2026-02-18T12:05:13Z",
+    "version": "v4.1.0",
+    "updated_at": "2026-02-21T04:08:40Z",
     "logo": "https://raw.githubusercontent.com/xiaoxi68/astrbot_zssm_explain/main/logo.png"
   },
   "astrbot_plugin_self_learning": {
@@ -2894,9 +2894,9 @@
       "学习",
       "人格"
     ],
-    "stars": 21,
+    "stars": 22,
     "version": "1.2.2",
-    "updated_at": "2026-02-20T18:51:04Z"
+    "updated_at": "2026-02-21T02:14:51Z"
   },
   "astrbot_plugin_angel_heart": {
     "display_name": "天使之心",
@@ -2922,9 +2922,9 @@
       "记录查询",
       "聊天记录"
     ],
-    "stars": 10,
+    "stars": 11,
     "version": "1.0.3",
-    "updated_at": "2026-02-12T12:20:47Z"
+    "updated_at": "2026-02-21T02:17:36Z"
   },
   "lumingya/astrbot_plugin_regex_filter": {
     "display_name": "通用正则后处理",
@@ -2959,9 +2959,9 @@
     "tags": [
       "文件解析"
     ],
-    "stars": 4,
+    "stars": 5,
     "version": "v3.1.0",
-    "updated_at": "2026-02-17T04:33:20Z"
+    "updated_at": "2026-02-21T02:25:37Z"
   },
   "astrbot_plugin_reminder": {
     "display_name": "定时提醒插件",
@@ -3543,9 +3543,9 @@
       "画图"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 38,
+    "stars": 39,
     "version": "v4.1.1",
-    "updated_at": "2026-02-19T10:41:44Z",
+    "updated_at": "2026-02-21T03:07:17Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -3581,8 +3581,8 @@
     "repo": "https://github.com/bylkuse/astrbot_plugin_bananic_ninjutsu",
     "tags": [],
     "stars": 9,
-    "version": "v0.4.2",
-    "updated_at": "2026-02-09T09:35:43Z",
+    "version": "v0.4.3",
+    "updated_at": "2026-02-21T03:30:12Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_bananic_ninjutsu/master/logo.png"
   },
   "astrbot_plugin_ASCII": {
@@ -3873,9 +3873,9 @@
       "画图",
       "comfyui"
     ],
-    "stars": 13,
+    "stars": 14,
     "version": "3.6.1",
-    "updated_at": "2026-02-20T20:20:44Z"
+    "updated_at": "2026-02-21T02:45:17Z"
   },
   "astrbot_plugin_timeprogress": {
     "display_name": "时间可视化",
@@ -3933,8 +3933,8 @@
     ],
     "social_link": "https://github.com/piexian",
     "stars": 24,
-    "version": "v1.9.2",
-    "updated_at": "2026-02-18T08:16:41Z",
+    "version": "v1.9.3",
+    "updated_at": "2026-02-21T03:42:29Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -4139,9 +4139,9 @@
       "Chat"
     ],
     "social_link": "https://space.bilibili.com/702922307",
-    "stars": 5,
+    "stars": 6,
     "version": "1.0.9",
-    "updated_at": "2025-12-10T00:45:05Z"
+    "updated_at": "2026-02-21T03:14:13Z"
   },
   "astrbot_plugin_pig": {
     "display_name": "猪猪表情包",
@@ -4234,8 +4234,8 @@
     ],
     "social_link": "https://github.com/piexian",
     "stars": 3,
-    "version": "1.2.5",
-    "updated_at": "2026-02-20T04:40:30Z",
+    "version": "1.2.6",
+    "updated_at": "2026-02-21T03:53:24Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_rg2/master/logo.png"
   },
   "astrbot_plugin_maimaidx": {
@@ -7093,9 +7093,9 @@
       "拟人"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 31,
+    "stars": 32,
     "version": "v2.1.2",
-    "updated_at": "2026-01-23T00:51:10Z",
+    "updated_at": "2026-02-21T02:15:39Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wakepro/main/logo.png"
   },
   "astrbot_plugin_memora_connect": {
@@ -7145,9 +7145,9 @@
       "输出增强"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 29,
+    "stars": 30,
     "version": "v2.1.6",
-    "updated_at": "2026-02-18T01:28:18Z",
+    "updated_at": "2026-02-21T03:14:40Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
