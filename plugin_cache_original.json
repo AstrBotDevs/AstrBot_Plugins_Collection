@@ -58,9 +58,9 @@
       "数据库"
     ],
     "social_link": "https://github.com/CecilyGao",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-02-20T12:43:41Z",
+    "updated_at": "2026-02-21T13:40:00Z",
     "logo": "https://raw.githubusercontent.com/CecilyGao/astrbot_plugin_inaturalist_search/main/logo.png"
   },
   "astrbot-plugin-command-router": {
@@ -103,9 +103,9 @@
       "分布"
     ],
     "social_link": "https://github.com/CecilyGao",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-02-20T12:36:43Z",
+    "updated_at": "2026-02-21T13:39:34Z",
     "logo": "https://raw.githubusercontent.com/CecilyGao/astrbot_plugin_gbif_search/master/logo.png"
   },
   "astrbot-plugin-novel": {
@@ -229,9 +229,9 @@
     "author": "okami-horo",
     "repo": "https://github.com/okami-horo/astrbot_plugin_openai_responses",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "0.1.4",
-    "updated_at": "2026-02-20T05:48:15Z"
+    "updated_at": "2026-02-21T13:31:14Z"
   },
   "astrbot-plugin-matrix-sticker": {
     "display_name": "Matrix Sticker 管理插件",
@@ -698,9 +698,9 @@
     "tags": [
       "steam"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.2.1",
-    "updated_at": "2026-02-12T22:04:35Z",
+    "updated_at": "2026-02-21T13:35:49Z",
     "logo": "https://raw.githubusercontent.com/DearCrazyLeaf/astrbot_plugin_steam_updates/master/logo.png"
   },
   "astrbot_plugin_codemage": {
@@ -1427,8 +1427,8 @@
     ],
     "social_link": "https://github.com/anneviliu",
     "stars": 2,
-    "version": "0.3.0",
-    "updated_at": "2026-02-17T14:54:11Z"
+    "version": "0.3.1",
+    "updated_at": "2026-02-21T13:00:29Z"
   },
   "astrbot_plugin_worldbook": {
     "display_name": "世界书插件",
@@ -1481,8 +1481,8 @@
     ],
     "social_link": "https://github.com/siciyuanweilai",
     "stars": 13,
-    "version": "4.6.0",
-    "updated_at": "2026-02-19T08:45:52Z",
+    "version": "4.6.1",
+    "updated_at": "2026-02-21T12:59:59Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
