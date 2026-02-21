@@ -1442,9 +1442,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "pinned": true,
-    "stars": 15,
+    "stars": 16,
     "version": "2.2.3",
-    "updated_at": "2026-02-19T09:36:18Z",
+    "updated_at": "2026-02-21T09:12:18Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_worldbook/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -1573,9 +1573,9 @@
       "群聊圣经"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 168,
+    "stars": 169,
     "version": "v4.7.8",
-    "updated_at": "2026-02-20T15:40:32Z",
+    "updated_at": "2026-02-21T09:02:17Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -3544,8 +3544,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 39,
-    "version": "v4.1.1",
-    "updated_at": "2026-02-21T03:07:17Z",
+    "version": "v4.1.2",
+    "updated_at": "2026-02-21T08:52:14Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -8481,9 +8481,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "desc": "动态词库，自定义回复词",
-    "stars": 12,
+    "stars": 13,
     "version": "v1.1.0",
-    "updated_at": "2026-02-17T07:22:13Z",
+    "updated_at": "2026-02-21T08:33:56Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wbank/main/logo.png"
   },
   "astrbot_plugin_lyricnext": {
