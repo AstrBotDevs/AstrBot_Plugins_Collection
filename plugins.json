@@ -1,4 +1,14 @@
 {
+  "astrbot-plugin-trello": {
+    "display_name": "Trello Controller for AstrBot",
+    "desc": "通过 AstrBot 连接 Trello，提供卡片管理、列表管理等功能。",
+    "author": "Potatoworkshop",
+    "repo": "https://github.com/potatoworkshop/astrbot_plugin_trello",
+    "tags": [
+      "trello"
+    ],
+    "social_link": "https://github.com/potatoworkshop"
+  },
   "astrbot-plugin-ow-hero-stats": {
     "display_name": "守望先锋 （国服）数据可视化查询插件",
     "desc": "这是一个专为 AstrBot 设计的守望先锋 2（国服）数据查询插件。\n\n它摒弃了枯燥的纯文本回复，能够直接从暴雪国服 API 获取最新的英雄数据，并生成包含 英雄头像、段位图标、胜率/出场率/禁用率/KDA 的精美可视化图片战报。",
