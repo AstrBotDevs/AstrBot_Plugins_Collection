@@ -1,4 +1,12 @@
 {
+  "astrbot-plugin-soulmap": {
+    "display_name": "用户画像",
+    "desc": "AI驱动的用户画像收集系统，在聊天中自动提取用户信息（昵称、生日、饮食偏好、健康状况等），并在聊天中自然提及。",
+    "author": "柯尔",
+    "repo": "https://github.com/Luna-channel/astrbot_plugin_soulmap",
+    "tags": [],
+    "social_link": ""
+  },
   "astrbot-plugin-warframe-helper": {
     "display_name": "Warframe助手",
     "desc": "国际服Warframe游戏信息查询",
