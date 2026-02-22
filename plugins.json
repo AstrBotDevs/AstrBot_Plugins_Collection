@@ -1,4 +1,11 @@
 {
+  "astrbot-plugin-manosaba-memes": {
+    "display_name": "魔裁 Memes",
+    "desc": "生成「魔法少女的魔法审判」的表情包",
+    "author": "祁筱欣",
+    "repo": "https://github.com/xiaomizhoubaobei/astrbot_plugin_manosaba-memes",
+    "social_link": "https://github.com/xiaomizhoubaobei"
+  },
   "astrbot-plugin-soulmap": {
     "display_name": "用户画像",
     "desc": "AI驱动的用户画像收集系统，在聊天中自动提取用户信息（昵称、生日、饮食偏好、健康状况等），并在聊天中自然提及。",
