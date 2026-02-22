@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-ow-hero-stats": {
+    "display_name": "守望先锋 （国服）数据可视化查询插件",
+    "desc": "这是一个专为 AstrBot 设计的守望先锋 2（国服）数据查询插件。\n\n它摒弃了枯燥的纯文本回复，能够直接从暴雪国服 API 获取最新的英雄数据，并生成包含 英雄头像、段位图标、胜率/出场率/禁用率/KDA 的精美可视化图片战报。",
+    "author": "Eager",
+    "repo": "https://github.com/Eager2024/astrbot_plugin_ow_hero_stats",
+    "tags": [
+      "守望先锋",
+      "数据查询"
+    ],
+    "social_link": "https://github.com/Eager2024"
+  },
   "astrbot-plugin-sentinel": {
     "display_name": "QQ 群哨兵",
     "desc": "实时监控群聊消息，通过关键词或正则表达式进行识别，并自动执行撤回、禁言以及踢出等操作。",
