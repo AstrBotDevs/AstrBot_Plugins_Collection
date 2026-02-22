@@ -356,7 +356,7 @@
     ],
     "stars": 1,
     "version": "2.3.0",
-    "updated_at": "2026-02-21T04:21:49Z",
+    "updated_at": "2026-02-22T02:11:02Z",
     "logo": "https://raw.githubusercontent.com/muqing-kg/astrbot_plugin_grok_suite/main/logo.png"
   },
   "astrbot-plugin-chat-polisher": {
@@ -713,9 +713,9 @@
       "agent",
       "codegen"
     ],
-    "stars": 17,
+    "stars": 18,
     "version": "1.1.1",
-    "updated_at": "2026-02-19T10:29:57Z",
+    "updated_at": "2026-02-22T01:11:58Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -2162,9 +2162,9 @@
     "author": "薄暝",
     "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
     "tags": [],
-    "stars": 18,
+    "stars": 19,
     "version": "v4.1.0",
-    "updated_at": "2026-02-21T04:08:40Z",
+    "updated_at": "2026-02-22T01:46:20Z",
     "logo": "https://raw.githubusercontent.com/xiaoxi68/astrbot_zssm_explain/main/logo.png"
   },
   "astrbot_plugin_self_learning": {
@@ -2178,9 +2178,9 @@
     ],
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
-    "stars": 117,
+    "stars": 118,
     "version": "Next-1.2.9",
-    "updated_at": "2026-02-21T07:30:43Z",
+    "updated_at": "2026-02-22T01:02:25Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -2895,8 +2895,8 @@
       "人格"
     ],
     "stars": 24,
-    "version": "1.2.2",
-    "updated_at": "2026-02-21T10:31:29Z"
+    "version": "1.2.5",
+    "updated_at": "2026-02-22T02:05:20Z"
   },
   "astrbot_plugin_angel_heart": {
     "display_name": "天使之心",
@@ -10907,8 +10907,8 @@
       "消息推送"
     ],
     "stars": 11,
-    "version": "v0.2.1",
-    "updated_at": "2026-01-16T09:38:55Z"
+    "version": "v0.2.2",
+    "updated_at": "2026-02-22T00:59:25Z"
   },
   "astrbot_plugin_hello77": {
     "author": "hello七七",
@@ -11356,9 +11356,9 @@
       "图床"
     ],
     "pinned": true,
-    "stars": 138,
+    "stars": 139,
     "version": "v3.19",
-    "updated_at": "2026-02-20T20:37:03Z"
+    "updated_at": "2026-02-22T00:49:19Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
