@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-iris-memory": {
+    "display_name": "Iris Memory 智能三层记忆",
+    "desc": "三层记忆插件，为 AstrBot 提供智能记忆管理能力，内置知识图谱、向量数据库、用户画像等增强功能，同时提供纯规则、LLM和混合三种模式的切换",
+    "author": "Leafiber",
+    "repo": "https://github.com/leafliber/astrbot_plugin_iris_memory",
+    "tags": [
+      "记忆",
+      "知识图谱",
+      "用户画像"
+    ],
+    "social_link": "https://github.com/leafliber"
+  },
   "astrbot-plugin-manosaba-memes": {
     "display_name": "魔裁 Memes",
     "desc": "生成「魔法少女的魔法审判」的表情包",
