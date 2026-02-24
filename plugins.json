@@ -1,4 +1,14 @@
 {
+  "astrbot-plugin-topic-starter": {
+    "display_name": "topic_starter",
+    "desc": "主动话题发起、会话跟踪、可配置调度",
+    "author": "薄暝",
+    "repo": "https://github.com/exynos967/astrbot_plugin_topic_starter",
+    "tags": [
+      "话题",
+      "主动发言"
+    ]
+  },
   "astrbot-plugin-web-screenshot": {
     "display_name": "API网页截图😝",
     "desc": "基于外部API提供网页截图功能的AstrBot插件，适用于OneBot QQ机器人",
