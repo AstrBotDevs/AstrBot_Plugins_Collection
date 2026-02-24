@@ -1,4 +1,14 @@
 {
+  "astrbot-plugin-astrbot-enhance-mode": {
+    "display_name": "AstrBot Enhance Mode - 群聊增强插件",
+    "desc": "本插件为 AstrBot 的群聊场景提供增强功能，完全替代内置的「群聊上下文感知」和「主动回复」，并额外支持角色标签和发送者 ID。",
+    "author": "阿汐",
+    "repo": "https://github.com/Axi404/astrbot_plugin_astrbot_enhance_mode",
+    "tags": [
+      "聊天增强"
+    ],
+    "social_link": "https://axi404.top"
+  },
   "astrbot-plugin-biliVideo": {
     "display_name": "哔哩哔哩视频总结",
     "desc": "提供b站视频链接自动生成一份结构化的视频总结,带有订阅up主功能并定时推送最新视频",
