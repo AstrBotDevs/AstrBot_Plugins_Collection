@@ -1,4 +1,10 @@
 {
+  "astrbot-plugin-GPT-SoVITS": {
+    "display_name": "GPT-SoVITS",
+    "desc": "本地运行的 GPT-SoVITS-1007-cu124 的 Astrbot 文本转语音插件。",
+    "author": "w2902171175",
+    "repo": "https://github.com/w2902171175/astrbot_plugin_GPT-SoVITS"
+  },
   "astrbot-plugin-topic-starter": {
     "display_name": "topic_starter",
     "desc": "主动话题发起、会话跟踪、可配置调度",
