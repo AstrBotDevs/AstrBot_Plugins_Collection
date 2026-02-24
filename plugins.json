@@ -1,4 +1,11 @@
 {
+  "astrbot-plugin-biliVideo": {
+    "display_name": "哔哩哔哩视频总结",
+    "desc": "提供b站视频链接自动生成一份结构化的视频总结,带有订阅up主功能并定时推送最新视频",
+    "author": "storyAura",
+    "repo": "https://github.com/storyAura/astrbot_plugin_biliVideo",
+    "social_link": "https://github.com/storyAura"
+  },
   "astrbot-plugin-opencode-client": {
     "display_name": "Opencode Client",
     "desc": "用于连接到 Opencode 服务器 https://opencode.ai/docs/server/",
