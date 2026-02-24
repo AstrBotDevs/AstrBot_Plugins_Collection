@@ -1,4 +1,17 @@
 {
+  "astrbot-plugin-web-screenshot": {
+    "display_name": "API网页截图😝",
+    "desc": "基于外部API提供网页截图功能的AstrBot插件，适用于OneBot QQ机器人",
+    "author": "浅月tniay",
+    "repo": "https://github.com/tniany/astrbot_plugin_web-screenshot",
+    "tags": [
+      "截图",
+      "api",
+      "tniay",
+      "Onebot"
+    ],
+    "social_link": "https://github.com/tniany"
+  },
   "astrbot-plugin-astrbot-enhance-mode": {
     "display_name": "AstrBot Enhance Mode - 群聊增强插件",
     "desc": "本插件为 AstrBot 的群聊场景提供增强功能，完全替代内置的「群聊上下文感知」和「主动回复」，并额外支持角色标签和发送者 ID。",
