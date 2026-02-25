@@ -28,7 +28,7 @@
     ],
     "stars": 1,
     "version": "v0.2.2",
-    "updated_at": "2026-02-25T10:28:26Z"
+    "updated_at": "2026-02-25T11:07:00Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -785,9 +785,9 @@
       "platform"
     ],
     "social_link": "https://github.com/lxfight",
-    "stars": 2,
+    "stars": 3,
     "version": "1.0.0",
-    "updated_at": "2026-02-18T11:31:22Z"
+    "updated_at": "2026-02-25T11:31:40Z"
   },
   "astrbot_plugin_telegram_summary": {
     "name": "",
@@ -7272,8 +7272,8 @@
       "运势"
     ],
     "stars": 15,
-    "version": "v1.0.3",
-    "updated_at": "2026-02-18T12:51:51Z"
+    "version": "v1.0.4",
+    "updated_at": "2026-02-25T10:54:57Z"
   },
   "astrbot_plugin_wakepro": {
     "display_name": "唤醒增强",
