@@ -28,7 +28,7 @@
     ],
     "stars": 1,
     "version": "v0.2.2",
-    "updated_at": "2026-02-25T05:19:39Z"
+    "updated_at": "2026-02-25T08:12:48Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -119,9 +119,9 @@
       "用户画像"
     ],
     "social_link": "https://github.com/leafliber",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.7.1",
-    "updated_at": "2026-02-25T07:10:05Z",
+    "updated_at": "2026-02-25T08:30:58Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -1821,9 +1821,9 @@
       "用来水作业再合适不过了"
     ],
     "social_link": "https://blog.gbkgov.cn",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0.0",
-    "updated_at": "2026-02-23T03:29:29Z",
+    "updated_at": "2026-02-25T08:19:37Z",
     "logo": "https://raw.githubusercontent.com/Chris95743/astrbot_plugin_mysql/main/logo.png"
   },
   "astrbot_plugin_github_webhook": {
@@ -6209,9 +6209,9 @@
       "搜消息"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.0.2",
-    "updated_at": "2025-12-18T13:07:25Z",
+    "updated_at": "2026-02-25T08:16:05Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_msg_search/main/logo.png"
   },
   "scheduled_reply": {
@@ -11444,9 +11444,9 @@
       "主动回复"
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-    "stars": 102,
+    "stars": 103,
     "version": "v2.1.11",
-    "updated_at": "2026-02-24T09:32:52Z"
+    "updated_at": "2026-02-25T08:09:02Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
