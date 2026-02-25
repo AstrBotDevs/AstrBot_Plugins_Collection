@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-bookkeeping": {
+    "display_name": "日常记账",
+    "desc": "一个功能完善的个人记账插件，支持支出/收入记录、统计分析、AI财务建议等功能。",
+    "author": "NONAME",
+    "repo": "https://github.com/NONAME00X/astrbot_plugin_bookkeeping",
+    "tags": [
+      "财务",
+      "记账",
+      "日常"
+    ],
+    "social_link": "https://github.com/NONAME00X"
+  },
   "astrbot-plugin-mewgenics": {
     "display_name": "喵基因wiki查询",
     "desc": "快速查询《喵喵的结合》(Mewgenics) 的 Wiki 数据。",
