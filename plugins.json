@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-mewgenics": {
+    "display_name": "喵基因wiki查询",
+    "desc": "快速查询《喵喵的结合》(Mewgenics) 的 Wiki 数据。",
+    "author": "野生",
+    "repo": "https://github.com/yesheng440/astrbot_plugin_mewgenics",
+    "tags": [
+      "wiki",
+      "游戏"
+    ],
+    "social_link": "https://github.com/yesheng440"
+  },
   "astrbot-plugin-memorix": {
     "display_name": "Memorix",
     "desc": "让AstrBit拥有可检索、可维护、可追溯的长期记忆——图谱+向量混合检索，内置生命周期管理与 WebUI。",
