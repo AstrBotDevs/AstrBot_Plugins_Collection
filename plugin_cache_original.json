@@ -146,7 +146,7 @@
     "category": "AI增强",
     "stars": 7,
     "version": "v1.7.2",
-    "updated_at": "2026-02-25T17:38:08Z",
+    "updated_at": "2026-02-25T18:27:34Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -422,9 +422,9 @@
     ],
     "social_link": "https://github.com/iamfromchangsha",
     "category": "外部集成",
-    "stars": 3,
+    "stars": 4,
     "version": "1.4.0",
-    "updated_at": "2026-02-23T19:04:21Z",
+    "updated_at": "2026-02-25T18:42:16Z",
     "logo": "https://raw.githubusercontent.com/iamfromchangsha/astrbot_plugin_niji/master/logo.png"
   },
   "astrbot-plugin-phigros": {
@@ -738,9 +738,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 18,
+    "stars": 19,
     "version": "v1.3.1",
-    "updated_at": "2026-02-25T15:26:37Z"
+    "updated_at": "2026-02-25T18:03:19Z"
   },
   "astrbot_plugin_mc_duration": {
     "display_name": "MC魔人时长统计",
@@ -2035,7 +2035,7 @@
     "category": "AI增强",
     "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-02-13T18:47:21Z"
+    "updated_at": "2026-02-25T18:07:36Z"
   },
   "astrbot_plugin_galgame_box": {
     "display_name": "Galgame 百宝盒",
@@ -5214,8 +5214,8 @@
     "category": "外部集成",
     "tags": [],
     "stars": 3,
-    "version": "v1.0.0",
-    "updated_at": "2026-01-26T22:37:07Z"
+    "version": "2.0.0",
+    "updated_at": "2026-02-25T19:13:03Z"
   },
   "astrbot_plugin_NetEaseCloud_Music": {
     "display_name": "网易云点歌",
@@ -5418,9 +5418,9 @@
       "发言统计"
     ],
     "category": "外部集成",
-    "stars": 10,
+    "stars": 11,
     "version": "1.7.5",
-    "updated_at": "2026-01-18T15:12:04Z",
+    "updated_at": "2026-02-25T18:16:59Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
@@ -11043,9 +11043,9 @@
     ],
     "desc": "CS 武器箱开箱模拟支持大量目前已有的武器箱，可以展示开启物品的图案和对应的磨损",
     "category": "效率工具",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.2",
-    "updated_at": "2026-01-30T05:16:14Z",
+    "updated_at": "2026-02-25T18:56:16Z",
     "logo": "https://raw.githubusercontent.com/luooka/astrbot_plugin_openweaponscase/master/logo.png"
   },
   "astrbot_plugin_gallery": {
