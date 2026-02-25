@@ -41,9 +41,9 @@
       "检索",
       "人物画像"
     ],
-    "stars": 1,
+    "stars": 3,
     "version": "v0.2.2",
-    "updated_at": "2026-02-25T12:11:45Z"
+    "updated_at": "2026-02-25T15:38:12Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -135,8 +135,8 @@
     ],
     "social_link": "https://github.com/leafliber",
     "stars": 7,
-    "version": "v1.7.1",
-    "updated_at": "2026-02-25T14:46:12Z",
+    "version": "v1.7.2",
+    "updated_at": "2026-02-25T16:03:24Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -688,9 +688,10 @@
       "geminicil",
       "opencode"
     ],
-    "stars": 16,
+    "pinned": true,
+    "stars": 18,
     "version": "v1.3.1",
-    "updated_at": "2026-02-25T02:20:45Z"
+    "updated_at": "2026-02-25T15:26:37Z"
   },
   "astrbot_plugin_mc_duration": {
     "display_name": "MC魔人时长统计",
@@ -1648,7 +1649,6 @@
       "世界书"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "pinned": true,
     "stars": 21,
     "version": "2.2.3",
     "updated_at": "2026-02-24T13:02:31Z",
@@ -3615,7 +3615,7 @@
     ],
     "stars": 21,
     "version": "2.3.5",
-    "updated_at": "2026-02-25T14:49:47Z",
+    "updated_at": "2026-02-25T15:12:17Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -6535,7 +6535,7 @@
     "tags": [],
     "stars": 39,
     "version": "v2.1.0",
-    "updated_at": "2026-02-25T10:46:39Z"
+    "updated_at": "2026-02-25T15:57:06Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -6548,7 +6548,7 @@
     "social_link": "https://github.com/qa296/",
     "stars": 7,
     "version": "2.0.0",
-    "updated_at": "2026-02-25T14:44:30Z"
+    "updated_at": "2026-02-25T15:11:15Z"
   },
   "astrbot_plugin_anti_revoke": {
     "desc": "[仅 OneBot]监控指定群聊会话撤回的消息并发送给目标用户",
@@ -7449,9 +7449,9 @@
       "表白墙"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 65,
+    "stars": 66,
     "version": "v3.0.3",
-    "updated_at": "2026-02-25T04:03:05Z",
+    "updated_at": "2026-02-25T15:56:47Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -8531,9 +8531,9 @@
       "web search"
     ],
     "social_link": "https://github.com/lxfight",
-    "stars": 24,
+    "stars": 25,
     "version": "0.1.0",
-    "updated_at": "2026-01-28T02:07:37Z"
+    "updated_at": "2026-02-25T15:44:46Z"
   },
   "astrbot_plugin_textadventure": {
     "author": "LumineStory",
