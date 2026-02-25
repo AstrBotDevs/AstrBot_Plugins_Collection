@@ -1,4 +1,19 @@
 {
+  "astrbot-plugin-bookkeeping": {
+    "display_name": "日常记账",
+    "desc": "一个功能完善的个人记账插件，支持支出/收入记录、统计分析、AI财务建议等功能。",
+    "author": "NONAME",
+    "repo": "https://github.com/NONAME00X/astrbot_plugin_bookkeeping",
+    "tags": [
+      "财务",
+      "记账",
+      "日常"
+    ],
+    "social_link": "https://github.com/NONAME00X",
+    "stars": 0,
+    "version": "v1.1.0",
+    "updated_at": "2026-02-25T11:44:40Z"
+  },
   "astrbot-plugin-mewgenics": {
     "display_name": "喵基因wiki查询",
     "desc": "快速查询《喵喵的结合》(Mewgenics) 的 Wiki 数据。",
@@ -28,7 +43,7 @@
     ],
     "stars": 1,
     "version": "v0.2.2",
-    "updated_at": "2026-02-25T11:07:00Z"
+    "updated_at": "2026-02-25T12:11:45Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -613,9 +628,9 @@
       "B站",
       "转链"
     ],
-    "stars": 4,
+    "stars": 5,
     "version": "1.0.2",
-    "updated_at": "2026-02-25T02:00:11Z",
+    "updated_at": "2026-02-25T12:14:02Z",
     "logo": "https://raw.githubusercontent.com/chufeng/astrbot_plugin_bili_resolver/main/logo.png"
   },
   "astrbot-plugin-inkfusion": {
@@ -890,9 +905,9 @@
     "tags": [
       "steam"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.2.3",
-    "updated_at": "2026-02-24T12:43:35Z",
+    "updated_at": "2026-02-25T12:37:55Z",
     "logo": "https://raw.githubusercontent.com/DearCrazyLeaf/astrbot_plugin_steam_updates/master/logo.png"
   },
   "astrbot_plugin_codemage": {
@@ -1056,9 +1071,9 @@
       "服务器管理"
     ],
     "social_link": "hlymcn.cn",
-    "stars": 0,
+    "stars": 1,
     "version": "v0.7.3",
-    "updated_at": "2026-02-06T16:23:02Z",
+    "updated_at": "2026-02-25T12:37:58Z",
     "logo": "https://raw.githubusercontent.com/DearCrazyLeaf/astrbot_plugin_hlymcn_signin/master/logo.png"
   },
   "astrbot_plugin_pic_mirror": {
@@ -1850,9 +1865,9 @@
       "B站",
       "抖音"
     ],
-    "stars": 6,
+    "stars": 7,
     "version": "v1.0.5",
-    "updated_at": "2026-02-21T11:55:36Z"
+    "updated_at": "2026-02-25T11:44:05Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -2370,9 +2385,9 @@
     ],
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
-    "stars": 131,
+    "stars": 133,
     "version": "Next-2.0.5",
-    "updated_at": "2026-02-25T06:07:46Z",
+    "updated_at": "2026-02-25T12:05:02Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -2451,9 +2466,9 @@
       "office生成"
     ],
     "social_link": "https://github.com/Clhikari",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.2.4",
-    "updated_at": "2026-02-24T06:30:32Z",
+    "updated_at": "2026-02-25T13:08:09Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -3086,9 +3101,9 @@
       "学习",
       "人格"
     ],
-    "stars": 29,
+    "stars": 30,
     "version": "1.2.7",
-    "updated_at": "2026-02-24T14:35:56Z"
+    "updated_at": "2026-02-25T12:09:55Z"
   },
   "astrbot_plugin_angel_heart": {
     "display_name": "天使之心",
@@ -6061,9 +6076,9 @@
       "成员查询"
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
-    "stars": 11,
+    "stars": 12,
     "version": "v0.1.0",
-    "updated_at": "2026-01-29T02:19:16Z"
+    "updated_at": "2026-02-25T12:54:32Z"
   },
   "qftp": {
     "desc": "一个基于 astrbot 的文件管理插件，支持文件下载、搜索等功能。只在napcat+linux下尝试",
@@ -7273,7 +7288,7 @@
     ],
     "stars": 15,
     "version": "v1.0.4",
-    "updated_at": "2026-02-25T10:54:57Z"
+    "updated_at": "2026-02-25T12:07:08Z"
   },
   "astrbot_plugin_wakepro": {
     "display_name": "唤醒增强",
@@ -7337,9 +7352,9 @@
       "输出增强"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 32,
+    "stars": 33,
     "version": "v2.1.6",
-    "updated_at": "2026-02-23T03:53:59Z",
+    "updated_at": "2026-02-25T11:57:03Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -9545,9 +9560,9 @@
     "tags": [
       "主动回复"
     ],
-    "stars": 10,
+    "stars": 11,
     "version": "v1.3",
-    "updated_at": "2026-01-10T11:25:28Z"
+    "updated_at": "2026-02-25T13:07:05Z"
   },
   "astrbot_plugin_broadcast": {
     "display_name": "广播助手",
@@ -9834,9 +9849,9 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 154,
+    "stars": 155,
     "version": "v3.0.2",
-    "updated_at": "2026-02-25T06:56:04Z",
+    "updated_at": "2026-02-25T12:06:00Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -11068,9 +11083,9 @@
     "tags": [
       "实用工具"
     ],
-    "stars": 31,
+    "stars": 32,
     "version": "v3.0.1",
-    "updated_at": "2026-02-19T15:36:16Z",
+    "updated_at": "2026-02-25T12:51:59Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
@@ -11548,9 +11563,9 @@
       "图床"
     ],
     "pinned": true,
-    "stars": 148,
+    "stars": 149,
     "version": "v3.19",
-    "updated_at": "2026-02-25T06:34:53Z"
+    "updated_at": "2026-02-25T12:04:57Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
