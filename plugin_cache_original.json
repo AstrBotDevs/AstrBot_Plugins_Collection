@@ -1327,9 +1327,9 @@
       "股票"
     ],
     "category": "外部集成",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0.1",
-    "updated_at": "2026-02-03T12:34:57Z"
+    "updated_at": "2026-02-25T19:23:05Z"
   },
   "astrbot_plugin_emby": {
     "display_name": "Emby 助手",
@@ -7029,8 +7029,8 @@
     "category": "外部集成",
     "tags": [],
     "stars": 39,
-    "version": "v2.1.0",
-    "updated_at": "2026-02-25T15:57:06Z"
+    "version": "v2.2.0",
+    "updated_at": "2026-02-25T19:54:07Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
