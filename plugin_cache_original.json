@@ -5698,9 +5698,9 @@
       "联网搜索"
     ],
     "social_link": "https://gbkgov.cn",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.3.0",
-    "updated_at": "2025-12-29T05:41:12Z"
+    "updated_at": "2026-02-25T09:21:22Z"
   },
   "astrbot_plugin_Favour_Ultra": {
     "desc": "更加完善的好感度判断插件，配合LLM和自定义 Prompt 进行使用，效果显著。该插件使用与现有好感度插件不同的判断、写入方法，以及扩展更多的自定义内容，允许更加自由地定义好感度规则。",
@@ -7188,9 +7188,9 @@
       "MiBand"
     ],
     "social_link": "https://github.com/Futureppo",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.0.3",
-    "updated_at": "2026-01-16T00:11:18Z",
+    "updated_at": "2026-02-25T08:58:08Z",
     "logo": "https://raw.githubusercontent.com/Futureppo/astrbot_plugin_Xiaomi_BandProMax/main/logo.png"
   },
   "astrbot_plugin_immersive_control": {
@@ -8603,9 +8603,9 @@
       "调教"
     ],
     "social_link": "https://github.com/oyxning",
-    "stars": 45,
+    "stars": 46,
     "version": "v3.5.1",
-    "updated_at": "2026-02-24T07:09:31Z",
+    "updated_at": "2026-02-25T09:09:17Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_antipromptinjector/master/logo.png"
   },
   "astrbot_plugin_alistfile": {
@@ -8999,9 +8999,9 @@
     "tags": [
       "玩具"
     ],
-    "stars": 17,
+    "stars": 18,
     "version": "v0.1",
-    "updated_at": "2026-02-24T08:50:33Z"
+    "updated_at": "2026-02-25T09:11:46Z"
   },
   "astrbot_plugin_music": {
     "display_name": "点歌插件",
@@ -10010,8 +10010,8 @@
     ],
     "social_link": "https://github.com/vmoranv-reborn",
     "stars": 11,
-    "version": "1.7.1",
-    "updated_at": "2026-02-24T12:28:01Z",
+    "version": "1.7.2",
+    "updated_at": "2026-02-25T09:18:17Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
