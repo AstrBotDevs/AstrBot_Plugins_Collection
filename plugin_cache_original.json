@@ -28,7 +28,7 @@
     ],
     "stars": 1,
     "version": "v0.2.2",
-    "updated_at": "2026-02-25T08:12:48Z"
+    "updated_at": "2026-02-25T10:28:26Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -90,9 +90,9 @@
     "repo": "https://github.com/storyAura/astrbot_plugin_biliVideo",
     "social_link": "https://github.com/storyAura",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.1",
-    "updated_at": "2026-02-24T14:01:54Z",
+    "updated_at": "2026-02-25T10:19:53Z",
     "logo": "https://raw.githubusercontent.com/storyAura/astrbot_plugin_biliVideo/main/logo.png"
   },
   "astrbot-plugin-opencode-client": {
@@ -1674,7 +1674,7 @@
     "social_link": "https://github.com/siciyuanweilai",
     "stars": 14,
     "version": "4.7.1",
-    "updated_at": "2026-02-25T07:06:15Z",
+    "updated_at": "2026-02-25T10:05:57Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -6519,8 +6519,8 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
     "stars": 39,
-    "version": "v2.0.0",
-    "updated_at": "2026-02-23T08:23:28Z"
+    "version": "v2.1.0",
+    "updated_at": "2026-02-25T10:46:39Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -7814,8 +7814,8 @@
       "主动回复"
     ],
     "stars": 7,
-    "version": "v1.5.0",
-    "updated_at": "2026-02-25T04:29:14Z",
+    "version": "v2.0.0",
+    "updated_at": "2026-02-25T10:44:24Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -7919,8 +7919,8 @@
       "战地风云"
     ],
     "stars": 11,
-    "version": "v2.1.4",
-    "updated_at": "2025-12-22T15:33:43Z",
+    "version": "v2.1.5",
+    "updated_at": "2026-02-25T10:38:48Z",
     "logo": "https://raw.githubusercontent.com/SHOOTING-STAR-C/astrbot_plugin_battlefield_tool/master/logo.png"
   },
   "astrbot_plugin_SteamSaleTracker": {
@@ -9427,9 +9427,9 @@
       "贴表情"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 22,
+    "stars": 23,
     "version": "v2.0.0",
-    "updated_at": "2026-02-09T05:56:40Z",
+    "updated_at": "2026-02-25T10:36:47Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_emoji_like/main/logo.png"
   },
   "astrbot_plugin_lanraragi": {
@@ -12216,9 +12216,9 @@
     "author": "长安某",
     "repo": "https://github.com/zgojin/astrbot_plugin_AIQTalk",
     "tags": [],
-    "stars": 9,
+    "stars": 10,
     "version": "v2.2",
-    "updated_at": "2025-07-11T09:03:51Z"
+    "updated_at": "2026-02-25T10:26:19Z"
   },
   "astrbot_plugin_KeyReply": {
     "desc": "关键词回复插件",
