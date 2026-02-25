@@ -1,4 +1,18 @@
 {
+  "astrbot-plugin-memorix": {
+    "display_name": "Memorix",
+    "desc": "让AstrBit拥有可检索、可维护、可追溯的长期记忆——图谱+向量混合检索，内置生命周期管理与 WebUI。",
+    "author": "薄暝",
+    "repo": "https://github.com/exynos967/astrbot_plugin_memorix",
+    "tags": [
+      "长期记忆",
+      "图谱",
+      "webui",
+      "向量",
+      "检索",
+      "人物画像"
+    ]
+  },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
     "desc": "本地运行的 GPT-SoVITS-1007-cu124 的 Astrbot 文本转语音插件。",
