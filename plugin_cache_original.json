@@ -46,7 +46,7 @@
     "category": "AI增强",
     "stars": 3,
     "version": "v0.2.2",
-    "updated_at": "2026-02-25T15:38:12Z"
+    "updated_at": "2026-02-26T07:59:34Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -144,9 +144,9 @@
     ],
     "social_link": "https://github.com/leafliber",
     "category": "AI增强",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.7.2",
-    "updated_at": "2026-02-26T03:53:22Z",
+    "updated_at": "2026-02-26T07:15:27Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -675,7 +675,7 @@
     "category": "效率工具",
     "stars": 5,
     "version": "1.0.3",
-    "updated_at": "2026-02-26T06:56:32Z",
+    "updated_at": "2026-02-26T07:11:47Z",
     "logo": "https://raw.githubusercontent.com/chufeng/astrbot_plugin_bili_resolver/main/logo.png"
   },
   "astrbot-plugin-inkfusion": {
@@ -707,7 +707,7 @@
     "category": "外部集成",
     "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-02-20T16:21:22Z"
+    "updated_at": "2026-02-26T07:24:50Z"
   },
   "astrbot_plugin_group_quiz": {
     "display_name": "每日技术问答",
@@ -1909,9 +1909,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
-    "stars": 180,
+    "stars": 181,
     "version": "v4.7.15",
-    "updated_at": "2026-02-26T05:34:29Z",
+    "updated_at": "2026-02-26T07:44:48Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -2240,8 +2240,8 @@
     ],
     "category": "效率工具",
     "stars": 2,
-    "version": "v1.1.0",
-    "updated_at": "2026-02-13T08:20:42Z",
+    "version": "v1.2.0",
+    "updated_at": "2026-02-26T08:48:55Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_keywords_reply/master/logo.png"
   },
   "astrbot_plugin_text2img": {
@@ -2559,9 +2559,9 @@
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 136,
+    "stars": 137,
     "version": "Next-2.0.5",
-    "updated_at": "2026-02-26T05:00:50Z",
+    "updated_at": "2026-02-26T07:16:13Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -3813,9 +3813,9 @@
     "social_link": "https://chjs.936668.xyz/",
     "category": "生活实用",
     "tags": [],
-    "stars": 8,
+    "stars": 9,
     "version": "v0.0.4",
-    "updated_at": "2026-02-23T02:34:10Z"
+    "updated_at": "2026-02-26T08:49:19Z"
   },
   "astrbot_plugin_be_checker": {
     "display_name": "封禁检查",
@@ -5213,9 +5213,9 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_bolatuship",
     "category": "外部集成",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "2.0.0",
-    "updated_at": "2026-02-25T19:13:03Z"
+    "updated_at": "2026-02-26T07:34:31Z"
   },
   "astrbot_plugin_NetEaseCloud_Music": {
     "display_name": "网易云点歌",
@@ -7466,8 +7466,8 @@
     "social_link": "https://github.com/kjqwer",
     "category": "AI增强",
     "stars": 8,
-    "version": "v1.0.1",
-    "updated_at": "2025-12-16T09:59:11Z"
+    "version": "v1.1.0",
+    "updated_at": "2026-02-26T08:49:27Z"
   },
   "astrbot_plugin_lark_send_patcher": {
     "desc": "通过猴子补丁的方式，优化了飞书Lark适配器下，机器人发送的消息引用太频繁的问题。现在飞书下所有的机器人回复从引用消息变更为直接发送。插件可能会随着astrbot本体版本更新，涉及到lark_adapter和lark_event重大更新时失效。",
@@ -10089,9 +10089,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 60,
+    "stars": 61,
     "version": "v1.1.0",
-    "updated_at": "2026-02-26T05:33:48Z",
+    "updated_at": "2026-02-26T07:33:56Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
@@ -12719,9 +12719,9 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_essential",
     "category": "娱乐游戏",
     "tags": [],
-    "stars": 38,
+    "stars": 39,
     "version": "v1.1.0",
-    "updated_at": "2026-02-05T01:50:06Z"
+    "updated_at": "2026-02-26T07:41:47Z"
   },
   "astrbot_plugin_rss": {
     "desc": "支持通过 RSSHub 路由和直接 URL 订阅 RSS 源，并定时获取最新的 RSS 内容，如推特、B站、油管、博客等任何支持 RSS 2.0 的网站。",
