@@ -145,8 +145,8 @@
     "social_link": "https://github.com/leafliber",
     "category": "AI增强",
     "stars": 8,
-    "version": "v1.7.2",
-    "updated_at": "2026-02-26T07:15:27Z",
+    "version": "v1.8.0",
+    "updated_at": "2026-02-26T11:22:04Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -738,9 +738,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 20,
+    "stars": 21,
     "version": "v1.3.1",
-    "updated_at": "2026-02-26T09:59:06Z"
+    "updated_at": "2026-02-26T11:27:22Z"
   },
   "astrbot_plugin_mc_duration": {
     "display_name": "MC魔人时长统计",
@@ -4689,9 +4689,9 @@
     "social_link": "https://github.com/wuxinTLH",
     "category": "效率工具",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "v0.0.7",
-    "updated_at": "2025-11-28T06:07:30Z"
+    "updated_at": "2026-02-26T11:21:20Z"
   },
   "astrbot_plugin_command2llm": {
     "display_name": "Command2LLM",
@@ -7029,8 +7029,8 @@
     "category": "外部集成",
     "tags": [],
     "stars": 39,
-    "version": "v2.2.6",
-    "updated_at": "2026-02-26T10:23:35Z"
+    "version": "v2.2.7",
+    "updated_at": "2026-02-26T11:32:19Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
