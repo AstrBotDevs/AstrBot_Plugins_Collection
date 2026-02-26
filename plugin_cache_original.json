@@ -88,7 +88,7 @@
     "category": "外部集成",
     "stars": 3,
     "version": "v1.3.1",
-    "updated_at": "2026-02-26T13:55:13Z",
+    "updated_at": "2026-02-26T21:56:33Z",
     "logo": "https://raw.githubusercontent.com/tniany/astrbot_plugin_web-screenshot/main/logo.png"
   },
   "astrbot-plugin-astrbot-enhance-mode": {
@@ -7193,9 +7193,9 @@
       "rag"
     ],
     "category": "AI增强",
-    "stars": 71,
+    "stars": 73,
     "version": "2.2.3",
-    "updated_at": "2026-02-24T03:44:46Z",
+    "updated_at": "2026-02-26T22:32:41Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
