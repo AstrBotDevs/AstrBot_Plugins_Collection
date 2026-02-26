@@ -28,7 +28,7 @@
     "category": "娱乐游戏",
     "stars": 0,
     "version": "v1.3.0",
-    "updated_at": "2026-02-24T18:57:29Z"
+    "updated_at": "2026-02-26T16:27:32Z"
   },
   "astrbot-plugin-memorix": {
     "display_name": "Memorix",
@@ -159,7 +159,7 @@
     "tags": [],
     "stars": 4,
     "version": "v0.0.3",
-    "updated_at": "2026-02-26T15:10:55Z",
+    "updated_at": "2026-02-26T16:18:06Z",
     "logo": "https://raw.githubusercontent.com/xiaomizhoubaobei/astrbot_plugin_manosaba-memes/main/logo.png"
   },
   "astrbot-plugin-soulmap": {
@@ -739,8 +739,8 @@
     "pinned": true,
     "category": "外部集成",
     "stars": 22,
-    "version": "v1.4.0",
-    "updated_at": "2026-02-26T15:43:35Z"
+    "version": "v1.4.1",
+    "updated_at": "2026-02-26T16:17:14Z"
   },
   "astrbot_plugin_mc_duration": {
     "display_name": "MC魔人时长统计",
@@ -2559,9 +2559,9 @@
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 137,
+    "stars": 138,
     "version": "Next-2.0.5",
-    "updated_at": "2026-02-26T07:16:13Z",
+    "updated_at": "2026-02-26T16:55:29Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -3878,9 +3878,9 @@
       "表情"
     ],
     "category": "AI增强",
-    "stars": 21,
+    "stars": 22,
     "version": "2.3.7",
-    "updated_at": "2026-02-26T15:21:05Z",
+    "updated_at": "2026-02-26T16:26:18Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -7029,8 +7029,8 @@
     "category": "外部集成",
     "tags": [],
     "stars": 39,
-    "version": "v2.2.9",
-    "updated_at": "2026-02-26T13:57:18Z"
+    "version": "v2.3.0",
+    "updated_at": "2026-02-26T16:25:13Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
