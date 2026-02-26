@@ -674,8 +674,8 @@
     ],
     "category": "效率工具",
     "stars": 5,
-    "version": "1.0.2",
-    "updated_at": "2026-02-25T12:14:02Z",
+    "version": "1.0.3",
+    "updated_at": "2026-02-26T06:56:32Z",
     "logo": "https://raw.githubusercontent.com/chufeng/astrbot_plugin_bili_resolver/main/logo.png"
   },
   "astrbot-plugin-inkfusion": {
@@ -1498,7 +1498,7 @@
     "tags": [],
     "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-02-20T12:52:08Z"
+    "updated_at": "2026-02-26T06:20:06Z"
   },
   "message_cleaner": {
     "display_name": "消息清洗器",
@@ -3329,9 +3329,9 @@
       "人格"
     ],
     "category": "AI增强",
-    "stars": 30,
+    "stars": 31,
     "version": "1.2.7",
-    "updated_at": "2026-02-25T12:09:55Z"
+    "updated_at": "2026-02-26T07:09:56Z"
   },
   "astrbot_plugin_angel_heart": {
     "display_name": "天使之心",
@@ -3344,9 +3344,9 @@
       "群聊优化"
     ],
     "category": "外部集成",
-    "stars": 36,
+    "stars": 37,
     "version": "0.8.12",
-    "updated_at": "2026-02-23T14:12:54Z"
+    "updated_at": "2026-02-26T07:10:20Z"
   },
   "astrbot_plugin_angel_eye": {
     "display_name": "天使之眼",
@@ -3399,9 +3399,9 @@
       "文件解析"
     ],
     "category": "AI增强",
-    "stars": 6,
+    "stars": 7,
     "version": "v3.1.0",
-    "updated_at": "2026-02-24T06:49:46Z"
+    "updated_at": "2026-02-26T06:08:15Z"
   },
   "astrbot_plugin_reminder": {
     "display_name": "定时提醒插件",
@@ -3755,9 +3755,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 59,
+    "stars": 60,
     "version": "v1.3.0",
-    "updated_at": "2026-02-24T16:15:01Z",
+    "updated_at": "2026-02-26T07:02:09Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -9131,9 +9131,9 @@
     "social_link": "https://github.com/railgun19457",
     "category": "AI增强",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "v1.5.0",
-    "updated_at": "2025-12-27T18:12:17Z",
+    "updated_at": "2026-02-26T06:06:22Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_shutup/master/logo.png"
   },
   "astrbot_plugin_check-dst-room": {
