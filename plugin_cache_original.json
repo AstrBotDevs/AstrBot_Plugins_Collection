@@ -146,7 +146,7 @@
     "category": "AI增强",
     "stars": 7,
     "version": "v1.7.2",
-    "updated_at": "2026-02-25T18:27:34Z",
+    "updated_at": "2026-02-26T03:53:22Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -509,9 +509,9 @@
     "social_link": "www.chuyel.cn",
     "category": "外部集成",
     "tags": [],
-    "stars": 7,
+    "stars": 8,
     "version": "v1.0.7",
-    "updated_at": "2026-02-25T14:26:47Z",
+    "updated_at": "2026-02-26T04:00:20Z",
     "logo": "https://raw.githubusercontent.com/chuyegzs/astrbot_plugin_meting/main/logo.png"
   },
   "astrbot-plugin-comfyui": {
@@ -738,9 +738,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 19,
+    "stars": 20,
     "version": "v1.3.1",
-    "updated_at": "2026-02-25T18:03:19Z"
+    "updated_at": "2026-02-26T04:41:24Z"
   },
   "astrbot_plugin_mc_duration": {
     "display_name": "MC魔人时长统计",
@@ -1910,8 +1910,8 @@
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
     "stars": 179,
-    "version": "v4.7.14",
-    "updated_at": "2026-02-25T16:44:15Z",
+    "version": "v4.7.15",
+    "updated_at": "2026-02-26T03:55:19Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -2353,7 +2353,7 @@
     "category": "娱乐游戏",
     "stars": 9,
     "version": "v1.2",
-    "updated_at": "2026-02-20T03:04:36Z",
+    "updated_at": "2026-02-26T02:44:42Z",
     "logo": "https://raw.githubusercontent.com/kennylimz/astrbot_plugin_mudae_qq/main/logo.png"
   },
   "BUGJI/astrbot_plugin_balance": {
@@ -3049,9 +3049,9 @@
     "repo": "https://github.com/204343414/astrbot_plugin_yt-dlp",
     "category": "效率工具",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "1.0.1",
-    "updated_at": "2026-02-23T18:07:19Z",
+    "updated_at": "2026-02-26T02:29:13Z",
     "logo": "https://raw.githubusercontent.com/204343414/astrbot_plugin_yt-dlp/master/logo.png"
   },
   "astrbot_plugin_yotts": {
@@ -7029,8 +7029,8 @@
     "category": "外部集成",
     "tags": [],
     "stars": 39,
-    "version": "v2.2.0",
-    "updated_at": "2026-02-25T19:54:07Z"
+    "version": "v2.2.5",
+    "updated_at": "2026-02-26T04:32:11Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -7661,9 +7661,9 @@
       "娱乐"
     ],
     "category": "娱乐游戏",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-01-07T11:45:23Z"
+    "updated_at": "2026-02-26T03:18:18Z"
   },
   "astrbot_plugin_ctx_trimmer": {
     "desc": "按照 Token 丢弃对话的插件",
@@ -10624,9 +10624,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "外部集成",
-    "stars": 156,
+    "stars": 157,
     "version": "v3.0.2",
-    "updated_at": "2026-02-25T16:18:24Z",
+    "updated_at": "2026-02-26T02:58:06Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
