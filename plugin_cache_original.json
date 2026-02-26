@@ -1909,9 +1909,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
-    "stars": 183,
+    "stars": 184,
     "version": "v4.7.15",
-    "updated_at": "2026-02-26T08:51:54Z",
+    "updated_at": "2026-02-26T19:53:36Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -8022,9 +8022,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 66,
+    "stars": 67,
     "version": "v3.0.3",
-    "updated_at": "2026-02-25T15:56:47Z",
+    "updated_at": "2026-02-26T20:33:48Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
