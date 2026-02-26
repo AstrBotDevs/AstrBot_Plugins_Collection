@@ -740,7 +740,7 @@
     "category": "外部集成",
     "stars": 20,
     "version": "v1.3.1",
-    "updated_at": "2026-02-26T09:41:12Z"
+    "updated_at": "2026-02-26T09:59:06Z"
   },
   "astrbot_plugin_mc_duration": {
     "display_name": "MC魔人时长统计",
@@ -2648,7 +2648,7 @@
     "category": "AI增强",
     "stars": 4,
     "version": "v1.2.4",
-    "updated_at": "2026-02-25T13:08:09Z",
+    "updated_at": "2026-02-26T10:03:01Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -7029,8 +7029,8 @@
     "category": "外部集成",
     "tags": [],
     "stars": 39,
-    "version": "v2.2.5",
-    "updated_at": "2026-02-26T09:27:55Z"
+    "version": "v2.2.6",
+    "updated_at": "2026-02-26T10:23:35Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -8447,7 +8447,7 @@
     "category": "娱乐游戏",
     "stars": 4,
     "version": "0.0.3",
-    "updated_at": "2026-02-26T09:04:32Z",
+    "updated_at": "2026-02-26T10:33:37Z",
     "logo": "https://raw.githubusercontent.com/xiaomizhoubaobei/astrbot_plugin_treasure_bag/main/logo.png"
   },
   "LiteBridge": {
@@ -9287,9 +9287,9 @@
     ],
     "social_link": "https://github.com/oyxning",
     "category": "AI增强",
-    "stars": 46,
+    "stars": 47,
     "version": "v3.5.1",
-    "updated_at": "2026-02-25T09:09:17Z",
+    "updated_at": "2026-02-26T09:55:22Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_antipromptinjector/master/logo.png"
   },
   "astrbot_plugin_alistfile": {
