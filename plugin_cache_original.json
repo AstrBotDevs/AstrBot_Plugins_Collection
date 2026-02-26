@@ -738,9 +738,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 23,
+    "stars": 24,
     "version": "v1.4.1",
-    "updated_at": "2026-02-26T18:33:06Z"
+    "updated_at": "2026-02-26T21:01:46Z"
   },
   "astrbot_plugin_mc_duration": {
     "display_name": "MC魔人时长统计",
