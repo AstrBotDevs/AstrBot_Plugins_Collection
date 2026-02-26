@@ -552,9 +552,9 @@
       "数据查询"
     ],
     "category": "外部集成",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.2.0",
-    "updated_at": "2026-02-21T11:55:25Z",
+    "updated_at": "2026-02-26T05:18:35Z",
     "logo": "https://raw.githubusercontent.com/qsc20001102/astrbot_plugin_jx3/main/logo.png"
   },
   "astrbot-plugin-zirunbi": {
@@ -1439,9 +1439,9 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "category": "娱乐游戏",
-    "stars": 10,
+    "stars": 11,
     "version": "v3.0.2",
-    "updated_at": "2026-02-15T12:40:02Z",
+    "updated_at": "2026-02-26T05:43:42Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
@@ -1909,9 +1909,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
-    "stars": 179,
+    "stars": 180,
     "version": "v4.7.15",
-    "updated_at": "2026-02-26T03:55:19Z",
+    "updated_at": "2026-02-26T05:34:29Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -2559,9 +2559,9 @@
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 135,
+    "stars": 136,
     "version": "Next-2.0.5",
-    "updated_at": "2026-02-25T17:00:00Z",
+    "updated_at": "2026-02-26T05:00:50Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -5968,9 +5968,9 @@
     ],
     "social_link": "https://github.com/CCYellowStar2",
     "category": "外部集成",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.0.0",
-    "updated_at": "2026-01-17T19:37:56Z"
+    "updated_at": "2026-02-26T05:06:51Z"
   },
   "astrbot_plugin_video_sora2": {
     "display_name": "sora2",
@@ -10089,9 +10089,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 59,
+    "stars": 60,
     "version": "v1.1.0",
-    "updated_at": "2026-02-14T04:19:46Z",
+    "updated_at": "2026-02-26T05:33:48Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
@@ -10624,9 +10624,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "外部集成",
-    "stars": 157,
+    "stars": 158,
     "version": "v3.0.2",
-    "updated_at": "2026-02-26T02:58:06Z",
+    "updated_at": "2026-02-26T05:31:44Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
