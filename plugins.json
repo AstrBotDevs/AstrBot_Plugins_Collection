@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-memos-pusher": {
+    "display_name": "Memos 灵感推送",
+    "desc": "快速将灵感推送到 Memos，支持 /memo 指令。",
+    "author": "penguinway",
+    "repo": "https://github.com/penguinway/astrbot_plugin_memos_pusher",
+    "tags": [
+      "memos",
+      "功能",
+      "工具"
+    ],
+    "social_link": "https://github.com/penguinway"
+  },
   "astrbot-plugin-livepulse": {
     "display_name": "LivePulse",
     "desc": "Multi-platform live stream monitor for YouTube, Twitch, and Bilibili.",
