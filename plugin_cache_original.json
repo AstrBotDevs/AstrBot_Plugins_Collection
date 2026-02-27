@@ -1,4 +1,80 @@
 {
+  "astrbot-plugin-fishing-again": {
+    "display_name": "Fishing Again!",
+    "desc": "forked from 0xNMLSS/astrbot_plugin_fishing，原作因工作原因停止维护，我尝试接手后续开发，兼容原存档。能力微弱也许存在大量Bug请提Issues，至于功能大概是想到什么加什么也许会逐渐偏离钓鱼走向综合（感谢前辈们编写的钓鱼系统）",
+    "author": "Akiyo-dayo",
+    "repo": "https://github.com/Akiyo-dayo/astrbot_plugin_fishing",
+    "tags": [
+      "fishing",
+      "钓鱼",
+      "骰宝"
+    ],
+    "social_link": "https://github.com/Akiyo-dayo",
+    "stars": 1,
+    "version": "2.4.92",
+    "updated_at": "2026-02-20T23:02:49Z",
+    "logo": "https://raw.githubusercontent.com/Akiyo-dayo/astrbot_plugin_fishing/main/logo.png"
+  },
+  "astrbot-plugin-deobfuscation": {
+    "display_name": "小番茄混淆",
+    "desc": "小番茄图片混淆/解混淆插件，基于Gilbert 2D空间填充曲线算法",
+    "author": "Tairitsu_nya",
+    "repo": "https://github.com/qingyuan114514/astrbot_plugin_deobfuscation",
+    "tags": [],
+    "social_link": "",
+    "stars": 0,
+    "version": "1.2.0",
+    "updated_at": "2026-02-22T08:08:29Z"
+  },
+  "w2902171175/astrbot-plugin-GPT-SoVITS": {
+    "display_name": "astrbot_plugin_GPT-SoVITS",
+    "desc": "本地运行的 GPT-SoVITS-1007-cu124 的 Astrbot 文本转语音插件。",
+    "author": "w2902171175",
+    "repo": "https://github.com/w2902171175/astrbot_plugin_GPT-SoVITS",
+    "tags": [
+      "TTS",
+      "AI",
+      "文本转语音",
+      "GPT SoVITS",
+      "语音合成"
+    ],
+    "social_link": "https://github.com/w2902171175",
+    "stars": 1,
+    "version": "v1.0.0",
+    "updated_at": "2026-02-25T07:05:06Z"
+  },
+  "astrbot-plugin-custome-segment-reply": {
+    "display_name": "自定义断句回复插件",
+    "desc": "纯本地规则智能分段回复插件。通过自定义字数、标点优先级、超长降级等规则实现极速断句，彻底告别AI大模型延迟，零成本且更稳定。",
+    "author": "LinJohn8",
+    "repo": "https://github.com/LinJohn8/astrbot_plugin_custome_segment_reply",
+    "tags": [
+      "分段",
+      "工具",
+      "对话",
+      "分段回复"
+    ],
+    "social_link": "https://github.com/LinJohn8",
+    "stars": 1,
+    "version": "1.0.0",
+    "updated_at": "2026-02-25T17:06:48Z",
+    "logo": "https://raw.githubusercontent.com/LinJohn8/astrbot_plugin_custome_segment_reply/main/logo.png"
+  },
+  "astrbot-plugin-alteration-notifier": {
+    "display_name": "插件变更提醒",
+    "desc": "再也不想看到有人输入一串奇怪的指令但是机器人没有响应导致陷入尴尬的境地？本插件可以及时通知机器人使用者插件的变更。",
+    "author": "PyuraMazo",
+    "repo": "https://github.com/PyuraMazo/astrbot_plugin_alteration_notifier",
+    "tags": [
+      "插件管理",
+      "提醒"
+    ],
+    "social_link": "https://github.com/PyuraMazo",
+    "stars": 0,
+    "version": "v1.0.2",
+    "updated_at": "2026-02-27T02:23:34Z",
+    "logo": "https://raw.githubusercontent.com/PyuraMazo/astrbot_plugin_alteration_notifier/master/logo.png"
+  },
   "astrbot-plugin-sl-query": {
     "display_name": "SCP:SL 服务器查询插件",
     "desc": "通过 ServerKey 查询 SCP:SL 服务器信息",
@@ -49,7 +125,7 @@
     ],
     "stars": 0,
     "version": "1.0.0",
-    "updated_at": "2026-02-27T08:32:28Z",
+    "updated_at": "2026-02-27T10:20:37Z",
     "logo": "https://raw.githubusercontent.com/Soffd/astrbot_plugin_yunhuAdapter/main/logo.png"
   },
   "astrbot-plugin-manbo-tts": {
@@ -312,7 +388,7 @@
     "category": "娱乐游戏",
     "stars": 3,
     "version": "v0.0.1",
-    "updated_at": "2026-02-27T09:41:23Z",
+    "updated_at": "2026-02-27T10:06:37Z",
     "logo": "https://raw.githubusercontent.com/moemoli/astrbot_plugin_warframe_helper/master/logo.png"
   },
   "astrbot-plugin-trello": {
@@ -863,8 +939,8 @@
     "pinned": true,
     "category": "外部集成",
     "stars": 25,
-    "version": "v1.4.2",
-    "updated_at": "2026-02-27T08:05:04Z"
+    "version": "v1.4.3",
+    "updated_at": "2026-02-27T10:28:05Z"
   },
   "astrbot_plugin_mc_duration": {
     "display_name": "MC魔人时长统计",
@@ -1377,8 +1453,8 @@
     "category": "AI增强",
     "tags": [],
     "stars": 2,
-    "version": "1.3.0",
-    "updated_at": "2026-02-23T13:15:56Z"
+    "version": "1.4.0",
+    "updated_at": "2026-02-27T09:54:50Z"
   },
   "astrbot_plugin_opencode": {
     "display_name": "OpenCode Bridge",
