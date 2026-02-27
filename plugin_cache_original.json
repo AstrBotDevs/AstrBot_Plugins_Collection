@@ -1,4 +1,128 @@
 {
+  "astrbot-plugin-sl-query": {
+    "display_name": "SCP:SL 服务器查询插件",
+    "desc": "通过 ServerKey 查询 SCP:SL 服务器信息",
+    "author": "DNT_OF",
+    "repo": "https://github.com/DNTOF/astrbot_plugin_sl_query",
+    "tags": [
+      "api"
+    ],
+    "social_link": "https://github.com/DNTOF",
+    "stars": 1,
+    "version": "v1.0.1",
+    "updated_at": "2026-02-27T04:31:23Z"
+  },
+  "astrbot-plugin-sky": {
+    "display_name": "sky光遇助手",
+    "desc": "这是一个为光遇玩家打造的智能助手插件。（移植于Yunzai-bot的Tlon-Sky插件，并加入LLM大模型调用）\n\n无论你是想了解今日任务、查询光翼收集进度，还是想知道服务器排队情况——只需在QQ发送一条消息，即可快速获取光遇游戏相关信息。\n\n支持自然语言交互，直接问\"今天光遇有什么任务？\"，AI 会自动调用相应功能回复你。",
+    "author": "wzq10314",
+    "repo": "https://github.com/wzq10314/astrbot_plugin_sky",
+    "tags": [
+      "光遇",
+      "游戏",
+      "sky"
+    ],
+    "stars": 0,
+    "version": "2.0.0",
+    "updated_at": "2026-02-27T05:01:58Z",
+    "logo": "https://raw.githubusercontent.com/wzq10314/astrbot_plugin_sky/main/logo.png"
+  },
+  "astrbot-plugin-animatedemoji": {
+    "display_name": " Animated Emoji",
+    "desc": "将静态 emoji 转换为动态 emoji，支持 Google Noto 和 Telegram 两种动态方案。",
+    "author": "camera-2018",
+    "repo": "https://github.com/camera-2018/astrbot_plugin_animatedemoji",
+    "social_link": "https://github.com/camera-2018",
+    "tags": [],
+    "stars": 1,
+    "version": "v1.0.0",
+    "updated_at": "2026-02-25T17:47:04Z"
+  },
+  "astrbot-plugin-yunhuAdapter": {
+    "display_name": "云湖机器人平台适配器",
+    "desc": "将 AstrBot 接入云湖机器人平台的插件，通过 WebSocket 与云湖 SDK 桥接通信。",
+    "author": "Yuki Soffd",
+    "repo": "https://github.com/Soffd/astrbot_plugin_yunhuAdapter",
+    "tags": [
+      "云湖",
+      "平台适配器"
+    ],
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-02-27T08:32:28Z",
+    "logo": "https://raw.githubusercontent.com/Soffd/astrbot_plugin_yunhuAdapter/main/logo.png"
+  },
+  "astrbot-plugin-manbo-tts": {
+    "display_name": "manbo-tts",
+    "desc": "基于外部API：https://api.milorapart.top/apis/mbAIsc 提供曼波语音信息生成",
+    "author": "zoffyultraman",
+    "repo": "https://github.com/zoffyultraman/astrbot_plugin_manbo-tts",
+    "social_link": "https://github.com/zoffyultraman",
+    "tags": [],
+    "stars": 0,
+    "version": "v1.0.3",
+    "updated_at": "2026-02-27T03:54:33Z",
+    "logo": "https://raw.githubusercontent.com/zoffyultraman/astrbot_plugin_manbo-tts/main/logo.png"
+  },
+  "astrbot-plugin-steammod-monitor": {
+    "display_name": "steam创意工坊检测/服主开服工具",
+    "desc": "用于监控steam的创意工坊和mod状态变更，并在状态变化时推送通知。硬核游戏服主（僵尸毁灭工程、方舟、Rust等）打造的“赛博网监”级 AstrBot 插件。 彻底告别“玩家进不去服务器才发现模组更新”的窘境，实现全自动更新预警与优雅的群组推送和管理！",
+    "author": "danfong1104",
+    "repo": "https://github.com/danfong1104/astrbot_plugin_steammod_monitor",
+    "tags": [
+      "steam"
+    ],
+    "stars": 0,
+    "version": "5.3.1",
+    "updated_at": "2026-02-27T02:48:01Z"
+  },
+  "astrbot-plugin-memos-pusher": {
+    "display_name": "Memos 灵感推送",
+    "desc": "快速将灵感推送到 Memos，支持 /memo 指令。",
+    "author": "penguinway",
+    "repo": "https://github.com/penguinway/astrbot_plugin_memos_pusher",
+    "tags": [
+      "memos",
+      "功能",
+      "工具"
+    ],
+    "social_link": "https://github.com/penguinway",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-02-27T04:14:29Z"
+  },
+  "astrbot-plugin-livepulse": {
+    "display_name": "LivePulse",
+    "desc": "Multi-platform live stream monitor for YouTube, Twitch, and Bilibili.",
+    "author": "Xyfer",
+    "repo": "https://github.com/cxyfer/astrbot_plugin_livepulse",
+    "tags": [
+      "直播",
+      "Bilibili",
+      "YouTube",
+      "Twitch"
+    ],
+    "social_link": "https://github.com/cxyfer",
+    "stars": 0,
+    "version": "v1.1.5",
+    "updated_at": "2026-02-27T04:23:30Z",
+    "logo": "https://raw.githubusercontent.com/cxyfer/astrbot_plugin_livepulse/master/logo.png"
+  },
+  "astrbot-plugin-bookkeeper": {
+    "display_name": "自动记账",
+    "desc": "AI 自动记账：通过 LLM 工具调用自动识别消息中的消费事实并记账\n手动查询：支持查询当日、当月、自定义日期范围的账单\n分类汇总：按消费项分类统计金额和笔数\n记录管理：支持删除指定序号的记录\n白名单管理：支持白名单开关、管理员绕过、用户增删查\n定时推送：支持每日/每月定时发送账单汇总\n时区配置：支持自定义 IANA 时区",
+    "author": "橘猫",
+    "repo": "https://github.com/IwannaYuJie/astrbot_plugin_bookkeeper.git",
+    "tags": [
+      "记账",
+      "生活助手",
+      "财务"
+    ],
+    "social_link": "https://github.com/IwannaYuJie",
+    "stars": 0,
+    "version": "0.1.0",
+    "updated_at": "2026-02-27T07:44:16Z"
+  },
   "astrbot-plugin-bookkeeping": {
     "display_name": "日常记账",
     "desc": "一个功能完善的个人记账插件，支持支出/收入记录、统计分析、AI财务建议等功能。",
@@ -188,7 +312,7 @@
     "category": "娱乐游戏",
     "stars": 3,
     "version": "v0.0.1",
-    "updated_at": "2026-02-24T20:58:56Z",
+    "updated_at": "2026-02-27T09:41:23Z",
     "logo": "https://raw.githubusercontent.com/moemoli/astrbot_plugin_warframe_helper/master/logo.png"
   },
   "astrbot-plugin-trello": {
@@ -1241,9 +1365,9 @@
     ],
     "social_link": "https://github.com/FenChen0211",
     "category": "AI增强",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.1",
-    "updated_at": "2026-02-17T07:16:36Z"
+    "updated_at": "2026-02-27T08:59:10Z"
   },
   "astrbot_plugin_html_render": {
     "display_name": "HTML 渲染插件",
@@ -2000,9 +2124,9 @@
       "抖音"
     ],
     "category": "效率工具",
-    "stars": 7,
-    "version": "v1.0.5",
-    "updated_at": "2026-02-27T08:10:28Z"
+    "stars": 8,
+    "version": "v1.0.6",
+    "updated_at": "2026-02-27T09:24:56Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -2559,9 +2683,9 @@
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 140,
+    "stars": 142,
     "version": "Next-2.0.5",
-    "updated_at": "2026-02-27T06:16:53Z",
+    "updated_at": "2026-02-27T09:02:49Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -2885,9 +3009,9 @@
       "E621"
     ],
     "category": "效率工具",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2025-12-06T11:35:21Z"
+    "updated_at": "2026-02-27T09:08:38Z"
   },
   "astrbot_plugin_file_manager": {
     "display_name": "AstrBot 文件夹文件管理插件",
@@ -4819,7 +4943,7 @@
     "category": "外部集成",
     "stars": 8,
     "version": "2.0.2",
-    "updated_at": "2026-02-22T16:50:04Z",
+    "updated_at": "2026-02-27T08:59:07Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_minecraft_adapter/master/logo.png"
   },
   "astrbot_plugin_temp-email": {
@@ -5400,9 +5524,9 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "AI增强",
-    "stars": 47,
+    "stars": 48,
     "version": "v1.2.0",
-    "updated_at": "2026-02-26T17:49:36Z",
+    "updated_at": "2026-02-27T08:54:36Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -12489,9 +12613,9 @@
     ],
     "pinned": true,
     "category": "效率工具",
-    "stars": 150,
+    "stars": 151,
     "version": "v3.19",
-    "updated_at": "2026-02-26T13:41:49Z"
+    "updated_at": "2026-02-27T09:04:19Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
