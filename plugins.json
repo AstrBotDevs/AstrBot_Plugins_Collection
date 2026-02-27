@@ -1,4 +1,17 @@
 {
+  "astrbot-plugin-custome-segment-reply": {
+    "display_name": "自定义断句回复插件",
+    "desc": "纯本地规则智能分段回复插件。通过自定义字数、标点优先级、超长降级等规则实现极速断句，彻底告别AI大模型延迟，零成本且更稳定。",
+    "author": "LinJohn8",
+    "repo": "https://github.com/LinJohn8/astrbot_plugin_custome_segment_reply",
+    "tags": [
+      "分段",
+      "工具",
+      "对话",
+      "分段回复"
+    ],
+    "social_link": "https://github.com/LinJohn8"
+  },
   "astrbot-plugin-alteration-notifier": {
     "display_name": "插件变更提醒",
     "desc": "再也不想看到有人输入一串奇怪的指令但是机器人没有响应导致陷入尴尬的境地？本插件可以及时通知机器人使用者插件的变更。",
