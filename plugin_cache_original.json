@@ -941,7 +941,7 @@
     "category": "外部集成",
     "stars": 26,
     "version": "v1.4.3",
-    "updated_at": "2026-02-27T15:58:45Z",
+    "updated_at": "2026-02-27T17:23:32Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -1175,8 +1175,8 @@
     ],
     "category": "娱乐游戏",
     "stars": 3,
-    "version": "v1.2.4",
-    "updated_at": "2026-02-27T15:49:15Z",
+    "version": "v1.2.5",
+    "updated_at": "2026-02-27T17:18:34Z",
     "logo": "https://raw.githubusercontent.com/DearCrazyLeaf/astrbot_plugin_steam_updates/master/logo.png"
   },
   "astrbot_plugin_codemage": {
@@ -1270,9 +1270,9 @@
       "娱乐"
     ],
     "category": "AI增强",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0.0",
-    "updated_at": "2026-02-19T06:24:00Z"
+    "updated_at": "2026-02-27T17:20:47Z"
   },
   "astrbot_plugin_elves_world": {
     "display_name": "精灵世界",
@@ -2111,9 +2111,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
-    "stars": 184,
+    "stars": 185,
     "version": "v4.7.15",
-    "updated_at": "2026-02-26T19:53:36Z",
+    "updated_at": "2026-02-27T17:03:10Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -7395,9 +7395,9 @@
       "rag"
     ],
     "category": "AI增强",
-    "stars": 75,
+    "stars": 76,
     "version": "2.2.3",
-    "updated_at": "2026-02-27T08:39:43Z",
+    "updated_at": "2026-02-27T17:19:50Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -7606,9 +7606,9 @@
     "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
     "category": "AI增强",
     "tags": [],
-    "stars": 39,
+    "stars": 40,
     "version": "v1.0.4",
-    "updated_at": "2026-02-21T12:08:51Z"
+    "updated_at": "2026-02-27T17:31:34Z"
   },
   "astrbot_plugin_vtb_adapter": {
     "desc": "用于连接 AstrBot 与 Open LLM Vtuber，除安装插件外还需要修改 Open LLM Vtuber 中的相关文件",
@@ -8119,9 +8119,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "效率工具",
-    "stars": 33,
+    "stars": 34,
     "version": "v2.1.6",
-    "updated_at": "2026-02-25T11:57:03Z",
+    "updated_at": "2026-02-27T17:34:50Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -9489,9 +9489,9 @@
     ],
     "social_link": "https://github.com/oyxning",
     "category": "AI增强",
-    "stars": 47,
+    "stars": 48,
     "version": "v3.5.1",
-    "updated_at": "2026-02-26T09:55:22Z",
+    "updated_at": "2026-02-27T17:25:56Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_antipromptinjector/master/logo.png"
   },
   "astrbot_plugin_alistfile": {
@@ -9933,9 +9933,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 108,
+    "stars": 109,
     "version": "v2.0.7",
-    "updated_at": "2026-02-27T15:14:32Z",
+    "updated_at": "2026-02-27T17:03:30Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -10499,9 +10499,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "AI增强",
-    "stars": 48,
+    "stars": 49,
     "version": "v2.0.3",
-    "updated_at": "2026-02-24T16:28:14Z",
+    "updated_at": "2026-02-27T17:25:48Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_pokepro/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
@@ -12578,9 +12578,9 @@
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
     "category": "效率工具",
-    "stars": 105,
+    "stars": 106,
     "version": "v2.1.11",
-    "updated_at": "2026-02-27T15:10:37Z"
+    "updated_at": "2026-02-27T17:13:09Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
@@ -12921,9 +12921,9 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_essential",
     "category": "娱乐游戏",
     "tags": [],
-    "stars": 39,
+    "stars": 40,
     "version": "v1.1.0",
-    "updated_at": "2026-02-26T07:41:47Z"
+    "updated_at": "2026-02-27T17:31:28Z"
   },
   "astrbot_plugin_rss": {
     "desc": "支持通过 RSSHub 路由和直接 URL 订阅 RSS 源，并定时获取最新的 RSS 内容，如推特、B站、油管、博客等任何支持 RSS 2.0 的网站。",
