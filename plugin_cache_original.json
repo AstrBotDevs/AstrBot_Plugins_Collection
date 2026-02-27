@@ -2002,7 +2002,7 @@
     "category": "效率工具",
     "stars": 7,
     "version": "v1.0.5",
-    "updated_at": "2026-02-27T06:20:06Z"
+    "updated_at": "2026-02-27T07:34:21Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -3755,9 +3755,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 60,
+    "stars": 61,
     "version": "v1.3.0",
-    "updated_at": "2026-02-26T07:02:09Z",
+    "updated_at": "2026-02-27T07:31:09Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -3878,9 +3878,9 @@
       "表情"
     ],
     "category": "AI增强",
-    "stars": 23,
+    "stars": 24,
     "version": "2.3.7",
-    "updated_at": "2026-02-27T06:16:33Z",
+    "updated_at": "2026-02-27T07:22:48Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -7193,9 +7193,9 @@
       "rag"
     ],
     "category": "AI增强",
-    "stars": 73,
+    "stars": 74,
     "version": "2.2.3",
-    "updated_at": "2026-02-26T22:32:41Z",
+    "updated_at": "2026-02-27T07:35:26Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -11965,9 +11965,9 @@
       "实用工具"
     ],
     "category": "效率工具",
-    "stars": 33,
+    "stars": 34,
     "version": "v3.0.1",
-    "updated_at": "2026-02-27T04:02:23Z",
+    "updated_at": "2026-02-27T07:28:48Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
@@ -12443,9 +12443,9 @@
       "搬史"
     ],
     "category": "外部集成",
-    "stars": 507,
+    "stars": 508,
     "version": "v0.916",
-    "updated_at": "2026-02-23T14:12:14Z"
+    "updated_at": "2026-02-27T07:29:38Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
