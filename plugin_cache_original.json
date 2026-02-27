@@ -3726,9 +3726,9 @@
     ],
     "social_link": "https://github.com/Xbodwf",
     "category": "效率工具",
-    "stars": 3,
+    "stars": 4,
     "version": "1.29.0",
-    "updated_at": "2026-02-15T14:05:16Z"
+    "updated_at": "2026-02-27T01:23:59Z"
   },
   "astrbot_plugin_QQbox": {
     "display_name": "QQbox",
@@ -4427,9 +4427,9 @@
     ],
     "social_link": "https://www.misakanet.site",
     "category": "AI增强",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.3.1",
-    "updated_at": "2026-01-22T07:08:21Z",
+    "updated_at": "2026-02-27T01:33:01Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_gemini_image/master/logo.png"
   },
   "astrbot_plugin_gemini_image_generation": {
