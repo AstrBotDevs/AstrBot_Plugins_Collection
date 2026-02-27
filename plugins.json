@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-fishing-again": {
+    "display_name": "Fishing Again!",
+    "desc": "forked from 0xNMLSS/astrbot_plugin_fishing，原作因工作原因停止维护，我尝试接手后续开发，兼容原存档。能力微弱也许存在大量Bug请提Issues，至于功能大概是想到什么加什么也许会逐渐偏离钓鱼走向综合（感谢前辈们编写的钓鱼系统）",
+    "author": "Akiyo-dayo",
+    "repo": "https://github.com/Akiyo-dayo/astrbot_plugin_fishing",
+    "tags": [
+      "fishing",
+      "钓鱼",
+      "骰宝"
+    ],
+    "social_link": "https://github.com/Akiyo-dayo"
+  },
   "astrbot-plugin-deobfuscation": {
     "display_name": "小番茄混淆",
     "desc": "小番茄图片混淆/解混淆插件，基于Gilbert 2D空间填充曲线算法",
