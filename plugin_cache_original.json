@@ -738,9 +738,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 24,
+    "stars": 25,
     "version": "v1.4.1",
-    "updated_at": "2026-02-26T21:01:46Z"
+    "updated_at": "2026-02-27T03:39:46Z"
   },
   "astrbot_plugin_mc_duration": {
     "display_name": "MC魔人时长统计",
@@ -892,8 +892,8 @@
     ],
     "category": "娱乐游戏",
     "stars": 4,
-    "version": "v1.0.2",
-    "updated_at": "2026-02-23T18:14:11Z",
+    "version": "v1.0.3",
+    "updated_at": "2026-02-27T04:40:33Z",
     "logo": "https://raw.githubusercontent.com/qsc20001102/astrbot_plugin_gok/master/logo.png"
   },
   "astrbot_plugin_lyrics_trigger": {
@@ -2002,7 +2002,7 @@
     "category": "效率工具",
     "stars": 7,
     "version": "v1.0.5",
-    "updated_at": "2026-02-25T11:44:05Z"
+    "updated_at": "2026-02-27T04:16:16Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -4025,9 +4025,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "AI增强",
-    "stars": 41,
+    "stars": 42,
     "version": "v4.1.2",
-    "updated_at": "2026-02-25T05:59:54Z",
+    "updated_at": "2026-02-27T03:38:13Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -4443,9 +4443,9 @@
     ],
     "social_link": "https://github.com/piexian",
     "category": "AI增强",
-    "stars": 24,
+    "stars": 25,
     "version": "v1.9.3",
-    "updated_at": "2026-02-21T03:42:29Z",
+    "updated_at": "2026-02-27T04:07:58Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -7240,9 +7240,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "外部集成",
-    "stars": 10,
+    "stars": 11,
     "version": "v2.0.1",
-    "updated_at": "2026-02-24T18:57:02Z",
+    "updated_at": "2026-02-27T02:50:16Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_recall_cancel/main/logo.png"
   },
   "astrbot_plugin_multimsg": {
@@ -8190,9 +8190,9 @@
       "海龟汤"
     ],
     "category": "AI增强",
-    "stars": 18,
+    "stars": 19,
     "version": "v1.0.3",
-    "updated_at": "2026-01-09T03:35:55Z"
+    "updated_at": "2026-02-27T02:37:35Z"
   },
   "astrbot_plugin_typst_render": {
     "name": "astrbot_plugin_typst_render",
@@ -10813,9 +10813,9 @@
     ],
     "social_link": "https://github.com/vmoranv-reborn",
     "category": "娱乐游戏",
-    "stars": 11,
+    "stars": 12,
     "version": "1.7.2",
-    "updated_at": "2026-02-25T09:18:17Z",
+    "updated_at": "2026-02-27T02:57:55Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
@@ -11965,9 +11965,9 @@
       "实用工具"
     ],
     "category": "效率工具",
-    "stars": 32,
+    "stars": 33,
     "version": "v3.0.1",
-    "updated_at": "2026-02-25T12:51:59Z",
+    "updated_at": "2026-02-27T04:02:23Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
