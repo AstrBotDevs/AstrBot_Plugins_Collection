@@ -99,8 +99,8 @@
       "sky"
     ],
     "stars": 0,
-    "version": "2.0.0",
-    "updated_at": "2026-02-27T05:01:58Z",
+    "version": "2.1.0",
+    "updated_at": "2026-02-27T14:49:13Z",
     "logo": "https://raw.githubusercontent.com/wzq10314/astrbot_plugin_sky/main/logo.png"
   },
   "astrbot-plugin-animatedemoji": {
@@ -125,7 +125,7 @@
     ],
     "stars": 0,
     "version": "1.0.0",
-    "updated_at": "2026-02-27T10:20:37Z",
+    "updated_at": "2026-02-27T15:02:08Z",
     "logo": "https://raw.githubusercontent.com/Soffd/astrbot_plugin_yunhuAdapter/main/logo.png"
   },
   "astrbot-plugin-manbo-tts": {
@@ -179,9 +179,9 @@
       "Twitch"
     ],
     "social_link": "https://github.com/cxyfer",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.1.5",
-    "updated_at": "2026-02-27T14:01:27Z",
+    "updated_at": "2026-02-27T15:02:10Z",
     "logo": "https://raw.githubusercontent.com/cxyfer/astrbot_plugin_livepulse/master/logo.png"
   },
   "astrbot-plugin-bookkeeper": {
@@ -1175,7 +1175,7 @@
     "category": "娱乐游戏",
     "stars": 3,
     "version": "v1.2.4",
-    "updated_at": "2026-02-27T14:14:24Z",
+    "updated_at": "2026-02-27T15:13:48Z",
     "logo": "https://raw.githubusercontent.com/DearCrazyLeaf/astrbot_plugin_steam_updates/master/logo.png"
   },
   "astrbot_plugin_codemage": {
@@ -3030,7 +3030,7 @@
     "tags": [],
     "stars": 5,
     "version": "v0.0.6",
-    "updated_at": "2026-02-27T14:10:37Z",
+    "updated_at": "2026-02-27T15:14:31Z",
     "logo": "https://raw.githubusercontent.com/xiaomizhoubaobei/astrbot_plugin_models_ai/main/logo.png"
   },
   "astrbot_plugin_monixiuxian2": {
@@ -3956,9 +3956,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 61,
+    "stars": 62,
     "version": "v1.3.0",
-    "updated_at": "2026-02-27T07:31:09Z",
+    "updated_at": "2026-02-27T15:10:43Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -5899,9 +5899,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "AI增强",
-    "stars": 98,
+    "stars": 97,
     "version": "v1.1.5",
-    "updated_at": "2026-02-27T14:34:26Z",
+    "updated_at": "2026-02-27T15:13:56Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -8223,9 +8223,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 67,
+    "stars": 68,
     "version": "v3.0.3",
-    "updated_at": "2026-02-26T20:33:48Z",
+    "updated_at": "2026-02-27T15:10:59Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -8968,9 +8968,9 @@
     ],
     "category": "AI增强",
     "author": null,
-    "stars": 26,
+    "stars": 27,
     "version": "2.6.0",
-    "updated_at": "2026-02-24T11:14:22Z"
+    "updated_at": "2026-02-27T15:22:16Z"
   },
   "astrbot_plugin_group_sign": {
     "name": "group_sign",
@@ -9932,9 +9932,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 107,
+    "stars": 108,
     "version": "v2.0.7",
-    "updated_at": "2026-02-24T15:04:04Z",
+    "updated_at": "2026-02-27T15:14:32Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -12577,9 +12577,9 @@
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
     "category": "效率工具",
-    "stars": 104,
+    "stars": 105,
     "version": "v2.1.11",
-    "updated_at": "2026-02-27T13:07:52Z"
+    "updated_at": "2026-02-27T15:10:37Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
@@ -13343,8 +13343,8 @@
     "category": "AI增强",
     "tags": [],
     "stars": 180,
-    "version": "v2.0.15",
-    "updated_at": "2026-02-24T13:56:41Z"
+    "version": "v2.0.16",
+    "updated_at": "2026-02-27T15:19:05Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
