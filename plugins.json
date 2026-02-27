@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-sky": {
+    "display_name": "sky光遇助手",
+    "desc": "这是一个为光遇玩家打造的智能助手插件。（移植于Yunzai-bot的Tlon-Sky插件，并加入LLM大模型调用）\n\n无论你是想了解今日任务、查询光翼收集进度，还是想知道服务器排队情况——只需在QQ发送一条消息，即可快速获取光遇游戏相关信息。\n\n支持自然语言交互，直接问\"今天光遇有什么任务？\"，AI 会自动调用相应功能回复你。",
+    "author": "wzq10314",
+    "repo": "https://github.com/wzq10314/astrbot_plugin_sky",
+    "tags": [
+      "光遇",
+      "游戏",
+      "sky"
+    ]
+  },
   "astrbot-plugin-animatedemoji": {
     "display_name": " Animated Emoji",
     "desc": "将静态 emoji 转换为动态 emoji，支持 Google Noto 和 Telegram 两种动态方案。",
