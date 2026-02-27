@@ -1,4 +1,12 @@
 {
+  "astrbot-plugin-deobfuscation": {
+    "display_name": "小番茄混淆",
+    "desc": "小番茄图片混淆/解混淆插件，基于Gilbert 2D空间填充曲线算法",
+    "author": "Tairitsu_nya",
+    "repo": "https://github.com/qingyuan114514/astrbot_plugin_deobfuscation",
+    "tags": [],
+    "social_link": ""
+  },
   "w2902171175/astrbot-plugin-GPT-SoVITS": {
     "display_name": "astrbot_plugin_GPT-SoVITS",
     "desc": "本地运行的 GPT-SoVITS-1007-cu124 的 Astrbot 文本转语音插件。",
