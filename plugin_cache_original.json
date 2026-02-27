@@ -739,8 +739,8 @@
     "pinned": true,
     "category": "外部集成",
     "stars": 25,
-    "version": "v1.4.1",
-    "updated_at": "2026-02-27T03:39:46Z"
+    "version": "v1.4.2",
+    "updated_at": "2026-02-27T08:05:04Z"
   },
   "astrbot_plugin_mc_duration": {
     "display_name": "MC魔人时长统计",
@@ -1360,8 +1360,8 @@
     "social_link": "https://meilunova.pages.dev/",
     "category": "外部集成",
     "stars": 10,
-    "version": "0.5.0",
-    "updated_at": "2026-02-25T17:37:05Z",
+    "version": "0.6.0",
+    "updated_at": "2026-02-27T08:05:11Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -2002,7 +2002,7 @@
     "category": "效率工具",
     "stars": 7,
     "version": "v1.0.5",
-    "updated_at": "2026-02-27T07:34:21Z"
+    "updated_at": "2026-02-27T08:10:28Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -2052,8 +2052,8 @@
     "social_link": "https://qwq.pyuramazo.online",
     "category": "娱乐游戏",
     "stars": 7,
-    "version": "v1.6.0",
-    "updated_at": "2026-02-27T05:26:38Z",
+    "version": "v1.6.1",
+    "updated_at": "2026-02-27T08:14:07Z",
     "logo": "https://raw.githubusercontent.com/PyuraMazo/astrbot_plugin_galgame_box/master/logo.png"
   },
   "astrbot_plugin_anitabi": {
@@ -2585,9 +2585,9 @@
     "repo": "https://github.com/bylkuse/astrbot_plugin_help_typst",
     "category": "效率工具",
     "tags": [],
-    "stars": 8,
+    "stars": 9,
     "version": "v0.1.1",
-    "updated_at": "2026-02-24T05:46:05Z",
+    "updated_at": "2026-02-27T07:57:03Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_help_typst/master/logo.png"
   },
   "astrbot_plugin_lb_provider": {
@@ -3360,8 +3360,8 @@
     ],
     "category": "效率工具",
     "stars": 11,
-    "version": "1.0.4",
-    "updated_at": "2026-02-22T05:49:11Z"
+    "version": "1.0.5",
+    "updated_at": "2026-02-27T08:30:19Z"
   },
   "lumingya/astrbot_plugin_regex_filter": {
     "display_name": "通用正则后处理",
@@ -4066,8 +4066,8 @@
     "category": "外部集成",
     "tags": [],
     "stars": 9,
-    "version": "v0.4.5",
-    "updated_at": "2026-02-23T03:53:15Z",
+    "version": "v0.4.6",
+    "updated_at": "2026-02-27T07:52:10Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_bananic_ninjutsu/master/logo.png"
   },
   "astrbot_plugin_ASCII": {
@@ -4103,9 +4103,9 @@
     "repo": "https://github.com/zz6zz666/astrbot_plugin_tool_use_cleaner",
     "category": "AI增强",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.3.0",
-    "updated_at": "2025-12-15T15:33:39Z"
+    "updated_at": "2026-02-27T08:05:43Z"
   },
   "undercover": {
     "desc": "一个谁是卧底游戏插件，支持多人在线游戏。",
@@ -7193,9 +7193,9 @@
       "rag"
     ],
     "category": "AI增强",
-    "stars": 74,
+    "stars": 75,
     "version": "2.2.3",
-    "updated_at": "2026-02-27T07:35:26Z",
+    "updated_at": "2026-02-27T08:39:43Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -8815,9 +8815,9 @@
       "交互"
     ],
     "category": "生活实用",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.5.0",
-    "updated_at": "2025-07-08T02:01:03Z"
+    "updated_at": "2026-02-27T08:00:07Z"
   },
   "astrbot_plugin_anti_recall": {
     "desc": "[仅限aiocqhttp] 防撤回插件，开启监控指定会话后，该会话内撤回的消息将转发给指定接收者",
@@ -13091,9 +13091,9 @@
     "repo": "https://github.com/FengYing1314/astrbot_plugin_token_auto",
     "category": "效率工具",
     "tags": [],
-    "stars": 9,
+    "stars": 10,
     "version": "v1.3.0",
-    "updated_at": "2025-12-28T14:54:40Z"
+    "updated_at": "2026-02-27T08:05:45Z"
   },
   "astrbot_plugin_web_searcher_pro": {
     "desc": "基于SearXNG的Web搜索插件",
