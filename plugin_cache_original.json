@@ -346,7 +346,7 @@
     "category": "AI增强",
     "stars": 8,
     "version": "v1.8.0",
-    "updated_at": "2026-02-26T13:32:17Z",
+    "updated_at": "2026-02-27T10:50:25Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -370,9 +370,9 @@
     "tags": [],
     "social_link": "",
     "category": "外部集成",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.0.0",
-    "updated_at": "2026-02-26T15:44:32Z",
+    "updated_at": "2026-02-27T11:02:42Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_soulmap/main/logo.png"
   },
   "astrbot-plugin-warframe-helper": {
@@ -802,7 +802,7 @@
     "category": "AI增强",
     "stars": 4,
     "version": "2.3.0",
-    "updated_at": "2026-02-26T12:32:38Z",
+    "updated_at": "2026-02-27T11:28:28Z",
     "logo": "https://raw.githubusercontent.com/muqing-kg/astrbot_plugin_grok_suite/main/logo.png"
   },
   "astrbot-plugin-chat-polisher": {
@@ -938,9 +938,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 25,
+    "stars": 26,
     "version": "v1.4.3",
-    "updated_at": "2026-02-27T10:28:05Z"
+    "updated_at": "2026-02-27T10:58:28Z"
   },
   "astrbot_plugin_mc_duration": {
     "display_name": "MC魔人时长统计",
@@ -1350,8 +1350,8 @@
     "social_link": "hlymcn.cn",
     "category": "效率工具",
     "stars": 1,
-    "version": "v0.8.1",
-    "updated_at": "2026-02-26T15:15:56Z",
+    "version": "v0.8.2",
+    "updated_at": "2026-02-27T11:24:54Z",
     "logo": "https://raw.githubusercontent.com/DearCrazyLeaf/astrbot_plugin_hlymcn_signin/master/logo.png"
   },
   "astrbot_plugin_pic_mirror": {
@@ -2201,8 +2201,8 @@
     ],
     "category": "效率工具",
     "stars": 8,
-    "version": "v1.0.6",
-    "updated_at": "2026-02-27T09:24:56Z"
+    "version": "v1.0.7",
+    "updated_at": "2026-02-27T11:13:49Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -12769,9 +12769,9 @@
     "repo": "https://github.com/Hazellol/astrbot_plugin_sauceno",
     "category": "效率工具",
     "tags": [],
-    "stars": 16,
+    "stars": 17,
     "version": "v1.0.0",
-    "updated_at": "2025-09-16T10:52:25Z"
+    "updated_at": "2026-02-27T10:42:33Z"
   },
   "lottery": {
     "desc": "抓阄插件，使用/抓阄 指令抓阄，教程https://github.com/MashiroSaber03/lottery",
