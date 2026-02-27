@@ -1,4 +1,14 @@
 {
+  "astrbot-plugin-yunhuAdapter": {
+    "display_name": "云湖机器人平台适配器",
+    "desc": "将 AstrBot 接入云湖机器人平台的插件，通过 WebSocket 与云湖 SDK 桥接通信。",
+    "author": "Yuki Soffd",
+    "repo": "https://github.com/Soffd/astrbot_plugin_yunhuAdapter",
+    "tags": [
+      "云湖",
+      "平台适配器"
+    ]
+  },
   "astrbot-plugin-manbo-tts": {
     "display_name": "manbo-tts",
     "desc": "基于外部API：https://api.milorapart.top/apis/mbAIsc 提供曼波语音信息生成",
