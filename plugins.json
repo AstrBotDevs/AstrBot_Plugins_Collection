@@ -1,4 +1,18 @@
 {
+  "w2902171175/astrbot-plugin-GPT-SoVITS": {
+    "display_name": "astrbot_plugin_GPT-SoVITS",
+    "desc": "本地运行的 GPT-SoVITS-1007-cu124 的 Astrbot 文本转语音插件。",
+    "author": "w2902171175",
+    "repo": "https://github.com/w2902171175/astrbot_plugin_GPT-SoVITS",
+    "tags": [
+      "TTS",
+      "AI",
+      "文本转语音",
+      "GPT SoVITS",
+      "语音合成"
+    ],
+    "social_link": "https://github.com/w2902171175"
+  },
   "astrbot-plugin-custome-segment-reply": {
     "display_name": "自定义断句回复插件",
     "desc": "纯本地规则智能分段回复插件。通过自定义字数、标点优先级、超长降级等规则实现极速断句，彻底告别AI大模型延迟，零成本且更稳定。",
