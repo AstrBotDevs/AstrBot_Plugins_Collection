@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-alteration-notifier": {
+    "display_name": "插件变更提醒",
+    "desc": "再也不想看到有人输入一串奇怪的指令但是机器人没有响应导致陷入尴尬的境地？本插件可以及时通知机器人使用者插件的变更。",
+    "author": "PyuraMazo",
+    "repo": "https://github.com/PyuraMazo/astrbot_plugin_alteration_notifier",
+    "tags": [
+      "插件管理",
+      "提醒"
+    ],
+    "social_link": "https://github.com/PyuraMazo"
+  },
   "astrbot-plugin-sl-query": {
     "display_name": "SCP:SL 服务器查询插件",
     "desc": "通过 ServerKey 查询 SCP:SL 服务器信息",
