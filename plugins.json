@@ -1,4 +1,11 @@
 {
+  "astrbot-plugin-manbo-tts": {
+    "display_name": "manbo-tts",
+    "desc": "基于外部API：https://api.milorapart.top/apis/mbAIsc 提供曼波语音信息生成",
+    "author": "zoffyultraman",
+    "repo": "https://github.com/zoffyultraman/astrbot_plugin_manbo-tts",
+    "social_link": "https://github.com/zoffyultraman"
+  },
   "astrbot-plugin-steammod-monitor": {
     "display_name": "steam创意工坊检测/服主开服工具",
     "desc": "用于监控steam的创意工坊和mod状态变更，并在状态变化时推送通知。硬核游戏服主（僵尸毁灭工程、方舟、Rust等）打造的“赛博网监”级 AstrBot 插件。 彻底告别“玩家进不去服务器才发现模组更新”的窘境，实现全自动更新预警与优雅的群组推送和管理！",
