@@ -99,8 +99,8 @@
       "sky"
     ],
     "stars": 0,
-    "version": "2.1.0",
-    "updated_at": "2026-02-27T14:49:13Z",
+    "version": "2.2.0",
+    "updated_at": "2026-02-27T15:54:06Z",
     "logo": "https://raw.githubusercontent.com/wzq10314/astrbot_plugin_sky/main/logo.png"
   },
   "astrbot-plugin-animatedemoji": {
@@ -345,8 +345,8 @@
     "social_link": "https://github.com/leafliber",
     "category": "AI增强",
     "stars": 8,
-    "version": "v1.8.0",
-    "updated_at": "2026-02-27T10:50:25Z",
+    "version": "v1.9.0",
+    "updated_at": "2026-02-27T16:19:06Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -359,7 +359,7 @@
     "tags": [],
     "stars": 4,
     "version": "v0.0.3",
-    "updated_at": "2026-02-26T16:18:06Z",
+    "updated_at": "2026-02-27T15:50:06Z",
     "logo": "https://raw.githubusercontent.com/xiaomizhoubaobei/astrbot_plugin_manosaba-memes/main/logo.png"
   },
   "astrbot-plugin-soulmap": {
@@ -387,8 +387,8 @@
     "social_link": "",
     "category": "娱乐游戏",
     "stars": 3,
-    "version": "v0.0.1",
-    "updated_at": "2026-02-27T10:06:37Z",
+    "version": "v0.0.3",
+    "updated_at": "2026-02-27T16:31:21Z",
     "logo": "https://raw.githubusercontent.com/moemoli/astrbot_plugin_warframe_helper/master/logo.png"
   },
   "astrbot-plugin-trello": {
@@ -941,7 +941,8 @@
     "category": "外部集成",
     "stars": 26,
     "version": "v1.4.3",
-    "updated_at": "2026-02-27T14:05:11Z"
+    "updated_at": "2026-02-27T15:58:45Z",
+    "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
     "display_name": "MC魔人时长统计",
@@ -1175,7 +1176,7 @@
     "category": "娱乐游戏",
     "stars": 3,
     "version": "v1.2.4",
-    "updated_at": "2026-02-27T15:13:48Z",
+    "updated_at": "2026-02-27T15:49:15Z",
     "logo": "https://raw.githubusercontent.com/DearCrazyLeaf/astrbot_plugin_steam_updates/master/logo.png"
   },
   "astrbot_plugin_codemage": {
@@ -1189,9 +1190,9 @@
       "codegen"
     ],
     "category": "AI增强",
-    "stars": 23,
+    "stars": 24,
     "version": "1.1.1",
-    "updated_at": "2026-02-26T14:22:29Z",
+    "updated_at": "2026-02-27T16:02:26Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -1770,9 +1771,9 @@
     ],
     "social_link": "https://github.com/Azincc/",
     "category": "娱乐游戏",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.1.0",
-    "updated_at": "2026-02-07T00:53:58Z"
+    "updated_at": "2026-02-27T15:47:31Z"
   },
   "astrbot_plugin_tomin": {
     "display_name": "Tomin - 少女乐队游戏",
@@ -12646,7 +12647,7 @@
     "category": "外部集成",
     "stars": 508,
     "version": "v0.916",
-    "updated_at": "2026-02-27T07:29:38Z"
+    "updated_at": "2026-02-27T15:57:40Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
@@ -13031,9 +13032,9 @@
     "repo": "https://github.com/Last-emo-boy/astrbot_plugin_cr4zyThursday",
     "category": "效率工具",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "v1.2.0",
-    "updated_at": "2026-02-25T05:06:59Z",
+    "updated_at": "2026-02-27T15:56:14Z",
     "logo": "https://raw.githubusercontent.com/Last-emo-boy/astrbot_plugin_cr4zyThursday/master/logo.png"
   },
   "astrbot_plugin_buckshot_roulette": {
