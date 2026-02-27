@@ -179,9 +179,9 @@
       "Twitch"
     ],
     "social_link": "https://github.com/cxyfer",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.1.5",
-    "updated_at": "2026-02-27T04:23:30Z",
+    "updated_at": "2026-02-27T14:01:27Z",
     "logo": "https://raw.githubusercontent.com/cxyfer/astrbot_plugin_livepulse/master/logo.png"
   },
   "astrbot-plugin-bookkeeper": {
@@ -941,7 +941,7 @@
     "category": "外部集成",
     "stars": 26,
     "version": "v1.4.3",
-    "updated_at": "2026-02-27T12:47:18Z"
+    "updated_at": "2026-02-27T14:05:11Z"
   },
   "astrbot_plugin_mc_duration": {
     "display_name": "MC魔人时长统计",
@@ -1174,8 +1174,8 @@
     ],
     "category": "娱乐游戏",
     "stars": 3,
-    "version": "v1.2.3",
-    "updated_at": "2026-02-25T12:37:55Z",
+    "version": "v1.2.4",
+    "updated_at": "2026-02-27T14:14:24Z",
     "logo": "https://raw.githubusercontent.com/DearCrazyLeaf/astrbot_plugin_steam_updates/master/logo.png"
   },
   "astrbot_plugin_codemage": {
@@ -1580,8 +1580,8 @@
     "social_link": "https://www.cnmsb.xin",
     "category": "娱乐游戏",
     "stars": 1,
-    "version": "v1.7.0",
-    "updated_at": "2026-02-06T06:38:06Z",
+    "version": "v1.7.2",
+    "updated_at": "2026-02-27T14:32:14Z",
     "logo": "https://raw.githubusercontent.com/NyaNyagulugulu/astrbot_NekoMusic/main/logo.png"
   },
   "astrbot_plugin_mooncell_finder": {
@@ -3030,7 +3030,7 @@
     "tags": [],
     "stars": 5,
     "version": "v0.0.6",
-    "updated_at": "2026-02-17T15:21:53Z",
+    "updated_at": "2026-02-27T14:10:37Z",
     "logo": "https://raw.githubusercontent.com/xiaomizhoubaobei/astrbot_plugin_models_ai/main/logo.png"
   },
   "astrbot_plugin_monixiuxian2": {
@@ -5899,9 +5899,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "AI增强",
-    "stars": 97,
+    "stars": 98,
     "version": "v1.1.5",
-    "updated_at": "2026-02-27T11:34:05Z",
+    "updated_at": "2026-02-27T14:34:26Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -8648,7 +8648,7 @@
     "category": "娱乐游戏",
     "stars": 4,
     "version": "0.0.3",
-    "updated_at": "2026-02-26T12:38:16Z",
+    "updated_at": "2026-02-27T13:48:52Z",
     "logo": "https://raw.githubusercontent.com/xiaomizhoubaobei/astrbot_plugin_treasure_bag/main/logo.png"
   },
   "LiteBridge": {
@@ -9294,9 +9294,9 @@
     "repo": "https://github.com/sa1guu/astrbot_plugin_touchi",
     "category": "效率工具",
     "tags": [],
-    "stars": 36,
+    "stars": 37,
     "version": "v2.8.3",
-    "updated_at": "2026-02-20T11:13:20Z",
+    "updated_at": "2026-02-27T13:06:31Z",
     "logo": "https://raw.githubusercontent.com/sa1guu/astrbot_plugin_touchi/master/logo.png"
   },
   "astrbot_plugin_Astrsupermarket": {
@@ -12577,9 +12577,9 @@
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
     "category": "效率工具",
-    "stars": 103,
+    "stars": 104,
     "version": "v2.1.11",
-    "updated_at": "2026-02-25T08:09:02Z"
+    "updated_at": "2026-02-27T13:07:52Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
