@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-bookkeeper": {
+    "display_name": "自动记账",
+    "desc": "AI 自动记账：通过 LLM 工具调用自动识别消息中的消费事实并记账\n手动查询：支持查询当日、当月、自定义日期范围的账单\n分类汇总：按消费项分类统计金额和笔数\n记录管理：支持删除指定序号的记录\n白名单管理：支持白名单开关、管理员绕过、用户增删查\n定时推送：支持每日/每月定时发送账单汇总\n时区配置：支持自定义 IANA 时区",
+    "author": "橘猫",
+    "repo": "https://github.com/IwannaYuJie/astrbot_plugin_bookkeeper.git",
+    "tags": [
+      "记账",
+      "生活助手",
+      "财务"
+    ],
+    "social_link": "https://github.com/IwannaYuJie"
+  },
   "astrbot-plugin-bookkeeping": {
     "display_name": "日常记账",
     "desc": "一个功能完善的个人记账插件，支持支出/收入记录、统计分析、AI财务建议等功能。",
