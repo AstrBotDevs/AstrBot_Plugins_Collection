@@ -2002,7 +2002,7 @@
     "category": "效率工具",
     "stars": 7,
     "version": "v1.0.5",
-    "updated_at": "2026-02-27T04:16:16Z"
+    "updated_at": "2026-02-27T05:02:48Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -2051,9 +2051,9 @@
     ],
     "social_link": "https://qwq.pyuramazo.online",
     "category": "娱乐游戏",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.6.0",
-    "updated_at": "2026-02-26T15:24:43Z",
+    "updated_at": "2026-02-27T05:26:38Z",
     "logo": "https://raw.githubusercontent.com/PyuraMazo/astrbot_plugin_galgame_box/master/logo.png"
   },
   "astrbot_plugin_anitabi": {
@@ -2170,9 +2170,9 @@
       "群聊活跃度监测"
     ],
     "category": "效率工具",
-    "stars": 2,
+    "stars": 3,
     "version": "2.1.1",
-    "updated_at": "2026-02-09T03:37:03Z",
+    "updated_at": "2026-02-27T05:43:59Z",
     "logo": "https://raw.githubusercontent.com/danfong1104/astrbot_plugin_chatmaster/main/logo.png"
   },
   "astrbot_plugin_cheer_mate": {
@@ -3330,8 +3330,8 @@
     ],
     "category": "AI增强",
     "stars": 31,
-    "version": "1.2.7",
-    "updated_at": "2026-02-26T07:09:56Z"
+    "version": "1.2.8",
+    "updated_at": "2026-02-27T04:47:03Z"
   },
   "astrbot_plugin_angel_heart": {
     "display_name": "天使之心",
@@ -4515,9 +4515,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "效率工具",
-    "stars": 50,
+    "stars": 49,
     "version": "v2.3.0",
-    "updated_at": "2026-02-23T07:20:42Z",
+    "updated_at": "2026-02-27T05:44:44Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -7703,9 +7703,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "AI增强",
-    "stars": 49,
+    "stars": 50,
     "version": "3.0.2",
-    "updated_at": "2026-02-24T08:08:26Z",
+    "updated_at": "2026-02-27T04:48:40Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "findx010197/astrbot_plugin_reminder": {
@@ -7756,9 +7756,9 @@
     ],
     "social_link": "https://github.com/Futureppo",
     "category": "效率工具",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.0.3",
-    "updated_at": "2026-02-25T08:58:08Z",
+    "updated_at": "2026-02-27T05:48:21Z",
     "logo": "https://raw.githubusercontent.com/Futureppo/astrbot_plugin_Xiaomi_BandProMax/main/logo.png"
   },
   "astrbot_plugin_immersive_control": {
