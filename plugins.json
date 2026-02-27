@@ -1,4 +1,11 @@
 {
+  "astrbot-plugin-animatedemoji": {
+    "display_name": " Animated Emoji",
+    "desc": "将静态 emoji 转换为动态 emoji，支持 Google Noto 和 Telegram 两种动态方案。",
+    "author": "camera-2018",
+    "repo": "https://github.com/camera-2018/astrbot_plugin_animatedemoji",
+    "social_link": "https://github.com/camera-2018"
+  },
   "astrbot-plugin-yunhuAdapter": {
     "display_name": "云湖机器人平台适配器",
     "desc": "将 AstrBot 接入云湖机器人平台的插件，通过 WebSocket 与云湖 SDK 桥接通信。",
