@@ -939,9 +939,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 29,
+    "stars": 30,
     "version": "v1.4.3",
-    "updated_at": "2026-02-28T03:09:12Z",
+    "updated_at": "2026-02-28T07:25:03Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -2204,7 +2204,7 @@
     "category": "效率工具",
     "stars": 8,
     "version": "v1.0.8",
-    "updated_at": "2026-02-28T06:36:52Z"
+    "updated_at": "2026-02-28T07:15:39Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
