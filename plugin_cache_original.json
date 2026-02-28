@@ -135,9 +135,9 @@
     "repo": "https://github.com/zoffyultraman/astrbot_plugin_manbo-tts",
     "social_link": "https://github.com/zoffyultraman",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.3",
-    "updated_at": "2026-02-27T03:54:33Z",
+    "updated_at": "2026-02-28T14:03:11Z",
     "logo": "https://raw.githubusercontent.com/zoffyultraman/astrbot_plugin_manbo-tts/main/logo.png"
   },
   "astrbot-plugin-steammod-monitor": {
@@ -655,9 +655,9 @@
     ],
     "social_link": "https://github.com/Weather-719",
     "category": "AI增强",
-    "stars": 6,
+    "stars": 7,
     "version": "2.3.4",
-    "updated_at": "2026-02-19T14:08:45Z"
+    "updated_at": "2026-02-28T13:54:55Z"
   },
   "astrbot-plugin-openai-responses": {
     "display_name": "OpenAI Responses API Provider",
