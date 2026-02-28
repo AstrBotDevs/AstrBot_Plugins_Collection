@@ -313,9 +313,9 @@
     "social_link": "https://github.com/storyAura",
     "category": "生活实用",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.1",
-    "updated_at": "2026-02-25T13:34:47Z",
+    "updated_at": "2026-02-28T03:01:45Z",
     "logo": "https://raw.githubusercontent.com/storyAura/astrbot_plugin_biliVideo/main/logo.png"
   },
   "astrbot-plugin-opencode-client": {
@@ -346,7 +346,7 @@
     "category": "AI增强",
     "stars": 8,
     "version": "v1.9.0",
-    "updated_at": "2026-02-27T16:19:06Z",
+    "updated_at": "2026-02-28T03:02:39Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -939,9 +939,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 28,
+    "stars": 29,
     "version": "v1.4.3",
-    "updated_at": "2026-02-28T01:03:58Z",
+    "updated_at": "2026-02-28T03:09:12Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -2715,9 +2715,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "AI增强",
-    "stars": 26,
+    "stars": 27,
     "version": "1.1.1",
-    "updated_at": "2026-02-27T22:49:36Z"
+    "updated_at": "2026-02-28T02:37:49Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -3197,9 +3197,9 @@
     "social_link": "https://github.com/NachoCrazy",
     "category": "AI增强",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "1.5.0",
-    "updated_at": "2025-12-30T13:49:28Z"
+    "updated_at": "2026-02-28T03:55:13Z"
   },
   "astrbot_plugin_netease_music": {
     "display_name": "豪华版网易云点歌插件",
@@ -3240,9 +3240,9 @@
       "心理委员"
     ],
     "category": "效率工具",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.0.0",
-    "updated_at": "2026-02-27T19:32:10Z"
+    "updated_at": "2026-02-28T03:32:00Z"
   },
   "astrbot_plugin_yt-dlp": {
     "display_name": "yt-dlp网页视频下载",
@@ -3251,9 +3251,9 @@
     "repo": "https://github.com/204343414/astrbot_plugin_yt-dlp",
     "category": "效率工具",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "1.0.1",
-    "updated_at": "2026-02-26T02:29:13Z",
+    "updated_at": "2026-02-28T03:32:02Z",
     "logo": "https://raw.githubusercontent.com/204343414/astrbot_plugin_yt-dlp/master/logo.png"
   },
   "astrbot_plugin_yotts": {
@@ -7395,9 +7395,9 @@
       "rag"
     ],
     "category": "AI增强",
-    "stars": 76,
+    "stars": 77,
     "version": "2.2.3",
-    "updated_at": "2026-02-27T17:19:50Z",
+    "updated_at": "2026-02-28T03:17:08Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -7850,9 +7850,9 @@
     "repo": "https://github.com/RC-CHN/astrbot_plugin_pic_search",
     "category": "效率工具",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "v0.1",
-    "updated_at": "2026-02-04T02:13:24Z"
+    "updated_at": "2026-02-28T03:44:12Z"
   },
   "astrbot_plugin_spaghetti_concrete": {
     "desc": "一本正经胡说八道生成器 —— 基于“意大利面混凝土理论”，输出跨领域因果谬误文案。",
