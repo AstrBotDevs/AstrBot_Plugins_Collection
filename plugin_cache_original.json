@@ -941,7 +941,7 @@
     "category": "外部集成",
     "stars": 30,
     "version": "v1.5.0",
-    "updated_at": "2026-02-28T16:05:11Z",
+    "updated_at": "2026-02-28T16:57:40Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -2469,9 +2469,9 @@
     "repo": "https://github.com/dafeiwu666/astrbot_plugin_ppnai",
     "category": "AI增强",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "v1.0",
-    "updated_at": "2026-02-12T16:52:17Z"
+    "updated_at": "2026-02-28T16:47:15Z"
   },
   "astrbot_plugin_music_pro": {
     "display_name": "高级点歌",
@@ -7607,9 +7607,9 @@
     "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
     "category": "AI增强",
     "tags": [],
-    "stars": 40,
+    "stars": 41,
     "version": "v1.0.4",
-    "updated_at": "2026-02-27T17:31:34Z"
+    "updated_at": "2026-02-28T17:04:26Z"
   },
   "astrbot_plugin_vtb_adapter": {
     "desc": "用于连接 AstrBot 与 Open LLM Vtuber，除安装插件外还需要修改 Open LLM Vtuber 中的相关文件",
