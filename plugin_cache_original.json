@@ -2253,9 +2253,9 @@
     ],
     "social_link": "https://qwq.pyuramazo.online",
     "category": "娱乐游戏",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.6.1",
-    "updated_at": "2026-02-27T08:14:07Z",
+    "updated_at": "2026-02-28T13:15:52Z",
     "logo": "https://raw.githubusercontent.com/PyuraMazo/astrbot_plugin_galgame_box/master/logo.png"
   },
   "astrbot_plugin_anitabi": {
@@ -8081,7 +8081,7 @@
     "category": "AI增强",
     "stars": 27,
     "version": "v0.2.7",
-    "updated_at": "2026-02-17T01:10:10Z"
+    "updated_at": "2026-02-28T12:52:51Z"
   },
   "astrbot_plugin_iearning_style": {
     "desc": "使机器人可以从聊天中学习他人说话方式",
@@ -11628,9 +11628,9 @@
     ],
     "social_link": "https://qm.qq.com/q/F7JTfmpsys",
     "category": "外部集成",
-    "stars": 3,
+    "stars": 4,
     "version": "v0.0.2",
-    "updated_at": "2026-01-10T08:03:00Z"
+    "updated_at": "2026-02-28T12:59:01Z"
   },
   "astrbot_plugin_no_dragon_lord": {
     "desc": "anka - 禁止机器人抢龙王! 龙王一定要是人类 ✍️✍️✍️✍️✍️✍️✍️✍️ 😭😭😭😭😭😭😭😭 - 请前往设置白名单(默认全部群启用) - 提供分段回复容错设置",
