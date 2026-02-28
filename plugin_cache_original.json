@@ -345,8 +345,8 @@
     "social_link": "https://github.com/leafliber",
     "category": "AI增强",
     "stars": 8,
-    "version": "v1.9.0",
-    "updated_at": "2026-02-28T05:28:25Z",
+    "version": "v1.9.1",
+    "updated_at": "2026-02-28T06:00:42Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -1642,8 +1642,8 @@
     "social_link": "https://github.com/Heximiao",
     "category": "娱乐游戏",
     "stars": 11,
-    "version": "v3.0.2",
-    "updated_at": "2026-02-26T05:43:42Z",
+    "version": "v3.0.4",
+    "updated_at": "2026-02-28T06:24:53Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
@@ -2204,7 +2204,7 @@
     "category": "效率工具",
     "stars": 8,
     "version": "v1.0.8",
-    "updated_at": "2026-02-27T11:53:32Z"
+    "updated_at": "2026-02-28T06:36:52Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -3031,7 +3031,7 @@
     "tags": [],
     "stars": 5,
     "version": "v0.0.6",
-    "updated_at": "2026-02-28T04:20:48Z",
+    "updated_at": "2026-02-28T05:41:05Z",
     "logo": "https://raw.githubusercontent.com/xiaomizhoubaobei/astrbot_plugin_models_ai/main/logo.png"
   },
   "astrbot_plugin_monixiuxian2": {
@@ -5352,9 +5352,9 @@
       "磁链"
     ],
     "category": "外部集成",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0.0",
-    "updated_at": "2026-02-20T07:08:40Z"
+    "updated_at": "2026-02-28T06:26:56Z"
   },
   "astrbot_plugin_siliconflow-shouban": {
     "desc": "接入硅基流动画图，图片编辑，可自定义预设",
@@ -9381,9 +9381,9 @@
       "平台适配器"
     ],
     "category": "外部集成",
-    "stars": 11,
+    "stars": 12,
     "version": "v0.0.3",
-    "updated_at": "2026-02-09T10:12:36Z"
+    "updated_at": "2026-02-28T06:22:17Z"
   },
   "astrbot_plugin_deepresearch": {
     "author": "lxfight",
