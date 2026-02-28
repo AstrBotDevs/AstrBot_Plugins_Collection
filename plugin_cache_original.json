@@ -346,7 +346,7 @@
     "category": "AI增强",
     "stars": 8,
     "version": "v1.9.1",
-    "updated_at": "2026-02-28T06:00:42Z",
+    "updated_at": "2026-02-28T18:10:37Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -582,9 +582,9 @@
     ],
     "social_link": "https://github.com/HSOS6",
     "category": "AI增强",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.3.1",
-    "updated_at": "2026-02-24T09:01:58Z",
+    "updated_at": "2026-02-28T17:35:24Z",
     "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_ssh/main/logo.png"
   },
   "astrbot-plugin-httpadapter": {
@@ -941,7 +941,7 @@
     "category": "外部集成",
     "stars": 30,
     "version": "v1.5.0",
-    "updated_at": "2026-02-28T16:57:40Z",
+    "updated_at": "2026-02-28T17:36:22Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -3931,7 +3931,7 @@
     "category": "效率工具",
     "stars": 4,
     "version": "1.29.0",
-    "updated_at": "2026-02-27T01:23:59Z"
+    "updated_at": "2026-02-28T18:15:58Z"
   },
   "astrbot_plugin_QQbox": {
     "display_name": "QQbox",
@@ -11233,9 +11233,9 @@
     "desc": "大锅里炖（小游戏等等超 25 个功能！）",
     "category": "娱乐游戏",
     "tags": [],
-    "stars": 11,
+    "stars": 10,
     "version": "v2.0.1",
-    "updated_at": "2026-02-28T11:34:45Z"
+    "updated_at": "2026-02-28T17:34:07Z"
   },
   "astrbot_plugin_openweaponscase": {
     "author": "luooka",
@@ -13306,7 +13306,7 @@
     "tags": [],
     "stars": 11,
     "version": "v1.0.3",
-    "updated_at": "2025-09-22T15:36:49Z"
+    "updated_at": "2026-02-28T17:35:09Z"
   },
   "astrbot_plugin_memeify": {
     "desc": "一个AstrBot的插件，用于LLM回复表情包的实现",
