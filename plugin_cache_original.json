@@ -55,9 +55,9 @@
       "分段回复"
     ],
     "social_link": "https://github.com/LinJohn8",
-    "stars": 3,
+    "stars": 4,
     "version": "1.0.0",
-    "updated_at": "2026-02-28T10:49:04Z",
+    "updated_at": "2026-02-28T14:56:04Z",
     "logo": "https://raw.githubusercontent.com/LinJohn8/astrbot_plugin_custome_segment_reply/main/logo.png"
   },
   "astrbot-plugin-alteration-notifier": {
@@ -2556,7 +2556,7 @@
     "category": "娱乐游戏",
     "stars": 9,
     "version": "v2.0",
-    "updated_at": "2026-02-28T12:45:44Z",
+    "updated_at": "2026-02-28T15:09:32Z",
     "logo": "https://raw.githubusercontent.com/kennylimz/astrbot_plugin_mudae_qq/main/logo.png"
   },
   "BUGJI/astrbot_plugin_balance": {
@@ -2716,9 +2716,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "AI增强",
-    "stars": 27,
+    "stars": 28,
     "version": "1.1.1",
-    "updated_at": "2026-02-28T02:37:49Z"
+    "updated_at": "2026-02-28T15:02:33Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -2849,9 +2849,9 @@
     ],
     "social_link": "https://github.com/Clhikari",
     "category": "AI增强",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.2.4",
-    "updated_at": "2026-02-26T10:03:01Z",
+    "updated_at": "2026-02-28T15:05:16Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -3457,9 +3457,9 @@
       "vertex_ai"
     ],
     "category": "AI增强",
-    "stars": 14,
+    "stars": 15,
     "version": "v0.1.7",
-    "updated_at": "2026-02-24T11:32:08Z",
+    "updated_at": "2026-02-28T14:44:07Z",
     "logo": "https://raw.githubusercontent.com/sukafon/astrbot_plugin_big_banana/main/logo.png"
   },
   "astrbot_plugin_BitTorrent": {
@@ -4228,9 +4228,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "AI增强",
-    "stars": 42,
+    "stars": 43,
     "version": "v4.1.2",
-    "updated_at": "2026-02-27T03:38:13Z",
+    "updated_at": "2026-02-28T14:20:44Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -5901,9 +5901,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "AI增强",
-    "stars": 97,
+    "stars": 98,
     "version": "v1.1.5",
-    "updated_at": "2026-02-27T15:13:56Z",
+    "updated_at": "2026-02-28T15:14:05Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -7054,9 +7054,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "生活实用",
-    "stars": 15,
+    "stars": 16,
     "version": "v1.0.5",
-    "updated_at": "2026-02-28T07:55:21Z",
+    "updated_at": "2026-02-28T14:41:58Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_restart/main/logo.png"
   },
   "astrbot_plugin_tts_llm": {
@@ -8650,7 +8650,7 @@
     "category": "娱乐游戏",
     "stars": 4,
     "version": "0.0.3",
-    "updated_at": "2026-02-27T13:48:52Z",
+    "updated_at": "2026-02-28T13:58:30Z",
     "logo": "https://raw.githubusercontent.com/xiaomizhoubaobei/astrbot_plugin_treasure_bag/main/logo.png"
   },
   "LiteBridge": {
@@ -11781,9 +11781,9 @@
     ],
     "social_link": "https://m.bilibili.com/space/172230783",
     "category": "效率工具",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.4",
-    "updated_at": "2026-02-22T16:20:46Z"
+    "updated_at": "2026-02-28T14:50:52Z"
   },
   "astrbot_plugin_GPT_SoVITS": {
     "display_name": "GPT SoVITS",
