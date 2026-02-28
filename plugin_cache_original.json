@@ -565,9 +565,9 @@
     ],
     "social_link": "https://github.com/Radiant303",
     "category": "AI增强",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-02-22T11:40:11Z",
+    "updated_at": "2026-02-28T15:51:41Z",
     "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_clonetts/master/logo.png"
   },
   "astrbot-plugin-ssh": {
@@ -941,7 +941,7 @@
     "category": "外部集成",
     "stars": 30,
     "version": "v1.5.0",
-    "updated_at": "2026-02-28T11:59:06Z",
+    "updated_at": "2026-02-28T16:05:11Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -2012,8 +2012,8 @@
     "social_link": "https://github.com/siciyuanweilai",
     "category": "AI增强",
     "stars": 15,
-    "version": "4.7.1",
-    "updated_at": "2026-02-26T12:59:14Z",
+    "version": "4.7.2",
+    "updated_at": "2026-02-28T16:12:35Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -3674,9 +3674,9 @@
     ],
     "social_link": "3268514224",
     "category": "效率工具",
-    "stars": 2,
+    "stars": 3,
     "version": "0.4.3",
-    "updated_at": "2026-01-13T22:26:48Z"
+    "updated_at": "2026-02-28T15:31:17Z"
   },
   "astrbot_plugin_gskard": {
     "display_name": "搞牌...启动!",
@@ -11575,9 +11575,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
     "category": "效率工具",
-    "stars": 28,
+    "stars": 29,
     "version": "v2.0.0",
-    "updated_at": "2026-02-26T12:04:55Z",
+    "updated_at": "2026-02-28T15:49:49Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_browser/main/logo.png"
   },
   "astrbot_plugin_qqadmin": {
@@ -12579,9 +12579,9 @@
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
     "category": "效率工具",
-    "stars": 106,
+    "stars": 107,
     "version": "v2.1.11",
-    "updated_at": "2026-02-27T17:13:09Z"
+    "updated_at": "2026-02-28T15:25:51Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
