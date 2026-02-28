@@ -55,9 +55,9 @@
       "分段回复"
     ],
     "social_link": "https://github.com/LinJohn8",
-    "stars": 2,
+    "stars": 3,
     "version": "1.0.0",
-    "updated_at": "2026-02-27T11:41:03Z",
+    "updated_at": "2026-02-28T10:49:04Z",
     "logo": "https://raw.githubusercontent.com/LinJohn8/astrbot_plugin_custome_segment_reply/main/logo.png"
   },
   "astrbot-plugin-alteration-notifier": {
@@ -941,7 +941,7 @@
     "category": "外部集成",
     "stars": 30,
     "version": "v1.4.3",
-    "updated_at": "2026-02-28T07:25:03Z",
+    "updated_at": "2026-02-28T11:06:54Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -2111,9 +2111,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
-    "stars": 185,
+    "stars": 186,
     "version": "v4.7.15",
-    "updated_at": "2026-02-27T17:03:10Z",
+    "updated_at": "2026-02-28T11:06:06Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -2204,7 +2204,7 @@
     "category": "效率工具",
     "stars": 9,
     "version": "v1.0.8",
-    "updated_at": "2026-02-28T09:44:37Z"
+    "updated_at": "2026-02-28T10:51:11Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -2555,8 +2555,8 @@
     "social_link": "https://github.com/kennylimz",
     "category": "娱乐游戏",
     "stars": 9,
-    "version": "v1.2",
-    "updated_at": "2026-02-26T02:44:42Z",
+    "version": "v2.0",
+    "updated_at": "2026-02-28T10:48:56Z",
     "logo": "https://raw.githubusercontent.com/kennylimz/astrbot_plugin_mudae_qq/main/logo.png"
   },
   "BUGJI/astrbot_plugin_balance": {
@@ -12692,9 +12692,9 @@
     ],
     "pinned": true,
     "category": "效率工具",
-    "stars": 152,
+    "stars": 153,
     "version": "v3.19",
-    "updated_at": "2026-02-28T09:33:32Z"
+    "updated_at": "2026-02-28T11:12:06Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
@@ -13134,9 +13134,9 @@
     "repo": "https://github.com/zgojin/astrbot_plugin_niuniu",
     "category": "娱乐游戏",
     "tags": [],
-    "stars": 15,
+    "stars": 14,
     "version": "v4.7.2",
-    "updated_at": "2026-02-22T07:55:56Z"
+    "updated_at": "2026-02-28T11:12:50Z"
   },
   "astrbot_plugin_mohoyo_cos": {
     "desc": "获取米游社社区cos插件，支持LLM自识别",
