@@ -940,8 +940,8 @@
     "pinned": true,
     "category": "外部集成",
     "stars": 30,
-    "version": "v1.4.3",
-    "updated_at": "2026-02-28T11:06:54Z",
+    "version": "v1.5.0",
+    "updated_at": "2026-02-28T11:59:06Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -1657,8 +1657,8 @@
     ],
     "category": "娱乐游戏",
     "stars": 4,
-    "version": "v1.2.2",
-    "updated_at": "2026-02-20T16:22:46Z"
+    "version": "v1.2.3",
+    "updated_at": "2026-02-28T12:19:18Z"
   },
   "astrbot_plugin_minecraft_monitor": {
     "display_name": "MC 服务器监控（适配基岩版与 Java 版）",
@@ -2556,7 +2556,7 @@
     "category": "娱乐游戏",
     "stars": 9,
     "version": "v2.0",
-    "updated_at": "2026-02-28T10:48:56Z",
+    "updated_at": "2026-02-28T12:45:44Z",
     "logo": "https://raw.githubusercontent.com/kennylimz/astrbot_plugin_mudae_qq/main/logo.png"
   },
   "BUGJI/astrbot_plugin_balance": {
@@ -5839,7 +5839,7 @@
     "category": "效率工具",
     "stars": 3,
     "version": "v1.2.2",
-    "updated_at": "2026-02-11T09:46:33Z",
+    "updated_at": "2026-02-28T12:34:46Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_magnet_preview/master/logo.png"
   },
   "astrbot_plugin_gemini-image": {
@@ -11233,9 +11233,9 @@
     "desc": "大锅里炖（小游戏等等超 25 个功能！）",
     "category": "娱乐游戏",
     "tags": [],
-    "stars": 10,
+    "stars": 11,
     "version": "v2.0.1",
-    "updated_at": "2025-12-04T02:55:38Z"
+    "updated_at": "2026-02-28T11:34:45Z"
   },
   "astrbot_plugin_openweaponscase": {
     "author": "luooka",
