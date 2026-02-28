@@ -7545,9 +7545,9 @@
     ],
     "social_link": "blog.isla.ltd",
     "category": "外部集成",
-    "stars": 17,
+    "stars": 16,
     "version": "1.2.0",
-    "updated_at": "2026-01-26T15:16:51Z"
+    "updated_at": "2026-02-28T22:57:14Z"
   },
   "astrbot_plugin_AnimeMagnet": {
     "desc": "这是一个动漫磁链查询插件，可以获取动漫磁链",
