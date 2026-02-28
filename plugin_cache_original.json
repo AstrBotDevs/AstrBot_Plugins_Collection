@@ -2204,7 +2204,7 @@
     "category": "效率工具",
     "stars": 9,
     "version": "v1.0.8",
-    "updated_at": "2026-02-28T08:16:27Z"
+    "updated_at": "2026-02-28T09:44:37Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -2304,8 +2304,9 @@
     "category": "AI增强",
     "tags": [],
     "stars": 5,
-    "version": "1.1.1",
-    "updated_at": "2026-02-26T09:01:42Z"
+    "version": "2.0.0",
+    "updated_at": "2026-02-28T09:59:12Z",
+    "logo": "https://raw.githubusercontent.com/2529huang/astrbot_plugin_fund_analyzer/master/logo.png"
   },
   "astrbot_plugin_CNKD_Admin": {
     "display_name": "UapiPro言论管控",
@@ -3129,9 +3130,9 @@
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
     "category": "AI增强",
-    "stars": 38,
+    "stars": 39,
     "version": "v1.1",
-    "updated_at": "2026-02-28T05:21:56Z"
+    "updated_at": "2026-02-28T09:28:00Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -3836,9 +3837,9 @@
     ],
     "social_link": "https://github.com/Yue-bin",
     "category": "AI增强",
-    "stars": 7,
+    "stars": 8,
     "version": "v0.0.1",
-    "updated_at": "2026-01-30T08:04:40Z"
+    "updated_at": "2026-02-28T10:05:54Z"
   },
   "astrbot_plugin_plugins_summary": {
     "display_name": "插件目录查询",
@@ -6856,9 +6857,9 @@
       "骰子"
     ],
     "category": "娱乐游戏",
-    "stars": 9,
+    "stars": 10,
     "version": "v2.1.0",
-    "updated_at": "2026-02-09T07:51:53Z"
+    "updated_at": "2026-02-28T09:43:17Z"
   },
   "astrbot_plugin_xiuxian": {
     "desc": "基于astrbot框架的文字修仙游戏",
@@ -8747,9 +8748,9 @@
       "战地风云"
     ],
     "category": "效率工具",
-    "stars": 11,
+    "stars": 12,
     "version": "v2.1.5",
-    "updated_at": "2026-02-25T10:38:48Z",
+    "updated_at": "2026-02-28T09:28:45Z",
     "logo": "https://raw.githubusercontent.com/SHOOTING-STAR-C/astrbot_plugin_battlefield_tool/master/logo.png"
   },
   "astrbot_plugin_SteamSaleTracker": {
@@ -10826,9 +10827,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "外部集成",
-    "stars": 158,
+    "stars": 159,
     "version": "v3.0.2",
-    "updated_at": "2026-02-26T05:31:44Z",
+    "updated_at": "2026-02-28T10:18:55Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -12691,9 +12692,9 @@
     ],
     "pinned": true,
     "category": "效率工具",
-    "stars": 151,
+    "stars": 152,
     "version": "v3.19",
-    "updated_at": "2026-02-27T09:04:19Z"
+    "updated_at": "2026-02-28T09:33:32Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
