@@ -69,9 +69,9 @@
       "分段回复"
     ],
     "social_link": "https://github.com/LinJohn8",
-    "stars": 5,
+    "stars": 6,
     "version": "1.0.0",
-    "updated_at": "2026-03-01T02:21:48Z",
+    "updated_at": "2026-03-01T12:34:15Z",
     "logo": "https://raw.githubusercontent.com/LinJohn8/astrbot_plugin_custome_segment_reply/main/logo.png"
   },
   "astrbot-plugin-alteration-notifier": {
@@ -384,9 +384,9 @@
     "tags": [],
     "social_link": "",
     "category": "外部集成",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.0.0",
-    "updated_at": "2026-02-28T21:53:35Z",
+    "updated_at": "2026-03-01T12:34:07Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_soulmap/main/logo.png"
   },
   "astrbot-plugin-warframe-helper": {
@@ -669,9 +669,9 @@
     ],
     "social_link": "https://github.com/Weather-719",
     "category": "AI增强",
-    "stars": 7,
+    "stars": 8,
     "version": "2.3.4",
-    "updated_at": "2026-02-28T13:54:55Z"
+    "updated_at": "2026-03-01T11:49:05Z"
   },
   "astrbot-plugin-openai-responses": {
     "display_name": "OpenAI Responses API Provider",
@@ -2125,9 +2125,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
-    "stars": 186,
+    "stars": 187,
     "version": "v4.7.15",
-    "updated_at": "2026-02-28T11:06:06Z",
+    "updated_at": "2026-03-01T12:03:11Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -2730,9 +2730,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "AI增强",
-    "stars": 28,
+    "stars": 29,
     "version": "1.1.1",
-    "updated_at": "2026-02-28T15:02:33Z"
+    "updated_at": "2026-03-01T12:13:54Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -2776,9 +2776,9 @@
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 146,
+    "stars": 145,
     "version": "Next-2.0.5",
-    "updated_at": "2026-03-01T08:41:03Z",
+    "updated_at": "2026-03-01T11:43:36Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -4151,8 +4151,8 @@
     "social_link": "https://github.com/DBJD-CR",
     "category": "生活实用",
     "stars": 38,
-    "version": "v1.3.9",
-    "updated_at": "2026-02-22T06:24:27Z",
+    "version": "v1.4.0",
+    "updated_at": "2026-03-01T11:52:50Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -5915,9 +5915,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "AI增强",
-    "stars": 98,
+    "stars": 99,
     "version": "v1.1.5",
-    "updated_at": "2026-02-28T15:14:05Z",
+    "updated_at": "2026-03-01T12:14:13Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -12660,9 +12660,9 @@
       "搬史"
     ],
     "category": "外部集成",
-    "stars": 509,
+    "stars": 510,
     "version": "v0.916",
-    "updated_at": "2026-02-28T04:25:48Z"
+    "updated_at": "2026-03-01T11:28:17Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
@@ -12706,9 +12706,9 @@
     ],
     "pinned": true,
     "category": "效率工具",
-    "stars": 153,
+    "stars": 154,
     "version": "v3.19",
-    "updated_at": "2026-02-28T11:12:06Z"
+    "updated_at": "2026-03-01T12:33:47Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
