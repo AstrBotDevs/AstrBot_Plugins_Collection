@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-screen-companion": {
+    "display_name": "我会一直看着你",
+    "desc": "这是一款智能屏幕观察（视奸）插件，通过截图分析和环境感知，为用户提供个性化的互动体验。它不仅能观察用户的屏幕活动，还能感知环境变化，如系统状态、天气情况和节假日，甚至能监听麦克风音量，为用户提供全方位的智能陪伴。灵感来源于妹居物语，使用请注意隐私保护。",
+    "author": "menglimi",
+    "repo": "https://github.com/menglimi/astrbot_plugin_screen_companion",
+    "tags": [
+      "视奸",
+      "陪伴"
+    ],
+    "social_link": "https://github.com/menglimi"
+  },
   "astrbot-plugin-fishing-again": {
     "display_name": "Fishing Again!",
     "desc": "forked from 0xNMLSS/astrbot_plugin_fishing，原作因工作原因停止维护，我尝试接手后续开发，兼容原存档。能力微弱也许存在大量Bug请提Issues，至于功能大概是想到什么加什么也许会逐渐偏离钓鱼走向综合（感谢前辈们编写的钓鱼系统）",
