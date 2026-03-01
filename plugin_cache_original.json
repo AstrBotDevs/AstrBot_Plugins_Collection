@@ -301,9 +301,9 @@
     ],
     "social_link": "https://axi404.top",
     "category": "效率工具",
-    "stars": 3,
+    "stars": 7,
     "version": "0.2.3",
-    "updated_at": "2026-03-01T04:43:08Z"
+    "updated_at": "2026-03-01T05:47:32Z"
   },
   "astrbot-plugin-biliVideo": {
     "display_name": "哔哩哔哩视频总结",
@@ -2684,9 +2684,9 @@
       "娱乐"
     ],
     "category": "娱乐游戏",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0",
-    "updated_at": "2026-01-06T18:23:51Z",
+    "updated_at": "2026-03-01T05:42:23Z",
     "logo": "https://raw.githubusercontent.com/204343414/astrbot_plugin_chord/master/logo.png"
   },
   "astrbot_plugin_minesweeper": {
@@ -6145,9 +6145,9 @@
       "nobroswer"
     ],
     "category": "AI增强",
-    "stars": 17,
+    "stars": 18,
     "version": "v1.4.0",
-    "updated_at": "2025-12-30T16:59:02Z"
+    "updated_at": "2026-03-01T05:51:07Z"
   },
   "astrbot_plugin_fetch_summary": {
     "desc": "根据 URL 获取网站摘要",
@@ -7054,9 +7054,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "生活实用",
-    "stars": 16,
+    "stars": 17,
     "version": "v1.0.5",
-    "updated_at": "2026-02-28T14:41:58Z",
+    "updated_at": "2026-03-01T05:53:18Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_restart/main/logo.png"
   },
   "astrbot_plugin_tts_llm": {
@@ -12943,8 +12943,8 @@
     "category": "生活实用",
     "tags": [],
     "stars": 43,
-    "version": "v1.5.3",
-    "updated_at": "2026-02-24T19:58:34Z",
+    "version": "v1.5.4",
+    "updated_at": "2026-03-01T05:19:31Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
