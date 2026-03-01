@@ -9,9 +9,9 @@
       "陪伴"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 1,
+    "stars": 2,
     "version": "1.5.0",
-    "updated_at": "2026-02-28T18:56:34Z"
+    "updated_at": "2026-03-01T13:01:04Z"
   },
   "astrbot-plugin-fishing-again": {
     "display_name": "Fishing Again!",
@@ -69,9 +69,9 @@
       "分段回复"
     ],
     "social_link": "https://github.com/LinJohn8",
-    "stars": 6,
+    "stars": 7,
     "version": "1.0.0",
-    "updated_at": "2026-03-01T12:34:15Z",
+    "updated_at": "2026-03-01T13:13:29Z",
     "logo": "https://raw.githubusercontent.com/LinJohn8/astrbot_plugin_custome_segment_reply/main/logo.png"
   },
   "astrbot-plugin-alteration-notifier": {
@@ -164,7 +164,7 @@
     ],
     "stars": 0,
     "version": "5.3.1",
-    "updated_at": "2026-03-01T10:20:06Z"
+    "updated_at": "2026-03-01T13:15:23Z"
   },
   "astrbot-plugin-memos-pusher": {
     "display_name": "Memos 灵感推送",
@@ -327,9 +327,9 @@
     "social_link": "https://github.com/storyAura",
     "category": "生活实用",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "v1.0.2",
-    "updated_at": "2026-03-01T02:22:58Z",
+    "updated_at": "2026-03-01T13:03:35Z",
     "logo": "https://raw.githubusercontent.com/storyAura/astrbot_plugin_biliVideo/main/logo.png"
   },
   "astrbot-plugin-opencode-client": {
@@ -2125,9 +2125,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
-    "stars": 187,
+    "stars": 188,
     "version": "v4.7.15",
-    "updated_at": "2026-03-01T12:03:11Z",
+    "updated_at": "2026-03-01T12:56:49Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -2169,9 +2169,9 @@
     ],
     "social_link": "https://github.com/Ruafafa",
     "category": "娱乐游戏",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0",
-    "updated_at": "2026-01-16T18:13:53Z",
+    "updated_at": "2026-03-01T12:54:00Z",
     "logo": "https://raw.githubusercontent.com/Ruafafa/astrbot_plugin_ww_gacha_sim/master/logo.png"
   },
   "astrbot_plugin_mysql": {
