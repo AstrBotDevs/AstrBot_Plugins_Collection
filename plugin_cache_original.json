@@ -1,4 +1,18 @@
 {
+  "astrbot-plugin-poetry-games": {
+    "display_name": "诗词查询/游戏",
+    "desc": "这是一个用于 AstrBot 的诗词插件。通过存在于本地的数据库，进行诗词查询和诗词游戏。",
+    "author": "ALin",
+    "repo": "https://github.com/sfw2099/astrbot_plugin_poetry_games",
+    "tags": [
+      "诗词",
+      "传统文化",
+      "游戏"
+    ],
+    "stars": 0,
+    "version": "2.1.5",
+    "updated_at": "2026-03-01T13:50:15Z"
+  },
   "astrbot-plugin-screen-companion": {
     "display_name": "我会一直看着你",
     "desc": "这是一款智能屏幕观察（视奸）插件，通过截图分析和环境感知，为用户提供个性化的互动体验。它不仅能观察用户的屏幕活动，还能感知环境变化，如系统状态、天气情况和节假日，甚至能监听麦克风音量，为用户提供全方位的智能陪伴。灵感来源于妹居物语，使用请注意隐私保护。",
@@ -360,7 +374,7 @@
     "category": "AI增强",
     "stars": 8,
     "version": "v1.9.1",
-    "updated_at": "2026-03-01T14:40:31Z",
+    "updated_at": "2026-03-01T16:15:36Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -5768,7 +5782,7 @@
     "category": "外部集成",
     "stars": 4,
     "version": "v1.0",
-    "updated_at": "2026-02-28T08:23:11Z"
+    "updated_at": "2026-03-01T16:01:23Z"
   },
   "astrbot_plugin_email_tool": {
     "display_name": "SMTP 邮件小工具",
@@ -9580,9 +9594,9 @@
     "social_link": "https://github.com/Zhalslar",
     "desc": "动态词库，自定义回复词",
     "category": "效率工具",
-    "stars": 13,
+    "stars": 14,
     "version": "v1.1.0",
-    "updated_at": "2026-02-21T08:33:56Z",
+    "updated_at": "2026-03-01T15:49:42Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wbank/main/logo.png"
   },
   "astrbot_plugin_lyricnext": {
@@ -10841,9 +10855,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "外部集成",
-    "stars": 159,
+    "stars": 160,
     "version": "v3.0.2",
-    "updated_at": "2026-02-28T10:18:55Z",
+    "updated_at": "2026-03-01T15:49:32Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
