@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-poetry-games": {
+    "display_name": "诗词查询/游戏",
+    "desc": "这是一个用于 AstrBot 的诗词插件。通过存在于本地的数据库，进行诗词查询和诗词游戏。",
+    "author": "ALin",
+    "repo": "https://github.com/sfw2099/astrbot_plugin_poetry_games",
+    "tags": [
+      "诗词",
+      "传统文化",
+      "游戏"
+    ]
+  },
   "astrbot-plugin-screen-companion": {
     "display_name": "我会一直看着你",
     "desc": "这是一款智能屏幕观察（视奸）插件，通过截图分析和环境感知，为用户提供个性化的互动体验。它不仅能观察用户的屏幕活动，还能感知环境变化，如系统状态、天气情况和节假日，甚至能监听麦克风音量，为用户提供全方位的智能陪伴。灵感来源于妹居物语，使用请注意隐私保护。",
