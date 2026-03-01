@@ -1,4 +1,18 @@
 {
+  "astrbot-plugin-screen-companion": {
+    "display_name": "我会一直看着你",
+    "desc": "这是一款智能屏幕观察（视奸）插件，通过截图分析和环境感知，为用户提供个性化的互动体验。它不仅能观察用户的屏幕活动，还能感知环境变化，如系统状态、天气情况和节假日，甚至能监听麦克风音量，为用户提供全方位的智能陪伴。灵感来源于妹居物语，使用请注意隐私保护。",
+    "author": "menglimi",
+    "repo": "https://github.com/menglimi/astrbot_plugin_screen_companion",
+    "tags": [
+      "视奸",
+      "陪伴"
+    ],
+    "social_link": "https://github.com/menglimi",
+    "stars": 1,
+    "version": "1.5.0",
+    "updated_at": "2026-02-28T18:56:34Z"
+  },
   "astrbot-plugin-fishing-again": {
     "display_name": "Fishing Again!",
     "desc": "forked from 0xNMLSS/astrbot_plugin_fishing，原作因工作原因停止维护，我尝试接手后续开发，兼容原存档。能力微弱也许存在大量Bug请提Issues，至于功能大概是想到什么加什么也许会逐渐偏离钓鱼走向综合（感谢前辈们编写的钓鱼系统）",
@@ -86,7 +100,7 @@
     "social_link": "https://github.com/DNTOF",
     "stars": 1,
     "version": "v1.0.1",
-    "updated_at": "2026-02-27T04:31:23Z"
+    "updated_at": "2026-03-01T06:34:01Z"
   },
   "astrbot-plugin-sky": {
     "display_name": "sky光遇助手",
@@ -301,9 +315,9 @@
     ],
     "social_link": "https://axi404.top",
     "category": "效率工具",
-    "stars": 7,
+    "stars": 8,
     "version": "0.2.3",
-    "updated_at": "2026-03-01T05:47:32Z"
+    "updated_at": "2026-03-01T06:07:51Z"
   },
   "astrbot-plugin-biliVideo": {
     "display_name": "哔哩哔哩视频总结",
@@ -346,7 +360,7 @@
     "category": "AI增强",
     "stars": 8,
     "version": "v1.9.1",
-    "updated_at": "2026-02-28T18:10:37Z",
+    "updated_at": "2026-03-01T06:14:36Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -461,9 +475,9 @@
       "PDF"
     ],
     "category": "外部集成",
-    "stars": 5,
+    "stars": 6,
     "version": "3.0.0",
-    "updated_at": "2026-02-27T06:42:01Z",
+    "updated_at": "2026-03-01T05:57:08Z",
     "logo": "https://raw.githubusercontent.com/blueraina/astrbot_plugin_novel/main/logo.png"
   },
   "astrbot-plugin-inaturalist-search": {
@@ -547,9 +561,9 @@
       "共同协作"
     ],
     "category": "外部集成",
-    "stars": 5,
+    "stars": 6,
     "version": "3.0.0",
-    "updated_at": "2026-02-27T06:42:01Z",
+    "updated_at": "2026-03-01T05:57:08Z",
     "logo": "https://raw.githubusercontent.com/blueraina/astrbot_plugin_novel/main/logo.png"
   },
   "astrbot-plugin-clonetts": {
@@ -939,9 +953,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 30,
+    "stars": 31,
     "version": "v1.5.0",
-    "updated_at": "2026-02-28T17:36:22Z",
+    "updated_at": "2026-03-01T05:53:58Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -2961,7 +2975,7 @@
     "category": "效率工具",
     "stars": 1,
     "version": "v1.1.0",
-    "updated_at": "2026-02-09T03:16:04Z"
+    "updated_at": "2026-03-01T06:25:49Z"
   },
   "astrbot_plugin_extract": {
     "display_name": "元数据解析",
@@ -12141,9 +12155,9 @@
       "nsfw"
     ],
     "category": "外部集成",
-    "stars": 12,
+    "stars": 13,
     "version": "v1.3",
-    "updated_at": "2026-01-22T15:36:46Z"
+    "updated_at": "2026-03-01T06:06:27Z"
   },
   "astrbot_plugin_Translation": {
     "desc": "通过调用百度翻译 API 接口实现翻译文本",
