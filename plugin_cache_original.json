@@ -55,9 +55,9 @@
       "分段回复"
     ],
     "social_link": "https://github.com/LinJohn8",
-    "stars": 4,
+    "stars": 5,
     "version": "1.0.0",
-    "updated_at": "2026-02-28T14:56:04Z",
+    "updated_at": "2026-03-01T02:21:48Z",
     "logo": "https://raw.githubusercontent.com/LinJohn8/astrbot_plugin_custome_segment_reply/main/logo.png"
   },
   "astrbot-plugin-alteration-notifier": {
@@ -313,9 +313,9 @@
     "social_link": "https://github.com/storyAura",
     "category": "生活实用",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0.2",
-    "updated_at": "2026-02-28T19:06:14Z",
+    "updated_at": "2026-03-01T02:22:58Z",
     "logo": "https://raw.githubusercontent.com/storyAura/astrbot_plugin_biliVideo/main/logo.png"
   },
   "astrbot-plugin-opencode-client": {
@@ -499,8 +499,8 @@
     "social_link": "https://github.com/PyuraMazo",
     "category": "AI增强",
     "stars": 1,
-    "version": "v1.3.0",
-    "updated_at": "2026-02-22T04:18:30Z"
+    "version": "v1.3.1",
+    "updated_at": "2026-03-01T02:16:15Z"
   },
   "astrbot-plugin-iamthinking": {
     "display_name": "别吵我在思考",
