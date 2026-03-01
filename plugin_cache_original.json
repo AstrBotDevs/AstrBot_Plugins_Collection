@@ -24,9 +24,9 @@
       "骰宝"
     ],
     "social_link": "https://github.com/Akiyo-dayo",
-    "stars": 1,
+    "stars": 2,
     "version": "2.4.92",
-    "updated_at": "2026-02-20T23:02:49Z",
+    "updated_at": "2026-03-01T10:54:38Z",
     "logo": "https://raw.githubusercontent.com/Akiyo-dayo/astrbot_plugin_fishing/main/logo.png"
   },
   "astrbot-plugin-deobfuscation": {
@@ -6585,8 +6585,8 @@
     "social_link": "https://catyun.cyou/",
     "category": "娱乐游戏",
     "stars": 2,
-    "version": "v2.0.1",
-    "updated_at": "2026-01-10T16:03:17Z",
+    "version": "v2.0.2",
+    "updated_at": "2026-03-01T10:57:39Z",
     "logo": "https://raw.githubusercontent.com/WhiteCloudOL/astrbot_plugin_mcstatus/master/logo.png"
   },
   "astrbot_plugin_search_tracemoe": {
@@ -7621,9 +7621,9 @@
     "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
     "category": "AI增强",
     "tags": [],
-    "stars": 41,
+    "stars": 42,
     "version": "v1.0.4",
-    "updated_at": "2026-02-28T17:04:26Z"
+    "updated_at": "2026-03-01T10:46:19Z"
   },
   "astrbot_plugin_vtb_adapter": {
     "desc": "用于连接 AstrBot 与 Open LLM Vtuber，除安装插件外还需要修改 Open LLM Vtuber 中的相关文件",
