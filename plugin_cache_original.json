@@ -1815,8 +1815,8 @@
     ],
     "category": "娱乐游戏",
     "stars": 3,
-    "version": "v0.2.0",
-    "updated_at": "2026-02-17T19:05:26Z"
+    "version": "v0.3.0",
+    "updated_at": "2026-03-01T19:25:09Z"
   },
   "astrbot_plugin_odoo": {
     "display_name": "AstrBot Odoo 连接器",
@@ -5781,8 +5781,8 @@
     ],
     "category": "外部集成",
     "stars": 4,
-    "version": "v1.0",
-    "updated_at": "2026-03-01T16:01:23Z"
+    "version": "v1.2",
+    "updated_at": "2026-03-01T20:10:04Z"
   },
   "astrbot_plugin_email_tool": {
     "display_name": "SMTP 邮件小工具",
