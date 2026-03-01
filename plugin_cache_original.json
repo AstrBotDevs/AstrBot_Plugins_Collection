@@ -164,7 +164,7 @@
     ],
     "stars": 0,
     "version": "5.3.1",
-    "updated_at": "2026-02-27T02:48:01Z"
+    "updated_at": "2026-03-01T10:20:06Z"
   },
   "astrbot-plugin-memos-pusher": {
     "display_name": "Memos 灵感推送",
@@ -7271,9 +7271,9 @@
       "撤回"
     ],
     "category": "外部集成",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.2.2",
-    "updated_at": "2026-02-17T17:06:05Z",
+    "updated_at": "2026-03-01T09:47:54Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_anti_revoke/master/logo.png"
   },
   "input_state_by_napcat": {
@@ -10446,9 +10446,9 @@
     "repo": "https://github.com/anchorAnc/astrbot_plugin_bo",
     "category": "AI增强",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2025-05-09T05:50:59Z"
+    "updated_at": "2026-03-01T09:47:10Z"
   },
   "astrbot_plugin_cloudrank": {
     "author": "GEMILUXVII",
