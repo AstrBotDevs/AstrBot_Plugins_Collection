@@ -274,7 +274,7 @@
     "category": "AI增强",
     "stars": 3,
     "version": "v0.2.2",
-    "updated_at": "2026-02-27T19:05:42Z"
+    "updated_at": "2026-03-01T17:43:55Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -967,9 +967,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 31,
+    "stars": 32,
     "version": "v1.5.0",
-    "updated_at": "2026-03-01T05:53:58Z",
+    "updated_at": "2026-03-01T18:01:44Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
