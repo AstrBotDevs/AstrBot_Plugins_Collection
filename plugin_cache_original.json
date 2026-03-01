@@ -301,9 +301,9 @@
     ],
     "social_link": "https://axi404.top",
     "category": "效率工具",
-    "stars": 2,
+    "stars": 3,
     "version": "0.2.3",
-    "updated_at": "2026-02-26T15:06:36Z"
+    "updated_at": "2026-03-01T04:43:08Z"
   },
   "astrbot-plugin-biliVideo": {
     "display_name": "哔哩哔哩视频总结",
@@ -8436,7 +8436,7 @@
     "category": "AI增强",
     "stars": 7,
     "version": "v1.2.0",
-    "updated_at": "2026-02-23T06:30:24Z"
+    "updated_at": "2026-03-01T03:48:07Z"
   },
   "pjsk_guess_song": {
     "desc": "PJSK 猜歌游戏插件",
@@ -10500,9 +10500,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "AI增强",
-    "stars": 51,
+    "stars": 52,
     "version": "v2.0.3",
-    "updated_at": "2026-02-28T07:18:12Z",
+    "updated_at": "2026-03-01T03:18:30Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_pokepro/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
