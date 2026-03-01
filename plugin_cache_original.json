@@ -360,7 +360,7 @@
     "category": "AI增强",
     "stars": 8,
     "version": "v1.9.1",
-    "updated_at": "2026-03-01T06:14:36Z",
+    "updated_at": "2026-03-01T14:40:31Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -513,8 +513,8 @@
     "social_link": "https://github.com/PyuraMazo",
     "category": "AI增强",
     "stars": 1,
-    "version": "v1.3.1",
-    "updated_at": "2026-03-01T02:16:15Z"
+    "version": "v1.3.2",
+    "updated_at": "2026-03-01T15:15:48Z"
   },
   "astrbot-plugin-iamthinking": {
     "display_name": "别吵我在思考",
@@ -654,7 +654,7 @@
     "category": "娱乐游戏",
     "stars": 3,
     "version": "v1.7.0",
-    "updated_at": "2026-02-24T09:29:00Z"
+    "updated_at": "2026-03-01T15:07:23Z"
   },
   "astrbot-plugin-Gemini-STT": {
     "display_name": "Gemini_STT",
@@ -2125,9 +2125,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
-    "stars": 189,
+    "stars": 190,
     "version": "v4.7.15",
-    "updated_at": "2026-03-01T14:03:00Z",
+    "updated_at": "2026-03-01T14:44:13Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -2570,7 +2570,7 @@
     "category": "娱乐游戏",
     "stars": 9,
     "version": "v2.0",
-    "updated_at": "2026-02-28T15:09:32Z",
+    "updated_at": "2026-03-01T14:38:54Z",
     "logo": "https://raw.githubusercontent.com/kennylimz/astrbot_plugin_mudae_qq/main/logo.png"
   },
   "BUGJI/astrbot_plugin_balance": {
@@ -2776,9 +2776,9 @@
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 145,
+    "stars": 146,
     "version": "Next-2.0.5",
-    "updated_at": "2026-03-01T11:43:36Z",
+    "updated_at": "2026-03-01T15:19:32Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -5119,9 +5119,9 @@
       "私聊"
     ],
     "category": "AI增强",
-    "stars": 16,
+    "stars": 17,
     "version": "2.1.0",
-    "updated_at": "2026-02-02T08:49:03Z"
+    "updated_at": "2026-03-01T14:44:10Z"
   },
   "astrbot_plugin_llm_amnesia": {
     "display_name": "LLM 遗忘插件",
@@ -5617,9 +5617,9 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "AI增强",
-    "stars": 48,
+    "stars": 49,
     "version": "v1.2.0",
-    "updated_at": "2026-02-27T08:54:36Z",
+    "updated_at": "2026-03-01T15:15:50Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -5636,8 +5636,8 @@
     ],
     "category": "外部集成",
     "stars": 13,
-    "version": "1.7.5",
-    "updated_at": "2026-03-01T14:03:21Z",
+    "version": "1.7.6",
+    "updated_at": "2026-03-01T15:09:15Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
