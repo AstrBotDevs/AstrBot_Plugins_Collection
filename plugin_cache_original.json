@@ -39,8 +39,8 @@
     ],
     "social_link": "https://github.com/Akiyo-dayo",
     "stars": 2,
-    "version": "2.4.92",
-    "updated_at": "2026-03-01T10:54:38Z",
+    "version": "2.4.93",
+    "updated_at": "2026-03-01T20:41:24Z",
     "logo": "https://raw.githubusercontent.com/Akiyo-dayo/astrbot_plugin_fishing/main/logo.png"
   },
   "astrbot-plugin-deobfuscation": {
@@ -5781,8 +5781,8 @@
     ],
     "category": "外部集成",
     "stars": 4,
-    "version": "v1.2",
-    "updated_at": "2026-03-01T20:10:04Z"
+    "version": "v1.2.1",
+    "updated_at": "2026-03-01T21:02:41Z"
   },
   "astrbot_plugin_email_tool": {
     "display_name": "SMTP 邮件小工具",
@@ -7573,9 +7573,9 @@
     ],
     "social_link": "blog.isla.ltd",
     "category": "外部集成",
-    "stars": 16,
+    "stars": 17,
     "version": "1.2.0",
-    "updated_at": "2026-02-28T22:57:14Z"
+    "updated_at": "2026-03-01T21:11:07Z"
   },
   "astrbot_plugin_AnimeMagnet": {
     "desc": "这是一个动漫磁链查询插件，可以获取动漫磁链",
