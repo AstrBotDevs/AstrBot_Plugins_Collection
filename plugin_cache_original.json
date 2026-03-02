@@ -273,8 +273,8 @@
     ],
     "category": "AI增强",
     "stars": 5,
-    "version": "v0.2.3",
-    "updated_at": "2026-03-02T14:53:16Z"
+    "version": "v0.3.0",
+    "updated_at": "2026-03-02T18:31:19Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -4109,9 +4109,9 @@
       "表情"
     ],
     "category": "AI增强",
-    "stars": 25,
+    "stars": 26,
     "version": "2.3.8",
-    "updated_at": "2026-03-02T08:29:11Z",
+    "updated_at": "2026-03-02T18:29:07Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -4746,9 +4746,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "效率工具",
-    "stars": 75,
+    "stars": 78,
     "version": "v2.3.0",
-    "updated_at": "2026-03-02T16:51:28Z",
+    "updated_at": "2026-03-02T18:35:55Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -7259,9 +7259,9 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "category": "外部集成",
     "tags": [],
-    "stars": 42,
+    "stars": 43,
     "version": "v2.3.4",
-    "updated_at": "2026-03-02T17:41:01Z"
+    "updated_at": "2026-03-02T18:18:25Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
