@@ -374,7 +374,7 @@
     "category": "AI增强",
     "stars": 8,
     "version": "v1.10.0",
-    "updated_at": "2026-03-02T15:37:42Z",
+    "updated_at": "2026-03-02T16:22:02Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -755,9 +755,9 @@
     ],
     "social_link": "https://github.com/cjxzdzh",
     "category": "AI增强",
-    "stars": 5,
+    "stars": 6,
     "version": "1.0.1",
-    "updated_at": "2026-02-24T17:02:20Z"
+    "updated_at": "2026-03-02T15:54:18Z"
   },
   "astrbot-plugin-payqr": {
     "display_name": "智能收款码",
@@ -811,9 +811,9 @@
       "工具"
     ],
     "category": "效率工具",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.1",
-    "updated_at": "2026-02-21T16:17:34Z",
+    "updated_at": "2026-03-02T16:02:55Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_at_check/master/logo.png"
   },
   "astrbot-plugin-grok-suite": {
@@ -967,9 +967,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 32,
+    "stars": 33,
     "version": "v1.5.0",
-    "updated_at": "2026-03-01T18:01:44Z",
+    "updated_at": "2026-03-02T16:47:52Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -2039,9 +2039,9 @@
     ],
     "social_link": "https://github.com/siciyuanweilai",
     "category": "AI增强",
-    "stars": 17,
+    "stars": 18,
     "version": "4.7.3",
-    "updated_at": "2026-03-01T08:23:00Z",
+    "updated_at": "2026-03-02T16:35:11Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -2283,7 +2283,7 @@
     "category": "娱乐游戏",
     "stars": 8,
     "version": "v1.6.1",
-    "updated_at": "2026-02-28T13:15:52Z",
+    "updated_at": "2026-03-02T16:34:26Z",
     "logo": "https://raw.githubusercontent.com/PyuraMazo/astrbot_plugin_galgame_box/master/logo.png"
   },
   "astrbot_plugin_anitabi": {
@@ -2790,9 +2790,9 @@
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 148,
+    "stars": 149,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-02T11:01:11Z",
+    "updated_at": "2026-03-02T15:45:31Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -4746,9 +4746,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "效率工具",
-    "stars": 74,
+    "stars": 75,
     "version": "v2.3.0",
-    "updated_at": "2026-03-02T14:26:18Z",
+    "updated_at": "2026-03-02T16:51:28Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -7573,9 +7573,9 @@
     ],
     "social_link": "blog.isla.ltd",
     "category": "外部集成",
-    "stars": 18,
+    "stars": 19,
     "version": "1.2.0",
-    "updated_at": "2026-03-02T05:33:57Z"
+    "updated_at": "2026-03-02T15:47:25Z"
   },
   "astrbot_plugin_AnimeMagnet": {
     "desc": "这是一个动漫磁链查询插件，可以获取动漫磁链",
@@ -12720,9 +12720,9 @@
     ],
     "pinned": true,
     "category": "效率工具",
-    "stars": 154,
+    "stars": 155,
     "version": "v3.19",
-    "updated_at": "2026-03-01T12:33:47Z"
+    "updated_at": "2026-03-02T16:26:31Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
