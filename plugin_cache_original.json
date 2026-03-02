@@ -9,9 +9,9 @@
       "传统文化",
       "游戏"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "2.1.5",
-    "updated_at": "2026-03-01T13:50:15Z"
+    "updated_at": "2026-03-02T05:40:20Z"
   },
   "astrbot-plugin-screen-companion": {
     "display_name": "我会一直看着你",
@@ -374,7 +374,7 @@
     "category": "AI增强",
     "stars": 8,
     "version": "v1.9.3",
-    "updated_at": "2026-03-02T04:45:28Z",
+    "updated_at": "2026-03-02T05:36:33Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -668,7 +668,7 @@
     "category": "娱乐游戏",
     "stars": 3,
     "version": "v1.7.0",
-    "updated_at": "2026-03-02T04:14:40Z"
+    "updated_at": "2026-03-02T05:52:37Z"
   },
   "astrbot-plugin-Gemini-STT": {
     "display_name": "Gemini_STT",
@@ -7259,9 +7259,9 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "category": "外部集成",
     "tags": [],
-    "stars": 40,
+    "stars": 41,
     "version": "v2.3.0",
-    "updated_at": "2026-02-28T01:07:21Z"
+    "updated_at": "2026-03-02T05:36:49Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -7573,9 +7573,9 @@
     ],
     "social_link": "blog.isla.ltd",
     "category": "外部集成",
-    "stars": 17,
+    "stars": 18,
     "version": "1.2.0",
-    "updated_at": "2026-03-01T21:11:07Z"
+    "updated_at": "2026-03-02T05:33:57Z"
   },
   "astrbot_plugin_AnimeMagnet": {
     "desc": "这是一个动漫磁链查询插件，可以获取动漫磁链",
