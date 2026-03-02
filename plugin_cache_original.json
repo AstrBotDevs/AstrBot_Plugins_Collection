@@ -178,7 +178,7 @@
     ],
     "stars": 0,
     "version": "5.3.1",
-    "updated_at": "2026-03-02T04:19:30Z"
+    "updated_at": "2026-03-02T11:18:34Z"
   },
   "astrbot-plugin-memos-pusher": {
     "display_name": "Memos 灵感推送",
@@ -274,7 +274,7 @@
     "category": "AI增强",
     "stars": 3,
     "version": "v0.2.3",
-    "updated_at": "2026-03-02T10:28:01Z"
+    "updated_at": "2026-03-02T11:15:54Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -2792,7 +2792,7 @@
     "category": "知识学习",
     "stars": 148,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-02T08:51:29Z",
+    "updated_at": "2026-03-02T11:01:11Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -4256,9 +4256,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "AI增强",
-    "stars": 43,
+    "stars": 44,
     "version": "v4.1.4",
-    "updated_at": "2026-03-02T09:50:07Z",
+    "updated_at": "2026-03-02T10:58:01Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -4746,9 +4746,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "效率工具",
-    "stars": 63,
+    "stars": 65,
     "version": "v2.3.0",
-    "updated_at": "2026-03-02T10:32:59Z",
+    "updated_at": "2026-03-02T11:14:28Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -9962,9 +9962,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 110,
+    "stars": 111,
     "version": "v2.0.7",
-    "updated_at": "2026-03-02T10:17:04Z",
+    "updated_at": "2026-03-02T11:17:51Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
