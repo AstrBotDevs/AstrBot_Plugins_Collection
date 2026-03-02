@@ -273,8 +273,8 @@
     ],
     "category": "AI增强",
     "stars": 3,
-    "version": "v0.2.2",
-    "updated_at": "2026-03-01T17:43:55Z"
+    "version": "v0.2.3",
+    "updated_at": "2026-03-02T10:28:01Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -343,7 +343,7 @@
     "tags": [],
     "stars": 6,
     "version": "v1.0.2",
-    "updated_at": "2026-03-01T13:03:35Z",
+    "updated_at": "2026-03-02T10:07:13Z",
     "logo": "https://raw.githubusercontent.com/storyAura/astrbot_plugin_biliVideo/main/logo.png"
   },
   "astrbot-plugin-opencode-client": {
@@ -684,8 +684,8 @@
     "social_link": "https://github.com/Weather-719",
     "category": "AI增强",
     "stars": 8,
-    "version": "2.3.5",
-    "updated_at": "2026-03-01T13:52:27Z"
+    "version": "2.3.6",
+    "updated_at": "2026-03-02T10:43:53Z"
   },
   "astrbot-plugin-openai-responses": {
     "display_name": "OpenAI Responses API Provider",
@@ -1424,9 +1424,9 @@
     ],
     "social_link": "https://space.bilibili.com/447591776",
     "category": "生活实用",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.2",
-    "updated_at": "2026-02-20T23:20:56Z",
+    "updated_at": "2026-03-02T10:28:09Z",
     "logo": "https://raw.githubusercontent.com/laopanmemz/astrbot_plugin_upfanswatcher/master/logo.png"
   },
   "anti_repeat": {
@@ -2361,7 +2361,7 @@
     "category": "AI增强",
     "stars": 3,
     "version": "v1.0.1",
-    "updated_at": "2026-02-24T12:28:30Z"
+    "updated_at": "2026-03-02T10:18:49Z"
   },
   "astrbot_plugin_engram": {
     "display_name": "仿生双轨记忆系统",
@@ -3986,9 +3986,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 62,
+    "stars": 63,
     "version": "v1.3.0",
-    "updated_at": "2026-02-27T15:10:43Z",
+    "updated_at": "2026-03-02T10:25:16Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -4746,9 +4746,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "效率工具",
-    "stars": 58,
+    "stars": 63,
     "version": "v2.3.0",
-    "updated_at": "2026-03-02T09:07:25Z",
+    "updated_at": "2026-03-02T10:32:59Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -5445,8 +5445,8 @@
     "category": "外部集成",
     "tags": [],
     "stars": 4,
-    "version": "2.0.0",
-    "updated_at": "2026-02-26T07:34:31Z"
+    "version": "2.0.1",
+    "updated_at": "2026-03-02T10:21:26Z"
   },
   "astrbot_plugin_NetEaseCloud_Music": {
     "display_name": "网易云点歌",
@@ -7260,8 +7260,8 @@
     "category": "外部集成",
     "tags": [],
     "stars": 42,
-    "version": "v2.3.1",
-    "updated_at": "2026-03-02T08:40:45Z"
+    "version": "v2.3.2",
+    "updated_at": "2026-03-02T10:03:44Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -9962,9 +9962,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 109,
+    "stars": 110,
     "version": "v2.0.7",
-    "updated_at": "2026-02-27T17:03:30Z",
+    "updated_at": "2026-03-02T10:17:04Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -12676,7 +12676,7 @@
     "category": "外部集成",
     "stars": 511,
     "version": "v0.916",
-    "updated_at": "2026-03-02T07:28:15Z"
+    "updated_at": "2026-03-02T10:13:07Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
