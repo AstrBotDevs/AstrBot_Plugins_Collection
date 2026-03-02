@@ -178,7 +178,7 @@
     ],
     "stars": 0,
     "version": "5.3.1",
-    "updated_at": "2026-03-01T13:15:23Z"
+    "updated_at": "2026-03-02T04:19:30Z"
   },
   "astrbot-plugin-memos-pusher": {
     "display_name": "Memos 灵感推送",
@@ -373,8 +373,8 @@
     "social_link": "https://github.com/leafliber",
     "category": "AI增强",
     "stars": 8,
-    "version": "v1.9.2",
-    "updated_at": "2026-03-01T16:45:53Z",
+    "version": "v1.9.3",
+    "updated_at": "2026-03-02T04:45:28Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -668,7 +668,7 @@
     "category": "娱乐游戏",
     "stars": 3,
     "version": "v1.7.0",
-    "updated_at": "2026-03-01T15:07:23Z"
+    "updated_at": "2026-03-02T04:14:40Z"
   },
   "astrbot-plugin-Gemini-STT": {
     "display_name": "Gemini_STT",
@@ -1189,9 +1189,9 @@
     "repo": "https://github.com/coolwind886-spec/astrbot_plugin_live2d_pet/",
     "category": "效率工具",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "v4.3.0",
-    "updated_at": "2026-02-24T06:25:07Z"
+    "updated_at": "2026-03-02T03:10:37Z"
   },
   "astrbot_plugin_steam_updates": {
     "display_name": "Steam 游戏更新推送插件",
@@ -1330,9 +1330,9 @@
       "prompt"
     ],
     "category": "AI增强",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-02-04T06:22:31Z",
+    "updated_at": "2026-03-02T03:33:47Z",
     "logo": "https://raw.githubusercontent.com/fjontk/astrbot_plugin_simple_injections/master/logo.png"
   },
   "astrbot_plugin_ipquery": {
@@ -2122,9 +2122,9 @@
     "social_link": "https://github.com/GCHkongcheng",
     "category": "AI增强",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-01-24T07:09:20Z"
+    "updated_at": "2026-03-02T04:24:59Z"
   },
   "astrbot_plugin_qq_group_daily_analysis": {
     "display_name": "QQ群分析总结插件",
@@ -2790,9 +2790,9 @@
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 146,
+    "stars": 147,
     "version": "Next-2.0.5",
-    "updated_at": "2026-03-01T15:19:32Z",
+    "updated_at": "2026-03-02T03:49:34Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -3560,9 +3560,9 @@
       "人格"
     ],
     "category": "AI增强",
-    "stars": 32,
+    "stars": 33,
     "version": "1.2.8",
-    "updated_at": "2026-02-27T19:29:46Z"
+    "updated_at": "2026-03-02T04:35:17Z"
   },
   "astrbot_plugin_angel_heart": {
     "display_name": "天使之心",
@@ -6720,9 +6720,9 @@
       "合并消息分析与回复"
     ],
     "category": "AI增强",
-    "stars": 5,
+    "stars": 6,
     "version": "2.0.0",
-    "updated_at": "2026-02-07T16:26:36Z"
+    "updated_at": "2026-03-02T04:16:35Z"
   },
   "zhiyu-astrbot-qqquery": {
     "desc": "一款查询QQ空间 QQ音乐 QQ基本信息的AstrBot插件",
@@ -8148,9 +8148,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "效率工具",
-    "stars": 34,
+    "stars": 35,
     "version": "v2.1.6",
-    "updated_at": "2026-02-27T17:34:50Z",
+    "updated_at": "2026-03-02T03:40:21Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -10165,9 +10165,9 @@
       "知识库"
     ],
     "category": "AI增强",
-    "stars": 80,
+    "stars": 81,
     "version": "v0.5.9",
-    "updated_at": "2026-02-24T02:06:29Z"
+    "updated_at": "2026-03-02T04:12:29Z"
   },
   "astrbot_uptime_kuma_webhook_plugin": {
     "author": "RC-CHN",
@@ -10828,9 +10828,9 @@
       "prompt"
     ],
     "category": "AI增强",
-    "stars": 2,
+    "stars": 3,
     "version": "1.3.0",
-    "updated_at": "2025-07-16T03:05:56Z"
+    "updated_at": "2026-03-02T02:27:38Z"
   },
   "astrbot_plugin_MsgDistributor": {
     "author": "Dinggg",
@@ -11044,9 +11044,9 @@
     ],
     "social_link": "https://github.com/vmoranv-reborn",
     "category": "娱乐游戏",
-    "stars": 12,
+    "stars": 13,
     "version": "1.7.2",
-    "updated_at": "2026-02-27T02:57:55Z",
+    "updated_at": "2026-03-02T04:39:33Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
@@ -13322,9 +13322,9 @@
     "repo": "https://github.com/FengYing1314/astrbot_plugin_token_auto",
     "category": "效率工具",
     "tags": [],
-    "stars": 10,
+    "stars": 9,
     "version": "v1.3.0",
-    "updated_at": "2026-02-27T08:05:45Z"
+    "updated_at": "2026-03-02T02:52:21Z"
   },
   "astrbot_plugin_web_searcher_pro": {
     "desc": "基于SearXNG的Web搜索插件",
@@ -13373,8 +13373,8 @@
     "category": "AI增强",
     "tags": [],
     "stars": 180,
-    "version": "v2.0.16",
-    "updated_at": "2026-02-27T15:19:05Z"
+    "version": "v2.0.17",
+    "updated_at": "2026-03-02T03:06:59Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
