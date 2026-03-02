@@ -1515,9 +1515,9 @@
     ],
     "social_link": "https://github.com/YukiRa1n",
     "category": "AI增强",
-    "stars": 2,
+    "stars": 3,
     "version": "v2.1.0",
-    "updated_at": "2026-02-08T11:28:08Z"
+    "updated_at": "2026-03-02T21:31:50Z"
   },
   "astrbot_plugin_sudoku": {
     "display_name": "数独游戏",
