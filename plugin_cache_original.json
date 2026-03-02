@@ -23,9 +23,9 @@
       "陪伴"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 4,
+    "stars": 5,
     "version": "1.5.0",
-    "updated_at": "2026-03-02T14:07:15Z"
+    "updated_at": "2026-03-02T15:37:22Z"
   },
   "astrbot-plugin-fishing-again": {
     "display_name": "Fishing Again!",
@@ -67,9 +67,9 @@
       "语音合成"
     ],
     "social_link": "https://github.com/w2902171175",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-02-25T07:05:06Z"
+    "updated_at": "2026-03-02T15:33:56Z"
   },
   "astrbot-plugin-custome-segment-reply": {
     "display_name": "自定义断句回复插件",
@@ -274,7 +274,7 @@
     "category": "AI增强",
     "stars": 5,
     "version": "v0.2.3",
-    "updated_at": "2026-03-02T14:40:57Z"
+    "updated_at": "2026-03-02T14:53:16Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -283,9 +283,9 @@
     "repo": "https://github.com/w2902171175/astrbot_plugin_GPT-SoVITS",
     "category": "AI增强",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-02-25T07:05:06Z"
+    "updated_at": "2026-03-02T15:33:56Z"
   },
   "astrbot-plugin-topic-starter": {
     "display_name": "topic_starter",
@@ -373,8 +373,8 @@
     "social_link": "https://github.com/leafliber",
     "category": "AI增强",
     "stars": 8,
-    "version": "v1.9.3",
-    "updated_at": "2026-03-02T14:37:28Z",
+    "version": "v1.10.0",
+    "updated_at": "2026-03-02T15:37:42Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -489,9 +489,9 @@
       "PDF"
     ],
     "category": "外部集成",
-    "stars": 6,
+    "stars": 7,
     "version": "3.0.0",
-    "updated_at": "2026-03-01T05:57:08Z",
+    "updated_at": "2026-03-02T15:17:15Z",
     "logo": "https://raw.githubusercontent.com/blueraina/astrbot_plugin_novel/main/logo.png"
   },
   "astrbot-plugin-inaturalist-search": {
@@ -575,9 +575,9 @@
       "共同协作"
     ],
     "category": "外部集成",
-    "stars": 6,
+    "stars": 7,
     "version": "3.0.0",
-    "updated_at": "2026-03-01T05:57:08Z",
+    "updated_at": "2026-03-02T15:17:15Z",
     "logo": "https://raw.githubusercontent.com/blueraina/astrbot_plugin_novel/main/logo.png"
   },
   "astrbot-plugin-clonetts": {
@@ -611,8 +611,8 @@
     "social_link": "https://github.com/HSOS6",
     "category": "AI增强",
     "stars": 10,
-    "version": "v1.3.1",
-    "updated_at": "2026-03-02T11:32:56Z",
+    "version": "v1.4.0",
+    "updated_at": "2026-03-02T15:09:47Z",
     "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_ssh/main/logo.png"
   },
   "astrbot-plugin-httpadapter": {
@@ -668,7 +668,7 @@
     "category": "娱乐游戏",
     "stars": 3,
     "version": "v1.7.0",
-    "updated_at": "2026-03-02T11:35:31Z"
+    "updated_at": "2026-03-02T15:40:46Z"
   },
   "astrbot-plugin-Gemini-STT": {
     "display_name": "Gemini_STT",
@@ -1218,9 +1218,9 @@
       "codegen"
     ],
     "category": "AI增强",
-    "stars": 25,
+    "stars": 26,
     "version": "1.1.1",
-    "updated_at": "2026-02-28T08:22:43Z",
+    "updated_at": "2026-03-02T15:34:43Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -2139,9 +2139,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
-    "stars": 190,
+    "stars": 191,
     "version": "v4.7.15",
-    "updated_at": "2026-03-01T14:44:13Z",
+    "updated_at": "2026-03-02T15:33:42Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -13374,7 +13374,7 @@
     "tags": [],
     "stars": 180,
     "version": "v2.1.0",
-    "updated_at": "2026-03-02T12:29:50Z"
+    "updated_at": "2026-03-02T15:07:53Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
