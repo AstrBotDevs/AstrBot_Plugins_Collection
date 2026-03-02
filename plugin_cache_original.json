@@ -374,7 +374,7 @@
     "category": "AI增强",
     "stars": 8,
     "version": "v1.9.3",
-    "updated_at": "2026-03-02T05:36:33Z",
+    "updated_at": "2026-03-02T07:47:26Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -538,9 +538,9 @@
     "social_link": "https://github.com/sssn-tech",
     "category": "AI增强",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "v0.1.0",
-    "updated_at": "2026-03-01T13:47:09Z",
+    "updated_at": "2026-03-02T08:24:15Z",
     "logo": "https://raw.githubusercontent.com/sssn-tech/astrbot_plugin_iamthinking/master/logo.png"
   },
   "astrbot-plugin-gbif-search": {
@@ -668,7 +668,7 @@
     "category": "娱乐游戏",
     "stars": 3,
     "version": "v1.7.0",
-    "updated_at": "2026-03-02T05:52:37Z"
+    "updated_at": "2026-03-02T07:37:31Z"
   },
   "astrbot-plugin-Gemini-STT": {
     "display_name": "Gemini_STT",
@@ -1715,9 +1715,9 @@
       "图片"
     ],
     "category": "AI增强",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.1.5",
-    "updated_at": "2026-02-07T00:55:02Z"
+    "updated_at": "2026-03-02T07:55:50Z"
   },
   "astrbot_plugin_at_ignore": {
     "display_name": "忽略@消息",
@@ -2791,8 +2791,8 @@
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
     "stars": 147,
-    "version": "Next-2.0.5",
-    "updated_at": "2026-03-02T03:49:34Z",
+    "version": "Next-2.0.6",
+    "updated_at": "2026-03-02T08:28:16Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -4110,8 +4110,8 @@
     ],
     "category": "AI增强",
     "stars": 25,
-    "version": "2.3.7",
-    "updated_at": "2026-02-27T17:45:12Z",
+    "version": "2.3.8",
+    "updated_at": "2026-03-02T08:29:11Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -4746,9 +4746,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "效率工具",
-    "stars": 52,
+    "stars": 57,
     "version": "v2.3.0",
-    "updated_at": "2026-03-02T01:51:15Z",
+    "updated_at": "2026-03-02T08:47:28Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -5279,9 +5279,9 @@
     ],
     "social_link": "https://github.com/ZvZPvz",
     "category": "AI增强",
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.0",
-    "updated_at": "2025-11-12T15:59:18Z",
+    "updated_at": "2026-03-02T07:12:22Z",
     "logo": "https://raw.githubusercontent.com/ZvZPvz/astrbot_plugin_email_narrator/main/logo.png"
   },
   "astrbot_plugin_mcwatcher": {
@@ -7259,9 +7259,9 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "category": "外部集成",
     "tags": [],
-    "stars": 41,
-    "version": "v2.3.0",
-    "updated_at": "2026-03-02T05:36:49Z"
+    "stars": 42,
+    "version": "v2.3.1",
+    "updated_at": "2026-03-02T08:40:45Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -12674,9 +12674,9 @@
       "搬史"
     ],
     "category": "外部集成",
-    "stars": 510,
+    "stars": 511,
     "version": "v0.916",
-    "updated_at": "2026-03-01T11:28:17Z"
+    "updated_at": "2026-03-02T07:28:15Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
