@@ -274,7 +274,7 @@
     "category": "AI增强",
     "stars": 3,
     "version": "v0.2.3",
-    "updated_at": "2026-03-02T11:15:54Z"
+    "updated_at": "2026-03-02T12:53:51Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -610,9 +610,9 @@
     ],
     "social_link": "https://github.com/HSOS6",
     "category": "AI增强",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.3.1",
-    "updated_at": "2026-02-28T17:35:24Z",
+    "updated_at": "2026-03-02T11:32:56Z",
     "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_ssh/main/logo.png"
   },
   "astrbot-plugin-httpadapter": {
@@ -668,7 +668,7 @@
     "category": "娱乐游戏",
     "stars": 3,
     "version": "v1.7.0",
-    "updated_at": "2026-03-02T07:37:31Z"
+    "updated_at": "2026-03-02T11:35:31Z"
   },
   "astrbot-plugin-Gemini-STT": {
     "display_name": "Gemini_STT",
@@ -1998,9 +1998,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "AI增强",
-    "stars": 22,
+    "stars": 23,
     "version": "2.2.3",
-    "updated_at": "2026-02-26T15:52:05Z",
+    "updated_at": "2026-03-02T13:00:47Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_worldbook/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -2430,9 +2430,9 @@
     ],
     "social_link": "https://github.com/DITF16",
     "category": "AI增强",
-    "stars": 42,
+    "stars": 43,
     "version": "1.1.1",
-    "updated_at": "2026-02-27T06:05:26Z",
+    "updated_at": "2026-03-02T11:42:52Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_groupGuard": {
@@ -2582,9 +2582,9 @@
     ],
     "social_link": "https://github.com/kennylimz",
     "category": "娱乐游戏",
-    "stars": 9,
+    "stars": 10,
     "version": "v2.0",
-    "updated_at": "2026-03-01T14:38:54Z",
+    "updated_at": "2026-03-02T12:36:08Z",
     "logo": "https://raw.githubusercontent.com/kennylimz/astrbot_plugin_mudae_qq/main/logo.png"
   },
   "BUGJI/astrbot_plugin_balance": {
@@ -3630,9 +3630,9 @@
       "文件解析"
     ],
     "category": "AI增强",
-    "stars": 7,
+    "stars": 8,
     "version": "v3.1.0",
-    "updated_at": "2026-02-26T06:08:15Z"
+    "updated_at": "2026-03-02T12:55:01Z"
   },
   "astrbot_plugin_reminder": {
     "display_name": "定时提醒插件",
@@ -4746,9 +4746,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "效率工具",
-    "stars": 65,
+    "stars": 72,
     "version": "v2.3.0",
-    "updated_at": "2026-03-02T11:14:28Z",
+    "updated_at": "2026-03-02T13:00:11Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -8092,9 +8092,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "效率工具",
-    "stars": 35,
+    "stars": 36,
     "version": "v2.1.2",
-    "updated_at": "2026-02-26T09:46:03Z",
+    "updated_at": "2026-03-02T12:45:04Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wakepro/main/logo.png"
   },
   "astrbot_plugin_memora_connect": {
@@ -9424,9 +9424,9 @@
     ],
     "social_link": "https://github.com/lxfight",
     "category": "效率工具",
-    "stars": 25,
+    "stars": 26,
     "version": "0.1.0",
-    "updated_at": "2026-02-25T15:44:46Z"
+    "updated_at": "2026-03-02T12:44:28Z"
   },
   "astrbot_plugin_textadventure": {
     "author": "LumineStory",
@@ -13332,9 +13332,9 @@
     "repo": "https://github.com/zouyonghe/astrbot_plugin_web_searcher_pro",
     "category": "效率工具",
     "tags": [],
-    "stars": 11,
+    "stars": 12,
     "version": "v1.0.3",
-    "updated_at": "2026-02-28T17:35:09Z"
+    "updated_at": "2026-03-02T12:55:09Z"
   },
   "astrbot_plugin_memeify": {
     "desc": "一个AstrBot的插件，用于LLM回复表情包的实现",
@@ -13373,8 +13373,8 @@
     "category": "AI增强",
     "tags": [],
     "stars": 180,
-    "version": "v2.0.17",
-    "updated_at": "2026-03-02T03:06:59Z"
+    "version": "v2.1.0",
+    "updated_at": "2026-03-02T12:29:50Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
