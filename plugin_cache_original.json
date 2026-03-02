@@ -1887,9 +1887,9 @@
     ],
     "social_link": "https://github.com/Youzini-afk",
     "category": "娱乐游戏",
-    "stars": 4,
+    "stars": 5,
     "version": "1.8.3",
-    "updated_at": "2026-02-02T09:37:36Z"
+    "updated_at": "2026-03-02T01:09:56Z"
   },
   "astrbot_plugin_group_aip_review": {
     "display_name": "群消息内容安全审核插件",
@@ -4746,9 +4746,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "效率工具",
-    "stars": 49,
+    "stars": 52,
     "version": "v2.3.0",
-    "updated_at": "2026-03-01T09:17:33Z",
+    "updated_at": "2026-03-02T01:51:15Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -9900,9 +9900,9 @@
       "vocechat"
     ],
     "category": "外部集成",
-    "stars": 8,
+    "stars": 9,
     "version": "1.0.0",
-    "updated_at": "2026-01-22T09:56:51Z"
+    "updated_at": "2026-03-02T02:01:37Z"
   },
   "astrbot_plugin_drift_bottle": {
     "author": "wuyan1003",
