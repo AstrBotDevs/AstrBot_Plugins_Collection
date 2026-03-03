@@ -1,4 +1,54 @@
 {
+  "astrbot-plugin-daily-ai-news": {
+    "display_name": "每日AI资讯推送",
+    "desc": "订阅橘鸦AI日报并进行AI总结",
+    "author": "xx",
+    "repo": "https://github.com/xxofficial/astrbot_plugin_daily_ai_news",
+    "tags": [],
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-02T02:57:30Z"
+  },
+  "astrbot-plugin-Grok2API Token": {
+    "display_name": "Grok2API Token",
+    "desc": "监控 Grok2API Token 号池状态，查看 Token 总数、正常/限流/失效数量及剩余配额",
+    "author": "冰冰",
+    "repo": "https://github.com/fbbDirge/Grok2API-Token",
+    "tags": [
+      "grok",
+      "Token检测"
+    ],
+    "social_link": "https://github.com/fbbDirge",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-03T02:36:35Z"
+  },
+  "astrbot-plugin-bangumi-enhance": {
+    "display_name": "Bangumi Enhance",
+    "desc": "AstrBot Bangumi 增强版：为 AstrBot 打造的一站式 Bangumi 追番助手。支持番剧/漫画图文搜索、每日放送时刻表查看及集数更新自动提醒。",
+    "author": "united_pooh",
+    "repo": "https://github.com/united-pooh/astrbot_plugin_bangumi",
+    "tags": [
+      "动漫",
+      "番剧",
+      "bangumi",
+      "追番"
+    ],
+    "social_link": "https://github.com/united-pooh",
+    "stars": 3,
+    "version": "v1.1.0",
+    "updated_at": "2026-03-03T11:12:16Z"
+  },
+  "astrbot-plugin-three-body-wiki": {
+    "display_name": "灰机wiki搜索工具",
+    "desc": "通过API调用在灰机wiki中搜索内容",
+    "author": "J-SLY",
+    "repo": "https://github.com/J-SLY/astrbot_plugin_three_body_wiki",
+    "tags": [],
+    "stars": 1,
+    "version": "v2.0.0",
+    "updated_at": "2026-03-03T12:19:42Z"
+  },
   "astrbot-plugin-listen-github": {
     "display_name": "监听github平台用户公开动态",
     "desc": "通过 RSS 定时获取 GitHub 用户/仓库动态并推送到聊天会话",
@@ -44,7 +94,7 @@
     "social_link": "https://github.com/xiaoruange39",
     "stars": 2,
     "version": "v1.0.2",
-    "updated_at": "2026-03-03T13:17:40Z",
+    "updated_at": "2026-03-03T15:08:43Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_epic_freegame/main/logo.png"
   },
   "astrbot-plugin-goofish-catcher": {
@@ -60,8 +110,9 @@
     ],
     "social_link": "https://github.com/RichardLiuda",
     "stars": 2,
-    "version": "v0.1.0",
-    "updated_at": "2026-03-03T12:39:56Z"
+    "version": "v0.1.1",
+    "updated_at": "2026-03-03T15:44:47Z",
+    "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
     "display_name": "诗词查询/游戏",
@@ -190,9 +241,9 @@
       "游戏",
       "sky"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "2.2.0",
-    "updated_at": "2026-02-27T15:54:06Z",
+    "updated_at": "2026-03-03T15:03:35Z",
     "logo": "https://raw.githubusercontent.com/wzq10314/astrbot_plugin_sky/main/logo.png"
   },
   "astrbot-plugin-animatedemoji": {
@@ -438,7 +489,7 @@
     "category": "AI增强",
     "stars": 8,
     "version": "v1.10.0",
-    "updated_at": "2026-03-03T14:09:32Z",
+    "updated_at": "2026-03-03T15:26:31Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -3290,9 +3341,9 @@
     "social_link": "https://github.com/NachoCrazy",
     "category": "AI增强",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "1.5.0",
-    "updated_at": "2026-02-28T03:55:13Z"
+    "updated_at": "2026-03-03T14:43:20Z"
   },
   "astrbot_plugin_netease_music": {
     "display_name": "豪华版网易云点歌插件",
@@ -4321,8 +4372,8 @@
     "social_link": "https://github.com/muyouzhi6",
     "category": "AI增强",
     "stars": 44,
-    "version": "v4.1.4",
-    "updated_at": "2026-03-02T10:58:01Z",
+    "version": "v4.1.5",
+    "updated_at": "2026-03-03T15:41:14Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -5715,7 +5766,7 @@
     "category": "外部集成",
     "stars": 13,
     "version": "1.7.6",
-    "updated_at": "2026-03-03T10:49:35Z",
+    "updated_at": "2026-03-03T15:12:35Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
