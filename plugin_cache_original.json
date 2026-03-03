@@ -37,7 +37,7 @@
     "social_link": "https://github.com/united-pooh",
     "stars": 3,
     "version": "v1.1.0",
-    "updated_at": "2026-03-03T17:02:25Z",
+    "updated_at": "2026-03-03T17:55:37Z",
     "logo": "https://raw.githubusercontent.com/united-pooh/astrbot_plugin_bangumi/main/logo.png"
   },
   "astrbot-plugin-three-body-wiki": {
@@ -325,7 +325,7 @@
     "social_link": "https://github.com/cxyfer",
     "stars": 2,
     "version": "v1.1.6",
-    "updated_at": "2026-03-01T09:29:37Z",
+    "updated_at": "2026-03-03T19:30:45Z",
     "logo": "https://raw.githubusercontent.com/cxyfer/astrbot_plugin_livepulse/master/logo.png"
   },
   "astrbot-plugin-bookkeeper": {
@@ -2908,7 +2908,7 @@
     "category": "知识学习",
     "stars": 150,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-03T06:06:51Z",
+    "updated_at": "2026-03-03T17:59:31Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -3274,9 +3274,9 @@
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
     "category": "AI增强",
-    "stars": 39,
+    "stars": 40,
     "version": "v1.1",
-    "updated_at": "2026-02-28T09:28:00Z"
+    "updated_at": "2026-03-03T18:46:17Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -5313,7 +5313,7 @@
     "category": "效率工具",
     "stars": 21,
     "version": "v4.3.2",
-    "updated_at": "2026-03-03T17:44:39Z",
+    "updated_at": "2026-03-03T17:46:59Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -11489,8 +11489,8 @@
     "social_link": "https://docs.sayu-bot.com/",
     "category": "外部集成",
     "stars": 31,
-    "version": "v0.4.5",
-    "updated_at": "2026-03-03T17:43:51Z"
+    "version": "v0.4.6",
+    "updated_at": "2026-03-03T17:53:43Z"
   },
   "astrbot_plugin_xyzw": {
     "author": "四郎",
