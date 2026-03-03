@@ -374,7 +374,7 @@
     "category": "AI增强",
     "stars": 8,
     "version": "v1.10.0",
-    "updated_at": "2026-03-03T05:26:04Z",
+    "updated_at": "2026-03-03T06:29:13Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -766,9 +766,9 @@
     "repo": "https://github.com/luori7hao/astrbot_plugin_payqr",
     "category": "AI增强",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "1.0.0",
-    "updated_at": "2026-02-24T14:50:20Z"
+    "updated_at": "2026-03-03T06:42:31Z"
   },
   "astrbot-plugin-jx3": {
     "display_name": "剑网三游戏数据查询工具",
@@ -1982,9 +1982,9 @@
     ],
     "social_link": "https://github.com/anneviliu",
     "category": "外部集成",
-    "stars": 2,
+    "stars": 3,
     "version": "0.3.1",
-    "updated_at": "2026-02-21T13:00:29Z"
+    "updated_at": "2026-03-03T06:06:59Z"
   },
   "astrbot_plugin_worldbook": {
     "display_name": "世界书插件",
@@ -2790,9 +2790,9 @@
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 149,
+    "stars": 150,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-02T15:45:31Z",
+    "updated_at": "2026-03-03T06:06:51Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -3560,9 +3560,9 @@
       "人格"
     ],
     "category": "AI增强",
-    "stars": 34,
+    "stars": 35,
     "version": "1.2.8",
-    "updated_at": "2026-03-02T13:53:21Z"
+    "updated_at": "2026-03-03T06:20:40Z"
   },
   "astrbot_plugin_angel_heart": {
     "display_name": "天使之心",
@@ -3575,9 +3575,9 @@
       "群聊优化"
     ],
     "category": "外部集成",
-    "stars": 37,
+    "stars": 38,
     "version": "0.8.12",
-    "updated_at": "2026-02-26T07:10:20Z"
+    "updated_at": "2026-03-03T06:20:36Z"
   },
   "astrbot_plugin_angel_eye": {
     "display_name": "天使之眼",
@@ -3590,9 +3590,9 @@
       "聊天记录"
     ],
     "category": "效率工具",
-    "stars": 11,
+    "stars": 12,
     "version": "1.0.5",
-    "updated_at": "2026-02-27T08:30:19Z"
+    "updated_at": "2026-03-03T06:20:31Z"
   },
   "lumingya/astrbot_plugin_regex_filter": {
     "display_name": "通用正则后处理",
@@ -4109,9 +4109,9 @@
       "表情"
     ],
     "category": "AI增强",
-    "stars": 26,
+    "stars": 27,
     "version": "2.3.8",
-    "updated_at": "2026-03-02T18:29:07Z",
+    "updated_at": "2026-03-03T06:20:28Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -4746,9 +4746,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "效率工具",
-    "stars": 80,
+    "stars": 81,
     "version": "v2.3.0",
-    "updated_at": "2026-03-02T19:14:13Z",
+    "updated_at": "2026-03-03T06:41:01Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
