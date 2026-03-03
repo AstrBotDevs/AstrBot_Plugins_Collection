@@ -1,4 +1,19 @@
 {
+  "astrbot-plugin-epic-freegame": {
+    "display_name": "Epic 免费游戏推送",
+    "desc": "获取 Epic 每周免费游戏信息，支持定时推送和指令查询，通过 60s API 获取数据并渲染为精美图片发送。",
+    "author": "xiaoruange39",
+    "repo": "https://github.com/xiaoruange39/astrbot_plugin_epic_freegame",
+    "tags": [
+      "Epic",
+      "喜加一",
+      "游戏",
+      "推送",
+      "免费游戏",
+      "epic"
+    ],
+    "social_link": "https://github.com/xiaoruange39"
+  },
   "astrbot-plugin-goofish-catcher": {
     "display_name": "闲鱼蹲蹲助手",
     "desc": "关键词订阅闲鱼商品上新与降价监控，支持即时查询、LLM 推荐与后台主动通知。",
