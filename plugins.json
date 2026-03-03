@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-listen-github": {
+    "display_name": "监听github平台用户公开动态",
+    "desc": "通过 RSS 定时获取 GitHub 用户/仓库动态并推送到聊天会话",
+    "author": "aliveriver",
+    "repo": "https://github.com/aliveriver/astrbot_plugin_listen_github",
+    "tags": [
+      "视奸",
+      "github"
+    ],
+    "social_link": "https://github.com/aliveriver"
+  },
   "astrbot-plugin-bazaar": {
     "display_name": "大巴扎小助手",
     "desc": "astrbot_plugin_bazaar 是一个 AstrBot 聊天机器人插件，可以在 QQ / Telegram / 微信等平台中快速查询 The Bazaar 游戏数据，包括怪物、物品、技能信息，以及来自社区的推荐阵容。\n\n查询结果以精美的图片卡片形式呈现，支持中英文双语查询。",
