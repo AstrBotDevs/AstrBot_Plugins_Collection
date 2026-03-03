@@ -1,4 +1,17 @@
 {
+  "astrbot-plugin-goofish-catcher": {
+    "display_name": "闲鱼蹲蹲助手",
+    "desc": "关键词订阅闲鱼商品上新与降价监控，支持即时查询、LLM 推荐与后台主动通知。",
+    "author": "RichardLiu",
+    "repo": "https://github.com/RichardLiuda/astrbot_plugin_goofish_catcher",
+    "tags": [
+      "ai",
+      "购物",
+      "闲鱼",
+      "监控"
+    ],
+    "social_link": "https://github.com/RichardLiuda"
+  },
   "astrbot-plugin-poetry-games": {
     "display_name": "诗词查询/游戏",
     "desc": "这是一个用于 AstrBot 的诗词插件。通过存在于本地的数据库，进行诗词查询和诗词游戏。",
