@@ -667,8 +667,8 @@
     "social_link": "https://github.com/1-20182",
     "category": "娱乐游戏",
     "stars": 3,
-    "version": "v1.7.0",
-    "updated_at": "2026-03-02T15:40:46Z"
+    "version": "v1.9.2",
+    "updated_at": "2026-03-03T01:13:31Z"
   },
   "astrbot-plugin-Gemini-STT": {
     "display_name": "Gemini_STT",
@@ -737,9 +737,9 @@
     "social_link": "www.chuyel.cn",
     "category": "外部集成",
     "tags": [],
-    "stars": 8,
+    "stars": 9,
     "version": "v1.0.8",
-    "updated_at": "2026-03-01T19:19:58Z",
+    "updated_at": "2026-03-03T02:01:50Z",
     "logo": "https://raw.githubusercontent.com/chuyegzs/astrbot_plugin_meting/main/logo.png"
   },
   "astrbot-plugin-comfyui": {
@@ -781,8 +781,8 @@
     ],
     "category": "外部集成",
     "stars": 3,
-    "version": "v1.2.0",
-    "updated_at": "2026-02-26T05:18:35Z",
+    "version": "v1.2.1",
+    "updated_at": "2026-03-03T01:59:27Z",
     "logo": "https://raw.githubusercontent.com/qsc20001102/astrbot_plugin_jx3/main/logo.png"
   },
   "astrbot-plugin-zirunbi": {
@@ -1544,9 +1544,9 @@
       "表情包"
     ],
     "category": "AI增强",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.0",
-    "updated_at": "2026-02-17T06:06:22Z"
+    "updated_at": "2026-03-03T01:57:04Z"
   },
   "astrbot_plugin_daily_stock_analysis_adapter": {
     "display_name": "DailyStockAnalysis",
@@ -2910,8 +2910,8 @@
     "social_link": "https://github.com/stevessr",
     "category": "外部集成",
     "stars": 10,
-    "version": "0.3.3",
-    "updated_at": "2026-03-01T13:37:25Z",
+    "version": "0.3.4",
+    "updated_at": "2026-03-02T23:45:55Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_url_image_auto": {
@@ -4420,9 +4420,9 @@
     ],
     "social_link": "https://space.bilibili.com/702922307",
     "category": "AI增强",
-    "stars": 3,
+    "stars": 4,
     "version": "0.0.4",
-    "updated_at": "2026-01-29T05:48:00Z"
+    "updated_at": "2026-03-02T23:57:30Z"
   },
   "astrbot_plugin_fox_status": {
     "display_name": "Fox 状态监控",
