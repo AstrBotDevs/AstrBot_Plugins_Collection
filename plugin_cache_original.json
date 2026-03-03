@@ -5312,8 +5312,8 @@
     ],
     "category": "效率工具",
     "stars": 21,
-    "version": "v4.3.2",
-    "updated_at": "2026-03-03T17:46:59Z",
+    "version": "v4.3.3",
+    "updated_at": "2026-03-03T19:56:48Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -8369,9 +8369,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 71,
+    "stars": 72,
     "version": "v3.0.3",
-    "updated_at": "2026-03-01T13:51:32Z",
+    "updated_at": "2026-03-03T19:40:13Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
