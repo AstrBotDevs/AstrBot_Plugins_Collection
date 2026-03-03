@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-Grok2API Token": {
+    "display_name": "Grok2API Token",
+    "desc": "监控 Grok2API Token 号池状态，查看 Token 总数、正常/限流/失效数量及剩余配额",
+    "author": "冰冰",
+    "repo": "https://github.com/fbbDirge/Grok2API-Token",
+    "tags": [
+      "grok",
+      "Token检测"
+    ],
+    "social_link": "https://github.com/fbbDirge"
+  },
   "astrbot-plugin-bangumi-enhance": {
     "display_name": "Bangumi Enhance",
     "desc": "AstrBot Bangumi 增强版：为 AstrBot 打造的一站式 Bangumi 追番助手。支持番剧/漫画图文搜索、每日放送时刻表查看及集数更新自动提醒。",
