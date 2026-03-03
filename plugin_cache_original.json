@@ -1,4 +1,68 @@
 {
+  "astrbot-plugin-listen-github": {
+    "display_name": "监听github平台用户公开动态",
+    "desc": "通过 RSS 定时获取 GitHub 用户/仓库动态并推送到聊天会话",
+    "author": "aliveriver",
+    "repo": "https://github.com/aliveriver/astrbot_plugin_listen_github",
+    "tags": [
+      "视奸",
+      "github"
+    ],
+    "social_link": "https://github.com/aliveriver",
+    "stars": 1,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-03T03:01:24Z",
+    "logo": "https://raw.githubusercontent.com/aliveriver/astrbot_plugin_listen_github/master/logo.png"
+  },
+  "astrbot-plugin-bazaar": {
+    "display_name": "大巴扎小助手",
+    "desc": "astrbot_plugin_bazaar 是一个 AstrBot 聊天机器人插件，可以在 QQ / Telegram / 微信等平台中快速查询 The Bazaar 游戏数据，包括怪物、物品、技能信息，以及来自社区的推荐阵容。\n\n查询结果以精美的图片卡片形式呈现，支持中英文双语查询。",
+    "author": "钱德勒饼",
+    "repo": "https://github.com/shitlsh/astrbot_plugin_bazaar",
+    "tags": [
+      "bazaar",
+      "电子游戏"
+    ],
+    "stars": 0,
+    "version": "v1.1.2",
+    "updated_at": "2026-03-02T06:10:24Z",
+    "logo": "https://raw.githubusercontent.com/shitlsh/astrbot_plugin_bazaar/main/logo.png"
+  },
+  "astrbot-plugin-epic-freegame": {
+    "display_name": "Epic 免费游戏推送",
+    "desc": "获取 Epic 每周免费游戏信息，支持定时推送和指令查询，通过 60s API 获取数据并渲染为精美图片发送。",
+    "author": "xiaoruange39",
+    "repo": "https://github.com/xiaoruange39/astrbot_plugin_epic_freegame",
+    "tags": [
+      "Epic",
+      "喜加一",
+      "游戏",
+      "推送",
+      "免费游戏",
+      "epic"
+    ],
+    "social_link": "https://github.com/xiaoruange39",
+    "stars": 2,
+    "version": "v1.0.0",
+    "updated_at": "2026-02-28T16:15:06Z",
+    "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_epic_freegame/main/logo.png"
+  },
+  "astrbot-plugin-goofish-catcher": {
+    "display_name": "闲鱼蹲蹲助手",
+    "desc": "关键词订阅闲鱼商品上新与降价监控，支持即时查询、LLM 推荐与后台主动通知。",
+    "author": "RichardLiu",
+    "repo": "https://github.com/RichardLiuda/astrbot_plugin_goofish_catcher",
+    "tags": [
+      "ai",
+      "购物",
+      "闲鱼",
+      "监控"
+    ],
+    "social_link": "https://github.com/RichardLiuda",
+    "stars": 1,
+    "version": "v0.1.0",
+    "updated_at": "2026-03-01T04:27:09Z"
+  },
   "astrbot-plugin-poetry-games": {
     "display_name": "诗词查询/游戏",
     "desc": "这是一个用于 AstrBot 的诗词插件。通过存在于本地的数据库，进行诗词查询和诗词游戏。",
@@ -39,8 +103,8 @@
     ],
     "social_link": "https://github.com/Akiyo-dayo",
     "stars": 2,
-    "version": "2.4.93",
-    "updated_at": "2026-03-01T20:41:24Z",
+    "version": "2.4.94",
+    "updated_at": "2026-03-03T07:10:25Z",
     "logo": "https://raw.githubusercontent.com/Akiyo-dayo/astrbot_plugin_fishing/main/logo.png"
   },
   "astrbot-plugin-deobfuscation": {
@@ -739,7 +803,7 @@
     "tags": [],
     "stars": 9,
     "version": "v1.0.8",
-    "updated_at": "2026-03-03T02:01:50Z",
+    "updated_at": "2026-03-03T07:26:30Z",
     "logo": "https://raw.githubusercontent.com/chuyegzs/astrbot_plugin_meting/main/logo.png"
   },
   "astrbot-plugin-comfyui": {
@@ -2583,8 +2647,8 @@
     "social_link": "https://github.com/kennylimz",
     "category": "娱乐游戏",
     "stars": 10,
-    "version": "v2.0",
-    "updated_at": "2026-03-02T12:36:08Z",
+    "version": "v2.1",
+    "updated_at": "2026-03-03T07:16:53Z",
     "logo": "https://raw.githubusercontent.com/kennylimz/astrbot_plugin_mudae_qq/main/logo.png"
   },
   "BUGJI/astrbot_plugin_balance": {
@@ -5902,9 +5966,9 @@
       "实用"
     ],
     "category": "效率工具",
-    "stars": 4,
+    "stars": 5,
     "version": "1.2.5",
-    "updated_at": "2025-12-27T20:32:33Z",
+    "updated_at": "2026-03-03T06:57:13Z",
     "logo": "https://raw.githubusercontent.com/1592363624/astrbot_plugin_github_monitor_shell/master/logo.png"
   },
   "astrbot_plugin_ragflow_adapter": {
