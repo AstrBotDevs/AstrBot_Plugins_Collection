@@ -87,9 +87,9 @@
       "陪伴"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 5,
+    "stars": 7,
     "version": "1.7.0",
-    "updated_at": "2026-03-02T17:12:50Z"
+    "updated_at": "2026-03-03T09:31:31Z"
   },
   "astrbot-plugin-fishing-again": {
     "display_name": "Fishing Again!",
@@ -438,7 +438,7 @@
     "category": "AI增强",
     "stars": 8,
     "version": "v1.10.0",
-    "updated_at": "2026-03-03T08:32:53Z",
+    "updated_at": "2026-03-03T09:29:35Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -2478,8 +2478,8 @@
     "category": "AI增强",
     "tags": [],
     "stars": 0,
-    "version": "v0.1.0",
-    "updated_at": "2026-01-17T04:26:20Z"
+    "version": "v0.2.0",
+    "updated_at": "2026-03-03T08:52:31Z"
   },
   "astrbot_plugin_self_iterative_core": {
     "display_name": "自迭代核心",
@@ -3608,9 +3608,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "效率工具",
-    "stars": 28,
+    "stars": 29,
     "version": "1.1.3",
-    "updated_at": "2026-03-02T22:35:28Z",
+    "updated_at": "2026-03-03T09:19:04Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
@@ -5993,9 +5993,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "AI增强",
-    "stars": 99,
+    "stars": 100,
     "version": "v1.1.5",
-    "updated_at": "2026-03-01T12:14:13Z",
+    "updated_at": "2026-03-03T09:13:02Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -9928,9 +9928,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "娱乐游戏",
-    "stars": 56,
+    "stars": 57,
     "version": "2.2.0",
-    "updated_at": "2026-02-21T14:37:08Z",
+    "updated_at": "2026-03-03T09:21:20Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
