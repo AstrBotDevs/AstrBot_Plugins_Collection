@@ -1,4 +1,17 @@
 {
+  "astrbot-plugin-bangumi-enhance": {
+    "display_name": "Bangumi Enhance",
+    "desc": "AstrBot Bangumi 增强版：为 AstrBot 打造的一站式 Bangumi 追番助手。支持番剧/漫画图文搜索、每日放送时刻表查看及集数更新自动提醒。",
+    "author": "united_pooh",
+    "repo": "https://github.com/united-pooh/astrbot_plugin_bangumi",
+    "tags": [
+      "动漫",
+      "番剧",
+      "bangumi",
+      "追番"
+    ],
+    "social_link": "https://github.com/united-pooh"
+  },
   "astrbot-plugin-three-body-wiki": {
     "display_name": "灰机wiki搜索工具",
     "desc": "通过API调用在灰机wiki中搜索内容",
