@@ -1572,8 +1572,8 @@
     "social_link": "https://github.com/piexian",
     "category": "外部集成",
     "stars": 5,
-    "version": "v1.0.6",
-    "updated_at": "2026-03-03T21:08:12Z",
+    "version": "v1.0.7",
+    "updated_at": "2026-03-03T21:40:51Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_grok_web_search/master/logo.png"
   },
   "astrbot_plugin_fake_ai_watermark": {
