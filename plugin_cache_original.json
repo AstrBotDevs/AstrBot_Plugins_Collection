@@ -44,7 +44,7 @@
     "social_link": "https://github.com/xiaoruange39",
     "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-02-28T16:15:06Z",
+    "updated_at": "2026-03-03T10:50:48Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_epic_freegame/main/logo.png"
   },
   "astrbot-plugin-goofish-catcher": {
@@ -438,7 +438,7 @@
     "category": "AI增强",
     "stars": 8,
     "version": "v1.10.0",
-    "updated_at": "2026-03-03T09:29:35Z",
+    "updated_at": "2026-03-03T10:50:08Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -4050,9 +4050,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 63,
+    "stars": 64,
     "version": "v1.3.0",
-    "updated_at": "2026-03-02T10:25:16Z",
+    "updated_at": "2026-03-03T10:55:16Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -5715,7 +5715,7 @@
     "category": "外部集成",
     "stars": 13,
     "version": "1.7.6",
-    "updated_at": "2026-03-01T15:09:15Z",
+    "updated_at": "2026-03-03T10:49:35Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
@@ -5993,9 +5993,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "AI增强",
-    "stars": 100,
+    "stars": 101,
     "version": "v1.1.5",
-    "updated_at": "2026-03-03T09:13:02Z",
+    "updated_at": "2026-03-03T11:12:45Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -10384,9 +10384,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 61,
+    "stars": 62,
     "version": "v1.1.0",
-    "updated_at": "2026-02-26T07:33:56Z",
+    "updated_at": "2026-03-03T11:00:43Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
