@@ -43,8 +43,8 @@
     ],
     "social_link": "https://github.com/xiaoruange39",
     "stars": 2,
-    "version": "v1.0.1",
-    "updated_at": "2026-03-03T12:07:47Z",
+    "version": "v1.0.2",
+    "updated_at": "2026-03-03T13:17:40Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_epic_freegame/main/logo.png"
   },
   "astrbot-plugin-goofish-catcher": {
@@ -88,8 +88,8 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 7,
-    "version": "1.7.0",
-    "updated_at": "2026-03-03T09:31:31Z"
+    "version": "1.8.0",
+    "updated_at": "2026-03-03T13:39:31Z"
   },
   "astrbot-plugin-fishing-again": {
     "display_name": "Fishing Again!",
@@ -337,8 +337,8 @@
     ],
     "category": "AI增强",
     "stars": 10,
-    "version": "v0.3.0",
-    "updated_at": "2026-03-03T12:53:06Z"
+    "version": "v0.3.1",
+    "updated_at": "2026-03-03T13:25:49Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -438,7 +438,7 @@
     "category": "AI增强",
     "stars": 8,
     "version": "v1.10.0",
-    "updated_at": "2026-03-03T12:23:36Z",
+    "updated_at": "2026-03-03T14:09:32Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -525,8 +525,8 @@
     ],
     "category": "效率工具",
     "stars": 1,
-    "version": "v1.0",
-    "updated_at": "2026-02-22T03:30:44Z",
+    "version": "v1.1",
+    "updated_at": "2026-03-03T14:14:54Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_sentinel/master/logo.png"
   },
   "astrbot-plugin-bilibanshi": {
@@ -1472,7 +1472,7 @@
     "tags": [],
     "stars": 0,
     "version": "v1.1",
-    "updated_at": "2026-03-03T11:40:35Z"
+    "updated_at": "2026-03-03T13:59:50Z"
   },
   "astrbot_plugin_upfanswatcher": {
     "display_name": "astrbot_plugin_upfanswatcher",
@@ -2204,8 +2204,8 @@
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
     "stars": 191,
-    "version": "v4.7.15",
-    "updated_at": "2026-03-02T15:33:42Z",
+    "version": "v4.8.0",
+    "updated_at": "2026-03-03T13:25:00Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -2648,7 +2648,7 @@
     "category": "娱乐游戏",
     "stars": 10,
     "version": "v2.1",
-    "updated_at": "2026-03-03T07:54:51Z",
+    "updated_at": "2026-03-03T13:59:05Z",
     "logo": "https://raw.githubusercontent.com/kennylimz/astrbot_plugin_mudae_qq/main/logo.png"
   },
   "BUGJI/astrbot_plugin_balance": {
@@ -3626,7 +3626,7 @@
     "category": "AI增强",
     "stars": 35,
     "version": "1.2.8",
-    "updated_at": "2026-03-03T06:20:40Z"
+    "updated_at": "2026-03-03T13:25:46Z"
   },
   "astrbot_plugin_angel_heart": {
     "display_name": "天使之心",
@@ -4174,8 +4174,8 @@
     ],
     "category": "AI增强",
     "stars": 27,
-    "version": "2.3.8",
-    "updated_at": "2026-03-03T06:20:28Z",
+    "version": "2.3.9",
+    "updated_at": "2026-03-03T13:53:26Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -4810,9 +4810,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "效率工具",
-    "stars": 81,
+    "stars": 82,
     "version": "v2.3.0",
-    "updated_at": "2026-03-03T10:15:33Z",
+    "updated_at": "2026-03-03T14:32:19Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -13436,9 +13436,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "AI增强",
     "tags": [],
-    "stars": 180,
+    "stars": 181,
     "version": "v2.1.0",
-    "updated_at": "2026-03-02T15:07:53Z"
+    "updated_at": "2026-03-03T14:31:04Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
