@@ -374,7 +374,7 @@
     "category": "AI增强",
     "stars": 8,
     "version": "v1.10.0",
-    "updated_at": "2026-03-02T16:22:02Z",
+    "updated_at": "2026-03-03T05:26:04Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -650,9 +650,9 @@
     ],
     "social_link": "https://github.com/iamfromchangsha",
     "category": "外部集成",
-    "stars": 4,
+    "stars": 5,
     "version": "1.4.0",
-    "updated_at": "2026-02-25T18:42:16Z",
+    "updated_at": "2026-03-03T05:47:46Z",
     "logo": "https://raw.githubusercontent.com/iamfromchangsha/astrbot_plugin_niji/master/logo.png"
   },
   "astrbot-plugin-phigros": {
@@ -6513,9 +6513,9 @@
     "social_link": "https://qm.qq.com/q/RiUSQsrZ0A",
     "category": "效率工具",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-02-14T16:51:52Z"
+    "updated_at": "2026-03-03T05:05:24Z"
   },
   "astrbot_plugin_galplayer": {
     "desc": "一个可以让你和群友一起推galgame的插件，需要在windows电脑上运行galgame本体。",
@@ -8148,9 +8148,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "效率工具",
-    "stars": 35,
+    "stars": 36,
     "version": "v2.1.6",
-    "updated_at": "2026-03-02T03:40:21Z",
+    "updated_at": "2026-03-03T05:21:49Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
