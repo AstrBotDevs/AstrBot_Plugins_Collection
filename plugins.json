@@ -1,4 +1,10 @@
 {
+  "astrbot-plugin-three-body-wiki": {
+    "display_name": "灰机wiki搜索工具",
+    "desc": "通过API调用在灰机wiki中搜索内容",
+    "author": "J-SLY",
+    "repo": "https://github.com/J-SLY/astrbot_plugin_three_body_wiki"
+  },
   "astrbot-plugin-listen-github": {
     "display_name": "监听github平台用户公开动态",
     "desc": "通过 RSS 定时获取 GitHub 用户/仓库动态并推送到聊天会话",
