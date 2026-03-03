@@ -43,8 +43,8 @@
     ],
     "social_link": "https://github.com/xiaoruange39",
     "stars": 2,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-03T10:50:48Z",
+    "version": "v1.0.1",
+    "updated_at": "2026-03-03T12:07:47Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_epic_freegame/main/logo.png"
   },
   "astrbot-plugin-goofish-catcher": {
@@ -59,9 +59,9 @@
       "监控"
     ],
     "social_link": "https://github.com/RichardLiuda",
-    "stars": 1,
+    "stars": 2,
     "version": "v0.1.0",
-    "updated_at": "2026-03-01T04:27:09Z"
+    "updated_at": "2026-03-03T12:39:56Z"
   },
   "astrbot-plugin-poetry-games": {
     "display_name": "诗词查询/游戏",
@@ -336,9 +336,9 @@
       "人物画像"
     ],
     "category": "AI增强",
-    "stars": 5,
+    "stars": 10,
     "version": "v0.3.0",
-    "updated_at": "2026-03-02T18:31:19Z"
+    "updated_at": "2026-03-03T12:53:06Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -438,7 +438,7 @@
     "category": "AI增强",
     "stars": 8,
     "version": "v1.10.0",
-    "updated_at": "2026-03-03T10:50:08Z",
+    "updated_at": "2026-03-03T12:23:36Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -731,8 +731,8 @@
     "social_link": "https://github.com/1-20182",
     "category": "娱乐游戏",
     "stars": 3,
-    "version": "v1.9.2",
-    "updated_at": "2026-03-03T01:13:31Z"
+    "version": "v1.9.4",
+    "updated_at": "2026-03-03T12:47:02Z"
   },
   "astrbot-plugin-Gemini-STT": {
     "display_name": "Gemini_STT",
@@ -1472,7 +1472,7 @@
     "tags": [],
     "stars": 0,
     "version": "v1.1",
-    "updated_at": "2026-03-02T13:51:49Z"
+    "updated_at": "2026-03-03T11:40:35Z"
   },
   "astrbot_plugin_upfanswatcher": {
     "display_name": "astrbot_plugin_upfanswatcher",
@@ -4228,9 +4228,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "生活实用",
-    "stars": 38,
+    "stars": 39,
     "version": "v1.4.0",
-    "updated_at": "2026-03-01T11:52:50Z",
+    "updated_at": "2026-03-03T12:02:37Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -5846,7 +5846,7 @@
     "category": "外部集成",
     "stars": 4,
     "version": "v1.2.1",
-    "updated_at": "2026-03-01T21:02:41Z"
+    "updated_at": "2026-03-03T12:31:08Z"
   },
   "astrbot_plugin_email_tool": {
     "display_name": "SMTP 邮件小工具",
@@ -5993,9 +5993,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "AI增强",
-    "stars": 101,
+    "stars": 102,
     "version": "v1.1.5",
-    "updated_at": "2026-03-03T11:12:45Z",
+    "updated_at": "2026-03-03T12:03:01Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -10026,9 +10026,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 112,
+    "stars": 113,
     "version": "v2.0.7",
-    "updated_at": "2026-03-02T14:34:33Z",
+    "updated_at": "2026-03-03T12:41:33Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
