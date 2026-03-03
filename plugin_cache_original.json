@@ -1573,7 +1573,7 @@
     "category": "外部集成",
     "stars": 5,
     "version": "v1.0.6",
-    "updated_at": "2026-03-02T09:11:16Z",
+    "updated_at": "2026-03-03T21:08:12Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_grok_web_search/master/logo.png"
   },
   "astrbot_plugin_fake_ai_watermark": {
@@ -2572,9 +2572,9 @@
       "总结"
     ],
     "category": "外部集成",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.1.5",
-    "updated_at": "2026-01-19T10:19:56Z"
+    "updated_at": "2026-03-03T21:17:12Z"
   },
   "astrbot_plugin_keywords_reply": {
     "display_name": "关键词回复",
@@ -5313,7 +5313,7 @@
     "category": "效率工具",
     "stars": 21,
     "version": "v4.3.3",
-    "updated_at": "2026-03-03T19:56:48Z",
+    "updated_at": "2026-03-03T20:34:55Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
