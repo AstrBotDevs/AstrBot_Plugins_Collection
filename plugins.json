@@ -1,4 +1,10 @@
 {
+  "astrbot-plugin-webchat": {
+    "display_name": "HTTP_WEBCHAT",
+    "desc": "这是一个轻量的 AstrBot 插件，用于暴露 HTTP 接口,以实现网页上和bot痛快聊天。",
+    "author": "Dmt3tianOVO",
+    "repo": "https://github.com/Dmt3tianOVO/astrbot_plugin_webchat"
+  },
   "astrbot-plugin-Grok2API Token": {
     "display_name": "Grok2API Token",
     "desc": "监控 Grok2API Token 号池状态，查看 Token 总数、正常/限流/失效数量及剩余配额",
