@@ -2282,8 +2282,8 @@
     "social_link": "https://qwq.pyuramazo.online",
     "category": "娱乐游戏",
     "stars": 8,
-    "version": "v1.6.1",
-    "updated_at": "2026-03-02T16:34:26Z",
+    "version": "v1.7.2",
+    "updated_at": "2026-03-03T03:18:56Z",
     "logo": "https://raw.githubusercontent.com/PyuraMazo/astrbot_plugin_galgame_box/master/logo.png"
   },
   "astrbot_plugin_anitabi": {
@@ -4675,8 +4675,8 @@
     "social_link": "https://github.com/piexian",
     "category": "AI增强",
     "stars": 26,
-    "version": "v1.9.3",
-    "updated_at": "2026-02-27T20:10:56Z",
+    "version": "v1.9.4",
+    "updated_at": "2026-03-03T04:11:48Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -10855,9 +10855,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "外部集成",
-    "stars": 161,
+    "stars": 162,
     "version": "v3.0.2",
-    "updated_at": "2026-03-02T06:37:39Z",
+    "updated_at": "2026-03-03T02:51:07Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
