@@ -1,4 +1,10 @@
 {
+  "astrbot-plugin-daily-ai-news": {
+    "display_name": "每日AI资讯推送",
+    "desc": "订阅橘鸦AI日报并进行AI总结",
+    "author": "xx",
+    "repo": "https://github.com/xxofficial/astrbot_plugin_daily_ai_news"
+  },
   "astrbot-plugin-Grok2API Token": {
     "display_name": "Grok2API Token",
     "desc": "监控 Grok2API Token 号池状态，查看 Token 总数、正常/限流/失效数量及剩余配额",
