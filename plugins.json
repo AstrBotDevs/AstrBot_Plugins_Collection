@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-talkative-king": {
+    "display_name": "话痨王 ",
+    "desc": "统计群组发言并生成精美的排行榜图片，内置 pilmoji 支持，完美渲染 Emoji 和颜文字，支持自定义背景。",
+    "author": "妈妈",
+    "repo": "https://github.com/Marcuscaixiao/astrbot_plugin_talkative_king",
+    "tags": [
+      "排行榜",
+      "发言",
+      "image",
+      "tool"
+    ]
+  },
   "astrbot-plugin-memos-manager": {
     "display_name": "Memos Manager",
     "desc": "一个能对usememos/memos进行管理的插件",
