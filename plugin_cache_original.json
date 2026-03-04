@@ -75,8 +75,8 @@
       "电子游戏"
     ],
     "stars": 0,
-    "version": "v1.1.5",
-    "updated_at": "2026-03-04T00:55:04Z",
+    "version": "v1.1.6",
+    "updated_at": "2026-03-04T03:18:38Z",
     "logo": "https://raw.githubusercontent.com/shitlsh/astrbot_plugin_bazaar/main/logo.png"
   },
   "astrbot-plugin-epic-freegame": {
@@ -490,7 +490,7 @@
     "category": "AI增强",
     "stars": 8,
     "version": "v1.10.2",
-    "updated_at": "2026-03-04T02:07:12Z",
+    "updated_at": "2026-03-04T03:02:46Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -530,9 +530,9 @@
     ],
     "social_link": "",
     "category": "娱乐游戏",
-    "stars": 3,
+    "stars": 4,
     "version": "v0.0.3",
-    "updated_at": "2026-02-27T16:31:21Z",
+    "updated_at": "2026-03-04T02:38:02Z",
     "logo": "https://raw.githubusercontent.com/moemoli/astrbot_plugin_warframe_helper/master/logo.png"
   },
   "astrbot-plugin-trello": {
@@ -799,9 +799,9 @@
     ],
     "social_link": "https://github.com/Weather-719",
     "category": "AI增强",
-    "stars": 8,
+    "stars": 9,
     "version": "2.3.6",
-    "updated_at": "2026-03-02T10:43:53Z"
+    "updated_at": "2026-03-04T04:12:40Z"
   },
   "astrbot-plugin-openai-responses": {
     "display_name": "OpenAI Responses API Provider",
@@ -2346,9 +2346,9 @@
       "抖音"
     ],
     "category": "效率工具",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.0.8",
-    "updated_at": "2026-02-28T10:51:11Z"
+    "updated_at": "2026-03-04T04:16:16Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -2530,8 +2530,8 @@
     "category": "AI增强",
     "tags": [],
     "stars": 0,
-    "version": "v0.2.0",
-    "updated_at": "2026-03-03T08:52:31Z"
+    "version": "v0.2.1",
+    "updated_at": "2026-03-04T02:38:58Z"
   },
   "astrbot_plugin_self_iterative_core": {
     "display_name": "自迭代核心",
@@ -3038,9 +3038,9 @@
     "social_link": "https://san-sin-sun.github.io/",
     "category": "AI增强",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "0.1.1",
-    "updated_at": "2026-02-21T11:57:39Z"
+    "updated_at": "2026-03-04T02:36:18Z"
   },
   "astrbot_plugin_llm_executor": {
     "display_name": "指令执行器",
@@ -3761,9 +3761,9 @@
       "通知"
     ],
     "category": "生活实用",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.1.2",
-    "updated_at": "2026-03-02T13:33:06Z",
+    "updated_at": "2026-03-04T03:53:47Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_reminder/master/logo.png"
   },
   "astrbot_plugin_binance": {
@@ -5311,9 +5311,9 @@
       "推特"
     ],
     "category": "效率工具",
-    "stars": 21,
+    "stars": 22,
     "version": "v4.3.3",
-    "updated_at": "2026-03-03T20:34:55Z",
+    "updated_at": "2026-03-04T04:26:47Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -8264,9 +8264,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "效率工具",
-    "stars": 36,
+    "stars": 37,
     "version": "v2.1.6",
-    "updated_at": "2026-03-03T05:21:49Z",
+    "updated_at": "2026-03-04T04:12:17Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -13016,9 +13016,9 @@
     "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
     "category": "生活实用",
     "tags": [],
-    "stars": 31,
+    "stars": 32,
     "version": "v1.4.2",
-    "updated_at": "2026-03-02T13:46:00Z"
+    "updated_at": "2026-03-04T03:56:21Z"
   },
   "ai_memory": {
     "desc": "一个AI记忆管理插件，可以让ai记住重要的事，记忆读取是ai自己调用的，有时候呆呆的ai不会自己调用，可以多问几次或者人格加上特定提示词,输入 /mem_help 查看记忆管理帮助",
