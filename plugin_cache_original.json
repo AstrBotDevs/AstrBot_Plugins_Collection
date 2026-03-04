@@ -293,8 +293,8 @@
       "steam"
     ],
     "stars": 0,
-    "version": "5.3.1",
-    "updated_at": "2026-03-02T11:18:34Z"
+    "version": "5.3.2",
+    "updated_at": "2026-03-04T08:59:23Z"
   },
   "astrbot-plugin-memos-pusher": {
     "display_name": "Memos 灵感推送",
@@ -2700,7 +2700,7 @@
     "category": "娱乐游戏",
     "stars": 10,
     "version": "v2.1",
-    "updated_at": "2026-03-03T17:35:05Z",
+    "updated_at": "2026-03-04T09:25:54Z",
     "logo": "https://raw.githubusercontent.com/kennylimz/astrbot_plugin_mudae_qq/main/logo.png"
   },
   "BUGJI/astrbot_plugin_balance": {
@@ -2922,8 +2922,8 @@
     "social_link": "https://github.com/Li-shi-ling",
     "category": "娱乐游戏",
     "stars": 3,
-    "version": "v1.1.6",
-    "updated_at": "2026-03-04T01:22:52Z"
+    "version": "v1.1.8",
+    "updated_at": "2026-03-04T09:16:55Z"
   },
   "astrbot_plugin_help_typst": {
     "display_name": "插件菜单(typst 实现)",
@@ -7541,8 +7541,8 @@
     ],
     "category": "AI增强",
     "stars": 78,
-    "version": "2.2.3",
-    "updated_at": "2026-03-02T07:00:23Z",
+    "version": "2.2.4",
+    "updated_at": "2026-03-04T08:51:59Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -13488,9 +13488,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "AI增强",
     "tags": [],
-    "stars": 181,
+    "stars": 182,
     "version": "v2.1.0",
-    "updated_at": "2026-03-03T14:31:04Z"
+    "updated_at": "2026-03-04T08:44:16Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
