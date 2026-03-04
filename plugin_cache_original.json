@@ -5,9 +5,9 @@
     "author": "xx",
     "repo": "https://github.com/xxofficial/astrbot_plugin_daily_ai_news",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-03-02T02:57:30Z"
+    "updated_at": "2026-03-04T08:11:32Z"
   },
   "astrbot-plugin-Grok2API Token": {
     "display_name": "Grok2API Token",
@@ -93,9 +93,9 @@
       "epic"
     ],
     "social_link": "https://github.com/xiaoruange39",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.2",
-    "updated_at": "2026-03-03T15:08:43Z",
+    "updated_at": "2026-03-04T08:11:31Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_epic_freegame/main/logo.png"
   },
   "astrbot-plugin-goofish-catcher": {
@@ -711,7 +711,7 @@
     "category": "AI增强",
     "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-02-28T15:51:41Z",
+    "updated_at": "2026-03-04T07:38:33Z",
     "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_clonetts/master/logo.png"
   },
   "astrbot-plugin-ssh": {
@@ -3162,8 +3162,8 @@
     ],
     "category": "效率工具",
     "stars": 2,
-    "version": "v1.1",
-    "updated_at": "2026-02-28T04:03:42Z",
+    "version": "1.2",
+    "updated_at": "2026-03-04T08:29:39Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_admin_notifier/master/logo.png"
   },
   "astrbot_plugin_models_ai": {
@@ -5898,7 +5898,7 @@
     "category": "外部集成",
     "stars": 4,
     "version": "v2.0.0",
-    "updated_at": "2026-03-04T07:24:46Z"
+    "updated_at": "2026-03-04T07:49:14Z"
   },
   "astrbot_plugin_email_tool": {
     "display_name": "SMTP 邮件小工具",
