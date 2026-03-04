@@ -182,9 +182,9 @@
       "陪伴"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 8,
+    "stars": 9,
     "version": "1.9.0",
-    "updated_at": "2026-03-04T16:52:10Z"
+    "updated_at": "2026-03-04T18:11:11Z"
   },
   "astrbot-plugin-fishing-again": {
     "display_name": "Fishing Again!",
@@ -6088,9 +6088,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "AI增强",
-    "stars": 103,
+    "stars": 104,
     "version": "v1.1.5",
-    "updated_at": "2026-03-04T07:16:42Z",
+    "updated_at": "2026-03-04T17:44:53Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -11014,9 +11014,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "外部集成",
-    "stars": 165,
+    "stars": 166,
     "version": "v3.0.2",
-    "updated_at": "2026-03-04T11:39:50Z",
+    "updated_at": "2026-03-04T18:46:00Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -12879,9 +12879,9 @@
     ],
     "pinned": true,
     "category": "效率工具",
-    "stars": 155,
+    "stars": 156,
     "version": "v3.19",
-    "updated_at": "2026-03-02T16:26:31Z"
+    "updated_at": "2026-03-04T17:51:39Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
@@ -13531,9 +13531,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "AI增强",
     "tags": [],
-    "stars": 183,
+    "stars": 184,
     "version": "v2.1.0",
-    "updated_at": "2026-03-04T14:39:22Z"
+    "updated_at": "2026-03-04T17:51:25Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
