@@ -388,9 +388,9 @@
       "人物画像"
     ],
     "category": "AI增强",
-    "stars": 13,
+    "stars": 14,
     "version": "v0.3.1",
-    "updated_at": "2026-03-04T01:21:38Z"
+    "updated_at": "2026-03-04T06:26:39Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -2477,7 +2477,7 @@
     "category": "AI增强",
     "stars": 3,
     "version": "v1.0.1",
-    "updated_at": "2026-03-02T10:18:49Z"
+    "updated_at": "2026-03-04T05:51:12Z"
   },
   "astrbot_plugin_engram": {
     "display_name": "仿生双轨记忆系统",
@@ -2530,8 +2530,8 @@
     "category": "AI增强",
     "tags": [],
     "stars": 0,
-    "version": "v0.2.1",
-    "updated_at": "2026-03-04T02:38:58Z"
+    "version": "v0.2.2",
+    "updated_at": "2026-03-04T06:38:34Z"
   },
   "astrbot_plugin_self_iterative_core": {
     "display_name": "自迭代核心",
@@ -3274,9 +3274,9 @@
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
     "category": "AI增强",
-    "stars": 41,
+    "stars": 43,
     "version": "v1.1",
-    "updated_at": "2026-03-04T01:07:51Z"
+    "updated_at": "2026-03-04T06:42:22Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -5747,9 +5747,9 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "AI增强",
-    "stars": 50,
+    "stars": 51,
     "version": "v1.2.0",
-    "updated_at": "2026-03-02T05:56:24Z",
+    "updated_at": "2026-03-04T05:50:05Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -5897,8 +5897,8 @@
     ],
     "category": "外部集成",
     "stars": 4,
-    "version": "v1.2.1",
-    "updated_at": "2026-03-03T12:31:08Z"
+    "version": "v2.0.0",
+    "updated_at": "2026-03-04T06:49:47Z"
   },
   "astrbot_plugin_email_tool": {
     "display_name": "SMTP 邮件小工具",
@@ -8225,7 +8225,7 @@
     "category": "AI增强",
     "stars": 27,
     "version": "v0.2.7",
-    "updated_at": "2026-02-28T12:52:51Z"
+    "updated_at": "2026-03-04T06:23:37Z"
   },
   "astrbot_plugin_iearning_style": {
     "desc": "使机器人可以从聊天中学习他人说话方式",
@@ -10971,9 +10971,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "外部集成",
-    "stars": 162,
+    "stars": 163,
     "version": "v3.0.2",
-    "updated_at": "2026-03-03T02:51:07Z",
+    "updated_at": "2026-03-04T06:39:56Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
