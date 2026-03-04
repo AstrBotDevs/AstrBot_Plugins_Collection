@@ -5,9 +5,9 @@
     "author": "xx",
     "repo": "https://github.com/xxofficial/astrbot_plugin_daily_ai_news",
     "tags": [],
-    "stars": 1,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-03-04T08:11:32Z"
+    "updated_at": "2026-03-04T10:52:34Z"
   },
   "astrbot-plugin-Grok2API Token": {
     "display_name": "Grok2API Token",
@@ -4791,8 +4791,8 @@
     "social_link": "https://github.com/piexian",
     "category": "AI增强",
     "stars": 26,
-    "version": "v1.9.4",
-    "updated_at": "2026-03-03T04:11:48Z",
+    "version": "v1.9.5",
+    "updated_at": "2026-03-04T11:17:35Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -5279,9 +5279,9 @@
       "毛图"
     ],
     "category": "外部集成",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.5",
-    "updated_at": "2025-11-25T10:01:55Z"
+    "updated_at": "2026-03-04T10:41:33Z"
   },
   "astrbot_plugin_werewolf": {
     "display_name": "狼人杀游戏",
@@ -9114,9 +9114,9 @@
     ],
     "category": "AI增强",
     "author": null,
-    "stars": 27,
+    "stars": 28,
     "version": "2.6.0",
-    "updated_at": "2026-02-27T15:22:16Z"
+    "updated_at": "2026-03-04T11:27:19Z"
   },
   "astrbot_plugin_group_sign": {
     "name": "group_sign",
