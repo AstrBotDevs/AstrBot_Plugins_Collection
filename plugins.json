@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-memos-manager": {
+    "display_name": "Memos Manager",
+    "desc": "一个能对usememos/memos进行管理的插件",
+    "author": "cyilin36",
+    "repo": "https://github.com/cyilin36/astrbot_plugin_memos_manager",
+    "tags": [
+      "笔记",
+      "note"
+    ],
+    "social_link": "https://cyilin36.github.io/"
+  },
   "astrbot-plugin-daily-ai-news": {
     "display_name": "每日AI资讯推送",
     "desc": "订阅橘鸦AI日报并进行AI总结",
