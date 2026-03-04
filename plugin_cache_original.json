@@ -2449,7 +2449,7 @@
     "tags": [],
     "stars": 5,
     "version": "2.0.0",
-    "updated_at": "2026-03-02T09:42:20Z",
+    "updated_at": "2026-03-04T09:49:26Z",
     "logo": "https://raw.githubusercontent.com/2529huang/astrbot_plugin_fund_analyzer/master/logo.png"
   },
   "astrbot_plugin_CNKD_Admin": {
@@ -2700,7 +2700,7 @@
     "category": "娱乐游戏",
     "stars": 10,
     "version": "v2.1",
-    "updated_at": "2026-03-04T09:25:54Z",
+    "updated_at": "2026-03-04T10:08:52Z",
     "logo": "https://raw.githubusercontent.com/kennylimz/astrbot_plugin_mudae_qq/main/logo.png"
   },
   "BUGJI/astrbot_plugin_balance": {
@@ -3010,9 +3010,9 @@
     ],
     "social_link": "https://github.com/Huahuatgc",
     "category": "生活实用",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.0.0",
-    "updated_at": "2026-03-02T13:49:32Z"
+    "updated_at": "2026-03-04T10:22:08Z"
   },
   "astrbot_plugin_matrix_adapter": {
     "display_name": "Matrix 协议适配器",
