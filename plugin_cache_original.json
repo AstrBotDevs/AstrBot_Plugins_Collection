@@ -35,9 +35,9 @@
       "追番"
     ],
     "social_link": "https://github.com/united-pooh",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.1.0",
-    "updated_at": "2026-03-03T17:55:37Z",
+    "updated_at": "2026-03-04T01:36:00Z",
     "logo": "https://raw.githubusercontent.com/united-pooh/astrbot_plugin_bangumi/main/logo.png"
   },
   "astrbot-plugin-three-body-wiki": {
@@ -75,8 +75,8 @@
       "电子游戏"
     ],
     "stars": 0,
-    "version": "v1.1.2",
-    "updated_at": "2026-03-02T06:10:24Z",
+    "version": "v1.1.5",
+    "updated_at": "2026-03-04T00:55:04Z",
     "logo": "https://raw.githubusercontent.com/shitlsh/astrbot_plugin_bazaar/main/logo.png"
   },
   "astrbot-plugin-epic-freegame": {
@@ -112,7 +112,7 @@
     "social_link": "https://github.com/RichardLiuda",
     "stars": 2,
     "version": "v0.1.1",
-    "updated_at": "2026-03-03T15:44:47Z",
+    "updated_at": "2026-03-04T01:59:33Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -388,9 +388,9 @@
       "人物画像"
     ],
     "category": "AI增强",
-    "stars": 12,
+    "stars": 13,
     "version": "v0.3.1",
-    "updated_at": "2026-03-03T17:23:15Z"
+    "updated_at": "2026-03-04T01:21:38Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -490,7 +490,7 @@
     "category": "AI增强",
     "stars": 8,
     "version": "v1.10.2",
-    "updated_at": "2026-03-03T16:55:26Z",
+    "updated_at": "2026-03-04T02:07:12Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -629,7 +629,7 @@
     "category": "外部集成",
     "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-02-21T14:01:10Z",
+    "updated_at": "2026-03-04T00:20:56Z",
     "logo": "https://raw.githubusercontent.com/CecilyGao/astrbot_plugin_inaturalist_search/main/logo.png"
   },
   "astrbot-plugin-command-router": {
@@ -2921,9 +2921,9 @@
     ],
     "social_link": "https://github.com/Li-shi-ling",
     "category": "娱乐游戏",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.1.6",
-    "updated_at": "2026-02-22T17:53:00Z"
+    "updated_at": "2026-03-04T01:22:52Z"
   },
   "astrbot_plugin_help_typst": {
     "display_name": "插件菜单(typst 实现)",
@@ -3274,9 +3274,9 @@
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
     "category": "AI增强",
-    "stars": 40,
+    "stars": 41,
     "version": "v1.1",
-    "updated_at": "2026-03-03T18:46:17Z"
+    "updated_at": "2026-03-04T01:07:51Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -4010,9 +4010,9 @@
       "颜色"
     ],
     "category": "效率工具",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.3",
-    "updated_at": "2026-02-20T12:08:28Z",
+    "updated_at": "2026-03-04T00:22:58Z",
     "logo": "https://raw.githubusercontent.com/CecilyGao/astrbot_plugin_color/main/logo.png"
   },
   "astrbot_plugin_wca": {
@@ -4087,9 +4087,9 @@
       "迫害群友"
     ],
     "category": "外部集成",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.2.8",
-    "updated_at": "2026-02-24T04:18:04Z"
+    "updated_at": "2026-03-04T01:48:31Z"
   },
   "astrbot_plugin_parser": {
     "display_name": "万能解析器",
@@ -5076,7 +5076,7 @@
     "tags": [],
     "stars": 8,
     "version": "v3.2.4",
-    "updated_at": "2026-03-03T16:26:37Z"
+    "updated_at": "2026-03-04T01:14:59Z"
   },
   "astrbot_plugin_doubao": {
     "display_name": "豆包即梦生成",
@@ -10238,9 +10238,9 @@
     ],
     "social_link": "https://github.com/Angus-fw",
     "category": "效率工具",
-    "stars": 23,
+    "stars": 22,
     "version": "v1.2.2",
-    "updated_at": "2026-02-27T17:50:22Z"
+    "updated_at": "2026-03-04T00:26:51Z"
   },
   "astrbot_plugin_timetask": {
     "author": "ZW",
@@ -12723,9 +12723,9 @@
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
     "category": "效率工具",
-    "stars": 107,
+    "stars": 106,
     "version": "v2.1.11",
-    "updated_at": "2026-02-28T15:25:51Z"
+    "updated_at": "2026-03-03T23:56:24Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
