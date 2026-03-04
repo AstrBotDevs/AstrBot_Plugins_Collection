@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-memory": {
+    "display_name": "astrbot_plugin_memory",
+    "desc": "跨会话持久化记忆插件。支持 Soul 设定、用户画像、历史对话、备忘录、会话 TODO，所有工具结果返回 LLM 推理，不打断推理循环。",
+    "author": "Bluezeamer",
+    "repo": "https://github.com/Bluezeamer/astrbot_plugin_memory",
+    "tags": [
+      "memory",
+      "持久化记忆",
+      "记忆控制"
+    ]
+  },
   "astrbot-plugin-talkative-king": {
     "display_name": "话痨王 ",
     "desc": "统计群组发言并生成精美的排行榜图片，内置 pilmoji 支持，完美渲染 Emoji 和颜文字，支持自定义背景。",
