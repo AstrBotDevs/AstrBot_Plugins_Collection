@@ -1842,9 +1842,9 @@
     "repo": "https://github.com/lamp3721/astrbot_plugin_at_ignore",
     "category": "AI增强",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-02-26T06:20:06Z"
+    "updated_at": "2026-03-04T05:25:21Z"
   },
   "message_cleaner": {
     "display_name": "消息清洗器",
@@ -2155,9 +2155,9 @@
     ],
     "social_link": "https://github.com/siciyuanweilai",
     "category": "AI增强",
-    "stars": 19,
+    "stars": 20,
     "version": "4.7.5",
-    "updated_at": "2026-03-03T17:36:13Z",
+    "updated_at": "2026-03-04T05:06:25Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
