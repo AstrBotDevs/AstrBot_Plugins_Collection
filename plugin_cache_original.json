@@ -48,9 +48,9 @@
     "author": "xx",
     "repo": "https://github.com/xxofficial/astrbot_plugin_daily_ai_news",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.0",
-    "updated_at": "2026-03-04T10:52:34Z"
+    "updated_at": "2026-03-04T15:02:47Z"
   },
   "astrbot-plugin-Grok2API Token": {
     "display_name": "Grok2API Token",
@@ -90,8 +90,8 @@
     "repo": "https://github.com/J-SLY/astrbot_plugin_three_body_wiki",
     "tags": [],
     "stars": 1,
-    "version": "v2.0.0",
-    "updated_at": "2026-03-03T12:19:42Z"
+    "version": "v2.0.1",
+    "updated_at": "2026-03-04T14:37:44Z"
   },
   "astrbot-plugin-listen-github": {
     "display_name": "监听github平台用户公开动态",
@@ -432,8 +432,8 @@
     ],
     "category": "AI增强",
     "stars": 15,
-    "version": "v0.3.1",
-    "updated_at": "2026-03-04T12:33:41Z"
+    "version": "v0.3.2",
+    "updated_at": "2026-03-04T15:42:09Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -2199,8 +2199,8 @@
     "social_link": "https://github.com/siciyuanweilai",
     "category": "AI增强",
     "stars": 20,
-    "version": "4.7.5",
-    "updated_at": "2026-03-04T05:06:25Z",
+    "version": "4.7.6",
+    "updated_at": "2026-03-04T15:19:53Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -3070,7 +3070,7 @@
     "category": "外部集成",
     "stars": 11,
     "version": "0.3.4",
-    "updated_at": "2026-03-04T13:32:54Z",
+    "updated_at": "2026-03-04T14:45:53Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_url_image_auto": {
@@ -12240,9 +12240,9 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "category": "娱乐游戏",
-    "stars": 84,
+    "stars": 85,
     "version": "v3.0.3",
-    "updated_at": "2026-02-19T06:02:55Z",
+    "updated_at": "2026-03-04T14:42:58Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
@@ -13531,9 +13531,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "AI增强",
     "tags": [],
-    "stars": 182,
+    "stars": 183,
     "version": "v2.1.0",
-    "updated_at": "2026-03-04T08:44:16Z"
+    "updated_at": "2026-03-04T14:39:22Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
