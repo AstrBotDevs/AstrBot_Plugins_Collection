@@ -1,4 +1,11 @@
 {
+  "astrbot-plugin-char": {
+    "display_name": "多功能生活助手",
+    "desc": "多功能生活助手（char 合集），对原 char 系列多个热门插件进行整合，一套插件搞定日常查询、提醒、记账、搜索等高频需求，统一配置、统一指令、统一维护。",
+    "author": "char",
+    "repo": "https://github.com/zhongyu0306/MyAstrBot",
+    "social_link": "QQ群：1071693895"
+  },
   "astrbot-plugin-local-reminiscence": {
     "display_name": "本地回忆[APLR]",
     "desc": "轻量级本地记忆插件，使用本地Embedding模型、本地数据库存储和回忆聊天记录。无需额外API，零Embedding成本，节约Token，完全保护隐私。使用Cron Job自动记录对话，通过关键词和语义匹配帮助AI自动回忆起相关经历和概念。初次安装时请科学上网以便快速下载依赖。",
