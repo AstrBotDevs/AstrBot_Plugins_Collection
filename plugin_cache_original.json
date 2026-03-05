@@ -271,9 +271,9 @@
       "api"
     ],
     "social_link": "https://github.com/DNTOF",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.1",
-    "updated_at": "2026-03-01T06:34:01Z"
+    "updated_at": "2026-03-05T02:01:35Z"
   },
   "astrbot-plugin-sky": {
     "display_name": "sky光遇助手",
@@ -488,9 +488,9 @@
     ],
     "social_link": "https://axi404.top",
     "category": "效率工具",
-    "stars": 8,
+    "stars": 9,
     "version": "0.2.3",
-    "updated_at": "2026-03-01T06:07:51Z"
+    "updated_at": "2026-03-05T02:10:34Z"
   },
   "astrbot-plugin-biliVideo": {
     "display_name": "哔哩哔哩视频总结",
@@ -1750,7 +1750,7 @@
     "category": "外部集成",
     "stars": 10,
     "version": "0.6.0",
-    "updated_at": "2026-02-27T08:05:11Z",
+    "updated_at": "2026-03-05T00:35:09Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -5001,8 +5001,8 @@
     ],
     "category": "生活实用",
     "stars": 0,
-    "version": "v1.0.3",
-    "updated_at": "2025-12-10T07:05:14Z",
+    "version": "v1.0.4",
+    "updated_at": "2026-03-05T02:02:35Z",
     "logo": "https://raw.githubusercontent.com/ningyou8023/astrbot_plugin_nyscheduler/main/logo.png"
   },
   "astrbot_plugin_api_fetcher": {
@@ -5040,8 +5040,8 @@
     ],
     "category": "效率工具",
     "stars": 3,
-    "version": "v1.0.2",
-    "updated_at": "2026-01-13T06:18:46Z",
+    "version": "v1.0.3",
+    "updated_at": "2026-03-05T00:52:49Z",
     "logo": "https://raw.githubusercontent.com/ningyou8023/astrbot_plugin_hotsearch/main/logo.png"
   },
   "astrbot_plugin_infinite_dialogue": {
@@ -5068,8 +5068,8 @@
     "category": "娱乐游戏",
     "tags": [],
     "stars": 2,
-    "version": "v0.0.9",
-    "updated_at": "2026-02-25T06:47:52Z"
+    "version": "v0.1.0",
+    "updated_at": "2026-03-05T01:05:24Z"
   },
   "astrbot_plugin_hardwareinfo": {
     "display_name": "硬件信息查询",
@@ -8412,9 +8412,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 72,
+    "stars": 73,
     "version": "v3.0.3",
-    "updated_at": "2026-03-03T19:40:13Z",
+    "updated_at": "2026-03-05T01:32:37Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -10480,8 +10480,8 @@
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
     "stars": 62,
-    "version": "v1.1.0",
-    "updated_at": "2026-03-03T11:00:43Z",
+    "version": "v1.1.1",
+    "updated_at": "2026-03-05T02:10:05Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
