@@ -62,9 +62,9 @@
       "Token检测"
     ],
     "social_link": "https://github.com/fbbDirge",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-03-03T02:36:35Z"
+    "updated_at": "2026-03-05T06:37:16Z"
   },
   "astrbot-plugin-bangumi-enhance": {
     "display_name": "Bangumi Enhance",
@@ -1126,9 +1126,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 34,
+    "stars": 35,
     "version": "v1.5.0",
-    "updated_at": "2026-03-05T04:32:29Z",
+    "updated_at": "2026-03-05T06:26:19Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -6088,9 +6088,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "AI增强",
-    "stars": 104,
+    "stars": 105,
     "version": "v1.1.5",
-    "updated_at": "2026-03-04T17:44:53Z",
+    "updated_at": "2026-03-05T06:02:33Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
