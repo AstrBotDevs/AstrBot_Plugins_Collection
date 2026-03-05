@@ -1,4 +1,64 @@
 {
+  "astrbot-plugin-char": {
+    "display_name": "多功能生活助手",
+    "desc": "多功能生活助手（char 合集），对原 char 系列多个热门插件进行整合，一套插件搞定日常查询、提醒、记账、搜索等高频需求，统一配置、统一指令、统一维护。",
+    "author": "char",
+    "repo": "https://github.com/zhongyu0306/MyAstrBot",
+    "social_link": "QQ群：1071693895",
+    "tags": [],
+    "stars": 0,
+    "version": "0.1.0",
+    "updated_at": "2026-03-04T14:06:35Z"
+  },
+  "astrbot-plugin-local-reminiscence": {
+    "display_name": "本地回忆[APLR]",
+    "desc": "轻量级本地记忆插件，使用本地Embedding模型、本地数据库存储和回忆聊天记录。无需额外API，零Embedding成本，节约Token，完全保护隐私。使用Cron Job自动记录对话，通过关键词和语义匹配帮助AI自动回忆起相关经历和概念。初次安装时请科学上网以便快速下载依赖。",
+    "author": "olozhika",
+    "repo": "https://github.com/olozhika/astrbot_plugin_local_reminiscence",
+    "tags": [
+      "记忆",
+      "回忆",
+      "每日总结",
+      "语义识别",
+      "关键词",
+      "上下文注入",
+      "长期记忆"
+    ],
+    "social_link": "https://github.com/olozhika/",
+    "stars": 1,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-05T10:10:51Z"
+  },
+  "astrbot-plugin-oyasumi": {
+    "display_name": "睡了喵~",
+    "desc": "基于正则触发的早安晚安长期记录插件，可自定义触发词，支持统计、修正与 llm 个性化分析，配套 webui。",
+    "author": "RichardLiu",
+    "repo": "https://github.com/RichardLiuda/astrbot_plugin_oyasumi",
+    "tags": [
+      "睡觉",
+      "睡眠",
+      "作息",
+      "ai"
+    ],
+    "social_link": "https://github.com/RichardLiuda",
+    "stars": 0,
+    "version": "v0.1.1",
+    "updated_at": "2026-03-05T11:57:25Z",
+    "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_oyasumi/master/logo.png"
+  },
+  "astrbot-plugin-LivelyState": {
+    "display_name": "角色状态记忆",
+    "desc": "这是一个让角色拥有持续状态记忆的拟人插件：不再每句“重开存档”，而是带着上一刻的心情继续和你说话。",
+    "author": "兔子",
+    "repo": "https://github.com/KonmaKanSinPack/astrbot_plugin_LivelyState",
+    "tags": [
+      "拟人",
+      "全局记忆"
+    ],
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-05T11:36:00Z"
+  },
   "astrbot-plugin-memory": {
     "display_name": "astrbot_plugin_memory",
     "desc": "跨会话持久化记忆插件。支持 Soul 设定、用户画像、历史对话、备忘录、会话 TODO，所有工具结果返回 LLM 推理，不打断推理循环。",
@@ -138,7 +198,7 @@
     "social_link": "https://github.com/xiaoruange39",
     "stars": 3,
     "version": "v1.0.2",
-    "updated_at": "2026-03-04T08:11:31Z",
+    "updated_at": "2026-03-05T13:51:44Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_epic_freegame/main/logo.png"
   },
   "astrbot-plugin-goofish-catcher": {
@@ -197,9 +257,9 @@
       "骰宝"
     ],
     "social_link": "https://github.com/Akiyo-dayo",
-    "stars": 2,
+    "stars": 3,
     "version": "2.4.94",
-    "updated_at": "2026-03-03T07:10:25Z",
+    "updated_at": "2026-03-05T14:03:45Z",
     "logo": "https://raw.githubusercontent.com/Akiyo-dayo/astrbot_plugin_fishing/main/logo.png"
   },
   "astrbot-plugin-deobfuscation": {
@@ -533,7 +593,7 @@
     "category": "AI增强",
     "stars": 8,
     "version": "v1.10.2",
-    "updated_at": "2026-03-05T12:36:55Z",
+    "updated_at": "2026-03-05T14:41:39Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -1426,9 +1486,9 @@
     ],
     "social_link": "https://github.com/4869-yinxu",
     "category": "外部集成",
-    "stars": 4,
+    "stars": 5,
     "version": "1.3.0",
-    "updated_at": "2026-02-25T00:59:05Z"
+    "updated_at": "2026-03-05T13:34:45Z"
   },
   "astrbot_plugin_riddlegame": {
     "display_name": "qq群棋类游戏",
@@ -1859,9 +1919,9 @@
     ],
     "social_link": "https://github.com/cryfly666",
     "category": "外部集成",
-    "stars": 0,
+    "stars": 1,
     "version": "v2.0",
-    "updated_at": "2026-02-06T10:19:04Z"
+    "updated_at": "2026-03-05T14:25:18Z"
   },
   "astrbot_plugin_image_url_base64_to_mcp": {
     "display_name": "图片_url_base64_传递至_mcp",
@@ -1973,9 +2033,9 @@
       "bangdream"
     ],
     "category": "娱乐游戏",
-    "stars": 3,
+    "stars": 4,
     "version": "v0.3.0",
-    "updated_at": "2026-03-01T19:25:09Z"
+    "updated_at": "2026-03-05T14:21:12Z"
   },
   "astrbot_plugin_odoo": {
     "display_name": "AstrBot Odoo 连接器",
@@ -3070,7 +3130,7 @@
     "category": "外部集成",
     "stars": 11,
     "version": "0.3.4",
-    "updated_at": "2026-03-04T14:45:53Z",
+    "updated_at": "2026-03-05T14:26:20Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_url_image_auto": {
@@ -3719,9 +3779,9 @@
       "人格"
     ],
     "category": "AI增强",
-    "stars": 35,
+    "stars": 36,
     "version": "1.2.8",
-    "updated_at": "2026-03-03T13:25:46Z"
+    "updated_at": "2026-03-05T13:27:08Z"
   },
   "astrbot_plugin_angel_heart": {
     "display_name": "天使之心",
@@ -3734,9 +3794,9 @@
       "群聊优化"
     ],
     "category": "外部集成",
-    "stars": 40,
+    "stars": 41,
     "version": "0.8.12",
-    "updated_at": "2026-03-05T12:55:23Z"
+    "updated_at": "2026-03-05T13:27:09Z"
   },
   "astrbot_plugin_angel_eye": {
     "display_name": "天使之眼",
@@ -3749,9 +3809,9 @@
       "聊天记录"
     ],
     "category": "效率工具",
-    "stars": 12,
+    "stars": 13,
     "version": "1.0.5",
-    "updated_at": "2026-03-03T06:20:31Z"
+    "updated_at": "2026-03-05T13:27:06Z"
   },
   "lumingya/astrbot_plugin_regex_filter": {
     "display_name": "通用正则后处理",
@@ -6140,9 +6200,9 @@
     "social_link": "https://github.com/miaoxutao123",
     "category": "外部集成",
     "tags": [],
-    "stars": 15,
+    "stars": 16,
     "version": "v1.2.0",
-    "updated_at": "2026-02-14T07:36:54Z"
+    "updated_at": "2026-03-05T13:29:10Z"
   },
   "astrbot_plugin_furry_zan": {
     "display_name": "爱点赞",
@@ -12879,9 +12939,9 @@
     ],
     "pinned": true,
     "category": "效率工具",
-    "stars": 156,
+    "stars": 157,
     "version": "v3.19",
-    "updated_at": "2026-03-04T17:51:39Z"
+    "updated_at": "2026-03-05T14:09:17Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
@@ -13531,9 +13591,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "AI增强",
     "tags": [],
-    "stars": 184,
+    "stars": 185,
     "version": "v2.1.0",
-    "updated_at": "2026-03-04T17:51:25Z"
+    "updated_at": "2026-03-05T14:29:55Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
