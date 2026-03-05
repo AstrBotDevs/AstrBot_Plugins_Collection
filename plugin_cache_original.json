@@ -431,9 +431,9 @@
       "人物画像"
     ],
     "category": "AI增强",
-    "stars": 15,
+    "stars": 16,
     "version": "v0.3.2",
-    "updated_at": "2026-03-04T15:42:09Z"
+    "updated_at": "2026-03-05T02:12:40Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -557,9 +557,9 @@
     "tags": [],
     "social_link": "",
     "category": "外部集成",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.0.0",
-    "updated_at": "2026-03-01T12:34:07Z",
+    "updated_at": "2026-03-05T02:14:21Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_soulmap/main/logo.png"
   },
   "astrbot-plugin-warframe-helper": {
@@ -1126,9 +1126,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 33,
+    "stars": 34,
     "version": "v1.5.0",
-    "updated_at": "2026-03-02T16:47:52Z",
+    "updated_at": "2026-03-05T04:32:29Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -1942,9 +1942,9 @@
       "QQ"
     ],
     "category": "AI增强",
-    "stars": 3,
+    "stars": 4,
     "version": "v0.1.4",
-    "updated_at": "2026-02-20T05:13:51Z"
+    "updated_at": "2026-03-05T04:45:33Z"
   },
   "astrbot_plugin_skland": {
     "display_name": "森空岛签到",
@@ -2199,8 +2199,8 @@
     "social_link": "https://github.com/siciyuanweilai",
     "category": "AI增强",
     "stars": 20,
-    "version": "4.8.0",
-    "updated_at": "2026-03-04T16:45:21Z",
+    "version": "4.8.1",
+    "updated_at": "2026-03-05T04:33:48Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -2389,9 +2389,9 @@
       "抖音"
     ],
     "category": "效率工具",
-    "stars": 10,
+    "stars": 9,
     "version": "v1.0.8",
-    "updated_at": "2026-03-04T04:16:16Z"
+    "updated_at": "2026-03-05T04:34:54Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -2903,9 +2903,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "AI增强",
-    "stars": 29,
+    "stars": 30,
     "version": "1.1.1",
-    "updated_at": "2026-03-01T12:13:54Z"
+    "updated_at": "2026-03-05T03:40:00Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -2949,9 +2949,9 @@
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 150,
+    "stars": 151,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-03T17:59:31Z",
+    "updated_at": "2026-03-05T04:33:00Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -5762,9 +5762,9 @@
     ],
     "social_link": "https://github.com/Luna-channel",
     "category": "生活实用",
-    "stars": 14,
+    "stars": 15,
     "version": "1.4.4",
-    "updated_at": "2026-02-24T07:55:06Z",
+    "updated_at": "2026-03-05T04:36:13Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_Conversa/main/logo.png"
   },
   "astrbot_plugin_shutdown": {
@@ -7093,9 +7093,9 @@
     "repo": "https://github.com/tacbana/astrbot_plugin_scheduled_reply",
     "category": "效率工具",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "1.1.0",
-    "updated_at": "2026-02-23T15:40:07Z"
+    "updated_at": "2026-03-05T04:37:13Z"
   },
   "astrbot_plugin_the_Big-3_Chinese_AI_conferences": {
     "desc": "亿万人将要精读中文AI顶会",
@@ -7704,9 +7704,9 @@
     "repo": "https://github.com/furryHM-mrz/astrbot_plugin_furry_dsgg",
     "category": "AI增强",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.3",
-    "updated_at": "2025-12-05T12:50:18Z"
+    "updated_at": "2026-03-05T04:38:23Z"
   },
   "astrbot_plugin_mememaker_api": {
     "author": "jmt059",
@@ -8822,9 +8822,9 @@
       "主动回复"
     ],
     "category": "效率工具",
-    "stars": 7,
+    "stars": 8,
     "version": "v2.0.0",
-    "updated_at": "2026-02-25T10:44:24Z",
+    "updated_at": "2026-03-05T04:40:32Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -8923,9 +8923,9 @@
     ],
     "social_link": "QQ: 2877406366",
     "category": "效率工具",
-    "stars": 2,
+    "stars": 3,
     "version": "v2.0",
-    "updated_at": "2025-10-02T12:43:00Z"
+    "updated_at": "2026-03-05T04:41:03Z"
   },
   "astrbot_plugin_battlefield_tool": {
     "desc": "战地风云战绩查询插件",
@@ -10291,9 +10291,9 @@
     "repo": "https://github.com/Zhenyi-Wang/astrbot-timetask",
     "category": "外部集成",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "v0.1",
-    "updated_at": "2025-05-17T08:24:04Z"
+    "updated_at": "2026-03-05T04:42:14Z"
   },
   "astrbot_plugin_time_prompt": {
     "author": "wuyan1003",
@@ -10689,7 +10689,7 @@
     "category": "AI增强",
     "stars": 52,
     "version": "v2.0.3",
-    "updated_at": "2026-03-01T03:18:30Z",
+    "updated_at": "2026-03-05T02:23:15Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_pokepro/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
@@ -10716,7 +10716,7 @@
     "category": "AI增强",
     "stars": 11,
     "version": "v1.1.1",
-    "updated_at": "2026-02-17T07:16:14Z",
+    "updated_at": "2026-03-05T04:09:10Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_broadcast/main/logo.png"
   },
   "astrbot_plugin_nobot": {
@@ -11015,8 +11015,8 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "外部集成",
     "stars": 166,
-    "version": "v3.0.2",
-    "updated_at": "2026-03-04T18:46:00Z",
+    "version": "v3.0.3",
+    "updated_at": "2026-03-05T02:36:30Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -11802,9 +11802,9 @@
       "消息伪造"
     ],
     "category": "外部集成",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.1.0",
-    "updated_at": "2025-12-25T11:35:41Z"
+    "updated_at": "2026-03-05T04:24:19Z"
   },
   "astrbot_plugin_douniuniu": {
     "desc": "QQ 群小游戏，培养你的牛牛，然后塔塔开！",
@@ -12597,9 +12597,9 @@
       "推送"
     ],
     "category": "生活实用",
-    "stars": 19,
+    "stars": 20,
     "version": "v2.1.0",
-    "updated_at": "2026-03-02T17:29:47Z"
+    "updated_at": "2026-03-05T03:51:56Z"
   },
   "astrbot_plugin_gemini_exp": {
     "desc": "让你在 AstrBot 调用 Gemini2.0-flash-exp 来生成图片或者 P 图。Gemini2.0-flash-exp为原生多模态模型，其既是语言模型，也是生图模型，因此能够对图像使用简单的自然语言命令进行处理。",
@@ -12677,9 +12677,9 @@
       "定时任务"
     ],
     "category": "外部集成",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.3.7",
-    "updated_at": "2025-11-08T14:50:49Z"
+    "updated_at": "2026-03-05T04:43:14Z"
   },
   "astrbot_plugin_image_understanding_Janus-Pro": {
     "desc": "为本地模型提供的图片理解补充，使用deepseek-ai/Janus-Pro系列模型",
@@ -12820,9 +12820,9 @@
       "定时任务"
     ],
     "category": "生活实用",
-    "stars": 22,
+    "stars": 23,
     "version": "v2.3.4",
-    "updated_at": "2025-11-08T14:50:44Z"
+    "updated_at": "2026-03-05T04:44:18Z"
   },
   "astrbot_sowing_discord": {
     "desc": "[仅限 aiocqhttp 适配器] anka - 自动搬史插件, 1.加入喜欢发史的群聊 2.设置搬史来源 3.设置搬史目标 4.开始全自动搬史!",
