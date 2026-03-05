@@ -48,9 +48,9 @@
     "author": "xx",
     "repo": "https://github.com/xxofficial/astrbot_plugin_daily_ai_news",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0.0",
-    "updated_at": "2026-03-04T15:02:47Z"
+    "updated_at": "2026-03-05T04:50:34Z"
   },
   "astrbot-plugin-Grok2API Token": {
     "display_name": "Grok2API Token",
@@ -2949,9 +2949,9 @@
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 151,
+    "stars": 153,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-05T04:33:00Z",
+    "updated_at": "2026-03-05T05:44:42Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -4071,7 +4071,7 @@
     "category": "效率工具",
     "stars": 1,
     "version": "v1.0.5",
-    "updated_at": "2025-12-28T07:22:55Z",
+    "updated_at": "2026-03-05T04:53:39Z",
     "logo": "https://raw.githubusercontent.com/huizhiLLL/astrbot_plugin_wca/master/logo.png"
   },
   "astrbot_plugin_memos_integrator": {
@@ -10574,7 +10574,7 @@
     "category": "AI增强",
     "stars": 23,
     "version": "v2.0.0",
-    "updated_at": "2026-02-25T10:36:47Z",
+    "updated_at": "2026-03-05T04:56:54Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_emoji_like/main/logo.png"
   },
   "astrbot_plugin_lanraragi": {
@@ -10716,7 +10716,7 @@
     "category": "AI增强",
     "stars": 11,
     "version": "v1.1.1",
-    "updated_at": "2026-03-05T04:09:10Z",
+    "updated_at": "2026-03-05T04:53:31Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_broadcast/main/logo.png"
   },
   "astrbot_plugin_nobot": {
