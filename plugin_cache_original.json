@@ -80,7 +80,7 @@
     "social_link": "https://github.com/united-pooh",
     "stars": 5,
     "version": "v1.1.1",
-    "updated_at": "2026-03-05T09:09:04Z",
+    "updated_at": "2026-03-05T10:33:54Z",
     "logo": "https://raw.githubusercontent.com/united-pooh/astrbot_plugin_bangumi/main/logo.png"
   },
   "astrbot-plugin-three-body-wiki": {
@@ -2198,9 +2198,9 @@
     ],
     "social_link": "https://github.com/siciyuanweilai",
     "category": "AI增强",
-    "stars": 20,
+    "stars": 21,
     "version": "4.8.1",
-    "updated_at": "2026-03-05T04:33:48Z",
+    "updated_at": "2026-03-05T09:46:00Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -4286,9 +4286,9 @@
     ],
     "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
     "category": "AI增强",
-    "stars": 14,
+    "stars": 15,
     "version": "v1.2.0",
-    "updated_at": "2026-02-22T14:48:33Z",
+    "updated_at": "2026-03-05T10:32:20Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -4889,9 +4889,9 @@
     ],
     "social_link": "https://github.com/Siaospeed",
     "category": "外部集成",
-    "stars": 6,
+    "stars": 7,
     "version": "v0.1.0",
-    "updated_at": "2025-12-07T14:33:07Z",
+    "updated_at": "2026-03-05T09:53:37Z",
     "logo": "https://raw.githubusercontent.com/Siaospeed/astrbot_plugin_msg_transfer/main/logo.png"
   },
   "astrbot_plugin_chuanhuatong": {
@@ -8251,9 +8251,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "效率工具",
-    "stars": 36,
+    "stars": 37,
     "version": "v2.1.2",
-    "updated_at": "2026-03-02T12:45:04Z",
+    "updated_at": "2026-03-05T10:32:24Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wakepro/main/logo.png"
   },
   "astrbot_plugin_memora_connect": {
@@ -8307,9 +8307,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "效率工具",
-    "stars": 37,
+    "stars": 38,
     "version": "v2.1.6",
-    "updated_at": "2026-03-04T04:12:17Z",
+    "updated_at": "2026-03-05T10:32:22Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
