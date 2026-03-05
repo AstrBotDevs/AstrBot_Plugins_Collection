@@ -80,7 +80,7 @@
     "social_link": "https://github.com/united-pooh",
     "stars": 5,
     "version": "v1.1.1",
-    "updated_at": "2026-03-05T10:33:54Z",
+    "updated_at": "2026-03-05T13:00:28Z",
     "logo": "https://raw.githubusercontent.com/united-pooh/astrbot_plugin_bangumi/main/logo.png"
   },
   "astrbot-plugin-three-body-wiki": {
@@ -103,9 +103,9 @@
       "github"
     ],
     "social_link": "https://github.com/aliveriver",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-03-03T03:01:24Z",
+    "updated_at": "2026-03-05T12:44:05Z",
     "logo": "https://raw.githubusercontent.com/aliveriver/astrbot_plugin_listen_github/master/logo.png"
   },
   "astrbot-plugin-bazaar": {
@@ -533,7 +533,7 @@
     "category": "AI增强",
     "stars": 8,
     "version": "v1.10.2",
-    "updated_at": "2026-03-05T08:31:12Z",
+    "updated_at": "2026-03-05T12:36:55Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -1393,9 +1393,9 @@
     ],
     "social_link": "https://www.xytuws.cn",
     "category": "效率工具",
-    "stars": 5,
+    "stars": 6,
     "version": "v0.3.2",
-    "updated_at": "2026-02-25T13:46:02Z",
+    "updated_at": "2026-03-05T12:37:36Z",
     "logo": "https://raw.githubusercontent.com/XYTUworkshop/astrbot_plugin_XYTUFunction/master/logo.png"
   },
   "astrbot_plugin_lzpersona": {
@@ -2949,9 +2949,9 @@
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 153,
+    "stars": 154,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-05T05:44:42Z",
+    "updated_at": "2026-03-05T11:56:55Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -3734,9 +3734,9 @@
       "群聊优化"
     ],
     "category": "外部集成",
-    "stars": 39,
+    "stars": 40,
     "version": "0.8.12",
-    "updated_at": "2026-03-05T07:09:38Z"
+    "updated_at": "2026-03-05T12:55:23Z"
   },
   "astrbot_plugin_angel_eye": {
     "display_name": "天使之眼",
@@ -3909,8 +3909,8 @@
     "social_link": "https://github.com/Hakuin123",
     "category": "AI增强",
     "stars": 2,
-    "version": "v1.1.1",
-    "updated_at": "2026-03-04T12:17:44Z"
+    "version": "v1.2.0",
+    "updated_at": "2026-03-05T12:37:45Z"
   },
   "astrbot_plugin_yoimg": {
     "display_name": "Gitee 图系模型文生图，图生图",
@@ -11203,9 +11203,9 @@
     ],
     "social_link": "https://github.com/vmoranv-reborn",
     "category": "娱乐游戏",
-    "stars": 13,
+    "stars": 14,
     "version": "1.7.2",
-    "updated_at": "2026-03-02T04:39:33Z",
+    "updated_at": "2026-03-05T12:36:26Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
