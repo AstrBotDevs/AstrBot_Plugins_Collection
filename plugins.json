@@ -1,4 +1,17 @@
 {
+  "astrbot-plugin-oyasumi": {
+    "display_name": "睡了喵~",
+    "desc": "基于正则触发的早安晚安长期记录插件，可自定义触发词，支持统计、修正与 llm 个性化分析，配套 webui。",
+    "author": "RichardLiu",
+    "repo": "https://github.com/RichardLiuda/astrbot_plugin_oyasumi",
+    "tags": [
+      "睡觉",
+      "睡眠",
+      "作息",
+      "ai"
+    ],
+    "social_link": "https://github.com/RichardLiuda"
+  },
   "astrbot-plugin-LivelyState": {
     "display_name": "角色状态记忆",
     "desc": "这是一个让角色拥有持续状态记忆的拟人插件：不再每句“重开存档”，而是带着上一刻的心情继续和你说话。",
