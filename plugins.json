@@ -1,4 +1,20 @@
 {
+  "astrbot-plugin-local-reminiscence": {
+    "display_name": "本地回忆[APLR]",
+    "desc": "轻量级本地记忆插件，使用本地Embedding模型、本地数据库存储和回忆聊天记录。无需额外API，零Embedding成本，节约Token，完全保护隐私。使用Cron Job自动记录对话，通过关键词和语义匹配帮助AI自动回忆起相关经历和概念。初次安装时请科学上网以便快速下载依赖。",
+    "author": "olozhika",
+    "repo": "https://github.com/olozhika/astrbot_plugin_local_reminiscence",
+    "tags": [
+      "记忆",
+      "回忆",
+      "每日总结",
+      "语义识别",
+      "关键词",
+      "上下文注入",
+      "长期记忆"
+    ],
+    "social_link": "https://github.com/olozhika/"
+  },
   "astrbot-plugin-oyasumi": {
     "display_name": "睡了喵~",
     "desc": "基于正则触发的早安晚安长期记录插件，可自定义触发词，支持统计、修正与 llm 个性化分析，配套 webui。",
