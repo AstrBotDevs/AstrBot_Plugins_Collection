@@ -1,4 +1,14 @@
 {
+  "astrbot-plugin-LivelyState": {
+    "display_name": "角色状态记忆",
+    "desc": "这是一个让角色拥有持续状态记忆的拟人插件：不再每句“重开存档”，而是带着上一刻的心情继续和你说话。",
+    "author": "兔子",
+    "repo": "https://github.com/KonmaKanSinPack/astrbot_plugin_LivelyState",
+    "tags": [
+      "拟人",
+      "全局记忆"
+    ]
+  },
   "astrbot-plugin-memory": {
     "display_name": "astrbot_plugin_memory",
     "desc": "跨会话持久化记忆插件。支持 Soul 设定、用户画像、历史对话、备忘录、会话 TODO，所有工具结果返回 LLM 推理，不打断推理循环。",
