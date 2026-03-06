@@ -494,7 +494,7 @@
     "category": "AI增强",
     "stars": 16,
     "version": "v0.3.3",
-    "updated_at": "2026-03-06T06:33:31Z"
+    "updated_at": "2026-03-06T07:30:48Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -561,9 +561,9 @@
     "social_link": "https://github.com/storyAura",
     "category": "生活实用",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "v1.0.2",
-    "updated_at": "2026-03-02T10:07:13Z",
+    "updated_at": "2026-03-06T06:53:13Z",
     "logo": "https://raw.githubusercontent.com/storyAura/astrbot_plugin_biliVideo/main/logo.png"
   },
   "astrbot-plugin-opencode-client": {
@@ -594,7 +594,7 @@
     "category": "AI增强",
     "stars": 8,
     "version": "v1.10.2",
-    "updated_at": "2026-03-06T06:30:27Z",
+    "updated_at": "2026-03-06T06:59:48Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -945,9 +945,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "外部集成",
-    "stars": 25,
+    "stars": 26,
     "version": "2.6.2",
-    "updated_at": "2026-02-23T04:33:05Z"
+    "updated_at": "2026-03-06T06:52:56Z"
   },
   "astrbot-plugin-meting": {
     "display_name": "初叶🍂MetingAPI 点歌",
@@ -1438,9 +1438,9 @@
       "codegen"
     ],
     "category": "AI增强",
-    "stars": 27,
+    "stars": 28,
     "version": "1.1.1",
-    "updated_at": "2026-03-05T07:01:44Z",
+    "updated_at": "2026-03-06T07:03:04Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -3394,8 +3394,8 @@
     "social_link": "https://space.bilibili.com/1057790493",
     "category": "效率工具",
     "stars": 2,
-    "version": "v0.1.14514",
-    "updated_at": "2026-01-02T06:03:07Z"
+    "version": "v0.1.2",
+    "updated_at": "2026-03-06T07:21:32Z"
   },
   "astrbot_plugin_van": {
     "display_name": "Van幻鸢词库",
