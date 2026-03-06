@@ -163,9 +163,9 @@
       "github"
     ],
     "social_link": "https://github.com/aliveriver",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-03-05T12:44:05Z",
+    "updated_at": "2026-03-06T06:14:28Z",
     "logo": "https://raw.githubusercontent.com/aliveriver/astrbot_plugin_listen_github/master/logo.png"
   },
   "astrbot-plugin-bazaar": {
@@ -493,8 +493,8 @@
     ],
     "category": "AI增强",
     "stars": 16,
-    "version": "v0.3.2",
-    "updated_at": "2026-03-05T02:12:40Z"
+    "version": "v0.3.3",
+    "updated_at": "2026-03-06T06:33:31Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -594,7 +594,7 @@
     "category": "AI增强",
     "stars": 8,
     "version": "v1.10.2",
-    "updated_at": "2026-03-06T05:37:56Z",
+    "updated_at": "2026-03-06T06:30:27Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -1534,9 +1534,9 @@
     ],
     "social_link": "https://github.com/DITF16",
     "category": "娱乐游戏",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.0.2",
-    "updated_at": "2026-02-21T13:43:22Z",
+    "updated_at": "2026-03-06T06:17:47Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_elves_world/master/logo.png"
   },
   "astrbot_plugin_simple_injections": {
@@ -2019,9 +2019,9 @@
     ],
     "social_link": "https://github.com/Azincc/",
     "category": "娱乐游戏",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.1.0",
-    "updated_at": "2026-02-28T04:27:53Z"
+    "updated_at": "2026-03-06T05:58:37Z"
   },
   "astrbot_plugin_tomin": {
     "display_name": "Tomin - 少女乐队游戏",
@@ -3764,9 +3764,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "效率工具",
-    "stars": 30,
+    "stars": 31,
     "version": "1.1.3",
-    "updated_at": "2026-03-03T09:47:04Z",
+    "updated_at": "2026-03-06T06:13:57Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
@@ -4421,9 +4421,9 @@
     "repo": "https://github.com/onniemi/astrbot_plugin_qinglong",
     "category": "效率工具",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.1",
-    "updated_at": "2025-12-05T16:41:35Z"
+    "updated_at": "2026-03-06T05:46:52Z"
   },
   "astrbot_plugin_1panel": {
     "display_name": "1Panel 服务器管理",
@@ -4752,9 +4752,9 @@
       "抖音"
     ],
     "category": "外部集成",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.3.1",
-    "updated_at": "2026-03-01T17:06:26Z",
+    "updated_at": "2026-03-06T06:01:53Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_video_analysis/master/logo.png"
   },
   "astrbot_plugin_image_generation": {
@@ -5353,9 +5353,9 @@
       "私聊"
     ],
     "category": "AI增强",
-    "stars": 18,
+    "stars": 19,
     "version": "2.2.0",
-    "updated_at": "2026-03-06T04:55:31Z",
+    "updated_at": "2026-03-06T06:14:27Z",
     "logo": "https://raw.githubusercontent.com/aliveriver/astrbot_plugin_continuous_message/master/logo.png"
   },
   "astrbot_plugin_llm_amnesia": {
@@ -6150,9 +6150,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "AI增强",
-    "stars": 107,
+    "stars": 108,
     "version": "v1.1.5",
-    "updated_at": "2026-03-06T05:12:45Z",
+    "updated_at": "2026-03-06T06:28:21Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -9219,9 +9219,9 @@
     ],
     "category": "AI增强",
     "author": null,
-    "stars": 27,
+    "stars": 28,
     "version": "2.6.0",
-    "updated_at": "2026-03-04T12:22:15Z"
+    "updated_at": "2026-03-06T06:01:46Z"
   },
   "astrbot_plugin_group_sign": {
     "name": "group_sign",
