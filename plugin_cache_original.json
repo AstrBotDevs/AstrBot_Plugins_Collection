@@ -594,7 +594,7 @@
     "category": "AI增强",
     "stars": 9,
     "version": "v1.10.2",
-    "updated_at": "2026-03-06T08:14:59Z",
+    "updated_at": "2026-03-06T13:29:49Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -2316,8 +2316,8 @@
     "category": "效率工具",
     "tags": [],
     "stars": 2,
-    "version": "v1.3.0",
-    "updated_at": "2026-02-17T11:52:42Z",
+    "version": "v1.5.0",
+    "updated_at": "2026-03-06T13:56:00Z",
     "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_fflogs/master/logo.png"
   },
   "astrbot_plugin_CNKD_NEWS": {
@@ -2361,7 +2361,7 @@
     "category": "外部集成",
     "stars": 192,
     "version": "v4.8.2",
-    "updated_at": "2026-03-06T11:54:05Z",
+    "updated_at": "2026-03-06T13:32:07Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -2788,8 +2788,8 @@
     ],
     "category": "AI增强",
     "stars": 2,
-    "version": "v1.2.3",
-    "updated_at": "2026-02-21T15:56:19Z"
+    "version": "v1.2.4",
+    "updated_at": "2026-03-06T13:00:30Z"
   },
   "astrbot_plugin_mudae_qq": {
     "display_name": "二次元笑传之抽抽Bot",
@@ -5824,9 +5824,9 @@
     ],
     "social_link": "https://github.com/Luna-channel",
     "category": "生活实用",
-    "stars": 15,
+    "stars": 16,
     "version": "1.4.4",
-    "updated_at": "2026-03-05T04:36:13Z",
+    "updated_at": "2026-03-06T13:57:00Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_Conversa/main/logo.png"
   },
   "astrbot_plugin_shutdown": {
@@ -7211,9 +7211,9 @@
     "repo": "https://github.com/ctrlkk/astrbot_plugin_meme_manager_lite",
     "category": "AI增强",
     "tags": [],
-    "stars": 14,
+    "stars": 15,
     "version": "v1.3",
-    "updated_at": "2026-02-23T15:53:07Z"
+    "updated_at": "2026-03-06T13:50:23Z"
   },
   "astrbot_plugin_festival_greeter": {
     "desc": "在节日期间为群聊推送使用LLM生成的祝福消息",
@@ -8002,9 +8002,9 @@
       "typst"
     ],
     "category": "AI增强",
-    "stars": 2,
+    "stars": 1,
     "version": "v1.1.0",
-    "updated_at": "2026-02-17T13:17:50Z"
+    "updated_at": "2026-03-06T13:32:55Z"
   },
   "astrbot_plugin_retry_v2": {
     "desc": "一个基于事件钩子的、处理空回复和截断等非完整响应的重试插件",
@@ -12143,9 +12143,9 @@
     "repo": "https://github.com/LonelySky7490/astrbot_plugin_vv_pic",
     "category": "娱乐游戏",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "v0.7",
-    "updated_at": "2025-12-11T05:20:32Z"
+    "updated_at": "2026-03-06T13:50:07Z"
   },
   "astrbot_plugin_file_reader": {
     "desc": "一个识别文件内容的插件",
