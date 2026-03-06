@@ -41,9 +41,9 @@
       "ai"
     ],
     "social_link": "https://github.com/RichardLiuda",
-    "stars": 0,
-    "version": "v0.1.1",
-    "updated_at": "2026-03-05T11:57:25Z",
+    "stars": 1,
+    "version": "v0.1.3",
+    "updated_at": "2026-03-06T04:07:09Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_oyasumi/master/logo.png"
   },
   "astrbot-plugin-LivelyState": {
@@ -122,9 +122,9 @@
       "Token检测"
     ],
     "social_link": "https://github.com/fbbDirge",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-03-05T06:37:16Z"
+    "updated_at": "2026-03-06T03:42:50Z"
   },
   "astrbot-plugin-bangumi-enhance": {
     "display_name": "Bangumi Enhance",
@@ -1048,9 +1048,9 @@
       "联网搜索"
     ],
     "category": "AI增强",
-    "stars": 6,
+    "stars": 7,
     "version": "2.3.0",
-    "updated_at": "2026-03-02T09:38:03Z",
+    "updated_at": "2026-03-06T03:31:16Z",
     "logo": "https://raw.githubusercontent.com/muqing-kg/astrbot_plugin_grok_suite/main/logo.png"
   },
   "astrbot-plugin-chat-polisher": {
@@ -2580,8 +2580,8 @@
     "social_link": "https://github.com/KonmaKanSinPack",
     "category": "AI增强",
     "stars": 4,
-    "version": "v1.0.1",
-    "updated_at": "2026-03-04T11:47:52Z"
+    "version": "v1.1.0",
+    "updated_at": "2026-03-06T04:12:33Z"
   },
   "astrbot_plugin_engram": {
     "display_name": "仿生双轨记忆系统",
@@ -3027,7 +3027,7 @@
     "category": "娱乐游戏",
     "stars": 3,
     "version": "v1.1.8",
-    "updated_at": "2026-03-06T01:28:00Z"
+    "updated_at": "2026-03-06T03:49:22Z"
   },
   "astrbot_plugin_help_typst": {
     "display_name": "插件菜单(typst 实现)",
@@ -4477,8 +4477,8 @@
     "social_link": "https://github.com/muyouzhi6",
     "category": "AI增强",
     "stars": 45,
-    "version": "v4.1.7",
-    "updated_at": "2026-03-05T11:25:22Z",
+    "version": "v4.1.8",
+    "updated_at": "2026-03-06T04:12:40Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -5130,7 +5130,7 @@
     "tags": [],
     "stars": 2,
     "version": "v0.1.0",
-    "updated_at": "2026-03-05T01:05:24Z"
+    "updated_at": "2026-03-06T03:43:35Z"
   },
   "astrbot_plugin_hardwareinfo": {
     "display_name": "硬件信息查询",
@@ -5851,9 +5851,9 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "AI增强",
-    "stars": 51,
+    "stars": 52,
     "version": "v1.2.0",
-    "updated_at": "2026-03-04T05:50:05Z",
+    "updated_at": "2026-03-06T02:48:31Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -7644,9 +7644,9 @@
       "rag"
     ],
     "category": "AI增强",
-    "stars": 78,
+    "stars": 79,
     "version": "2.2.4",
-    "updated_at": "2026-03-04T08:51:59Z",
+    "updated_at": "2026-03-06T02:49:32Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -11075,9 +11075,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "外部集成",
-    "stars": 167,
+    "stars": 168,
     "version": "v3.0.3",
-    "updated_at": "2026-03-05T08:01:55Z",
+    "updated_at": "2026-03-06T03:04:25Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -13553,8 +13553,8 @@
     "category": "效率工具",
     "tags": [],
     "stars": 12,
-    "version": "v1.0.3",
-    "updated_at": "2026-03-02T12:55:09Z"
+    "version": "v1.1.1",
+    "updated_at": "2026-03-06T02:32:58Z"
   },
   "astrbot_plugin_memeify": {
     "desc": "一个AstrBot的插件，用于LLM回复表情包的实现",
