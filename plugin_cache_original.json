@@ -594,7 +594,7 @@
     "category": "AI增强",
     "stars": 8,
     "version": "v1.10.2",
-    "updated_at": "2026-03-05T16:45:18Z",
+    "updated_at": "2026-03-06T05:37:56Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -887,8 +887,8 @@
     "social_link": "https://github.com/1-20182",
     "category": "娱乐游戏",
     "stars": 3,
-    "version": "v1.9.4",
-    "updated_at": "2026-03-03T12:47:02Z"
+    "version": "v1.9.5",
+    "updated_at": "2026-03-06T05:02:30Z"
   },
   "astrbot-plugin-Gemini-STT": {
     "display_name": "Gemini_STT",
@@ -1890,8 +1890,8 @@
     "social_link": "https://github.com/Heximiao",
     "category": "娱乐游戏",
     "stars": 11,
-    "version": "v3.0.4",
-    "updated_at": "2026-02-28T06:24:53Z",
+    "version": "v3.1.4",
+    "updated_at": "2026-03-06T04:47:48Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
@@ -2964,9 +2964,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "AI增强",
-    "stars": 30,
+    "stars": 31,
     "version": "1.1.1",
-    "updated_at": "2026-03-05T03:40:00Z"
+    "updated_at": "2026-03-06T05:22:50Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -3010,9 +3010,9 @@
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 155,
+    "stars": 156,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-05T15:57:17Z",
+    "updated_at": "2026-03-06T05:12:30Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -5353,9 +5353,10 @@
       "私聊"
     ],
     "category": "AI增强",
-    "stars": 17,
-    "version": "2.1.0",
-    "updated_at": "2026-03-01T14:44:10Z"
+    "stars": 18,
+    "version": "2.2.0",
+    "updated_at": "2026-03-06T04:55:31Z",
+    "logo": "https://raw.githubusercontent.com/aliveriver/astrbot_plugin_continuous_message/master/logo.png"
   },
   "astrbot_plugin_llm_amnesia": {
     "display_name": "LLM 遗忘插件",
@@ -6149,9 +6150,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "AI增强",
-    "stars": 106,
+    "stars": 107,
     "version": "v1.1.5",
-    "updated_at": "2026-03-05T17:49:03Z",
+    "updated_at": "2026-03-06T05:12:45Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -7644,9 +7645,9 @@
       "rag"
     ],
     "category": "AI增强",
-    "stars": 79,
+    "stars": 80,
     "version": "2.2.4",
-    "updated_at": "2026-03-06T02:49:32Z",
+    "updated_at": "2026-03-06T05:12:39Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -13592,9 +13593,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "AI增强",
     "tags": [],
-    "stars": 185,
+    "stars": 186,
     "version": "v2.1.0",
-    "updated_at": "2026-03-05T14:29:55Z"
+    "updated_at": "2026-03-06T05:10:52Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
