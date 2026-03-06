@@ -108,9 +108,9 @@
     "author": "xx",
     "repo": "https://github.com/xxofficial/astrbot_plugin_daily_ai_news",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "v1.0.0",
-    "updated_at": "2026-03-05T04:50:34Z"
+    "updated_at": "2026-03-06T17:01:37Z"
   },
   "astrbot-plugin-Grok2API Token": {
     "display_name": "Grok2API Token",
@@ -197,8 +197,8 @@
     ],
     "social_link": "https://github.com/xiaoruange39",
     "stars": 3,
-    "version": "v1.0.2",
-    "updated_at": "2026-03-06T14:30:24Z",
+    "version": "v1.0.3",
+    "updated_at": "2026-03-06T17:00:18Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_epic_freegame/main/logo.png"
   },
   "astrbot-plugin-goofish-catcher": {
@@ -1189,7 +1189,7 @@
     "category": "外部集成",
     "stars": 38,
     "version": "v1.5.0",
-    "updated_at": "2026-03-06T15:45:22Z",
+    "updated_at": "2026-03-06T17:01:01Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -2261,7 +2261,7 @@
     "category": "AI增强",
     "stars": 21,
     "version": "4.8.1",
-    "updated_at": "2026-03-05T09:46:00Z",
+    "updated_at": "2026-03-06T17:32:02Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -2467,9 +2467,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
-    "stars": 21,
+    "stars": 22,
     "version": "v1.0.16",
-    "updated_at": "2026-02-02T04:50:25Z",
+    "updated_at": "2026-03-06T17:16:14Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_love_formula/master/logo.png"
   },
   "astrbot_plugin_pjsk": {
@@ -7481,8 +7481,8 @@
     "category": "外部集成",
     "tags": [],
     "stars": 44,
-    "version": "v2.3.6",
-    "updated_at": "2026-03-06T16:41:31Z"
+    "version": "v2.3.8",
+    "updated_at": "2026-03-06T17:16:09Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -11265,9 +11265,9 @@
     ],
     "social_link": "https://github.com/vmoranv-reborn",
     "category": "娱乐游戏",
-    "stars": 14,
+    "stars": 15,
     "version": "1.7.2",
-    "updated_at": "2026-03-05T12:36:26Z",
+    "updated_at": "2026-03-06T17:01:15Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
