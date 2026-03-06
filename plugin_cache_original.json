@@ -493,8 +493,8 @@
     ],
     "category": "AI增强",
     "stars": 16,
-    "version": "v0.3.3",
-    "updated_at": "2026-03-06T07:30:48Z"
+    "version": "v0.3.4",
+    "updated_at": "2026-03-06T07:51:06Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -592,9 +592,9 @@
     ],
     "social_link": "https://github.com/leafliber",
     "category": "AI增强",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.10.2",
-    "updated_at": "2026-03-06T06:59:48Z",
+    "updated_at": "2026-03-06T08:14:59Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -10749,9 +10749,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "AI增强",
-    "stars": 53,
+    "stars": 54,
     "version": "v2.0.3",
-    "updated_at": "2026-03-05T16:32:35Z",
+    "updated_at": "2026-03-06T07:45:57Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_pokepro/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
@@ -11720,9 +11720,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_reread",
     "category": "效率工具",
-    "stars": 26,
+    "stars": 27,
     "version": "v2.0.0",
-    "updated_at": "2026-02-22T08:04:51Z",
+    "updated_at": "2026-03-06T07:46:05Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_reread/main/logo.png"
   },
   "astrbot_plugin_csbaoyan": {
@@ -12302,9 +12302,9 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "category": "娱乐游戏",
-    "stars": 85,
+    "stars": 86,
     "version": "v3.0.3",
-    "updated_at": "2026-03-04T14:42:58Z",
+    "updated_at": "2026-03-06T07:44:49Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
