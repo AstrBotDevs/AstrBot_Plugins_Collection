@@ -3026,8 +3026,8 @@
     "social_link": "https://github.com/Li-shi-ling",
     "category": "娱乐游戏",
     "stars": 3,
-    "version": "v1.1.8",
-    "updated_at": "2026-03-06T03:49:22Z"
+    "version": "v1.1.9",
+    "updated_at": "2026-03-06T11:08:46Z"
   },
   "astrbot_plugin_help_typst": {
     "display_name": "插件菜单(typst 实现)",
@@ -3098,8 +3098,8 @@
     "social_link": "https://github.com/Clhikari",
     "category": "AI增强",
     "stars": 6,
-    "version": "v1.2.4",
-    "updated_at": "2026-03-01T22:31:19Z",
+    "version": "v1.2.5",
+    "updated_at": "2026-03-06T10:57:15Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -12044,9 +12044,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
     "category": "AI增强",
-    "stars": 58,
+    "stars": 59,
     "version": "v3.1.0",
-    "updated_at": "2026-02-26T08:58:37Z",
+    "updated_at": "2026-03-06T10:51:10Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
