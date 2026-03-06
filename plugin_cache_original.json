@@ -6134,9 +6134,9 @@
     "repo": "https://github.com/RC-CHN/astrbot_plugin_ragflow_adapter",
     "category": "AI增强",
     "tags": [],
-    "stars": 9,
+    "stars": 10,
     "version": "v0.3",
-    "updated_at": "2026-01-03T06:23:40Z"
+    "updated_at": "2026-03-06T21:56:48Z"
   },
   "astrbot_plugin_proactive_chat": {
     "display_name": "主动消息 (Proactive Chat)",
