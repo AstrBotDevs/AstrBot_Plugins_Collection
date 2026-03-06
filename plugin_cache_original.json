@@ -138,9 +138,9 @@
       "追番"
     ],
     "social_link": "https://github.com/united-pooh",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.1.1",
-    "updated_at": "2026-03-05T15:35:08Z",
+    "updated_at": "2026-03-06T18:31:48Z",
     "logo": "https://raw.githubusercontent.com/united-pooh/astrbot_plugin_bangumi/main/logo.png"
   },
   "astrbot-plugin-three-body-wiki": {
@@ -243,8 +243,8 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 9,
-    "version": "2.0.0",
-    "updated_at": "2026-03-06T16:04:50Z",
+    "version": "2.0.1",
+    "updated_at": "2026-03-06T18:02:25Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -682,7 +682,7 @@
     "category": "效率工具",
     "stars": 1,
     "version": "v1.1",
-    "updated_at": "2026-03-03T14:14:54Z",
+    "updated_at": "2026-03-06T18:48:21Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_sentinel/master/logo.png"
   },
   "astrbot-plugin-bilibanshi": {
@@ -1456,7 +1456,7 @@
     "category": "效率工具",
     "stars": 6,
     "version": "v0.3.2",
-    "updated_at": "2026-03-05T12:37:36Z",
+    "updated_at": "2026-03-06T18:32:10Z",
     "logo": "https://raw.githubusercontent.com/XYTUworkshop/astrbot_plugin_XYTUFunction/master/logo.png"
   },
   "astrbot_plugin_lzpersona": {
@@ -5870,9 +5870,9 @@
       "发言统计"
     ],
     "category": "外部集成",
-    "stars": 13,
+    "stars": 14,
     "version": "1.7.6",
-    "updated_at": "2026-03-03T15:12:35Z",
+    "updated_at": "2026-03-06T18:31:51Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
@@ -9219,9 +9219,9 @@
     ],
     "category": "AI增强",
     "author": null,
-    "stars": 28,
+    "stars": 29,
     "version": "2.6.0",
-    "updated_at": "2026-03-06T06:01:46Z"
+    "updated_at": "2026-03-06T17:49:11Z"
   },
   "astrbot_plugin_group_sign": {
     "name": "group_sign",
