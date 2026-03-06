@@ -594,7 +594,7 @@
     "category": "AI增强",
     "stars": 9,
     "version": "v1.10.2",
-    "updated_at": "2026-03-06T14:38:49Z",
+    "updated_at": "2026-03-06T15:25:41Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -635,8 +635,8 @@
     "social_link": "",
     "category": "娱乐游戏",
     "stars": 4,
-    "version": "v0.0.3",
-    "updated_at": "2026-03-04T02:38:02Z",
+    "version": "v0.0.4",
+    "updated_at": "2026-03-06T15:36:48Z",
     "logo": "https://raw.githubusercontent.com/moemoli/astrbot_plugin_warframe_helper/master/logo.png"
   },
   "astrbot-plugin-trello": {
@@ -758,9 +758,9 @@
     "social_link": "https://github.com/sssn-tech",
     "category": "AI增强",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "v0.1.0",
-    "updated_at": "2026-03-06T14:25:41Z",
+    "updated_at": "2026-03-06T15:05:42Z",
     "logo": "https://raw.githubusercontent.com/sssn-tech/astrbot_plugin_iamthinking/master/logo.png"
   },
   "astrbot-plugin-gbif-search": {
@@ -1189,7 +1189,7 @@
     "category": "外部集成",
     "stars": 37,
     "version": "v1.5.0",
-    "updated_at": "2026-03-06T14:41:40Z",
+    "updated_at": "2026-03-06T14:53:26Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -2360,8 +2360,8 @@
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
     "stars": 192,
-    "version": "v4.8.2",
-    "updated_at": "2026-03-06T14:35:10Z",
+    "version": "v4.8.3",
+    "updated_at": "2026-03-06T14:52:42Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
