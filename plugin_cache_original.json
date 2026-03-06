@@ -1189,7 +1189,7 @@
     "category": "外部集成",
     "stars": 38,
     "version": "v1.5.0",
-    "updated_at": "2026-03-06T19:31:27Z",
+    "updated_at": "2026-03-06T20:04:03Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -2359,9 +2359,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
-    "stars": 192,
+    "stars": 193,
     "version": "v4.8.4",
-    "updated_at": "2026-03-06T16:42:34Z",
+    "updated_at": "2026-03-06T19:43:06Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -6394,9 +6394,9 @@
       "nobroswer"
     ],
     "category": "AI增强",
-    "stars": 18,
+    "stars": 19,
     "version": "v1.4.0",
-    "updated_at": "2026-03-01T05:51:07Z"
+    "updated_at": "2026-03-06T19:35:27Z"
   },
   "astrbot_plugin_fetch_summary": {
     "desc": "根据 URL 获取网站摘要",
