@@ -2360,8 +2360,8 @@
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
     "stars": 191,
-    "version": "v4.8.1",
-    "updated_at": "2026-03-06T09:38:07Z",
+    "version": "v4.8.2",
+    "updated_at": "2026-03-06T09:53:36Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -5353,9 +5353,9 @@
       "私聊"
     ],
     "category": "AI增强",
-    "stars": 19,
+    "stars": 20,
     "version": "2.2.0",
-    "updated_at": "2026-03-06T06:14:27Z",
+    "updated_at": "2026-03-06T10:03:35Z",
     "logo": "https://raw.githubusercontent.com/aliveriver/astrbot_plugin_continuous_message/master/logo.png"
   },
   "astrbot_plugin_llm_amnesia": {
@@ -10541,9 +10541,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 62,
+    "stars": 63,
     "version": "v1.1.1",
-    "updated_at": "2026-03-05T02:10:05Z",
+    "updated_at": "2026-03-06T09:52:49Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
