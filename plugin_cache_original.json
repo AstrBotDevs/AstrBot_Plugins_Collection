@@ -1295,9 +1295,9 @@
     "repo": "https://github.com/luori7hao/astrbot_plugin_messenger",
     "category": "效率工具",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "2.1.0",
-    "updated_at": "2026-02-19T13:10:30Z"
+    "updated_at": "2026-03-06T11:38:06Z"
   },
   "astrbot_plugin_live2d_adapter": {
     "display_name": "Live2D 适配器",
@@ -2359,9 +2359,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
-    "stars": 191,
+    "stars": 192,
     "version": "v4.8.2",
-    "updated_at": "2026-03-06T09:53:36Z",
+    "updated_at": "2026-03-06T11:54:05Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -3010,9 +3010,9 @@
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 156,
+    "stars": 157,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-06T05:12:30Z",
+    "updated_at": "2026-03-06T12:47:29Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -3114,9 +3114,9 @@
     ],
     "social_link": "https://github.com/Huahuatgc",
     "category": "生活实用",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.0.0",
-    "updated_at": "2026-03-04T10:22:08Z"
+    "updated_at": "2026-03-06T12:18:16Z"
   },
   "astrbot_plugin_matrix_adapter": {
     "display_name": "Matrix 协议适配器",
@@ -8474,9 +8474,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 74,
+    "stars": 75,
     "version": "v3.0.3",
-    "updated_at": "2026-03-05T08:04:15Z",
+    "updated_at": "2026-03-06T11:33:23Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -12895,9 +12895,9 @@
       "搬史"
     ],
     "category": "外部集成",
-    "stars": 514,
+    "stars": 513,
     "version": "v0.916",
-    "updated_at": "2026-03-05T17:32:10Z"
+    "updated_at": "2026-03-06T11:37:35Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
