@@ -1,4 +1,43 @@
 {
+  "astrbot-plugin-cet6": {
+    "display_name": "四六级金牌私教",
+    "desc": "沉浸式四六级阅读刷题与单词闪测专属备考工具，内置精校真题库。",
+    "author": "202704948-design",
+    "repo": "https://github.com/202704948-design/astrbot_plugin_cet6",
+    "tags": [
+      "学习",
+      "工具",
+      "实用"
+    ],
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-03-05T20:08:52Z"
+  },
+  "astrbot-plugin-f1-notifier": {
+    "display_name": "F1 Notifier",
+    "desc": "自动推送F1比赛周通知（赛程、排位赛、冲刺赛、正赛结果、发车顺序），支持用户指令查询赛程、积分榜等信息",
+    "author": "MareDevi",
+    "repo": "https://github.com/MareDevi/astrbot_plugin_f1_notifier",
+    "tags": [
+      "F1"
+    ],
+    "social_link": "www.maredevi.moe",
+    "stars": 0,
+    "version": "v1.1.1",
+    "updated_at": "2026-03-07T08:53:08Z",
+    "logo": "https://raw.githubusercontent.com/MareDevi/astrbot_plugin_f1_notifier/master/logo.png"
+  },
+  "astrbot-plugin-self-evolution": {
+    "display_name": "自我进化 (Self-Evolution)",
+    "desc": "让大模型具备自我迭代、记忆沉淀和人格进化能力的插件。",
+    "author": "renyus",
+    "repo": "https://github.com/Renyus/astrbot_plugin_self_evolution",
+    "social_link": "https://github.com/Renyus",
+    "tags": [],
+    "stars": 0,
+    "version": "2.0.0",
+    "updated_at": "2026-03-07T11:07:46Z"
+  },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
     "desc": "多功能生活助手（char 合集），对原 char 系列多个热门插件进行整合，一套插件搞定日常查询、提醒、记账、搜索等高频需求，统一配置、统一指令、统一维护。",
@@ -8,7 +47,7 @@
     "tags": [],
     "stars": 0,
     "version": "0.1.0",
-    "updated_at": "2026-03-04T14:06:35Z"
+    "updated_at": "2026-03-07T11:15:23Z"
   },
   "astrbot-plugin-local-reminiscence": {
     "display_name": "本地回忆[APLR]",
@@ -347,8 +386,8 @@
       "sky"
     ],
     "stars": 1,
-    "version": "2.5.0",
-    "updated_at": "2026-03-07T04:14:48Z",
+    "version": "2.5.3",
+    "updated_at": "2026-03-07T10:31:52Z",
     "logo": "https://raw.githubusercontent.com/wzq10314/astrbot_plugin_sky/main/logo.png"
   },
   "astrbot-plugin-animatedemoji": {
@@ -1438,9 +1477,9 @@
       "codegen"
     ],
     "category": "AI增强",
-    "stars": 28,
+    "stars": 29,
     "version": "1.1.1",
-    "updated_at": "2026-03-06T07:03:04Z",
+    "updated_at": "2026-03-07T11:08:45Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -3036,9 +3075,9 @@
     "repo": "https://github.com/bylkuse/astrbot_plugin_help_typst",
     "category": "效率工具",
     "tags": [],
-    "stars": 10,
+    "stars": 11,
     "version": "v0.1.1",
-    "updated_at": "2026-03-06T08:51:26Z",
+    "updated_at": "2026-03-07T11:16:41Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_help_typst/master/logo.png"
   },
   "astrbot_plugin_lb_provider": {
@@ -7645,9 +7684,9 @@
       "rag"
     ],
     "category": "AI增强",
-    "stars": 82,
+    "stars": 83,
     "version": "2.2.4",
-    "updated_at": "2026-03-07T10:21:25Z",
+    "updated_at": "2026-03-07T11:11:00Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -8474,9 +8513,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 76,
+    "stars": 75,
     "version": "v3.0.3",
-    "updated_at": "2026-03-07T06:24:52Z",
+    "updated_at": "2026-03-07T11:16:10Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -10320,9 +10359,9 @@
     "repo": "https://github.com/VincenttHo/astrbot_plugin_dzmm",
     "category": "外部集成",
     "tags": [],
-    "stars": 17,
+    "stars": 18,
     "version": "v1.1.0",
-    "updated_at": "2026-01-09T21:06:07Z"
+    "updated_at": "2026-03-07T11:20:16Z"
   },
   "astrbot_plugin_text2image": {
     "author": "wuyan1003",
@@ -13593,9 +13632,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "AI增强",
     "tags": [],
-    "stars": 187,
+    "stars": 188,
     "version": "v2.1.0",
-    "updated_at": "2026-03-07T04:48:09Z"
+    "updated_at": "2026-03-07T11:04:56Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
