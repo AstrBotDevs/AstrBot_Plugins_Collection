@@ -645,7 +645,7 @@
     "category": "AI增强",
     "stars": 10,
     "version": "v1.10.2",
-    "updated_at": "2026-03-07T17:03:48Z",
+    "updated_at": "2026-03-07T17:44:54Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -2116,7 +2116,7 @@
     "category": "AI增强",
     "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-03-07T16:14:10Z"
+    "updated_at": "2026-03-07T17:23:16Z"
   },
   "astrbot_plugin_trpgdice_rerolled": {
     "display_name": "星星骰娘-重骰版！",
@@ -2647,7 +2647,7 @@
     "category": "AI增强",
     "stars": 5,
     "version": "1.5.7",
-    "updated_at": "2026-03-07T17:13:38Z"
+    "updated_at": "2026-03-07T17:34:00Z"
   },
   "astrbot_plugin_mc_manager": {
     "display_name": "astrbot_plugin_mc_manager",
@@ -3062,9 +3062,9 @@
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 158,
+    "stars": 159,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-06T14:49:16Z",
+    "updated_at": "2026-03-07T17:33:47Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -7532,9 +7532,9 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "category": "外部集成",
     "tags": [],
-    "stars": 44,
+    "stars": 45,
     "version": "v2.4.1",
-    "updated_at": "2026-03-07T16:32:07Z"
+    "updated_at": "2026-03-07T17:47:25Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
