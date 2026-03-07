@@ -46,9 +46,9 @@
     "repo": "https://github.com/Renyus/astrbot_plugin_self_evolution",
     "social_link": "https://github.com/Renyus",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "2.1.0",
-    "updated_at": "2026-03-07T13:06:32Z"
+    "updated_at": "2026-03-07T15:39:18Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -57,9 +57,9 @@
     "repo": "https://github.com/zhongyu0306/MyAstrBot",
     "social_link": "QQ群：1071693895",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "0.1.0",
-    "updated_at": "2026-03-07T14:23:23Z"
+    "updated_at": "2026-03-07T16:24:30Z"
   },
   "astrbot-plugin-local-reminiscence": {
     "display_name": "本地回忆[APLR]",
@@ -612,9 +612,9 @@
     "social_link": "https://github.com/storyAura",
     "category": "生活实用",
     "tags": [],
-    "stars": 7,
+    "stars": 8,
     "version": "v1.0.2",
-    "updated_at": "2026-03-06T06:53:13Z",
+    "updated_at": "2026-03-07T15:33:39Z",
     "logo": "https://raw.githubusercontent.com/storyAura/astrbot_plugin_biliVideo/main/logo.png"
   },
   "astrbot-plugin-opencode-client": {
@@ -2116,7 +2116,7 @@
     "category": "AI增强",
     "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-03-07T09:38:45Z"
+    "updated_at": "2026-03-07T16:14:10Z"
   },
   "astrbot_plugin_trpgdice_rerolled": {
     "display_name": "星星骰娘-重骰版！",
@@ -2313,7 +2313,7 @@
     "category": "AI增强",
     "stars": 21,
     "version": "4.8.2",
-    "updated_at": "2026-03-07T02:41:06Z",
+    "updated_at": "2026-03-07T16:16:24Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -2411,9 +2411,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
-    "stars": 194,
+    "stars": 196,
     "version": "v4.8.4",
-    "updated_at": "2026-03-07T04:48:41Z",
+    "updated_at": "2026-03-07T15:55:12Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -10593,9 +10593,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 63,
+    "stars": 64,
     "version": "v1.1.1",
-    "updated_at": "2026-03-06T09:52:49Z",
+    "updated_at": "2026-03-07T15:49:41Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
