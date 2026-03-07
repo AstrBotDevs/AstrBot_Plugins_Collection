@@ -289,7 +289,7 @@
     "social_link": "https://github.com/w2902171175",
     "stars": 2,
     "version": "v1.7.1",
-    "updated_at": "2026-03-07T07:21:29Z"
+    "updated_at": "2026-03-07T07:30:35Z"
   },
   "astrbot-plugin-custome-segment-reply": {
     "display_name": "自定义断句回复插件",
@@ -505,7 +505,7 @@
     "tags": [],
     "stars": 2,
     "version": "v1.7.1",
-    "updated_at": "2026-03-07T07:21:29Z"
+    "updated_at": "2026-03-07T07:30:35Z"
   },
   "astrbot-plugin-topic-starter": {
     "display_name": "topic_starter",
@@ -592,9 +592,9 @@
     ],
     "social_link": "https://github.com/leafliber",
     "category": "AI增强",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.10.2",
-    "updated_at": "2026-03-06T15:25:41Z",
+    "updated_at": "2026-03-07T08:13:41Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -758,9 +758,9 @@
     "social_link": "https://github.com/sssn-tech",
     "category": "AI增强",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "v0.1.0",
-    "updated_at": "2026-03-06T15:05:42Z",
+    "updated_at": "2026-03-07T07:50:43Z",
     "logo": "https://raw.githubusercontent.com/sssn-tech/astrbot_plugin_iamthinking/master/logo.png"
   },
   "astrbot-plugin-gbif-search": {
@@ -5416,9 +5416,9 @@
       "推特"
     ],
     "category": "效率工具",
-    "stars": 22,
+    "stars": 23,
     "version": "v4.3.3",
-    "updated_at": "2026-03-04T04:26:47Z",
+    "updated_at": "2026-03-07T08:13:47Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -7645,9 +7645,9 @@
       "rag"
     ],
     "category": "AI增强",
-    "stars": 80,
+    "stars": 81,
     "version": "2.2.4",
-    "updated_at": "2026-03-06T05:12:39Z",
+    "updated_at": "2026-03-07T07:45:19Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -12869,9 +12869,9 @@
       "功能"
     ],
     "category": "AI增强",
-    "stars": 25,
+    "stars": 26,
     "version": "1.1.0",
-    "updated_at": "2026-02-11T15:53:09Z"
+    "updated_at": "2026-03-07T08:33:18Z"
   },
   "astrbot_plugin_moyuren": {
     "desc": "每天定时推送摸鱼人日历",
