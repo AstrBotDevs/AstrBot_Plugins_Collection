@@ -1187,9 +1187,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 38,
+    "stars": 39,
     "version": "v1.5.0",
-    "updated_at": "2026-03-06T20:04:03Z",
+    "updated_at": "2026-03-07T00:50:52Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -4966,9 +4966,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "效率工具",
-    "stars": 84,
+    "stars": 85,
     "version": "v2.3.0",
-    "updated_at": "2026-03-06T14:11:01Z",
+    "updated_at": "2026-03-07T01:57:04Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -11076,9 +11076,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "外部集成",
-    "stars": 168,
+    "stars": 169,
     "version": "v3.0.3",
-    "updated_at": "2026-03-06T03:04:25Z",
+    "updated_at": "2026-03-07T01:05:59Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -11384,9 +11384,9 @@
       "理财"
     ],
     "category": "外部集成",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0",
-    "updated_at": "2025-04-17T07:11:08Z"
+    "updated_at": "2026-03-06T23:58:17Z"
   },
   "astrbot_plugin_gotify": {
     "repo": "https://github.com/BetaCatX/astrbot_plugin_gotify",
@@ -13343,9 +13343,9 @@
     "repo": "https://github.com/cyber-moshen/astrbot_plugin_VITS",
     "category": "外部集成",
     "tags": [],
-    "stars": 7,
+    "stars": 8,
     "version": "v1.5.0",
-    "updated_at": "2025-12-21T19:25:57Z"
+    "updated_at": "2026-03-07T00:24:30Z"
   },
   "astrbot_plugin_memes": {
     "desc": "这是能让机器人随机发表情包的插件，可手动添加表情包，表情包路径在AstrBot/data/meme/下",
