@@ -243,8 +243,8 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 9,
-    "version": "2.0.1",
-    "updated_at": "2026-03-06T18:02:25Z",
+    "version": "2.1.0",
+    "updated_at": "2026-03-07T09:00:42Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -1001,8 +1001,8 @@
     ],
     "category": "外部集成",
     "stars": 3,
-    "version": "v1.2.1",
-    "updated_at": "2026-03-03T01:59:27Z",
+    "version": "v1.2.2",
+    "updated_at": "2026-03-07T09:02:58Z",
     "logo": "https://raw.githubusercontent.com/qsc20001102/astrbot_plugin_jx3/main/logo.png"
   },
   "astrbot-plugin-zirunbi": {
@@ -1189,7 +1189,7 @@
     "category": "外部集成",
     "stars": 39,
     "version": "v1.5.0",
-    "updated_at": "2026-03-07T00:50:52Z",
+    "updated_at": "2026-03-07T09:14:48Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -3780,9 +3780,9 @@
       "人格"
     ],
     "category": "AI增强",
-    "stars": 36,
+    "stars": 37,
     "version": "1.2.8",
-    "updated_at": "2026-03-05T13:27:08Z"
+    "updated_at": "2026-03-07T09:27:15Z"
   },
   "astrbot_plugin_angel_heart": {
     "display_name": "天使之心",
@@ -4816,9 +4816,9 @@
     ],
     "social_link": "https://box.firefly520.top/",
     "category": "AI增强",
-    "stars": 21,
+    "stars": 22,
     "version": "1.5.2",
-    "updated_at": "2026-03-05T08:34:36Z",
+    "updated_at": "2026-03-07T08:35:39Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/main/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
