@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-smart-filter": {
+    "display_name": "用户输入审核",
+    "desc": "一个可用于角色扮演的过滤器插件",
+    "author": "Waterwzy",
+    "repo": "https://github.com/Waterwzy/astrbot_plugin_firefly_filter",
+    "tags": [],
+    "social_link": "",
+    "stars": 1,
+    "version": "v1.0.1",
+    "updated_at": "2026-03-07T14:08:22Z"
+  },
   "astrbot-plugin-cet6": {
     "display_name": "四六级金牌私教",
     "desc": "沉浸式四六级阅读刷题与单词闪测专属备考工具，内置精校真题库。",
@@ -45,9 +56,9 @@
     "repo": "https://github.com/zhongyu0306/MyAstrBot",
     "social_link": "QQ群：1071693895",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "0.1.0",
-    "updated_at": "2026-03-07T11:38:18Z"
+    "updated_at": "2026-03-07T14:23:23Z"
   },
   "astrbot-plugin-local-reminiscence": {
     "display_name": "本地回忆[APLR]",
@@ -64,9 +75,9 @@
       "长期记忆"
     ],
     "social_link": "https://github.com/olozhika/",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-03-06T08:45:02Z"
+    "updated_at": "2026-03-07T14:22:19Z"
   },
   "astrbot-plugin-oyasumi": {
     "display_name": "睡了喵~",
@@ -282,8 +293,8 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 9,
-    "version": "2.1.0",
-    "updated_at": "2026-03-07T09:00:42Z",
+    "version": "2.2.0",
+    "updated_at": "2026-03-07T13:51:56Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -1226,9 +1237,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 39,
+    "stars": 40,
     "version": "v1.5.0",
-    "updated_at": "2026-03-07T09:14:48Z",
+    "updated_at": "2026-03-07T14:23:40Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -1350,8 +1361,8 @@
     "social_link": "https://github.com/lxfight",
     "category": "外部集成",
     "stars": 4,
-    "version": "1.0.0",
-    "updated_at": "2026-03-07T13:28:51Z"
+    "version": "1.2.0",
+    "updated_at": "2026-03-07T13:53:56Z"
   },
   "astrbot_plugin_telegram_summary": {
     "name": "",
