@@ -34,9 +34,9 @@
     "repo": "https://github.com/Renyus/astrbot_plugin_self_evolution",
     "social_link": "https://github.com/Renyus",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "2.0.0",
-    "updated_at": "2026-03-07T11:07:46Z"
+    "updated_at": "2026-03-07T12:51:47Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -47,7 +47,7 @@
     "tags": [],
     "stars": 0,
     "version": "0.1.0",
-    "updated_at": "2026-03-07T11:15:23Z"
+    "updated_at": "2026-03-07T11:38:18Z"
   },
   "astrbot-plugin-local-reminiscence": {
     "display_name": "本地回忆[APLR]",
@@ -342,9 +342,9 @@
       "分段回复"
     ],
     "social_link": "https://github.com/LinJohn8",
-    "stars": 8,
+    "stars": 9,
     "version": "1.0.0",
-    "updated_at": "2026-03-07T06:14:46Z",
+    "updated_at": "2026-03-07T11:44:59Z",
     "logo": "https://raw.githubusercontent.com/LinJohn8/astrbot_plugin_custome_segment_reply/main/logo.png"
   },
   "astrbot-plugin-alteration-notifier": {
@@ -531,9 +531,9 @@
       "人物画像"
     ],
     "category": "AI增强",
-    "stars": 16,
-    "version": "v0.3.4",
-    "updated_at": "2026-03-06T07:51:06Z"
+    "stars": 17,
+    "version": "v0.3.5",
+    "updated_at": "2026-03-07T11:44:09Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -731,9 +731,9 @@
     "repo": "https://github.com/Xuewu-awa/astrbot_plugin_bilibanshi",
     "category": "效率工具",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-02-25T06:37:26Z"
+    "updated_at": "2026-03-07T12:20:25Z"
   },
   "blueraina/astrbot-plugin-novel": {
     "desc": "QQ群群友协作 + AI辅助写作的长篇小说插件（每群独立/知识库/多AI打分/冲突投票/风格模仿/用户修正/EPUB/PDF导出）",
@@ -1242,8 +1242,9 @@
     ],
     "category": "娱乐游戏",
     "stars": 1,
-    "version": "v1.4.1",
-    "updated_at": "2026-02-12T10:02:58Z"
+    "version": "v1.4.2",
+    "updated_at": "2026-03-07T12:24:48Z",
+    "logo": "https://raw.githubusercontent.com/gangcaiyoule/astrbot_plugin_mc_duration/master/logo.png"
   },
   "astrbot_plugin_minecraftconsole": {
     "display_name": "Minecraft 控制台",
@@ -1526,9 +1527,9 @@
     ],
     "social_link": "https://github.com/4869-yinxu",
     "category": "外部集成",
-    "stars": 5,
+    "stars": 6,
     "version": "1.3.0",
-    "updated_at": "2026-03-05T13:34:45Z"
+    "updated_at": "2026-03-07T11:26:31Z"
   },
   "astrbot_plugin_riddlegame": {
     "display_name": "qq群棋类游戏",
@@ -2356,7 +2357,7 @@
     "tags": [],
     "stars": 2,
     "version": "v1.5.0",
-    "updated_at": "2026-03-07T04:05:59Z",
+    "updated_at": "2026-03-07T12:21:40Z",
     "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_fflogs/master/logo.png"
   },
   "astrbot_plugin_CNKD_NEWS": {
@@ -2772,9 +2773,9 @@
     ],
     "social_link": "https://github.com/Dayanshifu",
     "category": "外部集成",
-    "stars": 3,
+    "stars": 2,
     "version": "1.0.3",
-    "updated_at": "2026-02-22T05:05:08Z",
+    "updated_at": "2026-03-07T12:43:22Z",
     "logo": "https://raw.githubusercontent.com/Dayanshifu/astrbot_plugin_music_pro/main/logo.png"
   },
   "astrbot_plugin_online_status": {
@@ -3377,7 +3378,7 @@
     "category": "效率工具",
     "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-02-27T09:08:38Z"
+    "updated_at": "2026-03-07T11:30:05Z"
   },
   "astrbot_plugin_file_manager": {
     "display_name": "AstrBot 文件夹文件管理插件",
@@ -4010,7 +4011,7 @@
     "category": "AI增强",
     "stars": 2,
     "version": "v1.2.0",
-    "updated_at": "2026-03-05T12:37:45Z"
+    "updated_at": "2026-03-07T12:23:41Z"
   },
   "astrbot_plugin_yoimg": {
     "display_name": "Gitee 图系模型文生图，图生图",
@@ -12980,9 +12981,9 @@
     ],
     "pinned": true,
     "category": "效率工具",
-    "stars": 157,
+    "stars": 158,
     "version": "v3.19",
-    "updated_at": "2026-03-05T14:09:17Z"
+    "updated_at": "2026-03-07T12:05:33Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
