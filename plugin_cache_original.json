@@ -635,8 +635,8 @@
     "social_link": "",
     "category": "娱乐游戏",
     "stars": 4,
-    "version": "v0.1.0",
-    "updated_at": "2026-03-07T03:54:25Z",
+    "version": "v0.1.2",
+    "updated_at": "2026-03-07T04:39:21Z",
     "logo": "https://raw.githubusercontent.com/moemoli/astrbot_plugin_warframe_helper/master/logo.png"
   },
   "astrbot-plugin-trello": {
@@ -748,7 +748,7 @@
     "category": "AI增强",
     "stars": 1,
     "version": "v1.3.2",
-    "updated_at": "2026-03-01T15:15:48Z"
+    "updated_at": "2026-03-07T04:42:30Z"
   },
   "astrbot-plugin-iamthinking": {
     "display_name": "别吵我在思考",
@@ -2359,9 +2359,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
-    "stars": 193,
+    "stars": 194,
     "version": "v4.8.4",
-    "updated_at": "2026-03-06T19:43:06Z",
+    "updated_at": "2026-03-07T04:48:41Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -2467,9 +2467,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
-    "stars": 22,
+    "stars": 23,
     "version": "v1.0.16",
-    "updated_at": "2026-03-06T17:16:14Z",
+    "updated_at": "2026-03-07T05:19:50Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_love_formula/master/logo.png"
   },
   "astrbot_plugin_pjsk": {
@@ -5588,9 +5588,9 @@
       "指令"
     ],
     "category": "效率工具",
-    "stars": 10,
+    "stars": 11,
     "version": "1.1.3",
-    "updated_at": "2026-01-02T23:07:04Z",
+    "updated_at": "2026-03-07T04:42:34Z",
     "logo": "https://raw.githubusercontent.com/TenmaGabriel0721/astrbot_plugin_permission-manager/main/logo.png"
   },
   "astrbot_plugin_whatslinkInfo": {
@@ -6653,8 +6653,8 @@
     "category": "效率工具",
     "tags": [],
     "stars": 3,
-    "version": "1.7.5",
-    "updated_at": "2026-02-18T12:30:11Z"
+    "version": "1.7.6",
+    "updated_at": "2026-03-07T04:25:52Z"
   },
   "astrbot_plugin_33recognition": {
     "desc": "调用大模型检测图片中关键词",
@@ -11824,9 +11824,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
     "category": "效率工具",
-    "stars": 30,
+    "stars": 31,
     "version": "v2.0.0",
-    "updated_at": "2026-03-05T08:26:16Z",
+    "updated_at": "2026-03-07T04:37:51Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_browser/main/logo.png"
   },
   "astrbot_plugin_qqadmin": {
@@ -13593,9 +13593,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "AI增强",
     "tags": [],
-    "stars": 186,
+    "stars": 187,
     "version": "v2.1.0",
-    "updated_at": "2026-03-06T05:10:52Z"
+    "updated_at": "2026-03-07T04:48:09Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
