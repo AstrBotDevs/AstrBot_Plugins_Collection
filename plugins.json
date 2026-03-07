@@ -1,4 +1,12 @@
 {
+  "astrbot-plugin-smart-filter": {
+    "display_name": "用户输入审核",
+    "desc": "一个可用于角色扮演的过滤器插件",
+    "author": "Waterwzy",
+    "repo": "https://github.com/Waterwzy/astrbot_plugin_firefly_filter",
+    "tags": [],
+    "social_link": ""
+  },
   "astrbot-plugin-cet6": {
     "display_name": "四六级金牌私教",
     "desc": "沉浸式四六级阅读刷题与单词闪测专属备考工具，内置精校真题库。",
