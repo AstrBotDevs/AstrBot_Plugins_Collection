@@ -1,4 +1,11 @@
 {
+  "astrbot-plugin-self-evolution": {
+    "display_name": "自我进化 (Self-Evolution)",
+    "desc": "让大模型具备自我迭代、记忆沉淀和人格进化能力的插件。",
+    "author": "renyus",
+    "repo": "https://github.com/Renyus/astrbot_plugin_self_evolution",
+    "social_link": "https://github.com/Renyus"
+  },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
     "desc": "多功能生活助手（char 合集），对原 char 系列多个热门插件进行整合，一套插件搞定日常查询、提醒、记账、搜索等高频需求，统一配置、统一指令、统一维护。",
