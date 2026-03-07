@@ -288,8 +288,8 @@
     ],
     "social_link": "https://github.com/w2902171175",
     "stars": 2,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-02T15:33:56Z"
+    "version": "v1.7.1",
+    "updated_at": "2026-03-07T06:35:36Z"
   },
   "astrbot-plugin-custome-segment-reply": {
     "display_name": "自定义断句回复插件",
@@ -303,9 +303,9 @@
       "分段回复"
     ],
     "social_link": "https://github.com/LinJohn8",
-    "stars": 7,
+    "stars": 8,
     "version": "1.0.0",
-    "updated_at": "2026-03-01T13:13:29Z",
+    "updated_at": "2026-03-07T06:14:46Z",
     "logo": "https://raw.githubusercontent.com/LinJohn8/astrbot_plugin_custome_segment_reply/main/logo.png"
   },
   "astrbot-plugin-alteration-notifier": {
@@ -504,8 +504,8 @@
     "category": "AI增强",
     "tags": [],
     "stars": 2,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-02T15:33:56Z"
+    "version": "v1.7.1",
+    "updated_at": "2026-03-07T06:35:36Z"
   },
   "astrbot-plugin-topic-starter": {
     "display_name": "topic_starter",
@@ -8474,9 +8474,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 75,
+    "stars": 76,
     "version": "v3.0.3",
-    "updated_at": "2026-03-06T11:33:23Z",
+    "updated_at": "2026-03-07T06:24:52Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -8514,9 +8514,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 13,
+    "stars": 14,
     "version": "v1.0.3",
-    "updated_at": "2026-02-09T10:17:42Z",
+    "updated_at": "2026-03-07T06:42:59Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_record_converter/main/logo.png"
   },
   "astrbot_plugin_spark_tts": {
@@ -9739,9 +9739,9 @@
     ],
     "social_link": "https://github.com/oyxning",
     "category": "AI增强",
-    "stars": 48,
+    "stars": 49,
     "version": "v3.5.1",
-    "updated_at": "2026-02-27T17:25:56Z",
+    "updated_at": "2026-03-07T06:19:57Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_antipromptinjector/master/logo.png"
   },
   "astrbot_plugin_alistfile": {
