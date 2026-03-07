@@ -35,8 +35,8 @@
     "social_link": "https://github.com/Renyus",
     "tags": [],
     "stars": 1,
-    "version": "2.0.0",
-    "updated_at": "2026-03-07T12:51:47Z"
+    "version": "2.1.0",
+    "updated_at": "2026-03-07T13:06:32Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -326,9 +326,9 @@
       "语音合成"
     ],
     "social_link": "https://github.com/w2902171175",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.7.1",
-    "updated_at": "2026-03-07T07:30:35Z"
+    "updated_at": "2026-03-07T13:09:25Z"
   },
   "astrbot-plugin-custome-segment-reply": {
     "display_name": "自定义断句回复插件",
@@ -542,9 +542,9 @@
     "repo": "https://github.com/w2902171175/astrbot_plugin_GPT-SoVITS",
     "category": "AI增强",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.7.1",
-    "updated_at": "2026-03-07T07:30:35Z"
+    "updated_at": "2026-03-07T13:09:25Z"
   },
   "astrbot-plugin-topic-starter": {
     "display_name": "topic_starter",
@@ -1351,7 +1351,7 @@
     "category": "外部集成",
     "stars": 4,
     "version": "1.0.0",
-    "updated_at": "2026-03-03T09:54:46Z"
+    "updated_at": "2026-03-07T13:28:51Z"
   },
   "astrbot_plugin_telegram_summary": {
     "name": "",
@@ -4170,9 +4170,9 @@
     ],
     "social_link": "https://github.com/huizhiLLL",
     "category": "效率工具",
-    "stars": 1,
-    "version": "v1.0.5",
-    "updated_at": "2026-03-05T04:53:39Z",
+    "stars": 2,
+    "version": "v1.0.6",
+    "updated_at": "2026-03-07T13:32:19Z",
     "logo": "https://raw.githubusercontent.com/huizhiLLL/astrbot_plugin_wca/master/logo.png"
   },
   "astrbot_plugin_memos_integrator": {
@@ -4218,8 +4218,8 @@
     "social_link": "https://github.com/Xbodwf",
     "category": "效率工具",
     "stars": 4,
-    "version": "1.29.0",
-    "updated_at": "2026-02-28T18:15:58Z"
+    "version": "1.30.0",
+    "updated_at": "2026-03-07T13:32:16Z"
   },
   "astrbot_plugin_QQbox": {
     "display_name": "QQbox",
