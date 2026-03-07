@@ -1,4 +1,14 @@
 {
+  "astrbot-plugin-f1-notifier": {
+    "display_name": "F1 Notifier",
+    "desc": "自动推送F1比赛周通知（赛程、排位赛、冲刺赛、正赛结果、发车顺序），支持用户指令查询赛程、积分榜等信息",
+    "author": "MareDevi",
+    "repo": "https://github.com/MareDevi/astrbot_plugin_f1_notifier",
+    "tags": [
+      "F1"
+    ],
+    "social_link": "www.maredevi.moe"
+  },
   "astrbot-plugin-self-evolution": {
     "display_name": "自我进化 (Self-Evolution)",
     "desc": "让大模型具备自我迭代、记忆沉淀和人格进化能力的插件。",
