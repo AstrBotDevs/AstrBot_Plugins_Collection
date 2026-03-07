@@ -7,8 +7,9 @@
     "tags": [],
     "social_link": "",
     "stars": 1,
-    "version": "v1.0.1",
-    "updated_at": "2026-03-07T14:08:22Z"
+    "version": "v1.0.2",
+    "updated_at": "2026-03-07T14:38:37Z",
+    "logo": "https://raw.githubusercontent.com/Waterwzy/astrbot_plugin_firefly_filter/master/logo.png"
   },
   "astrbot-plugin-cet6": {
     "display_name": "四六级金牌私教",
@@ -293,8 +294,8 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 9,
-    "version": "2.2.0",
-    "updated_at": "2026-03-07T13:51:56Z",
+    "version": "2.3.0",
+    "updated_at": "2026-03-07T14:58:38Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -353,9 +354,9 @@
       "分段回复"
     ],
     "social_link": "https://github.com/LinJohn8",
-    "stars": 9,
+    "stars": 10,
     "version": "1.0.0",
-    "updated_at": "2026-03-07T11:44:59Z",
+    "updated_at": "2026-03-07T15:11:26Z",
     "logo": "https://raw.githubusercontent.com/LinJohn8/astrbot_plugin_custome_segment_reply/main/logo.png"
   },
   "astrbot-plugin-alteration-notifier": {
@@ -644,7 +645,7 @@
     "category": "AI增强",
     "stars": 10,
     "version": "v1.10.2",
-    "updated_at": "2026-03-07T08:13:41Z",
+    "updated_at": "2026-03-07T15:10:20Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -1506,8 +1507,8 @@
     "social_link": "https://www.xytuws.cn",
     "category": "效率工具",
     "stars": 6,
-    "version": "v0.3.2",
-    "updated_at": "2026-03-06T18:32:10Z",
+    "version": "v0.4.1",
+    "updated_at": "2026-03-07T14:26:44Z",
     "logo": "https://raw.githubusercontent.com/XYTUworkshop/astrbot_plugin_XYTUFunction/master/logo.png"
   },
   "astrbot_plugin_lzpersona": {
@@ -4230,7 +4231,7 @@
     "category": "效率工具",
     "stars": 4,
     "version": "1.30.0",
-    "updated_at": "2026-03-07T13:32:16Z"
+    "updated_at": "2026-03-07T13:42:14Z"
   },
   "astrbot_plugin_QQbox": {
     "display_name": "QQbox",
@@ -4366,9 +4367,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "AI增强",
-    "stars": 12,
+    "stars": 13,
     "version": "v2.2.7",
-    "updated_at": "2026-02-23T02:22:10Z",
+    "updated_at": "2026-03-07T15:07:56Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_life_scheduler/main/logo.png"
   },
   "astrbot_plugin_stealer": {
@@ -5731,9 +5732,9 @@
     ],
     "social_link": "https://github.com/SatenShiroya",
     "category": "外部集成",
-    "stars": 8,
+    "stars": 9,
     "version": "V1.3.0",
-    "updated_at": "2026-03-07T09:36:19Z",
+    "updated_at": "2026-03-07T14:42:41Z",
     "logo": "https://raw.githubusercontent.com/SatenShiroya/astrbot_plugin_neteasecloud_music/master/logo.png"
   },
   "astrbot_plugin_dailyacmfortune": {
@@ -5875,9 +5876,9 @@
     ],
     "social_link": "https://github.com/Luna-channel",
     "category": "生活实用",
-    "stars": 16,
+    "stars": 17,
     "version": "1.4.4",
-    "updated_at": "2026-03-06T13:57:00Z",
+    "updated_at": "2026-03-07T14:35:07Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_Conversa/main/logo.png"
   },
   "astrbot_plugin_shutdown": {
@@ -5903,9 +5904,9 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "AI增强",
-    "stars": 53,
+    "stars": 54,
     "version": "v1.2.0",
-    "updated_at": "2026-03-06T18:53:45Z",
+    "updated_at": "2026-03-07T15:23:37Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -6231,9 +6232,9 @@
       "日语"
     ],
     "category": "AI增强",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.1",
-    "updated_at": "2026-02-25T05:45:56Z"
+    "updated_at": "2026-03-07T14:22:47Z"
   },
   "astrbot_plugin_jimengapi": {
     "display_name": "即梦 API",
@@ -10813,9 +10814,9 @@
       "主动回复"
     ],
     "category": "生活实用",
-    "stars": 12,
+    "stars": 13,
     "version": "v1.3",
-    "updated_at": "2026-03-01T08:11:49Z"
+    "updated_at": "2026-03-07T15:08:37Z"
   },
   "astrbot_plugin_broadcast": {
     "display_name": "广播助手",
@@ -11087,9 +11088,9 @@
     "repo": "https://github.com/LKarxa/astrbot_plugin_regex_filter",
     "category": "AI增强",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "1.3.0",
-    "updated_at": "2025-05-30T16:21:39Z"
+    "updated_at": "2026-03-07T14:01:51Z"
   },
   "prompt_tools": {
     "author": "LKarxa",
@@ -12053,9 +12054,9 @@
       "世界书"
     ],
     "category": "效率工具",
-    "stars": 10,
+    "stars": 11,
     "version": "v0.1.8",
-    "updated_at": "2026-01-24T07:32:44Z"
+    "updated_at": "2026-03-07T14:05:50Z"
   },
   "daily_limit": {
     "desc": "限制成员每日访问AI次数的插件，支持为不同用户和群组设置不同的调用限制(支持的astrbot最低版本为3.5.1)",
@@ -13644,9 +13645,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "AI增强",
     "tags": [],
-    "stars": 188,
+    "stars": 189,
     "version": "v2.1.0",
-    "updated_at": "2026-03-07T11:04:56Z"
+    "updated_at": "2026-03-07T15:13:36Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
