@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-cet6": {
+    "display_name": "四六级金牌私教",
+    "desc": "沉浸式四六级阅读刷题与单词闪测专属备考工具，内置精校真题库。",
+    "author": "202704948-design",
+    "repo": "https://github.com/202704948-design/astrbot_plugin_cet6",
+    "tags": [
+      "学习",
+      "工具",
+      "实用"
+    ]
+  },
   "astrbot-plugin-f1-notifier": {
     "display_name": "F1 Notifier",
     "desc": "自动推送F1比赛周通知（赛程、排位赛、冲刺赛、正赛结果、发车顺序），支持用户指令查询赛程、积分榜等信息",
