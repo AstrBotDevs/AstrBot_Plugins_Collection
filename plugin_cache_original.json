@@ -664,9 +664,9 @@
     ],
     "social_link": "https://github.com/Eager2024",
     "category": "外部集成",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0",
-    "updated_at": "2026-02-23T02:40:26Z"
+    "updated_at": "2026-03-07T10:08:41Z"
   },
   "astrbot-plugin-sentinel": {
     "display_name": "QQ 群哨兵",
@@ -2063,8 +2063,8 @@
     ],
     "category": "AI增强",
     "stars": 2,
-    "version": "v0.3.9",
-    "updated_at": "2026-02-06T04:31:41Z"
+    "version": "v1.0.0",
+    "updated_at": "2026-03-07T09:38:45Z"
   },
   "astrbot_plugin_trpgdice_rerolled": {
     "display_name": "星星骰娘-重骰版！",
@@ -2705,9 +2705,9 @@
     ],
     "social_link": "https://github.com/Olynx7",
     "category": "AI增强",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0",
-    "updated_at": "2026-01-02T15:52:36Z",
+    "updated_at": "2026-03-07T10:15:23Z",
     "logo": "https://raw.githubusercontent.com/Olynx7/astrbot_plugin_text2img/master/logo.png"
   },
   "astrbot_plugin_ppnai": {
@@ -4895,8 +4895,8 @@
     "social_link": "https://github.com/piexian",
     "category": "AI增强",
     "stars": 27,
-    "version": "v1.9.5",
-    "updated_at": "2026-03-05T08:02:14Z",
+    "version": "v1.9.6",
+    "updated_at": "2026-03-07T09:59:04Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -5680,9 +5680,9 @@
     ],
     "social_link": "https://github.com/SatenShiroya",
     "category": "外部集成",
-    "stars": 7,
+    "stars": 8,
     "version": "V1.3.0",
-    "updated_at": "2025-12-30T16:25:11Z",
+    "updated_at": "2026-03-07T09:36:19Z",
     "logo": "https://raw.githubusercontent.com/SatenShiroya/astrbot_plugin_neteasecloud_music/master/logo.png"
   },
   "astrbot_plugin_dailyacmfortune": {
@@ -7645,9 +7645,9 @@
       "rag"
     ],
     "category": "AI增强",
-    "stars": 81,
+    "stars": 82,
     "version": "2.2.4",
-    "updated_at": "2026-03-07T07:45:19Z",
+    "updated_at": "2026-03-07T10:21:25Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
