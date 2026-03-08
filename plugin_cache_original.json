@@ -47,8 +47,8 @@
     "social_link": "https://github.com/Renyus",
     "tags": [],
     "stars": 8,
-    "version": "3.2.14",
-    "updated_at": "2026-03-08T16:28:22Z"
+    "version": "3.3.1",
+    "updated_at": "2026-03-08T17:08:41Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -266,7 +266,7 @@
     "social_link": "https://github.com/RichardLiuda",
     "stars": 3,
     "version": "v0.1.1",
-    "updated_at": "2026-03-08T13:14:11Z",
+    "updated_at": "2026-03-08T17:05:58Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -293,9 +293,9 @@
       "陪伴"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 10,
+    "stars": 11,
     "version": "2.3.0",
-    "updated_at": "2026-03-08T09:46:23Z",
+    "updated_at": "2026-03-08T16:36:02Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -2411,9 +2411,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
-    "stars": 196,
+    "stars": 197,
     "version": "v4.8.4",
-    "updated_at": "2026-03-07T15:55:12Z",
+    "updated_at": "2026-03-08T17:09:54Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -3816,9 +3816,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "效率工具",
-    "stars": 31,
+    "stars": 32,
     "version": "1.1.3",
-    "updated_at": "2026-03-06T06:13:57Z",
+    "updated_at": "2026-03-08T16:43:49Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
@@ -4383,7 +4383,7 @@
     "category": "AI增强",
     "stars": 27,
     "version": "2.4.0",
-    "updated_at": "2026-03-08T16:26:00Z",
+    "updated_at": "2026-03-08T16:48:29Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -7533,8 +7533,8 @@
     "category": "外部集成",
     "tags": [],
     "stars": 45,
-    "version": "v2.4.5",
-    "updated_at": "2026-03-08T16:28:43Z"
+    "version": "v2.4.7",
+    "updated_at": "2026-03-08T17:16:26Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -11876,9 +11876,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
     "category": "效率工具",
-    "stars": 32,
+    "stars": 31,
     "version": "v2.0.0",
-    "updated_at": "2026-03-08T11:18:18Z",
+    "updated_at": "2026-03-08T16:39:20Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_browser/main/logo.png"
   },
   "astrbot_plugin_qqadmin": {
@@ -13606,8 +13606,8 @@
     "category": "效率工具",
     "tags": [],
     "stars": 12,
-    "version": "v1.1.2",
-    "updated_at": "2026-03-08T14:32:34Z"
+    "version": "v1.1.3",
+    "updated_at": "2026-03-08T16:58:03Z"
   },
   "astrbot_plugin_memeify": {
     "desc": "一个AstrBot的插件，用于LLM回复表情包的实现",
