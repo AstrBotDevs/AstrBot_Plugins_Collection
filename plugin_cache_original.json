@@ -21,9 +21,9 @@
       "工具",
       "实用"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "1.0.0",
-    "updated_at": "2026-03-05T20:08:52Z"
+    "updated_at": "2026-03-08T11:41:54Z"
   },
   "astrbot-plugin-f1-notifier": {
     "display_name": "F1 Notifier",
@@ -47,8 +47,8 @@
     "social_link": "https://github.com/Renyus",
     "tags": [],
     "stars": 6,
-    "version": "3.0.0",
-    "updated_at": "2026-03-08T11:14:46Z"
+    "version": "3.2.6",
+    "updated_at": "2026-03-08T12:33:29Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -310,8 +310,8 @@
     ],
     "social_link": "https://github.com/Akiyo-dayo",
     "stars": 3,
-    "version": "2.4.94",
-    "updated_at": "2026-03-05T14:03:45Z",
+    "version": "2.5.0",
+    "updated_at": "2026-03-08T12:19:43Z",
     "logo": "https://raw.githubusercontent.com/Akiyo-dayo/astrbot_plugin_fishing/main/logo.png"
   },
   "astrbot-plugin-deobfuscation": {
@@ -543,9 +543,9 @@
       "人物画像"
     ],
     "category": "AI增强",
-    "stars": 17,
+    "stars": 18,
     "version": "v0.3.5",
-    "updated_at": "2026-03-07T11:44:09Z"
+    "updated_at": "2026-03-08T12:33:34Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -1240,7 +1240,7 @@
     "category": "外部集成",
     "stars": 41,
     "version": "v1.5.0",
-    "updated_at": "2026-03-07T16:45:30Z",
+    "updated_at": "2026-03-08T11:48:36Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -1680,7 +1680,7 @@
     "tags": [],
     "stars": 0,
     "version": "v1.1",
-    "updated_at": "2026-03-04T13:08:49Z"
+    "updated_at": "2026-03-08T12:16:33Z"
   },
   "astrbot_plugin_upfanswatcher": {
     "display_name": "astrbot_plugin_upfanswatcher",
@@ -1727,9 +1727,9 @@
     ],
     "social_link": "https://github.com/piexian",
     "category": "外部集成",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.0.8",
-    "updated_at": "2026-03-08T09:07:03Z",
+    "updated_at": "2026-03-08T12:16:01Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_grok_web_search/master/logo.png"
   },
   "astrbot_plugin_fake_ai_watermark": {
@@ -2071,9 +2071,9 @@
     ],
     "social_link": "https://github.com/Azincc/",
     "category": "娱乐游戏",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.1.0",
-    "updated_at": "2026-03-08T09:33:54Z"
+    "updated_at": "2026-03-08T11:41:49Z"
   },
   "astrbot_plugin_tomin": {
     "display_name": "Tomin - 少女乐队游戏",
@@ -2504,7 +2504,7 @@
     "category": "效率工具",
     "stars": 9,
     "version": "v1.0.8",
-    "updated_at": "2026-03-05T04:34:54Z"
+    "updated_at": "2026-03-08T11:39:19Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -4258,9 +4258,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 64,
+    "stars": 65,
     "version": "v1.3.0",
-    "updated_at": "2026-03-08T03:24:04Z",
+    "updated_at": "2026-03-08T12:13:25Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -4529,8 +4529,8 @@
     "social_link": "https://github.com/muyouzhi6",
     "category": "AI增强",
     "stars": 46,
-    "version": "v4.2.1",
-    "updated_at": "2026-03-08T11:13:32Z",
+    "version": "v4.2.2",
+    "updated_at": "2026-03-08T11:30:16Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -8736,8 +8736,8 @@
     ],
     "category": "AI增强",
     "stars": 7,
-    "version": "v1.2.0",
-    "updated_at": "2026-03-01T03:48:07Z"
+    "version": "v1.2.1",
+    "updated_at": "2026-03-08T12:30:58Z"
   },
   "pjsk_guess_song": {
     "desc": "PJSK 猜歌游戏插件",
@@ -10593,9 +10593,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 65,
-    "version": "v1.1.1",
-    "updated_at": "2026-03-08T05:42:30Z",
+    "stars": 66,
+    "version": "v1.1.2",
+    "updated_at": "2026-03-08T12:45:35Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
@@ -11798,9 +11798,9 @@
       "DeepSeek"
     ],
     "category": "AI增强",
-    "stars": 14,
+    "stars": 13,
     "version": "v0.1",
-    "updated_at": "2025-12-31T13:17:28Z"
+    "updated_at": "2026-03-08T12:06:25Z"
   },
   "astrbot_plugin_doro_ending": {
     "desc": "[QQ]doro互动故事",
@@ -12541,7 +12541,7 @@
     "category": "效率工具",
     "stars": 1,
     "version": "v1.0.9",
-    "updated_at": "2026-03-07T07:11:33Z"
+    "updated_at": "2026-03-08T12:28:58Z"
   },
   "astrbot_plugin_majsoul-master": {
     "desc": "一个雀魂多功能插件",
@@ -13223,9 +13223,9 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_essential",
     "category": "娱乐游戏",
     "tags": [],
-    "stars": 40,
+    "stars": 41,
     "version": "v1.1.0",
-    "updated_at": "2026-02-27T17:31:28Z"
+    "updated_at": "2026-03-08T12:50:57Z"
   },
   "astrbot_plugin_rss": {
     "desc": "支持通过 RSSHub 路由和直接 URL 订阅 RSS 源，并定时获取最新的 RSS 内容，如推特、B站、油管、博客等任何支持 RSS 2.0 的网站。",
