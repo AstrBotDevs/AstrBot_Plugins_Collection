@@ -46,9 +46,9 @@
     "repo": "https://github.com/Renyus/astrbot_plugin_self_evolution",
     "social_link": "https://github.com/Renyus",
     "tags": [],
-    "stars": 3,
-    "version": "2.2.0",
-    "updated_at": "2026-03-08T05:12:28Z"
+    "stars": 4,
+    "version": "2.3.0",
+    "updated_at": "2026-03-08T06:39:51Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -3847,9 +3847,9 @@
       "群聊优化"
     ],
     "category": "外部集成",
-    "stars": 41,
+    "stars": 40,
     "version": "0.8.12",
-    "updated_at": "2026-03-05T13:27:09Z"
+    "updated_at": "2026-03-08T06:13:53Z"
   },
   "astrbot_plugin_angel_eye": {
     "display_name": "天使之眼",
@@ -7533,8 +7533,8 @@
     "category": "外部集成",
     "tags": [],
     "stars": 45,
-    "version": "v2.4.1",
-    "updated_at": "2026-03-07T17:47:25Z"
+    "version": "v2.4.2",
+    "updated_at": "2026-03-08T06:36:53Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -10746,9 +10746,9 @@
     ],
     "social_link": "https://github.com/GEMILUXVII",
     "category": "效率工具",
-    "stars": 25,
+    "stars": 26,
     "version": "v2.0.2",
-    "updated_at": "2026-01-31T12:52:23Z"
+    "updated_at": "2026-03-08T06:01:01Z"
   },
   "astrbot_plugin_liblibapi": {
     "author": "machinad",
