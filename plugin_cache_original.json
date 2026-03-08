@@ -35,8 +35,8 @@
     ],
     "social_link": "www.maredevi.moe",
     "stars": 1,
-    "version": "v1.1.1",
-    "updated_at": "2026-03-08T05:21:11Z",
+    "version": "v1.1.2",
+    "updated_at": "2026-03-08T09:28:51Z",
     "logo": "https://raw.githubusercontent.com/MareDevi/astrbot_plugin_f1_notifier/master/logo.png"
   },
   "astrbot-plugin-self-evolution": {
@@ -48,7 +48,7 @@
     "tags": [],
     "stars": 5,
     "version": "3.0.0",
-    "updated_at": "2026-03-08T08:22:37Z"
+    "updated_at": "2026-03-08T09:25:38Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -1728,8 +1728,8 @@
     "social_link": "https://github.com/piexian",
     "category": "外部集成",
     "stars": 7,
-    "version": "v1.0.7",
-    "updated_at": "2026-03-08T04:59:50Z",
+    "version": "v1.0.8",
+    "updated_at": "2026-03-08T09:07:03Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_grok_web_search/master/logo.png"
   },
   "astrbot_plugin_fake_ai_watermark": {
@@ -2073,7 +2073,7 @@
     "category": "娱乐游戏",
     "stars": 8,
     "version": "v1.1.0",
-    "updated_at": "2026-03-06T05:58:37Z"
+    "updated_at": "2026-03-08T09:03:09Z"
   },
   "astrbot_plugin_tomin": {
     "display_name": "Tomin - 少女乐队游戏",
@@ -5018,9 +5018,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "效率工具",
-    "stars": 85,
+    "stars": 86,
     "version": "v2.3.0",
-    "updated_at": "2026-03-07T01:57:04Z",
+    "updated_at": "2026-03-08T09:15:16Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -6202,9 +6202,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "AI增强",
-    "stars": 109,
+    "stars": 110,
     "version": "v1.1.5",
-    "updated_at": "2026-03-08T00:22:16Z",
+    "updated_at": "2026-03-08T09:17:42Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -11128,9 +11128,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "外部集成",
-    "stars": 171,
+    "stars": 172,
     "version": "v3.0.3",
-    "updated_at": "2026-03-08T05:32:29Z",
+    "updated_at": "2026-03-08T09:25:22Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -11140,9 +11140,9 @@
     "social_link": "https://github.com/tinkerbellqwq",
     "category": "效率工具",
     "tags": [],
-    "stars": 29,
+    "stars": 30,
     "version": "v1.1.3",
-    "updated_at": "2026-02-27T17:40:51Z"
+    "updated_at": "2026-03-08T09:15:40Z"
   },
   "astrbot_qqemotionreply": {
     "author": "QiChen",
@@ -12993,9 +12993,9 @@
     ],
     "pinned": true,
     "category": "效率工具",
-    "stars": 158,
+    "stars": 159,
     "version": "v3.19",
-    "updated_at": "2026-03-07T12:05:33Z"
+    "updated_at": "2026-03-08T09:17:57Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
