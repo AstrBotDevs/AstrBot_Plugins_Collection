@@ -295,7 +295,7 @@
     "social_link": "https://github.com/menglimi",
     "stars": 11,
     "version": "2.4.0",
-    "updated_at": "2026-03-08T19:14:37Z",
+    "updated_at": "2026-03-08T19:25:20Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -4021,9 +4021,9 @@
     ],
     "social_link": "https://github.com/Hakuin123",
     "category": "AI增强",
-    "stars": 2,
+    "stars": 1,
     "version": "v1.2.1",
-    "updated_at": "2026-03-08T10:57:14Z"
+    "updated_at": "2026-03-08T19:25:06Z"
   },
   "astrbot_plugin_yoimg": {
     "display_name": "Gitee 图系模型文生图，图生图",
