@@ -6,9 +6,9 @@
     "repo": "https://github.com/Waterwzy/astrbot_plugin_firefly_filter",
     "tags": [],
     "social_link": "",
-    "stars": 3,
-    "version": "v1.0.2",
-    "updated_at": "2026-03-08T07:06:32Z",
+    "stars": 4,
+    "version": "v1.1.0",
+    "updated_at": "2026-03-08T13:31:38Z",
     "logo": "https://raw.githubusercontent.com/Waterwzy/astrbot_plugin_firefly_filter/master/logo.png"
   },
   "astrbot-plugin-cet6": {
@@ -21,9 +21,9 @@
       "工具",
       "实用"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.0",
-    "updated_at": "2026-03-08T11:41:54Z"
+    "updated_at": "2026-03-08T13:06:12Z"
   },
   "astrbot-plugin-f1-notifier": {
     "display_name": "F1 Notifier",
@@ -47,8 +47,8 @@
     "social_link": "https://github.com/Renyus",
     "tags": [],
     "stars": 6,
-    "version": "3.2.6",
-    "updated_at": "2026-03-08T12:33:29Z"
+    "version": "3.2.8",
+    "updated_at": "2026-03-08T13:40:24Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -264,9 +264,9 @@
       "监控"
     ],
     "social_link": "https://github.com/RichardLiuda",
-    "stars": 2,
+    "stars": 3,
     "version": "v0.1.1",
-    "updated_at": "2026-03-05T08:55:32Z",
+    "updated_at": "2026-03-08T13:14:11Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -1680,7 +1680,7 @@
     "tags": [],
     "stars": 0,
     "version": "v1.1",
-    "updated_at": "2026-03-08T12:16:33Z"
+    "updated_at": "2026-03-08T12:59:25Z"
   },
   "astrbot_plugin_upfanswatcher": {
     "display_name": "astrbot_plugin_upfanswatcher",
