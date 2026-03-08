@@ -6,9 +6,9 @@
     "repo": "https://github.com/Waterwzy/astrbot_plugin_firefly_filter",
     "tags": [],
     "social_link": "",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.2",
-    "updated_at": "2026-03-08T04:39:26Z",
+    "updated_at": "2026-03-08T07:06:32Z",
     "logo": "https://raw.githubusercontent.com/Waterwzy/astrbot_plugin_firefly_filter/master/logo.png"
   },
   "astrbot-plugin-cet6": {
@@ -46,9 +46,9 @@
     "repo": "https://github.com/Renyus/astrbot_plugin_self_evolution",
     "social_link": "https://github.com/Renyus",
     "tags": [],
-    "stars": 4,
-    "version": "2.3.0",
-    "updated_at": "2026-03-08T06:39:51Z"
+    "stars": 5,
+    "version": "3.0.0",
+    "updated_at": "2026-03-08T07:31:16Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -159,9 +159,9 @@
     "author": "xx",
     "repo": "https://github.com/xxofficial/astrbot_plugin_daily_ai_news",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "v1.0.0",
-    "updated_at": "2026-03-06T17:01:37Z"
+    "updated_at": "2026-03-08T07:26:23Z"
   },
   "astrbot-plugin-Grok2API Token": {
     "display_name": "Grok2API Token",
@@ -2313,7 +2313,7 @@
     "category": "AI增强",
     "stars": 21,
     "version": "4.8.3",
-    "updated_at": "2026-03-08T04:12:00Z",
+    "updated_at": "2026-03-08T07:05:05Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -2553,9 +2553,9 @@
     ],
     "social_link": "https://qwq.pyuramazo.online",
     "category": "娱乐游戏",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.7.3",
-    "updated_at": "2026-03-05T19:30:57Z",
+    "updated_at": "2026-03-08T07:10:16Z",
     "logo": "https://raw.githubusercontent.com/PyuraMazo/astrbot_plugin_galgame_box/master/logo.png"
   },
   "astrbot_plugin_anitabi": {
