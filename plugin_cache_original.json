@@ -46,9 +46,9 @@
     "repo": "https://github.com/Renyus/astrbot_plugin_self_evolution",
     "social_link": "https://github.com/Renyus",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "2.1.0",
-    "updated_at": "2026-03-07T15:39:18Z"
+    "updated_at": "2026-03-08T01:43:47Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -57,9 +57,9 @@
     "repo": "https://github.com/zhongyu0306/MyAstrBot",
     "social_link": "QQ群：1071693895",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "0.1.0",
-    "updated_at": "2026-03-07T16:24:30Z"
+    "updated_at": "2026-03-08T02:19:28Z"
   },
   "astrbot-plugin-local-reminiscence": {
     "display_name": "本地回忆[APLR]",
@@ -2216,9 +2216,9 @@
     ],
     "social_link": "https://github.com/Arturia169",
     "category": "效率工具",
-    "stars": 1,
+    "stars": 2,
     "version": "1.2.0",
-    "updated_at": "2026-03-03T16:11:43Z"
+    "updated_at": "2026-03-08T01:06:19Z"
   },
   "astrbot_plugin_spider": {
     "display_name": "网站订阅",
@@ -2519,9 +2519,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
-    "stars": 23,
+    "stars": 24,
     "version": "v1.0.16",
-    "updated_at": "2026-03-07T05:19:50Z",
+    "updated_at": "2026-03-08T01:09:38Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_love_formula/master/logo.png"
   },
   "astrbot_plugin_pjsk": {
@@ -3062,9 +3062,9 @@
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 159,
+    "stars": 160,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-07T17:33:47Z",
+    "updated_at": "2026-03-08T01:48:16Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -3832,9 +3832,9 @@
       "人格"
     ],
     "category": "AI增强",
-    "stars": 37,
+    "stars": 38,
     "version": "1.2.8",
-    "updated_at": "2026-03-07T09:27:15Z"
+    "updated_at": "2026-03-08T00:24:18Z"
   },
   "astrbot_plugin_angel_heart": {
     "display_name": "天使之心",
@@ -4231,7 +4231,7 @@
     "category": "效率工具",
     "stars": 4,
     "version": "1.30.0",
-    "updated_at": "2026-03-07T13:42:14Z"
+    "updated_at": "2026-03-08T02:08:12Z"
   },
   "astrbot_plugin_QQbox": {
     "display_name": "QQbox",
@@ -6202,9 +6202,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "AI增强",
-    "stars": 108,
+    "stars": 109,
     "version": "v1.1.5",
-    "updated_at": "2026-03-06T06:28:21Z",
+    "updated_at": "2026-03-08T00:22:16Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
