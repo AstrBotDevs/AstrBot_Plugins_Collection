@@ -46,9 +46,9 @@
     "repo": "https://github.com/Renyus/astrbot_plugin_self_evolution",
     "social_link": "https://github.com/Renyus",
     "tags": [],
-    "stars": 6,
-    "version": "3.2.8",
-    "updated_at": "2026-03-08T13:40:24Z"
+    "stars": 7,
+    "version": "3.2.12",
+    "updated_at": "2026-03-08T14:26:00Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -543,9 +543,9 @@
       "人物画像"
     ],
     "category": "AI增强",
-    "stars": 18,
+    "stars": 19,
     "version": "v0.3.5",
-    "updated_at": "2026-03-08T12:33:34Z"
+    "updated_at": "2026-03-08T14:15:49Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -643,9 +643,9 @@
     ],
     "social_link": "https://github.com/leafliber",
     "category": "AI增强",
-    "stars": 11,
+    "stars": 12,
     "version": "v1.10.3",
-    "updated_at": "2026-03-08T10:38:17Z",
+    "updated_at": "2026-03-08T14:18:59Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -658,7 +658,7 @@
     "tags": [],
     "stars": 5,
     "version": "v0.0.3",
-    "updated_at": "2026-03-04T16:30:08Z",
+    "updated_at": "2026-03-08T14:12:07Z",
     "logo": "https://raw.githubusercontent.com/xiaomizhoubaobei/astrbot_plugin_manosaba-memes/main/logo.png"
   },
   "astrbot-plugin-soulmap": {
@@ -2311,9 +2311,9 @@
     ],
     "social_link": "https://github.com/siciyuanweilai",
     "category": "AI增强",
-    "stars": 21,
+    "stars": 22,
     "version": "4.8.3",
-    "updated_at": "2026-03-08T07:05:05Z",
+    "updated_at": "2026-03-08T14:20:38Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -3062,9 +3062,9 @@
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 160,
+    "stars": 161,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-08T01:48:16Z",
+    "updated_at": "2026-03-08T12:55:52Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -3332,7 +3332,7 @@
     "tags": [],
     "stars": 5,
     "version": "v0.0.6",
-    "updated_at": "2026-02-28T05:41:05Z",
+    "updated_at": "2026-03-08T13:53:22Z",
     "logo": "https://raw.githubusercontent.com/xiaomizhoubaobei/astrbot_plugin_models_ai/main/logo.png"
   },
   "astrbot_plugin_monixiuxian2": {
@@ -4382,8 +4382,8 @@
     ],
     "category": "AI增强",
     "stars": 27,
-    "version": "2.3.9",
-    "updated_at": "2026-03-03T13:53:26Z",
+    "version": "2.4.0",
+    "updated_at": "2026-03-08T14:21:23Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -4528,9 +4528,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "AI增强",
-    "stars": 46,
+    "stars": 47,
     "version": "v4.2.2",
-    "updated_at": "2026-03-08T11:30:16Z",
+    "updated_at": "2026-03-08T13:31:35Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -9215,9 +9215,9 @@
     "repo": "https://github.com/0d00-Ciallo-0721/astrbot_plugin_RecallGuard",
     "category": "AI增强",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v2.0",
-    "updated_at": "2025-11-07T10:49:55Z"
+    "updated_at": "2026-03-08T14:26:09Z"
   },
   "astrbot_plugin_reply_directly": {
     "name": "astrbot_plugin_reply_directly",
@@ -10160,9 +10160,9 @@
     "repo": "https://github.com/HikariFroya/astrbot-plugin-relaychat",
     "category": "效率工具",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "1.0.0",
-    "updated_at": "2025-07-13T10:33:20Z"
+    "updated_at": "2026-03-08T13:00:24Z"
   },
   "astrbot_plugin_vocechat": {
     "author": "HikariFroya",
@@ -12502,9 +12502,9 @@
       "消息推送"
     ],
     "category": "外部集成",
-    "stars": 11,
+    "stars": 12,
     "version": "v0.2.2",
-    "updated_at": "2026-02-22T00:59:25Z"
+    "updated_at": "2026-03-08T13:25:56Z"
   },
   "astrbot_plugin_hello77": {
     "author": "hello七七",
@@ -12541,7 +12541,7 @@
     "category": "效率工具",
     "stars": 1,
     "version": "v1.0.9",
-    "updated_at": "2026-03-08T12:28:58Z"
+    "updated_at": "2026-03-08T14:03:30Z"
   },
   "astrbot_plugin_majsoul-master": {
     "desc": "一个雀魂多功能插件",
