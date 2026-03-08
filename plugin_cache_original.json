@@ -294,8 +294,8 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 11,
-    "version": "2.3.0",
-    "updated_at": "2026-03-08T16:36:02Z",
+    "version": "2.4.0",
+    "updated_at": "2026-03-08T19:14:37Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -3849,7 +3849,7 @@
     "category": "外部集成",
     "stars": 40,
     "version": "0.8.12",
-    "updated_at": "2026-03-08T06:13:53Z"
+    "updated_at": "2026-03-08T18:45:54Z"
   },
   "astrbot_plugin_angel_eye": {
     "display_name": "天使之眼",
@@ -4061,9 +4061,9 @@
       "modelrouter"
     ],
     "category": "AI增强",
-    "stars": 1,
+    "stars": 2,
     "version": "v0.6.0",
-    "updated_at": "2026-01-06T19:12:19Z"
+    "updated_at": "2026-03-08T19:17:44Z"
   },
   "astrbot_plugin_pet_market": {
     "display_name": "宠物市场",
