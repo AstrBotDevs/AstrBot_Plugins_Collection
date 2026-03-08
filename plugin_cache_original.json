@@ -34,9 +34,9 @@
       "F1"
     ],
     "social_link": "www.maredevi.moe",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.1.1",
-    "updated_at": "2026-03-07T08:53:08Z",
+    "updated_at": "2026-03-08T05:21:11Z",
     "logo": "https://raw.githubusercontent.com/MareDevi/astrbot_plugin_f1_notifier/master/logo.png"
   },
   "astrbot-plugin-self-evolution": {
@@ -47,8 +47,8 @@
     "social_link": "https://github.com/Renyus",
     "tags": [],
     "stars": 3,
-    "version": "2.1.1",
-    "updated_at": "2026-03-08T04:25:19Z"
+    "version": "2.2.0",
+    "updated_at": "2026-03-08T05:12:28Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -57,9 +57,9 @@
     "repo": "https://github.com/zhongyu0306/MyAstrBot",
     "social_link": "QQ群：1071693895",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "0.1.0",
-    "updated_at": "2026-03-08T02:19:28Z"
+    "updated_at": "2026-03-08T05:37:17Z"
   },
   "astrbot-plugin-local-reminiscence": {
     "display_name": "本地回忆[APLR]",
@@ -644,8 +644,8 @@
     "social_link": "https://github.com/leafliber",
     "category": "AI增强",
     "stars": 11,
-    "version": "v1.10.2",
-    "updated_at": "2026-03-08T02:59:42Z",
+    "version": "v1.10.3",
+    "updated_at": "2026-03-08T04:59:51Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -1727,9 +1727,9 @@
     ],
     "social_link": "https://github.com/piexian",
     "category": "外部集成",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.0.7",
-    "updated_at": "2026-03-06T15:53:59Z",
+    "updated_at": "2026-03-08T04:59:50Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_grok_web_search/master/logo.png"
   },
   "astrbot_plugin_fake_ai_watermark": {
@@ -2369,7 +2369,7 @@
     "tags": [],
     "stars": 2,
     "version": "v1.5.0",
-    "updated_at": "2026-03-07T20:31:08Z",
+    "updated_at": "2026-03-08T05:25:20Z",
     "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_fflogs/master/logo.png"
   },
   "astrbot_plugin_CNKD_NEWS": {
@@ -5904,9 +5904,9 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "AI增强",
-    "stars": 54,
+    "stars": 55,
     "version": "v1.2.0",
-    "updated_at": "2026-03-07T15:23:37Z",
+    "updated_at": "2026-03-08T05:25:28Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -10593,9 +10593,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 64,
+    "stars": 65,
     "version": "v1.1.1",
-    "updated_at": "2026-03-07T15:49:41Z",
+    "updated_at": "2026-03-08T05:42:30Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
@@ -11128,9 +11128,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "外部集成",
-    "stars": 170,
+    "stars": 171,
     "version": "v3.0.3",
-    "updated_at": "2026-03-07T03:30:21Z",
+    "updated_at": "2026-03-08T05:32:29Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -11548,8 +11548,8 @@
     "desc": "CS 武器箱开箱模拟支持大量目前已有的武器箱，可以展示开启物品的图案和对应的磨损",
     "category": "效率工具",
     "stars": 5,
-    "version": "v1.3",
-    "updated_at": "2026-02-27T06:28:03Z",
+    "version": "v1.3.1",
+    "updated_at": "2026-03-08T05:30:41Z",
     "logo": "https://raw.githubusercontent.com/luooka/astrbot_plugin_openweaponscase/master/logo.png"
   },
   "astrbot_plugin_gallery": {
@@ -11758,9 +11758,9 @@
       "ehentai"
     ],
     "category": "外部集成",
-    "stars": 7,
+    "stars": 8,
     "version": "v3.2",
-    "updated_at": "2026-02-20T07:10:13Z"
+    "updated_at": "2026-03-08T05:41:36Z"
   },
   "astrbot_plugin_reread": {
     "display_name": "复读姬",
@@ -12354,9 +12354,9 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "category": "娱乐游戏",
-    "stars": 86,
+    "stars": 87,
     "version": "v3.0.3",
-    "updated_at": "2026-03-06T07:44:49Z",
+    "updated_at": "2026-03-08T05:32:41Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
@@ -12880,9 +12880,9 @@
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
     "category": "效率工具",
-    "stars": 106,
+    "stars": 107,
     "version": "v2.1.11",
-    "updated_at": "2026-03-03T23:56:24Z"
+    "updated_at": "2026-03-08T05:32:32Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
