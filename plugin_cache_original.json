@@ -173,9 +173,9 @@
       "Token检测"
     ],
     "social_link": "https://github.com/fbbDirge",
-    "stars": 2,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-03-06T03:42:50Z"
+    "updated_at": "2026-03-09T18:07:11Z"
   },
   "astrbot-plugin-bangumi-enhance": {
     "display_name": "Bangumi Enhance",
@@ -294,8 +294,8 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 12,
-    "version": "2.4.1",
-    "updated_at": "2026-03-09T09:53:20Z",
+    "version": "2.5.0",
+    "updated_at": "2026-03-09T18:22:41Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -760,9 +760,9 @@
       "PDF"
     ],
     "category": "外部集成",
-    "stars": 8,
+    "stars": 9,
     "version": "3.0.0",
-    "updated_at": "2026-03-03T08:08:13Z",
+    "updated_at": "2026-03-09T18:16:34Z",
     "logo": "https://raw.githubusercontent.com/blueraina/astrbot_plugin_novel/main/logo.png"
   },
   "astrbot-plugin-inaturalist-search": {
@@ -846,9 +846,9 @@
       "共同协作"
     ],
     "category": "外部集成",
-    "stars": 8,
+    "stars": 9,
     "version": "3.0.0",
-    "updated_at": "2026-03-03T08:08:13Z",
+    "updated_at": "2026-03-09T18:16:34Z",
     "logo": "https://raw.githubusercontent.com/blueraina/astrbot_plugin_novel/main/logo.png"
   },
   "astrbot-plugin-clonetts": {
@@ -1051,9 +1051,9 @@
       "数据查询"
     ],
     "category": "外部集成",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.2.2",
-    "updated_at": "2026-03-07T09:02:58Z",
+    "updated_at": "2026-03-09T18:02:02Z",
     "logo": "https://raw.githubusercontent.com/qsc20001102/astrbot_plugin_jx3/main/logo.png"
   },
   "astrbot-plugin-zirunbi": {
@@ -1238,9 +1238,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 45,
+    "stars": 46,
     "version": "v1.5.0",
-    "updated_at": "2026-03-09T17:00:31Z",
+    "updated_at": "2026-03-09T18:08:36Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -2411,9 +2411,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
-    "stars": 198,
+    "stars": 200,
     "version": "v4.8.4",
-    "updated_at": "2026-03-09T02:49:58Z",
+    "updated_at": "2026-03-09T18:25:39Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -3062,9 +3062,9 @@
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 168,
+    "stars": 169,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-09T15:20:55Z",
+    "updated_at": "2026-03-09T17:37:12Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -3921,8 +3921,8 @@
     ],
     "category": "生活实用",
     "stars": 4,
-    "version": "v1.1.2",
-    "updated_at": "2026-03-09T06:37:35Z",
+    "version": "v1.2.0",
+    "updated_at": "2026-03-09T17:13:06Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_reminder/master/logo.png"
   },
   "astrbot_plugin_binance": {
@@ -4764,8 +4764,8 @@
     ],
     "category": "效率工具",
     "stars": 1,
-    "version": "v1.3",
-    "updated_at": "2026-01-31T12:55:56Z",
+    "version": "v1.4",
+    "updated_at": "2026-03-09T18:14:10Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_CloudImg/master/logo.png"
   },
   "astrbot_plugin_aicu_analysis": {
@@ -7537,7 +7537,7 @@
     "tags": [],
     "stars": 45,
     "version": "v2.5.0",
-    "updated_at": "2026-03-09T16:06:47Z"
+    "updated_at": "2026-03-09T17:09:30Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -12996,9 +12996,9 @@
     ],
     "pinned": true,
     "category": "效率工具",
-    "stars": 162,
+    "stars": 163,
     "version": "v3.19",
-    "updated_at": "2026-03-09T13:03:20Z"
+    "updated_at": "2026-03-09T17:47:49Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
