@@ -46,9 +46,9 @@
     "repo": "https://github.com/Renyus/astrbot_plugin_self_evolution",
     "social_link": "https://github.com/Renyus",
     "tags": [],
-    "stars": 9,
-    "version": "3.4.0",
-    "updated_at": "2026-03-09T07:05:53Z"
+    "stars": 11,
+    "version": "3.5.1",
+    "updated_at": "2026-03-09T08:44:41Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -295,7 +295,7 @@
     "social_link": "https://github.com/menglimi",
     "stars": 11,
     "version": "2.4.1",
-    "updated_at": "2026-03-09T06:40:36Z",
+    "updated_at": "2026-03-09T07:42:32Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -937,9 +937,9 @@
     ],
     "social_link": "https://github.com/1-20182",
     "category": "娱乐游戏",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.9.5",
-    "updated_at": "2026-03-09T05:41:49Z"
+    "updated_at": "2026-03-09T08:33:45Z"
   },
   "astrbot-plugin-Gemini-STT": {
     "display_name": "Gemini_STT",
@@ -3062,9 +3062,9 @@
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 162,
+    "stars": 163,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-09T04:26:29Z",
+    "updated_at": "2026-03-09T08:28:51Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -4868,9 +4868,9 @@
     ],
     "social_link": "https://box.firefly520.top/",
     "category": "AI增强",
-    "stars": 22,
+    "stars": 23,
     "version": "1.5.2",
-    "updated_at": "2026-03-07T08:35:39Z",
+    "updated_at": "2026-03-09T08:23:55Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/main/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -5002,9 +5002,9 @@
     ],
     "social_link": "https://github.com/Siaospeed",
     "category": "外部集成",
-    "stars": 7,
+    "stars": 8,
     "version": "v0.1.0",
-    "updated_at": "2026-03-05T09:53:37Z",
+    "updated_at": "2026-03-09T07:22:39Z",
     "logo": "https://raw.githubusercontent.com/Siaospeed/astrbot_plugin_msg_transfer/main/logo.png"
   },
   "astrbot_plugin_chuanhuatong": {
@@ -8421,9 +8421,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "效率工具",
-    "stars": 38,
+    "stars": 39,
     "version": "v2.1.6",
-    "updated_at": "2026-03-05T10:32:22Z",
+    "updated_at": "2026-03-09T07:22:15Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -8736,8 +8736,8 @@
     ],
     "category": "AI增强",
     "stars": 7,
-    "version": "v1.2.1",
-    "updated_at": "2026-03-08T12:30:58Z"
+    "version": "v1.2.2",
+    "updated_at": "2026-03-09T08:16:08Z"
   },
   "pjsk_guess_song": {
     "desc": "PJSK 猜歌游戏插件",
@@ -11128,9 +11128,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "外部集成",
-    "stars": 172,
+    "stars": 173,
     "version": "v3.0.3",
-    "updated_at": "2026-03-08T09:25:22Z",
+    "updated_at": "2026-03-09T07:57:00Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -11562,9 +11562,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_gallery",
     "category": "娱乐游戏",
-    "stars": 23,
+    "stars": 24,
     "version": "v2.1.0",
-    "updated_at": "2026-01-25T05:59:05Z",
+    "updated_at": "2026-03-09T07:59:26Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_gallery/main/logo.png"
   },
   "astrbot_plugin_sensoji_pro": {
