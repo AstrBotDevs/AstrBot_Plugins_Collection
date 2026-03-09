@@ -13608,9 +13608,9 @@
     "repo": "https://github.com/zouyonghe/astrbot_plugin_web_searcher_pro",
     "category": "效率工具",
     "tags": [],
-    "stars": 12,
+    "stars": 13,
     "version": "v1.1.3",
-    "updated_at": "2026-03-08T16:58:03Z"
+    "updated_at": "2026-03-09T19:46:09Z"
   },
   "astrbot_plugin_memeify": {
     "desc": "一个AstrBot的插件，用于LLM回复表情包的实现",
