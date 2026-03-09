@@ -47,8 +47,8 @@
     "social_link": "https://github.com/Renyus",
     "tags": [],
     "stars": 11,
-    "version": "3.5.1",
-    "updated_at": "2026-03-09T08:44:41Z"
+    "version": "3.6.0",
+    "updated_at": "2026-03-09T09:46:23Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -120,9 +120,9 @@
       "持久化记忆",
       "记忆控制"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "1.3.0",
-    "updated_at": "2026-03-06T09:34:34Z"
+    "updated_at": "2026-03-09T09:23:50Z"
   },
   "astrbot-plugin-talkative-king": {
     "display_name": "话痨王 ",
@@ -293,9 +293,9 @@
       "陪伴"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 11,
+    "stars": 12,
     "version": "2.4.1",
-    "updated_at": "2026-03-09T07:42:32Z",
+    "updated_at": "2026-03-09T09:53:20Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -543,9 +543,9 @@
       "人物画像"
     ],
     "category": "AI增强",
-    "stars": 19,
+    "stars": 20,
     "version": "v0.3.5",
-    "updated_at": "2026-03-08T14:15:49Z"
+    "updated_at": "2026-03-09T09:02:23Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -3016,9 +3016,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "AI增强",
-    "stars": 31,
+    "stars": 32,
     "version": "1.1.1",
-    "updated_at": "2026-03-06T05:22:50Z"
+    "updated_at": "2026-03-09T08:49:52Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -3848,8 +3848,8 @@
     ],
     "category": "外部集成",
     "stars": 40,
-    "version": "0.8.12",
-    "updated_at": "2026-03-08T18:45:54Z"
+    "version": "0.8.13",
+    "updated_at": "2026-03-09T09:02:51Z"
   },
   "astrbot_plugin_angel_eye": {
     "display_name": "天使之眼",
@@ -4528,9 +4528,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "AI增强",
-    "stars": 49,
+    "stars": 50,
     "version": "v4.2.2",
-    "updated_at": "2026-03-09T05:54:25Z",
+    "updated_at": "2026-03-09T09:36:42Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -9271,9 +9271,9 @@
     ],
     "category": "AI增强",
     "author": null,
-    "stars": 29,
+    "stars": 30,
     "version": "2.6.0",
-    "updated_at": "2026-03-06T17:49:11Z"
+    "updated_at": "2026-03-09T09:05:55Z"
   },
   "astrbot_plugin_group_sign": {
     "name": "group_sign",
@@ -9683,9 +9683,9 @@
       "平台适配器"
     ],
     "category": "外部集成",
-    "stars": 13,
+    "stars": 14,
     "version": "v0.0.3",
-    "updated_at": "2026-03-02T14:02:35Z"
+    "updated_at": "2026-03-09T09:43:01Z"
   },
   "astrbot_plugin_deepresearch": {
     "author": "lxfight",
@@ -12993,9 +12993,9 @@
     ],
     "pinned": true,
     "category": "效率工具",
-    "stars": 160,
+    "stars": 161,
     "version": "v3.19",
-    "updated_at": "2026-03-09T02:58:16Z"
+    "updated_at": "2026-03-09T09:45:03Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
