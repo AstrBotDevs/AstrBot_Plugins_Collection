@@ -47,8 +47,8 @@
     "social_link": "https://github.com/Renyus",
     "tags": [],
     "stars": 11,
-    "version": "3.6.1",
-    "updated_at": "2026-03-09T09:57:13Z"
+    "version": "3.7.0",
+    "updated_at": "2026-03-09T11:17:55Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -3742,9 +3742,9 @@
     ],
     "social_link": "https://github.com/MegSopern",
     "category": "娱乐游戏",
-    "stars": 22,
+    "stars": 23,
     "version": "1.2.0",
-    "updated_at": "2026-03-07T17:11:32Z",
+    "updated_at": "2026-03-09T11:00:08Z",
     "logo": "https://raw.githubusercontent.com/MegSopern/astrbot_plugin_rollpig/main/logo.png"
   },
   "astrbot_plugin_big_banana": {
@@ -3833,8 +3833,8 @@
     ],
     "category": "AI增强",
     "stars": 39,
-    "version": "1.2.8",
-    "updated_at": "2026-03-08T08:20:32Z"
+    "version": "1.2.9",
+    "updated_at": "2026-03-09T11:32:30Z"
   },
   "astrbot_plugin_angel_heart": {
     "display_name": "天使之心",
@@ -7122,9 +7122,9 @@
     "social_link": "https://voice.gbkgov.cn",
     "category": "外部集成",
     "tags": [],
-    "stars": 17,
+    "stars": 18,
     "version": "v1.9.0",
-    "updated_at": "2026-02-12T11:33:12Z"
+    "updated_at": "2026-03-09T11:18:37Z"
   },
   "astrbot_plugin_blacklist_tools": {
     "desc": "允许管理员和 LLM 将用户添加到黑名单中，阻止他们的消息，自动拉黑！",
@@ -8207,9 +8207,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "AI增强",
-    "stars": 52,
+    "stars": 53,
     "version": "3.0.2",
-    "updated_at": "2026-03-09T03:08:24Z",
+    "updated_at": "2026-03-09T11:18:52Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "findx010197/astrbot_plugin_reminder": {
