@@ -34,9 +34,9 @@
       "F1"
     ],
     "social_link": "www.maredevi.moe",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.1.2",
-    "updated_at": "2026-03-08T09:28:51Z",
+    "updated_at": "2026-03-09T10:41:29Z",
     "logo": "https://raw.githubusercontent.com/MareDevi/astrbot_plugin_f1_notifier/master/logo.png"
   },
   "astrbot-plugin-self-evolution": {
@@ -47,8 +47,8 @@
     "social_link": "https://github.com/Renyus",
     "tags": [],
     "stars": 11,
-    "version": "3.6.0",
-    "updated_at": "2026-03-09T09:46:23Z"
+    "version": "3.6.1",
+    "updated_at": "2026-03-09T09:57:13Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -3062,9 +3062,9 @@
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 163,
+    "stars": 164,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-09T08:28:51Z",
+    "updated_at": "2026-03-09T10:19:10Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -6671,9 +6671,9 @@
     "social_link": "https://space.bilibili.com/1482890426?spm_id_from=333.1007.0.0",
     "category": "效率工具",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.2.1",
-    "updated_at": "2026-03-02T14:20:45Z"
+    "updated_at": "2026-03-09T10:15:20Z"
   },
   "astrbot_plugin_hapemxg_Inspect": {
     "desc": "LLM 内容审查插件，集成了正则表达式与 AI 模型双重审查机制。当回复不合规时，能自动重试并智能引导模型修正，确保内容安全合规。",
@@ -7534,7 +7534,7 @@
     "tags": [],
     "stars": 45,
     "version": "v2.4.9",
-    "updated_at": "2026-03-08T18:08:52Z"
+    "updated_at": "2026-03-09T10:22:35Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
