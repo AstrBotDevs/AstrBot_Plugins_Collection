@@ -23,7 +23,7 @@
     ],
     "stars": 3,
     "version": "1.0.0",
-    "updated_at": "2026-03-09T04:48:33Z"
+    "updated_at": "2026-03-09T05:13:50Z"
   },
   "astrbot-plugin-f1-notifier": {
     "display_name": "F1 Notifier",
@@ -937,9 +937,9 @@
     ],
     "social_link": "https://github.com/1-20182",
     "category": "娱乐游戏",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.9.5",
-    "updated_at": "2026-03-08T15:29:43Z"
+    "updated_at": "2026-03-09T05:41:49Z"
   },
   "astrbot-plugin-Gemini-STT": {
     "display_name": "Gemini_STT",
@@ -3919,7 +3919,7 @@
     "category": "生活实用",
     "stars": 3,
     "version": "v1.1.2",
-    "updated_at": "2026-03-04T03:53:47Z",
+    "updated_at": "2026-03-09T05:38:37Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_reminder/master/logo.png"
   },
   "astrbot_plugin_binance": {
@@ -4528,9 +4528,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "AI增强",
-    "stars": 48,
+    "stars": 49,
     "version": "v4.2.2",
-    "updated_at": "2026-03-09T03:04:54Z",
+    "updated_at": "2026-03-09T05:54:25Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -4946,9 +4946,9 @@
     ],
     "social_link": "https://github.com/piexian",
     "category": "AI增强",
-    "stars": 27,
+    "stars": 28,
     "version": "v1.9.6",
-    "updated_at": "2026-03-08T10:38:57Z",
+    "updated_at": "2026-03-09T05:11:29Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -10961,7 +10961,7 @@
     "tags": [],
     "stars": 5,
     "version": "v1.7.3",
-    "updated_at": "2026-02-16T20:38:02Z",
+    "updated_at": "2026-03-09T05:39:28Z",
     "logo": "https://raw.githubusercontent.com/monbed/astrbot_plugin_animewifex/master/logo.png"
   },
   "astrbot_plugin_emojimix": {
