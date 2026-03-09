@@ -266,7 +266,7 @@
     "social_link": "https://github.com/RichardLiuda",
     "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-03-09T03:29:58Z",
+    "updated_at": "2026-03-09T13:19:29Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -543,9 +543,9 @@
       "人物画像"
     ],
     "category": "AI增强",
-    "stars": 20,
+    "stars": 21,
     "version": "v0.3.5",
-    "updated_at": "2026-03-09T09:02:23Z"
+    "updated_at": "2026-03-09T14:34:49Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -602,7 +602,7 @@
     "category": "效率工具",
     "stars": 10,
     "version": "0.2.4",
-    "updated_at": "2026-03-08T04:21:21Z"
+    "updated_at": "2026-03-09T13:42:26Z"
   },
   "astrbot-plugin-biliVideo": {
     "display_name": "哔哩哔哩视频总结",
@@ -643,9 +643,9 @@
     ],
     "social_link": "https://github.com/leafliber",
     "category": "AI增强",
-    "stars": 12,
+    "stars": 13,
     "version": "v1.10.3",
-    "updated_at": "2026-03-08T14:18:59Z",
+    "updated_at": "2026-03-09T14:35:13Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -686,8 +686,8 @@
     "social_link": "",
     "category": "娱乐游戏",
     "stars": 4,
-    "version": "v0.1.3",
-    "updated_at": "2026-03-08T14:55:24Z",
+    "version": "v0.1.4",
+    "updated_at": "2026-03-09T14:36:11Z",
     "logo": "https://raw.githubusercontent.com/moemoli/astrbot_plugin_warframe_helper/master/logo.png"
   },
   "astrbot-plugin-trello": {
@@ -939,7 +939,7 @@
     "category": "娱乐游戏",
     "stars": 6,
     "version": "v1.9.5",
-    "updated_at": "2026-03-09T08:33:45Z"
+    "updated_at": "2026-03-09T14:22:13Z"
   },
   "astrbot-plugin-Gemini-STT": {
     "display_name": "Gemini_STT",
@@ -1238,9 +1238,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 44,
+    "stars": 45,
     "version": "v1.5.0",
-    "updated_at": "2026-03-09T04:15:13Z",
+    "updated_at": "2026-03-09T14:16:04Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -2312,8 +2312,8 @@
     "social_link": "https://github.com/siciyuanweilai",
     "category": "AI增强",
     "stars": 22,
-    "version": "4.8.3",
-    "updated_at": "2026-03-08T14:20:38Z",
+    "version": "5.0.0",
+    "updated_at": "2026-03-09T13:43:44Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -2504,7 +2504,7 @@
     "category": "效率工具",
     "stars": 10,
     "version": "v1.0.8",
-    "updated_at": "2026-03-09T01:28:27Z"
+    "updated_at": "2026-03-09T14:43:34Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -3167,8 +3167,8 @@
     "social_link": "https://github.com/Huahuatgc",
     "category": "生活实用",
     "stars": 8,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-09T12:57:41Z"
+    "version": "1.1.0",
+    "updated_at": "2026-03-09T14:41:37Z"
   },
   "astrbot_plugin_matrix_adapter": {
     "display_name": "Matrix 协议适配器",
@@ -3849,7 +3849,7 @@
     "category": "外部集成",
     "stars": 40,
     "version": "0.8.14",
-    "updated_at": "2026-03-09T12:31:59Z"
+    "updated_at": "2026-03-09T13:58:41Z"
   },
   "astrbot_plugin_angel_eye": {
     "display_name": "天使之眼",
@@ -5018,9 +5018,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "效率工具",
-    "stars": 86,
+    "stars": 87,
     "version": "v2.3.0",
-    "updated_at": "2026-03-08T09:15:16Z",
+    "updated_at": "2026-03-09T13:57:20Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -6202,9 +6202,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "AI增强",
-    "stars": 112,
+    "stars": 113,
     "version": "v1.1.5",
-    "updated_at": "2026-03-09T04:27:15Z",
+    "updated_at": "2026-03-09T13:56:05Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -7453,9 +7453,9 @@
       "PRTS"
     ],
     "category": "外部集成",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.1",
-    "updated_at": "2025-10-06T13:57:10Z"
+    "updated_at": "2026-03-09T14:50:58Z"
   },
   "astrbot_plugin_move3d": {
     "desc": "将用户引用的图片转换为简笔画风格裸眼3D图的 AstrBot 插件。",
@@ -7697,9 +7697,9 @@
       "rag"
     ],
     "category": "AI增强",
-    "stars": 84,
+    "stars": 85,
     "version": "2.2.4",
-    "updated_at": "2026-03-08T10:11:16Z",
+    "updated_at": "2026-03-09T13:17:52Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -8780,7 +8780,7 @@
     "category": "AI增强",
     "stars": 6,
     "version": "v1.2.0",
-    "updated_at": "2026-01-19T08:07:19Z"
+    "updated_at": "2026-03-09T14:33:02Z"
   },
   "astrbot_plugin_silent": {
     "desc": "一个极其简单的静默插件，当LLM回复内容中包含 silent 关键词时，自动阻止发送回复消息。",
@@ -8950,8 +8950,8 @@
     ],
     "category": "娱乐游戏",
     "stars": 4,
-    "version": "0.0.3",
-    "updated_at": "2026-03-08T15:06:03Z",
+    "version": "0.0.4",
+    "updated_at": "2026-03-09T13:34:45Z",
     "logo": "https://raw.githubusercontent.com/xiaomizhoubaobei/astrbot_plugin_treasure_bag/main/logo.png"
   },
   "LiteBridge": {
@@ -10593,9 +10593,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 66,
+    "stars": 67,
     "version": "v1.1.2",
-    "updated_at": "2026-03-08T12:45:35Z",
+    "updated_at": "2026-03-09T13:57:45Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
@@ -10959,9 +10959,9 @@
     "repo": "https://github.com/monbed/astrbot_plugin_animewifex",
     "category": "AI增强",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "v1.7.3",
-    "updated_at": "2026-03-09T05:39:28Z",
+    "updated_at": "2026-03-09T13:36:09Z",
     "logo": "https://raw.githubusercontent.com/monbed/astrbot_plugin_animewifex/master/logo.png"
   },
   "astrbot_plugin_emojimix": {
@@ -11128,9 +11128,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "外部集成",
-    "stars": 173,
+    "stars": 174,
     "version": "v3.0.3",
-    "updated_at": "2026-03-09T07:57:00Z",
+    "updated_at": "2026-03-09T13:58:01Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
