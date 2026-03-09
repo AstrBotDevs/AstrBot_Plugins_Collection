@@ -47,8 +47,8 @@
     "social_link": "https://github.com/Renyus",
     "tags": [],
     "stars": 8,
-    "version": "3.3.1",
-    "updated_at": "2026-03-08T17:08:41Z"
+    "version": "3.3.3",
+    "updated_at": "2026-03-09T01:50:23Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -1238,9 +1238,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 42,
+    "stars": 43,
     "version": "v1.5.0",
-    "updated_at": "2026-03-08T14:45:12Z",
+    "updated_at": "2026-03-09T01:38:38Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -2502,9 +2502,9 @@
       "抖音"
     ],
     "category": "效率工具",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.0.8",
-    "updated_at": "2026-03-08T11:39:19Z"
+    "updated_at": "2026-03-09T01:28:27Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -5483,7 +5483,7 @@
     "tags": [],
     "stars": 2,
     "version": "v1.1.0",
-    "updated_at": "2026-01-17T08:53:19Z"
+    "updated_at": "2026-03-09T02:19:29Z"
   },
   "astrbot_plugin_newapi_checkin": {
     "display_name": "New-API 签到抽奖插件",
