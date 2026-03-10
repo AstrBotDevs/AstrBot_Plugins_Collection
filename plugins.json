@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-DynamicPersona": {
+    "display_name": "动态人格",
+    "desc": "动态人格插件，根据聊天内容自主切换llm人格，支持给单个人格绑定单独的API",
+    "author": "KirisameLonnet",
+    "repo": "https://github.com/KirisameLonnet/astrbot_plugin_DynamicPersona",
+    "tags": [
+      "Persona",
+      "Dynamic",
+      "Auto",
+      "QQ"
+    ]
+  },
   "astrbot-plugin-unraid-manager": {
     "display_name": "Unraid NAS安全管理插件",
     "desc": "为 AstrBot 提供 Unraid NAS 安全管理功能，支持阵列状态监控、磁盘温度告警、Docker 资源查看。只读操作，禁止危险指令，守护数据安全。支持自然语言交互。",
