@@ -63,9 +63,9 @@
       "userbot",
       "adapter"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "0.1.2",
-    "updated_at": "2026-03-10T08:34:20Z"
+    "updated_at": "2026-03-10T16:37:35Z"
   },
   "astrbot-plugin-githubapp-adapter": {
     "display_name": "GitHub 应用适配器",
@@ -128,9 +128,9 @@
       "F1"
     ],
     "social_link": "www.maredevi.moe",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.1.2",
-    "updated_at": "2026-03-09T10:41:29Z",
+    "updated_at": "2026-03-10T17:11:56Z",
     "logo": "https://raw.githubusercontent.com/MareDevi/astrbot_plugin_f1_notifier/master/logo.png"
   },
   "astrbot-plugin-self-evolution": {
@@ -142,7 +142,7 @@
     "tags": [],
     "stars": 15,
     "version": "5.0.15",
-    "updated_at": "2026-03-10T15:53:53Z"
+    "updated_at": "2026-03-10T17:11:22Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -1333,8 +1333,8 @@
     "pinned": true,
     "category": "外部集成",
     "stars": 47,
-    "version": "v1.5.0",
-    "updated_at": "2026-03-10T12:25:50Z",
+    "version": "v1.5.1",
+    "updated_at": "2026-03-10T17:07:49Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -1821,9 +1821,9 @@
     ],
     "social_link": "https://github.com/piexian",
     "category": "外部集成",
-    "stars": 8,
-    "version": "v1.0.8",
-    "updated_at": "2026-03-08T12:16:01Z",
+    "stars": 9,
+    "version": "v1.0.9",
+    "updated_at": "2026-03-10T16:45:49Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_grok_web_search/master/logo.png"
   },
   "astrbot_plugin_fake_ai_watermark": {
@@ -3156,9 +3156,9 @@
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 171,
+    "stars": 172,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-10T11:42:15Z",
+    "updated_at": "2026-03-10T16:30:12Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -4464,9 +4464,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "AI增强",
-    "stars": 13,
+    "stars": 14,
     "version": "v2.2.7",
-    "updated_at": "2026-03-07T15:07:56Z",
+    "updated_at": "2026-03-10T16:07:00Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_life_scheduler/main/logo.png"
   },
   "astrbot_plugin_stealer": {
@@ -4859,7 +4859,7 @@
     "category": "效率工具",
     "stars": 1,
     "version": "v1.4",
-    "updated_at": "2026-03-09T18:14:10Z",
+    "updated_at": "2026-03-10T16:29:13Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_CloudImg/master/logo.png"
   },
   "astrbot_plugin_aicu_analysis": {
@@ -6236,8 +6236,8 @@
     ],
     "category": "效率工具",
     "stars": 3,
-    "version": "v1.2.2",
-    "updated_at": "2026-02-28T12:34:46Z",
+    "version": "v1.2.3",
+    "updated_at": "2026-03-10T16:28:13Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_magnet_preview/master/logo.png"
   },
   "astrbot_plugin_gemini-image": {
@@ -6801,9 +6801,9 @@
     "repo": "https://github.com/BGYdook/AstrBot-plugin-tmp-bot",
     "category": "效率工具",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "1.7.6",
-    "updated_at": "2026-03-07T04:25:52Z"
+    "updated_at": "2026-03-10T16:35:48Z"
   },
   "astrbot_plugin_33recognition": {
     "desc": "调用大模型检测图片中关键词",
@@ -8151,9 +8151,9 @@
       "typst"
     ],
     "category": "AI增强",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.1.0",
-    "updated_at": "2026-03-06T13:32:55Z"
+    "updated_at": "2026-03-10T16:01:58Z"
   },
   "astrbot_plugin_retry_v2": {
     "desc": "一个基于事件钩子的、处理空回复和截断等非完整响应的重试插件",
@@ -13320,9 +13320,9 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_essential",
     "category": "娱乐游戏",
     "tags": [],
-    "stars": 41,
+    "stars": 42,
     "version": "v1.1.0",
-    "updated_at": "2026-03-08T12:50:57Z"
+    "updated_at": "2026-03-10T16:41:49Z"
   },
   "astrbot_plugin_rss": {
     "desc": "支持通过 RSSHub 路由和直接 URL 订阅 RSS 源，并定时获取最新的 RSS 内容，如推特、B站、油管、博客等任何支持 RSS 2.0 的网站。",
