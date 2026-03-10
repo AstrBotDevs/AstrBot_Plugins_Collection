@@ -128,8 +128,8 @@
     "social_link": "https://github.com/Renyus",
     "tags": [],
     "stars": 15,
-    "version": "5.0.0",
-    "updated_at": "2026-03-10T12:45:43Z"
+    "version": "5.0.15",
+    "updated_at": "2026-03-10T14:50:34Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -726,7 +726,7 @@
     "category": "AI增强",
     "stars": 14,
     "version": "v1.10.3",
-    "updated_at": "2026-03-10T12:57:11Z",
+    "updated_at": "2026-03-10T14:27:47Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -946,8 +946,8 @@
     "social_link": "https://github.com/Radiant303",
     "category": "AI增强",
     "stars": 3,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-05T17:36:02Z",
+    "version": "v2.0.0",
+    "updated_at": "2026-03-10T14:18:44Z",
     "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_clonetts/master/logo.png"
   },
   "astrbot-plugin-ssh": {
@@ -1020,7 +1020,7 @@
     "category": "娱乐游戏",
     "stars": 6,
     "version": "v1.9.5",
-    "updated_at": "2026-03-10T11:03:34Z"
+    "updated_at": "2026-03-10T14:22:17Z"
   },
   "astrbot-plugin-Gemini-STT": {
     "display_name": "Gemini_STT",
@@ -4466,8 +4466,8 @@
     ],
     "category": "AI增强",
     "stars": 27,
-    "version": "2.4.0",
-    "updated_at": "2026-03-08T16:48:29Z",
+    "version": "2.4.1",
+    "updated_at": "2026-03-10T13:12:34Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -4666,9 +4666,9 @@
       "图片转换"
     ],
     "category": "效率工具",
-    "stars": 0,
+    "stars": 1,
     "version": "1.4.3",
-    "updated_at": "2025-12-29T11:36:45Z"
+    "updated_at": "2026-03-10T14:42:27Z"
   },
   "astrbot_plugin_smart_translator": {
     "display_name": "Smart Translator",
@@ -5102,9 +5102,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "效率工具",
-    "stars": 88,
+    "stars": 89,
     "version": "v2.3.0",
-    "updated_at": "2026-03-10T09:04:12Z",
+    "updated_at": "2026-03-10T14:40:03Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -6286,9 +6286,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "AI增强",
-    "stars": 114,
+    "stars": 115,
     "version": "v1.1.5",
-    "updated_at": "2026-03-10T07:28:36Z",
+    "updated_at": "2026-03-10T14:22:10Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -8610,9 +8610,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 76,
+    "stars": 77,
     "version": "v3.0.3",
-    "updated_at": "2026-03-10T11:12:29Z",
+    "updated_at": "2026-03-10T13:31:41Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -13327,9 +13327,9 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "category": "生活实用",
     "tags": [],
-    "stars": 44,
+    "stars": 45,
     "version": "v1.5.4",
-    "updated_at": "2026-03-08T09:44:04Z",
+    "updated_at": "2026-03-10T13:58:51Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
