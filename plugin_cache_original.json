@@ -1334,7 +1334,7 @@
     "category": "外部集成",
     "stars": 47,
     "version": "v1.5.1",
-    "updated_at": "2026-03-10T17:07:49Z",
+    "updated_at": "2026-03-10T21:00:19Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -2950,7 +2950,7 @@
     "category": "娱乐游戏",
     "stars": 11,
     "version": "v2.2",
-    "updated_at": "2026-03-09T12:59:53Z",
+    "updated_at": "2026-03-10T21:03:03Z",
     "logo": "https://raw.githubusercontent.com/kennylimz/astrbot_plugin_mudae_qq/main/logo.png"
   },
   "BUGJI/astrbot_plugin_balance": {
@@ -6120,9 +6120,9 @@
     "repo": "https://github.com/SatenShiroya/astrbot_plugin_llm_qqgroupTools",
     "category": "外部集成",
     "tags": [],
-    "stars": 11,
+    "stars": 12,
     "version": "V1.3.0",
-    "updated_at": "2026-01-23T02:35:15Z",
+    "updated_at": "2026-03-10T20:52:45Z",
     "logo": "https://raw.githubusercontent.com/SatenShiroya/astrbot_plugin_llm_qqgroupTools/master/logo.png"
   },
   "astrbot_plugin_cs_skins": {
@@ -6299,9 +6299,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "AI增强",
-    "stars": 115,
+    "stars": 116,
     "version": "v1.1.5",
-    "updated_at": "2026-03-10T14:22:10Z",
+    "updated_at": "2026-03-10T21:05:36Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -10898,9 +10898,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "AI增强",
-    "stars": 55,
+    "stars": 56,
     "version": "v2.0.3",
-    "updated_at": "2026-03-07T03:31:57Z",
+    "updated_at": "2026-03-10T20:19:44Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_pokepro/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
@@ -12451,9 +12451,9 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "category": "娱乐游戏",
-    "stars": 88,
+    "stars": 89,
     "version": "v3.0.3",
-    "updated_at": "2026-03-08T09:37:38Z",
+    "updated_at": "2026-03-10T20:02:08Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
