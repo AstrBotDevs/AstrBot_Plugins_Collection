@@ -1,4 +1,13 @@
 {
+  "astrbot-plugin-hydrus": {
+    "display_name": "hydrus api调用",
+    "desc": "通过tag, 调用hydrus的API，返回随机图片。",
+    "author": "ThreeE",
+    "repo": "https://github.com/ThreeE999/astrbot_plugin_hydrus",
+    "tags": [
+      "hydrus"
+    ]
+  },
   "astrbot-plugin-DynamicPersona": {
     "display_name": "动态人格",
     "desc": "动态人格插件，根据聊天内容自主切换llm人格，支持给单个人格绑定单独的API",
