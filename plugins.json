@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-gta-online-helper": {
+    "display_name": "GTA 在线助手",
+    "desc": "GTA 线上数据查询，组队寻找",
+    "author": "moemoli",
+    "repo": "https://github.com/moemoli/astrbot_plugin_gta_online_helper",
+    "tags": [
+      "gta",
+      "gta5",
+      "gta online"
+    ],
+    "social_link": ""
+  },
   "telethon-adapter": {
     "display_name": "Telegram Userbot Adapter",
     "desc": "基于 Telethon 的 Telegram Userbot 适配器",
