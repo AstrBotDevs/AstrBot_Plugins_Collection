@@ -1,4 +1,11 @@
 {
+  "astrbot-plugin-angel-smile": {
+    "display_name": "天使之笑",
+    "desc": "你的表情很可爱，可她接下来就是我的了—— “不知名的表情包大盗天使留言”",
+    "author": "kawayiYokami",
+    "repo": "https://github.com/kawayiYokami/astrbot_plugin_angel_smile",
+    "social_link": "https://github.com/kawayiYokami/"
+  },
   "astrbot-plugin-smart-filter": {
     "display_name": "用户输入审核",
     "desc": "一个可用于角色扮演的过滤器插件",
