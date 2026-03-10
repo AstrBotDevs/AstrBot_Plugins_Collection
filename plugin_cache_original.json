@@ -48,7 +48,7 @@
     "tags": [],
     "stars": 12,
     "version": "3.7.0",
-    "updated_at": "2026-03-09T22:55:28Z"
+    "updated_at": "2026-03-10T01:09:43Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -1475,8 +1475,8 @@
     ],
     "category": "娱乐游戏",
     "stars": 3,
-    "version": "v1.2.6",
-    "updated_at": "2026-02-27T18:24:55Z",
+    "version": "v1.2.7",
+    "updated_at": "2026-03-10T00:33:11Z",
     "logo": "https://raw.githubusercontent.com/DearCrazyLeaf/astrbot_plugin_steam_updates/master/logo.png"
   },
   "astrbot_plugin_codemage": {
@@ -3046,8 +3046,8 @@
     "category": "AI增强",
     "tags": [],
     "stars": 19,
-    "version": "v4.2.0",
-    "updated_at": "2026-03-02T06:28:18Z",
+    "version": "v4.2.1",
+    "updated_at": "2026-03-10T01:53:36Z",
     "logo": "https://raw.githubusercontent.com/xiaoxi68/astrbot_zssm_explain/main/logo.png"
   },
   "astrbot_plugin_self_learning": {
@@ -9541,9 +9541,9 @@
       "病娇"
     ],
     "category": "效率工具",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.1.1",
-    "updated_at": "2026-01-13T06:24:01Z"
+    "updated_at": "2026-03-10T01:35:16Z"
   },
   "tron_address": {
     "author": "xinghanxu",
