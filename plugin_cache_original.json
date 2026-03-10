@@ -46,9 +46,9 @@
     "repo": "https://github.com/Renyus/astrbot_plugin_self_evolution",
     "social_link": "https://github.com/Renyus",
     "tags": [],
-    "stars": 12,
-    "version": "3.7.0",
-    "updated_at": "2026-03-10T01:09:43Z"
+    "stars": 14,
+    "version": "3.8.0",
+    "updated_at": "2026-03-10T04:42:06Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -92,9 +92,9 @@
       "ai"
     ],
     "social_link": "https://github.com/RichardLiuda",
-    "stars": 2,
+    "stars": 3,
     "version": "v0.1.3",
-    "updated_at": "2026-03-07T03:24:40Z",
+    "updated_at": "2026-03-10T03:47:19Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_oyasumi/master/logo.png"
   },
   "astrbot-plugin-LivelyState": {
@@ -106,9 +106,9 @@
       "拟人",
       "全局记忆"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-03-09T13:03:13Z"
+    "updated_at": "2026-03-10T03:47:36Z"
   },
   "astrbot-plugin-memory": {
     "display_name": "astrbot_plugin_memory",
@@ -266,7 +266,7 @@
     "social_link": "https://github.com/RichardLiuda",
     "stars": 3,
     "version": "v1.0.1",
-    "updated_at": "2026-03-09T15:56:50Z",
+    "updated_at": "2026-03-10T02:54:17Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -293,9 +293,9 @@
       "陪伴"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 12,
+    "stars": 13,
     "version": "2.5.0",
-    "updated_at": "2026-03-09T18:22:41Z",
+    "updated_at": "2026-03-10T03:48:02Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -1238,9 +1238,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 46,
+    "stars": 47,
     "version": "v1.5.0",
-    "updated_at": "2026-03-09T18:08:36Z",
+    "updated_at": "2026-03-10T02:17:37Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -1941,9 +1941,9 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "category": "娱乐游戏",
-    "stars": 11,
+    "stars": 12,
     "version": "v3.1.4",
-    "updated_at": "2026-03-06T04:47:48Z",
+    "updated_at": "2026-03-10T04:15:23Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
@@ -2313,7 +2313,7 @@
     "category": "AI增强",
     "stars": 22,
     "version": "5.0.0",
-    "updated_at": "2026-03-09T15:14:32Z",
+    "updated_at": "2026-03-10T04:36:39Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -2411,9 +2411,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
-    "stars": 200,
-    "version": "v4.8.4",
-    "updated_at": "2026-03-09T23:05:26Z",
+    "stars": 201,
+    "version": "v4.8.5",
+    "updated_at": "2026-03-10T04:37:37Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -3046,8 +3046,8 @@
     "category": "AI增强",
     "tags": [],
     "stars": 19,
-    "version": "v4.2.1",
-    "updated_at": "2026-03-10T01:53:36Z",
+    "version": "v4.3.2",
+    "updated_at": "2026-03-10T04:09:41Z",
     "logo": "https://raw.githubusercontent.com/xiaoxi68/astrbot_zssm_explain/main/logo.png"
   },
   "astrbot_plugin_self_learning": {
@@ -3167,8 +3167,8 @@
     "social_link": "https://github.com/Huahuatgc",
     "category": "生活实用",
     "stars": 8,
-    "version": "1.1.0",
-    "updated_at": "2026-03-09T14:53:19Z"
+    "version": "1.2.0",
+    "updated_at": "2026-03-10T04:24:34Z"
   },
   "astrbot_plugin_matrix_adapter": {
     "display_name": "Matrix 协议适配器",
@@ -4262,8 +4262,8 @@
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
     "stars": 67,
-    "version": "v1.3.0",
-    "updated_at": "2026-03-09T06:48:27Z",
+    "version": "v1.4.0",
+    "updated_at": "2026-03-10T02:33:51Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -5721,8 +5721,8 @@
     "category": "外部集成",
     "tags": [],
     "stars": 4,
-    "version": "2.0.2",
-    "updated_at": "2026-03-09T16:46:22Z"
+    "version": "2.0.3",
+    "updated_at": "2026-03-10T02:16:55Z"
   },
   "astrbot_plugin_NetEaseCloud_Music": {
     "display_name": "网易云点歌",
@@ -6662,8 +6662,8 @@
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
     "category": "AI增强",
     "stars": 19,
-    "version": "v3.0.2",
-    "updated_at": "2026-03-08T04:14:50Z",
+    "version": "v3.1.2",
+    "updated_at": "2026-03-10T03:50:12Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_Favour_Ultra/main/logo.png"
   },
   "astrbot_plugin_owcx": {
@@ -6847,9 +6847,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "知识学习",
-    "stars": 16,
+    "stars": 17,
     "version": "1.1.5",
-    "updated_at": "2026-02-24T23:51:03Z"
+    "updated_at": "2026-03-10T04:16:48Z"
   },
   "bmtxt2img": {
     "desc": "通过/bmimg指令调用智谱文生图模型",
@@ -8080,9 +8080,9 @@
       "股市"
     ],
     "category": "效率工具",
-    "stars": 12,
+    "stars": 11,
     "version": "v1.0.4",
-    "updated_at": "2026-03-08T14:56:49Z"
+    "updated_at": "2026-03-10T04:32:01Z"
   },
   "astrbot_plugin_figurine_workshop": {
     "desc": "基于gemini生图的手办化,不再需要本地部署。",
@@ -8554,9 +8554,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "效率工具",
-    "stars": 15,
+    "stars": 16,
     "version": "v1.0.2",
-    "updated_at": "2026-01-13T02:59:04Z",
+    "updated_at": "2026-03-10T03:59:19Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_recall/main/logo.png"
   },
   "astrbot_plugin_record_converter": {
@@ -9347,9 +9347,9 @@
     "repo": "https://github.com/timetetng/astrbot_plugin_ip_proxy",
     "category": "外部集成",
     "tags": [],
-    "stars": 1,
+    "stars": 0,
     "version": "v1.6",
-    "updated_at": "2025-11-26T15:50:13Z"
+    "updated_at": "2026-03-10T04:32:19Z"
   },
   "astrbot_plugin_cmd_console": {
     "desc": "提供 WebUI 的指令管理面板，可以启用/禁用插件的指令。",
@@ -10716,9 +10716,9 @@
       "fish"
     ],
     "category": "娱乐游戏",
-    "stars": 44,
+    "stars": 43,
     "version": "1.4.6",
-    "updated_at": "2026-01-24T16:22:32Z"
+    "updated_at": "2026-03-10T04:32:18Z"
   },
   "astrbot_plugin_bilibili_live": {
     "author": "Raven95676",
@@ -10862,9 +10862,9 @@
     ],
     "social_link": "https://github.com/QiChenSn",
     "category": "娱乐游戏",
-    "stars": 10,
+    "stars": 9,
     "version": "v1.5.1",
-    "updated_at": "2026-01-13T15:01:43Z"
+    "updated_at": "2026-03-10T04:32:20Z"
   },
   "astrbot_plugin_yinlish": {
     "author": "vmoranv",
@@ -11879,9 +11879,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
     "category": "效率工具",
-    "stars": 31,
+    "stars": 32,
     "version": "v2.0.0",
-    "updated_at": "2026-03-08T16:39:20Z",
+    "updated_at": "2026-03-10T03:55:14Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_browser/main/logo.png"
   },
   "astrbot_plugin_qqadmin": {
