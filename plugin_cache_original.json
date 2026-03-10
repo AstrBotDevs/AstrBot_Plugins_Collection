@@ -171,8 +171,9 @@
     ],
     "social_link": "https://github.com/olozhika/",
     "stars": 5,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-10T22:14:29Z"
+    "version": "v1.1.0",
+    "updated_at": "2026-03-10T23:10:22Z",
+    "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
     "display_name": "睡了喵~",
@@ -3943,8 +3944,8 @@
     ],
     "category": "外部集成",
     "stars": 40,
-    "version": "0.8.15",
-    "updated_at": "2026-03-09T15:59:10Z",
+    "version": "0.8.16",
+    "updated_at": "2026-03-10T23:23:18Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
