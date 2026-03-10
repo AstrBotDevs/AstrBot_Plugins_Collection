@@ -48,7 +48,7 @@
     "tags": [],
     "stars": 14,
     "version": "3.8.0",
-    "updated_at": "2026-03-10T04:42:06Z"
+    "updated_at": "2026-03-10T05:42:43Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -2313,7 +2313,7 @@
     "category": "AI增强",
     "stars": 22,
     "version": "5.0.0",
-    "updated_at": "2026-03-10T04:36:39Z",
+    "updated_at": "2026-03-10T04:49:33Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -2413,7 +2413,7 @@
     "category": "外部集成",
     "stars": 201,
     "version": "v4.8.5",
-    "updated_at": "2026-03-10T04:37:37Z",
+    "updated_at": "2026-03-10T04:53:09Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -2603,9 +2603,9 @@
     "repo": "https://github.com/2529huang/astrbot_plugin_fund_analyzer",
     "category": "AI增强",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "2.0.0",
-    "updated_at": "2026-03-04T09:49:26Z",
+    "updated_at": "2026-03-10T05:33:15Z",
     "logo": "https://raw.githubusercontent.com/2529huang/astrbot_plugin_fund_analyzer/master/logo.png"
   },
   "astrbot_plugin_CNKD_Admin": {
@@ -3046,8 +3046,8 @@
     "category": "AI增强",
     "tags": [],
     "stars": 19,
-    "version": "v4.3.2",
-    "updated_at": "2026-03-10T04:09:41Z",
+    "version": "v4.3.3",
+    "updated_at": "2026-03-10T05:40:48Z",
     "logo": "https://raw.githubusercontent.com/xiaoxi68/astrbot_zssm_explain/main/logo.png"
   },
   "astrbot_plugin_self_learning": {
@@ -3062,9 +3062,9 @@
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 169,
+    "stars": 170,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-09T17:37:12Z",
+    "updated_at": "2026-03-10T05:34:44Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -4186,8 +4186,8 @@
     "social_link": "https://github.com/huizhiLLL",
     "category": "效率工具",
     "stars": 2,
-    "version": "v1.0.6",
-    "updated_at": "2026-03-09T14:59:53Z",
+    "version": "v1.0.7",
+    "updated_at": "2026-03-10T05:28:37Z",
     "logo": "https://raw.githubusercontent.com/huizhiLLL/astrbot_plugin_wca/master/logo.png"
   },
   "astrbot_plugin_memos_integrator": {
