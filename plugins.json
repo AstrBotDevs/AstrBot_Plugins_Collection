@@ -1,4 +1,15 @@
 {
+  "telethon-adapter": {
+    "display_name": "Telegram Userbot Adapter",
+    "desc": "基于 Telethon 的 Telegram Userbot 适配器",
+    "author": "outlook84",
+    "repo": "https://github.com/outlook84/astrbot_plugin_telethon_adapter",
+    "tags": [
+      "telegram",
+      "userbot",
+      "adapter"
+    ]
+  },
   "astrbot-plugin-githubapp-adapter": {
     "display_name": "GitHub 应用适配器",
     "desc": "为 AstrBot 提供 GitHub App Webhook 适配与受控仓库操作能力。",
