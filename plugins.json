@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-githubapp-adapter": {
+    "display_name": "GitHub 应用适配器",
+    "desc": "为 AstrBot 提供 GitHub App Webhook 适配与受控仓库操作能力。",
+    "author": "xunxiing",
+    "repo": "https://github.com/xunxiing/astrbot_plugin_githubapp-adapter",
+    "tags": [
+      "github",
+      "platform adapter"
+    ],
+    "social_link": "https://github.com/xunxiing"
+  },
   "astrbot-plugin-angel-smile": {
     "display_name": "天使之笑",
     "desc": "你的表情很可爱，可她接下来就是我的了—— “不知名的表情包大盗天使留言”",
