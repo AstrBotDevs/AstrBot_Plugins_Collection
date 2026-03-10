@@ -129,7 +129,7 @@
     "tags": [],
     "stars": 15,
     "version": "5.0.0",
-    "updated_at": "2026-03-10T09:52:02Z"
+    "updated_at": "2026-03-10T09:58:57Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -1046,9 +1046,9 @@
     "repo": "https://github.com/okami-horo/astrbot_plugin_openai_responses",
     "category": "外部集成",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "0.1.6",
-    "updated_at": "2026-02-22T05:13:37Z"
+    "updated_at": "2026-03-10T09:55:50Z"
   },
   "astrbot-plugin-matrix-sticker": {
     "display_name": "Matrix Sticker 管理插件",
@@ -1321,7 +1321,7 @@
     "category": "外部集成",
     "stars": 47,
     "version": "v1.5.0",
-    "updated_at": "2026-03-10T09:37:06Z",
+    "updated_at": "2026-03-10T09:55:55Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -3399,8 +3399,8 @@
     ],
     "category": "效率工具",
     "stars": 2,
-    "version": "1.2",
-    "updated_at": "2026-03-04T08:29:39Z",
+    "version": "v1.2",
+    "updated_at": "2026-03-10T09:56:40Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_admin_notifier/master/logo.png"
   },
   "astrbot_plugin_models_ai": {
@@ -13217,9 +13217,9 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_r1_filter",
     "category": "AI增强",
     "tags": [],
-    "stars": 12,
+    "stars": 11,
     "version": "v1.0.0",
-    "updated_at": "2026-01-06T07:44:27Z"
+    "updated_at": "2026-03-10T10:20:50Z"
   },
   "mccloud_deepseek": {
     "desc": "可选择是否过滤推理模型的思考内容，仅支持MC云API。购买MC云服务器云电脑可享受免费API不限制支持deepseek-r1 v3模型。https://idc.stay33.cn/  [版本要求 >= v3.4.17]",
@@ -13729,9 +13729,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "AI增强",
     "tags": [],
-    "stars": 189,
+    "stars": 188,
     "version": "v2.1.0",
-    "updated_at": "2026-03-07T15:13:36Z"
+    "updated_at": "2026-03-10T10:20:45Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
@@ -13919,8 +13919,8 @@
     "repo": "https://github.com/zgojin/astrbot_plugin_thinkTags",
     "category": "效率工具",
     "tags": [],
-    "stars": 5,
+    "stars": 4,
     "version": "v1.4.2",
-    "updated_at": "2025-12-21T13:30:29Z"
+    "updated_at": "2026-03-10T09:55:14Z"
   }
 }
