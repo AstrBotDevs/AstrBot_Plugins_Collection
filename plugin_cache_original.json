@@ -1,4 +1,17 @@
 {
+  "astrbot-plugin-hydrus": {
+    "display_name": "hydrus api调用",
+    "desc": "通过tag, 调用hydrus的API，返回随机图片。",
+    "author": "ThreeE",
+    "repo": "https://github.com/ThreeE999/astrbot_plugin_hydrus",
+    "tags": [
+      "hydrus"
+    ],
+    "stars": 0,
+    "version": "v0.1.2",
+    "updated_at": "2026-03-06T10:26:01Z",
+    "logo": "https://raw.githubusercontent.com/ThreeE999/astrbot_plugin_hydrus/master/logo.png"
+  },
   "astrbot-plugin-DynamicPersona": {
     "display_name": "动态人格",
     "desc": "动态人格插件，根据聊天内容自主切换llm人格，支持给单个人格绑定单独的API",
@@ -129,7 +142,7 @@
     "tags": [],
     "stars": 15,
     "version": "5.0.15",
-    "updated_at": "2026-03-10T14:50:34Z"
+    "updated_at": "2026-03-10T15:53:53Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -725,8 +738,8 @@
     "social_link": "https://github.com/leafliber",
     "category": "AI增强",
     "stars": 14,
-    "version": "v1.10.3",
-    "updated_at": "2026-03-10T14:27:47Z",
+    "version": "v1.10.4",
+    "updated_at": "2026-03-10T15:37:00Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -890,9 +903,9 @@
     "social_link": "https://github.com/sssn-tech",
     "category": "AI增强",
     "tags": [],
-    "stars": 8,
+    "stars": 9,
     "version": "v0.1.0",
-    "updated_at": "2026-03-08T08:17:09Z",
+    "updated_at": "2026-03-10T15:01:43Z",
     "logo": "https://raw.githubusercontent.com/sssn-tech/astrbot_plugin_iamthinking/master/logo.png"
   },
   "astrbot-plugin-gbif-search": {
@@ -1502,7 +1515,7 @@
     "category": "效率工具",
     "stars": 0,
     "version": "v1.0.1",
-    "updated_at": "2026-03-09T07:11:30Z"
+    "updated_at": "2026-03-10T15:23:37Z"
   },
   "astrbot_plugin_teamup": {
     "display_name": "谁 TM 和我组队",
@@ -2392,9 +2405,9 @@
     ],
     "social_link": "https://github.com/siciyuanweilai",
     "category": "AI增强",
-    "stars": 22,
+    "stars": 23,
     "version": "5.0.0",
-    "updated_at": "2026-03-10T09:04:19Z",
+    "updated_at": "2026-03-10T15:06:54Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -2651,7 +2664,7 @@
     "category": "娱乐游戏",
     "stars": 0,
     "version": "v1.0.0",
-    "updated_at": "2026-01-21T03:21:14Z"
+    "updated_at": "2026-03-10T15:33:32Z"
   },
   "astrbot_plugin_vocechat_v2": {
     "display_name": "vocechat 适配器插件",
@@ -4280,9 +4293,9 @@
       "memory"
     ],
     "category": "AI增强",
-    "stars": 16,
+    "stars": 17,
     "version": "v3.0.1",
-    "updated_at": "2026-03-08T07:17:45Z"
+    "updated_at": "2026-03-10T15:21:09Z"
   },
   "astrbot_plugin_echo": {
     "display_name": "echo",
@@ -5104,7 +5117,7 @@
     "category": "效率工具",
     "stars": 89,
     "version": "v2.3.0",
-    "updated_at": "2026-03-10T14:40:03Z",
+    "updated_at": "2026-03-10T15:05:18Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -5816,9 +5829,9 @@
     ],
     "social_link": "https://github.com/SatenShiroya",
     "category": "外部集成",
-    "stars": 9,
+    "stars": 10,
     "version": "V1.4.0",
-    "updated_at": "2026-03-10T08:02:32Z",
+    "updated_at": "2026-03-10T16:01:05Z",
     "logo": "https://raw.githubusercontent.com/SatenShiroya/astrbot_plugin_neteasecloud_music/master/logo.png"
   },
   "astrbot_plugin_dailyacmfortune": {
@@ -5988,9 +6001,9 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "AI增强",
-    "stars": 56,
+    "stars": 57,
     "version": "v1.2.0",
-    "updated_at": "2026-03-10T11:42:35Z",
+    "updated_at": "2026-03-10T14:53:58Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -10677,9 +10690,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 67,
+    "stars": 68,
     "version": "v1.1.2",
-    "updated_at": "2026-03-09T13:57:45Z",
+    "updated_at": "2026-03-10T15:28:40Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
