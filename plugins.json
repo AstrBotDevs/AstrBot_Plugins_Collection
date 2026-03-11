@@ -1,4 +1,14 @@
 {
+  "astrbot-plugin-steam-friend-monitor": {
+    "display_name": "steam视奸",
+    "desc": "·轮询 Steam 玩家状态（在线/离线/忙碌/离开等）\n·玩家上线、下线、启动游戏、关闭游戏、切换游戏时自动推送图片到已绑定会话\n·支持手动查询当前状态图\n·内置中文字体，容器里不装系统字体也能正常显示中文",
+    "author": "Vince-0906",
+    "repo": "https://github.com/Vince-0906/astrbot_plugin_steam_friend_monitor",
+    "tags": [
+      "steam"
+    ],
+    "social_link": "https://github.com/Vince-0906"
+  },
   "astrbot-plugin-shitjournal-daily": {
     "display_name": "SHIT期刊每日推送",
     "desc": "每日定时抓取并推送 shitjournal 最新论文",
