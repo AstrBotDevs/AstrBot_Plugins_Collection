@@ -1,4 +1,11 @@
 {
+  "astrbot-plugin-content-safety-guard": {
+    "display_name": "阿瓦隆Avalon",
+    "desc": "内容安全守卫 - 拦截用户提示词攻击和模型输出偏离人设问题，支持前置/后置审核、关键词匹配、LLM自审查、黑名单等功能",
+    "author": "Kalospacer",
+    "repo": "https://github.com/Kalospacer/astrbot_plugin_content_safety_guard",
+    "social_link": "https://github.com/Kalospacer"
+  },
   "astrbot-plugin-pairit": {
     "display_name": "PairIt",
     "desc": "自动匹配群友发送的括号，这下括号再也不会出现不成对的情况了",
