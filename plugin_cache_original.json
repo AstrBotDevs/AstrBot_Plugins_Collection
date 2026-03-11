@@ -169,8 +169,8 @@
     "repo": "https://github.com/NorNeko/astrbot_plugin_Xagent_searcher",
     "tags": [],
     "stars": 1,
-    "version": "v0.0.2",
-    "updated_at": "2026-03-11T16:49:11Z",
+    "version": "v0.0.3",
+    "updated_at": "2026-03-11T17:04:42Z",
     "logo": "https://raw.githubusercontent.com/NorNeko/astrbot_plugin_Xagent_searcher/main/logo.png"
   },
   "astrbot-plugin-status": {
@@ -383,7 +383,7 @@
     "tags": [],
     "stars": 16,
     "version": "5.1.0",
-    "updated_at": "2026-03-11T16:40:08Z"
+    "updated_at": "2026-03-11T17:51:00Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -601,8 +601,8 @@
     ],
     "social_link": "https://github.com/RichardLiuda",
     "stars": 4,
-    "version": "v1.0.2",
-    "updated_at": "2026-03-11T08:04:19Z",
+    "version": "v1.1.1",
+    "updated_at": "2026-03-11T17:42:09Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -6540,9 +6540,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "AI增强",
-    "stars": 116,
+    "stars": 117,
     "version": "v1.1.5",
-    "updated_at": "2026-03-10T21:05:36Z",
+    "updated_at": "2026-03-11T17:28:58Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
