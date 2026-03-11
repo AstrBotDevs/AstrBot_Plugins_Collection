@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-status": {
+    "display_name": "系统状态",
+    "desc": "简易又可爱的系统状态展示插件，支持接入到LLM",
+    "author": "FlanChanXwO",
+    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_status",
+    "tags": [
+      "系统状态",
+      "工具调用"
+    ],
+    "social_link": "https://github.com/FlanChanXwO"
+  },
   "astrbot-plugin-adsb-monitor": {
     "display_name": "ADS-B 飞机实时监测插件",
     "desc": "使用 RTL-SDR（RTL2832U） + Dump1090 接收 1090 MHz ADS-B 信号，解析飞机信息，并在 QQ 群/私聊中提供查询功能。",
