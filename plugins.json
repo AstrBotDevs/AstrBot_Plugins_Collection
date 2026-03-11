@@ -1,4 +1,14 @@
 {
+  "astrbot-plugin-nai-brush": {
+    "display_name": "幻笔-NovelAI",
+    "desc": "基于 NovelAI 的 AI 绘图插件，支持自然语言生图、模型/尺寸切换、打标与撤回。",
+    "author": "薄暝",
+    "repo": "https://github.com/exynos967/astrbot_plugin_nai_brush",
+    "tags": [
+      "画图",
+      "NovalAI"
+    ]
+  },
   "astrbot-plugin-endfield": {
     "display_name": "终末地协议终端",
     "desc": "基于森空岛 API 的终末地插件，支持便签、理智、干员面板等查询。移植自 endfield-plugin。",
