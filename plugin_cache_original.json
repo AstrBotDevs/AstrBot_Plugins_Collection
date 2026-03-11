@@ -169,8 +169,9 @@
     "repo": "https://github.com/NorNeko/astrbot_plugin_Xagent_searcher",
     "tags": [],
     "stars": 1,
-    "version": "v0.0.1",
-    "updated_at": "2026-03-11T12:54:16Z"
+    "version": "v0.0.2",
+    "updated_at": "2026-03-11T16:49:11Z",
+    "logo": "https://raw.githubusercontent.com/NorNeko/astrbot_plugin_Xagent_searcher/main/logo.png"
   },
   "astrbot-plugin-status": {
     "display_name": "系统状态",
@@ -382,7 +383,7 @@
     "tags": [],
     "stars": 16,
     "version": "5.1.0",
-    "updated_at": "2026-03-11T15:43:30Z"
+    "updated_at": "2026-03-11T16:40:08Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -495,8 +496,8 @@
     "repo": "https://github.com/xxofficial/astrbot_plugin_daily_ai_news",
     "tags": [],
     "stars": 7,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-08T07:26:23Z"
+    "version": "1.01",
+    "updated_at": "2026-03-11T16:03:12Z"
   },
   "astrbot-plugin-Grok2API Token": {
     "display_name": "Grok2API Token",
@@ -630,7 +631,7 @@
     "social_link": "https://github.com/menglimi",
     "stars": 13,
     "version": "2.5.2",
-    "updated_at": "2026-03-11T15:48:22Z",
+    "updated_at": "2026-03-11T16:21:28Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -1573,9 +1574,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 49,
+    "stars": 50,
     "version": "v1.6.0",
-    "updated_at": "2026-03-11T15:04:16Z",
+    "updated_at": "2026-03-11T16:01:30Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -13163,8 +13164,8 @@
     "category": "生活实用",
     "tags": [],
     "stars": 5,
-    "version": "v1.1.8",
-    "updated_at": "2025-11-05T18:45:06Z",
+    "version": "v1.1.9",
+    "updated_at": "2026-03-11T16:36:51Z",
     "logo": "https://raw.githubusercontent.com/Wave233Lee/astrbot_plugin_random_vtb/master/logo.png"
   },
   "astrbot_plugin_server_status": {
@@ -13510,9 +13511,9 @@
     "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
     "category": "生活实用",
     "tags": [],
-    "stars": 32,
+    "stars": 31,
     "version": "v1.4.2",
-    "updated_at": "2026-03-04T03:56:21Z"
+    "updated_at": "2026-03-11T16:23:37Z"
   },
   "ai_memory": {
     "desc": "一个AI记忆管理插件，可以让ai记住重要的事，记忆读取是ai自己调用的，有时候呆呆的ai不会自己调用，可以多问几次或者人格加上特定提示词,输入 /mem_help 查看记忆管理帮助",
