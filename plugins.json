@@ -1,4 +1,13 @@
 {
+  "astrbot-plugin-hextech": {
+    "display_name": "海克斯乱斗信息差",
+    "desc": "从https://apexlol.info/查询英雄海克斯适配度等信息",
+    "author": "Payne",
+    "repo": "https://github.com/PayneXie/astrbot_plugin_hextech",
+    "tags": [
+      "英雄联盟"
+    ]
+  },
   "astrbot-plugin-mail-notify": {
     "display_name": "📬 邮件通知",
     "desc": "监控邮箱新邮件并通过消息平台发送通知，支持 Gmail、杭电邮箱等任何 IMAP 邮箱",
