@@ -1,4 +1,59 @@
 {
+  "astrbot-plugin-content-safety-guard": {
+    "display_name": "阿瓦隆Avalon",
+    "desc": "内容安全守卫 - 拦截用户提示词攻击和模型输出偏离人设问题，支持前置/后置审核、关键词匹配、LLM自审查、黑名单等功能",
+    "author": "Kalospacer",
+    "repo": "https://github.com/Kalospacer/astrbot_plugin_content_safety_guard",
+    "social_link": "https://github.com/Kalospacer",
+    "tags": [],
+    "stars": 0,
+    "version": "1.2.4",
+    "updated_at": "2026-03-11T08:02:58Z"
+  },
+  "astrbot-plugin-pairit": {
+    "display_name": "PairIt",
+    "desc": "自动匹配群友发送的括号，这下括号再也不会出现不成对的情况了",
+    "author": "GamerNoTitle",
+    "repo": "https://github.com/GamerNoTitle/astrbot_plugin_pairit",
+    "tags": [
+      "bracket",
+      "pair",
+      "misc"
+    ],
+    "social_link": "https://github.com/GamerNoTitle",
+    "stars": 0,
+    "version": "v1.1.0",
+    "updated_at": "2026-03-11T09:55:46Z",
+    "logo": "https://raw.githubusercontent.com/GamerNoTitle/astrbot_plugin_pairit/master/logo.png"
+  },
+  "astrbot-plugin-qqfarm": {
+    "display_name": "QQ农场助手",
+    "desc": "QQ农场助手插件，通过指令管理QQ农场账号",
+    "author": "sanqi-ya",
+    "repo": "https://github.com/sanqi-ya/astrbot_plugin_qqfarm",
+    "tags": [
+      "qq-farm",
+      "QQ农场"
+    ],
+    "social_link": "https://github.com/sanqi-ya",
+    "stars": 1,
+    "version": "1.0.0",
+    "updated_at": "2026-03-11T09:35:06Z",
+    "logo": "https://raw.githubusercontent.com/sanqi-ya/astrbot_plugin_qqfarm/main/logo.png"
+  },
+  "astrbot-plugin-airi-voice": {
+    "display_name": "airi_voice",
+    "desc": "输入语音音频文件名（关键词）回复对应语音。提供插件内的airi的语音，需要额外语音可以通过配置项自己添加。",
+    "author": "Lidure",
+    "repo": "https://github.com/Lidure/astrbot_plugin_airi_voice",
+    "tags": [
+      "音频"
+    ],
+    "stars": 1,
+    "version": "v1.5",
+    "updated_at": "2026-03-11T08:51:20Z",
+    "logo": "https://raw.githubusercontent.com/Lidure/astrbot_plugin_airi_voice/master/logo.png"
+  },
   "astrbot-plugin-tk-tracker": {
     "display_name": "TK Tracker-违规记录",
     "desc": "自动监听管服机器人的踢人播报，支持WebUI配置、违规历史查询与数据一键管理。",
@@ -152,8 +207,8 @@
     "repo": "https://github.com/674537331/astrbot_plugin_mihome",
     "tags": [],
     "stars": 3,
-    "version": "v6.3.4",
-    "updated_at": "2026-03-11T09:43:48Z",
+    "version": "v6.3.11",
+    "updated_at": "2026-03-11T10:37:39Z",
     "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_mihome/main/logo.png"
   },
   "astrbot-plugin-nai-brush": {
@@ -179,9 +234,9 @@
       "终末地",
       "数据查询"
     ],
-    "stars": 9,
+    "stars": 10,
     "version": "2.0.0",
-    "updated_at": "2026-03-11T03:17:18Z",
+    "updated_at": "2026-03-11T10:38:19Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -300,9 +355,9 @@
       "工具",
       "实用"
     ],
-    "stars": 3,
+    "stars": 4,
     "version": "5.4.0",
-    "updated_at": "2026-03-09T13:06:10Z"
+    "updated_at": "2026-03-11T10:37:46Z"
   },
   "astrbot-plugin-f1-notifier": {
     "display_name": "F1 Notifier",
@@ -327,7 +382,7 @@
     "tags": [],
     "stars": 16,
     "version": "5.0.15",
-    "updated_at": "2026-03-11T09:02:51Z"
+    "updated_at": "2026-03-11T10:36:23Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -2834,8 +2889,8 @@
     "social_link": "https://qwq.pyuramazo.online",
     "category": "娱乐游戏",
     "stars": 10,
-    "version": "v1.7.3",
-    "updated_at": "2026-03-08T07:10:16Z",
+    "version": "v1.7.4",
+    "updated_at": "2026-03-11T09:57:59Z",
     "logo": "https://raw.githubusercontent.com/PyuraMazo/astrbot_plugin_galgame_box/master/logo.png"
   },
   "astrbot_plugin_anitabi": {
@@ -3341,9 +3396,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 176,
+    "stars": 177,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-11T08:29:25Z",
+    "updated_at": "2026-03-11T09:54:11Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
