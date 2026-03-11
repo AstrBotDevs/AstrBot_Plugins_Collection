@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-tk-tracker": {
+    "display_name": "TK Tracker-违规记录",
+    "desc": "自动监听管服机器人的踢人播报，支持WebUI配置、违规历史查询与数据一键管理。",
+    "author": "Nyaportemi",
+    "version": "1.0.0",
+    "repo": "https://github.com/Nyaportemi/astrbot_plugin_tk_tracker",
+    "tags": [
+      "群管",
+      "工具"
+    ],
+    "social_link": ""
+  },
   "astrbot-plugin-self-code": {
     "display_name": "Self Code Assistant",
     "desc": "一个用于 AstrBot 的 AI 编程助手插件。它把聊天指令转为 codex CLI 操作，在 workspace 中生成/修改插件代码，并支持测试和部署。",
