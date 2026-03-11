@@ -1,4 +1,11 @@
 {
+  "astrbot-plugin-self-code": {
+    "display_name": "Self Code Assistant",
+    "desc": "一个用于 AstrBot 的 AI 编程助手插件。它把聊天指令转为 codex CLI 操作，在 workspace 中生成/修改插件代码，并支持测试和部署。",
+    "author": "YakumoAki",
+    "repo": "https://github.com/murphys7017/astrbot_plugin_self_code",
+    "social_link": "https://www.xiaohongshu.com/user/profile/6986d59f0000000024012e78"
+  },
   "astrbot-plugin-steam-friend-monitor": {
     "display_name": "steam视奸",
     "desc": "·轮询 Steam 玩家状态（在线/离线/忙碌/离开等）\n·玩家上线、下线、启动游戏、关闭游戏、切换游戏时自动推送图片到已绑定会话\n·支持手动查询当前状态图\n·内置中文字体，容器里不装系统字体也能正常显示中文",
