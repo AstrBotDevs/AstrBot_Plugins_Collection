@@ -1,4 +1,10 @@
 {
+  "astrbot-plugin-mihome": {
+    "display_name": "米家控制",
+    "desc": "AstrBot 的米家云端智能管家插件",
+    "author": "RyanVaderAn",
+    "repo": "https://github.com/674537331/astrbot_plugin_mihome"
+  },
   "astrbot-plugin-nai-brush": {
     "display_name": "幻笔-NovelAI",
     "desc": "基于 NovelAI 的 AI 绘图插件，支持自然语言生图、模型/尺寸切换、打标与撤回。",
