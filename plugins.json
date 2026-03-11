@@ -1,4 +1,10 @@
 {
+  "astrbot-plugin-Xagent-searcher": {
+    "display_name": "AstrBot 推特 (X) 数据集成",
+    "desc": "使用X官方API来解析推特(X),获取推特的文本内容、图片和视频等信息。",
+    "author": "B2347",
+    "repo": "https://github.com/NorNeko/astrbot_plugin_Xagent_searcher"
+  },
   "astrbot-plugin-status": {
     "display_name": "系统状态",
     "desc": "简易又可爱的系统状态展示插件，支持接入到LLM",
