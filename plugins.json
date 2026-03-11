@@ -1,4 +1,14 @@
 {
+  "astrbot-plugin-SteamLink": {
+    "display_name": "Steam游戏查找识别",
+    "desc": "自动识别群内 Steam 商店链接，并获取游戏信息发送到群里",
+    "author": "xu654",
+    "repo": "https://github.com/xu654/SteamLink",
+    "tags": [
+      "Steam",
+      "steam"
+    ]
+  },
   "astrbot-plugin-steaminfo-xiaoheihe": {
     "display_name": "小黑盒游戏截图",
     "desc": "通过小黑盒网站搜索并生成截图获取 Steam 游戏信息，支持小黑盒链接自动解析截图。",
