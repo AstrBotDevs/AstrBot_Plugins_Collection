@@ -1,4 +1,13 @@
 {
+  "astrbot-plugin-shitjournal-daily": {
+    "display_name": "SHIT期刊每日推送",
+    "desc": "每日定时抓取并推送 shitjournal 最新论文",
+    "author": "qiyi71w",
+    "repo": "https://github.com/qiyi71w/astrbot_plugin_shitjournal_daily",
+    "tags": [
+      "SHIT"
+    ]
+  },
   "astrbot-plugin-SteamLink": {
     "display_name": "Steam游戏查找识别",
     "desc": "自动识别群内 Steam 商店链接，并获取游戏信息发送到群里",
