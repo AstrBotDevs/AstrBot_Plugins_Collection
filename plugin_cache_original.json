@@ -383,7 +383,7 @@
     "tags": [],
     "stars": 16,
     "version": "5.1.0",
-    "updated_at": "2026-03-11T17:51:00Z"
+    "updated_at": "2026-03-11T18:05:20Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -1332,9 +1332,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "外部集成",
-    "stars": 26,
+    "stars": 27,
     "version": "2.6.2",
-    "updated_at": "2026-03-10T07:22:11Z"
+    "updated_at": "2026-03-11T18:51:31Z"
   },
   "astrbot-plugin-meting": {
     "display_name": "初叶🍂MetingAPI 点歌",
@@ -11466,9 +11466,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "外部集成",
-    "stars": 176,
+    "stars": 177,
     "version": "v3.0.3",
-    "updated_at": "2026-03-11T09:37:36Z",
+    "updated_at": "2026-03-11T18:42:06Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
