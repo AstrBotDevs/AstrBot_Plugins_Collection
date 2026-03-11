@@ -8035,9 +8035,9 @@
       "rag"
     ],
     "category": "AI增强",
-    "stars": 87,
+    "stars": 88,
     "version": "2.2.4",
-    "updated_at": "2026-03-11T13:15:39Z",
+    "updated_at": "2026-03-11T19:13:54Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -13165,7 +13165,7 @@
     "tags": [],
     "stars": 5,
     "version": "v1.1.9",
-    "updated_at": "2026-03-11T16:36:51Z",
+    "updated_at": "2026-03-11T19:20:39Z",
     "logo": "https://raw.githubusercontent.com/Wave233Lee/astrbot_plugin_random_vtb/master/logo.png"
   },
   "astrbot_plugin_server_status": {
@@ -13983,9 +13983,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "AI增强",
     "tags": [],
-    "stars": 190,
+    "stars": 191,
     "version": "v2.1.0",
-    "updated_at": "2026-03-11T05:44:00Z"
+    "updated_at": "2026-03-11T20:32:23Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
