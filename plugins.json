@@ -1,4 +1,17 @@
 {
+  "astrbot-plugin-steaminfo-xiaoheihe": {
+    "display_name": "小黑盒游戏截图",
+    "desc": "通过小黑盒网站搜索并生成截图获取 Steam 游戏信息，支持小黑盒链接自动解析截图。",
+    "author": "xiaoruange39",
+    "repo": "https://github.com/xiaoruange39/astrbot_plugin_steaminfo_xiaoheihe",
+    "tags": [
+      "游戏",
+      "小黑盒",
+      "steam",
+      "截图"
+    ],
+    "social_link": "https://github.com/xiaoruange39"
+  },
   "astrbot-plugin-hextech": {
     "display_name": "海克斯乱斗信息差",
     "desc": "从https://apexlol.info/查询英雄海克斯适配度等信息",
