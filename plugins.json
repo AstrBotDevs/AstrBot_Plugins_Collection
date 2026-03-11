@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-endfield": {
+    "display_name": "终末地协议终端",
+    "desc": "基于森空岛 API 的终末地插件，支持便签、理智、干员面板等查询。移植自 endfield-plugin。",
+    "author": "bvzrays & 熵增项目组",
+    "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_endfield",
+    "tags": [
+      "游戏",
+      "终末地",
+      "数据查询"
+    ]
+  },
   "astrbot-plugin-hydrus": {
     "display_name": "hydrus api调用",
     "desc": "通过tag, 调用hydrus的API，返回随机图片。",
