@@ -1,4 +1,13 @@
 {
+  "astrbot-plugin-airi-voice": {
+    "display_name": "airi_voice",
+    "desc": "输入语音音频文件名（关键词）回复对应语音。提供插件内的airi的语音，需要额外语音可以通过配置项自己添加。",
+    "author": "Lidure",
+    "repo": "https://github.com/Lidure/astrbot_plugin_airi_voice",
+    "tags": [
+      "音频"
+    ]
+  },
   "astrbot-plugin-tk-tracker": {
     "display_name": "TK Tracker-违规记录",
     "desc": "自动监听管服机器人的踢人播报，支持WebUI配置、违规历史查询与数据一键管理。",
