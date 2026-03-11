@@ -357,7 +357,7 @@
     "social_link": "https://github.com/olozhika/",
     "stars": 5,
     "version": "v1.1.0",
-    "updated_at": "2026-03-10T23:10:22Z",
+    "updated_at": "2026-03-11T08:15:14Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
@@ -546,7 +546,7 @@
     "social_link": "https://github.com/RichardLiuda",
     "stars": 4,
     "version": "v1.0.2",
-    "updated_at": "2026-03-11T07:40:40Z",
+    "updated_at": "2026-03-11T08:04:19Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -2593,7 +2593,7 @@
     "category": "AI增强",
     "stars": 23,
     "version": "5.1.0",
-    "updated_at": "2026-03-11T05:57:56Z",
+    "updated_at": "2026-03-11T08:33:36Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -3341,9 +3341,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 175,
+    "stars": 176,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-11T07:24:47Z",
+    "updated_at": "2026-03-11T08:29:25Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -6186,9 +6186,9 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "AI增强",
-    "stars": 57,
+    "stars": 58,
     "version": "v1.2.0",
-    "updated_at": "2026-03-10T14:53:58Z",
+    "updated_at": "2026-03-11T08:29:19Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -6940,9 +6940,9 @@
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
     "category": "AI增强",
-    "stars": 19,
+    "stars": 20,
     "version": "v3.1.2",
-    "updated_at": "2026-03-10T07:06:18Z",
+    "updated_at": "2026-03-11T08:01:46Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_Favour_Ultra/main/logo.png"
   },
   "astrbot_plugin_owcx": {
