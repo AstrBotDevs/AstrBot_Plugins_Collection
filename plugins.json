@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-qqfarm": {
+    "display_name": "QQ农场助手",
+    "desc": "QQ农场助手插件，通过指令管理QQ农场账号",
+    "author": "sanqi-ya",
+    "repo": "https://github.com/sanqi-ya/astrbot_plugin_qqfarm",
+    "tags": [
+      "qq-farm",
+      "QQ农场"
+    ],
+    "social_link": "https://github.com/sanqi-ya"
+  },
   "astrbot-plugin-airi-voice": {
     "display_name": "airi_voice",
     "desc": "输入语音音频文件名（关键词）回复对应语音。提供插件内的airi的语音，需要额外语音可以通过配置项自己添加。",
