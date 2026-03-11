@@ -21,9 +21,9 @@
       "misc"
     ],
     "social_link": "https://github.com/GamerNoTitle",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.1.0",
-    "updated_at": "2026-03-11T09:55:46Z",
+    "updated_at": "2026-03-11T10:57:35Z",
     "logo": "https://raw.githubusercontent.com/GamerNoTitle/astrbot_plugin_pairit/master/logo.png"
   },
   "astrbot-plugin-qqfarm": {
@@ -207,8 +207,8 @@
     "repo": "https://github.com/674537331/astrbot_plugin_mihome",
     "tags": [],
     "stars": 3,
-    "version": "v6.3.11",
-    "updated_at": "2026-03-11T10:37:39Z",
+    "version": "v6.3.22",
+    "updated_at": "2026-03-11T11:32:58Z",
     "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_mihome/main/logo.png"
   },
   "astrbot-plugin-nai-brush": {
@@ -234,9 +234,9 @@
       "终末地",
       "数据查询"
     ],
-    "stars": 10,
+    "stars": 11,
     "version": "2.0.0",
-    "updated_at": "2026-03-11T10:38:19Z",
+    "updated_at": "2026-03-11T10:43:12Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -381,8 +381,8 @@
     "social_link": "https://github.com/Renyus",
     "tags": [],
     "stars": 16,
-    "version": "5.0.15",
-    "updated_at": "2026-03-11T10:36:23Z"
+    "version": "5.0.16",
+    "updated_at": "2026-03-11T11:18:34Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -947,9 +947,9 @@
     "social_link": "https://github.com/storyAura",
     "category": "生活实用",
     "tags": [],
-    "stars": 9,
+    "stars": 10,
     "version": "v1.0.2",
-    "updated_at": "2026-03-08T03:33:11Z",
+    "updated_at": "2026-03-11T11:12:00Z",
     "logo": "https://raw.githubusercontent.com/storyAura/astrbot_plugin_biliVideo/main/logo.png"
   },
   "astrbot-plugin-opencode-client": {
@@ -2105,9 +2105,9 @@
       "OpenCode"
     ],
     "category": "AI增强",
-    "stars": 4,
+    "stars": 5,
     "version": "1.3.0",
-    "updated_at": "2026-03-10T11:06:19Z",
+    "updated_at": "2026-03-11T11:25:08Z",
     "logo": "https://raw.githubusercontent.com/singularity2000/astrbot_plugin_opencode/main/logo.png"
   },
   "astrbot_plugin_claudecode": {
