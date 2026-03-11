@@ -153,7 +153,7 @@
     "tags": [],
     "stars": 3,
     "version": "v6.3.4",
-    "updated_at": "2026-03-11T05:49:17Z",
+    "updated_at": "2026-03-11T09:43:48Z",
     "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_mihome/main/logo.png"
   },
   "astrbot-plugin-nai-brush": {
@@ -327,7 +327,7 @@
     "tags": [],
     "stars": 16,
     "version": "5.0.15",
-    "updated_at": "2026-03-11T03:21:45Z"
+    "updated_at": "2026-03-11T09:02:51Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -355,9 +355,9 @@
       "长期记忆"
     ],
     "social_link": "https://github.com/olozhika/",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.1.0",
-    "updated_at": "2026-03-11T08:15:14Z",
+    "updated_at": "2026-03-11T09:37:03Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
@@ -2394,9 +2394,9 @@
       "multiagent"
     ],
     "category": "AI增强",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-03-07T17:23:16Z"
+    "updated_at": "2026-03-11T09:32:30Z"
   },
   "astrbot_plugin_trpgdice_rerolled": {
     "display_name": "星星骰娘-重骰版！",
@@ -2593,7 +2593,7 @@
     "category": "AI增强",
     "stars": 23,
     "version": "5.1.0",
-    "updated_at": "2026-03-11T08:33:36Z",
+    "updated_at": "2026-03-11T08:54:58Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -2691,9 +2691,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
-    "stars": 203,
+    "stars": 204,
     "version": "v4.8.5",
-    "updated_at": "2026-03-10T11:38:50Z",
+    "updated_at": "2026-03-11T08:44:26Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -4665,7 +4665,7 @@
     "category": "AI增强",
     "stars": 27,
     "version": "2.4.1",
-    "updated_at": "2026-03-10T13:12:34Z",
+    "updated_at": "2026-03-11T09:38:47Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -11410,9 +11410,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "外部集成",
-    "stars": 175,
+    "stars": 176,
     "version": "v3.0.3",
-    "updated_at": "2026-03-11T02:22:12Z",
+    "updated_at": "2026-03-11T09:37:36Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -11599,9 +11599,9 @@
     ],
     "social_link": "https://github.com/vmoranv-reborn",
     "category": "娱乐游戏",
-    "stars": 16,
+    "stars": 17,
     "version": "1.7.2",
-    "updated_at": "2026-03-09T02:43:28Z",
+    "updated_at": "2026-03-11T08:59:39Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
@@ -13515,9 +13515,9 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_rss",
     "category": "生活实用",
     "tags": [],
-    "stars": 26,
+    "stars": 27,
     "version": "v1.1.2",
-    "updated_at": "2026-03-08T14:35:33Z"
+    "updated_at": "2026-03-11T09:15:14Z"
   },
   "astrbot_plugin_bilibili": {
     "desc": "哔哩哔哩动态推送、视频信息、直播间信息查询插件",
