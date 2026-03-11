@@ -1,4 +1,18 @@
 {
+  "astrbot-plugin-tk-tracker": {
+    "display_name": "TK Tracker-违规记录",
+    "desc": "自动监听管服机器人的踢人播报，支持WebUI配置、违规历史查询与数据一键管理。",
+    "author": "Nyaportemi",
+    "version": "1.0.0",
+    "repo": "https://github.com/Nyaportemi/astrbot_plugin_tk_tracker",
+    "tags": [
+      "群管",
+      "工具"
+    ],
+    "social_link": "",
+    "stars": 1,
+    "updated_at": "2026-03-11T06:16:21Z"
+  },
   "astrbot-plugin-self-code": {
     "display_name": "Self Code Assistant",
     "desc": "一个用于 AstrBot 的 AI 编程助手插件。它把聊天指令转为 codex CLI 操作，在 workspace 中生成/修改插件代码，并支持测试和部署。",
@@ -531,8 +545,8 @@
     ],
     "social_link": "https://github.com/RichardLiuda",
     "stars": 4,
-    "version": "v1.0.1",
-    "updated_at": "2026-03-11T01:17:36Z",
+    "version": "v1.0.2",
+    "updated_at": "2026-03-11T07:40:40Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -3327,9 +3341,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 174,
+    "stars": 175,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-11T06:24:37Z",
+    "updated_at": "2026-03-11T07:24:47Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -13261,9 +13275,9 @@
     ],
     "pinned": true,
     "category": "效率工具",
-    "stars": 165,
+    "stars": 166,
     "version": "v3.19",
-    "updated_at": "2026-03-11T03:21:35Z"
+    "updated_at": "2026-03-11T07:46:44Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
