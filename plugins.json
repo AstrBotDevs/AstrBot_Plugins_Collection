@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-mail-notify": {
+    "display_name": "📬 邮件通知",
+    "desc": "监控邮箱新邮件并通过消息平台发送通知，支持 Gmail、杭电邮箱等任何 IMAP 邮箱",
+    "author": "gangcaiyoule",
+    "repo": "https://github.com/gangcaiyoule/astrbot_plugin_mail_notify",
+    "tags": [
+      "邮箱",
+      "提醒",
+      "监控"
+    ]
+  },
   "astrbot-plugin-Xagent-searcher": {
     "display_name": "AstrBot 推特 (X) 数据集成",
     "desc": "使用X官方API来解析推特(X),获取推特的文本内容、图片和视频等信息。",
