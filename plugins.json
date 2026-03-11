@@ -7,7 +7,7 @@
     "social_link": "https://www.xiaohongshu.com/user/profile/6986d59f0000000024012e78"
   },
   "astrbot-plugin-steam-friend-monitor": {
-    "display_name": "steam视奸",
+    "display_name": "Steam 玩家状态监控",
     "desc": "·轮询 Steam 玩家状态（在线/离线/忙碌/离开等）\n·玩家上线、下线、启动游戏、关闭游戏、切换游戏时自动推送图片到已绑定会话\n·支持手动查询当前状态图\n·内置中文字体，容器里不装系统字体也能正常显示中文",
     "author": "Vince-0906",
     "repo": "https://github.com/Vince-0906/astrbot_plugin_steam_friend_monitor",
@@ -17,7 +17,7 @@
     "social_link": "https://github.com/Vince-0906"
   },
   "astrbot-plugin-shitjournal-daily": {
-    "display_name": "SHIT期刊每日推送",
+    "display_name": "SHIT 期刊每日推送",
     "desc": "每日定时抓取并推送 shitjournal 最新论文",
     "author": "qiyi71w",
     "repo": "https://github.com/qiyi71w/astrbot_plugin_shitjournal_daily",
@@ -26,7 +26,7 @@
     ]
   },
   "astrbot-plugin-SteamLink": {
-    "display_name": "Steam游戏查找识别",
+    "display_name": "Steam 游戏查找识别",
     "desc": "自动识别群内 Steam 商店链接，并获取游戏信息发送到群里",
     "author": "xu654",
     "repo": "https://github.com/xu654/SteamLink",
