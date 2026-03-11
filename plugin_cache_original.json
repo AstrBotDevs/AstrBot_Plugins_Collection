@@ -1,4 +1,175 @@
 {
+  "astrbot-plugin-self-code": {
+    "display_name": "Self Code Assistant",
+    "desc": "一个用于 AstrBot 的 AI 编程助手插件。它把聊天指令转为 codex CLI 操作，在 workspace 中生成/修改插件代码，并支持测试和部署。",
+    "author": "YakumoAki",
+    "repo": "https://github.com/murphys7017/astrbot_plugin_self_code",
+    "social_link": "https://www.xiaohongshu.com/user/profile/6986d59f0000000024012e78",
+    "tags": [],
+    "stars": 0,
+    "version": "0.3.0",
+    "updated_at": "2026-03-09T19:56:06Z"
+  },
+  "astrbot-plugin-steam-friend-monitor": {
+    "display_name": "Steam 玩家状态监控",
+    "desc": "·轮询 Steam 玩家状态（在线/离线/忙碌/离开等）\n·玩家上线、下线、启动游戏、关闭游戏、切换游戏时自动推送图片到已绑定会话\n·支持手动查询当前状态图\n·内置中文字体，容器里不装系统字体也能正常显示中文",
+    "author": "Vince-0906",
+    "repo": "https://github.com/Vince-0906/astrbot_plugin_steam_friend_monitor",
+    "tags": [
+      "steam"
+    ],
+    "social_link": "https://github.com/Vince-0906",
+    "stars": 1,
+    "version": "0.1.0",
+    "updated_at": "2026-03-02T06:04:58Z"
+  },
+  "astrbot-plugin-shitjournal-daily": {
+    "display_name": "SHIT 期刊每日推送",
+    "desc": "每日定时抓取并推送 shitjournal 最新论文",
+    "author": "qiyi71w",
+    "repo": "https://github.com/qiyi71w/astrbot_plugin_shitjournal_daily",
+    "tags": [
+      "SHIT"
+    ],
+    "stars": 1,
+    "version": "v1.1.6",
+    "updated_at": "2026-03-08T20:27:42Z"
+  },
+  "astrbot-plugin-SteamLink": {
+    "display_name": "Steam 游戏查找识别",
+    "desc": "自动识别群内 Steam 商店链接，并获取游戏信息发送到群里",
+    "author": "xu654",
+    "repo": "https://github.com/xu654/SteamLink",
+    "tags": [
+      "Steam",
+      "steam"
+    ],
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-06T01:52:19Z",
+    "logo": "https://raw.githubusercontent.com/xu654/SteamLink/main/logo.png"
+  },
+  "astrbot-plugin-steaminfo-xiaoheihe": {
+    "display_name": "小黑盒游戏截图",
+    "desc": "通过小黑盒网站搜索并生成截图获取 Steam 游戏信息，支持小黑盒链接自动解析截图。",
+    "author": "xiaoruange39",
+    "repo": "https://github.com/xiaoruange39/astrbot_plugin_steaminfo_xiaoheihe",
+    "tags": [
+      "游戏",
+      "小黑盒",
+      "steam",
+      "截图"
+    ],
+    "social_link": "https://github.com/xiaoruange39",
+    "stars": 2,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-07T03:26:02Z",
+    "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_steaminfo_xiaoheihe/main/logo.png"
+  },
+  "astrbot-plugin-hextech": {
+    "display_name": "海克斯乱斗信息差",
+    "desc": "从https://apexlol.info/查询英雄海克斯适配度等信息",
+    "author": "Payne",
+    "repo": "https://github.com/PayneXie/astrbot_plugin_hextech",
+    "tags": [
+      "英雄联盟"
+    ],
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-09T00:35:38Z"
+  },
+  "astrbot-plugin-mail-notify": {
+    "display_name": "📬 邮件通知",
+    "desc": "监控邮箱新邮件并通过消息平台发送通知，支持 Gmail、杭电邮箱等任何 IMAP 邮箱",
+    "author": "gangcaiyoule",
+    "repo": "https://github.com/gangcaiyoule/astrbot_plugin_mail_notify",
+    "tags": [
+      "邮箱",
+      "提醒",
+      "监控"
+    ],
+    "stars": 0,
+    "version": "v1.1.3",
+    "updated_at": "2026-03-09T08:23:25Z",
+    "logo": "https://raw.githubusercontent.com/gangcaiyoule/astrbot_plugin_mail_notify/master/logo.png"
+  },
+  "astrbot-plugin-Xagent-searcher": {
+    "display_name": "AstrBot 推特 (X) 数据集成",
+    "desc": "使用X官方API来解析推特(X),获取推特的文本内容、图片和视频等信息。",
+    "author": "B2347",
+    "repo": "https://github.com/NorNeko/astrbot_plugin_Xagent_searcher",
+    "tags": [],
+    "stars": 0,
+    "version": "v0.0.1",
+    "updated_at": "2026-03-08T16:12:14Z"
+  },
+  "astrbot-plugin-status": {
+    "display_name": "系统状态",
+    "desc": "简易又可爱的系统状态展示插件，支持接入到LLM",
+    "author": "FlanChanXwO",
+    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_status",
+    "tags": [
+      "系统状态",
+      "工具调用"
+    ],
+    "social_link": "https://github.com/FlanChanXwO",
+    "stars": 0,
+    "version": "v1.0.2",
+    "updated_at": "2026-03-11T03:58:30Z",
+    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_status/master/logo.png"
+  },
+  "astrbot-plugin-adsb-monitor": {
+    "display_name": "ADS-B 飞机实时监测插件",
+    "desc": "使用 RTL-SDR（RTL2832U） + Dump1090 接收 1090 MHz ADS-B 信号，解析飞机信息，并在 QQ 群/私聊中提供查询功能。",
+    "author": "DNT_OF",
+    "repo": "https://github.com/DNTOF/astrbot_plugin_adsb_monitor",
+    "tags": [
+      "RTLSDR"
+    ],
+    "social_link": "https://github.com/DNTOF",
+    "stars": 1,
+    "version": "1.0.0",
+    "updated_at": "2026-03-07T15:52:06Z"
+  },
+  "astrbot-plugin-mihome": {
+    "display_name": "米家控制",
+    "desc": "AstrBot 的米家云端智能管家插件",
+    "author": "RyanVaderAn",
+    "repo": "https://github.com/674537331/astrbot_plugin_mihome",
+    "tags": [],
+    "stars": 3,
+    "version": "v6.3.4",
+    "updated_at": "2026-03-11T03:19:07Z",
+    "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_mihome/main/logo.png"
+  },
+  "astrbot-plugin-nai-brush": {
+    "display_name": "幻笔-NovelAI",
+    "desc": "基于 NovelAI 的 AI 绘图插件，支持自然语言生图、模型/尺寸切换、打标与撤回。",
+    "author": "薄暝",
+    "repo": "https://github.com/exynos967/astrbot_plugin_nai_brush",
+    "tags": [
+      "画图",
+      "NovalAI"
+    ],
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-03-10T12:41:54Z"
+  },
+  "astrbot-plugin-endfield": {
+    "display_name": "终末地协议终端",
+    "desc": "基于森空岛 API 的终末地插件，支持便签、理智、干员面板等查询。移植自 endfield-plugin。",
+    "author": "bvzrays & 熵增项目组",
+    "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_endfield",
+    "tags": [
+      "游戏",
+      "终末地",
+      "数据查询"
+    ],
+    "stars": 9,
+    "version": "2.0.0",
+    "updated_at": "2026-03-11T03:17:18Z",
+    "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
+  },
   "astrbot-plugin-hydrus": {
     "display_name": "hydrus api调用",
     "desc": "通过tag, 调用hydrus的API，返回随机图片。",
@@ -142,7 +313,7 @@
     "tags": [],
     "stars": 16,
     "version": "5.0.15",
-    "updated_at": "2026-03-11T01:59:25Z"
+    "updated_at": "2026-03-11T03:21:45Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -1123,7 +1294,7 @@
     "category": "AI增强",
     "stars": 7,
     "version": "1.0.1",
-    "updated_at": "2026-03-05T16:44:13Z"
+    "updated_at": "2026-03-11T04:16:27Z"
   },
   "astrbot-plugin-payqr": {
     "display_name": "智能收款码",
@@ -1333,9 +1504,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 47,
+    "stars": 48,
     "version": "v1.5.1",
-    "updated_at": "2026-03-10T21:00:19Z",
+    "updated_at": "2026-03-11T03:10:40Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -2710,9 +2881,9 @@
     "repo": "https://github.com/YiChex/astrbot_plugin_CNKD_Admin",
     "category": "效率工具",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v0.1.1",
-    "updated_at": "2026-02-27T05:53:53Z"
+    "updated_at": "2026-03-11T02:54:24Z"
   },
   "astrbot_plugin_simple_memory": {
     "display_name": "基于 LLM 的简单记忆",
@@ -2755,9 +2926,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "AI增强",
-    "stars": 9,
+    "stars": 10,
     "version": "1.0.0",
-    "updated_at": "2026-02-23T17:44:27Z"
+    "updated_at": "2026-03-11T03:50:47Z"
   },
   "astrbot_plugin_chatmaster": {
     "display_name": "死了么 | 一款检测群聊活跃度的插件",
@@ -3154,12 +3325,11 @@
       "学习",
       "人格"
     ],
-    "pinned": true,
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
     "stars": 173,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-11T01:57:59Z",
+    "updated_at": "2026-03-11T04:37:25Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -5329,8 +5499,8 @@
     "category": "效率工具",
     "tags": [],
     "stars": 9,
-    "version": "v3.2.4",
-    "updated_at": "2026-03-08T07:38:42Z"
+    "version": "v3.2.6",
+    "updated_at": "2026-03-11T03:57:45Z"
   },
   "astrbot_plugin_doubao": {
     "display_name": "豆包即梦生成",
@@ -7797,7 +7967,7 @@
     "category": "AI增强",
     "stars": 86,
     "version": "2.2.4",
-    "updated_at": "2026-03-10T11:54:32Z",
+    "updated_at": "2026-03-11T03:26:50Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -8624,9 +8794,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 77,
+    "stars": 78,
     "version": "v3.0.3",
-    "updated_at": "2026-03-10T13:31:41Z",
+    "updated_at": "2026-03-11T03:13:11Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -9433,8 +9603,8 @@
     "social_link": "https://blog.jojo.host/",
     "category": "效率工具",
     "stars": 8,
-    "version": "v0.0.5",
-    "updated_at": "2026-01-24T14:29:42Z"
+    "version": "v0.0.6",
+    "updated_at": "2026-03-11T04:15:23Z"
   },
   "astrbot_plugin_ip_proxy": {
     "desc": "一个将HTTP代理API转换为本地代理的AstrBot插件",
@@ -10899,9 +11069,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "AI增强",
-    "stars": 56,
+    "stars": 57,
     "version": "v2.0.3",
-    "updated_at": "2026-03-10T20:19:44Z",
+    "updated_at": "2026-03-11T03:18:38Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_pokepro/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
@@ -11226,9 +11396,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "外部集成",
-    "stars": 174,
+    "stars": 175,
     "version": "v3.0.3",
-    "updated_at": "2026-03-09T13:58:01Z",
+    "updated_at": "2026-03-11T02:22:12Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -13091,9 +13261,9 @@
     ],
     "pinned": true,
     "category": "效率工具",
-    "stars": 164,
+    "stars": 165,
     "version": "v3.19",
-    "updated_at": "2026-03-10T18:15:59Z"
+    "updated_at": "2026-03-11T03:21:35Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
