@@ -382,7 +382,7 @@
     "tags": [],
     "stars": 16,
     "version": "5.0.16",
-    "updated_at": "2026-03-11T13:01:42Z"
+    "updated_at": "2026-03-11T14:42:21Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -980,7 +980,7 @@
     "category": "AI增强",
     "stars": 14,
     "version": "v1.10.4",
-    "updated_at": "2026-03-11T12:43:11Z",
+    "updated_at": "2026-03-11T14:40:16Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -1216,9 +1216,9 @@
     ],
     "social_link": "https://github.com/HSOS6",
     "category": "AI增强",
-    "stars": 11,
+    "stars": 12,
     "version": "v1.4.0",
-    "updated_at": "2026-03-11T12:58:15Z",
+    "updated_at": "2026-03-11T13:47:25Z",
     "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_ssh/main/logo.png"
   },
   "astrbot-plugin-httpadapter": {
@@ -1573,9 +1573,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 48,
+    "stars": 49,
     "version": "v1.6.0",
-    "updated_at": "2026-03-11T12:11:31Z",
+    "updated_at": "2026-03-11T14:46:01Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -3517,7 +3517,7 @@
     "category": "外部集成",
     "stars": 12,
     "version": "0.3.4",
-    "updated_at": "2026-03-08T03:25:01Z",
+    "updated_at": "2026-03-11T13:18:07Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_url_image_auto": {
@@ -4343,9 +4343,9 @@
       "工具"
     ],
     "category": "效率工具",
-    "stars": 1,
+    "stars": 2,
     "version": "2.0.0",
-    "updated_at": "2026-02-19T05:22:03Z"
+    "updated_at": "2026-03-11T13:34:20Z"
   },
   "astrbot_plugin_uni_nickname": {
     "display_name": "Uni-nickname 统一昵称插件",
@@ -4568,7 +4568,7 @@
     "category": "效率工具",
     "stars": 4,
     "version": "1.30.0",
-    "updated_at": "2026-03-08T03:59:32Z"
+    "updated_at": "2026-03-11T14:30:16Z"
   },
   "astrbot_plugin_QQbox": {
     "display_name": "QQbox",
@@ -5742,9 +5742,9 @@
       "私聊"
     ],
     "category": "AI增强",
-    "stars": 20,
+    "stars": 21,
     "version": "2.2.0",
-    "updated_at": "2026-03-06T10:03:35Z",
+    "updated_at": "2026-03-11T14:40:17Z",
     "logo": "https://raw.githubusercontent.com/aliveriver/astrbot_plugin_continuous_message/master/logo.png"
   },
   "astrbot_plugin_llm_amnesia": {
@@ -8034,9 +8034,9 @@
       "rag"
     ],
     "category": "AI增强",
-    "stars": 86,
+    "stars": 87,
     "version": "2.2.4",
-    "updated_at": "2026-03-11T03:26:50Z",
+    "updated_at": "2026-03-11T13:15:39Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -9245,9 +9245,9 @@
       "找出处"
     ],
     "category": "效率工具",
-    "stars": 2,
+    "stars": 4,
     "version": "3.4",
-    "updated_at": "2026-01-14T18:48:50Z"
+    "updated_at": "2026-03-11T13:27:36Z"
   },
   "astrbot_plugin_LLMTempBan": {
     "desc": "让 Bot 学会主动拉黑或者通过管理员指令拉黑。",
@@ -12362,9 +12362,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.1.3",
-    "updated_at": "2025-12-20T06:42:10Z",
+    "updated_at": "2026-03-11T14:06:55Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqprofile/main/logo.png"
   },
   "astrbot_plugin_mcping": {
@@ -13217,9 +13217,9 @@
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
     "category": "效率工具",
-    "stars": 107,
+    "stars": 108,
     "version": "v2.1.11",
-    "updated_at": "2026-03-08T05:32:32Z"
+    "updated_at": "2026-03-11T14:30:21Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
@@ -13330,9 +13330,9 @@
     ],
     "pinned": true,
     "category": "效率工具",
-    "stars": 166,
+    "stars": 167,
     "version": "v3.19",
-    "updated_at": "2026-03-11T07:46:44Z"
+    "updated_at": "2026-03-11T14:22:41Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
