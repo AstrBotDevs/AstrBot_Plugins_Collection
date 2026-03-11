@@ -140,9 +140,9 @@
     "repo": "https://github.com/Renyus/astrbot_plugin_self_evolution",
     "social_link": "https://github.com/Renyus",
     "tags": [],
-    "stars": 15,
+    "stars": 16,
     "version": "5.0.15",
-    "updated_at": "2026-03-10T17:11:22Z"
+    "updated_at": "2026-03-11T01:59:25Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -189,7 +189,7 @@
     "social_link": "https://github.com/RichardLiuda",
     "stars": 3,
     "version": "v0.1.3",
-    "updated_at": "2026-03-10T03:47:19Z",
+    "updated_at": "2026-03-11T01:50:39Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_oyasumi/master/logo.png"
   },
   "astrbot-plugin-LivelyState": {
@@ -284,9 +284,9 @@
       "追番"
     ],
     "social_link": "https://github.com/united-pooh",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.1.1",
-    "updated_at": "2026-03-06T18:31:48Z",
+    "updated_at": "2026-03-11T01:45:45Z",
     "logo": "https://raw.githubusercontent.com/united-pooh/astrbot_plugin_bangumi/main/logo.png"
   },
   "astrbot-plugin-three-body-wiki": {
@@ -359,9 +359,9 @@
       "监控"
     ],
     "social_link": "https://github.com/RichardLiuda",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.1",
-    "updated_at": "2026-03-10T02:54:17Z",
+    "updated_at": "2026-03-11T01:17:36Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -1301,7 +1301,7 @@
     "category": "外部集成",
     "stars": 1,
     "version": "v1.1.0",
-    "updated_at": "2026-03-09T07:11:49Z"
+    "updated_at": "2026-03-11T00:16:51Z"
   },
   "astrbot_plugin_group_quiz": {
     "display_name": "每日技术问答",
@@ -2036,9 +2036,9 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "category": "娱乐游戏",
-    "stars": 12,
+    "stars": 13,
     "version": "v3.1.4",
-    "updated_at": "2026-03-10T04:15:23Z",
+    "updated_at": "2026-03-11T01:29:31Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
@@ -3157,9 +3157,9 @@
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 172,
+    "stars": 173,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-10T16:30:12Z",
+    "updated_at": "2026-03-11T01:57:59Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -13743,9 +13743,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "AI增强",
     "tags": [],
-    "stars": 188,
+    "stars": 189,
     "version": "v2.1.0",
-    "updated_at": "2026-03-10T10:20:45Z"
+    "updated_at": "2026-03-11T01:27:33Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
