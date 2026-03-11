@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-pairit": {
+    "display_name": "PairIt",
+    "desc": "自动匹配群友发送的括号，这下括号再也不会出现不成对的情况了",
+    "author": "GamerNoTitle",
+    "repo": "https://github.com/GamerNoTitle/astrbot_plugin_pairit",
+    "tags": [
+      "bracket",
+      "pair",
+      "misc"
+    ],
+    "social_link": "https://github.com/GamerNoTitle"
+  },
   "astrbot-plugin-qqfarm": {
     "display_name": "QQ农场助手",
     "desc": "QQ农场助手插件，通过指令管理QQ农场账号",
