@@ -6,9 +6,9 @@
     "repo": "https://github.com/Kalospacer/astrbot_plugin_content_safety_guard",
     "social_link": "https://github.com/Kalospacer",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "1.2.5",
-    "updated_at": "2026-03-11T12:46:54Z"
+    "updated_at": "2026-03-12T12:02:38Z"
   },
   "astrbot-plugin-pairit": {
     "display_name": "PairIt",
@@ -143,9 +143,9 @@
     "tags": [
       "英雄联盟"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-03-11T06:09:09Z"
+    "updated_at": "2026-03-12T11:45:38Z"
   },
   "astrbot-plugin-mail-notify": {
     "display_name": "📬 邮件通知",
@@ -168,9 +168,9 @@
     "author": "B2347",
     "repo": "https://github.com/NorNeko/astrbot_plugin_Xagent_searcher",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v0.0.3",
-    "updated_at": "2026-03-11T17:04:42Z",
+    "updated_at": "2026-03-12T12:23:15Z",
     "logo": "https://raw.githubusercontent.com/NorNeko/astrbot_plugin_Xagent_searcher/main/logo.png"
   },
   "astrbot-plugin-status": {
@@ -342,8 +342,8 @@
     "tags": [],
     "social_link": "",
     "stars": 5,
-    "version": "v1.2.0",
-    "updated_at": "2026-03-10T12:29:35Z",
+    "version": "v1.2.1",
+    "updated_at": "2026-03-12T12:01:46Z",
     "logo": "https://raw.githubusercontent.com/Waterwzy/astrbot_plugin_firefly_filter/master/logo.png"
   },
   "astrbot-plugin-cet6": {
@@ -383,7 +383,7 @@
     "tags": [],
     "stars": 17,
     "version": "5.1.1",
-    "updated_at": "2026-03-12T09:44:42Z"
+    "updated_at": "2026-03-12T12:59:32Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -600,9 +600,9 @@
       "监控"
     ],
     "social_link": "https://github.com/RichardLiuda",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.1.2",
-    "updated_at": "2026-03-12T02:13:43Z",
+    "updated_at": "2026-03-12T12:13:23Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -981,7 +981,7 @@
     "category": "AI增强",
     "stars": 14,
     "version": "v1.10.4",
-    "updated_at": "2026-03-12T05:20:48Z",
+    "updated_at": "2026-03-12T12:49:20Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -2747,9 +2747,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
-    "stars": 210,
+    "stars": 209,
     "version": "v4.8.7",
-    "updated_at": "2026-03-12T10:26:52Z",
+    "updated_at": "2026-03-12T10:47:29Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -3383,7 +3383,7 @@
     "tags": [],
     "stars": 19,
     "version": "v4.3.3",
-    "updated_at": "2026-03-10T12:42:10Z",
+    "updated_at": "2026-03-12T12:00:03Z",
     "logo": "https://raw.githubusercontent.com/xiaoxi68/astrbot_zssm_explain/main/logo.png"
   },
   "astrbot_plugin_self_learning": {
@@ -4183,9 +4183,9 @@
       "群聊优化"
     ],
     "category": "外部集成",
-    "stars": 41,
+    "stars": 42,
     "version": "0.8.16",
-    "updated_at": "2026-03-11T14:54:04Z",
+    "updated_at": "2026-03-12T12:31:50Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -4774,9 +4774,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "生活实用",
-    "stars": 39,
+    "stars": 40,
     "version": "v1.4.0",
-    "updated_at": "2026-03-03T12:02:37Z",
+    "updated_at": "2026-03-12T11:06:51Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -6242,9 +6242,9 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "AI增强",
-    "stars": 59,
+    "stars": 60,
     "version": "v1.2.0",
-    "updated_at": "2026-03-12T05:30:09Z",
+    "updated_at": "2026-03-12T11:58:43Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -7331,9 +7331,9 @@
       "合并消息分析与回复"
     ],
     "category": "AI增强",
-    "stars": 6,
+    "stars": 7,
     "version": "2.0.0",
-    "updated_at": "2026-03-02T04:16:35Z"
+    "updated_at": "2026-03-12T11:09:34Z"
   },
   "zhiyu-astrbot-qqquery": {
     "desc": "一款查询QQ空间 QQ音乐 QQ基本信息的AstrBot插件",
@@ -7870,9 +7870,9 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "category": "外部集成",
     "tags": [],
-    "stars": 46,
+    "stars": 47,
     "version": "v2.5.0",
-    "updated_at": "2026-03-11T11:27:37Z"
+    "updated_at": "2026-03-12T11:39:30Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -8035,9 +8035,9 @@
       "rag"
     ],
     "category": "AI增强",
-    "stars": 88,
+    "stars": 89,
     "version": "2.2.4",
-    "updated_at": "2026-03-11T19:13:54Z",
+    "updated_at": "2026-03-12T11:50:52Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -8732,9 +8732,9 @@
     ],
     "social_link": "https://github.com/qa296",
     "category": "知识学习",
-    "stars": 9,
+    "stars": 10,
     "version": "v0.1.2",
-    "updated_at": "2026-02-10T16:02:10Z"
+    "updated_at": "2026-03-12T11:50:18Z"
   },
   "astrbot_plugin_who_at_me": {
     "desc": "谁艾特我?监听 @ 消息，便于快速查找自己被 @ 时说了什么。",
@@ -10560,9 +10560,9 @@
       "玩具"
     ],
     "category": "外部集成",
-    "stars": 18,
+    "stars": 19,
     "version": "v0.1",
-    "updated_at": "2026-02-25T09:11:46Z"
+    "updated_at": "2026-03-12T10:47:44Z"
   },
   "astrbot_plugin_music": {
     "display_name": "点歌插件",
@@ -11467,9 +11467,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "外部集成",
-    "stars": 180,
+    "stars": 181,
     "version": "v3.0.3",
-    "updated_at": "2026-03-12T09:05:13Z",
+    "updated_at": "2026-03-12T13:00:11Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -13286,9 +13286,9 @@
       "搬史"
     ],
     "category": "外部集成",
-    "stars": 517,
+    "stars": 519,
     "version": "v0.916",
-    "updated_at": "2026-03-11T12:14:01Z"
+    "updated_at": "2026-03-12T12:54:31Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
