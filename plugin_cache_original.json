@@ -235,9 +235,9 @@
       "终末地",
       "数据查询"
     ],
-    "stars": 11,
+    "stars": 12,
     "version": "2.0.0",
-    "updated_at": "2026-03-11T10:43:12Z",
+    "updated_at": "2026-03-12T09:29:47Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -383,7 +383,7 @@
     "tags": [],
     "stars": 17,
     "version": "5.1.1",
-    "updated_at": "2026-03-12T08:26:28Z"
+    "updated_at": "2026-03-12T09:44:42Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -629,9 +629,9 @@
       "陪伴"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 14,
+    "stars": 15,
     "version": "2.5.2",
-    "updated_at": "2026-03-12T07:03:19Z",
+    "updated_at": "2026-03-12T09:33:34Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -2747,9 +2747,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
-    "stars": 208,
+    "stars": 209,
     "version": "v4.8.6",
-    "updated_at": "2026-03-12T07:43:45Z",
+    "updated_at": "2026-03-12T09:08:47Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -6540,9 +6540,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "AI增强",
-    "stars": 117,
+    "stars": 118,
     "version": "v1.1.5",
-    "updated_at": "2026-03-11T17:28:58Z",
+    "updated_at": "2026-03-12T09:02:28Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -8022,9 +8022,9 @@
     ],
     "social_link": "https://github.com/EraAsh",
     "category": "外部集成",
-    "stars": 5,
+    "stars": 6,
     "version": "v2.1.0",
-    "updated_at": "2026-02-17T07:21:27Z"
+    "updated_at": "2026-03-12T09:17:20Z"
   },
   "astrbot_plugin_livingmemory": {
     "desc": "为 AstrBot 打造的、拥有完整记忆生命周期的智能长期记忆插件。",
@@ -11467,9 +11467,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "外部集成",
-    "stars": 179,
+    "stars": 180,
     "version": "v3.0.3",
-    "updated_at": "2026-03-12T07:26:36Z",
+    "updated_at": "2026-03-12T09:05:13Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -12230,9 +12230,9 @@
       "QQ群管"
     ],
     "category": "效率工具",
-    "stars": 98,
+    "stars": 99,
     "version": "v3.2.7",
-    "updated_at": "2026-02-24T14:50:27Z",
+    "updated_at": "2026-03-12T08:49:30Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -13984,9 +13984,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "AI增强",
     "tags": [],
-    "stars": 192,
+    "stars": 193,
     "version": "v2.1.0",
-    "updated_at": "2026-03-12T02:09:01Z"
+    "updated_at": "2026-03-12T09:09:39Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
