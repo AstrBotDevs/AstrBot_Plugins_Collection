@@ -383,7 +383,7 @@
     "tags": [],
     "stars": 16,
     "version": "5.1.1",
-    "updated_at": "2026-03-12T06:44:53Z"
+    "updated_at": "2026-03-12T07:06:33Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -629,9 +629,9 @@
       "陪伴"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 13,
+    "stars": 14,
     "version": "2.5.2",
-    "updated_at": "2026-03-11T16:21:28Z",
+    "updated_at": "2026-03-12T07:03:19Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -1145,9 +1145,9 @@
     "social_link": "https://github.com/sssn-tech",
     "category": "AI增强",
     "tags": [],
-    "stars": 9,
+    "stars": 10,
     "version": "v0.1.0",
-    "updated_at": "2026-03-10T15:01:43Z",
+    "updated_at": "2026-03-12T07:01:42Z",
     "logo": "https://raw.githubusercontent.com/sssn-tech/astrbot_plugin_iamthinking/master/logo.png"
   },
   "astrbot-plugin-gbif-search": {
@@ -2748,8 +2748,8 @@
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
     "stars": 208,
-    "version": "v4.8.5",
-    "updated_at": "2026-03-12T02:24:04Z",
+    "version": "v4.8.6",
+    "updated_at": "2026-03-12T07:43:45Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -8759,9 +8759,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "效率工具",
-    "stars": 40,
+    "stars": 41,
     "version": "v2.1.6",
-    "updated_at": "2026-03-11T15:33:32Z",
+    "updated_at": "2026-03-12T07:43:57Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -10574,9 +10574,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 115,
+    "stars": 116,
     "version": "v2.0.7",
-    "updated_at": "2026-03-11T14:50:44Z",
+    "updated_at": "2026-03-12T07:12:24Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -11125,9 +11125,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "AI增强",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.0.2",
-    "updated_at": "2025-12-13T10:54:42Z",
+    "updated_at": "2026-03-12T07:21:58Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_notice/main/logo.png"
   },
   "astrbot_plugin_pokepro": {
@@ -11467,9 +11467,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "外部集成",
-    "stars": 178,
+    "stars": 179,
     "version": "v3.0.3",
-    "updated_at": "2026-03-12T05:06:26Z",
+    "updated_at": "2026-03-12T07:26:36Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
