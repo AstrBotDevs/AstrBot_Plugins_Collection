@@ -1,4 +1,11 @@
 {
+  "astrbot-plugin-yunzhijia-adapter": {
+    "display_name": "云之家/Yunzhijia/Cloud Hub 适配器",
+    "desc": "AstrBot 云之家平台适配器插件。",
+    "author": "zack-zzq",
+    "repo": "https://github.com/zack-zzq/astr_plugin_yunzhijia_adapter",
+    "social_link": "https://github.com/zack-zzq"
+  },
   "astrbot-plugin-weibo-monitor": {
     "display_name": "微博监控插件",
     "desc": "定时监控微博用户动态并推送到指定会话。",
