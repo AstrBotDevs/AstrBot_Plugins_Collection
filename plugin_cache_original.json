@@ -130,9 +130,9 @@
       "截图"
     ],
     "social_link": "https://github.com/xiaoruange39",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-03-07T03:26:02Z",
+    "updated_at": "2026-03-12T02:03:03Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_steaminfo_xiaoheihe/main/logo.png"
   },
   "astrbot-plugin-hextech": {
@@ -383,7 +383,7 @@
     "tags": [],
     "stars": 16,
     "version": "5.1.0",
-    "updated_at": "2026-03-11T18:05:20Z"
+    "updated_at": "2026-03-12T02:13:44Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -600,9 +600,9 @@
       "监控"
     ],
     "social_link": "https://github.com/RichardLiuda",
-    "stars": 4,
-    "version": "v1.1.1",
-    "updated_at": "2026-03-11T17:42:09Z",
+    "stars": 5,
+    "version": "v1.1.2",
+    "updated_at": "2026-03-12T02:13:43Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -1273,9 +1273,9 @@
     ],
     "social_link": "https://github.com/1-20182",
     "category": "娱乐游戏",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.9.5",
-    "updated_at": "2026-03-10T14:22:17Z"
+    "updated_at": "2026-03-12T02:15:45Z"
   },
   "astrbot-plugin-Gemini-STT": {
     "display_name": "Gemini_STT",
@@ -2649,7 +2649,7 @@
     "category": "AI增强",
     "stars": 24,
     "version": "5.1.0",
-    "updated_at": "2026-03-11T12:46:56Z",
+    "updated_at": "2026-03-12T02:11:12Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -2747,9 +2747,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
-    "stars": 206,
+    "stars": 207,
     "version": "v4.8.5",
-    "updated_at": "2026-03-11T15:30:49Z",
+    "updated_at": "2026-03-12T01:21:42Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -7820,9 +7820,9 @@
       "积分系统"
     ],
     "category": "AI增强",
-    "stars": 8,
+    "stars": 9,
     "version": "1.1.0",
-    "updated_at": "2026-02-04T05:46:32Z"
+    "updated_at": "2026-03-11T23:51:17Z"
   },
   "persistent_history": {
     "desc": "基本无需设置的简单永久记忆插件",
@@ -13983,9 +13983,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "AI增强",
     "tags": [],
-    "stars": 191,
+    "stars": 192,
     "version": "v2.1.0",
-    "updated_at": "2026-03-11T20:32:23Z"
+    "updated_at": "2026-03-12T02:09:01Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
