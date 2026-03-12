@@ -262,9 +262,9 @@
       "终末地",
       "数据查询"
     ],
-    "stars": 13,
+    "stars": 14,
     "version": "2.2.0",
-    "updated_at": "2026-03-12T17:07:40Z",
+    "updated_at": "2026-03-12T21:47:45Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -6567,9 +6567,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "AI增强",
-    "stars": 119,
+    "stars": 120,
     "version": "v1.1.5",
-    "updated_at": "2026-03-12T10:17:58Z",
+    "updated_at": "2026-03-12T21:58:07Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
