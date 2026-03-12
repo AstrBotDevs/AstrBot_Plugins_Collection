@@ -235,9 +235,9 @@
       "终末地",
       "数据查询"
     ],
-    "stars": 12,
+    "stars": 13,
     "version": "2.0.0",
-    "updated_at": "2026-03-12T09:29:47Z",
+    "updated_at": "2026-03-12T10:36:12Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -1200,9 +1200,9 @@
     ],
     "social_link": "https://github.com/Radiant303",
     "category": "AI增强",
-    "stars": 3,
+    "stars": 4,
     "version": "v2.0.3",
-    "updated_at": "2026-03-12T08:16:21Z",
+    "updated_at": "2026-03-12T10:27:29Z",
     "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_clonetts/master/logo.png"
   },
   "astrbot-plugin-ssh": {
@@ -1574,9 +1574,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 51,
+    "stars": 52,
     "version": "v1.6.0",
-    "updated_at": "2026-03-12T08:34:42Z",
+    "updated_at": "2026-03-12T10:29:42Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -2747,9 +2747,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
-    "stars": 209,
-    "version": "v4.8.6",
-    "updated_at": "2026-03-12T09:08:47Z",
+    "stars": 210,
+    "version": "v4.8.7",
+    "updated_at": "2026-03-12T10:26:52Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -6540,9 +6540,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "AI增强",
-    "stars": 118,
+    "stars": 119,
     "version": "v1.1.5",
-    "updated_at": "2026-03-12T09:02:28Z",
+    "updated_at": "2026-03-12T10:17:58Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -13984,9 +13984,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "AI增强",
     "tags": [],
-    "stars": 193,
+    "stars": 195,
     "version": "v2.1.0",
-    "updated_at": "2026-03-12T09:09:39Z"
+    "updated_at": "2026-03-12T10:28:28Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
