@@ -439,8 +439,8 @@
     ],
     "social_link": "https://github.com/olozhika/",
     "stars": 6,
-    "version": "v1.1.0",
-    "updated_at": "2026-03-11T22:22:04Z",
+    "version": "v1.1.1",
+    "updated_at": "2026-03-12T19:43:31Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
@@ -14011,9 +14011,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "AI增强",
     "tags": [],
-    "stars": 196,
+    "stars": 197,
     "version": "v2.1.0",
-    "updated_at": "2026-03-12T18:08:27Z"
+    "updated_at": "2026-03-12T19:29:21Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
