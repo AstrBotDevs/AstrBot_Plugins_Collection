@@ -629,7 +629,7 @@
     "social_link": "https://github.com/RichardLiuda",
     "stars": 6,
     "version": "v1.1.2",
-    "updated_at": "2026-03-12T12:13:23Z",
+    "updated_at": "2026-03-12T15:47:26Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -1007,8 +1007,8 @@
     "social_link": "https://github.com/leafliber",
     "category": "AI增强",
     "stars": 14,
-    "version": "v1.10.4",
-    "updated_at": "2026-03-12T14:29:05Z",
+    "version": "v1.10.5",
+    "updated_at": "2026-03-12T15:44:26Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -1160,9 +1160,9 @@
     ],
     "social_link": "https://github.com/PyuraMazo",
     "category": "AI增强",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.3.2",
-    "updated_at": "2026-03-07T04:42:30Z"
+    "updated_at": "2026-03-12T15:20:49Z"
   },
   "astrbot-plugin-iamthinking": {
     "display_name": "别吵我在思考",
@@ -1601,9 +1601,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 54,
+    "stars": 55,
     "version": "v1.6.0",
-    "updated_at": "2026-03-12T13:58:10Z",
+    "updated_at": "2026-03-12T15:04:20Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -1726,7 +1726,7 @@
     "category": "外部集成",
     "stars": 4,
     "version": "1.2.0",
-    "updated_at": "2026-03-12T14:35:17Z"
+    "updated_at": "2026-03-12T15:42:40Z"
   },
   "astrbot_plugin_telegram_summary": {
     "name": "",
@@ -2944,9 +2944,9 @@
       "vocechat"
     ],
     "category": "外部集成",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.1",
-    "updated_at": "2026-02-11T08:38:13Z"
+    "updated_at": "2026-03-12T15:26:11Z"
   },
   "astrbot_plugin_persona_manager": {
     "display_name": "角色社区化人设管理",
@@ -3424,9 +3424,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 182,
+    "stars": 183,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-12T08:28:08Z",
+    "updated_at": "2026-03-12T15:06:08Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -4211,8 +4211,8 @@
     ],
     "category": "外部集成",
     "stars": 43,
-    "version": "0.8.16",
-    "updated_at": "2026-03-12T13:50:52Z",
+    "version": "0.8.17",
+    "updated_at": "2026-03-12T15:25:01Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -7463,9 +7463,9 @@
       "fishing"
     ],
     "category": "娱乐游戏",
-    "stars": 33,
+    "stars": 34,
     "version": "2.4.7",
-    "updated_at": "2026-03-12T08:31:49Z",
+    "updated_at": "2026-03-12T14:58:46Z",
     "logo": "https://raw.githubusercontent.com/xxlemon-io/astrbot_plugin_fishing/main/logo.png"
   },
   "astrbot_plugin_astrmetry": {
@@ -9273,9 +9273,9 @@
       "找出处"
     ],
     "category": "效率工具",
-    "stars": 4,
+    "stars": 5,
     "version": "3.4",
-    "updated_at": "2026-03-11T13:27:36Z"
+    "updated_at": "2026-03-12T14:57:16Z"
   },
   "astrbot_plugin_LLMTempBan": {
     "desc": "让 Bot 学会主动拉黑或者通过管理员指令拉黑。",
@@ -11494,9 +11494,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "外部集成",
-    "stars": 182,
+    "stars": 183,
     "version": "v3.0.3",
-    "updated_at": "2026-03-12T14:09:17Z",
+    "updated_at": "2026-03-12T15:36:59Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -11606,9 +11606,9 @@
     ],
     "social_link": "https://github.com/gameswu",
     "category": "外部集成",
-    "stars": 10,
+    "stars": 11,
     "version": "v0.2.2",
-    "updated_at": "2026-01-29T08:21:55Z",
+    "updated_at": "2026-03-12T15:18:38Z",
     "logo": "https://raw.githubusercontent.com/gameswu/astrbot_plugin_osutrack/master/logo.png"
   },
   "astrbot_plugin_group_information": {
@@ -13193,7 +13193,7 @@
     "tags": [],
     "stars": 5,
     "version": "v1.1.9",
-    "updated_at": "2026-03-11T19:20:39Z",
+    "updated_at": "2026-03-12T15:25:59Z",
     "logo": "https://raw.githubusercontent.com/Wave233Lee/astrbot_plugin_random_vtb/master/logo.png"
   },
   "astrbot_plugin_server_status": {
@@ -13359,9 +13359,9 @@
     ],
     "pinned": true,
     "category": "效率工具",
-    "stars": 169,
+    "stars": 170,
     "version": "v3.19",
-    "updated_at": "2026-03-12T08:20:55Z"
+    "updated_at": "2026-03-12T15:13:03Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
