@@ -128,8 +128,8 @@
       "SHIT"
     ],
     "stars": 1,
-    "version": "v1.1.6",
-    "updated_at": "2026-03-11T22:35:00Z"
+    "version": "v1.1.7",
+    "updated_at": "2026-03-12T20:38:21Z"
   },
   "astrbot-plugin-SteamLink": {
     "display_name": "Steam 游戏查找识别",
@@ -440,7 +440,7 @@
     "social_link": "https://github.com/olozhika/",
     "stars": 6,
     "version": "v1.1.1",
-    "updated_at": "2026-03-12T19:56:58Z",
+    "updated_at": "2026-03-12T21:04:35Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
@@ -8062,9 +8062,9 @@
       "rag"
     ],
     "category": "AI增强",
-    "stars": 89,
+    "stars": 90,
     "version": "2.2.4",
-    "updated_at": "2026-03-12T11:50:52Z",
+    "updated_at": "2026-03-12T21:20:23Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
