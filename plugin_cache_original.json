@@ -22,8 +22,8 @@
     ],
     "social_link": "https://github.com/jiantoucn",
     "stars": 0,
-    "version": "v1.6.1",
-    "updated_at": "2026-03-12T14:23:23Z",
+    "version": "v1.7.0",
+    "updated_at": "2026-03-12T16:11:40Z",
     "logo": "https://raw.githubusercontent.com/jiantoucn/astrbot_plugin_weibo_monitor/main/logo.png"
   },
   "astrbot-plugin-content-safety-guard": {
@@ -235,8 +235,8 @@
     "repo": "https://github.com/674537331/astrbot_plugin_mihome",
     "tags": [],
     "stars": 3,
-    "version": "v6.3.22",
-    "updated_at": "2026-03-11T12:23:38Z",
+    "version": "v6.4.0",
+    "updated_at": "2026-03-12T16:22:40Z",
     "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_mihome/main/logo.png"
   },
   "astrbot-plugin-nai-brush": {
@@ -657,8 +657,8 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 17,
-    "version": "2.5.2",
-    "updated_at": "2026-03-12T14:35:47Z",
+    "version": "2.5.3",
+    "updated_at": "2026-03-12T16:30:33Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -906,9 +906,9 @@
       "人物画像"
     ],
     "category": "AI增强",
-    "stars": 22,
+    "stars": 23,
     "version": "v0.3.5",
-    "updated_at": "2026-03-11T05:39:09Z"
+    "updated_at": "2026-03-12T16:32:25Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -2676,7 +2676,7 @@
     "category": "AI增强",
     "stars": 24,
     "version": "5.1.0",
-    "updated_at": "2026-03-12T02:11:12Z",
+    "updated_at": "2026-03-12T16:07:25Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -3424,9 +3424,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 183,
+    "stars": 185,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-12T15:06:08Z",
+    "updated_at": "2026-03-12T17:03:55Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -10003,7 +10003,7 @@
     "tags": [],
     "stars": 6,
     "version": "v1.5.0",
-    "updated_at": "2026-02-26T06:06:22Z",
+    "updated_at": "2026-03-12T16:01:25Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_shutup/master/logo.png"
   },
   "astrbot_plugin_check-dst-room": {
@@ -11326,8 +11326,8 @@
     "category": "AI增强",
     "tags": [],
     "stars": 6,
-    "version": "v1.7.3",
-    "updated_at": "2026-03-09T13:36:09Z",
+    "version": "v1.7.4",
+    "updated_at": "2026-03-12T17:06:23Z",
     "logo": "https://raw.githubusercontent.com/monbed/astrbot_plugin_animewifex/master/logo.png"
   },
   "astrbot_plugin_emojimix": {
@@ -14091,9 +14091,9 @@
     "repo": "https://github.com/zouyonghe/astrbot_plugin_ebooks",
     "category": "外部集成",
     "tags": [],
-    "stars": 18,
+    "stars": 19,
     "version": "v2.0.0",
-    "updated_at": "2026-02-28T00:19:58Z"
+    "updated_at": "2026-03-12T16:09:30Z"
   },
   "astrbot_plugin_AIQTalk": {
     "desc": "基于QQ的AI声聊完成的（伪）TTS转语音",
