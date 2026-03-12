@@ -629,9 +629,9 @@
       "陪伴"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 15,
+    "stars": 16,
     "version": "2.5.2",
-    "updated_at": "2026-03-12T09:33:34Z",
+    "updated_at": "2026-03-12T11:27:15Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -1574,9 +1574,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 52,
+    "stars": 53,
     "version": "v1.6.0",
-    "updated_at": "2026-03-12T10:29:42Z",
+    "updated_at": "2026-03-12T11:11:16Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
