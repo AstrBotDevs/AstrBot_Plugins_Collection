@@ -1,4 +1,31 @@
 {
+  "astrbot-plugin-yunzhijia-adapter": {
+    "display_name": "云之家/Yunzhijia/Cloud Hub 适配器",
+    "desc": "AstrBot 云之家平台适配器插件。",
+    "author": "zack-zzq",
+    "repo": "https://github.com/zack-zzq/astr_plugin_yunzhijia_adapter",
+    "social_link": "https://github.com/zack-zzq",
+    "tags": [],
+    "stars": 1,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-12T11:45:15Z",
+    "logo": "https://raw.githubusercontent.com/zack-zzq/astr_plugin_yunzhijia_adapter/master/logo.png"
+  },
+  "astrbot-plugin-weibo-monitor": {
+    "display_name": "微博监控插件",
+    "desc": "定时监控微博用户动态并推送到指定会话。",
+    "author": "Sayaka",
+    "repo": "https://github.com/jiantoucn/astrbot_plugin_weibo_monitor",
+    "tags": [
+      "微博",
+      "定时"
+    ],
+    "social_link": "https://github.com/jiantoucn",
+    "stars": 0,
+    "version": "v1.6.1",
+    "updated_at": "2026-03-12T14:23:23Z",
+    "logo": "https://raw.githubusercontent.com/jiantoucn/astrbot_plugin_weibo_monitor/main/logo.png"
+  },
   "astrbot-plugin-content-safety-guard": {
     "display_name": "阿瓦隆Avalon",
     "desc": "内容安全守卫 - 拦截用户提示词攻击和模型输出偏离人设问题，支持前置/后置审核、关键词匹配、LLM自审查、黑名单等功能",
@@ -383,7 +410,7 @@
     "tags": [],
     "stars": 17,
     "version": "5.1.1",
-    "updated_at": "2026-03-12T12:59:32Z"
+    "updated_at": "2026-03-12T14:34:00Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -629,9 +656,9 @@
       "陪伴"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 16,
+    "stars": 17,
     "version": "2.5.2",
-    "updated_at": "2026-03-12T11:27:15Z",
+    "updated_at": "2026-03-12T14:35:47Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -981,7 +1008,7 @@
     "category": "AI增强",
     "stars": 14,
     "version": "v1.10.4",
-    "updated_at": "2026-03-12T12:49:20Z",
+    "updated_at": "2026-03-12T14:29:05Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -1200,9 +1227,9 @@
     ],
     "social_link": "https://github.com/Radiant303",
     "category": "AI增强",
-    "stars": 4,
+    "stars": 5,
     "version": "v2.0.3",
-    "updated_at": "2026-03-12T10:27:29Z",
+    "updated_at": "2026-03-12T13:22:46Z",
     "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_clonetts/master/logo.png"
   },
   "astrbot-plugin-ssh": {
@@ -1574,9 +1601,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 53,
+    "stars": 54,
     "version": "v1.6.0",
-    "updated_at": "2026-03-12T11:11:16Z",
+    "updated_at": "2026-03-12T13:58:10Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -1699,7 +1726,7 @@
     "category": "外部集成",
     "stars": 4,
     "version": "1.2.0",
-    "updated_at": "2026-03-07T13:53:56Z"
+    "updated_at": "2026-03-12T14:35:17Z"
   },
   "astrbot_plugin_telegram_summary": {
     "name": "",
@@ -2619,8 +2646,8 @@
     "category": "AI增强",
     "tags": [],
     "stars": 4,
-    "version": "v0.1.0",
-    "updated_at": "2026-02-19T05:26:54Z"
+    "version": "v0.2.0",
+    "updated_at": "2026-03-12T13:21:26Z"
   },
   "astrbot_plugin_cmdmask": {
     "display_name": "指令伪装",
@@ -3133,9 +3160,9 @@
     "repo": "https://github.com/bylkuse/astrbot_plugin_online_status",
     "category": "外部集成",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "v0.0.5",
-    "updated_at": "2026-01-15T13:31:08Z",
+    "updated_at": "2026-03-12T13:37:21Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_online_status/master/logo.png"
   },
   "astrbot_plugin_logplus": {
@@ -4183,9 +4210,9 @@
       "群聊优化"
     ],
     "category": "外部集成",
-    "stars": 42,
+    "stars": 43,
     "version": "0.8.16",
-    "updated_at": "2026-03-12T12:31:50Z",
+    "updated_at": "2026-03-12T13:50:52Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -4866,9 +4893,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "AI增强",
-    "stars": 51,
+    "stars": 52,
     "version": "v4.2.2",
-    "updated_at": "2026-03-09T16:00:16Z",
+    "updated_at": "2026-03-12T14:26:53Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -10852,9 +10879,9 @@
     ],
     "social_link": "https://space.bilibili.com/447591776",
     "category": "娱乐游戏",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.2.1",
-    "updated_at": "2026-02-01T13:47:44Z"
+    "updated_at": "2026-03-12T13:22:21Z"
   },
   "astrbot_plugin_embedding_adapter": {
     "author": "AnYan",
@@ -11467,9 +11494,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "外部集成",
-    "stars": 181,
+    "stars": 182,
     "version": "v3.0.3",
-    "updated_at": "2026-03-12T13:00:11Z",
+    "updated_at": "2026-03-12T14:09:17Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -13286,9 +13313,9 @@
       "搬史"
     ],
     "category": "外部集成",
-    "stars": 519,
+    "stars": 520,
     "version": "v0.916",
-    "updated_at": "2026-03-12T12:54:31Z"
+    "updated_at": "2026-03-12T13:46:49Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
