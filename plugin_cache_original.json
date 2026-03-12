@@ -66,7 +66,7 @@
     ],
     "social_link": "",
     "stars": 1,
-    "updated_at": "2026-03-11T06:16:21Z"
+    "updated_at": "2026-03-12T06:49:22Z"
   },
   "astrbot-plugin-self-code": {
     "display_name": "Self Code Assistant",
@@ -382,8 +382,8 @@
     "social_link": "https://github.com/Renyus",
     "tags": [],
     "stars": 16,
-    "version": "5.1.0",
-    "updated_at": "2026-03-12T05:51:38Z"
+    "version": "5.1.1",
+    "updated_at": "2026-03-12T06:44:53Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -2840,7 +2840,7 @@
     "category": "效率工具",
     "stars": 12,
     "version": "v1.0.9",
-    "updated_at": "2026-03-12T02:46:50Z"
+    "updated_at": "2026-03-12T06:16:04Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -3352,9 +3352,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "AI增强",
-    "stars": 32,
+    "stars": 33,
     "version": "1.1.1",
-    "updated_at": "2026-03-09T08:49:52Z"
+    "updated_at": "2026-03-12T06:28:40Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -9947,9 +9947,9 @@
     "desc": "一款专为 AstrBot 打造的高互动性 QQ 群聊插件，融合经济、社交、冒险等玩法",
     "category": "外部集成",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.1",
-    "updated_at": "2025-08-19T14:46:21Z"
+    "updated_at": "2026-03-12T06:36:22Z"
   },
   "astrbot_plugin_gameinfo": {
     "author": "bushikq",
@@ -11383,9 +11383,9 @@
     "repo": "https://github.com/LKarxa/astrbot_plugin_SillyTavern_card",
     "category": "效率工具",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.0",
-    "updated_at": "2026-02-14T09:48:35Z"
+    "updated_at": "2026-03-12T06:06:08Z"
   },
   "astrbot_plugin_reply": {
     "author": "yahayao",
@@ -12393,9 +12393,9 @@
       "世界书"
     ],
     "category": "效率工具",
-    "stars": 11,
+    "stars": 12,
     "version": "v0.1.8",
-    "updated_at": "2026-03-07T14:05:50Z"
+    "updated_at": "2026-03-12T06:04:37Z"
   },
   "daily_limit": {
     "desc": "限制成员每日访问AI次数的插件，支持为不同用户和群组设置不同的调用限制(支持的astrbot最低版本为3.5.1)",
@@ -13332,9 +13332,9 @@
     ],
     "pinned": true,
     "category": "效率工具",
-    "stars": 167,
+    "stars": 168,
     "version": "v3.19",
-    "updated_at": "2026-03-11T14:22:41Z"
+    "updated_at": "2026-03-12T06:16:16Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
