@@ -381,9 +381,9 @@
     "repo": "https://github.com/Renyus/astrbot_plugin_self_evolution",
     "social_link": "https://github.com/Renyus",
     "tags": [],
-    "stars": 16,
+    "stars": 17,
     "version": "5.1.1",
-    "updated_at": "2026-03-12T07:06:33Z"
+    "updated_at": "2026-03-12T08:26:28Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -442,9 +442,9 @@
       "拟人",
       "全局记忆"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-03-10T03:47:36Z"
+    "updated_at": "2026-03-12T08:13:52Z"
   },
   "astrbot-plugin-memory": {
     "display_name": "astrbot_plugin_memory",
@@ -706,8 +706,8 @@
     ],
     "social_link": "https://github.com/PyuraMazo",
     "stars": 1,
-    "version": "v1.0.2",
-    "updated_at": "2026-03-09T15:38:17Z",
+    "version": "v1.1.0",
+    "updated_at": "2026-03-12T08:35:18Z",
     "logo": "https://raw.githubusercontent.com/PyuraMazo/astrbot_plugin_alteration_notifier/master/logo.png"
   },
   "astrbot-plugin-sl-query": {
@@ -770,9 +770,9 @@
     "repo": "https://github.com/zoffyultraman/astrbot_plugin_manbo-tts",
     "social_link": "https://github.com/zoffyultraman",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.3",
-    "updated_at": "2026-03-04T15:49:09Z",
+    "updated_at": "2026-03-12T08:16:30Z",
     "logo": "https://raw.githubusercontent.com/zoffyultraman/astrbot_plugin_manbo-tts/main/logo.png"
   },
   "astrbot-plugin-steammod-monitor": {
@@ -1005,9 +1005,9 @@
     "tags": [],
     "social_link": "",
     "category": "外部集成",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.0.0",
-    "updated_at": "2026-03-05T02:14:21Z",
+    "updated_at": "2026-03-12T08:31:14Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_soulmap/main/logo.png"
   },
   "astrbot-plugin-warframe-helper": {
@@ -1201,8 +1201,8 @@
     "social_link": "https://github.com/Radiant303",
     "category": "AI增强",
     "stars": 3,
-    "version": "v2.0.2",
-    "updated_at": "2026-03-11T06:21:56Z",
+    "version": "v2.0.3",
+    "updated_at": "2026-03-12T08:16:21Z",
     "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_clonetts/master/logo.png"
   },
   "astrbot-plugin-ssh": {
@@ -1574,9 +1574,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 50,
+    "stars": 51,
     "version": "v1.6.0",
-    "updated_at": "2026-03-11T16:01:30Z",
+    "updated_at": "2026-03-12T08:34:42Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -2840,7 +2840,7 @@
     "category": "效率工具",
     "stars": 12,
     "version": "v1.0.9",
-    "updated_at": "2026-03-12T06:16:04Z"
+    "updated_at": "2026-03-12T08:04:24Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -3397,9 +3397,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 179,
+    "stars": 182,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-12T05:30:10Z",
+    "updated_at": "2026-03-12T08:28:08Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -4011,9 +4011,9 @@
     "repo": "https://github.com/Luna-channel/astrbot_plugin_hangout",
     "tags": "统计调用",
     "category": "效率工具",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.3",
-    "updated_at": "2026-01-15T17:14:55Z",
+    "updated_at": "2026-03-12T08:31:30Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_hangout/main/logo.png"
   },
   "astrbot_plugin_joinmanager": {
@@ -4596,9 +4596,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 67,
+    "stars": 68,
     "version": "v1.4.0",
-    "updated_at": "2026-03-10T02:33:51Z",
+    "updated_at": "2026-03-12T08:14:51Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -6499,9 +6499,9 @@
       "TTS"
     ],
     "category": "外部集成",
-    "stars": 2,
+    "stars": 3,
     "version": "v0.3",
-    "updated_at": "2026-01-09T11:22:32Z",
+    "updated_at": "2026-03-12T08:31:33Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_tts_sanitizer/master/logo.png"
   },
   "astrbot_plugin_github_monitor_shell": {
@@ -7436,9 +7436,9 @@
       "fishing"
     ],
     "category": "娱乐游戏",
-    "stars": 32,
+    "stars": 33,
     "version": "2.4.7",
-    "updated_at": "2026-02-05T13:25:00Z",
+    "updated_at": "2026-03-12T08:31:49Z",
     "logo": "https://raw.githubusercontent.com/xxlemon-io/astrbot_plugin_fishing/main/logo.png"
   },
   "astrbot_plugin_astrmetry": {
@@ -8994,7 +8994,7 @@
     "category": "外部集成",
     "stars": 8,
     "version": "2.1.2",
-    "updated_at": "2026-02-11T10:59:36Z"
+    "updated_at": "2026-03-12T08:10:51Z"
   },
   "pokemon_fusion": {
     "desc": "宝可梦融合插件，支持指定宝可梦融合和随机融合。",
@@ -10711,9 +10711,9 @@
     "repo": "https://github.com/VincenttHo/astrbot_plugin_dzmm",
     "category": "外部集成",
     "tags": [],
-    "stars": 18,
+    "stars": 19,
     "version": "v1.1.0",
-    "updated_at": "2026-03-07T11:20:16Z"
+    "updated_at": "2026-03-12T08:01:54Z"
   },
   "astrbot_plugin_text2image": {
     "author": "wuyan1003",
@@ -10932,9 +10932,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 69,
+    "stars": 70,
     "version": "v1.1.2",
-    "updated_at": "2026-03-12T05:11:59Z",
+    "updated_at": "2026-03-12T08:02:07Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
@@ -13332,9 +13332,9 @@
     ],
     "pinned": true,
     "category": "效率工具",
-    "stars": 168,
+    "stars": 169,
     "version": "v3.19",
-    "updated_at": "2026-03-12T06:16:16Z"
+    "updated_at": "2026-03-12T08:20:55Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
