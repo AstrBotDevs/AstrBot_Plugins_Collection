@@ -77,8 +77,8 @@
       "音频"
     ],
     "stars": 2,
-    "version": "v2.0",
-    "updated_at": "2026-03-13T08:18:31Z",
+    "version": "v2.1",
+    "updated_at": "2026-03-13T09:28:56Z",
     "logo": "https://raw.githubusercontent.com/Lidure/astrbot_plugin_airi_voice/master/logo.png"
   },
   "astrbot-plugin-tk-tracker": {
@@ -410,7 +410,7 @@
     "tags": [],
     "stars": 17,
     "version": "5.2.0",
-    "updated_at": "2026-03-13T08:38:59Z"
+    "updated_at": "2026-03-13T09:23:09Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -457,7 +457,7 @@
     "social_link": "https://github.com/RichardLiuda",
     "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-03-13T08:21:58Z",
+    "updated_at": "2026-03-13T08:53:49Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_oyasumi/master/logo.png"
   },
   "astrbot-plugin-LivelyState": {
@@ -629,7 +629,7 @@
     "social_link": "https://github.com/RichardLiuda",
     "stars": 6,
     "version": "v1.2.1",
-    "updated_at": "2026-03-13T07:15:18Z",
+    "updated_at": "2026-03-13T09:23:39Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -2091,8 +2091,8 @@
     "social_link": "https://github.com/piexian",
     "category": "外部集成",
     "stars": 9,
-    "version": "v1.0.9",
-    "updated_at": "2026-03-10T16:45:49Z",
+    "version": "v1.1.0",
+    "updated_at": "2026-03-13T09:23:33Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_grok_web_search/master/logo.png"
   },
   "astrbot_plugin_fake_ai_watermark": {
@@ -2776,7 +2776,7 @@
     "category": "外部集成",
     "stars": 211,
     "version": "v4.8.7",
-    "updated_at": "2026-03-13T04:41:28Z",
+    "updated_at": "2026-03-13T09:35:50Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -4146,9 +4146,9 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_custom_menu",
     "category": "效率工具",
     "tags": [],
-    "stars": 15,
+    "stars": 16,
     "version": "1.9.1",
-    "updated_at": "2026-02-05T13:37:06Z",
+    "updated_at": "2026-03-13T09:36:27Z",
     "logo": "https://raw.githubusercontent.com/shskjw/astrbot_plugin_custom_menu/master/logo.png"
   },
   "astrbot_plugin_webnovel_info": {
@@ -4178,9 +4178,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "效率工具",
-    "stars": 33,
+    "stars": 34,
     "version": "1.1.3",
-    "updated_at": "2026-03-09T06:24:43Z",
+    "updated_at": "2026-03-13T08:50:34Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
@@ -10703,9 +10703,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "知识学习",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.0.3",
-    "updated_at": "2026-02-23T00:31:29Z",
+    "updated_at": "2026-03-13T08:48:14Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_deepwiki/main/logo.png"
   },
   "astrbot_plugin_delete_and_block_filter": {
@@ -13114,9 +13114,9 @@
       "bilibili"
     ],
     "category": "效率工具",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.0",
-    "updated_at": "2025-12-01T23:25:36Z"
+    "updated_at": "2026-03-13T09:01:20Z"
   },
   "astrBot_PGR_Dialogue": {
     "desc": "检测到部分战双角色的名称(或别称)时，有概率发送一条语音文本",
@@ -13333,9 +13333,9 @@
     "repo": "https://github.com/anka-afk/astrbot_plugin_humanlike",
     "category": "AI增强",
     "tags": [],
-    "stars": 31,
+    "stars": 32,
     "version": "v0.2.2",
-    "updated_at": "2026-02-25T05:07:34Z"
+    "updated_at": "2026-03-13T08:12:40Z"
   },
   "astrbot_plugin_blue_archive": {
     "desc": "蔚蓝档案攻略查询 - 指令格式：攻略查询 <攻略名称>",
@@ -13359,9 +13359,9 @@
     ],
     "pinned": true,
     "category": "效率工具",
-    "stars": 170,
+    "stars": 171,
     "version": "v3.19",
-    "updated_at": "2026-03-12T15:13:03Z"
+    "updated_at": "2026-03-13T08:13:12Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
@@ -14012,9 +14012,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "AI增强",
     "tags": [],
-    "stars": 197,
+    "stars": 198,
     "version": "v2.1.0",
-    "updated_at": "2026-03-12T19:29:21Z"
+    "updated_at": "2026-03-13T08:11:59Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
