@@ -49,8 +49,8 @@
     ],
     "social_link": "https://github.com/GamerNoTitle",
     "stars": 1,
-    "version": "v1.1.0",
-    "updated_at": "2026-03-11T10:57:35Z",
+    "version": "v1.1.2",
+    "updated_at": "2026-03-13T10:54:42Z",
     "logo": "https://raw.githubusercontent.com/GamerNoTitle/astrbot_plugin_pairit/master/logo.png"
   },
   "astrbot-plugin-qqfarm": {
@@ -410,7 +410,7 @@
     "tags": [],
     "stars": 17,
     "version": "5.2.0",
-    "updated_at": "2026-03-13T09:23:09Z"
+    "updated_at": "2026-03-13T11:31:37Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -456,8 +456,8 @@
     ],
     "social_link": "https://github.com/RichardLiuda",
     "stars": 3,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-13T08:53:49Z",
+    "version": "v1.1.0",
+    "updated_at": "2026-03-13T11:26:21Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_oyasumi/master/logo.png"
   },
   "astrbot-plugin-LivelyState": {
@@ -471,7 +471,7 @@
     ],
     "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-03-12T08:13:52Z"
+    "updated_at": "2026-03-13T11:09:01Z"
   },
   "astrbot-plugin-memory": {
     "display_name": "astrbot_plugin_memory",
@@ -629,7 +629,7 @@
     "social_link": "https://github.com/RichardLiuda",
     "stars": 6,
     "version": "v1.2.1",
-    "updated_at": "2026-03-13T09:23:39Z",
+    "updated_at": "2026-03-13T11:25:42Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -12464,7 +12464,7 @@
     "category": "AI增强",
     "stars": 62,
     "version": "v3.1.0",
-    "updated_at": "2026-03-13T00:25:40Z",
+    "updated_at": "2026-03-13T10:58:31Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
