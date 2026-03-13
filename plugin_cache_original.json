@@ -22,8 +22,8 @@
     ],
     "social_link": "https://github.com/jiantoucn",
     "stars": 0,
-    "version": "v1.7.3",
-    "updated_at": "2026-03-13T02:18:39Z",
+    "version": "v1.7.4",
+    "updated_at": "2026-03-13T06:05:24Z",
     "logo": "https://raw.githubusercontent.com/jiantoucn/astrbot_plugin_weibo_monitor/main/logo.png"
   },
   "astrbot-plugin-content-safety-guard": {
@@ -76,9 +76,9 @@
     "tags": [
       "音频"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v2.0",
-    "updated_at": "2026-03-13T02:30:11Z",
+    "updated_at": "2026-03-13T06:44:07Z",
     "logo": "https://raw.githubusercontent.com/Lidure/astrbot_plugin_airi_voice/master/logo.png"
   },
   "astrbot-plugin-tk-tracker": {
@@ -410,7 +410,7 @@
     "tags": [],
     "stars": 17,
     "version": "5.2.0",
-    "updated_at": "2026-03-13T05:40:19Z"
+    "updated_at": "2026-03-13T06:39:59Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -2633,9 +2633,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "AI增强",
-    "stars": 24,
+    "stars": 25,
     "version": "2.2.3",
-    "updated_at": "2026-03-06T16:39:04Z",
+    "updated_at": "2026-03-13T06:18:53Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_worldbook/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -2916,9 +2916,9 @@
     ],
     "social_link": "https://qwq.pyuramazo.online",
     "category": "娱乐游戏",
-    "stars": 11,
+    "stars": 13,
     "version": "v1.7.4",
-    "updated_at": "2026-03-12T05:43:04Z",
+    "updated_at": "2026-03-13T06:31:12Z",
     "logo": "https://raw.githubusercontent.com/PyuraMazo/astrbot_plugin_galgame_box/master/logo.png"
   },
   "astrbot_plugin_anitabi": {
@@ -3283,9 +3283,9 @@
     ],
     "social_link": "https://github.com/NickWoluff",
     "category": "外部集成",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-02-18T15:50:11Z",
+    "updated_at": "2026-03-13T05:58:11Z",
     "logo": "https://raw.githubusercontent.com/NickWoluff/astrbot_plugin_smart_quote/master/logo.png"
   },
   "Railgun19457/astrbot_plugin_image_generation": {
@@ -3426,7 +3426,7 @@
     "category": "知识学习",
     "stars": 186,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-12T17:58:15Z",
+    "updated_at": "2026-03-13T06:29:48Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -4104,9 +4104,9 @@
     ],
     "social_link": "https://github.com/MegSopern",
     "category": "娱乐游戏",
-    "stars": 23,
+    "stars": 24,
     "version": "1.2.0",
-    "updated_at": "2026-03-09T11:00:08Z",
+    "updated_at": "2026-03-13T06:16:39Z",
     "logo": "https://raw.githubusercontent.com/MegSopern/astrbot_plugin_rollpig/main/logo.png"
   },
   "astrbot_plugin_big_banana": {
@@ -4502,9 +4502,9 @@
     ],
     "social_link": "https://github.com/Yue-bin",
     "category": "AI增强",
-    "stars": 9,
+    "stars": 10,
     "version": "v0.0.1",
-    "updated_at": "2026-03-05T08:02:12Z"
+    "updated_at": "2026-03-13T06:16:27Z"
   },
   "astrbot_plugin_plugins_summary": {
     "display_name": "插件目录查询",
@@ -4746,9 +4746,9 @@
       "表情"
     ],
     "category": "AI增强",
-    "stars": 28,
+    "stars": 29,
     "version": "2.4.1",
-    "updated_at": "2026-03-13T01:40:46Z",
+    "updated_at": "2026-03-13T05:55:02Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -7818,9 +7818,9 @@
       "PRTS"
     ],
     "category": "外部集成",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.1",
-    "updated_at": "2026-03-09T14:50:58Z"
+    "updated_at": "2026-03-13T06:08:56Z"
   },
   "astrbot_plugin_move3d": {
     "desc": "将用户引用的图片转换为简笔画风格裸眼3D图的 AstrBot 插件。",
@@ -10804,9 +10804,9 @@
       "知识库"
     ],
     "category": "AI增强",
-    "stars": 83,
+    "stars": 84,
     "version": "v0.5.9",
-    "updated_at": "2026-03-13T05:04:11Z"
+    "updated_at": "2026-03-13T06:05:39Z"
   },
   "astrbot_uptime_kuma_webhook_plugin": {
     "author": "RC-CHN",
