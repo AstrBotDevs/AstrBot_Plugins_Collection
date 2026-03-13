@@ -235,8 +235,8 @@
     "repo": "https://github.com/674537331/astrbot_plugin_mihome",
     "tags": [],
     "stars": 3,
-    "version": "v6.4.0",
-    "updated_at": "2026-03-12T16:22:40Z",
+    "version": "v6.4.1",
+    "updated_at": "2026-03-13T09:59:22Z",
     "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_mihome/main/logo.png"
   },
   "astrbot-plugin-nai-brush": {
@@ -1006,9 +1006,9 @@
     ],
     "social_link": "https://github.com/leafliber",
     "category": "AI增强",
-    "stars": 14,
+    "stars": 15,
     "version": "v1.10.5",
-    "updated_at": "2026-03-13T05:15:24Z",
+    "updated_at": "2026-03-13T10:34:02Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -2436,7 +2436,7 @@
     "category": "娱乐游戏",
     "stars": 9,
     "version": "v1.1.0",
-    "updated_at": "2026-03-08T11:41:49Z"
+    "updated_at": "2026-03-13T10:12:03Z"
   },
   "astrbot_plugin_tomin": {
     "display_name": "Tomin - 少女乐队游戏",
@@ -2775,8 +2775,8 @@
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
     "stars": 211,
-    "version": "v4.8.7",
-    "updated_at": "2026-03-13T09:35:50Z",
+    "version": "v4.8.8",
+    "updated_at": "2026-03-13T09:59:08Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -3424,9 +3424,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 186,
+    "stars": 187,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-13T06:29:48Z",
+    "updated_at": "2026-03-13T10:32:16Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -3528,9 +3528,9 @@
     ],
     "social_link": "https://github.com/Huahuatgc",
     "category": "生活实用",
-    "stars": 9,
-    "version": "1.2.0",
-    "updated_at": "2026-03-11T05:56:13Z"
+    "stars": 10,
+    "version": "1.2.1",
+    "updated_at": "2026-03-13T10:27:05Z"
   },
   "astrbot_plugin_matrix_adapter": {
     "display_name": "Matrix 协议适配器",
@@ -4210,9 +4210,9 @@
       "群聊优化"
     ],
     "category": "外部集成",
-    "stars": 43,
+    "stars": 44,
     "version": "0.8.18",
-    "updated_at": "2026-03-12T17:56:35Z",
+    "updated_at": "2026-03-13T09:50:11Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -9709,9 +9709,9 @@
     "repo": "https://github.com/timetetng/astrbot_plugin_ip_proxy",
     "category": "外部集成",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.6",
-    "updated_at": "2026-03-10T04:32:19Z"
+    "updated_at": "2026-03-13T09:43:48Z"
   },
   "astrbot_plugin_cmd_console": {
     "desc": "提供 WebUI 的指令管理面板，可以启用/禁用插件的指令。",
@@ -12242,9 +12242,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
     "category": "效率工具",
-    "stars": 32,
+    "stars": 33,
     "version": "v2.0.0",
-    "updated_at": "2026-03-10T03:55:14Z",
+    "updated_at": "2026-03-13T10:36:42Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_browser/main/logo.png"
   },
   "astrbot_plugin_qqadmin": {
