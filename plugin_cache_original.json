@@ -210,9 +210,9 @@
       "工具调用"
     ],
     "social_link": "https://github.com/FlanChanXwO",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.2",
-    "updated_at": "2026-03-11T03:58:30Z",
+    "updated_at": "2026-03-13T14:46:48Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_status/master/logo.png"
   },
   "astrbot-plugin-adsb-monitor": {
@@ -410,7 +410,7 @@
     "tags": [],
     "stars": 18,
     "version": "5.5.0",
-    "updated_at": "2026-03-13T14:41:06Z"
+    "updated_at": "2026-03-13T15:23:58Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -1006,9 +1006,9 @@
     ],
     "social_link": "https://github.com/leafliber",
     "category": "AI增强",
-    "stars": 15,
-    "version": "v1.10.6",
-    "updated_at": "2026-03-13T14:33:23Z",
+    "stars": 16,
+    "version": "v1.11.0",
+    "updated_at": "2026-03-13T14:53:30Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -1049,8 +1049,8 @@
     "social_link": "",
     "category": "娱乐游戏",
     "stars": 4,
-    "version": "v0.1.4",
-    "updated_at": "2026-03-09T14:36:11Z",
+    "version": "v0.1.5",
+    "updated_at": "2026-03-13T15:41:49Z",
     "logo": "https://raw.githubusercontent.com/moemoli/astrbot_plugin_warframe_helper/master/logo.png"
   },
   "astrbot-plugin-trello": {
@@ -1161,8 +1161,8 @@
     "social_link": "https://github.com/PyuraMazo",
     "category": "AI增强",
     "stars": 2,
-    "version": "v1.3.2",
-    "updated_at": "2026-03-12T15:20:49Z"
+    "version": "v1.4.0",
+    "updated_at": "2026-03-13T14:48:21Z"
   },
   "astrbot-plugin-iamthinking": {
     "display_name": "别吵我在思考",
@@ -3426,7 +3426,7 @@
     "category": "知识学习",
     "stars": 187,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-13T10:32:16Z",
+    "updated_at": "2026-03-13T15:37:38Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -5595,9 +5595,9 @@
     "repo": "https://github.com/GuJi08233/astrbot_plugin_val_shop",
     "category": "效率工具",
     "tags": [],
-    "stars": 9,
+    "stars": 10,
     "version": "v3.2.6",
-    "updated_at": "2026-03-11T03:57:45Z"
+    "updated_at": "2026-03-13T15:41:00Z"
   },
   "astrbot_plugin_doubao": {
     "display_name": "豆包即梦生成",
@@ -5787,9 +5787,9 @@
     ],
     "social_link": "https://github.com/SinkAbyss",
     "category": "效率工具",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.1.6",
-    "updated_at": "2026-01-25T06:47:15Z"
+    "updated_at": "2026-03-13T15:40:56Z"
   },
   "astrbot_plugin_Furimg_Cloud": {
     "display_name": "兽云祭(兽兽图片/图鉴)",
@@ -5834,8 +5834,8 @@
     ],
     "category": "效率工具",
     "stars": 23,
-    "version": "v4.3.3",
-    "updated_at": "2026-03-07T08:13:47Z",
+    "version": "v5.0.0",
+    "updated_at": "2026-03-13T15:22:35Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -9004,9 +9004,9 @@
       "增强"
     ],
     "category": "AI增强",
-    "stars": 17,
+    "stars": 18,
     "version": "3.0.2",
-    "updated_at": "2026-02-18T19:52:42Z",
+    "updated_at": "2026-03-13T14:46:52Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrabot_plugin_retry/main/logo.png"
   },
   "astrbot_plugin_Group-Verification_PRO": {
@@ -10063,9 +10063,9 @@
     ],
     "social_link": "https://github.com/lxfight",
     "category": "效率工具",
-    "stars": 26,
+    "stars": 27,
     "version": "0.1.0",
-    "updated_at": "2026-03-02T12:44:28Z"
+    "updated_at": "2026-03-13T15:12:45Z"
   },
   "astrbot_plugin_textadventure": {
     "author": "LumineStory",
@@ -12257,9 +12257,9 @@
       "QQ群管"
     ],
     "category": "效率工具",
-    "stars": 99,
+    "stars": 101,
     "version": "v3.2.7",
-    "updated_at": "2026-03-12T08:49:30Z",
+    "updated_at": "2026-03-13T15:38:42Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -13313,9 +13313,9 @@
       "搬史"
     ],
     "category": "外部集成",
-    "stars": 522,
+    "stars": 523,
     "version": "v0.916",
-    "updated_at": "2026-03-13T00:39:44Z"
+    "updated_at": "2026-03-13T14:54:01Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
@@ -13359,9 +13359,9 @@
     ],
     "pinned": true,
     "category": "效率工具",
-    "stars": 171,
+    "stars": 172,
     "version": "v3.19",
-    "updated_at": "2026-03-13T08:13:12Z"
+    "updated_at": "2026-03-13T14:59:46Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
