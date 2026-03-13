@@ -2092,7 +2092,7 @@
     "category": "外部集成",
     "stars": 9,
     "version": "v1.1.0",
-    "updated_at": "2026-03-13T09:23:33Z",
+    "updated_at": "2026-03-13T21:50:04Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_grok_web_search/master/logo.png"
   },
   "astrbot_plugin_fake_ai_watermark": {
@@ -5313,7 +5313,7 @@
     "category": "AI增强",
     "stars": 28,
     "version": "v1.9.6",
-    "updated_at": "2026-03-09T05:11:29Z",
+    "updated_at": "2026-03-13T21:48:10Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -5637,7 +5637,7 @@
     "category": "AI增强",
     "stars": 6,
     "version": "1.2.6",
-    "updated_at": "2026-02-24T12:33:58Z",
+    "updated_at": "2026-03-13T21:53:03Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_rg2/master/logo.png"
   },
   "astrbot_plugin_maimaidx": {
@@ -13359,9 +13359,9 @@
     ],
     "pinned": true,
     "category": "效率工具",
-    "stars": 175,
+    "stars": 176,
     "version": "v3.19",
-    "updated_at": "2026-03-13T18:41:24Z"
+    "updated_at": "2026-03-13T22:27:06Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
