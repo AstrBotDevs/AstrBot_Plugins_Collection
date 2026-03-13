@@ -78,7 +78,7 @@
     ],
     "stars": 2,
     "version": "v2.0",
-    "updated_at": "2026-03-13T07:34:45Z",
+    "updated_at": "2026-03-13T08:18:31Z",
     "logo": "https://raw.githubusercontent.com/Lidure/astrbot_plugin_airi_voice/master/logo.png"
   },
   "astrbot-plugin-tk-tracker": {
@@ -410,7 +410,7 @@
     "tags": [],
     "stars": 17,
     "version": "5.2.0",
-    "updated_at": "2026-03-13T06:39:59Z"
+    "updated_at": "2026-03-13T08:38:59Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -457,7 +457,7 @@
     "social_link": "https://github.com/RichardLiuda",
     "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-03-13T01:54:46Z",
+    "updated_at": "2026-03-13T08:21:58Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_oyasumi/master/logo.png"
   },
   "astrbot-plugin-LivelyState": {
