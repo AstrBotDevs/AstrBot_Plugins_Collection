@@ -77,8 +77,8 @@
       "音频"
     ],
     "stars": 1,
-    "version": "v1.5",
-    "updated_at": "2026-03-11T08:51:20Z",
+    "version": "v2.0",
+    "updated_at": "2026-03-13T02:08:23Z",
     "logo": "https://raw.githubusercontent.com/Lidure/astrbot_plugin_airi_voice/master/logo.png"
   },
   "astrbot-plugin-tk-tracker": {
@@ -184,9 +184,9 @@
       "提醒",
       "监控"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.1.3",
-    "updated_at": "2026-03-09T08:23:25Z",
+    "updated_at": "2026-03-13T01:51:36Z",
     "logo": "https://raw.githubusercontent.com/gangcaiyoule/astrbot_plugin_mail_notify/master/logo.png"
   },
   "astrbot-plugin-Xagent-searcher": {
@@ -410,7 +410,7 @@
     "tags": [],
     "stars": 17,
     "version": "5.1.1",
-    "updated_at": "2026-03-12T14:34:00Z"
+    "updated_at": "2026-03-13T00:58:13Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -419,9 +419,9 @@
     "repo": "https://github.com/zhongyu0306/MyAstrBot",
     "social_link": "QQ群：1071693895",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "0.1.0",
-    "updated_at": "2026-03-10T12:55:22Z"
+    "updated_at": "2026-03-13T01:51:50Z"
   },
   "astrbot-plugin-local-reminiscence": {
     "display_name": "本地回忆[APLR]",
@@ -456,8 +456,8 @@
     ],
     "social_link": "https://github.com/RichardLiuda",
     "stars": 3,
-    "version": "v0.1.3",
-    "updated_at": "2026-03-11T01:50:39Z",
+    "version": "v1.0.0",
+    "updated_at": "2026-03-13T01:54:46Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_oyasumi/master/logo.png"
   },
   "astrbot-plugin-LivelyState": {
@@ -577,9 +577,9 @@
       "github"
     ],
     "social_link": "https://github.com/aliveriver",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.0",
-    "updated_at": "2026-03-06T06:14:28Z",
+    "updated_at": "2026-03-13T01:58:22Z",
     "logo": "https://raw.githubusercontent.com/aliveriver/astrbot_plugin_listen_github/master/logo.png"
   },
   "astrbot-plugin-bazaar": {
@@ -1371,9 +1371,9 @@
     "social_link": "www.chuyel.cn",
     "category": "外部集成",
     "tags": [],
-    "stars": 10,
+    "stars": 11,
     "version": "v1.0.8",
-    "updated_at": "2026-03-09T14:56:01Z",
+    "updated_at": "2026-03-13T01:53:12Z",
     "logo": "https://raw.githubusercontent.com/chuyegzs/astrbot_plugin_meting/main/logo.png"
   },
   "astrbot-plugin-comfyui": {
@@ -1853,9 +1853,9 @@
       "codegen"
     ],
     "category": "AI增强",
-    "stars": 30,
+    "stars": 31,
     "version": "1.1.1",
-    "updated_at": "2026-03-11T11:49:12Z",
+    "updated_at": "2026-03-13T01:41:00Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -2150,9 +2150,9 @@
     ],
     "social_link": "https://github.com/YukiRa1n",
     "category": "AI增强",
-    "stars": 4,
+    "stars": 5,
     "version": "v2.1.0",
-    "updated_at": "2026-03-05T16:39:46Z"
+    "updated_at": "2026-03-13T01:41:41Z"
   },
   "astrbot_plugin_sudoku": {
     "display_name": "数独游戏",
@@ -2224,9 +2224,9 @@
     ],
     "social_link": "https://meilunova.pages.dev/",
     "category": "外部集成",
-    "stars": 10,
+    "stars": 11,
     "version": "0.6.0",
-    "updated_at": "2026-03-05T00:35:09Z",
+    "updated_at": "2026-03-13T01:14:35Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -2774,9 +2774,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
-    "stars": 209,
+    "stars": 210,
     "version": "v4.8.7",
-    "updated_at": "2026-03-12T10:47:29Z",
+    "updated_at": "2026-03-13T00:39:54Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -4746,9 +4746,9 @@
       "表情"
     ],
     "category": "AI增强",
-    "stars": 27,
+    "stars": 28,
     "version": "2.4.1",
-    "updated_at": "2026-03-11T09:38:47Z",
+    "updated_at": "2026-03-13T01:40:46Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -10503,9 +10503,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "娱乐游戏",
-    "stars": 58,
+    "stars": 59,
     "version": "2.2.0",
-    "updated_at": "2026-03-10T13:02:12Z",
+    "updated_at": "2026-03-13T01:41:46Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -11548,8 +11548,8 @@
     ],
     "category": "娱乐游戏",
     "stars": 10,
-    "version": "v1.8.5",
-    "updated_at": "2026-02-10T06:10:41Z",
+    "version": "v1.8.6",
+    "updated_at": "2026-03-13T00:58:12Z",
     "logo": "https://raw.githubusercontent.com/kterna/astrbot_plugin_mcqq/main/logo.png"
   },
   "astrbot_plugin_Group-Verification": {
@@ -12462,9 +12462,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
     "category": "AI增强",
-    "stars": 61,
+    "stars": 62,
     "version": "v3.1.0",
-    "updated_at": "2026-03-09T06:24:29Z",
+    "updated_at": "2026-03-13T00:25:40Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
@@ -13313,9 +13313,9 @@
       "搬史"
     ],
     "category": "外部集成",
-    "stars": 521,
+    "stars": 522,
     "version": "v0.916",
-    "updated_at": "2026-03-12T17:58:12Z"
+    "updated_at": "2026-03-13T00:39:44Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
@@ -13589,9 +13589,9 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_essential",
     "category": "娱乐游戏",
     "tags": [],
-    "stars": 42,
+    "stars": 43,
     "version": "v1.1.0",
-    "updated_at": "2026-03-10T16:41:49Z"
+    "updated_at": "2026-03-13T00:40:45Z"
   },
   "astrbot_plugin_rss": {
     "desc": "支持通过 RSSHub 路由和直接 URL 订阅 RSS 源，并定时获取最新的 RSS 内容，如推特、B站、油管、博客等任何支持 RSS 2.0 的网站。",
