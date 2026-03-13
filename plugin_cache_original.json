@@ -78,7 +78,7 @@
     ],
     "stars": 2,
     "version": "v2.0",
-    "updated_at": "2026-03-13T06:44:07Z",
+    "updated_at": "2026-03-13T07:34:45Z",
     "logo": "https://raw.githubusercontent.com/Lidure/astrbot_plugin_airi_voice/master/logo.png"
   },
   "astrbot-plugin-tk-tracker": {
@@ -628,8 +628,8 @@
     ],
     "social_link": "https://github.com/RichardLiuda",
     "stars": 6,
-    "version": "v1.2.0",
-    "updated_at": "2026-03-12T17:41:13Z",
+    "version": "v1.2.1",
+    "updated_at": "2026-03-13T07:15:18Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -656,9 +656,9 @@
       "陪伴"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 17,
+    "stars": 18,
     "version": "2.5.3",
-    "updated_at": "2026-03-12T16:30:33Z",
+    "updated_at": "2026-03-13T07:01:03Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -975,9 +975,9 @@
     "social_link": "https://github.com/storyAura",
     "category": "生活实用",
     "tags": [],
-    "stars": 12,
+    "stars": 13,
     "version": "v1.0.2",
-    "updated_at": "2026-03-12T03:21:57Z",
+    "updated_at": "2026-03-13T06:59:36Z",
     "logo": "https://raw.githubusercontent.com/storyAura/astrbot_plugin_biliVideo/main/logo.png"
   },
   "astrbot-plugin-opencode-client": {
@@ -1658,9 +1658,9 @@
     "social_link": "https://github.com/Radiant303",
     "category": "外部集成",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-02-16T02:21:20Z",
+    "updated_at": "2026-03-13T07:46:24Z",
     "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_nbalance/master/logo.png"
   },
   "astrbot_plugin_lingbao_market": {
@@ -6271,7 +6271,7 @@
     "category": "AI增强",
     "stars": 60,
     "version": "v1.2.0",
-    "updated_at": "2026-03-12T11:58:43Z",
+    "updated_at": "2026-03-13T07:21:54Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -6567,9 +6567,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "AI增强",
-    "stars": 120,
+    "stars": 121,
     "version": "v1.1.5",
-    "updated_at": "2026-03-12T21:58:07Z",
+    "updated_at": "2026-03-13T07:43:17Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -11494,9 +11494,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "外部集成",
-    "stars": 185,
+    "stars": 186,
     "version": "v3.0.3",
-    "updated_at": "2026-03-13T05:35:56Z",
+    "updated_at": "2026-03-13T07:13:08Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -12808,9 +12808,9 @@
       "nsfw"
     ],
     "category": "外部集成",
-    "stars": 13,
+    "stars": 14,
     "version": "v1.3",
-    "updated_at": "2026-03-01T06:06:27Z"
+    "updated_at": "2026-03-13T07:03:01Z"
   },
   "astrbot_plugin_Translation": {
     "desc": "通过调用百度翻译 API 接口实现翻译文本",
