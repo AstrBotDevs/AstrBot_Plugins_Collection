@@ -1,4 +1,20 @@
 {
+  "astrbot-plugin-leetcode": {
+    "display_name": "Leetcode每日一题",
+    "desc": "LeetCode 每日一题提醒插件，定时推送每日一题",
+    "author": "NumInvis",
+    "repo": "https://github.com/NumInvis/astrbot_plugin_leetcode",
+    "tags": [
+      "代码",
+      "编程",
+      "每日",
+      "leetcode"
+    ],
+    "social_link": "https://github.com/NumInvis",
+    "stars": 1,
+    "version": "1.0.0",
+    "updated_at": "2026-03-13T18:33:56Z"
+  },
   "astrbot-plugin-yunzhijia-adapter": {
     "display_name": "云之家/Yunzhijia/Cloud Hub 适配器",
     "desc": "AstrBot 云之家平台适配器插件。",
@@ -21,9 +37,9 @@
       "定时"
     ],
     "social_link": "https://github.com/jiantoucn",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.8.1",
-    "updated_at": "2026-03-14T08:34:24Z",
+    "updated_at": "2026-03-14T12:57:08Z",
     "logo": "https://raw.githubusercontent.com/jiantoucn/astrbot_plugin_weibo_monitor/main/logo.png"
   },
   "astrbot-plugin-content-safety-guard": {
@@ -170,9 +186,9 @@
     "tags": [
       "英雄联盟"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-03-12T11:45:38Z"
+    "updated_at": "2026-03-14T13:44:06Z"
   },
   "astrbot-plugin-mail-notify": {
     "display_name": "📬 邮件通知",
@@ -235,8 +251,8 @@
     "repo": "https://github.com/674537331/astrbot_plugin_mihome",
     "tags": [],
     "stars": 6,
-    "version": "v7.0.0",
-    "updated_at": "2026-03-14T12:45:22Z",
+    "version": "v7.0.1",
+    "updated_at": "2026-03-14T13:25:38Z",
     "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_mihome/main/logo.png"
   },
   "astrbot-plugin-nai-brush": {
