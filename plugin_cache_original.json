@@ -13,7 +13,8 @@
     "social_link": "https://github.com/NumInvis",
     "stars": 1,
     "version": "1.0.0",
-    "updated_at": "2026-03-13T18:33:56Z"
+    "updated_at": "2026-03-14T14:10:48Z",
+    "logo": "https://raw.githubusercontent.com/NumInvis/astrbot_plugin_leetcode/master/logo.png"
   },
   "astrbot-plugin-yunzhijia-adapter": {
     "display_name": "云之家/Yunzhijia/Cloud Hub 适配器",
@@ -347,9 +348,9 @@
       "userbot",
       "adapter"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "0.2.0",
-    "updated_at": "2026-03-14T12:02:58Z",
+    "updated_at": "2026-03-14T14:07:58Z",
     "logo": "https://raw.githubusercontent.com/outlook84/astrbot_plugin_telethon_adapter/main/logo.png"
   },
   "astrbot-plugin-githubapp-adapter": {
@@ -1618,9 +1619,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 57,
+    "stars": 58,
     "version": "v1.6.0",
-    "updated_at": "2026-03-14T12:34:11Z",
+    "updated_at": "2026-03-14T13:49:44Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -3396,9 +3397,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "AI增强",
-    "stars": 35,
+    "stars": 36,
     "version": "1.1.1",
-    "updated_at": "2026-03-14T09:05:01Z"
+    "updated_at": "2026-03-14T13:20:45Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -3782,7 +3783,7 @@
     "category": "效率工具",
     "stars": 3,
     "version": "1.0.0",
-    "updated_at": "2026-02-24T06:56:18Z"
+    "updated_at": "2026-03-14T13:23:15Z"
   },
   "astrbot_plugin_click2download": {
     "display_name": "链接下载",
@@ -4911,8 +4912,8 @@
     "social_link": "https://github.com/muyouzhi6",
     "category": "AI增强",
     "stars": 53,
-    "version": "v4.2.4",
-    "updated_at": "2026-03-14T12:53:27Z",
+    "version": "v4.2.6",
+    "updated_at": "2026-03-14T14:08:27Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -5074,9 +5075,9 @@
     ],
     "social_link": "https://space.bilibili.com/702922307",
     "category": "AI增强",
-    "stars": 6,
+    "stars": 7,
     "version": "0.0.4",
-    "updated_at": "2026-03-14T11:50:37Z"
+    "updated_at": "2026-03-14T13:04:24Z"
   },
   "astrbot_plugin_fox_status": {
     "display_name": "Fox 状态监控",
@@ -6584,9 +6585,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "AI增强",
-    "stars": 124,
+    "stars": 125,
     "version": "v1.1.5",
-    "updated_at": "2026-03-14T11:25:00Z",
+    "updated_at": "2026-03-14T13:39:42Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -7928,9 +7929,9 @@
     ],
     "social_link": "https://github.com/qa296/",
     "category": "AI增强",
-    "stars": 7,
+    "stars": 8,
     "version": "2.0.1",
-    "updated_at": "2026-03-13T14:16:41Z"
+    "updated_at": "2026-03-14T13:25:39Z"
   },
   "astrbot_plugin_anti_revoke": {
     "desc": "[仅 OneBot]监控指定群聊会话撤回的消息并发送给目标用户",
@@ -8079,9 +8080,9 @@
       "rag"
     ],
     "category": "AI增强",
-    "stars": 93,
+    "stars": 94,
     "version": "2.2.4",
-    "updated_at": "2026-03-14T09:21:16Z",
+    "updated_at": "2026-03-14T14:08:26Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -10174,9 +10175,9 @@
     ],
     "social_link": "https://github.com/oyxning",
     "category": "AI增强",
-    "stars": 50,
+    "stars": 51,
     "version": "v3.5.1",
-    "updated_at": "2026-03-13T17:27:56Z",
+    "updated_at": "2026-03-14T13:20:16Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_antipromptinjector/master/logo.png"
   },
   "astrbot_plugin_alistfile": {
@@ -11673,9 +11674,9 @@
     "repo": "https://github.com/XziXmn/astrbot_plugin_tarot",
     "category": "AI增强",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "v0.1.1",
-    "updated_at": "2026-02-23T14:15:31Z"
+    "updated_at": "2026-03-14T13:01:38Z"
   },
   "astrbot_plugin_a2s": {
     "author": "ZvZPvz",
@@ -13279,9 +13280,9 @@
       "图片"
     ],
     "category": "娱乐游戏",
-    "stars": 18,
+    "stars": 19,
     "version": "v1.8.7",
-    "updated_at": "2026-03-05T08:08:55Z"
+    "updated_at": "2026-03-14T13:08:57Z"
   },
   "astrbot_plugin_GGAC_Messenger": {
     "desc": "anka - GGAC 作品更新推送插件 - 自动监控并推送 GGAC 平台精选作品的更新! 附赠一套 GGAC 网站完整 api! 还有随机抽取 GGAC 内容功能, 详情见github页面!",
