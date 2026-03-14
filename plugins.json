@@ -1,4 +1,17 @@
 {
+  "astrbot-plugin-leetcode": {
+    "display_name": "Leetcode每日一题",
+    "desc": "LeetCode 每日一题提醒插件，定时推送每日一题",
+    "author": "NumInvis",
+    "repo": "https://github.com/NumInvis/astrbot_plugin_leetcode",
+    "tags": [
+      "代码",
+      "编程",
+      "每日",
+      "leetcode"
+    ],
+    "social_link": "https://github.com/NumInvis"
+  },
   "astrbot-plugin-yunzhijia-adapter": {
     "display_name": "云之家/Yunzhijia/Cloud Hub 适配器",
     "desc": "AstrBot 云之家平台适配器插件。",
