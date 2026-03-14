@@ -78,7 +78,7 @@
     ],
     "stars": 3,
     "version": "v2.1",
-    "updated_at": "2026-03-13T13:49:23Z",
+    "updated_at": "2026-03-14T00:42:01Z",
     "logo": "https://raw.githubusercontent.com/Lidure/astrbot_plugin_airi_voice/master/logo.png"
   },
   "astrbot-plugin-tk-tracker": {
@@ -234,9 +234,9 @@
     "author": "RyanVaderAn",
     "repo": "https://github.com/674537331/astrbot_plugin_mihome",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "v6.5.0",
-    "updated_at": "2026-03-13T19:05:11Z",
+    "updated_at": "2026-03-14T01:12:55Z",
     "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_mihome/main/logo.png"
   },
   "astrbot-plugin-nai-brush": {
@@ -333,7 +333,8 @@
     ],
     "stars": 1,
     "version": "0.1.3",
-    "updated_at": "2026-03-11T05:41:42Z"
+    "updated_at": "2026-03-14T01:44:33Z",
+    "logo": "https://raw.githubusercontent.com/outlook84/astrbot_plugin_telethon_adapter/main/logo.png"
   },
   "astrbot-plugin-githubapp-adapter": {
     "display_name": "GitHub 应用适配器",
@@ -408,9 +409,9 @@
     "repo": "https://github.com/Renyus/astrbot_plugin_self_evolution",
     "social_link": "https://github.com/Renyus",
     "tags": [],
-    "stars": 18,
+    "stars": 19,
     "version": "Release Ver1.0",
-    "updated_at": "2026-03-13T17:27:08Z"
+    "updated_at": "2026-03-14T00:05:38Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -3424,9 +3425,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 187,
+    "stars": 188,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-13T15:37:38Z",
+    "updated_at": "2026-03-14T00:15:11Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -4624,8 +4625,8 @@
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
     "stars": 70,
-    "version": "v1.4.0",
-    "updated_at": "2026-03-13T18:21:17Z",
+    "version": "v1.4.1",
+    "updated_at": "2026-03-14T01:18:47Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -6269,9 +6270,9 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "AI增强",
-    "stars": 60,
+    "stars": 61,
     "version": "v1.2.1-(hotfix-重推)",
-    "updated_at": "2026-03-13T16:16:48Z",
+    "updated_at": "2026-03-14T00:36:24Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -11152,9 +11153,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "AI增强",
-    "stars": 12,
+    "stars": 13,
     "version": "v1.0.2",
-    "updated_at": "2026-03-13T17:26:04Z",
+    "updated_at": "2026-03-14T01:18:34Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_notice/main/logo.png"
   },
   "astrbot_plugin_pokepro": {
@@ -11194,9 +11195,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "AI增强",
-    "stars": 12,
+    "stars": 13,
     "version": "v1.1.1",
-    "updated_at": "2026-03-13T17:30:22Z",
+    "updated_at": "2026-03-14T01:18:56Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_broadcast/main/logo.png"
   },
   "astrbot_plugin_nobot": {
