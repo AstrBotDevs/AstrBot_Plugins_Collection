@@ -21,9 +21,9 @@
       "定时"
     ],
     "social_link": "https://github.com/jiantoucn",
-    "stars": 0,
-    "version": "v1.8.0",
-    "updated_at": "2026-03-14T02:49:27Z",
+    "stars": 1,
+    "version": "v1.8.1",
+    "updated_at": "2026-03-14T08:34:24Z",
     "logo": "https://raw.githubusercontent.com/jiantoucn/astrbot_plugin_weibo_monitor/main/logo.png"
   },
   "astrbot-plugin-content-safety-guard": {
@@ -331,9 +331,9 @@
       "userbot",
       "adapter"
     ],
-    "stars": 1,
+    "stars": 0,
     "version": "0.1.3",
-    "updated_at": "2026-03-14T07:03:05Z",
+    "updated_at": "2026-03-14T08:31:14Z",
     "logo": "https://raw.githubusercontent.com/outlook84/astrbot_plugin_telethon_adapter/main/logo.png"
   },
   "astrbot-plugin-githubapp-adapter": {
@@ -411,7 +411,7 @@
     "tags": [],
     "stars": 21,
     "version": "Release Ver1.0.1",
-    "updated_at": "2026-03-14T07:25:08Z"
+    "updated_at": "2026-03-14T07:42:09Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -1050,8 +1050,8 @@
     "social_link": "",
     "category": "娱乐游戏",
     "stars": 4,
-    "version": "v0.2.0",
-    "updated_at": "2026-03-14T05:52:57Z",
+    "version": "v0.2.1",
+    "updated_at": "2026-03-14T07:55:47Z",
     "logo": "https://raw.githubusercontent.com/moemoli/astrbot_plugin_warframe_helper/master/logo.png"
   },
   "astrbot-plugin-trello": {
@@ -1261,7 +1261,7 @@
     "category": "外部集成",
     "stars": 5,
     "version": "v1.0.2",
-    "updated_at": "2026-03-11T06:20:10Z"
+    "updated_at": "2026-03-14T08:02:50Z"
   },
   "astrbot-plugin-halo-manager": {
     "display_name": "博客管理器",
@@ -1416,8 +1416,8 @@
     ],
     "category": "外部集成",
     "stars": 5,
-    "version": "v1.2.2",
-    "updated_at": "2026-03-12T05:39:00Z",
+    "version": "v1.2.3",
+    "updated_at": "2026-03-14T08:28:29Z",
     "logo": "https://raw.githubusercontent.com/qsc20001102/astrbot_plugin_jx3/main/logo.png"
   },
   "astrbot-plugin-zirunbi": {
@@ -3425,9 +3425,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 190,
+    "stars": 191,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-14T05:49:06Z",
+    "updated_at": "2026-03-14T08:36:38Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -3442,7 +3442,7 @@
     "category": "娱乐游戏",
     "stars": 3,
     "version": "v1.1.9",
-    "updated_at": "2026-03-09T03:36:56Z"
+    "updated_at": "2026-03-14T08:04:06Z"
   },
   "astrbot_plugin_help_typst": {
     "display_name": "插件菜单(typst 实现)",
@@ -5384,9 +5384,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "效率工具",
-    "stars": 91,
+    "stars": 92,
     "version": "v2.3.0",
-    "updated_at": "2026-03-12T17:49:20Z",
+    "updated_at": "2026-03-14T07:27:53Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -6163,9 +6163,9 @@
       "Blue Archive"
     ],
     "category": "生活实用",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.14",
-    "updated_at": "2025-12-21T18:14:41Z"
+    "updated_at": "2026-03-14T07:35:52Z"
   },
   "astrbot_plugin_mirage_tank": {
     "desc": "用于生成幻影坦克图片的插件，支持黑白和彩色两种模式",
@@ -8065,7 +8065,7 @@
     "category": "AI增强",
     "stars": 92,
     "version": "2.2.4",
-    "updated_at": "2026-03-13T17:29:37Z",
+    "updated_at": "2026-03-14T07:55:23Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -9637,9 +9637,9 @@
     ],
     "category": "AI增强",
     "author": null,
-    "stars": 32,
+    "stars": 33,
     "version": "2.6.0",
-    "updated_at": "2026-03-11T11:49:21Z"
+    "updated_at": "2026-03-14T06:52:18Z"
   },
   "astrbot_plugin_group_sign": {
     "name": "group_sign",
@@ -10418,9 +10418,9 @@
     "repo": "https://github.com/0d00-Ciallo-0721/astrbot_plugin_weakblacklist",
     "category": "外部集成",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.2",
-    "updated_at": "2025-11-13T15:33:13Z"
+    "updated_at": "2026-03-14T06:56:37Z"
   },
   "astrbot_plugin_message_bottle": {
     "author": "Flartiny",
@@ -12908,7 +12908,7 @@
     "category": "效率工具",
     "stars": 1,
     "version": "v1.0.9",
-    "updated_at": "2026-03-09T03:36:27Z"
+    "updated_at": "2026-03-14T08:02:59Z"
   },
   "astrbot_plugin_majsoul-master": {
     "desc": "一个雀魂多功能插件",
@@ -12985,9 +12985,9 @@
     ],
     "social_link": "https://github.com/miaoxutao123/",
     "category": "外部集成",
-    "stars": 69,
+    "stars": 70,
     "version": "v0.2.14",
-    "updated_at": "2026-03-13T13:44:15Z"
+    "updated_at": "2026-03-14T07:15:40Z"
   },
   "astrbot_plugin_sjzb": {
     "desc": "随机生成《绝地潜兵2》游戏中一组 4 个战备配置",
