@@ -660,9 +660,9 @@
       "传统文化",
       "游戏"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "2.1.5",
-    "updated_at": "2026-03-02T05:40:20Z"
+    "updated_at": "2026-03-14T15:36:09Z"
   },
   "astrbot-plugin-screen-companion": {
     "display_name": "我会一直看着你",
@@ -674,9 +674,9 @@
       "陪伴"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 21,
+    "stars": 22,
     "version": "2.5.4",
-    "updated_at": "2026-03-14T05:10:13Z",
+    "updated_at": "2026-03-14T15:52:40Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -3781,9 +3781,9 @@
       "文件"
     ],
     "category": "效率工具",
-    "stars": 3,
+    "stars": 4,
     "version": "1.0.0",
-    "updated_at": "2026-03-14T13:23:15Z"
+    "updated_at": "2026-03-14T16:30:11Z"
   },
   "astrbot_plugin_click2download": {
     "display_name": "链接下载",
@@ -4088,8 +4088,8 @@
     ],
     "category": "外部集成",
     "stars": 0,
-    "version": "v1.0",
-    "updated_at": "2026-01-30T17:07:42Z",
+    "version": "v1.0.1",
+    "updated_at": "2026-03-14T16:29:58Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_group_signin/master/logo.png"
   },
   "astrbot_plugin_furry_maopao": {
@@ -4137,9 +4137,9 @@
       "vertex_ai"
     ],
     "category": "AI增强",
-    "stars": 15,
+    "stars": 16,
     "version": "v0.1.9",
-    "updated_at": "2026-03-10T06:55:21Z",
+    "updated_at": "2026-03-14T16:29:12Z",
     "logo": "https://raw.githubusercontent.com/sukafon/astrbot_plugin_big_banana/main/logo.png"
   },
   "astrbot_plugin_BitTorrent": {
@@ -5188,8 +5188,8 @@
     ],
     "category": "外部集成",
     "stars": 3,
-    "version": "v1.3.2",
-    "updated_at": "2026-03-10T06:02:45Z",
+    "version": "v1.3.3",
+    "updated_at": "2026-03-14T16:06:13Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_video_analysis/master/logo.png"
   },
   "astrbot_plugin_image_generation": {
@@ -6132,9 +6132,9 @@
       "打卡"
     ],
     "category": "AI增强",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.2",
-    "updated_at": "2025-12-21T05:35:19Z",
+    "updated_at": "2026-03-14T15:44:10Z",
     "logo": "https://raw.githubusercontent.com/Dayanshifu/astrbot_plugin_dailyacmfortune/main/logo.png"
   },
   "astrbot_plugin_idgen": {
@@ -7041,9 +7041,9 @@
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
     "category": "AI增强",
-    "stars": 21,
+    "stars": 22,
     "version": "v3.1.3",
-    "updated_at": "2026-03-14T10:01:50Z",
+    "updated_at": "2026-03-14T16:14:21Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_Favour_Ultra/main/logo.png"
   },
   "astrbot_plugin_owcx": {
@@ -10619,9 +10619,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 117,
+    "stars": 118,
     "version": "v2.0.7",
-    "updated_at": "2026-03-14T02:19:50Z",
+    "updated_at": "2026-03-14T16:17:04Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -13377,9 +13377,9 @@
     ],
     "pinned": true,
     "category": "效率工具",
-    "stars": 180,
+    "stars": 181,
     "version": "v3.19",
-    "updated_at": "2026-03-14T15:07:18Z"
+    "updated_at": "2026-03-14T16:19:04Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
