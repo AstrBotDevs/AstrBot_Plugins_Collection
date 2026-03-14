@@ -646,8 +646,8 @@
     ],
     "social_link": "https://github.com/RichardLiuda",
     "stars": 8,
-    "version": "v1.2.3",
-    "updated_at": "2026-03-14T14:50:00Z",
+    "version": "v1.2.4",
+    "updated_at": "2026-03-14T20:19:33Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -1553,9 +1553,9 @@
       "转链"
     ],
     "category": "效率工具",
-    "stars": 7,
+    "stars": 8,
     "version": "1.0.3",
-    "updated_at": "2026-03-14T11:39:57Z",
+    "updated_at": "2026-03-14T19:38:21Z",
     "logo": "https://raw.githubusercontent.com/chufeng/astrbot_plugin_bili_resolver/main/logo.png"
   },
   "astrbot-plugin-inkfusion": {
@@ -4641,9 +4641,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 71,
+    "stars": 72,
     "version": "v1.4.1",
-    "updated_at": "2026-03-14T03:34:45Z",
+    "updated_at": "2026-03-14T19:39:30Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
