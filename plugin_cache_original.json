@@ -281,7 +281,7 @@
     ],
     "stars": 17,
     "version": "2.2.0",
-    "updated_at": "2026-03-14T04:31:57Z",
+    "updated_at": "2026-03-14T14:40:18Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -645,9 +645,9 @@
       "监控"
     ],
     "social_link": "https://github.com/RichardLiuda",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.2.3",
-    "updated_at": "2026-03-14T11:18:25Z",
+    "updated_at": "2026-03-14T14:50:00Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -690,9 +690,9 @@
       "骰宝"
     ],
     "social_link": "https://github.com/Akiyo-dayo",
-    "stars": 5,
+    "stars": 6,
     "version": "2.5.0",
-    "updated_at": "2026-03-14T11:16:45Z",
+    "updated_at": "2026-03-14T15:01:03Z",
     "logo": "https://raw.githubusercontent.com/Akiyo-dayo/astrbot_plugin_fishing/main/logo.png"
   },
   "astrbot-plugin-deobfuscation": {
@@ -3442,9 +3442,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 194,
+    "stars": 195,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-14T12:06:08Z",
+    "updated_at": "2026-03-14T14:40:39Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -4912,8 +4912,8 @@
     "social_link": "https://github.com/muyouzhi6",
     "category": "AI增强",
     "stars": 53,
-    "version": "v4.2.6",
-    "updated_at": "2026-03-14T14:08:27Z",
+    "version": "v4.2.10",
+    "updated_at": "2026-03-14T15:18:04Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -5297,8 +5297,8 @@
     ],
     "category": "效率工具",
     "stars": 2,
-    "version": "v1.2.2",
-    "updated_at": "2026-03-03T17:21:17Z",
+    "version": "v1.2.3",
+    "updated_at": "2026-03-14T14:41:08Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_openlistfile/master/logo.png"
   },
   "astrbot_plugin_gemini_image": {
@@ -6287,9 +6287,9 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "AI增强",
-    "stars": 61,
+    "stars": 63,
     "version": "v1.2.1-(hotfix-重推)",
-    "updated_at": "2026-03-14T00:36:24Z",
+    "updated_at": "2026-03-14T14:47:35Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -7915,9 +7915,9 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "category": "外部集成",
     "tags": [],
-    "stars": 47,
+    "stars": 48,
     "version": "v2.5.0",
-    "updated_at": "2026-03-12T11:39:30Z"
+    "updated_at": "2026-03-14T14:59:23Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -10822,9 +10822,9 @@
       "知识库"
     ],
     "category": "AI增强",
-    "stars": 84,
+    "stars": 85,
     "version": "v0.5.9",
-    "updated_at": "2026-03-13T06:05:39Z"
+    "updated_at": "2026-03-14T14:46:29Z"
   },
   "astrbot_uptime_kuma_webhook_plugin": {
     "author": "RC-CHN",
@@ -13377,9 +13377,9 @@
     ],
     "pinned": true,
     "category": "效率工具",
-    "stars": 178,
+    "stars": 180,
     "version": "v3.19",
-    "updated_at": "2026-03-14T12:30:47Z"
+    "updated_at": "2026-03-14T15:07:18Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
