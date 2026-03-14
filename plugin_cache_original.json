@@ -39,8 +39,8 @@
     ],
     "social_link": "https://github.com/jiantoucn",
     "stars": 2,
-    "version": "v1.8.1",
-    "updated_at": "2026-03-14T19:26:25Z",
+    "version": "v1.9.0",
+    "updated_at": "2026-03-14T20:36:56Z",
     "logo": "https://raw.githubusercontent.com/jiantoucn/astrbot_plugin_weibo_monitor/main/logo.png"
   },
   "astrbot-plugin-content-safety-guard": {
@@ -646,8 +646,8 @@
     ],
     "social_link": "https://github.com/RichardLiuda",
     "stars": 8,
-    "version": "v1.2.4",
-    "updated_at": "2026-03-14T20:19:33Z",
+    "version": "v1.2.5",
+    "updated_at": "2026-03-14T21:26:38Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
