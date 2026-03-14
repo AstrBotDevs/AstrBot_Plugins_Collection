@@ -236,7 +236,7 @@
     "tags": [],
     "stars": 5,
     "version": "v6.6.0",
-    "updated_at": "2026-03-14T04:37:45Z",
+    "updated_at": "2026-03-14T06:35:18Z",
     "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_mihome/main/logo.png"
   },
   "astrbot-plugin-nai-brush": {
@@ -1050,8 +1050,8 @@
     "social_link": "",
     "category": "娱乐游戏",
     "stars": 4,
-    "version": "v0.1.7",
-    "updated_at": "2026-03-14T05:41:10Z",
+    "version": "v0.2.0",
+    "updated_at": "2026-03-14T05:52:57Z",
     "logo": "https://raw.githubusercontent.com/moemoli/astrbot_plugin_warframe_helper/master/logo.png"
   },
   "astrbot-plugin-trello": {
@@ -1374,7 +1374,7 @@
     "tags": [],
     "stars": 11,
     "version": "v1.0.8",
-    "updated_at": "2026-03-13T01:53:12Z",
+    "updated_at": "2026-03-14T06:23:01Z",
     "logo": "https://raw.githubusercontent.com/chuyegzs/astrbot_plugin_meting/main/logo.png"
   },
   "astrbot-plugin-comfyui": {
@@ -3425,9 +3425,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 189,
+    "stars": 190,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-14T03:52:51Z",
+    "updated_at": "2026-03-14T05:49:06Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -6476,8 +6476,8 @@
     ],
     "category": "娱乐游戏",
     "stars": 6,
-    "version": "v1.0.5dev",
-    "updated_at": "2026-02-27T06:48:23Z",
+    "version": "v0.3.3",
+    "updated_at": "2026-03-14T06:39:03Z",
     "logo": "https://raw.githubusercontent.com/linjianyan0229/astrbot_plugin_monixiuxian/main/logo.png"
   },
   "astrbot_plugin_invitecount": {
@@ -11495,9 +11495,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "外部集成",
-    "stars": 187,
+    "stars": 188,
     "version": "v3.0.3",
-    "updated_at": "2026-03-14T05:32:24Z",
+    "updated_at": "2026-03-14T05:51:38Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
