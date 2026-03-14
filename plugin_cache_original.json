@@ -333,7 +333,7 @@
     ],
     "stars": 1,
     "version": "0.1.3",
-    "updated_at": "2026-03-14T05:44:34Z",
+    "updated_at": "2026-03-14T07:03:05Z",
     "logo": "https://raw.githubusercontent.com/outlook84/astrbot_plugin_telethon_adapter/main/logo.png"
   },
   "astrbot-plugin-githubapp-adapter": {
@@ -409,9 +409,9 @@
     "repo": "https://github.com/Renyus/astrbot_plugin_self_evolution",
     "social_link": "https://github.com/Renyus",
     "tags": [],
-    "stars": 20,
+    "stars": 21,
     "version": "Release Ver1.0.1",
-    "updated_at": "2026-03-14T05:45:27Z"
+    "updated_at": "2026-03-14T07:25:08Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -613,7 +613,7 @@
     "social_link": "https://github.com/xiaoruange39",
     "stars": 3,
     "version": "v1.0.3",
-    "updated_at": "2026-03-06T17:00:18Z",
+    "updated_at": "2026-03-14T07:25:39Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_epic_freegame/main/logo.png"
   },
   "astrbot-plugin-goofish-catcher": {
