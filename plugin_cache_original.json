@@ -127,9 +127,9 @@
     "tags": [
       "SHIT"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.1.7",
-    "updated_at": "2026-03-14T10:22:21Z"
+    "updated_at": "2026-03-14T11:10:02Z"
   },
   "astrbot-plugin-SteamLink": {
     "display_name": "Steam 游戏查找识别",
@@ -236,7 +236,7 @@
     "tags": [],
     "stars": 6,
     "version": "v6.6.0",
-    "updated_at": "2026-03-14T09:08:19Z",
+    "updated_at": "2026-03-14T11:10:06Z",
     "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_mihome/main/logo.png"
   },
   "astrbot-plugin-nai-brush": {
@@ -628,9 +628,9 @@
       "监控"
     ],
     "social_link": "https://github.com/RichardLiuda",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.2.3",
-    "updated_at": "2026-03-14T04:30:23Z",
+    "updated_at": "2026-03-14T11:18:25Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -673,9 +673,9 @@
       "骰宝"
     ],
     "social_link": "https://github.com/Akiyo-dayo",
-    "stars": 4,
+    "stars": 5,
     "version": "2.5.0",
-    "updated_at": "2026-03-11T05:51:06Z",
+    "updated_at": "2026-03-14T11:16:45Z",
     "logo": "https://raw.githubusercontent.com/Akiyo-dayo/astrbot_plugin_fishing/main/logo.png"
   },
   "astrbot-plugin-deobfuscation": {
@@ -1602,9 +1602,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 56,
+    "stars": 57,
     "version": "v1.6.0",
-    "updated_at": "2026-03-14T03:41:31Z",
+    "updated_at": "2026-03-14T10:53:33Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -6568,9 +6568,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "AI增强",
-    "stars": 122,
+    "stars": 124,
     "version": "v1.1.5",
-    "updated_at": "2026-03-13T12:56:57Z",
+    "updated_at": "2026-03-14T11:25:00Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -9554,9 +9554,9 @@
     ],
     "social_link": "https://github.com/oyxning",
     "category": "AI增强",
-    "stars": 11,
+    "stars": 12,
     "version": "v1.1.0",
-    "updated_at": "2026-02-02T03:04:50Z"
+    "updated_at": "2026-03-14T10:36:14Z"
   },
   "EmailNotixion": {
     "name": "EmailNotixion",
@@ -11328,7 +11328,7 @@
     "tags": [],
     "stars": 6,
     "version": "v1.7.4",
-    "updated_at": "2026-03-12T17:06:23Z",
+    "updated_at": "2026-03-14T11:11:35Z",
     "logo": "https://raw.githubusercontent.com/monbed/astrbot_plugin_animewifex/master/logo.png"
   },
   "astrbot_plugin_emojimix": {
@@ -11495,9 +11495,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "外部集成",
-    "stars": 188,
+    "stars": 189,
     "version": "v3.0.3",
-    "updated_at": "2026-03-14T05:51:38Z",
+    "updated_at": "2026-03-14T10:32:51Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -13314,9 +13314,9 @@
       "搬史"
     ],
     "category": "外部集成",
-    "stars": 523,
+    "stars": 524,
     "version": "v0.916",
-    "updated_at": "2026-03-13T14:54:01Z"
+    "updated_at": "2026-03-14T10:32:21Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
@@ -14013,9 +14013,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "AI增强",
     "tags": [],
-    "stars": 200,
+    "stars": 201,
     "version": "v2.1.0",
-    "updated_at": "2026-03-14T04:04:26Z"
+    "updated_at": "2026-03-14T10:33:06Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
