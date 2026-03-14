@@ -145,8 +145,8 @@
       "SHIT"
     ],
     "stars": 3,
-    "version": "v1.1.7",
-    "updated_at": "2026-03-14T11:10:02Z"
+    "version": "v1.2.0",
+    "updated_at": "2026-03-14T21:39:46Z"
   },
   "astrbot-plugin-SteamLink": {
     "display_name": "Steam 游戏查找识别",
@@ -647,7 +647,7 @@
     "social_link": "https://github.com/RichardLiuda",
     "stars": 8,
     "version": "v1.2.5",
-    "updated_at": "2026-03-14T21:26:38Z",
+    "updated_at": "2026-03-14T21:35:32Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
