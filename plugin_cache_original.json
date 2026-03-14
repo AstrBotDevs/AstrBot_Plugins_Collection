@@ -127,9 +127,9 @@
     "tags": [
       "SHIT"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.1.7",
-    "updated_at": "2026-03-12T20:38:21Z"
+    "updated_at": "2026-03-14T10:22:21Z"
   },
   "astrbot-plugin-SteamLink": {
     "display_name": "Steam 游戏查找识别",
@@ -195,9 +195,9 @@
     "author": "B2347",
     "repo": "https://github.com/NorNeko/astrbot_plugin_Xagent_searcher",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "v0.0.3",
-    "updated_at": "2026-03-13T03:12:32Z",
+    "updated_at": "2026-03-14T10:19:55Z",
     "logo": "https://raw.githubusercontent.com/NorNeko/astrbot_plugin_Xagent_searcher/main/logo.png"
   },
   "astrbot-plugin-status": {
@@ -1051,7 +1051,7 @@
     "category": "娱乐游戏",
     "stars": 4,
     "version": "v0.2.1",
-    "updated_at": "2026-03-14T07:55:47Z",
+    "updated_at": "2026-03-14T09:37:44Z",
     "logo": "https://raw.githubusercontent.com/moemoli/astrbot_plugin_warframe_helper/master/logo.png"
   },
   "astrbot-plugin-trello": {
@@ -1725,9 +1725,9 @@
     ],
     "social_link": "https://github.com/lxfight",
     "category": "外部集成",
-    "stars": 5,
+    "stars": 6,
     "version": "1.2.0",
-    "updated_at": "2026-03-13T14:25:33Z"
+    "updated_at": "2026-03-14T10:08:11Z"
   },
   "astrbot_plugin_telegram_summary": {
     "name": "",
@@ -4804,7 +4804,7 @@
     "category": "生活实用",
     "stars": 42,
     "version": "v1.4.0",
-    "updated_at": "2026-03-14T09:04:24Z",
+    "updated_at": "2026-03-14T09:42:54Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -7024,9 +7024,9 @@
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
     "category": "AI增强",
-    "stars": 20,
+    "stars": 21,
     "version": "v3.1.3",
-    "updated_at": "2026-03-13T18:12:00Z",
+    "updated_at": "2026-03-14T10:01:50Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_Favour_Ultra/main/logo.png"
   },
   "astrbot_plugin_owcx": {
