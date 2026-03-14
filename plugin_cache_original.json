@@ -279,9 +279,9 @@
       "终末地",
       "数据查询"
     ],
-    "stars": 17,
+    "stars": 18,
     "version": "2.2.0",
-    "updated_at": "2026-03-14T14:40:18Z",
+    "updated_at": "2026-03-14T16:59:47Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -1619,9 +1619,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 58,
+    "stars": 59,
     "version": "v1.6.0",
-    "updated_at": "2026-03-14T13:49:44Z",
+    "updated_at": "2026-03-14T16:42:34Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -3442,9 +3442,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 195,
+    "stars": 196,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-14T14:40:39Z",
+    "updated_at": "2026-03-14T16:50:20Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -3529,9 +3529,9 @@
     ],
     "social_link": "https://github.com/Clhikari",
     "category": "AI增强",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.2.5",
-    "updated_at": "2026-03-14T09:32:34Z",
+    "updated_at": "2026-03-14T17:17:21Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -8080,9 +8080,9 @@
       "rag"
     ],
     "category": "AI增强",
-    "stars": 94,
+    "stars": 95,
     "version": "2.2.4",
-    "updated_at": "2026-03-14T14:08:26Z",
+    "updated_at": "2026-03-14T16:42:31Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -11185,9 +11185,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "AI增强",
-    "stars": 57,
+    "stars": 58,
     "version": "v2.0.3",
-    "updated_at": "2026-03-11T03:18:38Z",
+    "updated_at": "2026-03-14T16:42:27Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_pokepro/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
@@ -11701,9 +11701,9 @@
     ],
     "social_link": "https://github.com/vmoranv-reborn",
     "category": "娱乐游戏",
-    "stars": 18,
+    "stars": 19,
     "version": "1.7.2",
-    "updated_at": "2026-03-13T03:15:42Z",
+    "updated_at": "2026-03-14T17:13:53Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
