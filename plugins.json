@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-mocode": {
+    "display_name": "MoCode",
+    "desc": "🚀 Mocode - 基于 AstrBot 本地沙箱的多语言代码执行插件",
+    "author": "NumInvis",
+    "repo": "https://github.com/NumInvis/astrbot_plugin_Mocode",
+    "tags": [
+      "代码",
+      "沙箱",
+      "python"
+    ],
+    "social_link": "https://github.com/NumInvis"
+  },
   "astrbot-plugin-leetcode": {
     "display_name": "Leetcode每日一题",
     "desc": "LeetCode 每日一题提醒插件，定时推送每日一题",
