@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-Lumi-Hub-plugin": {
+    "display_name": "Lumi-Hub-plugin",
+    "desc": "一套独立的私有化 Agent 交互框架，作为 AstrBot 的自定义消息平台与专属 Flutter 客户端通信，内置原生 MCP 执行引擎与 HitL 审批拦截机制。",
+    "author": "Lumivers",
+    "repo": "https://github.com/Lumivers/Lumi-Hub-plugin",
+    "tags": [
+      "platform",
+      "tool",
+      "mcp"
+    ],
+    "social_link": "https://github.com/Lumivers/Lumi-Hub"
+  },
   "astrbot-plugin-arknights": {
     "display_name": "基于森空岛（Skland）公开API的明日方舟玩家数据查询AstrBot插件",
     "desc": "基于森空岛（Skland）公开API的明日方舟玩家数据查询AstrBot插件",
