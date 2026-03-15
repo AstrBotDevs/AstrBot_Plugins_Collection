@@ -1,4 +1,10 @@
 {
+  "astrbot-plugin-arknights": {
+    "display_name": "基于森空岛（Skland）公开API的明日方舟玩家数据查询AstrBot插件",
+    "desc": "基于森空岛（Skland）公开API的明日方舟玩家数据查询AstrBot插件",
+    "author": "liuwanwan",
+    "repo": "https://github.com/liuwanwan1/astrbot_plugin_arknights"
+  },
   "astrbot-plugin-xbox": {
     "display_name": "Xbox Game Pass 入库提醒",
     "desc": "获取微软 Xbox Game Pass 最新入库游戏列表，支持后台定时推送新游提醒和手动查询。",
