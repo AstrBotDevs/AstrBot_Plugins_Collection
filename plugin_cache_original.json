@@ -875,9 +875,9 @@
       "财务"
     ],
     "social_link": "https://github.com/IwannaYuJie",
-    "stars": 0,
+    "stars": 1,
     "version": "0.1.0",
-    "updated_at": "2026-02-27T07:44:16Z"
+    "updated_at": "2026-03-15T07:58:53Z"
   },
   "astrbot-plugin-bookkeeping": {
     "display_name": "日常记账",
@@ -1619,9 +1619,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 60,
+    "stars": 61,
     "version": "v1.6.0",
-    "updated_at": "2026-03-15T07:35:20Z",
+    "updated_at": "2026-03-15T08:07:14Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -2094,7 +2094,7 @@
     "category": "效率工具",
     "stars": 2,
     "version": "1.0.0",
-    "updated_at": "2026-03-15T06:54:19Z"
+    "updated_at": "2026-03-15T08:22:20Z"
   },
   "astrbot_plugin_grok_web_search": {
     "display_name": "Grok联网搜索",
