@@ -93,9 +93,9 @@
     "tags": [
       "音频"
     ],
-    "stars": 3,
-    "version": "v2.1",
-    "updated_at": "2026-03-14T00:42:01Z",
+    "stars": 5,
+    "version": "v2.2",
+    "updated_at": "2026-03-15T05:15:43Z",
     "logo": "https://raw.githubusercontent.com/Lidure/astrbot_plugin_airi_voice/master/logo.png"
   },
   "astrbot-plugin-tk-tracker": {
@@ -349,8 +349,8 @@
       "adapter"
     ],
     "stars": 1,
-    "version": "0.2.0",
-    "updated_at": "2026-03-15T03:08:34Z",
+    "version": "0.3.0",
+    "updated_at": "2026-03-15T05:33:14Z",
     "logo": "https://raw.githubusercontent.com/outlook84/astrbot_plugin_telethon_adapter/main/logo.png"
   },
   "astrbot-plugin-githubapp-adapter": {
@@ -427,8 +427,8 @@
     "social_link": "https://github.com/Renyus",
     "tags": [],
     "stars": 23,
-    "version": "Release Ver1.0.1",
-    "updated_at": "2026-03-15T03:30:54Z"
+    "version": "Ver 2.1.0",
+    "updated_at": "2026-03-15T06:43:17Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -690,9 +690,9 @@
       "骰宝"
     ],
     "social_link": "https://github.com/Akiyo-dayo",
-    "stars": 6,
+    "stars": 7,
     "version": "2.5.0",
-    "updated_at": "2026-03-14T15:01:03Z",
+    "updated_at": "2026-03-15T05:53:36Z",
     "logo": "https://raw.githubusercontent.com/Akiyo-dayo/astrbot_plugin_fishing/main/logo.png"
   },
   "astrbot-plugin-deobfuscation": {
@@ -2094,7 +2094,7 @@
     "category": "效率工具",
     "stars": 2,
     "version": "1.0.0",
-    "updated_at": "2026-02-10T06:04:37Z"
+    "updated_at": "2026-03-15T06:54:19Z"
   },
   "astrbot_plugin_grok_web_search": {
     "display_name": "Grok联网搜索",
@@ -3397,9 +3397,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "AI增强",
-    "stars": 36,
+    "stars": 37,
     "version": "1.1.1",
-    "updated_at": "2026-03-14T13:20:45Z"
+    "updated_at": "2026-03-15T06:27:21Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -4567,7 +4567,7 @@
     "category": "效率工具",
     "stars": 2,
     "version": "v1.0.7",
-    "updated_at": "2026-03-15T05:02:39Z",
+    "updated_at": "2026-03-15T05:13:25Z",
     "logo": "https://raw.githubusercontent.com/huizhiLLL/astrbot_plugin_wca/master/logo.png"
   },
   "astrbot_plugin_memos_integrator": {
@@ -5852,8 +5852,8 @@
     ],
     "category": "效率工具",
     "stars": 23,
-    "version": "v5.0.0",
-    "updated_at": "2026-03-13T15:22:35Z",
+    "version": "v5.0.1",
+    "updated_at": "2026-03-15T06:13:38Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -10619,9 +10619,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 119,
+    "stars": 120,
     "version": "v2.0.9",
-    "updated_at": "2026-03-15T01:25:46Z",
+    "updated_at": "2026-03-15T05:15:31Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -12156,9 +12156,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_reread",
     "category": "效率工具",
-    "stars": 28,
+    "stars": 29,
     "version": "v2.0.0",
-    "updated_at": "2026-03-13T02:23:34Z",
+    "updated_at": "2026-03-15T05:50:33Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_reread/main/logo.png"
   },
   "astrbot_plugin_csbaoyan": {
@@ -12592,7 +12592,7 @@
     "tags": [],
     "stars": 6,
     "version": "v1.0.3",
-    "updated_at": "2026-02-17T04:33:29Z"
+    "updated_at": "2026-03-15T06:16:50Z"
   },
   "astrbot_plugin_CounterStrikle": {
     "desc": "Blast-TV 上的 Counter-Strikle 小游戏，图片卡片渲染。",
