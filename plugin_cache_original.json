@@ -82,9 +82,9 @@
       "python"
     ],
     "social_link": "https://github.com/NumInvis",
-    "stars": 0,
+    "stars": 1,
     "version": "1.0",
-    "updated_at": "2026-03-14T18:35:39Z",
+    "updated_at": "2026-03-15T20:05:00Z",
     "logo": "https://raw.githubusercontent.com/NumInvis/astrbot_plugin_Mocode/main/logo.png"
   },
   "astrbot-plugin-leetcode": {
@@ -99,9 +99,9 @@
       "leetcode"
     ],
     "social_link": "https://github.com/NumInvis",
-    "stars": 2,
+    "stars": 3,
     "version": "1.0.0",
-    "updated_at": "2026-03-15T07:05:06Z",
+    "updated_at": "2026-03-15T20:05:39Z",
     "logo": "https://raw.githubusercontent.com/NumInvis/astrbot_plugin_leetcode/master/logo.png"
   },
   "astrbot-plugin-yunzhijia-adapter": {
@@ -3325,7 +3325,7 @@
     "category": "娱乐游戏",
     "stars": 11,
     "version": "v2.2",
-    "updated_at": "2026-03-10T21:03:03Z",
+    "updated_at": "2026-03-15T20:20:04Z",
     "logo": "https://raw.githubusercontent.com/kennylimz/astrbot_plugin_mudae_qq/main/logo.png"
   },
   "BUGJI/astrbot_plugin_balance": {
@@ -11895,9 +11895,9 @@
       "ccb"
     ],
     "category": "外部集成",
-    "stars": 7,
+    "stars": 8,
     "version": "v0.1.0",
-    "updated_at": "2026-02-28T01:52:53Z"
+    "updated_at": "2026-03-15T20:27:38Z"
   },
   "astrbot-gold-plugin": {
     "repo": "https://github.com/RC-CHN/astrbot-gold-plugin",
@@ -12740,9 +12740,9 @@
     ],
     "repo": "https://github.com/chengcheng0325/astrbot_plugin_saris_fish",
     "category": "娱乐游戏",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.5.0",
-    "updated_at": "2025-12-25T03:38:33Z"
+    "updated_at": "2026-03-15T20:27:14Z"
   },
   "astrbot_plugin_gewe_chatsummary": {
     "desc": "[仅 gewechat] 用来对最近消息调用 LLM 进行总结的插件",
