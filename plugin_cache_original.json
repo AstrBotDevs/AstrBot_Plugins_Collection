@@ -545,8 +545,8 @@
     ],
     "social_link": "https://github.com/olozhika/",
     "stars": 9,
-    "version": "v1.1.1",
-    "updated_at": "2026-03-15T14:49:20Z",
+    "version": "v1.1.2",
+    "updated_at": "2026-03-15T18:34:41Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
@@ -735,7 +735,7 @@
     "social_link": "https://github.com/RichardLiuda",
     "stars": 8,
     "version": "v1.2.5",
-    "updated_at": "2026-03-15T16:37:39Z",
+    "updated_at": "2026-03-15T17:31:46Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -762,9 +762,9 @@
       "陪伴"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 22,
+    "stars": 23,
     "version": "2.6.0",
-    "updated_at": "2026-03-15T16:43:34Z",
+    "updated_at": "2026-03-15T17:43:26Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -1552,8 +1552,8 @@
     ],
     "category": "效率工具",
     "stars": 2,
-    "version": "v1.0.1",
-    "updated_at": "2026-03-02T16:02:55Z",
+    "version": "v1.1.0",
+    "updated_at": "2026-03-15T17:51:17Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_at_check/master/logo.png"
   },
   "astrbot-plugin-grok-suite": {
@@ -2882,7 +2882,7 @@
     "category": "外部集成",
     "stars": 219,
     "version": "v4.9.0",
-    "updated_at": "2026-03-15T17:10:40Z",
+    "updated_at": "2026-03-15T18:13:39Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -11274,8 +11274,8 @@
     "social_link": "https://github.com/Zhalslar",
     "category": "AI增强",
     "stars": 58,
-    "version": "v2.0.3",
-    "updated_at": "2026-03-15T17:26:18Z",
+    "version": "v2.1.0",
+    "updated_at": "2026-03-15T17:49:01Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_pokepro/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
