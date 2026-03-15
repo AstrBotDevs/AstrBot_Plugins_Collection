@@ -1,4 +1,10 @@
 {
+  "astrbot-plugin-lyria": {
+    "display_name": "Lyria音乐生成",
+    "desc": "通过API调用Google Lyria生成音乐",
+    "author": "madandrew666",
+    "repo": "https://github.com/madandrew666/astrbot_plugin_lyria"
+  },
   "astrbot-plugin-mocode": {
     "display_name": "MoCode",
     "desc": "🚀 Mocode - 基于 AstrBot 本地沙箱的多语言代码执行插件",
