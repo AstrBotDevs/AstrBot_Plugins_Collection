@@ -155,7 +155,7 @@
     "social_link": "https://github.com/GamerNoTitle",
     "stars": 1,
     "version": "v1.1.2",
-    "updated_at": "2026-03-13T10:54:42Z",
+    "updated_at": "2026-03-15T16:27:01Z",
     "logo": "https://raw.githubusercontent.com/GamerNoTitle/astrbot_plugin_pairit/master/logo.png"
   },
   "astrbot-plugin-qqfarm": {
@@ -2881,8 +2881,8 @@
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
     "stars": 219,
-    "version": "v4.8.8",
-    "updated_at": "2026-03-15T15:21:58Z",
+    "version": "v4.8.9",
+    "updated_at": "2026-03-15T16:12:23Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -3530,9 +3530,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 197,
+    "stars": 198,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-15T14:21:05Z",
+    "updated_at": "2026-03-15T15:58:21Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -4301,8 +4301,8 @@
     ],
     "category": "AI增强",
     "stars": 49,
-    "version": "1.3.1",
-    "updated_at": "2026-03-15T15:15:43Z",
+    "version": "1.3.2",
+    "updated_at": "2026-03-15T16:06:32Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -4317,8 +4317,8 @@
     ],
     "category": "外部集成",
     "stars": 48,
-    "version": "0.8.18",
-    "updated_at": "2026-03-15T13:14:21Z",
+    "version": "0.8.19",
+    "updated_at": "2026-03-15T16:03:11Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -5489,9 +5489,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "效率工具",
-    "stars": 106,
+    "stars": 107,
     "version": "v2.3.0",
-    "updated_at": "2026-03-15T14:06:03Z",
+    "updated_at": "2026-03-15T16:21:49Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -8997,9 +8997,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 81,
+    "stars": 82,
     "version": "v3.0.3",
-    "updated_at": "2026-03-15T14:57:06Z",
+    "updated_at": "2026-03-15T16:17:49Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -9744,7 +9744,7 @@
     "author": null,
     "stars": 34,
     "version": "2.6.0",
-    "updated_at": "2026-03-15T09:45:42Z"
+    "updated_at": "2026-03-15T16:10:12Z"
   },
   "astrbot_plugin_group_sign": {
     "name": "group_sign",
@@ -10237,8 +10237,8 @@
     "social_link": "https://github.com/Zhalslar",
     "category": "生活实用",
     "stars": 7,
-    "version": "v1.0.1",
-    "updated_at": "2026-02-17T07:22:11Z",
+    "version": "v1.1.0",
+    "updated_at": "2026-03-15T16:18:45Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_afdian/main/logo.png"
   },
   "astrbot_plugin_runes": {
@@ -13645,9 +13645,9 @@
     "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
     "category": "生活实用",
     "tags": [],
-    "stars": 31,
+    "stars": 32,
     "version": "v1.4.2",
-    "updated_at": "2026-03-11T16:23:37Z"
+    "updated_at": "2026-03-15T16:10:50Z"
   },
   "ai_memory": {
     "desc": "一个AI记忆管理插件，可以让ai记住重要的事，记忆读取是ai自己调用的，有时候呆呆的ai不会自己调用，可以多问几次或者人格加上特定提示词,输入 /mem_help 查看记忆管理帮助",
