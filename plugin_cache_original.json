@@ -93,9 +93,9 @@
     "tags": [
       "音频"
     ],
-    "stars": 5,
+    "stars": 6,
     "version": "v2.2",
-    "updated_at": "2026-03-15T05:15:43Z",
+    "updated_at": "2026-03-15T13:22:37Z",
     "logo": "https://raw.githubusercontent.com/Lidure/astrbot_plugin_airi_voice/master/logo.png"
   },
   "astrbot-plugin-tk-tracker": {
@@ -251,9 +251,9 @@
     "author": "RyanVaderAn",
     "repo": "https://github.com/674537331/astrbot_plugin_mihome",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "v7.0.1",
-    "updated_at": "2026-03-14T13:25:38Z",
+    "updated_at": "2026-03-15T13:22:52Z",
     "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_mihome/main/logo.png"
   },
   "astrbot-plugin-nai-brush": {
@@ -265,9 +265,9 @@
       "画图",
       "NovalAI"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "1.0.0",
-    "updated_at": "2026-03-10T12:41:54Z"
+    "updated_at": "2026-03-15T13:37:10Z"
   },
   "astrbot-plugin-endfield": {
     "display_name": "终末地协议终端",
@@ -281,7 +281,7 @@
     ],
     "stars": 18,
     "version": "2.5.0",
-    "updated_at": "2026-03-15T10:31:25Z",
+    "updated_at": "2026-03-15T13:00:56Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -386,9 +386,9 @@
     "repo": "https://github.com/Waterwzy/astrbot_plugin_firefly_filter",
     "tags": [],
     "social_link": "",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.2.2",
-    "updated_at": "2026-03-15T09:30:04Z",
+    "updated_at": "2026-03-15T13:41:20Z",
     "logo": "https://raw.githubusercontent.com/Waterwzy/astrbot_plugin_firefly_filter/master/logo.png"
   },
   "astrbot-plugin-cet6": {
@@ -426,9 +426,9 @@
     "repo": "https://github.com/Renyus/astrbot_plugin_self_evolution",
     "social_link": "https://github.com/Renyus",
     "tags": [],
-    "stars": 23,
+    "stars": 24,
     "version": "Ver 2.2.0",
-    "updated_at": "2026-03-15T07:43:43Z"
+    "updated_at": "2026-03-15T13:40:36Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -1318,9 +1318,9 @@
     ],
     "social_link": "https://github.com/1-20182",
     "category": "娱乐游戏",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.9.5",
-    "updated_at": "2026-03-13T02:46:12Z"
+    "updated_at": "2026-03-15T13:02:35Z"
   },
   "astrbot-plugin-Gemini-STT": {
     "display_name": "Gemini_STT",
@@ -1619,9 +1619,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 61,
+    "stars": 60,
     "version": "v1.6.1",
-    "updated_at": "2026-03-15T09:05:18Z",
+    "updated_at": "2026-03-15T13:02:27Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -3083,9 +3083,9 @@
     ],
     "social_link": "https://github.com/DITF16",
     "category": "AI增强",
-    "stars": 44,
+    "stars": 45,
     "version": "1.1.1",
-    "updated_at": "2026-03-14T17:43:33Z",
+    "updated_at": "2026-03-15T13:39:39Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_groupGuard": {
@@ -3382,8 +3382,8 @@
     "social_link": "https://github.com/Zhalslar",
     "category": "娱乐游戏",
     "stars": 5,
-    "version": "v1.0.3",
-    "updated_at": "2026-02-09T14:30:17Z",
+    "version": "v1.2.1",
+    "updated_at": "2026-03-15T13:33:45Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_minesweeper/main/logo.png"
   },
   "astrbot_plugin_debounce": {
@@ -4228,9 +4228,9 @@
       "群聊优化"
     ],
     "category": "外部集成",
-    "stars": 47,
+    "stars": 48,
     "version": "0.8.18",
-    "updated_at": "2026-03-13T19:06:30Z",
+    "updated_at": "2026-03-15T13:14:21Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -4641,9 +4641,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 73,
+    "stars": 74,
     "version": "v1.4.1",
-    "updated_at": "2026-03-15T12:29:58Z",
+    "updated_at": "2026-03-15T13:48:01Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -4766,7 +4766,7 @@
     "category": "AI增强",
     "stars": 29,
     "version": "2.4.2",
-    "updated_at": "2026-03-15T11:21:55Z",
+    "updated_at": "2026-03-15T13:39:42Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -5329,9 +5329,9 @@
     ],
     "social_link": "https://github.com/piexian",
     "category": "AI增强",
-    "stars": 28,
+    "stars": 29,
     "version": "v1.9.6",
-    "updated_at": "2026-03-13T21:48:10Z",
+    "updated_at": "2026-03-15T13:34:44Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -5401,9 +5401,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "效率工具",
-    "stars": 93,
+    "stars": 105,
     "version": "v2.3.0",
-    "updated_at": "2026-03-14T12:03:05Z",
+    "updated_at": "2026-03-15T13:26:10Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -7916,8 +7916,8 @@
     "category": "外部集成",
     "tags": [],
     "stars": 48,
-    "version": "v2.5.0",
-    "updated_at": "2026-03-14T14:59:23Z"
+    "version": "v2.5.2",
+    "updated_at": "2026-03-15T13:36:46Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -8080,9 +8080,9 @@
       "rag"
     ],
     "category": "AI增强",
-    "stars": 96,
+    "stars": 95,
     "version": "2.2.4",
-    "updated_at": "2026-03-14T19:28:00Z",
+    "updated_at": "2026-03-15T13:39:16Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -8949,9 +8949,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 14,
+    "stars": 15,
     "version": "v1.0.3",
-    "updated_at": "2026-03-07T06:42:59Z",
+    "updated_at": "2026-03-15T13:07:22Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_record_converter/main/logo.png"
   },
   "astrbot_plugin_spark_tts": {
@@ -13331,9 +13331,9 @@
       "搬史"
     ],
     "category": "外部集成",
-    "stars": 526,
+    "stars": 527,
     "version": "v0.916",
-    "updated_at": "2026-03-15T11:45:16Z"
+    "updated_at": "2026-03-15T13:38:49Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
@@ -13377,9 +13377,9 @@
     ],
     "pinned": true,
     "category": "效率工具",
-    "stars": 183,
+    "stars": 184,
     "version": "v3.19",
-    "updated_at": "2026-03-15T02:33:31Z"
+    "updated_at": "2026-03-15T13:33:56Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
