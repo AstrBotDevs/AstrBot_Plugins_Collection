@@ -1,4 +1,20 @@
 {
+  "astrbot-plugin-xbox": {
+    "display_name": "Xbox Game Pass 入库提醒",
+    "desc": "获取微软 Xbox Game Pass 最新入库游戏列表，支持后台定时推送新游提醒和手动查询。",
+    "author": "xiaoruange39",
+    "repo": "https://github.com/xiaoruange39/astrbot_plugin_xbox",
+    "tags": [
+      "Xbox",
+      "游戏",
+      "推送",
+      "微软",
+      "主机",
+      "XGP",
+      "西瓜皮"
+    ],
+    "social_link": "https://github.com/xiaoruange39"
+  },
   "astrbot-plugin-rss-forwarder": {
     "display_name": "RSS聚合器",
     "desc": "面向 AstrBot 的 RSS/RSSHub 推送编排插件，支持去重、路由与后续智能增强。",
