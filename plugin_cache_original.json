@@ -281,7 +281,7 @@
     ],
     "stars": 18,
     "version": "2.5.0",
-    "updated_at": "2026-03-15T07:03:59Z",
+    "updated_at": "2026-03-15T10:31:25Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -350,7 +350,7 @@
     ],
     "stars": 1,
     "version": "0.4.0",
-    "updated_at": "2026-03-15T09:14:56Z",
+    "updated_at": "2026-03-15T10:28:04Z",
     "logo": "https://raw.githubusercontent.com/outlook84/astrbot_plugin_telethon_adapter/main/logo.png"
   },
   "astrbot-plugin-githubapp-adapter": {
@@ -4766,7 +4766,7 @@
     "category": "AI增强",
     "stars": 29,
     "version": "2.4.1",
-    "updated_at": "2026-03-15T09:36:18Z",
+    "updated_at": "2026-03-15T10:30:11Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -8281,8 +8281,8 @@
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
     "stars": 13,
-    "version": "v1.1.3",
-    "updated_at": "2026-02-17T07:18:15Z",
+    "version": "v1.1.4",
+    "updated_at": "2026-03-15T09:58:52Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qun_album/main/logo.png"
   },
   "astrbot_plugin_favourpro": {
@@ -9654,9 +9654,9 @@
     ],
     "category": "AI增强",
     "author": null,
-    "stars": 33,
+    "stars": 34,
     "version": "2.6.0",
-    "updated_at": "2026-03-14T06:52:18Z"
+    "updated_at": "2026-03-15T09:45:42Z"
   },
   "astrbot_plugin_group_sign": {
     "name": "group_sign",
@@ -12275,9 +12275,9 @@
       "QQ群管"
     ],
     "category": "效率工具",
-    "stars": 104,
+    "stars": 105,
     "version": "v3.2.7",
-    "updated_at": "2026-03-14T09:28:29Z",
+    "updated_at": "2026-03-15T10:05:36Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
