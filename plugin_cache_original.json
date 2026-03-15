@@ -546,7 +546,7 @@
     "social_link": "https://github.com/olozhika/",
     "stars": 9,
     "version": "v1.1.2",
-    "updated_at": "2026-03-15T18:34:41Z",
+    "updated_at": "2026-03-15T18:43:53Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
@@ -764,7 +764,7 @@
     "social_link": "https://github.com/menglimi",
     "stars": 23,
     "version": "2.6.0",
-    "updated_at": "2026-03-15T17:43:26Z",
+    "updated_at": "2026-03-15T19:05:29Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -4853,8 +4853,8 @@
     ],
     "category": "AI增强",
     "stars": 29,
-    "version": "2.4.2",
-    "updated_at": "2026-03-15T13:51:56Z",
+    "version": "2.4.3",
+    "updated_at": "2026-03-15T19:19:08Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
