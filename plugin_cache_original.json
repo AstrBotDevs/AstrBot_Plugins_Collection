@@ -401,9 +401,9 @@
       "工具",
       "实用"
     ],
-    "stars": 5,
+    "stars": 6,
     "version": "5.4.0",
-    "updated_at": "2026-03-13T14:33:20Z"
+    "updated_at": "2026-03-15T10:51:15Z"
   },
   "astrbot-plugin-f1-notifier": {
     "display_name": "F1 Notifier",
@@ -2110,7 +2110,7 @@
     "category": "外部集成",
     "stars": 9,
     "version": "v1.1.0",
-    "updated_at": "2026-03-13T21:50:04Z",
+    "updated_at": "2026-03-15T10:45:16Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_grok_web_search/master/logo.png"
   },
   "astrbot_plugin_fake_ai_watermark": {
@@ -3546,9 +3546,9 @@
     ],
     "social_link": "https://github.com/Huahuatgc",
     "category": "生活实用",
-    "stars": 10,
+    "stars": 11,
     "version": "1.2.1",
-    "updated_at": "2026-03-13T10:27:05Z"
+    "updated_at": "2026-03-15T11:27:26Z"
   },
   "astrbot_plugin_matrix_adapter": {
     "display_name": "Matrix 协议适配器",
@@ -4765,8 +4765,8 @@
     ],
     "category": "AI增强",
     "stars": 29,
-    "version": "2.4.1",
-    "updated_at": "2026-03-15T10:30:11Z",
+    "version": "2.4.2",
+    "updated_at": "2026-03-15T11:21:55Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
