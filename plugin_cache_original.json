@@ -350,7 +350,7 @@
     ],
     "stars": 1,
     "version": "0.2.0",
-    "updated_at": "2026-03-15T02:09:05Z",
+    "updated_at": "2026-03-15T03:08:34Z",
     "logo": "https://raw.githubusercontent.com/outlook84/astrbot_plugin_telethon_adapter/main/logo.png"
   },
   "astrbot-plugin-githubapp-adapter": {
@@ -426,9 +426,9 @@
     "repo": "https://github.com/Renyus/astrbot_plugin_self_evolution",
     "social_link": "https://github.com/Renyus",
     "tags": [],
-    "stars": 22,
+    "stars": 23,
     "version": "Release Ver1.0.1",
-    "updated_at": "2026-03-15T01:17:06Z"
+    "updated_at": "2026-03-15T03:30:54Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -456,9 +456,9 @@
       "长期记忆"
     ],
     "social_link": "https://github.com/olozhika/",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.1.1",
-    "updated_at": "2026-03-15T00:34:23Z",
+    "updated_at": "2026-03-15T03:53:59Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
@@ -570,9 +570,9 @@
       "追番"
     ],
     "social_link": "https://github.com/united-pooh",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.1.1",
-    "updated_at": "2026-03-11T01:45:45Z",
+    "updated_at": "2026-03-15T03:40:34Z",
     "logo": "https://raw.githubusercontent.com/united-pooh/astrbot_plugin_bangumi/main/logo.png"
   },
   "astrbot-plugin-three-body-wiki": {
@@ -2168,9 +2168,9 @@
     ],
     "social_link": "https://github.com/YukiRa1n",
     "category": "AI增强",
-    "stars": 5,
+    "stars": 6,
     "version": "v2.1.0",
-    "updated_at": "2026-03-13T01:41:41Z"
+    "updated_at": "2026-03-15T03:48:21Z"
   },
   "astrbot_plugin_sudoku": {
     "display_name": "数独游戏",
@@ -2819,9 +2819,9 @@
     ],
     "social_link": "https://github.com/SakuraChiyo0v0",
     "category": "外部集成",
-    "stars": 2,
+    "stars": 3,
     "version": "v0.5.1",
-    "updated_at": "2026-03-14T09:04:48Z",
+    "updated_at": "2026-03-15T03:18:39Z",
     "logo": "https://raw.githubusercontent.com/SakuraChiyo0v0/astrbot_plugin_balance_get/master/logo.png"
   },
   "astrbot_plugin_ww_gacha_sim": {
@@ -2984,9 +2984,9 @@
     "repo": "https://github.com/2529huang/astrbot_plugin_fund_analyzer",
     "category": "AI增强",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "2.0.0",
-    "updated_at": "2026-03-10T05:33:15Z",
+    "updated_at": "2026-03-15T03:48:17Z",
     "logo": "https://raw.githubusercontent.com/2529huang/astrbot_plugin_fund_analyzer/master/logo.png"
   },
   "astrbot_plugin_CNKD_Admin": {
@@ -4567,7 +4567,7 @@
     "category": "效率工具",
     "stars": 2,
     "version": "v1.0.7",
-    "updated_at": "2026-03-14T12:29:02Z",
+    "updated_at": "2026-03-15T05:02:39Z",
     "logo": "https://raw.githubusercontent.com/huizhiLLL/astrbot_plugin_wca/master/logo.png"
   },
   "astrbot_plugin_memos_integrator": {
@@ -4643,7 +4643,7 @@
     "category": "外部集成",
     "stars": 72,
     "version": "v1.4.1",
-    "updated_at": "2026-03-14T19:39:30Z",
+    "updated_at": "2026-03-15T03:22:52Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -4912,8 +4912,8 @@
     "social_link": "https://github.com/muyouzhi6",
     "category": "AI增强",
     "stars": 53,
-    "version": "v4.2.11",
-    "updated_at": "2026-03-15T00:34:13Z",
+    "version": "v4.2.12",
+    "updated_at": "2026-03-15T04:36:17Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -5251,9 +5251,9 @@
     ],
     "social_link": "https://box.firefly520.top/",
     "category": "AI增强",
-    "stars": 23,
+    "stars": 24,
     "version": "1.5.2",
-    "updated_at": "2026-03-09T08:23:55Z",
+    "updated_at": "2026-03-15T03:32:53Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/main/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -6585,9 +6585,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "AI增强",
-    "stars": 125,
+    "stars": 126,
     "version": "v1.1.5",
-    "updated_at": "2026-03-14T13:39:42Z",
+    "updated_at": "2026-03-15T04:32:08Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -7786,9 +7786,9 @@
     "repo": "https://github.com/LovelyGuYiMeng/astrbot_plugin_pplxsearch",
     "category": "AI增强",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "v1.2.0",
-    "updated_at": "2025-10-13T15:06:52Z"
+    "updated_at": "2026-03-15T04:05:20Z"
   },
   "Discord_sync_to_kook": {
     "desc": "Discord消息同步到Kook插件，支持频道映射和消息格式转换",
@@ -12029,9 +12029,9 @@
     ],
     "social_link": "https://docs.sayu-bot.com/",
     "category": "外部集成",
-    "stars": 33,
+    "stars": 34,
     "version": "v0.4.6",
-    "updated_at": "2026-03-13T17:18:45Z"
+    "updated_at": "2026-03-15T03:11:04Z"
   },
   "astrbot_plugin_xyzw": {
     "author": "四郎",
@@ -12482,7 +12482,7 @@
     "category": "AI增强",
     "stars": 63,
     "version": "v3.1.0",
-    "updated_at": "2026-03-13T18:22:30Z",
+    "updated_at": "2026-03-15T02:58:43Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
@@ -13210,8 +13210,8 @@
     "category": "生活实用",
     "tags": [],
     "stars": 5,
-    "version": "v1.1.9",
-    "updated_at": "2026-03-12T15:25:59Z",
+    "version": "v1.2.0",
+    "updated_at": "2026-03-15T04:24:09Z",
     "logo": "https://raw.githubusercontent.com/Wave233Lee/astrbot_plugin_random_vtb/master/logo.png"
   },
   "astrbot_plugin_server_status": {
