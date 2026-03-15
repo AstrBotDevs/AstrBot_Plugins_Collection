@@ -1,4 +1,18 @@
 {
+  "astrbot-plugin-rss-forwarder": {
+    "display_name": "RSS聚合器",
+    "desc": "面向 AstrBot 的 RSS/RSSHub 推送编排插件，支持去重、路由与后续智能增强。",
+    "author": "RhoninSeiei",
+    "repo": "https://github.com/RhoninSeiei/astrbot_plugin_rss_forwarder",
+    "tags": [
+      "RSS",
+      "RSSHub",
+      "推送",
+      "通知",
+      "自动化"
+    ],
+    "social_link": "https://github.com/RhoninSeiei"
+  },
   "astrbot-plugin-lyria": {
     "display_name": "Lyria音乐生成",
     "desc": "通过API调用Google Lyria生成音乐",
