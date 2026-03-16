@@ -1,4 +1,11 @@
 {
+  "astrbot-plugin-atrelay": {
+    "display_name": "bot转述",
+    "desc": "私聊bot，让它将消息发送到群内",
+    "author": "AlienStar",
+    "repo": "https://github.com/Alien-Star/astrbot_plugin_atrelay",
+    "social_link": "www.alienstar.icu"
+  },
   "astrbot-plugin-Lumi-Hub-plugin": {
     "display_name": "Lumi-Hub-plugin",
     "desc": "一套独立的私有化 Agent 交互框架，作为 AstrBot 的自定义消息平台与专属 Flutter 客户端通信，内置原生 MCP 执行引擎与 HitL 审批拦截机制。",
