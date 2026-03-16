@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-dnd-dice": {
+    "display_name": "D&D 骰子 Dice",
+    "desc": "支持 D&D （Roll20规范）骰池语法的骰子插件，包括优势/劣势、保留最高/最低、爆炸骰、多骰组合等以及 LLM 函数工具调用。",
+    "author": "Dracowyn",
+    "repo": "https://github.com/Dracowyn/astrbot_plugin_dnd_dice",
+    "tags": [
+      "骰子",
+      "跑团",
+      "DnD"
+    ],
+    "social_link": "https://github.com/Dracowyn"
+  },
   "astrbot-plugin-emojikitchen": {
     "display_name": "Emoji Kitchen",
     "desc": "发送两个 emoji 自动合成 Google Emoji Kitchen 风格混搭图片。支持 /mix 命令和自动检测。",
