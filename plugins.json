@@ -1,4 +1,12 @@
 {
+  "astrbot-plugin-maid-agent": {
+    "display_name": "代理女仆",
+    "desc": "大小姐+管家模式子代理系统：主模型仅保留自然语言对话上下文，所有工具调用通过管家subagent执行，减少结构化数据提示词污染角色扮演。",
+    "author": "Kalo",
+    "repo": "https://github.com/Kalospacer/astrbot_plugin_maid_agent",
+    "tags": [],
+    "social_link": ""
+  },
   "astrbot-plugin-stoprushingiamtyping": {
     "display_name": "別急，我在打字！",
     "desc": "Discord typing 指示插件，以分層架構在 LLM 思考中持續顯示輸入中狀態。",
