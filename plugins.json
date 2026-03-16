@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-stoprushingiamtyping": {
+    "display_name": "別急，我在打字！",
+    "desc": "Discord typing 指示插件，以分層架構在 LLM 思考中持續顯示輸入中狀態。",
+    "author": "Melantilla.",
+    "repo": "https://github.com/nerdchan/astrbot_plugin_stoprushingiamtyping",
+    "tags": [
+      "Discord",
+      "UX體驗",
+      "用戶體驗"
+    ]
+  },
   "astrbot-plugin-dnd-dice": {
     "display_name": "D&D 骰子 Dice",
     "desc": "支持 D&D （Roll20规范）骰池语法的骰子插件，包括优势/劣势、保留最高/最低、爆炸骰、多骰组合等以及 LLM 函数工具调用。",
