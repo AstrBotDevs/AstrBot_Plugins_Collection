@@ -1,4 +1,13 @@
 {
+  "astrbot-plugin-lofter": {
+    "display_name": "Lofter解析&订阅",
+    "desc": "AstrBot 插件，用于解析 Lofter 链接、订阅 Lofter 标签/博主、搜索 Lofter 内容。",
+    "author": "yamanashiluna",
+    "repo": "https://github.com/wdcyxxycdw/astrbot_plugin_lofter",
+    "tags": [
+      "lofter"
+    ]
+  },
   "astrbot-plugin-tarkovboss": {
     "display_name": "塔科夫Boss刷率",
     "desc": "查询塔科夫Boss刷率。",
