@@ -1,4 +1,10 @@
 {
+  "astrbot-plugin-exchangerate-icbc": {
+    "display_name": "工行汇率监控",
+    "desc": "获取工商银行实时汇率数据，实现实时查询、汇率监控及自定义配置频率功能。",
+    "author": "Yuuu0109",
+    "repo": "https://github.com/Yuuu0109/astrbot_plugin_exchangerate_ICBC"
+  },
   "astrbot-plugin-qq-group-daily-analysis": {
     "display_name": "群分析总结插件",
     "desc": "[多平台接入开发中] 群日常分析总结插件 - 支持 QQ (aiocqhttp)、Telegram、Discord；生成精美的群聊分析报告，支持话题分析、用户形象、群聊圣经等功能",
