@@ -586,7 +586,7 @@
     ],
     "stars": 1,
     "version": "0.4.0",
-    "updated_at": "2026-03-16T08:31:41Z",
+    "updated_at": "2026-03-16T09:22:17Z",
     "logo": "https://raw.githubusercontent.com/outlook84/astrbot_plugin_telethon_adapter/main/logo.png"
   },
   "astrbot-plugin-githubapp-adapter": {
@@ -694,7 +694,7 @@
     "social_link": "https://github.com/olozhika/",
     "stars": 9,
     "version": "v1.1.2",
-    "updated_at": "2026-03-16T08:58:00Z",
+    "updated_at": "2026-03-16T09:08:02Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
@@ -881,9 +881,9 @@
       "监控"
     ],
     "social_link": "https://github.com/RichardLiuda",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.2.5",
-    "updated_at": "2026-03-16T07:43:36Z",
+    "updated_at": "2026-03-16T09:14:50Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -3263,8 +3263,8 @@
     ],
     "category": "AI增强",
     "stars": 5,
-    "version": "1.5.7",
-    "updated_at": "2026-03-07T17:34:00Z"
+    "version": "1.6.0",
+    "updated_at": "2026-03-16T09:27:03Z"
   },
   "astrbot_plugin_mc_manager": {
     "display_name": "astrbot_plugin_mc_manager",
@@ -5000,9 +5000,9 @@
       "表情"
     ],
     "category": "AI增强",
-    "stars": 29,
+    "stars": 30,
     "version": "2.4.3",
-    "updated_at": "2026-03-15T19:19:08Z",
+    "updated_at": "2026-03-16T09:05:13Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -7815,9 +7815,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "AI增强",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.0.2",
-    "updated_at": "2026-02-25T08:16:05Z",
+    "updated_at": "2026-03-16T09:24:21Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_msg_search/main/logo.png"
   },
   "scheduled_reply": {
@@ -8984,9 +8984,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "效率工具",
-    "stars": 38,
+    "stars": 39,
     "version": "v2.2.0",
-    "updated_at": "2026-03-16T03:48:16Z",
+    "updated_at": "2026-03-16T09:44:49Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wakepro/main/logo.png"
   },
   "astrbot_plugin_memora_connect": {
@@ -9555,9 +9555,9 @@
       "主动回复"
     ],
     "category": "效率工具",
-    "stars": 17,
+    "stars": 18,
     "version": "v2.0.0",
-    "updated_at": "2026-03-16T08:46:23Z",
+    "updated_at": "2026-03-16T09:12:42Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -10411,9 +10411,9 @@
     ],
     "social_link": "https://github.com/oyxning",
     "category": "AI增强",
-    "stars": 52,
+    "stars": 53,
     "version": "v3.5.1",
-    "updated_at": "2026-03-15T11:59:41Z",
+    "updated_at": "2026-03-16T10:12:11Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_antipromptinjector/master/logo.png"
   },
   "astrbot_plugin_alistfile": {
@@ -11146,9 +11146,9 @@
     ],
     "social_link": "https://github.com/TheAnyan",
     "category": "外部集成",
-    "stars": 12,
+    "stars": 13,
     "version": "v1.1.0",
-    "updated_at": "2026-01-26T06:18:34Z"
+    "updated_at": "2026-03-16T09:53:16Z"
   },
   "astrbot_plugin_stock": {
     "author": "anchor",
@@ -13863,9 +13863,9 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "category": "生活实用",
     "tags": [],
-    "stars": 45,
+    "stars": 46,
     "version": "v1.5.6",
-    "updated_at": "2026-03-15T11:35:10Z",
+    "updated_at": "2026-03-16T10:04:59Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
