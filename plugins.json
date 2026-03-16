@@ -1,4 +1,13 @@
 {
+  "astrbot-plugin-group-welcome": {
+    "display_name": "Group Welcome (入群欢迎插件)",
+    "desc": "一个普通的群欢迎插件awa",
+    "author": "lingyun",
+    "repo": "https://github.com/lingyun14beta/astrbot_plugin_group_welcome",
+    "tags": [
+      "群欢迎"
+    ]
+  },
   "astrbot-plugin-atrelay": {
     "display_name": "bot转述",
     "desc": "私聊bot，让它将消息发送到群内",
