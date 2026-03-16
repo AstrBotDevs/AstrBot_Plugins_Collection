@@ -894,8 +894,8 @@
     ],
     "social_link": "https://github.com/RichardLiuda",
     "stars": 9,
-    "version": "v1.2.5",
-    "updated_at": "2026-03-16T09:14:50Z",
+    "version": "v1.3.0",
+    "updated_at": "2026-03-16T18:07:35Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -923,8 +923,8 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 22,
-    "version": "2.6.2",
-    "updated_at": "2026-03-16T16:20:53Z",
+    "version": "2.7.0",
+    "updated_at": "2026-03-16T18:32:36Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -1868,8 +1868,8 @@
     "pinned": true,
     "category": "外部集成",
     "stars": 61,
-    "version": "v1.6.1",
-    "updated_at": "2026-03-16T16:37:05Z",
+    "version": "v1.6.2",
+    "updated_at": "2026-03-16T17:32:18Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -7406,9 +7406,9 @@
     ],
     "social_link": "https://zhxwu.com",
     "category": "AI增强",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.0",
-    "updated_at": "2026-03-16T15:17:06Z"
+    "updated_at": "2026-03-16T17:31:32Z"
   },
   "astrbot_plugin_auto_approve_all": {
     "desc": "自动同意所有的群邀请和好友申请",
@@ -9567,9 +9567,9 @@
       "主动回复"
     ],
     "category": "效率工具",
-    "stars": 22,
+    "stars": 23,
     "version": "v2.0.0",
-    "updated_at": "2026-03-16T17:02:54Z",
+    "updated_at": "2026-03-16T18:28:06Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -11761,9 +11761,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "外部集成",
-    "stars": 194,
+    "stars": 195,
     "version": "v3.0.3",
-    "updated_at": "2026-03-16T12:00:13Z",
+    "updated_at": "2026-03-16T18:18:56Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
