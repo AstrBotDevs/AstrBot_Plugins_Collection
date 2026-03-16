@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-tarkovboss": {
+    "display_name": "塔科夫Boss刷率",
+    "desc": "查询塔科夫Boss刷率。",
+    "author": "AlienStar",
+    "repo": "https://github.com/Alien-Star/astrbot_plugin_tarkovboss",
+    "tags": [
+      "塔科夫",
+      "boss"
+    ],
+    "social_link": "http://www.alienstar.icu/"
+  },
   "astrbot-plugin-azurlane-assistant": {
     "display_name": "碧蓝航线小程序",
     "desc": "碧蓝航线小助手，支持用户信息和建造记录查询。",
