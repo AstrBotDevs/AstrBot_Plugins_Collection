@@ -1,4 +1,141 @@
 {
+  "astrbot-plugin-tarkovboss": {
+    "display_name": "塔科夫Boss刷率",
+    "desc": "查询塔科夫Boss刷率。",
+    "author": "AlienStar",
+    "repo": "https://github.com/Alien-Star/astrbot_plugin_tarkovboss",
+    "tags": [
+      "塔科夫",
+      "boss"
+    ],
+    "social_link": "http://www.alienstar.icu/",
+    "stars": 0,
+    "version": "v1.0",
+    "updated_at": "2026-03-13T21:00:32Z"
+  },
+  "astrbot-plugin-azurlane-assistant": {
+    "display_name": "碧蓝航线小程序",
+    "desc": "碧蓝航线小助手，支持用户信息和建造记录查询。",
+    "author": "luruka_llk",
+    "repo": "https://github.com/lurukapro/astrbot_plugin_azurlane_assistant",
+    "tags": [],
+    "stars": 1,
+    "version": "1.0.0",
+    "updated_at": "2026-03-14T17:27:34Z",
+    "logo": "https://raw.githubusercontent.com/lurukapro/astrbot_plugin_azurlane_assistant/main/logo.png"
+  },
+  "astrbot-plugin-maid-agent": {
+    "display_name": "代理女仆",
+    "desc": "大小姐+管家模式子代理系统：主模型仅保留自然语言对话上下文，所有工具调用通过管家subagent执行，减少结构化数据提示词污染角色扮演。",
+    "author": "Kalo",
+    "repo": "https://github.com/Kalospacer/astrbot_plugin_maid_agent",
+    "tags": [],
+    "social_link": "",
+    "stars": 2,
+    "version": "1.0.0",
+    "updated_at": "2026-03-15T07:43:14Z",
+    "logo": "https://raw.githubusercontent.com/Kalospacer/astrbot_plugin_maid_agent/master/logo.png"
+  },
+  "astrbot-plugin-stoprushingiamtyping": {
+    "display_name": "別急，我在打字！",
+    "desc": "Discord typing 指示插件，以分層架構在 LLM 思考中持續顯示輸入中狀態。",
+    "author": "Melantilla.",
+    "repo": "https://github.com/nerdchan/astrbot_plugin_stoprushingiamtyping",
+    "tags": [
+      "Discord",
+      "UX體驗",
+      "用戶體驗"
+    ],
+    "stars": 0,
+    "version": "0.2.0",
+    "updated_at": "2026-03-14T13:10:55Z"
+  },
+  "astrbot-plugin-dnd-dice": {
+    "display_name": "D&D 骰子 Dice",
+    "desc": "支持 D&D （Roll20规范）骰池语法的骰子插件，包括优势/劣势、保留最高/最低、爆炸骰、多骰组合等以及 LLM 函数工具调用。",
+    "author": "Dracowyn",
+    "repo": "https://github.com/Dracowyn/astrbot_plugin_dnd_dice",
+    "tags": [
+      "骰子",
+      "跑团",
+      "DnD"
+    ],
+    "social_link": "https://github.com/Dracowyn",
+    "stars": 0,
+    "version": "v0.6.1",
+    "updated_at": "2026-02-28T18:34:09Z"
+  },
+  "astrbot-plugin-emojikitchen": {
+    "display_name": "Emoji Kitchen",
+    "desc": "发送两个 emoji 自动合成 Google Emoji Kitchen 风格混搭图片。支持 /mix 命令和自动检测。",
+    "author": "camera-2018",
+    "repo": "https://github.com/camera-2018/astrbot_plugin_emojikitchen",
+    "tags": [
+      "emoji",
+      "emojikitchen"
+    ],
+    "social_link": "https://github.com/camera-2018",
+    "stars": 2,
+    "version": "v1.0.0",
+    "updated_at": "2026-02-26T07:35:30Z"
+  },
+  "astrbot-plugin-rf4-data": {
+    "display_name": "astrbot_plugin_rf4_data",
+    "desc": "俄罗斯钓鱼4本地数据查询，鱼种上星上蓝重量、渔轮参数，零token消耗",
+    "author": "hugh",
+    "repo": "https://github.com/HUGHHUXIAOJUN/RF4_data",
+    "tags": [
+      "RF4",
+      "俄罗斯钓鱼"
+    ],
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-02-26T05:19:50Z"
+  },
+  "astrbot-plugin-exchangerate-icbc": {
+    "display_name": "工行汇率监控",
+    "desc": "获取工商银行实时汇率数据，实现实时查询、汇率监控及自定义配置频率功能。",
+    "author": "Yuuu0109",
+    "repo": "https://github.com/Yuuu0109/astrbot_plugin_exchangerate_ICBC",
+    "tags": [],
+    "stars": 0,
+    "version": "v1.4.2",
+    "updated_at": "2026-03-11T05:17:40Z"
+  },
+  "astrbot-plugin-qq-group-daily-analysis": {
+    "display_name": "群分析总结插件",
+    "desc": "[多平台接入开发中] 群日常分析总结插件 - 支持 QQ (aiocqhttp)、Telegram、Discord；生成精美的群聊分析报告，支持话题分析、用户形象、群聊圣经等功能",
+    "author": "SXP-Simon",
+    "repo": "https://github.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis",
+    "tags": [
+      "群分析",
+      "aiocqhttp",
+      "Telegram",
+      "Discord",
+      "话题分析",
+      "用户形象",
+      "群聊圣经",
+      "总结"
+    ],
+    "social_link": "https://github.com/SXP-Simon",
+    "stars": 219,
+    "version": "v4.9.0",
+    "updated_at": "2026-03-15T18:13:39Z",
+    "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
+  },
+  "astrbot-plugin-group-welcome": {
+    "display_name": "Group Welcome (入群欢迎插件)",
+    "desc": "一个普通的群欢迎插件awa",
+    "author": "lingyun",
+    "repo": "https://github.com/lingyun14beta/astrbot_plugin_group_welcome",
+    "tags": [
+      "群欢迎"
+    ],
+    "stars": 0,
+    "version": "2.0.0",
+    "updated_at": "2026-03-11T15:10:07Z",
+    "logo": "https://raw.githubusercontent.com/lingyun14beta/astrbot_plugin_group_welcome/main/logo.png"
+  },
   "astrbot-plugin-atrelay": {
     "display_name": "bot转述",
     "desc": "私聊bot，让它将消息发送到群内",
@@ -8,7 +145,7 @@
     "tags": [],
     "stars": 0,
     "version": "v0.1.0",
-    "updated_at": "2026-03-15T20:02:43Z"
+    "updated_at": "2026-03-16T07:07:16Z"
   },
   "astrbot-plugin-Lumi-Hub-plugin": {
     "display_name": "Lumi-Hub-plugin",
@@ -527,7 +664,7 @@
     "tags": [],
     "stars": 25,
     "version": "Ver 2.2.3",
-    "updated_at": "2026-03-16T04:02:29Z"
+    "updated_at": "2026-03-16T06:36:58Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -1377,7 +1514,7 @@
     "category": "外部集成",
     "stars": 5,
     "version": "v1.0.2",
-    "updated_at": "2026-03-14T08:02:50Z"
+    "updated_at": "2026-03-16T05:33:03Z"
   },
   "astrbot-plugin-halo-manager": {
     "display_name": "博客管理器",
@@ -1954,9 +2091,9 @@
       "steam"
     ],
     "category": "娱乐游戏",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.2.7",
-    "updated_at": "2026-03-15T17:04:36Z",
+    "updated_at": "2026-03-16T06:11:44Z",
     "logo": "https://raw.githubusercontent.com/DearCrazyLeaf/astrbot_plugin_steam_updates/master/logo.png"
   },
   "astrbot_plugin_codemage": {
@@ -3015,9 +3152,9 @@
     ],
     "social_link": "https://github.com/camera-2018",
     "category": "AI增强",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.0",
-    "updated_at": "2026-03-01T06:51:24Z"
+    "updated_at": "2026-03-16T06:34:45Z"
   },
   "astrbot_plugin_galgame_box": {
     "display_name": "Galgame 百宝盒",
@@ -3111,9 +3248,9 @@
     ],
     "social_link": "https://github.com/KonmaKanSinPack",
     "category": "AI增强",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.1.0",
-    "updated_at": "2026-03-13T12:39:19Z"
+    "updated_at": "2026-03-16T06:02:05Z"
   },
   "astrbot_plugin_engram": {
     "display_name": "仿生双轨记忆系统",
@@ -4311,9 +4448,9 @@
       "人格"
     ],
     "category": "AI增强",
-    "stars": 50,
+    "stars": 51,
     "version": "1.3.2",
-    "updated_at": "2026-03-15T17:00:43Z",
+    "updated_at": "2026-03-16T05:47:41Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -4327,9 +4464,9 @@
       "群聊优化"
     ],
     "category": "外部集成",
-    "stars": 48,
+    "stars": 49,
     "version": "0.8.19",
-    "updated_at": "2026-03-15T16:03:11Z",
+    "updated_at": "2026-03-16T05:47:39Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -4740,9 +4877,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 75,
+    "stars": 76,
     "version": "v1.4.1",
-    "updated_at": "2026-03-15T13:53:38Z",
+    "updated_at": "2026-03-16T06:35:06Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -4881,9 +5018,9 @@
     ],
     "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
     "category": "AI增强",
-    "stars": 18,
+    "stars": 19,
     "version": "v1.3.0",
-    "updated_at": "2026-03-15T15:10:26Z",
+    "updated_at": "2026-03-16T06:52:52Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -5887,9 +6024,9 @@
       "私聊"
     ],
     "category": "AI增强",
-    "stars": 22,
+    "stars": 23,
     "version": "2.2.1",
-    "updated_at": "2026-03-15T01:44:34Z",
+    "updated_at": "2026-03-16T06:52:26Z",
     "logo": "https://raw.githubusercontent.com/aliveriver/astrbot_plugin_continuous_message/master/logo.png"
   },
   "astrbot_plugin_llm_amnesia": {
@@ -8179,9 +8316,9 @@
       "rag"
     ],
     "category": "AI增强",
-    "stars": 95,
+    "stars": 96,
     "version": "2.2.4",
-    "updated_at": "2026-03-15T13:39:16Z",
+    "updated_at": "2026-03-16T07:02:02Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -9418,9 +9555,9 @@
       "主动回复"
     ],
     "category": "效率工具",
-    "stars": 11,
+    "stars": 14,
     "version": "v2.0.0",
-    "updated_at": "2026-03-16T05:10:11Z",
+    "updated_at": "2026-03-16T06:46:34Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -13023,8 +13160,8 @@
     ],
     "category": "效率工具",
     "stars": 1,
-    "version": "v1.0.9",
-    "updated_at": "2026-03-14T08:02:59Z"
+    "version": "v1.1.0",
+    "updated_at": "2026-03-16T05:37:18Z"
   },
   "astrbot_plugin_majsoul-master": {
     "desc": "一个雀魂多功能插件",
@@ -13476,9 +13613,9 @@
     ],
     "pinned": true,
     "category": "效率工具",
-    "stars": 185,
+    "stars": 186,
     "version": "v3.19",
-    "updated_at": "2026-03-16T03:16:23Z"
+    "updated_at": "2026-03-16T05:40:34Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
