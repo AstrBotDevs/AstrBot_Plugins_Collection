@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-emojikitchen": {
+    "display_name": "Emoji Kitchen",
+    "desc": "发送两个 emoji 自动合成 Google Emoji Kitchen 风格混搭图片。支持 /mix 命令和自动检测。",
+    "author": "camera-2018",
+    "repo": "https://github.com/camera-2018/astrbot_plugin_emojikitchen",
+    "tags": [
+      "emoji",
+      "emojikitchen"
+    ],
+    "social_link": "https://github.com/camera-2018"
+  },
   "astrbot-plugin-rf4-data": {
     "display_name": "astrbot_plugin_rf4_data",
     "desc": "俄罗斯钓鱼4本地数据查询，鱼种上星上蓝重量、渔轮参数，零token消耗",
