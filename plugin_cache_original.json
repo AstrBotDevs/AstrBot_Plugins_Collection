@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-atrelay": {
+    "display_name": "bot转述",
+    "desc": "私聊bot，让它将消息发送到群内",
+    "author": "AlienStar",
+    "repo": "https://github.com/Alien-Star/astrbot_plugin_atrelay",
+    "social_link": "www.alienstar.icu",
+    "tags": [],
+    "stars": 0,
+    "version": "v0.1.0",
+    "updated_at": "2026-03-15T20:02:43Z"
+  },
   "astrbot-plugin-Lumi-Hub-plugin": {
     "display_name": "Lumi-Hub-plugin",
     "desc": "一套独立的私有化 Agent 交互框架，作为 AstrBot 的自定义消息平台与专属 Flutter 客户端通信，内置原生 MCP 执行引擎与 HitL 审批拦截机制。",
@@ -515,8 +526,8 @@
     "social_link": "https://github.com/Renyus",
     "tags": [],
     "stars": 25,
-    "version": "Ver 2.2.0",
-    "updated_at": "2026-03-15T14:53:44Z"
+    "version": "Ver 2.2.1",
+    "updated_at": "2026-03-16T01:47:09Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -735,7 +746,7 @@
     "social_link": "https://github.com/RichardLiuda",
     "stars": 8,
     "version": "v1.2.5",
-    "updated_at": "2026-03-15T17:31:46Z",
+    "updated_at": "2026-03-16T01:25:42Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -1229,9 +1240,9 @@
       "PDF"
     ],
     "category": "外部集成",
-    "stars": 9,
+    "stars": 10,
     "version": "3.0.0",
-    "updated_at": "2026-03-09T18:16:34Z",
+    "updated_at": "2026-03-16T00:09:02Z",
     "logo": "https://raw.githubusercontent.com/blueraina/astrbot_plugin_novel/main/logo.png"
   },
   "astrbot-plugin-inaturalist-search": {
@@ -1315,9 +1326,9 @@
       "共同协作"
     ],
     "category": "外部集成",
-    "stars": 9,
+    "stars": 10,
     "version": "3.0.0",
-    "updated_at": "2026-03-09T18:16:34Z",
+    "updated_at": "2026-03-16T00:09:02Z",
     "logo": "https://raw.githubusercontent.com/blueraina/astrbot_plugin_novel/main/logo.png"
   },
   "astrbot-plugin-clonetts": {
@@ -1551,9 +1562,9 @@
       "工具"
     ],
     "category": "效率工具",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.1.0",
-    "updated_at": "2026-03-15T17:51:17Z",
+    "updated_at": "2026-03-16T00:13:23Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_at_check/master/logo.png"
   },
   "astrbot-plugin-grok-suite": {
@@ -3469,9 +3480,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "娱乐游戏",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.2.1",
-    "updated_at": "2026-03-15T13:33:45Z",
+    "updated_at": "2026-03-16T02:20:23Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_minesweeper/main/logo.png"
   },
   "astrbot_plugin_debounce": {
@@ -5339,9 +5350,9 @@
     ],
     "social_link": "https://box.firefly520.top/",
     "category": "AI增强",
-    "stars": 24,
+    "stars": 25,
     "version": "1.5.2",
-    "updated_at": "2026-03-15T03:32:53Z",
+    "updated_at": "2026-03-16T01:35:56Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/main/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -11600,9 +11611,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "外部集成",
-    "stars": 192,
+    "stars": 193,
     "version": "v3.0.3",
-    "updated_at": "2026-03-15T14:12:21Z",
+    "updated_at": "2026-03-16T02:06:42Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
