@@ -1,4 +1,14 @@
 {
+  "astrbot-plugin-rf4-data": {
+    "display_name": "astrbot_plugin_rf4_data",
+    "desc": "俄罗斯钓鱼4本地数据查询，鱼种上星上蓝重量、渔轮参数，零token消耗",
+    "author": "hugh",
+    "repo": "https://github.com/HUGHHUXIAOJUN/RF4_data",
+    "tags": [
+      "RF4",
+      "俄罗斯钓鱼"
+    ]
+  },
   "astrbot-plugin-exchangerate-icbc": {
     "display_name": "工行汇率监控",
     "desc": "获取工商银行实时汇率数据，实现实时查询、汇率监控及自定义配置频率功能。",
