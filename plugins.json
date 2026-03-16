@@ -1,4 +1,10 @@
 {
+  "astrbot-plugin-azurlane-assistant": {
+    "display_name": "碧蓝航线小程序",
+    "desc": "碧蓝航线小助手，支持用户信息和建造记录查询。",
+    "author": "luruka_llk",
+    "repo": "https://github.com/lurukapro/astrbot_plugin_azurlane_assistant"
+  },
   "astrbot-plugin-maid-agent": {
     "display_name": "代理女仆",
     "desc": "大小姐+管家模式子代理系统：主模型仅保留自然语言对话上下文，所有工具调用通过管家subagent执行，减少结构化数据提示词污染角色扮演。",
