@@ -43,9 +43,9 @@
     "repo": "https://github.com/Kalospacer/astrbot_plugin_maid_agent",
     "tags": [],
     "social_link": "",
-    "stars": 10,
+    "stars": 11,
     "version": "1.0.1",
-    "updated_at": "2026-03-17T12:06:49Z",
+    "updated_at": "2026-03-17T14:09:17Z",
     "logo": "https://raw.githubusercontent.com/Kalospacer/astrbot_plugin_maid_agent/master/logo.png"
   },
   "astrbot-plugin-stoprushingiamtyping": {
@@ -924,7 +924,7 @@
     "social_link": "https://github.com/menglimi",
     "stars": 23,
     "version": "2.7.0",
-    "updated_at": "2026-03-17T11:55:34Z",
+    "updated_at": "2026-03-17T13:33:15Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -3183,8 +3183,8 @@
     "social_link": "https://qwq.pyuramazo.online",
     "category": "娱乐游戏",
     "stars": 15,
-    "version": "v1.7.4",
-    "updated_at": "2026-03-16T13:59:12Z",
+    "version": "v1.8.0",
+    "updated_at": "2026-03-17T14:04:09Z",
     "logo": "https://raw.githubusercontent.com/PyuraMazo/astrbot_plugin_galgame_box/master/logo.png"
   },
   "astrbot_plugin_anitabi": {
@@ -4462,7 +4462,7 @@
     "category": "AI增强",
     "stars": 62,
     "version": "1.3.3",
-    "updated_at": "2026-03-17T12:07:08Z",
+    "updated_at": "2026-03-17T14:09:52Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -6833,9 +6833,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "AI增强",
-    "stars": 134,
+    "stars": 135,
     "version": "v1.1.5",
-    "updated_at": "2026-03-17T11:13:04Z",
+    "updated_at": "2026-03-17T14:07:21Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -6863,9 +6863,9 @@
       "日语"
     ],
     "category": "AI增强",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.1",
-    "updated_at": "2026-03-07T14:22:47Z"
+    "updated_at": "2026-03-17T14:46:56Z"
   },
   "astrbot_plugin_jimengapi": {
     "display_name": "即梦 API",
@@ -9569,7 +9569,7 @@
     "category": "效率工具",
     "stars": 36,
     "version": "v2.0.0",
-    "updated_at": "2026-03-17T12:08:47Z",
+    "updated_at": "2026-03-17T14:15:05Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -13344,9 +13344,9 @@
       "推送"
     ],
     "category": "生活实用",
-    "stars": 20,
+    "stars": 21,
     "version": "v2.1.0",
-    "updated_at": "2026-03-05T03:51:56Z"
+    "updated_at": "2026-03-17T14:05:28Z"
   },
   "astrbot_plugin_gemini_exp": {
     "desc": "让你在 AstrBot 调用 Gemini2.0-flash-exp 来生成图片或者 P 图。Gemini2.0-flash-exp为原生多模态模型，其既是语言模型，也是生图模型，因此能够对图像使用简单的自然语言命令进行处理。",
@@ -13876,9 +13876,9 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "category": "生活实用",
     "tags": [],
-    "stars": 46,
+    "stars": 47,
     "version": "v1.5.6",
-    "updated_at": "2026-03-16T10:04:59Z",
+    "updated_at": "2026-03-17T14:02:54Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
@@ -14279,9 +14279,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "AI增强",
     "tags": [],
-    "stars": 204,
+    "stars": 205,
     "version": "v2.1.0",
-    "updated_at": "2026-03-16T10:58:48Z"
+    "updated_at": "2026-03-17T14:19:13Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
