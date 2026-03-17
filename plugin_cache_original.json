@@ -43,9 +43,9 @@
     "repo": "https://github.com/Kalospacer/astrbot_plugin_maid_agent",
     "tags": [],
     "social_link": "",
-    "stars": 6,
-    "version": "1.0.0",
-    "updated_at": "2026-03-17T07:20:52Z",
+    "stars": 8,
+    "version": "1.0.1",
+    "updated_at": "2026-03-17T10:52:32Z",
     "logo": "https://raw.githubusercontent.com/Kalospacer/astrbot_plugin_maid_agent/master/logo.png"
   },
   "astrbot-plugin-stoprushingiamtyping": {
@@ -155,9 +155,9 @@
     "repo": "https://github.com/Alien-Star/astrbot_plugin_atrelay",
     "social_link": "www.alienstar.icu",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v0.3.2",
-    "updated_at": "2026-03-16T22:01:12Z"
+    "updated_at": "2026-03-17T10:55:51Z"
   },
   "astrbot-plugin-Lumi-Hub-plugin": {
     "display_name": "Lumi-Hub-plugin",
@@ -597,8 +597,8 @@
       "adapter"
     ],
     "stars": 1,
-    "version": "0.6.0",
-    "updated_at": "2026-03-16T22:35:44Z",
+    "version": "0.7.0",
+    "updated_at": "2026-03-17T10:39:38Z",
     "logo": "https://raw.githubusercontent.com/outlook84/astrbot_plugin_telethon_adapter/main/logo.png"
   },
   "astrbot-plugin-githubapp-adapter": {
@@ -1954,9 +1954,9 @@
       "小游戏"
     ],
     "category": "娱乐游戏",
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.0",
-    "updated_at": "2026-02-24T12:29:44Z"
+    "updated_at": "2026-03-17T09:59:15Z"
   },
   "astrbot_plugin_lyricsplus": {
     "display_name": "接歌词 Plus",
@@ -2022,9 +2022,9 @@
       "数据查询"
     ],
     "category": "娱乐游戏",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.0.3",
-    "updated_at": "2026-03-17T01:50:38Z",
+    "updated_at": "2026-03-17T10:00:13Z",
     "logo": "https://raw.githubusercontent.com/qsc20001102/astrbot_plugin_gok/master/logo.png"
   },
   "astrbot_plugin_lyrics_trigger": {
@@ -2432,9 +2432,9 @@
     ],
     "social_link": "846994183@qq.com",
     "category": "娱乐游戏",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.2.0",
-    "updated_at": "2026-02-10T05:22:33Z"
+    "updated_at": "2026-03-17T10:01:39Z"
   },
   "astrbot_plugin_meme": {
     "display_name": "表情包插件",
@@ -2603,7 +2603,7 @@
     "category": "外部集成",
     "stars": 2,
     "version": "v2.0",
-    "updated_at": "2026-03-13T17:27:43Z"
+    "updated_at": "2026-03-17T10:22:35Z"
   },
   "astrbot_plugin_image_url_base64_to_mcp": {
     "display_name": "图片_url_base64_传递至_mcp",
@@ -3586,9 +3586,9 @@
     ],
     "social_link": "https://github.com/VanillaNahida/",
     "category": "外部集成",
-    "stars": 22,
+    "stars": 23,
     "version": "v1.2.3",
-    "updated_at": "2026-03-13T04:24:46Z",
+    "updated_at": "2026-03-17T10:03:01Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_geetest_verify/master/logo.png"
   },
   "astrbot_plugin_cliproxy_stats": {
@@ -3777,9 +3777,9 @@
     ],
     "social_link": "https://github.com/Clhikari",
     "category": "AI增强",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.2.5",
-    "updated_at": "2026-03-14T17:17:21Z",
+    "updated_at": "2026-03-17T10:03:46Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -4001,9 +4001,9 @@
       "manga"
     ],
     "category": "外部集成",
-    "stars": 0,
+    "stars": 1,
     "version": "1.0.0",
-    "updated_at": "2025-12-06T10:17:37Z",
+    "updated_at": "2026-03-17T10:04:53Z",
     "logo": "https://raw.githubusercontent.com/xuedu/astrbot-plugin-copymanga/master/logo.png"
   },
   "astrbot_plugin_random_post_in_e621": {
@@ -4813,9 +4813,9 @@
     ],
     "social_link": "https://github.com/huizhiLLL",
     "category": "效率工具",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.7",
-    "updated_at": "2026-03-15T05:13:25Z",
+    "updated_at": "2026-03-17T10:35:19Z",
     "logo": "https://raw.githubusercontent.com/huizhiLLL/astrbot_plugin_wca/master/logo.png"
   },
   "astrbot_plugin_memos_integrator": {
@@ -5067,9 +5067,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "生活实用",
-    "stars": 43,
+    "stars": 44,
     "version": "v1.4.0",
-    "updated_at": "2026-03-15T12:01:14Z",
+    "updated_at": "2026-03-17T10:36:58Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -8113,9 +8113,9 @@
       "积分系统"
     ],
     "category": "AI增强",
-    "stars": 9,
+    "stars": 10,
     "version": "1.1.0",
-    "updated_at": "2026-03-11T23:51:17Z"
+    "updated_at": "2026-03-17T10:42:48Z"
   },
   "persistent_history": {
     "desc": "基本无需设置的简单永久记忆插件",
@@ -8891,9 +8891,9 @@
     ],
     "social_link": "https://github.com/Futureppo",
     "category": "效率工具",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.0.3",
-    "updated_at": "2026-03-16T15:25:28Z",
+    "updated_at": "2026-03-17T10:44:09Z",
     "logo": "https://raw.githubusercontent.com/Futureppo/astrbot_plugin_Xiaomi_BandProMax/main/logo.png"
   },
   "astrbot_plugin_immersive_control": {
@@ -9567,9 +9567,9 @@
       "主动回复"
     ],
     "category": "效率工具",
-    "stars": 33,
+    "stars": 34,
     "version": "v2.0.0",
-    "updated_at": "2026-03-17T08:32:20Z",
+    "updated_at": "2026-03-17T10:24:16Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -10229,9 +10229,9 @@
     "repo": "https://github.com/sa1guu/astrbot_plugin_touchi",
     "category": "效率工具",
     "tags": [],
-    "stars": 37,
+    "stars": 38,
     "version": "v2.8.3",
-    "updated_at": "2026-02-27T13:06:31Z",
+    "updated_at": "2026-03-17T10:46:38Z",
     "logo": "https://raw.githubusercontent.com/sa1guu/astrbot_plugin_touchi/master/logo.png"
   },
   "astrbot_plugin_Astrsupermarket": {
@@ -11667,9 +11667,9 @@
     "desc": "电子钓鱼的小游戏",
     "category": "娱乐游戏",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "1.0.0",
-    "updated_at": "2025-05-30T14:35:03Z"
+    "updated_at": "2026-03-17T10:49:07Z"
   },
   "astrbot_plugin_SillyTavern_card": {
     "author": "LKarxa",
@@ -11761,9 +11761,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "外部集成",
-    "stars": 198,
+    "stars": 199,
     "version": "v3.0.3",
-    "updated_at": "2026-03-17T09:19:07Z",
+    "updated_at": "2026-03-17T10:31:35Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -11873,9 +11873,9 @@
     ],
     "social_link": "https://github.com/gameswu",
     "category": "外部集成",
-    "stars": 12,
+    "stars": 13,
     "version": "v0.2.2",
-    "updated_at": "2026-03-13T17:37:54Z",
+    "updated_at": "2026-03-17T10:50:02Z",
     "logo": "https://raw.githubusercontent.com/gameswu/astrbot_plugin_osutrack/master/logo.png"
   },
   "astrbot_plugin_group_information": {
@@ -12180,9 +12180,9 @@
     ],
     "desc": "CS 武器箱开箱模拟支持大量目前已有的武器箱，可以展示开启物品的图案和对应的磨损",
     "category": "效率工具",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.3.1",
-    "updated_at": "2026-03-08T05:30:41Z",
+    "updated_at": "2026-03-17T10:52:23Z",
     "logo": "https://raw.githubusercontent.com/luooka/astrbot_plugin_openweaponscase/master/logo.png"
   },
   "astrbot_plugin_gallery": {
