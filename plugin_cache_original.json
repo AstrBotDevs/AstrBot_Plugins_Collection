@@ -5012,9 +5012,9 @@
       "表情"
     ],
     "category": "AI增强",
-    "stars": 30,
+    "stars": 31,
     "version": "2.4.5",
-    "updated_at": "2026-03-17T05:01:49Z",
+    "updated_at": "2026-03-17T19:10:10Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -9567,9 +9567,9 @@
       "主动回复"
     ],
     "category": "效率工具",
-    "stars": 36,
+    "stars": 37,
     "version": "v2.0.0",
-    "updated_at": "2026-03-17T14:15:05Z",
+    "updated_at": "2026-03-17T18:01:56Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
