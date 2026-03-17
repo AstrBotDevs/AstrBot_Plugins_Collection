@@ -4550,7 +4550,7 @@
     "category": "生活实用",
     "stars": 4,
     "version": "v1.3.0",
-    "updated_at": "2026-03-17T16:53:29Z",
+    "updated_at": "2026-03-17T21:32:15Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_reminder/master/logo.png"
   },
   "astrbot_plugin_binance": {
@@ -6100,8 +6100,8 @@
     ],
     "category": "效率工具",
     "stars": 24,
-    "version": "v5.0.1",
-    "updated_at": "2026-03-16T20:25:12Z",
+    "version": "v5.1.0",
+    "updated_at": "2026-03-17T20:55:48Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
