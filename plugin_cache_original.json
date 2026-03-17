@@ -43,9 +43,9 @@
     "repo": "https://github.com/Kalospacer/astrbot_plugin_maid_agent",
     "tags": [],
     "social_link": "",
-    "stars": 8,
+    "stars": 9,
     "version": "1.0.1",
-    "updated_at": "2026-03-17T10:52:32Z",
+    "updated_at": "2026-03-17T11:05:11Z",
     "logo": "https://raw.githubusercontent.com/Kalospacer/astrbot_plugin_maid_agent/master/logo.png"
   },
   "astrbot-plugin-stoprushingiamtyping": {
@@ -170,9 +170,9 @@
       "mcp"
     ],
     "social_link": "https://github.com/Lumivers/Lumi-Hub",
-    "stars": 0,
+    "stars": 1,
     "version": "0.2.0",
-    "updated_at": "2026-03-14T10:45:54Z"
+    "updated_at": "2026-03-17T11:36:26Z"
   },
   "astrbot-plugin-arknights": {
     "display_name": "基于森空岛（Skland）公开API的明日方舟玩家数据查询AstrBot插件",
@@ -2119,9 +2119,9 @@
       "codegen"
     ],
     "category": "AI增强",
-    "stars": 32,
+    "stars": 33,
     "version": "1.1.1",
-    "updated_at": "2026-03-16T14:51:47Z",
+    "updated_at": "2026-03-17T11:09:02Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -2702,7 +2702,7 @@
     "category": "娱乐游戏",
     "stars": 10,
     "version": "v1.3.0",
-    "updated_at": "2026-03-17T06:39:38Z"
+    "updated_at": "2026-03-17T11:41:17Z"
   },
   "astrbot_plugin_tomin": {
     "display_name": "Tomin - 少女乐队游戏",
@@ -3274,9 +3274,9 @@
       "拟人"
     ],
     "category": "AI增强",
-    "stars": 6,
+    "stars": 7,
     "version": "1.6.0",
-    "updated_at": "2026-03-17T04:51:18Z"
+    "updated_at": "2026-03-17T11:23:30Z"
   },
   "astrbot_plugin_mc_manager": {
     "display_name": "astrbot_plugin_mc_manager",
@@ -4460,9 +4460,9 @@
       "人格"
     ],
     "category": "AI增强",
-    "stars": 60,
+    "stars": 61,
     "version": "1.3.3",
-    "updated_at": "2026-03-17T09:38:19Z",
+    "updated_at": "2026-03-17T11:35:37Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -6507,9 +6507,9 @@
     ],
     "social_link": "https://github.com/Luna-channel",
     "category": "生活实用",
-    "stars": 20,
+    "stars": 21,
     "version": "1.4.4",
-    "updated_at": "2026-03-16T10:12:20Z",
+    "updated_at": "2026-03-17T11:39:13Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_Conversa/main/logo.png"
   },
   "astrbot_plugin_shutdown": {
@@ -6833,9 +6833,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "AI增强",
-    "stars": 133,
+    "stars": 134,
     "version": "v1.1.5",
-    "updated_at": "2026-03-17T08:18:02Z",
+    "updated_at": "2026-03-17T11:13:04Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -11761,9 +11761,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "外部集成",
-    "stars": 199,
+    "stars": 200,
     "version": "v3.0.3",
-    "updated_at": "2026-03-17T10:31:35Z",
+    "updated_at": "2026-03-17T11:30:51Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -12987,9 +12987,9 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "category": "娱乐游戏",
-    "stars": 90,
+    "stars": 91,
     "version": "v3.0.3",
-    "updated_at": "2026-03-17T08:14:25Z",
+    "updated_at": "2026-03-17T10:58:41Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
