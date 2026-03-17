@@ -43,9 +43,9 @@
     "repo": "https://github.com/Kalospacer/astrbot_plugin_maid_agent",
     "tags": [],
     "social_link": "",
-    "stars": 5,
+    "stars": 6,
     "version": "1.0.0",
-    "updated_at": "2026-03-17T01:50:33Z",
+    "updated_at": "2026-03-17T07:20:52Z",
     "logo": "https://raw.githubusercontent.com/Kalospacer/astrbot_plugin_maid_agent/master/logo.png"
   },
   "astrbot-plugin-stoprushingiamtyping": {
@@ -132,7 +132,7 @@
     "social_link": "https://github.com/SXP-Simon",
     "stars": 228,
     "version": "v4.9.1",
-    "updated_at": "2026-03-17T07:09:56Z",
+    "updated_at": "2026-03-17T08:30:46Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -298,9 +298,9 @@
     "repo": "https://github.com/Kalospacer/astrbot_plugin_content_safety_guard",
     "social_link": "https://github.com/Kalospacer",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "1.2.6",
-    "updated_at": "2026-03-13T14:05:50Z"
+    "updated_at": "2026-03-17T07:43:37Z"
   },
   "astrbot-plugin-pairit": {
     "display_name": "PairIt",
@@ -477,7 +477,7 @@
     "social_link": "https://github.com/FlanChanXwO",
     "stars": 3,
     "version": "v1.0.2",
-    "updated_at": "2026-03-14T12:52:04Z",
+    "updated_at": "2026-03-17T08:01:19Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_status/master/logo.png"
   },
   "astrbot-plugin-adsb-monitor": {
@@ -1241,9 +1241,9 @@
     "social_link": "https://github.com/storyAura",
     "category": "生活实用",
     "tags": [],
-    "stars": 14,
+    "stars": 16,
     "version": "v1.0.2",
-    "updated_at": "2026-03-16T12:33:21Z",
+    "updated_at": "2026-03-17T08:42:33Z",
     "logo": "https://raw.githubusercontent.com/storyAura/astrbot_plugin_biliVideo/main/logo.png"
   },
   "astrbot-plugin-opencode-client": {
@@ -1867,9 +1867,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 63,
+    "stars": 64,
     "version": "v1.6.2",
-    "updated_at": "2026-03-17T03:20:50Z",
+    "updated_at": "2026-03-17T08:26:30Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -3042,7 +3042,7 @@
     "category": "外部集成",
     "stars": 228,
     "version": "v4.9.1",
-    "updated_at": "2026-03-17T07:09:56Z",
+    "updated_at": "2026-03-17T08:30:46Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -3164,9 +3164,9 @@
     ],
     "social_link": "https://github.com/camera-2018",
     "category": "AI增强",
-    "stars": 4,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-03-16T06:34:45Z"
+    "updated_at": "2026-03-17T08:34:39Z"
   },
   "astrbot_plugin_galgame_box": {
     "display_name": "Galgame 百宝盒",
@@ -6833,9 +6833,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "AI增强",
-    "stars": 132,
+    "stars": 133,
     "version": "v1.1.5",
-    "updated_at": "2026-03-17T03:03:37Z",
+    "updated_at": "2026-03-17T08:18:02Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -8164,8 +8164,8 @@
     "category": "外部集成",
     "tags": [],
     "stars": 48,
-    "version": "v2.5.4",
-    "updated_at": "2026-03-17T04:10:28Z"
+    "version": "v2.5.5",
+    "updated_at": "2026-03-17T08:51:46Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -9567,9 +9567,9 @@
       "主动回复"
     ],
     "category": "效率工具",
-    "stars": 30,
+    "stars": 33,
     "version": "v2.0.0",
-    "updated_at": "2026-03-17T02:32:30Z",
+    "updated_at": "2026-03-17T08:32:20Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -11761,9 +11761,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "外部集成",
-    "stars": 196,
+    "stars": 197,
     "version": "v3.0.3",
-    "updated_at": "2026-03-16T21:54:03Z",
+    "updated_at": "2026-03-17T07:46:21Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -12524,9 +12524,9 @@
       "QQ群管"
     ],
     "category": "效率工具",
-    "stars": 105,
+    "stars": 106,
     "version": "v3.2.7",
-    "updated_at": "2026-03-16T08:14:49Z",
+    "updated_at": "2026-03-17T07:56:07Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -12987,9 +12987,9 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "category": "娱乐游戏",
-    "stars": 89,
+    "stars": 90,
     "version": "v3.0.3",
-    "updated_at": "2026-03-10T20:02:08Z",
+    "updated_at": "2026-03-17T08:14:25Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
@@ -13626,9 +13626,9 @@
     ],
     "pinned": true,
     "category": "效率工具",
-    "stars": 188,
+    "stars": 189,
     "version": "v3.19",
-    "updated_at": "2026-03-16T20:11:57Z"
+    "updated_at": "2026-03-17T08:49:12Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
