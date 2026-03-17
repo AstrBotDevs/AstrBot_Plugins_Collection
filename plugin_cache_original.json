@@ -130,9 +130,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 227,
+    "stars": 228,
     "version": "v4.9.1",
-    "updated_at": "2026-03-17T02:38:02Z",
+    "updated_at": "2026-03-17T07:09:56Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -272,8 +272,8 @@
     "social_link": "https://github.com/zack-zzq",
     "tags": [],
     "stars": 1,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-12T11:45:15Z",
+    "version": "v1.0.2",
+    "updated_at": "2026-03-17T06:47:44Z",
     "logo": "https://raw.githubusercontent.com/zack-zzq/astr_plugin_yunzhijia_adapter/master/logo.png"
   },
   "astrbot-plugin-weibo-monitor": {
@@ -393,8 +393,8 @@
       "SHIT"
     ],
     "stars": 3,
-    "version": "v1.2.0",
-    "updated_at": "2026-03-14T21:39:46Z"
+    "version": "v1.2.1",
+    "updated_at": "2026-03-17T06:00:57Z"
   },
   "astrbot-plugin-SteamLink": {
     "display_name": "Steam 游戏查找识别",
@@ -2199,9 +2199,9 @@
       "娱乐"
     ],
     "category": "AI增强",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.0.0",
-    "updated_at": "2026-02-27T17:20:47Z"
+    "updated_at": "2026-03-17T07:00:07Z"
   },
   "astrbot_plugin_elves_world": {
     "display_name": "精灵世界",
@@ -2700,9 +2700,9 @@
     ],
     "social_link": "https://github.com/Azincc/",
     "category": "娱乐游戏",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.3.0",
-    "updated_at": "2026-03-13T17:27:32Z"
+    "updated_at": "2026-03-17T06:39:38Z"
   },
   "astrbot_plugin_tomin": {
     "display_name": "Tomin - 少女乐队游戏",
@@ -3040,9 +3040,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
-    "stars": 227,
+    "stars": 228,
     "version": "v4.9.1",
-    "updated_at": "2026-03-17T02:38:02Z",
+    "updated_at": "2026-03-17T07:09:56Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -3629,9 +3629,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "娱乐游戏",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.2.1",
-    "updated_at": "2026-03-16T02:20:23Z",
+    "updated_at": "2026-03-17T06:07:38Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_minesweeper/main/logo.png"
   },
   "astrbot_plugin_debounce": {
@@ -3690,9 +3690,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 202,
+    "stars": 203,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-16T20:12:39Z",
+    "updated_at": "2026-03-17T06:40:55Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -5546,7 +5546,7 @@
     "category": "效率工具",
     "stars": 2,
     "version": "v1.2.3",
-    "updated_at": "2026-03-14T14:41:08Z",
+    "updated_at": "2026-03-17T06:16:18Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_openlistfile/master/logo.png"
   },
   "astrbot_plugin_gemini_image": {
@@ -10867,9 +10867,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 123,
+    "stars": 124,
     "version": "v2.0.9",
-    "updated_at": "2026-03-16T12:47:43Z",
+    "updated_at": "2026-03-17T06:01:33Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
