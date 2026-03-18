@@ -393,8 +393,8 @@
       "SHIT"
     ],
     "stars": 3,
-    "version": "v1.2.1",
-    "updated_at": "2026-03-17T06:00:57Z"
+    "version": "v1.2.2",
+    "updated_at": "2026-03-18T05:16:03Z"
   },
   "astrbot-plugin-SteamLink": {
     "display_name": "Steam 游戏查找识别",
@@ -449,9 +449,9 @@
       "提醒",
       "监控"
     ],
-    "stars": 4,
+    "stars": 5,
     "version": "v1.1.3",
-    "updated_at": "2026-03-17T11:58:09Z",
+    "updated_at": "2026-03-18T05:01:25Z",
     "logo": "https://raw.githubusercontent.com/gangcaiyoule/astrbot_plugin_mail_notify/master/logo.png"
   },
   "astrbot-plugin-Xagent-searcher": {
@@ -676,7 +676,7 @@
     "tags": [],
     "stars": 28,
     "version": "Ver 2.5.1",
-    "updated_at": "2026-03-17T16:13:45Z"
+    "updated_at": "2026-03-18T05:10:49Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -894,8 +894,8 @@
     ],
     "social_link": "https://github.com/RichardLiuda",
     "stars": 11,
-    "version": "v1.3.0",
-    "updated_at": "2026-03-18T04:56:24Z",
+    "version": "v1.3.1",
+    "updated_at": "2026-03-18T05:12:31Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -1625,9 +1625,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "外部集成",
-    "stars": 28,
+    "stars": 29,
     "version": "2.6.2",
-    "updated_at": "2026-03-17T19:36:30Z"
+    "updated_at": "2026-03-18T05:18:24Z"
   },
   "astrbot-plugin-meting": {
     "display_name": "初叶🍂MetingAPI 点歌",
@@ -5377,9 +5377,9 @@
     ],
     "social_link": "https://qm.qq.com/q/RMjGPizOAm",
     "category": "AI增强",
-    "stars": 12,
+    "stars": 13,
     "version": "v2.3.1",
-    "updated_at": "2026-03-16T14:02:09Z",
+    "updated_at": "2026-03-18T05:30:36Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_AtTool/main/logo.png"
   },
   "astrbot_plugin_CloudImg": {
@@ -6741,8 +6741,8 @@
     ],
     "category": "娱乐游戏",
     "stars": 7,
-    "version": "v0.3.3",
-    "updated_at": "2026-03-16T12:54:08Z",
+    "version": "v0.4.0",
+    "updated_at": "2026-03-18T05:18:03Z",
     "logo": "https://raw.githubusercontent.com/linjianyan0229/astrbot_plugin_monixiuxian/main/logo.png"
   },
   "astrbot_plugin_invitecount": {
@@ -6833,9 +6833,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "AI增强",
-    "stars": 136,
+    "stars": 137,
     "version": "v1.1.5",
-    "updated_at": "2026-03-18T00:37:03Z",
+    "updated_at": "2026-03-18T05:38:52Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -7077,9 +7077,9 @@
       "nobroswer"
     ],
     "category": "AI增强",
-    "stars": 21,
+    "stars": 22,
     "version": "v1.4.0",
-    "updated_at": "2026-03-16T15:35:06Z"
+    "updated_at": "2026-03-18T05:03:18Z"
   },
   "astrbot_plugin_fetch_summary": {
     "desc": "根据 URL 获取网站摘要",
@@ -14279,9 +14279,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "AI增强",
     "tags": [],
-    "stars": 205,
+    "stars": 206,
     "version": "v2.1.0",
-    "updated_at": "2026-03-17T14:19:13Z"
+    "updated_at": "2026-03-18T05:14:17Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
