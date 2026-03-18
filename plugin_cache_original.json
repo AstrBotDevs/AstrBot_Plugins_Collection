@@ -130,9 +130,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 240,
+    "stars": 241,
     "version": "v4.9.1",
-    "updated_at": "2026-03-18T16:46:45Z",
+    "updated_at": "2026-03-18T20:15:15Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -219,7 +219,7 @@
     "social_link": "https://github.com/RhoninSeiei",
     "stars": 1,
     "version": "v0.2.2",
-    "updated_at": "2026-03-16T15:38:37Z"
+    "updated_at": "2026-03-18T19:08:22Z"
   },
   "astrbot-plugin-lyria": {
     "display_name": "Lyria音乐生成",
@@ -623,8 +623,8 @@
     "social_link": "https://github.com/kawayiYokami/",
     "tags": [],
     "stars": 4,
-    "version": "1.0.1",
-    "updated_at": "2026-03-18T01:28:16Z",
+    "version": "1.0.2",
+    "updated_at": "2026-03-18T19:53:52Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_smile/master/logo.png"
   },
   "astrbot-plugin-smart-filter": {
@@ -3040,9 +3040,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
-    "stars": 240,
+    "stars": 241,
     "version": "v4.9.1",
-    "updated_at": "2026-03-18T16:46:45Z",
+    "updated_at": "2026-03-18T20:15:15Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -3182,9 +3182,9 @@
     ],
     "social_link": "https://qwq.pyuramazo.online",
     "category": "娱乐游戏",
-    "stars": 17,
+    "stars": 18,
     "version": "v1.8.0",
-    "updated_at": "2026-03-18T06:20:06Z",
+    "updated_at": "2026-03-18T20:23:41Z",
     "logo": "https://raw.githubusercontent.com/PyuraMazo/astrbot_plugin_galgame_box/master/logo.png"
   },
   "astrbot_plugin_anitabi": {
@@ -3275,8 +3275,8 @@
     ],
     "category": "AI增强",
     "stars": 8,
-    "version": "1.6.0",
-    "updated_at": "2026-03-18T09:13:59Z"
+    "version": "1.6.5",
+    "updated_at": "2026-03-18T20:36:59Z"
   },
   "astrbot_plugin_mc_manager": {
     "display_name": "astrbot_plugin_mc_manager",
@@ -6535,9 +6535,9 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "AI增强",
-    "stars": 68,
+    "stars": 69,
     "version": "v1.2.1-(hotfix-重推)",
-    "updated_at": "2026-03-18T07:58:48Z",
+    "updated_at": "2026-03-18T19:20:15Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
