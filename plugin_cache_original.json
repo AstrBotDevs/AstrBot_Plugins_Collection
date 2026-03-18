@@ -130,9 +130,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 238,
+    "stars": 239,
     "version": "v4.9.1",
-    "updated_at": "2026-03-18T08:42:20Z",
+    "updated_at": "2026-03-18T10:57:46Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1867,9 +1867,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 67,
+    "stars": 68,
     "version": "v2.0.0",
-    "updated_at": "2026-03-18T09:25:03Z",
+    "updated_at": "2026-03-18T11:51:06Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -2899,9 +2899,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "AI增强",
-    "stars": 27,
+    "stars": 28,
     "version": "2.2.3",
-    "updated_at": "2026-03-18T07:11:41Z",
+    "updated_at": "2026-03-18T11:07:59Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_worldbook/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -3040,9 +3040,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
-    "stars": 238,
+    "stars": 239,
     "version": "v4.9.1",
-    "updated_at": "2026-03-18T08:42:20Z",
+    "updated_at": "2026-03-18T10:57:46Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -3779,7 +3779,7 @@
     "category": "AI增强",
     "stars": 11,
     "version": "v1.3.0",
-    "updated_at": "2026-03-18T09:49:26Z",
+    "updated_at": "2026-03-18T11:29:48Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -11512,9 +11512,9 @@
     "repo": "https://github.com/ttq7/astrbot_plugin_voiceprint",
     "category": "效率工具",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0.0",
-    "updated_at": "2025-12-13T05:46:29Z"
+    "updated_at": "2026-03-18T11:25:18Z"
   },
   "astrbot_plugin_mrfz": {
     "author": "bushikq",
@@ -14279,9 +14279,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "AI增强",
     "tags": [],
-    "stars": 206,
+    "stars": 205,
     "version": "v2.1.0",
-    "updated_at": "2026-03-18T05:14:17Z"
+    "updated_at": "2026-03-18T11:27:51Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
