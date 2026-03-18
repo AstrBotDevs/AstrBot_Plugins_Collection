@@ -450,8 +450,8 @@
       "监控"
     ],
     "stars": 7,
-    "version": "v1.2.0",
-    "updated_at": "2026-03-18T16:47:56Z",
+    "version": "v1.2.2",
+    "updated_at": "2026-03-18T18:28:32Z",
     "logo": "https://raw.githubusercontent.com/gangcaiyoule/astrbot_plugin_mail_notify/master/logo.png"
   },
   "astrbot-plugin-Xagent-searcher": {
@@ -924,7 +924,7 @@
     "social_link": "https://github.com/menglimi",
     "stars": 24,
     "version": "2.7.1",
-    "updated_at": "2026-03-18T17:00:26Z",
+    "updated_at": "2026-03-18T17:09:32Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -2416,9 +2416,9 @@
     ],
     "social_link": "https://github.com/YukiRa1n",
     "category": "AI增强",
-    "stars": 7,
+    "stars": 8,
     "version": "v2.1.0",
-    "updated_at": "2026-03-17T12:01:54Z"
+    "updated_at": "2026-03-18T18:24:54Z"
   },
   "astrbot_plugin_sudoku": {
     "display_name": "数独游戏",
@@ -5050,7 +5050,7 @@
     "category": "AI增强",
     "stars": 14,
     "version": "1.0.8",
-    "updated_at": "2026-03-18T16:56:29Z",
+    "updated_at": "2026-03-18T17:12:59Z",
     "logo": "https://raw.githubusercontent.com/sl251/astrbot_plugin_e2b_sandbox/main/logo.png"
   },
   "astrbot_plugin_disaster_warning": {
@@ -7077,9 +7077,9 @@
       "nobroswer"
     ],
     "category": "AI增强",
-    "stars": 22,
+    "stars": 23,
     "version": "v1.4.0",
-    "updated_at": "2026-03-18T05:03:18Z"
+    "updated_at": "2026-03-18T17:56:40Z"
   },
   "astrbot_plugin_fetch_summary": {
     "desc": "根据 URL 获取网站摘要",
@@ -8164,8 +8164,8 @@
     "category": "外部集成",
     "tags": [],
     "stars": 49,
-    "version": "v2.5.6",
-    "updated_at": "2026-03-18T16:58:01Z"
+    "version": "v2.5.7",
+    "updated_at": "2026-03-18T17:38:57Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -10673,9 +10673,9 @@
     ],
     "repo": "https://github.com/Shu-Ying/astrbot_plugin_farm",
     "category": "效率工具",
-    "stars": 17,
+    "stars": 16,
     "version": "v1.5.1",
-    "updated_at": "2025-12-05T05:38:39Z"
+    "updated_at": "2026-03-18T18:23:32Z"
   },
   "astrbot_plugin_weakblacklist": {
     "author": "和泉智宏",
@@ -12524,9 +12524,9 @@
       "QQ群管"
     ],
     "category": "效率工具",
-    "stars": 107,
+    "stars": 108,
     "version": "v3.2.7",
-    "updated_at": "2026-03-18T06:29:54Z",
+    "updated_at": "2026-03-18T18:26:39Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -13626,9 +13626,9 @@
     ],
     "pinned": true,
     "category": "效率工具",
-    "stars": 190,
+    "stars": 191,
     "version": "v3.19",
-    "updated_at": "2026-03-18T15:03:50Z"
+    "updated_at": "2026-03-18T18:20:36Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
@@ -13876,9 +13876,9 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "category": "生活实用",
     "tags": [],
-    "stars": 47,
+    "stars": 48,
     "version": "v1.5.6",
-    "updated_at": "2026-03-17T14:02:54Z",
+    "updated_at": "2026-03-18T18:22:14Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
@@ -14239,9 +14239,9 @@
     "repo": "https://github.com/zouyonghe/astrbot_plugin_web_searcher_pro",
     "category": "效率工具",
     "tags": [],
-    "stars": 13,
+    "stars": 14,
     "version": "v1.1.3",
-    "updated_at": "2026-03-09T19:46:09Z"
+    "updated_at": "2026-03-18T18:18:27Z"
   },
   "astrbot_plugin_memeify": {
     "desc": "一个AstrBot的插件，用于LLM回复表情包的实现",
@@ -14359,9 +14359,9 @@
     "repo": "https://github.com/zouyonghe/astrbot_plugin_ebooks",
     "category": "外部集成",
     "tags": [],
-    "stars": 19,
+    "stars": 20,
     "version": "v2.0.0",
-    "updated_at": "2026-03-12T16:09:30Z"
+    "updated_at": "2026-03-18T18:18:55Z"
   },
   "astrbot_plugin_AIQTalk": {
     "desc": "基于QQ的AI声聊完成的（伪）TTS转语音",
