@@ -44,8 +44,8 @@
     "tags": [],
     "social_link": "",
     "stars": 13,
-    "version": "1.0.1",
-    "updated_at": "2026-03-18T03:52:18Z",
+    "version": "1.1.0",
+    "updated_at": "2026-03-18T10:38:40Z",
     "logo": "https://raw.githubusercontent.com/Kalospacer/astrbot_plugin_maid_agent/master/logo.png"
   },
   "astrbot-plugin-stoprushingiamtyping": {
@@ -4102,8 +4102,8 @@
     ],
     "category": "生活实用",
     "stars": 0,
-    "version": "v1.2",
-    "updated_at": "2026-03-17T12:29:29Z",
+    "version": "v1.2.1",
+    "updated_at": "2026-03-18T10:54:01Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_multi_execute/master/logo.png"
   },
   "astrbot_plugin_recall_xz": {
@@ -5308,9 +5308,9 @@
     ],
     "social_link": "https://github.com/asakiyoshi",
     "category": "AI增强",
-    "stars": 4,
+    "stars": 5,
     "version": "v4.0.0",
-    "updated_at": "2026-02-07T04:18:22Z"
+    "updated_at": "2026-03-18T10:02:34Z"
   },
   "astrbot_plugin_markdown_killer": {
     "display_name": "Markdown 杀手",
@@ -8163,9 +8163,9 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "category": "外部集成",
     "tags": [],
-    "stars": 48,
+    "stars": 49,
     "version": "v2.5.5",
-    "updated_at": "2026-03-17T08:51:46Z"
+    "updated_at": "2026-03-18T10:08:45Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -9157,9 +9157,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 86,
+    "stars": 87,
     "version": "v3.0.4",
-    "updated_at": "2026-03-17T09:46:47Z",
+    "updated_at": "2026-03-18T10:46:59Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
