@@ -130,9 +130,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 236,
+    "stars": 238,
     "version": "v4.9.1",
-    "updated_at": "2026-03-18T06:20:07Z",
+    "updated_at": "2026-03-18T08:42:20Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1867,9 +1867,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 66,
+    "stars": 67,
     "version": "v2.0.0",
-    "updated_at": "2026-03-18T03:59:17Z",
+    "updated_at": "2026-03-18T08:45:39Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -3040,9 +3040,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
-    "stars": 236,
+    "stars": 238,
     "version": "v4.9.1",
-    "updated_at": "2026-03-18T06:20:07Z",
+    "updated_at": "2026-03-18T08:42:20Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -5050,7 +5050,7 @@
     "category": "AI增强",
     "stars": 13,
     "version": "1.0.8",
-    "updated_at": "2026-03-17T11:56:45Z",
+    "updated_at": "2026-03-18T08:48:11Z",
     "logo": "https://raw.githubusercontent.com/sl251/astrbot_plugin_e2b_sandbox/main/logo.png"
   },
   "astrbot_plugin_disaster_warning": {
@@ -5649,9 +5649,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "效率工具",
-    "stars": 109,
+    "stars": 110,
     "version": "v2.3.0",
-    "updated_at": "2026-03-17T16:56:20Z",
+    "updated_at": "2026-03-18T08:46:34Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -6535,9 +6535,9 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "AI增强",
-    "stars": 67,
+    "stars": 68,
     "version": "v1.2.1-(hotfix-重推)",
-    "updated_at": "2026-03-16T20:12:50Z",
+    "updated_at": "2026-03-18T07:58:48Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -10255,9 +10255,9 @@
     ],
     "social_link": "https://github.com/zhewang448",
     "category": "娱乐游戏",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.2.4",
-    "updated_at": "2026-02-03T08:42:21Z",
+    "updated_at": "2026-03-18T08:42:00Z",
     "logo": "https://raw.githubusercontent.com/zhewang448/astrbot_plugin_gameinfo/main/logo.png"
   },
   "astrbot_plugin_shutup": {
@@ -10769,9 +10769,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "娱乐游戏",
-    "stars": 62,
+    "stars": 63,
     "version": "2.2.0",
-    "updated_at": "2026-03-17T17:25:24Z",
+    "updated_at": "2026-03-18T08:44:58Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -10867,9 +10867,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 126,
+    "stars": 127,
     "version": "v2.0.9",
-    "updated_at": "2026-03-18T04:14:13Z",
+    "updated_at": "2026-03-18T08:24:03Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -11950,9 +11950,9 @@
     ],
     "social_link": "https://github.com/vmoranv-reborn",
     "category": "娱乐游戏",
-    "stars": 19,
+    "stars": 20,
     "version": "1.7.2",
-    "updated_at": "2026-03-18T03:05:16Z",
+    "updated_at": "2026-03-18T08:42:42Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
