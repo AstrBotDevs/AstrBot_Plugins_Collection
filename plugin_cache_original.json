@@ -581,9 +581,9 @@
       "gta online"
     ],
     "social_link": "",
-    "stars": 1,
+    "stars": 2,
     "version": "v0.1.0",
-    "updated_at": "2026-03-17T09:34:34Z",
+    "updated_at": "2026-03-18T11:57:43Z",
     "logo": "https://raw.githubusercontent.com/moemoli/astrbot_plugin_gta_online_helper/master/logo.png"
   },
   "telethon-adapter": {
@@ -1413,7 +1413,7 @@
     "category": "外部集成",
     "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-03-04T00:20:56Z",
+    "updated_at": "2026-03-18T13:07:23Z",
     "logo": "https://raw.githubusercontent.com/CecilyGao/astrbot_plugin_inaturalist_search/main/logo.png"
   },
   "astrbot-plugin-command-router": {
@@ -1461,7 +1461,7 @@
     "category": "外部集成",
     "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-03-18T03:50:56Z",
+    "updated_at": "2026-03-18T12:17:53Z",
     "logo": "https://raw.githubusercontent.com/CecilyGao/astrbot_plugin_gbif_search/master/logo.png"
   },
   "astrbot-plugin-novel": {
@@ -3675,8 +3675,8 @@
     "category": "AI增强",
     "tags": [],
     "stars": 19,
-    "version": "v4.3.3",
-    "updated_at": "2026-03-12T12:00:03Z",
+    "version": "v4.5.0",
+    "updated_at": "2026-03-18T11:58:47Z",
     "logo": "https://raw.githubusercontent.com/xiaoxi68/astrbot_zssm_explain/main/logo.png"
   },
   "astrbot_plugin_self_learning": {
@@ -5030,9 +5030,9 @@
     ],
     "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
     "category": "AI增强",
-    "stars": 20,
+    "stars": 21,
     "version": "v1.3.1",
-    "updated_at": "2026-03-16T15:47:27Z",
+    "updated_at": "2026-03-18T12:26:00Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -5783,9 +5783,9 @@
       "图片"
     ],
     "category": "效率工具",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0.5",
-    "updated_at": "2026-03-18T09:33:03Z",
+    "updated_at": "2026-03-18T12:16:40Z",
     "logo": "https://raw.githubusercontent.com/ningyou8023/astrbot_plugin_hotsearch/main/logo.png"
   },
   "astrbot_plugin_infinite_dialogue": {
@@ -11210,8 +11210,8 @@
     "social_link": "https://github.com/Zhalslar",
     "category": "效率工具",
     "stars": 12,
-    "version": "v1.0.3",
-    "updated_at": "2026-03-18T09:27:33Z",
+    "version": "v1.1.0",
+    "updated_at": "2026-03-18T13:03:18Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_zt/main/logo.png"
   },
   "astrbot_plugin_portrayal": {
@@ -13444,9 +13444,9 @@
     "repo": "https://github.com/4Nest/astrbot_plugin_mp_sub",
     "category": "生活实用",
     "tags": [],
-    "stars": 17,
+    "stars": 18,
     "version": "v1.2.0",
-    "updated_at": "2026-02-17T08:21:14Z"
+    "updated_at": "2026-03-18T13:10:29Z"
   },
   "astrbot_plugin_random_vtb": {
     "desc": "随机推送正在直播的管人直播间",
