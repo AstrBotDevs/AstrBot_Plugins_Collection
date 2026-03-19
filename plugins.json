@@ -1,4 +1,13 @@
 {
+  "astrbot-plugin-vocu-tts": {
+    "display_name": "VocuTTS",
+    "desc": "通过 Vocu API 将机器人发送的文本消息自动转为语音，支持 TRPG 括号内容过滤与情绪映射。",
+    "author": "Salieri",
+    "repo": "https://github.com/Salieri-Amadeus/VocuTTS_Astrbot",
+    "tags": [
+      "tts"
+    ]
+  },
   "astrbot-plugin-unturned-servers": {
     "display_name": "Unturned 服务器查询",
     "desc": "查询 Unturned 游戏服务器实时状态和在线玩家信息，支持 /status 和 /players 命令",
