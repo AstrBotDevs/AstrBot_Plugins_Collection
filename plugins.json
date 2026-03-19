@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-unturned-servers": {
+    "display_name": "Unturned 服务器查询",
+    "desc": "查询 Unturned 游戏服务器实时状态和在线玩家信息，支持 /status 和 /players 命令",
+    "author": "Bugelll",
+    "repo": "https://github.com/Bugelll/astrbot_plugin_unturned_servers",
+    "tags": [
+      "游戏",
+      "Unturned",
+      "服务器查询"
+    ]
+  },
   "astrbot-plugin-lofter": {
     "display_name": "Lofter解析&订阅",
     "desc": "AstrBot 插件，用于解析 Lofter 链接、订阅 Lofter 标签/博主、搜索 Lofter 内容。",
