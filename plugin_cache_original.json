@@ -1,4 +1,26 @@
 {
+  "astrbot-plugin-splatoon3": {
+    "display_name": "Splatoon3 斯普拉遁3查询",
+    "desc": "查询Splatoon3游戏数据，包括地图轮换、鲑鱼跑、挑战、祭典、装备商店等信息",
+    "author": "Pfw",
+    "repo": "https://github.com/pengfen-wei/astrbot_plugin_splatoon3",
+    "tags": [],
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-03-19T03:12:44Z"
+  },
+  "astrbot-plugin-vocu-tts": {
+    "display_name": "VocuTTS",
+    "desc": "通过 Vocu API 将机器人发送的文本消息自动转为语音，支持 TRPG 括号内容过滤与情绪映射。",
+    "author": "Salieri",
+    "repo": "https://github.com/Salieri-Amadeus/VocuTTS_Astrbot",
+    "tags": [
+      "tts"
+    ],
+    "stars": 0,
+    "version": "v0.1.0",
+    "updated_at": "2026-03-19T05:50:15Z"
+  },
   "astrbot-plugin-unturned-servers": {
     "display_name": "Unturned 服务器查询",
     "desc": "查询 Unturned 游戏服务器实时状态和在线玩家信息，支持 /status 和 /players 命令",
@@ -147,7 +169,7 @@
     "social_link": "https://github.com/SXP-Simon",
     "stars": 241,
     "version": "v4.9.1",
-    "updated_at": "2026-03-18T20:15:15Z",
+    "updated_at": "2026-03-19T07:07:48Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -2134,9 +2156,9 @@
       "codegen"
     ],
     "category": "AI增强",
-    "stars": 33,
+    "stars": 34,
     "version": "1.1.1",
-    "updated_at": "2026-03-17T11:09:02Z",
+    "updated_at": "2026-03-19T06:54:05Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -3057,7 +3079,7 @@
     "category": "外部集成",
     "stars": 241,
     "version": "v4.9.1",
-    "updated_at": "2026-03-18T20:15:15Z",
+    "updated_at": "2026-03-19T07:07:48Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -3705,9 +3727,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 206,
+    "stars": 207,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-18T02:43:25Z",
+    "updated_at": "2026-03-19T07:04:27Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -4073,9 +4095,9 @@
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
     "category": "AI增强",
-    "stars": 47,
+    "stars": 46,
     "version": "v1.1",
-    "updated_at": "2026-03-16T12:02:40Z"
+    "updated_at": "2026-03-19T07:01:46Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -4117,8 +4139,8 @@
     ],
     "category": "生活实用",
     "stars": 0,
-    "version": "v1.2.1",
-    "updated_at": "2026-03-18T10:54:01Z",
+    "version": "v1.2.2",
+    "updated_at": "2026-03-19T06:35:47Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_multi_execute/master/logo.png"
   },
   "astrbot_plugin_recall_xz": {
@@ -4565,7 +4587,7 @@
     "category": "生活实用",
     "stars": 4,
     "version": "v1.4.0",
-    "updated_at": "2026-03-18T20:46:37Z",
+    "updated_at": "2026-03-19T06:35:53Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_reminder/master/logo.png"
   },
   "astrbot_plugin_binance": {
@@ -4860,7 +4882,7 @@
     "category": "效率工具",
     "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-03-18T06:19:32Z",
+    "updated_at": "2026-03-19T06:16:14Z",
     "logo": "https://raw.githubusercontent.com/ocetars/astrbot_plugin_echo/master/logo.png"
   },
   "astrbot_plugin_fortnue": {
@@ -4904,9 +4926,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "外部集成",
-    "stars": 81,
+    "stars": 82,
     "version": "v1.5.1",
-    "updated_at": "2026-03-19T01:03:50Z",
+    "updated_at": "2026-03-19T06:38:54Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -11692,9 +11714,9 @@
     "repo": "https://github.com/LKarxa/astrbot_plugin_SillyTavern_card",
     "category": "效率工具",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0.0",
-    "updated_at": "2026-03-12T06:06:08Z"
+    "updated_at": "2026-03-19T06:38:41Z"
   },
   "astrbot_plugin_reply": {
     "author": "yahayao",
@@ -12524,9 +12546,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
     "category": "效率工具",
-    "stars": 36,
+    "stars": 37,
     "version": "v2.0.0",
-    "updated_at": "2026-03-17T15:20:23Z",
+    "updated_at": "2026-03-19T06:56:09Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_browser/main/logo.png"
   },
   "astrbot_plugin_qqadmin": {
@@ -14294,9 +14316,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "AI增强",
     "tags": [],
-    "stars": 205,
+    "stars": 206,
     "version": "v2.1.0",
-    "updated_at": "2026-03-18T11:27:51Z"
+    "updated_at": "2026-03-19T06:39:33Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
