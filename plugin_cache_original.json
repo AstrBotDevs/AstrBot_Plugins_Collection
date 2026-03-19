@@ -1,4 +1,19 @@
 {
+  "astrbot-plugin-unturned-servers": {
+    "display_name": "Unturned 服务器查询",
+    "desc": "查询 Unturned 游戏服务器实时状态和在线玩家信息，支持 /status 和 /players 命令",
+    "author": "Bugelll",
+    "repo": "https://github.com/Bugelll/astrbot_plugin_unturned_servers",
+    "tags": [
+      "游戏",
+      "Unturned",
+      "服务器查询"
+    ],
+    "stars": 0,
+    "version": "0.1.0",
+    "updated_at": "2026-03-18T07:18:05Z",
+    "logo": "https://raw.githubusercontent.com/Bugelll/astrbot_plugin_unturned_servers/master/logo.png"
+  },
   "astrbot-plugin-lofter": {
     "display_name": "Lofter解析&订阅",
     "desc": "AstrBot 插件，用于解析 Lofter 链接、订阅 Lofter 标签/博主、搜索 Lofter 内容。",
@@ -43,9 +58,9 @@
     "repo": "https://github.com/Kalospacer/astrbot_plugin_maid_agent",
     "tags": [],
     "social_link": "",
-    "stars": 14,
+    "stars": 15,
     "version": "1.1.0",
-    "updated_at": "2026-03-18T14:46:33Z",
+    "updated_at": "2026-03-19T04:27:38Z",
     "logo": "https://raw.githubusercontent.com/Kalospacer/astrbot_plugin_maid_agent/master/logo.png"
   },
   "astrbot-plugin-stoprushingiamtyping": {
@@ -623,8 +638,8 @@
     "social_link": "https://github.com/kawayiYokami/",
     "tags": [],
     "stars": 4,
-    "version": "1.0.2",
-    "updated_at": "2026-03-18T19:53:52Z",
+    "version": "1.0.3",
+    "updated_at": "2026-03-19T04:42:54Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_smile/master/logo.png"
   },
   "astrbot-plugin-smart-filter": {
@@ -675,8 +690,8 @@
     "social_link": "https://github.com/Renyus",
     "tags": [],
     "stars": 28,
-    "version": "Ver 2.5.5",
-    "updated_at": "2026-03-18T06:12:59Z"
+    "version": "Ver 2.6.0",
+    "updated_at": "2026-03-19T04:23:13Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -924,7 +939,7 @@
     "social_link": "https://github.com/menglimi",
     "stars": 24,
     "version": "2.7.1",
-    "updated_at": "2026-03-18T17:09:32Z",
+    "updated_at": "2026-03-19T03:59:28Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -9567,9 +9582,9 @@
       "主动回复"
     ],
     "category": "效率工具",
-    "stars": 38,
+    "stars": 39,
     "version": "v2.0.0",
-    "updated_at": "2026-03-18T13:36:48Z",
+    "updated_at": "2026-03-19T03:16:24Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -10853,9 +10868,9 @@
       "玩具"
     ],
     "category": "外部集成",
-    "stars": 20,
+    "stars": 21,
     "version": "v0.1",
-    "updated_at": "2026-03-14T03:22:53Z"
+    "updated_at": "2026-03-19T02:46:32Z"
   },
   "astrbot_plugin_music": {
     "display_name": "点歌插件",
@@ -11070,9 +11085,9 @@
       "知识库"
     ],
     "category": "AI增强",
-    "stars": 85,
+    "stars": 86,
     "version": "v0.5.9",
-    "updated_at": "2026-03-14T14:46:29Z"
+    "updated_at": "2026-03-19T04:15:50Z"
   },
   "astrbot_uptime_kuma_webhook_plugin": {
     "author": "RC-CHN",
@@ -12278,9 +12293,9 @@
     ],
     "social_link": "https://docs.sayu-bot.com/",
     "category": "外部集成",
-    "stars": 35,
+    "stars": 36,
     "version": "v0.4.6",
-    "updated_at": "2026-03-18T13:49:36Z"
+    "updated_at": "2026-03-19T03:17:26Z"
   },
   "astrbot_plugin_xyzw": {
     "author": "四郎",
