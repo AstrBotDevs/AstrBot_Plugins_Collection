@@ -313,9 +313,9 @@
     "repo": "https://github.com/Kalospacer/astrbot_plugin_content_safety_guard",
     "social_link": "https://github.com/Kalospacer",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "1.2.6",
-    "updated_at": "2026-03-17T07:43:37Z"
+    "updated_at": "2026-03-19T05:41:28Z"
   },
   "astrbot-plugin-pairit": {
     "display_name": "PairIt",
@@ -982,9 +982,9 @@
       "语音合成"
     ],
     "social_link": "https://github.com/w2902171175",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.7.1",
-    "updated_at": "2026-03-16T13:44:43Z"
+    "updated_at": "2026-03-19T05:37:17Z"
   },
   "astrbot-plugin-custome-segment-reply": {
     "display_name": "自定义断句回复插件",
@@ -1198,9 +1198,9 @@
     "repo": "https://github.com/w2902171175/astrbot_plugin_GPT-SoVITS",
     "category": "AI增强",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "v1.7.1",
-    "updated_at": "2026-03-16T13:44:43Z"
+    "updated_at": "2026-03-19T05:37:17Z"
   },
   "astrbot-plugin-topic-starter": {
     "display_name": "topic_starter",
@@ -5064,8 +5064,8 @@
     "social_link": "https://github.com/sl251",
     "category": "AI增强",
     "stars": 14,
-    "version": "1.0.8",
-    "updated_at": "2026-03-18T17:12:59Z",
+    "version": "1.1.0",
+    "updated_at": "2026-03-19T05:39:35Z",
     "logo": "https://raw.githubusercontent.com/sl251/astrbot_plugin_e2b_sandbox/main/logo.png"
   },
   "astrbot_plugin_disaster_warning": {
@@ -5174,9 +5174,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "AI增强",
-    "stars": 53,
+    "stars": 54,
     "version": "v4.2.18",
-    "updated_at": "2026-03-17T16:24:36Z",
+    "updated_at": "2026-03-19T05:07:01Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -6848,9 +6848,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "AI增强",
-    "stars": 140,
+    "stars": 141,
     "version": "v1.1.5",
-    "updated_at": "2026-03-19T00:54:54Z",
+    "updated_at": "2026-03-19T05:27:46Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -9067,9 +9067,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "效率工具",
-    "stars": 45,
+    "stars": 46,
     "version": "v2.1.6",
-    "updated_at": "2026-03-18T06:20:10Z",
+    "updated_at": "2026-03-19T05:55:33Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -10784,9 +10784,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "娱乐游戏",
-    "stars": 63,
+    "stars": 64,
     "version": "2.2.0",
-    "updated_at": "2026-03-18T08:44:58Z",
+    "updated_at": "2026-03-19T05:37:15Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
