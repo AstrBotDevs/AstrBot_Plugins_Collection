@@ -725,7 +725,7 @@
     "tags": [],
     "stars": 6,
     "version": "1.1.1",
-    "updated_at": "2026-03-19T14:55:18Z"
+    "updated_at": "2026-03-19T15:59:02Z"
   },
   "astrbot-plugin-local-reminiscence": {
     "display_name": "本地回忆[APLR]",
@@ -3369,9 +3369,9 @@
     ],
     "social_link": "https://github.com/DITF16",
     "category": "AI增强",
-    "stars": 49,
+    "stars": 50,
     "version": "1.1.1",
-    "updated_at": "2026-03-17T04:35:54Z",
+    "updated_at": "2026-03-19T16:42:03Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_groupGuard": {
@@ -3728,9 +3728,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 207,
+    "stars": 208,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-19T07:04:27Z",
+    "updated_at": "2026-03-19T17:00:38Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -6871,9 +6871,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "AI增强",
-    "stars": 143,
+    "stars": 144,
     "version": "v1.1.5",
-    "updated_at": "2026-03-19T11:36:39Z",
+    "updated_at": "2026-03-19T17:00:16Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -8366,9 +8366,9 @@
       "rag"
     ],
     "category": "AI增强",
-    "stars": 103,
+    "stars": 104,
     "version": "2.2.4",
-    "updated_at": "2026-03-19T00:52:17Z",
+    "updated_at": "2026-03-19T15:59:10Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -9034,9 +9034,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "效率工具",
-    "stars": 40,
+    "stars": 41,
     "version": "v2.2.0",
-    "updated_at": "2026-03-16T15:41:10Z",
+    "updated_at": "2026-03-19T16:32:17Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wakepro/main/logo.png"
   },
   "astrbot_plugin_memora_connect": {
@@ -10256,9 +10256,9 @@
       "随机人格"
     ],
     "category": "效率工具",
-    "stars": 3,
+    "stars": 4,
     "version": "1.0.0",
-    "updated_at": "2025-12-04T04:45:32Z",
+    "updated_at": "2026-03-19T16:44:59Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_dynamic_persona/master/logo.png"
   },
   "astrbot_plugin_touchi": {
@@ -10461,9 +10461,9 @@
     ],
     "social_link": "https://github.com/oyxning",
     "category": "AI增强",
-    "stars": 53,
+    "stars": 54,
     "version": "v3.5.1",
-    "updated_at": "2026-03-16T10:12:11Z",
+    "updated_at": "2026-03-19T16:31:16Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_antipromptinjector/master/logo.png"
   },
   "astrbot_plugin_alistfile": {
@@ -10807,9 +10807,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "娱乐游戏",
-    "stars": 64,
+    "stars": 66,
     "version": "2.2.0",
-    "updated_at": "2026-03-19T05:37:15Z",
+    "updated_at": "2026-03-19T16:30:36Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -12233,9 +12233,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_gallery",
     "category": "娱乐游戏",
-    "stars": 25,
+    "stars": 26,
     "version": "v2.1.0",
-    "updated_at": "2026-03-19T13:36:28Z",
+    "updated_at": "2026-03-19T16:47:42Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_gallery/main/logo.png"
   },
   "astrbot_plugin_sensoji_pro": {
@@ -13567,9 +13567,9 @@
       "图片"
     ],
     "category": "娱乐游戏",
-    "stars": 19,
+    "stars": 21,
     "version": "v1.8.7",
-    "updated_at": "2026-03-14T13:08:57Z"
+    "updated_at": "2026-03-19T16:25:17Z"
   },
   "astrbot_plugin_GGAC_Messenger": {
     "desc": "anka - GGAC 作品更新推送插件 - 自动监控并推送 GGAC 平台精选作品的更新! 附赠一套 GGAC 网站完整 api! 还有随机抽取 GGAC 内容功能, 详情见github页面!",
@@ -13618,9 +13618,9 @@
       "搬史"
     ],
     "category": "外部集成",
-    "stars": 534,
+    "stars": 536,
     "version": "v0.916",
-    "updated_at": "2026-03-19T12:29:14Z"
+    "updated_at": "2026-03-19T16:31:44Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
