@@ -168,9 +168,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 241,
+    "stars": 240,
     "version": "v4.9.2",
-    "updated_at": "2026-03-19T07:14:45Z",
+    "updated_at": "2026-03-19T11:57:24Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -353,7 +353,7 @@
     "social_link": "https://github.com/GamerNoTitle",
     "stars": 2,
     "version": "v1.2.0",
-    "updated_at": "2026-03-19T11:24:45Z",
+    "updated_at": "2026-03-19T11:37:16Z",
     "logo": "https://raw.githubusercontent.com/GamerNoTitle/astrbot_plugin_pairit/master/logo.png"
   },
   "astrbot-plugin-qqfarm": {
@@ -489,7 +489,7 @@
     ],
     "stars": 7,
     "version": "v1.2.2",
-    "updated_at": "2026-03-18T18:28:32Z",
+    "updated_at": "2026-03-19T11:39:31Z",
     "logo": "https://raw.githubusercontent.com/gangcaiyoule/astrbot_plugin_mail_notify/master/logo.png"
   },
   "astrbot-plugin-Xagent-searcher": {
@@ -714,7 +714,7 @@
     "tags": [],
     "stars": 29,
     "version": "Ver 2.7.0",
-    "updated_at": "2026-03-19T11:27:40Z"
+    "updated_at": "2026-03-19T12:58:50Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -1532,8 +1532,8 @@
     "social_link": "https://github.com/Radiant303",
     "category": "AI增强",
     "stars": 6,
-    "version": "v2.0.4",
-    "updated_at": "2026-03-19T09:31:05Z",
+    "version": "v2.1.5",
+    "updated_at": "2026-03-19T11:40:04Z",
     "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_clonetts/master/logo.png"
   },
   "astrbot-plugin-ssh": {
@@ -3078,9 +3078,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
-    "stars": 241,
+    "stars": 240,
     "version": "v4.9.2",
-    "updated_at": "2026-03-19T07:14:45Z",
+    "updated_at": "2026-03-19T11:57:24Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -3625,8 +3625,8 @@
     "social_link": "https://github.com/VanillaNahida/",
     "category": "外部集成",
     "stars": 22,
-    "version": "v1.2.3",
-    "updated_at": "2026-03-19T00:44:34Z",
+    "version": "v1.2.4",
+    "updated_at": "2026-03-19T12:05:45Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_geetest_verify/master/logo.png"
   },
   "astrbot_plugin_cliproxy_stats": {
@@ -4498,9 +4498,9 @@
       "人格"
     ],
     "category": "AI增强",
-    "stars": 66,
+    "stars": 67,
     "version": "1.3.3",
-    "updated_at": "2026-03-18T06:52:36Z",
+    "updated_at": "2026-03-19T11:58:01Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -4514,9 +4514,9 @@
       "群聊优化"
     ],
     "category": "外部集成",
-    "stars": 54,
+    "stars": 55,
     "version": "0.8.19",
-    "updated_at": "2026-03-19T08:04:24Z",
+    "updated_at": "2026-03-19T11:45:25Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -8024,9 +8024,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "生活实用",
-    "stars": 18,
+    "stars": 19,
     "version": "v1.0.5",
-    "updated_at": "2026-03-16T13:59:14Z",
+    "updated_at": "2026-03-19T13:06:38Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_restart/main/logo.png"
   },
   "astrbot_plugin_tts_llm": {
@@ -11826,9 +11826,9 @@
     ],
     "desc": "[仅 aiocqhttp] 给 QQ 引用的消息贴表情",
     "category": "外部集成",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.1.0",
-    "updated_at": "2025-11-11T13:05:55Z"
+    "updated_at": "2026-03-19T11:51:15Z"
   },
   "astrbot_plugin_llm_draw_plus": {
     "author": "喵喵",
@@ -13618,9 +13618,9 @@
       "搬史"
     ],
     "category": "外部集成",
-    "stars": 533,
+    "stars": 534,
     "version": "v0.916",
-    "updated_at": "2026-03-19T08:17:37Z"
+    "updated_at": "2026-03-19T12:29:14Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
