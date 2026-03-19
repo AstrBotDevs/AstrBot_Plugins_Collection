@@ -17,9 +17,9 @@
     "tags": [
       "tts"
     ],
-    "stars": 0,
+    "stars": 2,
     "version": "v0.1.0",
-    "updated_at": "2026-03-19T08:11:49Z",
+    "updated_at": "2026-03-19T17:14:19Z",
     "logo": "https://raw.githubusercontent.com/Salieri-Amadeus/VocuTTS_Astrbot/master/logo.png"
   },
   "astrbot-plugin-unturned-servers": {
@@ -168,9 +168,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 240,
+    "stars": 242,
     "version": "v4.9.2",
-    "updated_at": "2026-03-19T11:57:24Z",
+    "updated_at": "2026-03-19T17:38:05Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1905,9 +1905,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 68,
+    "stars": 69,
     "version": "v2.0.2",
-    "updated_at": "2026-03-18T15:51:00Z",
+    "updated_at": "2026-03-19T19:00:01Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -3078,9 +3078,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
-    "stars": 240,
+    "stars": 242,
     "version": "v4.9.2",
-    "updated_at": "2026-03-19T11:57:24Z",
+    "updated_at": "2026-03-19T17:38:05Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -3313,8 +3313,8 @@
     ],
     "category": "AI增强",
     "stars": 8,
-    "version": "1.6.5",
-    "updated_at": "2026-03-18T20:36:59Z"
+    "version": "1.6.7",
+    "updated_at": "2026-03-19T18:45:06Z"
   },
   "astrbot_plugin_mc_manager": {
     "display_name": "astrbot_plugin_mc_manager",
@@ -4425,7 +4425,7 @@
     "category": "AI增强",
     "stars": 17,
     "version": "v0.1.10",
-    "updated_at": "2026-03-16T08:15:58Z",
+    "updated_at": "2026-03-19T18:14:01Z",
     "logo": "https://raw.githubusercontent.com/sukafon/astrbot_plugin_big_banana/main/logo.png"
   },
   "astrbot_plugin_BitTorrent": {
@@ -4514,9 +4514,9 @@
       "群聊优化"
     ],
     "category": "外部集成",
-    "stars": 56,
+    "stars": 57,
     "version": "0.8.19",
-    "updated_at": "2026-03-19T15:04:51Z",
+    "updated_at": "2026-03-19T17:08:27Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -5105,9 +5105,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "生活实用",
-    "stars": 44,
+    "stars": 45,
     "version": "v1.4.0",
-    "updated_at": "2026-03-19T01:21:09Z",
+    "updated_at": "2026-03-19T17:12:10Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -6831,8 +6831,8 @@
     ],
     "category": "外部集成",
     "stars": 3,
-    "version": "v1.0",
-    "updated_at": "2026-03-18T07:05:02Z",
+    "version": "v1.0.1",
+    "updated_at": "2026-03-19T18:07:39Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_tts_sanitizer/master/logo.png"
   },
   "astrbot_plugin_github_monitor_shell": {
@@ -6871,9 +6871,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "AI增强",
-    "stars": 144,
+    "stars": 143,
     "version": "v1.1.5",
-    "updated_at": "2026-03-19T17:00:16Z",
+    "updated_at": "2026-03-19T17:06:57Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -13664,9 +13664,9 @@
     ],
     "pinned": true,
     "category": "效率工具",
-    "stars": 191,
+    "stars": 192,
     "version": "v3.19",
-    "updated_at": "2026-03-18T18:20:36Z"
+    "updated_at": "2026-03-19T17:08:20Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
