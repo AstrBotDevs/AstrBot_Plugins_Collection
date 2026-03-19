@@ -352,8 +352,8 @@
     ],
     "social_link": "https://github.com/GamerNoTitle",
     "stars": 2,
-    "version": "v1.1.2",
-    "updated_at": "2026-03-16T14:39:05Z",
+    "version": "v1.2.0",
+    "updated_at": "2026-03-19T11:24:45Z",
     "logo": "https://raw.githubusercontent.com/GamerNoTitle/astrbot_plugin_pairit/master/logo.png"
   },
   "astrbot-plugin-qqfarm": {
@@ -713,8 +713,8 @@
     "social_link": "https://github.com/Renyus",
     "tags": [],
     "stars": 29,
-    "version": "Ver 2.6.0",
-    "updated_at": "2026-03-19T10:40:45Z"
+    "version": "Ver 2.7.0",
+    "updated_at": "2026-03-19T11:27:40Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -4853,7 +4853,7 @@
     "category": "效率工具",
     "stars": 3,
     "version": "v1.0.7",
-    "updated_at": "2026-03-18T16:51:38Z",
+    "updated_at": "2026-03-19T10:53:29Z",
     "logo": "https://raw.githubusercontent.com/huizhiLLL/astrbot_plugin_wca/master/logo.png"
   },
   "astrbot_plugin_memos_integrator": {
@@ -6871,9 +6871,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "AI增强",
-    "stars": 141,
+    "stars": 143,
     "version": "v1.1.5",
-    "updated_at": "2026-03-19T05:27:46Z",
+    "updated_at": "2026-03-19T11:36:39Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -13894,9 +13894,9 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_essential",
     "category": "娱乐游戏",
     "tags": [],
-    "stars": 45,
+    "stars": 46,
     "version": "v1.1.0",
-    "updated_at": "2026-03-16T13:58:39Z"
+    "updated_at": "2026-03-19T11:10:39Z"
   },
   "astrbot_plugin_rss": {
     "desc": "支持通过 RSSHub 路由和直接 URL 订阅 RSS 源，并定时获取最新的 RSS 内容，如推特、B站、油管、博客等任何支持 RSS 2.0 的网站。",
