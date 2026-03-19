@@ -498,9 +498,9 @@
     "author": "B2347",
     "repo": "https://github.com/NorNeko/astrbot_plugin_Xagent_searcher",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "v0.0.3",
-    "updated_at": "2026-03-14T17:36:24Z",
+    "updated_at": "2026-03-19T10:39:52Z",
     "logo": "https://raw.githubusercontent.com/NorNeko/astrbot_plugin_Xagent_searcher/main/logo.png"
   },
   "astrbot-plugin-status": {
@@ -712,9 +712,9 @@
     "repo": "https://github.com/Renyus/astrbot_plugin_self_evolution",
     "social_link": "https://github.com/Renyus",
     "tags": [],
-    "stars": 28,
+    "stars": 29,
     "version": "Ver 2.6.0",
-    "updated_at": "2026-03-19T04:23:13Z"
+    "updated_at": "2026-03-19T10:40:45Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -4703,7 +4703,7 @@
     "tags": [],
     "stars": 5,
     "version": "v1.0.3",
-    "updated_at": "2026-03-17T02:39:16Z",
+    "updated_at": "2026-03-19T10:28:22Z",
     "logo": "https://raw.githubusercontent.com/WangYi82909/astrbot_plugin_yoimg/main/logo.png"
   },
   "astrbot_plugin_ronghedraw": {
@@ -6573,9 +6573,9 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "AI增强",
-    "stars": 69,
+    "stars": 70,
     "version": "v1.2.1-(hotfix-重推)",
-    "updated_at": "2026-03-18T19:20:15Z",
+    "updated_at": "2026-03-19T09:51:33Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -8201,9 +8201,9 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "category": "外部集成",
     "tags": [],
-    "stars": 49,
+    "stars": 50,
     "version": "v2.5.7",
-    "updated_at": "2026-03-18T17:38:57Z"
+    "updated_at": "2026-03-19T10:25:23Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -9090,9 +9090,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "效率工具",
-    "stars": 46,
+    "stars": 47,
     "version": "v2.1.6",
-    "updated_at": "2026-03-19T05:55:33Z",
+    "updated_at": "2026-03-19T10:40:34Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
