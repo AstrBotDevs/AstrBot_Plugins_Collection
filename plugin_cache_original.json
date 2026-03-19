@@ -1532,8 +1532,8 @@
     "social_link": "https://github.com/Radiant303",
     "category": "AI增强",
     "stars": 6,
-    "version": "v2.0.3",
-    "updated_at": "2026-03-18T16:54:58Z",
+    "version": "v2.0.4",
+    "updated_at": "2026-03-19T09:31:05Z",
     "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_clonetts/master/logo.png"
   },
   "astrbot-plugin-ssh": {
