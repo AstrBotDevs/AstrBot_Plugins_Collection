@@ -333,8 +333,8 @@
     ],
     "social_link": "https://github.com/RhoninSeiei",
     "stars": 1,
-    "version": "v0.3.0",
-    "updated_at": "2026-03-19T14:23:20Z"
+    "version": "v0.3.2",
+    "updated_at": "2026-03-20T19:21:45Z"
   },
   "astrbot-plugin-lyria": {
     "display_name": "Lyria音乐生成",
