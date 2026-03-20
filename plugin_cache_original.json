@@ -4577,8 +4577,8 @@
     ],
     "category": "AI增强",
     "stars": 69,
-    "version": "1.3.4",
-    "updated_at": "2026-03-20T13:11:55Z",
+    "version": "1.3.8",
+    "updated_at": "2026-03-20T19:29:12Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -4593,8 +4593,8 @@
     ],
     "category": "外部集成",
     "stars": 57,
-    "version": "0.8.20",
-    "updated_at": "2026-03-20T07:28:20Z",
+    "version": "0.8.21",
+    "updated_at": "2026-03-20T18:53:19Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -5582,9 +5582,9 @@
     ],
     "social_link": "https://github.com/Loping151/ScoreEcho",
     "category": "外部集成",
-    "stars": 6,
+    "stars": 7,
     "version": "3.1.5",
-    "updated_at": "2025-12-27T11:59:18Z",
+    "updated_at": "2026-03-20T19:01:27Z",
     "logo": "https://raw.githubusercontent.com/timetetng/astrbot_plugin_echoscore/main/logo.png"
   },
   "astrbot_plugin_vocabularycard": {
