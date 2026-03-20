@@ -456,9 +456,9 @@
     "tags": [
       "音频"
     ],
-    "stars": 6,
+    "stars": 7,
     "version": "v2.2",
-    "updated_at": "2026-03-16T02:42:29Z",
+    "updated_at": "2026-03-20T09:27:33Z",
     "logo": "https://raw.githubusercontent.com/Lidure/astrbot_plugin_airi_voice/master/logo.png"
   },
   "astrbot-plugin-tk-tracker": {
@@ -712,8 +712,8 @@
       "adapter"
     ],
     "stars": 1,
-    "version": "0.8.0",
-    "updated_at": "2026-03-18T07:52:51Z",
+    "version": "0.9.0",
+    "updated_at": "2026-03-20T09:00:11Z",
     "logo": "https://raw.githubusercontent.com/outlook84/astrbot_plugin_telethon_adapter/main/logo.png"
   },
   "astrbot-plugin-githubapp-adapter": {
@@ -790,8 +790,8 @@
     "social_link": "https://github.com/Renyus",
     "tags": [],
     "stars": 29,
-    "version": "Ver 2.8.5",
-    "updated_at": "2026-03-19T14:05:41Z"
+    "version": "Ver 2.8.6",
+    "updated_at": "2026-03-20T09:03:05Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -3347,9 +3347,9 @@
     "repo": "https://github.com/2529huang/astrbot_plugin_fund_analyzer",
     "category": "AI增强",
     "tags": [],
-    "stars": 8,
+    "stars": 10,
     "version": "2.0.0",
-    "updated_at": "2026-03-18T13:25:22Z",
+    "updated_at": "2026-03-20T09:18:01Z",
     "logo": "https://raw.githubusercontent.com/2529huang/astrbot_plugin_fund_analyzer/master/logo.png"
   },
   "astrbot_plugin_CNKD_Admin": {
