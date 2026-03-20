@@ -456,9 +456,9 @@
     "tags": [
       "音频"
     ],
-    "stars": 7,
+    "stars": 8,
     "version": "v2.3",
-    "updated_at": "2026-03-20T15:10:07Z",
+    "updated_at": "2026-03-20T18:05:41Z",
     "logo": "https://raw.githubusercontent.com/Lidure/astrbot_plugin_airi_voice/master/logo.png"
   },
   "astrbot-plugin-tk-tracker": {
@@ -1414,8 +1414,8 @@
     "social_link": "",
     "category": "外部集成",
     "stars": 13,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-16T10:14:09Z",
+    "version": "v1.1.1",
+    "updated_at": "2026-03-20T18:25:58Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_soulmap/main/logo.png"
   },
   "astrbot-plugin-warframe-helper": {
@@ -1984,7 +1984,7 @@
     "category": "外部集成",
     "stars": 70,
     "version": "v2.0.3",
-    "updated_at": "2026-03-20T12:10:37Z",
+    "updated_at": "2026-03-20T17:33:51Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -2731,9 +2731,9 @@
       "图片"
     ],
     "category": "AI增强",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.1.5",
-    "updated_at": "2026-03-02T07:55:50Z"
+    "updated_at": "2026-03-20T17:36:18Z"
   },
   "astrbot_plugin_at_ignore": {
     "display_name": "忽略@消息",
@@ -3600,7 +3600,7 @@
     "category": "娱乐游戏",
     "stars": 12,
     "version": "v2.2",
-    "updated_at": "2026-03-16T12:47:49Z",
+    "updated_at": "2026-03-20T17:10:11Z",
     "logo": "https://raw.githubusercontent.com/kennylimz/astrbot_plugin_mudae_qq/main/logo.png"
   },
   "BUGJI/astrbot_plugin_balance": {
@@ -6857,8 +6857,8 @@
     ],
     "category": "娱乐游戏",
     "stars": 7,
-    "version": "v0.5.3",
-    "updated_at": "2026-03-20T11:03:55Z",
+    "version": "v0.6.0",
+    "updated_at": "2026-03-20T18:33:04Z",
     "logo": "https://raw.githubusercontent.com/linjianyan0229/astrbot_plugin_monixiuxian/main/logo.png"
   },
   "astrbot_plugin_invitecount": {
@@ -6949,9 +6949,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "AI增强",
-    "stars": 145,
+    "stars": 146,
     "version": "v1.1.5",
-    "updated_at": "2026-03-20T04:50:45Z",
+    "updated_at": "2026-03-20T18:42:31Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -7675,7 +7675,7 @@
     "category": "外部集成",
     "stars": 5,
     "version": "v1.2",
-    "updated_at": "2026-03-20T16:35:27Z",
+    "updated_at": "2026-03-20T18:20:31Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_GroupFS/master/logo.png"
   },
   "group_notice_manager": {
@@ -9655,9 +9655,9 @@
       "找出处"
     ],
     "category": "效率工具",
-    "stars": 5,
+    "stars": 6,
     "version": "3.4",
-    "updated_at": "2026-03-12T14:57:16Z"
+    "updated_at": "2026-03-20T16:51:03Z"
   },
   "astrbot_plugin_LLMTempBan": {
     "desc": "让 Bot 学会主动拉黑或者通过管理员指令拉黑。",
@@ -9683,9 +9683,9 @@
       "主动回复"
     ],
     "category": "效率工具",
-    "stars": 40,
+    "stars": 41,
     "version": "v2.0.0",
-    "updated_at": "2026-03-20T10:04:18Z",
+    "updated_at": "2026-03-20T18:07:04Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -11549,9 +11549,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "AI增强",
-    "stars": 60,
+    "stars": 61,
     "version": "v2.1.0",
-    "updated_at": "2026-03-16T20:25:05Z",
+    "updated_at": "2026-03-20T18:42:23Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_pokepro/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
@@ -12521,9 +12521,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_reread",
     "category": "效率工具",
-    "stars": 29,
+    "stars": 30,
     "version": "v2.0.0",
-    "updated_at": "2026-03-15T05:50:33Z",
+    "updated_at": "2026-03-20T18:42:38Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_reread/main/logo.png"
   },
   "astrbot_plugin_csbaoyan": {
@@ -12640,9 +12640,9 @@
       "QQ群管"
     ],
     "category": "效率工具",
-    "stars": 111,
+    "stars": 112,
     "version": "v3.2.7",
-    "updated_at": "2026-03-20T11:34:40Z",
+    "updated_at": "2026-03-20T18:42:58Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
