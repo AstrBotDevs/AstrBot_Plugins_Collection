@@ -2234,9 +2234,9 @@
       "codegen"
     ],
     "category": "AI增强",
-    "stars": 35,
+    "stars": 36,
     "version": "1.1.1",
-    "updated_at": "2026-03-19T13:35:25Z",
+    "updated_at": "2026-03-20T10:04:16Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -4174,9 +4174,9 @@
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
     "category": "AI增强",
-    "stars": 47,
+    "stars": 48,
     "version": "v1.1",
-    "updated_at": "2026-03-19T14:08:51Z"
+    "updated_at": "2026-03-20T10:27:29Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -4576,9 +4576,9 @@
       "人格"
     ],
     "category": "AI增强",
-    "stars": 67,
+    "stars": 68,
     "version": "1.3.4",
-    "updated_at": "2026-03-20T06:19:57Z",
+    "updated_at": "2026-03-20T10:06:08Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -9683,9 +9683,9 @@
       "主动回复"
     ],
     "category": "效率工具",
-    "stars": 39,
+    "stars": 40,
     "version": "v2.0.0",
-    "updated_at": "2026-03-19T13:38:50Z",
+    "updated_at": "2026-03-20T10:04:18Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -11274,9 +11274,9 @@
     ],
     "social_link": "https://github.com/TheAnyan",
     "category": "外部集成",
-    "stars": 14,
+    "stars": 13,
     "version": "v1.1.0",
-    "updated_at": "2026-03-19T13:25:49Z"
+    "updated_at": "2026-03-20T10:03:52Z"
   },
   "astrbot_plugin_stock": {
     "author": "anchor",
@@ -12172,9 +12172,9 @@
       "ccb"
     ],
     "category": "外部集成",
-    "stars": 8,
+    "stars": 9,
     "version": "v0.1.0",
-    "updated_at": "2026-03-15T20:27:38Z"
+    "updated_at": "2026-03-20T10:33:45Z"
   },
   "astrbot-gold-plugin": {
     "repo": "https://github.com/RC-CHN/astrbot-gold-plugin",
@@ -13629,9 +13629,9 @@
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
     "category": "效率工具",
-    "stars": 111,
+    "stars": 112,
     "version": "v2.1.11",
-    "updated_at": "2026-03-17T11:57:40Z"
+    "updated_at": "2026-03-20T10:04:31Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
