@@ -10,9 +10,9 @@
       "订阅"
     ],
     "social_link": "https://github.com/gudzpoz/",
-    "stars": 0,
+    "stars": 1,
     "version": "v0.1.0",
-    "updated_at": "2026-03-18T16:53:32Z",
+    "updated_at": "2026-03-20T08:32:59Z",
     "logo": "https://raw.githubusercontent.com/gudzpoz/astrbot_plugin_rss_tool/master/logo.png"
   },
   "astrbot-plugin-ts3-tracker": {
@@ -72,8 +72,9 @@
       "vibe coding"
     ],
     "stars": 0,
-    "version": "v0.0.1",
-    "updated_at": "2026-03-19T10:26:12Z"
+    "version": "v0.0.2",
+    "updated_at": "2026-03-20T08:42:11Z",
+    "logo": "https://raw.githubusercontent.com/MomijiOXO/astrbot_plugin_HD2_daily_report/master/logo.png"
   },
   "astrbot-plugin-splatoon3": {
     "display_name": "Splatoon3 斯普拉遁3查询",
@@ -641,9 +642,9 @@
       "终末地",
       "数据查询"
     ],
-    "stars": 19,
+    "stars": 20,
     "version": "2.5.0",
-    "updated_at": "2026-03-18T15:52:32Z",
+    "updated_at": "2026-03-20T08:07:51Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -1981,9 +1982,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 69,
+    "stars": 70,
     "version": "v2.0.2",
-    "updated_at": "2026-03-19T19:00:01Z",
+    "updated_at": "2026-03-20T08:20:12Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -6856,8 +6857,8 @@
     ],
     "category": "娱乐游戏",
     "stars": 7,
-    "version": "v0.5.1",
-    "updated_at": "2026-03-20T07:15:54Z",
+    "version": "v0.5.2",
+    "updated_at": "2026-03-20T07:56:27Z",
     "logo": "https://raw.githubusercontent.com/linjianyan0229/astrbot_plugin_monixiuxian/main/logo.png"
   },
   "astrbot_plugin_invitecount": {
@@ -13366,9 +13367,9 @@
     ],
     "social_link": "https://github.com/miaoxutao123/",
     "category": "外部集成",
-    "stars": 70,
+    "stars": 71,
     "version": "v0.2.14",
-    "updated_at": "2026-03-20T03:19:27Z"
+    "updated_at": "2026-03-20T08:39:14Z"
   },
   "astrbot_plugin_sjzb": {
     "desc": "随机生成《绝地潜兵2》游戏中一组 4 个战备配置",
