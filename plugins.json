@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-HD2-daily-report": {
+    "display_name": "HD2银河快报",
+    "desc": "通过启动自动化浏览器，定时抓取B站up银河快报动态中的图片并发送给指定群组。",
+    "author": "椛椿",
+    "repo": "https://github.com/MomijiOXO/astrbot_plugin_HD2_daily_report",
+    "tags": [
+      "游戏",
+      "资讯",
+      "vibe coding"
+    ]
+  },
   "astrbot-plugin-splatoon3": {
     "display_name": "Splatoon3 斯普拉遁3查询",
     "desc": "查询Splatoon3游戏数据，包括地图轮换、鲑鱼跑、挑战、祭典、装备商店等信息",
