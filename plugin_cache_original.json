@@ -258,9 +258,9 @@
     "tags": [
       "群欢迎"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "2.0.0",
-    "updated_at": "2026-03-11T15:10:07Z",
+    "updated_at": "2026-03-20T15:29:41Z",
     "logo": "https://raw.githubusercontent.com/lingyun14beta/astrbot_plugin_group_welcome/main/logo.png"
   },
   "astrbot-plugin-atrelay": {
@@ -457,8 +457,8 @@
       "音频"
     ],
     "stars": 7,
-    "version": "v2.2",
-    "updated_at": "2026-03-20T09:27:33Z",
+    "version": "v2.3",
+    "updated_at": "2026-03-20T15:10:07Z",
     "logo": "https://raw.githubusercontent.com/Lidure/astrbot_plugin_airi_voice/master/logo.png"
   },
   "astrbot-plugin-tk-tracker": {
@@ -642,9 +642,9 @@
       "终末地",
       "数据查询"
     ],
-    "stars": 20,
+    "stars": 21,
     "version": "2.5.0",
-    "updated_at": "2026-03-20T08:07:51Z",
+    "updated_at": "2026-03-20T15:20:45Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -2815,9 +2815,9 @@
     ],
     "social_link": "https://github.com/Azincc/",
     "category": "娱乐游戏",
-    "stars": 12,
+    "stars": 13,
     "version": "v1.3.0",
-    "updated_at": "2026-03-20T13:17:04Z"
+    "updated_at": "2026-03-20T14:44:51Z"
   },
   "astrbot_plugin_tomin": {
     "display_name": "Tomin - 少女乐队游戏",
@@ -6299,9 +6299,9 @@
     ],
     "social_link": "https://github.com/ZvZPvz",
     "category": "AI增强",
-    "stars": 4,
+    "stars": 5,
     "version": "1.0.0",
-    "updated_at": "2026-03-17T21:48:26Z",
+    "updated_at": "2026-03-20T15:22:48Z",
     "logo": "https://raw.githubusercontent.com/ZvZPvz/astrbot_plugin_email_narrator/main/logo.png"
   },
   "astrbot_plugin_mcwatcher": {
@@ -12625,9 +12625,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
     "category": "效率工具",
-    "stars": 37,
+    "stars": 38,
     "version": "v2.0.0",
-    "updated_at": "2026-03-19T06:56:09Z",
+    "updated_at": "2026-03-20T14:59:10Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_browser/main/logo.png"
   },
   "astrbot_plugin_qqadmin": {
@@ -14034,8 +14034,8 @@
     "category": "外部集成",
     "tags": [],
     "stars": 1,
-    "version": "v2.1.0",
-    "updated_at": "2026-03-20T13:07:48Z"
+    "version": "v2.2.0",
+    "updated_at": "2026-03-20T15:30:07Z"
   },
   "astrbot_plugin_wol": {
     "desc": "局域网 WOL 唤醒插件，/wolhelp 查看帮助",
