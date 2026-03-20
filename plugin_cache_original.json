@@ -3014,9 +3014,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "AI增强",
-    "stars": 28,
+    "stars": 29,
     "version": "v2.2.4",
-    "updated_at": "2026-03-20T07:28:02Z",
+    "updated_at": "2026-03-20T10:43:37Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_worldbook/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -3892,9 +3892,9 @@
     ],
     "social_link": "https://github.com/Clhikari",
     "category": "AI增强",
-    "stars": 11,
+    "stars": 12,
     "version": "v1.3.1",
-    "updated_at": "2026-03-19T14:39:37Z",
+    "updated_at": "2026-03-20T10:51:31Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -4649,9 +4649,9 @@
       "文件解析"
     ],
     "category": "AI增强",
-    "stars": 8,
+    "stars": 9,
     "version": "v3.1.0",
-    "updated_at": "2026-03-02T12:55:01Z"
+    "updated_at": "2026-03-20T10:43:33Z"
   },
   "astrbot_plugin_reminder": {
     "display_name": "定时提醒插件",
@@ -6800,9 +6800,9 @@
       "战绩"
     ],
     "category": "外部集成",
-    "stars": 4,
+    "stars": 5,
     "version": "v2.0.0",
-    "updated_at": "2026-03-04T07:49:14Z"
+    "updated_at": "2026-03-20T10:55:55Z"
   },
   "astrbot_plugin_email_tool": {
     "display_name": "SMTP 邮件小工具",
@@ -6857,8 +6857,8 @@
     ],
     "category": "娱乐游戏",
     "stars": 7,
-    "version": "v0.5.2",
-    "updated_at": "2026-03-20T07:56:27Z",
+    "version": "v0.5.3",
+    "updated_at": "2026-03-20T11:03:55Z",
     "logo": "https://raw.githubusercontent.com/linjianyan0229/astrbot_plugin_monixiuxian/main/logo.png"
   },
   "astrbot_plugin_invitecount": {
@@ -8279,9 +8279,9 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "category": "外部集成",
     "tags": [],
-    "stars": 51,
+    "stars": 52,
     "version": "v2.5.7",
-    "updated_at": "2026-03-20T05:04:38Z"
+    "updated_at": "2026-03-20T10:41:31Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -8655,9 +8655,9 @@
     "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
     "category": "AI增强",
     "tags": [],
-    "stars": 42,
+    "stars": 43,
     "version": "v1.0.4",
-    "updated_at": "2026-03-01T10:46:19Z"
+    "updated_at": "2026-03-20T10:49:04Z"
   },
   "astrbot_plugin_vtb_adapter": {
     "desc": "用于连接 AstrBot 与 Open LLM Vtuber，除安装插件外还需要修改 Open LLM Vtuber 中的相关文件",
@@ -8954,9 +8954,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "AI增强",
-    "stars": 60,
+    "stars": 61,
     "version": "3.0.2",
-    "updated_at": "2026-03-20T06:49:51Z",
+    "updated_at": "2026-03-20T10:41:50Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "findx010197/astrbot_plugin_reminder": {
@@ -10018,9 +10018,9 @@
     ],
     "category": "AI增强",
     "author": null,
-    "stars": 35,
+    "stars": 36,
     "version": "2.6.0",
-    "updated_at": "2026-03-16T10:34:28Z"
+    "updated_at": "2026-03-20T11:02:38Z"
   },
   "astrbot_plugin_group_sign": {
     "name": "group_sign",
