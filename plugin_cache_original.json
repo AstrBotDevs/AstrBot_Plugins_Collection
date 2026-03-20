@@ -712,8 +712,8 @@
       "adapter"
     ],
     "stars": 1,
-    "version": "0.9.0",
-    "updated_at": "2026-03-20T09:00:11Z",
+    "version": "0.10.0",
+    "updated_at": "2026-03-20T12:09:01Z",
     "logo": "https://raw.githubusercontent.com/outlook84/astrbot_plugin_telethon_adapter/main/logo.png"
   },
   "astrbot-plugin-githubapp-adapter": {
@@ -1983,8 +1983,8 @@
     "pinned": true,
     "category": "外部集成",
     "stars": 70,
-    "version": "v2.0.2",
-    "updated_at": "2026-03-20T08:20:12Z",
+    "version": "v2.0.3",
+    "updated_at": "2026-03-20T12:10:37Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -2234,9 +2234,9 @@
       "codegen"
     ],
     "category": "AI增强",
-    "stars": 36,
+    "stars": 37,
     "version": "1.1.1",
-    "updated_at": "2026-03-20T10:04:16Z",
+    "updated_at": "2026-03-20T11:36:58Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -3168,9 +3168,9 @@
     "social_link": "https://github.com/muyouzhi6",
     "category": "外部集成",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "2.2.0",
-    "updated_at": "2026-03-19T14:35:12Z"
+    "updated_at": "2026-03-20T12:20:13Z"
   },
   "astrbot_plugin_balance_get": {
     "display_name": "模型平台余额查询",
@@ -4219,7 +4219,7 @@
     "category": "生活实用",
     "stars": 0,
     "version": "v1.2.2",
-    "updated_at": "2026-03-19T06:35:47Z",
+    "updated_at": "2026-03-20T12:12:20Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_multi_execute/master/logo.png"
   },
   "astrbot_plugin_recall_xz": {
@@ -4666,7 +4666,7 @@
     "category": "生活实用",
     "stars": 4,
     "version": "v1.4.0",
-    "updated_at": "2026-03-19T06:35:53Z",
+    "updated_at": "2026-03-20T12:22:31Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_reminder/master/logo.png"
   },
   "astrbot_plugin_binance": {
@@ -6097,9 +6097,9 @@
     ],
     "social_link": "https://github.com/NekoiMeiov",
     "category": "效率工具",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.0.1",
-    "updated_at": "2026-03-13T17:29:39Z"
+    "updated_at": "2026-03-20T12:57:39Z"
   },
   "astrbot_plugin_mc_update": {
     "display_name": "Minecraft 基岩版更新日志提醒插件",
@@ -7453,7 +7453,7 @@
     "tags": [],
     "stars": 4,
     "version": "1.7.6",
-    "updated_at": "2026-03-10T16:35:48Z"
+    "updated_at": "2026-03-20T12:12:12Z"
   },
   "astrbot_plugin_33recognition": {
     "desc": "调用大模型检测图片中关键词",
@@ -12640,9 +12640,9 @@
       "QQ群管"
     ],
     "category": "效率工具",
-    "stars": 110,
+    "stars": 111,
     "version": "v3.2.7",
-    "updated_at": "2026-03-20T04:24:36Z",
+    "updated_at": "2026-03-20T11:34:40Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -14034,8 +14034,8 @@
     "category": "外部集成",
     "tags": [],
     "stars": 1,
-    "version": "v1.0.2",
-    "updated_at": "2025-02-25T04:03:54Z"
+    "version": "v2.1.0",
+    "updated_at": "2026-03-20T12:55:06Z"
   },
   "astrbot_plugin_wol": {
     "desc": "局域网 WOL 唤醒插件，/wolhelp 查看帮助",
