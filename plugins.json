@@ -1,4 +1,17 @@
 {
+  "astrbot-plugin-ts3-tracker": {
+    "display_name": "teamspeak 3 服务器信息和在线人数信息查询监控插件",
+    "desc": "AstrBot TS3 查询插件，QQ 发送“上号”即可返回服务器在线人数和频道信息。",
+    "author": "moeneri",
+    "repo": "https://github.com/moeneri/astrbot_plugin_ts3_tracker",
+    "tags": [
+      "TS3",
+      "teamspeak",
+      "监控",
+      "服务器"
+    ],
+    "social_link": "https://github.com/moeneri"
+  },
   "astrbot-plugin-group-mate": {
     "display_name": "星洛智萌_群友眷属",
     "desc": "一个有趣的群友社交插件，支持在 aiocqhttp 平台实现“娶群友”娱乐功能。",
