@@ -1,4 +1,14 @@
 {
+  "astrbot-plugin-what-to-eat": {
+    "display_name": "是啊，吃什么",
+    "desc": "是啊，吃什么 - 识别\"吃什么\"关键词，随机推荐美食或复读",
+    "author": "C₂₂H₂₅NO₆",
+    "repo": "https://github.com/Sisyphbaous-DT-Project/astrbot_plugin_what_to_eat",
+    "tags": [
+      "吃什么"
+    ],
+    "social_link": "https://github.com/Sisyphbaous-DT-Project"
+  },
   "astrbot-plugin-HD2-daily-report": {
     "display_name": "HD2银河快报",
     "desc": "通过启动自动化浏览器，定时抓取B站up银河快报动态中的图片并发送给指定群组。",
