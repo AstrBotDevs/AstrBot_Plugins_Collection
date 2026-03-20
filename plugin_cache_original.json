@@ -1008,9 +1008,9 @@
       "监控"
     ],
     "social_link": "https://github.com/RichardLiuda",
-    "stars": 12,
+    "stars": 13,
     "version": "v1.3.1",
-    "updated_at": "2026-03-18T15:08:22Z",
+    "updated_at": "2026-03-20T21:32:18Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -6856,9 +6856,9 @@
       "修仙"
     ],
     "category": "娱乐游戏",
-    "stars": 7,
+    "stars": 8,
     "version": "v0.6.0",
-    "updated_at": "2026-03-20T18:33:04Z",
+    "updated_at": "2026-03-20T22:14:30Z",
     "logo": "https://raw.githubusercontent.com/linjianyan0229/astrbot_plugin_monixiuxian/main/logo.png"
   },
   "astrbot_plugin_invitecount": {
