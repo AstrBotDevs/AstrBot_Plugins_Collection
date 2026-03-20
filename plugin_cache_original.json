@@ -157,9 +157,9 @@
     "repo": "https://github.com/Kalospacer/astrbot_plugin_maid_agent",
     "tags": [],
     "social_link": "",
-    "stars": 17,
+    "stars": 18,
     "version": "1.1.1",
-    "updated_at": "2026-03-20T05:39:53Z",
+    "updated_at": "2026-03-20T06:20:39Z",
     "logo": "https://raw.githubusercontent.com/Kalospacer/astrbot_plugin_maid_agent/master/logo.png"
   },
   "astrbot-plugin-stoprushingiamtyping": {
@@ -244,9 +244,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 242,
+    "stars": 243,
     "version": "v4.9.2",
-    "updated_at": "2026-03-19T17:38:05Z",
+    "updated_at": "2026-03-20T06:35:46Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -3154,9 +3154,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
-    "stars": 242,
+    "stars": 243,
     "version": "v4.9.2",
-    "updated_at": "2026-03-19T17:38:05Z",
+    "updated_at": "2026-03-20T06:35:46Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -3335,9 +3335,9 @@
     "repo": "https://github.com/dafeiwu666/astrbot_plugin_persona_manager",
     "category": "AI增强",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "0.0.2",
-    "updated_at": "2026-02-11T10:43:23Z"
+    "updated_at": "2026-03-20T06:09:50Z"
   },
   "astrbot_plugin_fund_analyzer": {
     "display_name": "基金分析",
@@ -3390,7 +3390,7 @@
     "category": "AI增强",
     "stars": 8,
     "version": "1.6.7",
-    "updated_at": "2026-03-19T18:45:06Z"
+    "updated_at": "2026-03-20T06:20:29Z"
   },
   "astrbot_plugin_mc_manager": {
     "display_name": "astrbot_plugin_mc_manager",
@@ -3974,8 +3974,8 @@
     "social_link": "https://github.com/Hakuin123",
     "category": "娱乐游戏",
     "stars": 2,
-    "version": "v1.1.0",
-    "updated_at": "2026-03-20T05:09:34Z",
+    "version": "v1.1.2",
+    "updated_at": "2026-03-20T06:40:11Z",
     "logo": "https://raw.githubusercontent.com/Hakuin123/astrbot_plugin_maa/main/logo.png"
   },
   "astrbot_plugin_queue_system": {
@@ -4576,8 +4576,8 @@
     ],
     "category": "AI增强",
     "stars": 67,
-    "version": "1.3.3",
-    "updated_at": "2026-03-20T04:59:07Z",
+    "version": "1.3.4",
+    "updated_at": "2026-03-20T06:19:57Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -6856,8 +6856,8 @@
     ],
     "category": "娱乐游戏",
     "stars": 7,
-    "version": "v0.4.0",
-    "updated_at": "2026-03-18T05:18:03Z",
+    "version": "v0.5.0",
+    "updated_at": "2026-03-20T06:40:23Z",
     "logo": "https://raw.githubusercontent.com/linjianyan0229/astrbot_plugin_monixiuxian/main/logo.png"
   },
   "astrbot_plugin_invitecount": {
@@ -7346,9 +7346,9 @@
       "chiikawa"
     ],
     "category": "娱乐游戏",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.1.3",
-    "updated_at": "2026-03-19T08:28:33Z"
+    "updated_at": "2026-03-20T06:49:18Z"
   },
   "astrbot_mcmod_card": {
     "desc": "MC 百科卡片解析",
@@ -7868,9 +7868,9 @@
     "social_link": "https://voice.gbkgov.cn",
     "category": "外部集成",
     "tags": [],
-    "stars": 18,
+    "stars": 19,
     "version": "v1.9.0",
-    "updated_at": "2026-03-09T11:18:37Z"
+    "updated_at": "2026-03-20T06:22:02Z"
   },
   "astrbot_plugin_blacklist_tools": {
     "desc": "允许管理员和 LLM 将用户添加到黑名单中，阻止他们的消息，自动拉黑！",
@@ -8953,9 +8953,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "AI增强",
-    "stars": 59,
+    "stars": 60,
     "version": "3.0.2",
-    "updated_at": "2026-03-19T14:33:39Z",
+    "updated_at": "2026-03-20T06:49:51Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "findx010197/astrbot_plugin_reminder": {
@@ -13102,9 +13102,9 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "category": "娱乐游戏",
-    "stars": 92,
+    "stars": 93,
     "version": "v3.0.3",
-    "updated_at": "2026-03-17T12:56:59Z",
+    "updated_at": "2026-03-20T06:33:37Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
