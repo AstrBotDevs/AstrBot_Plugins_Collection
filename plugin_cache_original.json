@@ -1,4 +1,20 @@
 {
+  "astrbot-plugin-rss-tool": {
+    "display_name": "RSS 技能",
+    "desc": "让你的 AstrBot 可以自主获取、筛选 Atom/RSS 等 Feed 信息。",
+    "author": "Kana",
+    "repo": "https://github.com/gudzpoz/astrbot_plugin_rss_tool",
+    "tags": [
+      "RSS",
+      "学习",
+      "订阅"
+    ],
+    "social_link": "https://github.com/gudzpoz/",
+    "stars": 0,
+    "version": "v0.1.0",
+    "updated_at": "2026-03-18T16:53:32Z",
+    "logo": "https://raw.githubusercontent.com/gudzpoz/astrbot_plugin_rss_tool/master/logo.png"
+  },
   "astrbot-plugin-ts3-tracker": {
     "display_name": "teamspeak 3 服务器信息和在线人数信息查询监控插件",
     "desc": "AstrBot TS3 查询插件，QQ 发送“上号”即可返回服务器在线人数和频道信息。",
@@ -12,8 +28,8 @@
     ],
     "social_link": "https://github.com/moeneri",
     "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-03-15T04:56:27Z"
+    "version": "1.0.1",
+    "updated_at": "2026-03-20T04:30:36Z"
   },
   "astrbot-plugin-group-mate": {
     "display_name": "星洛智萌_群友眷属",
@@ -26,9 +42,9 @@
       "娱乐"
     ],
     "social_link": "https://github.com/WinBSOD",
-    "stars": 0,
+    "stars": 1,
     "version": "1.5",
-    "updated_at": "2026-03-15T10:54:41Z",
+    "updated_at": "2026-03-20T03:29:30Z",
     "logo": "https://raw.githubusercontent.com/WinBSOD/astrbot_plugin_group_mate/master/logo.png"
   },
   "astrbot-plugin-what-to-eat": {
@@ -41,8 +57,8 @@
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
     "stars": 3,
-    "version": "1.1.1",
-    "updated_at": "2026-03-19T15:05:11Z",
+    "version": "1.2.0",
+    "updated_at": "2026-03-20T03:38:51Z",
     "logo": "https://raw.githubusercontent.com/Sisyphbaous-DT-Project/astrbot_plugin_what_to_eat/main/logo.png"
   },
   "astrbot-plugin-HD2-daily-report": {
@@ -77,9 +93,9 @@
     "tags": [
       "tts"
     ],
-    "stars": 2,
+    "stars": 5,
     "version": "v0.1.0",
-    "updated_at": "2026-03-19T17:14:19Z",
+    "updated_at": "2026-03-20T03:47:49Z",
     "logo": "https://raw.githubusercontent.com/Salieri-Amadeus/VocuTTS_Astrbot/master/logo.png"
   },
   "astrbot-plugin-unturned-servers": {
@@ -1270,9 +1286,9 @@
       "人物画像"
     ],
     "category": "AI增强",
-    "stars": 23,
+    "stars": 24,
     "version": "v0.3.5",
-    "updated_at": "2026-03-12T16:32:25Z"
+    "updated_at": "2026-03-20T04:33:43Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -2233,9 +2249,9 @@
     ],
     "social_link": "https://www.xytuws.cn",
     "category": "效率工具",
-    "stars": 7,
+    "stars": 8,
     "version": "v0.4.1",
-    "updated_at": "2026-03-20T01:00:20Z",
+    "updated_at": "2026-03-20T03:43:26Z",
     "logo": "https://raw.githubusercontent.com/XYTUworkshop/astrbot_plugin_XYTUFunction/master/logo.png"
   },
   "astrbot_plugin_lzpersona": {
@@ -3684,9 +3700,9 @@
     ],
     "social_link": "https://github.com/VanillaNahida/",
     "category": "外部集成",
-    "stars": 22,
+    "stars": 23,
     "version": "v1.2.4",
-    "updated_at": "2026-03-19T12:05:45Z",
+    "updated_at": "2026-03-20T02:17:38Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_geetest_verify/master/logo.png"
   },
   "astrbot_plugin_cliproxy_stats": {
@@ -3788,9 +3804,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 208,
+    "stars": 209,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-19T17:00:38Z",
+    "updated_at": "2026-03-20T03:39:03Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -3814,9 +3830,9 @@
     "repo": "https://github.com/bylkuse/astrbot_plugin_help_typst",
     "category": "效率工具",
     "tags": [],
-    "stars": 13,
+    "stars": 14,
     "version": "v0.1.1",
-    "updated_at": "2026-03-18T06:19:46Z",
+    "updated_at": "2026-03-20T03:56:46Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_help_typst/master/logo.png"
   },
   "astrbot_plugin_lb_provider": {
@@ -4236,9 +4252,9 @@
     "social_link": "https://github.com/NachoCrazy",
     "category": "效率工具",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "1.2.0",
-    "updated_at": "2026-01-09T16:20:00Z"
+    "updated_at": "2026-03-20T03:39:37Z"
   },
   "astrbot_plugin_batchrecall": {
     "display_name": "批量撤回",
@@ -6633,9 +6649,9 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "AI增强",
-    "stars": 70,
+    "stars": 71,
     "version": "v1.2.1-(hotfix-重推)",
-    "updated_at": "2026-03-19T09:51:33Z",
+    "updated_at": "2026-03-20T03:40:09Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -6680,9 +6696,9 @@
     ],
     "social_link": "https://github.com/ovoox",
     "category": "效率工具",
-    "stars": 6,
+    "stars": 7,
     "version": "v2.0",
-    "updated_at": "2026-03-18T06:19:54Z"
+    "updated_at": "2026-03-20T03:40:36Z"
   },
   "astrbot_plugin_weibo_hot": {
     "desc": "自动抓取微博热榜。",
@@ -6931,9 +6947,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "AI增强",
-    "stars": 143,
+    "stars": 144,
     "version": "v1.1.5",
-    "updated_at": "2026-03-19T17:06:57Z",
+    "updated_at": "2026-03-20T04:40:53Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -9974,9 +9990,9 @@
       "娱乐"
     ],
     "category": "外部集成",
-    "stars": 11,
+    "stars": 12,
     "version": "v2.0.7",
-    "updated_at": "2026-03-18T06:19:45Z",
+    "updated_at": "2026-03-20T03:42:16Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot-plugin-choulaopo/main/logo.png"
   },
   "astrbot_plugin_file": {
@@ -12622,9 +12638,9 @@
       "QQ群管"
     ],
     "category": "效率工具",
-    "stars": 109,
+    "stars": 110,
     "version": "v3.2.7",
-    "updated_at": "2026-03-19T14:52:08Z",
+    "updated_at": "2026-03-20T04:24:36Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -12707,9 +12723,9 @@
     "repo": "https://github.com/lm379/astrbot_plugin_quarksave",
     "category": "效率工具",
     "tags": [],
-    "stars": 14,
+    "stars": 15,
     "version": "v1.0.5",
-    "updated_at": "2026-03-08T03:41:45Z"
+    "updated_at": "2026-03-20T04:13:40Z"
   },
   "astrbot_plugins_ConvetPicture": {
     "desc": "[仅aiocqhttp]把QQ里面不可保存的表情转化为可以保存的图片，包括GIF",
@@ -13351,7 +13367,7 @@
     "category": "外部集成",
     "stars": 70,
     "version": "v0.2.14",
-    "updated_at": "2026-03-14T07:15:40Z"
+    "updated_at": "2026-03-20T03:19:27Z"
   },
   "astrbot_plugin_sjzb": {
     "desc": "随机生成《绝地潜兵2》游戏中一组 4 个战备配置",
