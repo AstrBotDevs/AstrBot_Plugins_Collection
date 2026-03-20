@@ -850,9 +850,9 @@
       "拟人",
       "全局记忆"
     ],
-    "stars": 6,
+    "stars": 7,
     "version": "v1.0.0",
-    "updated_at": "2026-03-18T15:31:21Z"
+    "updated_at": "2026-03-20T22:32:50Z"
   },
   "astrbot-plugin-memory": {
     "display_name": "astrbot_plugin_memory",
@@ -13992,9 +13992,9 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "category": "生活实用",
     "tags": [],
-    "stars": 49,
+    "stars": 48,
     "version": "v1.5.6",
-    "updated_at": "2026-03-19T15:53:28Z",
+    "updated_at": "2026-03-20T23:24:51Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
@@ -14395,9 +14395,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "AI增强",
     "tags": [],
-    "stars": 206,
+    "stars": 207,
     "version": "v2.1.0",
-    "updated_at": "2026-03-19T06:39:33Z"
+    "updated_at": "2026-03-20T22:33:11Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
