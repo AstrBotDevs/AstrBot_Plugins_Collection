@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-group-mate": {
+    "display_name": "星洛智萌_群友眷属",
+    "desc": "一个有趣的群友社交插件，支持在 aiocqhttp 平台实现“娶群友”娱乐功能。",
+    "author": "WinBSOD",
+    "repo": "https://github.com/WinBSOD/astrbot_plugin_group_mate",
+    "tags": [
+      "娶群友",
+      "抽老婆",
+      "娱乐"
+    ],
+    "social_link": "https://github.com/WinBSOD"
+  },
   "astrbot-plugin-what-to-eat": {
     "display_name": "是啊，吃什么",
     "desc": "是啊，吃什么 - 识别\"吃什么\"关键词，随机推荐美食或复读",
