@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-rss-tool": {
+    "display_name": "RSS 技能",
+    "desc": "让你的 AstrBot 可以自主获取、筛选 Atom/RSS 等 Feed 信息。",
+    "author": "Kana",
+    "repo": "https://github.com/gudzpoz/astrbot_plugin_rss_tool",
+    "tags": [
+      "RSS",
+      "学习",
+      "订阅"
+    ],
+    "social_link": "https://github.com/gudzpoz/"
+  },
   "astrbot-plugin-ts3-tracker": {
     "display_name": "teamspeak 3 服务器信息和在线人数信息查询监控插件",
     "desc": "AstrBot TS3 查询插件，QQ 发送“上号”即可返回服务器在线人数和频道信息。",
