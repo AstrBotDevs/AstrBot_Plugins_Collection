@@ -412,9 +412,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 244,
+    "stars": 245,
     "version": "v4.9.3",
-    "updated_at": "2026-03-21T14:21:48Z",
+    "updated_at": "2026-03-21T16:33:31Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1205,8 +1205,8 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 25,
-    "version": "2.7.3",
-    "updated_at": "2026-03-20T17:32:21Z",
+    "version": "2.8.0",
+    "updated_at": "2026-03-21T16:45:52Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -3322,9 +3322,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
-    "stars": 244,
+    "stars": 245,
     "version": "v4.9.3",
-    "updated_at": "2026-03-21T14:21:48Z",
+    "updated_at": "2026-03-21T16:33:31Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
