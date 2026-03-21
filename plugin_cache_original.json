@@ -158,9 +158,9 @@
     "repo": "https://github.com/Kalospacer/astrbot_plugin_maid_agent",
     "tags": [],
     "social_link": "",
-    "stars": 18,
+    "stars": 19,
     "version": "1.1.1",
-    "updated_at": "2026-03-20T06:20:39Z",
+    "updated_at": "2026-03-21T13:32:39Z",
     "logo": "https://raw.githubusercontent.com/Kalospacer/astrbot_plugin_maid_agent/master/logo.png"
   },
   "astrbot-plugin-stoprushingiamtyping": {
@@ -751,7 +751,7 @@
     "social_link": "",
     "stars": 6,
     "version": "v1.2.2",
-    "updated_at": "2026-03-15T13:41:20Z",
+    "updated_at": "2026-03-21T13:15:13Z",
     "logo": "https://raw.githubusercontent.com/Waterwzy/astrbot_plugin_firefly_filter/master/logo.png"
   },
   "astrbot-plugin-cet6": {
@@ -8231,7 +8231,7 @@
     "category": "AI增强",
     "stars": 10,
     "version": "1.1.0",
-    "updated_at": "2026-03-17T10:42:48Z"
+    "updated_at": "2026-03-21T13:08:48Z"
   },
   "persistent_history": {
     "desc": "基本无需设置的简单永久记忆插件",
@@ -8279,9 +8279,9 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "category": "外部集成",
     "tags": [],
-    "stars": 52,
+    "stars": 53,
     "version": "v2.6.0",
-    "updated_at": "2026-03-21T12:13:05Z"
+    "updated_at": "2026-03-21T13:39:04Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -13993,8 +13993,8 @@
     "category": "生活实用",
     "tags": [],
     "stars": 48,
-    "version": "v1.5.6",
-    "updated_at": "2026-03-20T23:24:51Z",
+    "version": "v1.5.7",
+    "updated_at": "2026-03-21T12:56:58Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
