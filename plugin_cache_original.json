@@ -1982,9 +1982,9 @@
     ],
     "pinned": true,
     "category": "外部集成",
-    "stars": 70,
+    "stars": 71,
     "version": "v2.0.3",
-    "updated_at": "2026-03-20T17:33:51Z",
+    "updated_at": "2026-03-21T08:07:47Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -3831,9 +3831,9 @@
     "repo": "https://github.com/bylkuse/astrbot_plugin_help_typst",
     "category": "效率工具",
     "tags": [],
-    "stars": 14,
+    "stars": 15,
     "version": "v0.1.1",
-    "updated_at": "2026-03-20T03:56:46Z",
+    "updated_at": "2026-03-21T07:22:26Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_help_typst/master/logo.png"
   },
   "astrbot_plugin_lb_provider": {
@@ -5439,9 +5439,9 @@
     ],
     "social_link": "https://space.bilibili.com/702922307",
     "category": "AI增强",
-    "stars": 7,
+    "stars": 8,
     "version": "0.0.4",
-    "updated_at": "2026-03-14T13:04:24Z"
+    "updated_at": "2026-03-21T07:26:25Z"
   },
   "astrbot_plugin_fox_status": {
     "display_name": "Fox 状态监控",
@@ -8280,8 +8280,8 @@
     "category": "外部集成",
     "tags": [],
     "stars": 52,
-    "version": "v2.5.8",
-    "updated_at": "2026-03-21T05:16:57Z"
+    "version": "v2.5.9",
+    "updated_at": "2026-03-21T08:09:44Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
