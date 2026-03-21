@@ -790,8 +790,8 @@
     "social_link": "https://github.com/Renyus",
     "tags": [],
     "stars": 29,
-    "version": "Ver 2.8.6",
-    "updated_at": "2026-03-20T09:03:05Z"
+    "version": "Ver 2.8.7",
+    "updated_at": "2026-03-21T05:38:29Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -802,7 +802,7 @@
     "tags": [],
     "stars": 7,
     "version": "1.1.1",
-    "updated_at": "2026-03-21T03:41:00Z"
+    "updated_at": "2026-03-21T05:32:05Z"
   },
   "astrbot-plugin-local-reminiscence": {
     "display_name": "本地回忆[APLR]",
@@ -8280,8 +8280,8 @@
     "category": "外部集成",
     "tags": [],
     "stars": 52,
-    "version": "v2.5.7",
-    "updated_at": "2026-03-20T10:41:31Z"
+    "version": "v2.5.8",
+    "updated_at": "2026-03-21T05:16:57Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -13982,9 +13982,9 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_rss",
     "category": "生活实用",
     "tags": [],
-    "stars": 27,
+    "stars": 28,
     "version": "v1.1.2",
-    "updated_at": "2026-03-11T09:15:14Z"
+    "updated_at": "2026-03-21T05:17:45Z"
   },
   "astrbot_plugin_bilibili": {
     "desc": "哔哩哔哩动态推送、视频信息、直播间信息查询插件",
