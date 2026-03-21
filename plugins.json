@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-arcaea": {
+    "display_name": "arcaea（阿卡伊）音游表情包生成插件",
+    "desc": "生成 Arcaea 风格表情包，支持描边、多行文字、角色默认颜色，可自定义字体，可发送自定义阿卡伊表情包",
+    "author": "飞翔的死猪",
+    "repo": "https://github.com/1-20182/astrbot_plugin_arcaea",
+    "tags": [
+      "娱乐",
+      "音游"
+    ],
+    "social_link": "https://github.com/1-20182"
+  },
   "astrbot-plugin-arxiv": {
     "display_name": "ArXiv Paper Pusher",
     "desc": "ArXiv 论文搜索与定时推送，支持 LLM 摘要翻译、PDF 处理、合并转发等。",
