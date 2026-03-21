@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-cve-warning": {
+    "display_name": "CVE漏洞推送",
+    "desc": "基于 CISA KEV（Known Exploited Vulnerabilities）定时推送，并按 CVSS 严重等级对消息进行分级展示。",
+    "author": "xiaochai_123",
+    "repo": "https://github.com/xiaochai-123/astrbot_plugin_cve_warning",
+    "tags": [
+      "CVE",
+      "漏洞",
+      "安全"
+    ],
+    "social_link": "https://xiaochai-123.github.io/"
+  },
   "astrbot-plugin-steamachievement-query": {
     "display_name": "SteamHunter成就查询",
     "desc": "快速查询Steam成就积分、成就数、积分排名等信息的简易插件。",
