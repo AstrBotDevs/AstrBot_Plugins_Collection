@@ -1,4 +1,13 @@
 {
+  "astrbot-plugin-steamachievement-query": {
+    "display_name": "SteamHunter成就查询",
+    "desc": "快速查询Steam成就积分、成就数、积分排名等信息的简易插件。",
+    "author": "Muroki",
+    "repo": "https://github.com/Murokivot/astrbot_plugin_steamachievement_query",
+    "tags": [
+      "Steam"
+    ]
+  },
   "astrbot-plugin-MQTTCloudIoT": {
     "display_name": "让ASTRBOT成为MQTT终端",
     "desc": "让 AstrBot 变身智能 IoT 设备控制中心！！！！可以手动进行属性上报，事件通知，发送设备告警、状态变更等事件自定义消息：支持任意Topic的信息上传，通过此插件借助云端可以让astrbot控制有wifi的单片机",
