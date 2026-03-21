@@ -791,7 +791,7 @@
     "tags": [],
     "stars": 29,
     "version": "Ver 2.8.7",
-    "updated_at": "2026-03-21T05:38:29Z"
+    "updated_at": "2026-03-21T05:57:03Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -1344,9 +1344,9 @@
     ],
     "social_link": "https://axi404.top",
     "category": "效率工具",
-    "stars": 11,
+    "stars": 12,
     "version": "0.2.4",
-    "updated_at": "2026-03-14T02:37:02Z"
+    "updated_at": "2026-03-21T06:45:00Z"
   },
   "astrbot-plugin-biliVideo": {
     "display_name": "哔哩哔哩视频总结",
@@ -3805,9 +3805,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 210,
+    "stars": 211,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-20T05:27:39Z",
+    "updated_at": "2026-03-21T06:31:30Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -14365,9 +14365,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_memeify",
     "category": "AI增强",
     "tags": [],
-    "stars": 23,
+    "stars": 24,
     "version": "1.0.0",
-    "updated_at": "2026-03-13T14:08:31Z"
+    "updated_at": "2026-03-21T06:40:33Z"
   },
   "astrbot_plugin_DailyWife": {
     "desc": "每日老婆插件，请配置NapCat！！",
@@ -14395,9 +14395,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "AI增强",
     "tags": [],
-    "stars": 207,
+    "stars": 208,
     "version": "v2.1.0",
-    "updated_at": "2026-03-20T22:33:11Z"
+    "updated_at": "2026-03-21T06:38:52Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
