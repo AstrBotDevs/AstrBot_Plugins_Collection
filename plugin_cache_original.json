@@ -4074,9 +4074,9 @@
     "social_link": "https://github.com/xiaomizhoubaobei",
     "category": "AI增强",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "v0.0.6",
-    "updated_at": "2026-03-16T15:11:10Z",
+    "updated_at": "2026-03-21T09:39:48Z",
     "logo": "https://raw.githubusercontent.com/xiaomizhoubaobei/astrbot_plugin_models_ai/main/logo.png"
   },
   "astrbot_plugin_monixiuxian2": {
@@ -5275,9 +5275,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "AI增强",
-    "stars": 58,
+    "stars": 59,
     "version": "v4.2.18",
-    "updated_at": "2026-03-21T08:38:01Z",
+    "updated_at": "2026-03-21T09:57:12Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -5424,9 +5424,9 @@
     ],
     "social_link": "https://github.com/asakiyoshi",
     "category": "AI增强",
-    "stars": 5,
+    "stars": 6,
     "version": "v4.0.0",
-    "updated_at": "2026-03-18T10:02:34Z"
+    "updated_at": "2026-03-21T09:58:54Z"
   },
   "astrbot_plugin_markdown_killer": {
     "display_name": "Markdown 杀手",
@@ -8280,8 +8280,8 @@
     "category": "外部集成",
     "tags": [],
     "stars": 52,
-    "version": "v2.5.9",
-    "updated_at": "2026-03-21T08:09:44Z"
+    "version": "v2.6.0",
+    "updated_at": "2026-03-21T10:12:33Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -13742,9 +13742,9 @@
     ],
     "pinned": true,
     "category": "效率工具",
-    "stars": 192,
+    "stars": 193,
     "version": "v3.19",
-    "updated_at": "2026-03-19T17:08:20Z"
+    "updated_at": "2026-03-21T09:59:18Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
@@ -14034,8 +14034,8 @@
     "category": "外部集成",
     "tags": [],
     "stars": 1,
-    "version": "v2.2.0",
-    "updated_at": "2026-03-20T15:30:07Z"
+    "version": "v2.2.1",
+    "updated_at": "2026-03-21T10:12:00Z"
   },
   "astrbot_plugin_wol": {
     "desc": "局域网 WOL 唤醒插件，/wolhelp 查看帮助",
