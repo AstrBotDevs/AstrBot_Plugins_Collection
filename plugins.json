@@ -1,4 +1,10 @@
 {
+  "astrbot-plugin-self-open-llm-vtuber": {
+    "display_name": "OLV Pet Adapter",
+    "desc": "AstrBot platform adapter for the Open-LLM-VTuber desktop-pet frontend.",
+    "author": "YakumoAki",
+    "repo": "https://github.com/murphys7017/astrbot_plugin_self_open_llm_vtuber"
+  },
   "astrbot-plugin-daliy": {
     "display_name": "AstrBot 的 Telegram 每日晨报插件",
     "desc": "定时主动推送到已订阅会话\n每个会话可单独设置天气城市\n晨报内容由天气、RSS 新闻、每日一句、可选诗词组成",
