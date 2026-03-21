@@ -1,4 +1,17 @@
 {
+  "astrbot-plugin-atrifeed": {
+    "display_name": "亚托莉养成（atri)",
+    "desc": "「我可是高性能的！」亚托莉养成计划。内置好感度羁绊、动态数据看板、投喂反馈及表情包互动，还有剧情系统。请小心呵护，不然亚托莉也是会生气的哦！",
+    "author": "何夕",
+    "repo": "https://github.com/Heximiao/astrbot_plugin_atrifeed",
+    "tags": [
+      "亚托莉",
+      "atri",
+      "娱乐",
+      "gal"
+    ],
+    "social_link": "https://github.com/Heximiao"
+  },
   "astrbot-plugin-self-open-llm-vtuber": {
     "display_name": "OLV Pet Adapter",
     "desc": "AstrBot platform adapter for the Open-LLM-VTuber desktop-pet frontend.",
