@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-minecraft-wiki": {
+    "display_name": "Minecraft Wiki查询",
+    "desc": "用于为llm调用minecraft wiki",
+    "author": "Mxpea",
+    "repo": "https://github.com/Mxpea/astrbot_plugin_minecraft_wiki",
+    "tags": [
+      "Minecraft",
+      "Wiki",
+      "查询"
+    ],
+    "social_link": "https://github.com/Mxpea/"
+  },
   "astrbot-plugin-rss-tool": {
     "display_name": "RSS 技能",
     "desc": "让你的 AstrBot 可以自主获取、筛选 Atom/RSS 等 Feed 信息。",
