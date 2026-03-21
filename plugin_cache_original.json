@@ -2020,9 +2020,9 @@
     "social_link": "www.chuyel.cn",
     "category": "entertainment",
     "tags": [],
-    "stars": 11,
+    "stars": 12,
     "version": "v1.0.8",
-    "updated_at": "2026-03-14T06:23:01Z",
+    "updated_at": "2026-03-21T19:21:25Z",
     "logo": "https://raw.githubusercontent.com/chuyegzs/astrbot_plugin_meting/main/logo.png"
   },
   "astrbot-plugin-comfyui": {
@@ -3514,9 +3514,9 @@
       "抖音"
     ],
     "category": "utilities",
-    "stars": 13,
+    "stars": 14,
     "version": "v1.0.9",
-    "updated_at": "2026-03-19T01:14:36Z"
+    "updated_at": "2026-03-21T19:50:00Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -8712,9 +8712,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 106,
+    "stars": 107,
     "version": "2.2.4",
-    "updated_at": "2026-03-21T14:56:35Z",
+    "updated_at": "2026-03-21T19:50:07Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -11817,9 +11817,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 61,
+    "stars": 62,
     "version": "v2.1.0",
-    "updated_at": "2026-03-20T18:42:23Z",
+    "updated_at": "2026-03-21T19:50:13Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_pokepro/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
@@ -11977,7 +11977,7 @@
     "tags": [],
     "stars": 6,
     "version": "v1.7.6",
-    "updated_at": "2026-03-14T22:55:19Z",
+    "updated_at": "2026-03-21T19:41:06Z",
     "logo": "https://raw.githubusercontent.com/monbed/astrbot_plugin_animewifex/master/logo.png"
   },
   "astrbot_plugin_emojimix": {
@@ -13635,9 +13635,9 @@
     ],
     "social_link": "https://github.com/miaoxutao123/",
     "category": "utilities",
-    "stars": 71,
+    "stars": 72,
     "version": "v0.2.14",
-    "updated_at": "2026-03-20T08:39:14Z"
+    "updated_at": "2026-03-21T19:19:00Z"
   },
   "astrbot_plugin_sjzb": {
     "desc": "随机生成《绝地潜兵2》游戏中一组 4 个战备配置",
@@ -13984,9 +13984,9 @@
     "repo": "https://github.com/anka-afk/astrbot_plugin_humanlike",
     "category": "ai_tools",
     "tags": [],
-    "stars": 33,
+    "stars": 34,
     "version": "v0.2.2",
-    "updated_at": "2026-03-21T11:03:13Z"
+    "updated_at": "2026-03-21T19:46:58Z"
   },
   "astrbot_plugin_blue_archive": {
     "desc": "蔚蓝档案攻略查询 - 指令格式：攻略查询 <攻略名称>",
@@ -14010,9 +14010,9 @@
     ],
     "pinned": true,
     "category": "entertainment",
-    "stars": 194,
+    "stars": 195,
     "version": "v3.19",
-    "updated_at": "2026-03-21T10:47:28Z"
+    "updated_at": "2026-03-21T19:22:55Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
