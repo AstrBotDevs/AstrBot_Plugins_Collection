@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-pjsk-guess-card": {
+    "display_name": "PJSK猜卡面插件",
+    "desc": "PJSK猜卡面插件，用户可以猜经过特殊处理后的卡面中的角色是谁",
+    "author": "慵懒午睡",
+    "repo": "https://github.com/yonglanws/astrbot_plugin_pjsk_guess_card",
+    "tags": [
+      "pjsk",
+      "世界计划",
+      "猜卡面"
+    ],
+    "social_link": "https://github.com/yonglanws/"
+  },
   "astrbot-plugin-arcaea": {
     "display_name": "arcaea（阿卡伊）音游表情包生成插件",
     "desc": "生成 Arcaea 风格表情包，支持描边、多行文字、角色默认颜色，可自定义字体，可发送自定义阿卡伊表情包",
