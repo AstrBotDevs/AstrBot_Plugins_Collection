@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-daliy": {
+    "display_name": "AstrBot 的 Telegram 每日晨报插件",
+    "desc": "定时主动推送到已订阅会话\n每个会话可单独设置天气城市\n晨报内容由天气、RSS 新闻、每日一句、可选诗词组成",
+    "author": "zzzwannasleep",
+    "repo": "https://github.com/zzzwannasleep/astrbot_plugin_daliy",
+    "tags": [
+      "AI",
+      "Telegram"
+    ],
+    "social_link": "https://github.com/zzzwannasleep"
+  },
   "astrbot-plugin-pjsk-guess-card": {
     "display_name": "PJSK猜卡面插件",
     "desc": "PJSK猜卡面插件，用户可以猜经过特殊处理后的卡面中的角色是谁",
