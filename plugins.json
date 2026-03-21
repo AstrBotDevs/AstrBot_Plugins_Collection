@@ -1,4 +1,14 @@
 {
+  "astrbot-plugin-shit-detector-plus": {
+    "display_name": "GitHub 搬史专家",
+    "desc": "如果你觉得你的 coding plan 额度用不完，不妨试着让 AI 给你自动搬史。一个自动搜索 GitHub 项目，使用 AI 进行\"史\"级评定的趣味插件，支持定时推送精选项目到群聊",
+    "author": "C₂₂H₂₅NO₆",
+    "repo": "https://github.com/Sisyphbaous-DT-Project/astrbot_plugin_shit_detector_plus",
+    "tags": [
+      "搬史"
+    ],
+    "social_link": "https://github.com/Sisyphbaous-DT-Project"
+  },
   "astrbot-plugin-minecraft-wiki": {
     "display_name": "Minecraft Wiki查询",
     "desc": "用于为llm调用minecraft wiki",
