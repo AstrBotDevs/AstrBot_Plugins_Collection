@@ -421,9 +421,9 @@
     "repo": "https://github.com/Yuuu0109/astrbot_plugin_exchangerate_ICBC",
     "category": "productivity",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.4.2",
-    "updated_at": "2026-03-16T15:30:45Z"
+    "updated_at": "2026-03-21T18:48:00Z"
   },
   "astrbot-plugin-qq-group-daily-analysis": {
     "display_name": "群分析总结插件",
