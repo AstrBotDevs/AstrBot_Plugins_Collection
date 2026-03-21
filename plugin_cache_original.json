@@ -260,7 +260,7 @@
     ],
     "stars": 1,
     "version": "2.0.0",
-    "updated_at": "2026-03-20T15:29:41Z",
+    "updated_at": "2026-03-21T08:48:58Z",
     "logo": "https://raw.githubusercontent.com/lingyun14beta/astrbot_plugin_group_welcome/main/logo.png"
   },
   "astrbot-plugin-atrelay": {
@@ -3805,9 +3805,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "知识学习",
-    "stars": 211,
+    "stars": 213,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-21T06:31:30Z",
+    "updated_at": "2026-03-21T09:11:17Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -5275,9 +5275,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "AI增强",
-    "stars": 57,
+    "stars": 58,
     "version": "v4.2.18",
-    "updated_at": "2026-03-19T14:39:20Z",
+    "updated_at": "2026-03-21T08:38:01Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -6949,9 +6949,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "AI增强",
-    "stars": 146,
+    "stars": 147,
     "version": "v1.1.5",
-    "updated_at": "2026-03-20T18:42:31Z",
+    "updated_at": "2026-03-21T08:48:01Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -7452,8 +7452,8 @@
     "category": "效率工具",
     "tags": [],
     "stars": 4,
-    "version": "1.7.6",
-    "updated_at": "2026-03-20T12:12:12Z"
+    "version": "1.8.1",
+    "updated_at": "2026-03-21T08:41:38Z"
   },
   "astrbot_plugin_33recognition": {
     "desc": "调用大模型检测图片中关键词",
@@ -11310,9 +11310,9 @@
     "social_link": "https://github.com/Zhalslar",
     "category": "效率工具",
     "tags": [],
-    "stars": 44,
+    "stars": 45,
     "version": "v1.2.1",
-    "updated_at": "2026-02-20T23:11:12Z",
+    "updated_at": "2026-03-21T08:39:41Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_search_video/main/logo.png"
   },
   "astrbot_plugin_zt": {
