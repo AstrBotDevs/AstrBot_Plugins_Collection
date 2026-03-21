@@ -245,9 +245,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 243,
+    "stars": 244,
     "version": "v4.9.3",
-    "updated_at": "2026-03-20T16:54:24Z",
+    "updated_at": "2026-03-21T14:21:48Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1553,9 +1553,9 @@
     "social_link": "https://github.com/sssn-tech",
     "category": "AI增强",
     "tags": [],
-    "stars": 12,
+    "stars": 13,
     "version": "v0.1.0",
-    "updated_at": "2026-03-17T12:06:23Z",
+    "updated_at": "2026-03-21T14:03:35Z",
     "logo": "https://raw.githubusercontent.com/sssn-tech/astrbot_plugin_iamthinking/master/logo.png"
   },
   "astrbot-plugin-gbif-search": {
@@ -2625,8 +2625,8 @@
     "social_link": "https://www.cnmsb.xin",
     "category": "娱乐游戏",
     "stars": 1,
-    "version": "v1.7.2",
-    "updated_at": "2026-02-27T14:32:14Z",
+    "version": "v1.8.1",
+    "updated_at": "2026-03-21T14:25:02Z",
     "logo": "https://raw.githubusercontent.com/NyaNyagulugulu/astrbot_NekoMusic/main/logo.png"
   },
   "astrbot_plugin_mooncell_finder": {
@@ -3155,9 +3155,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "外部集成",
-    "stars": 243,
+    "stars": 244,
     "version": "v4.9.3",
-    "updated_at": "2026-03-20T16:54:24Z",
+    "updated_at": "2026-03-21T14:21:48Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -8280,8 +8280,8 @@
     "category": "外部集成",
     "tags": [],
     "stars": 53,
-    "version": "v2.6.0",
-    "updated_at": "2026-03-21T13:39:04Z"
+    "version": "v2.6.1",
+    "updated_at": "2026-03-21T14:01:37Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
