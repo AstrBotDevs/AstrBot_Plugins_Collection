@@ -82,9 +82,9 @@
     ],
     "social_link": "https://github.com/1-20182",
     "category": "entertainment",
-    "stars": 1,
+    "stars": 2,
     "version": "3.0.0",
-    "updated_at": "2026-03-22T02:05:38Z"
+    "updated_at": "2026-03-22T13:08:14Z"
   },
   "astrbot-plugin-arxiv": {
     "display_name": "ArXiv Paper Pusher",
@@ -1028,7 +1028,7 @@
     "tags": [],
     "stars": 30,
     "version": "Ver 3.0",
-    "updated_at": "2026-03-22T11:09:35Z"
+    "updated_at": "2026-03-22T13:41:41Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -2252,7 +2252,7 @@
     "category": "integrations",
     "stars": 72,
     "version": "v2.0.4",
-    "updated_at": "2026-03-22T11:56:20Z",
+    "updated_at": "2026-03-22T13:07:53Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -2267,7 +2267,7 @@
     "category": "entertainment",
     "stars": 2,
     "version": "v1.7.3",
-    "updated_at": "2026-03-22T12:29:29Z",
+    "updated_at": "2026-03-22T13:40:21Z",
     "logo": "https://raw.githubusercontent.com/gangcaiyoule/astrbot_plugin_mc_duration/master/logo.png"
   },
   "astrbot_plugin_minecraftconsole": {
@@ -8548,8 +8548,8 @@
     "category": "entertainment",
     "tags": [],
     "stars": 53,
-    "version": "v2.6.5",
-    "updated_at": "2026-03-22T08:40:11Z"
+    "version": "v2.6.6",
+    "updated_at": "2026-03-22T13:03:12Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -12893,9 +12893,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
     "category": "ai_tools",
-    "stars": 38,
+    "stars": 39,
     "version": "v2.0.0",
-    "updated_at": "2026-03-20T14:59:10Z",
+    "updated_at": "2026-03-22T13:14:57Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_browser/main/logo.png"
   },
   "astrbot_plugin_qqadmin": {
@@ -13635,9 +13635,9 @@
     ],
     "social_link": "https://github.com/miaoxutao123/",
     "category": "utilities",
-    "stars": 72,
+    "stars": 73,
     "version": "v0.2.14",
-    "updated_at": "2026-03-21T19:19:00Z"
+    "updated_at": "2026-03-22T12:56:27Z"
   },
   "astrbot_plugin_sjzb": {
     "desc": "随机生成《绝地潜兵2》游戏中一组 4 个战备配置",
