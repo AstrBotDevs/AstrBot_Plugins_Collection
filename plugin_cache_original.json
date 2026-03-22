@@ -23,9 +23,9 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "category": "entertainment",
-    "stars": 4,
+    "stars": 5,
     "version": "v2.5.2",
-    "updated_at": "2026-03-17T12:09:59Z",
+    "updated_at": "2026-03-22T04:34:15Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot_plugin_atrifeed/main/logo.png"
   },
   "astrbot-plugin-self-open-llm-vtuber": {
@@ -442,9 +442,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 245,
+    "stars": 248,
     "version": "v4.9.3",
-    "updated_at": "2026-03-21T16:33:31Z",
+    "updated_at": "2026-03-22T04:07:43Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -899,9 +899,9 @@
       "QQ"
     ],
     "category": "ai_tools",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.1",
-    "updated_at": "2026-03-17T03:24:08Z"
+    "updated_at": "2026-03-22T03:56:31Z"
   },
   "astrbot-plugin-unraid-manager": {
     "display_name": "Unraid NAS安全管理插件",
@@ -1058,9 +1058,9 @@
     ],
     "social_link": "https://github.com/olozhika/",
     "category": "ai_tools",
-    "stars": 14,
+    "stars": 15,
     "version": "v1.2.0",
-    "updated_at": "2026-03-21T20:54:32Z",
+    "updated_at": "2026-03-22T02:58:57Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
@@ -1978,8 +1978,8 @@
     "category": "ai_tools",
     "tags": [],
     "stars": 3,
-    "version": "0.1.6",
-    "updated_at": "2026-03-10T09:55:50Z"
+    "version": "0.1.7",
+    "updated_at": "2026-03-22T04:05:45Z"
   },
   "astrbot-plugin-matrix-sticker": {
     "display_name": "Matrix Sticker 管理插件",
@@ -2266,8 +2266,8 @@
     ],
     "category": "entertainment",
     "stars": 2,
-    "version": "v1.5.2",
-    "updated_at": "2026-03-21T11:45:02Z",
+    "version": "v1.6.0",
+    "updated_at": "2026-03-22T04:15:36Z",
     "logo": "https://raw.githubusercontent.com/gangcaiyoule/astrbot_plugin_mc_duration/master/logo.png"
   },
   "astrbot_plugin_minecraftconsole": {
@@ -2679,9 +2679,9 @@
     ],
     "social_link": "https://github.com/FenChen0211",
     "category": "entertainment",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.2.3",
-    "updated_at": "2026-03-13T05:22:59Z"
+    "updated_at": "2026-03-22T04:32:03Z"
   },
   "astrbot_plugin_qqrecord": {
     "display_name": "Meeting Recorder",
@@ -3325,7 +3325,7 @@
     "category": "entertainment",
     "stars": 25,
     "version": "5.1.1",
-    "updated_at": "2026-03-20T07:15:37Z",
+    "updated_at": "2026-03-22T03:18:59Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -3423,9 +3423,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 245,
+    "stars": 248,
     "version": "v4.9.3",
-    "updated_at": "2026-03-21T16:33:31Z",
+    "updated_at": "2026-03-22T04:07:43Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -4844,9 +4844,9 @@
       "人格"
     ],
     "category": "ai_tools",
-    "stars": 71,
-    "version": "1.3.8",
-    "updated_at": "2026-03-21T01:05:26Z",
+    "stars": 72,
+    "version": "1.3.9",
+    "updated_at": "2026-03-22T03:39:01Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -4973,9 +4973,9 @@
       "v1.0.0"
     ],
     "category": "ai_tools",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.4.0",
-    "updated_at": "2026-01-04T07:39:32Z"
+    "updated_at": "2026-03-22T03:01:27Z"
   },
   "astrbot_plugin_web_analysis": {
     "display_name": "网页解析",
@@ -6033,9 +6033,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "utilities",
-    "stars": 112,
+    "stars": 113,
     "version": "v2.3.0",
-    "updated_at": "2026-03-21T14:36:42Z",
+    "updated_at": "2026-03-22T03:04:58Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -8343,9 +8343,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "utilities",
-    "stars": 7,
+    "stars": 8,
     "version": "1.0.1",
-    "updated_at": "2026-02-21T15:20:26Z"
+    "updated_at": "2026-03-22T02:58:31Z"
   },
   "astrbot_plugin_personal_selfupdate": {
     "desc": "一个用于自更新人格数据的插件。",
@@ -12061,9 +12061,9 @@
     "repo": "https://github.com/LKarxa/astrbot_plugin_SillyTavern_card",
     "category": "ai_tools",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "v1.0.0",
-    "updated_at": "2026-03-19T06:38:41Z"
+    "updated_at": "2026-03-22T03:25:16Z"
   },
   "astrbot_plugin_reply": {
     "author": "yahayao",
@@ -12157,9 +12157,9 @@
     "social_link": "https://github.com/tinkerbellqwq",
     "category": "utilities",
     "tags": [],
-    "stars": 33,
+    "stars": 34,
     "version": "v1.1.3",
-    "updated_at": "2026-03-21T15:59:01Z"
+    "updated_at": "2026-03-22T02:53:58Z"
   },
   "astrbot_qqemotionreply": {
     "author": "QiChen",
@@ -13071,9 +13071,9 @@
       "世界书"
     ],
     "category": "ai_tools",
-    "stars": 12,
+    "stars": 13,
     "version": "v0.1.8",
-    "updated_at": "2026-03-12T06:04:37Z"
+    "updated_at": "2026-03-22T03:25:13Z"
   },
   "daily_limit": {
     "desc": "限制成员每日访问AI次数的插件，支持为不同用户和群组设置不同的调用限制(支持的astrbot最低版本为3.5.1)",
