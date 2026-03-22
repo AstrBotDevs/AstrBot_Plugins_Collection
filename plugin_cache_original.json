@@ -1,4 +1,15 @@
 {
+  "astrbot-ctfpusher-plugin": {
+    "display_name": "CTF 赛题及赛事推送助手",
+    "desc": "基于 CTFTime 与 NSSCTF 的全功能赛题推送、赛事检索、过滤与订阅提醒插件，支持精细化管理和北京时间自动转换。",
+    "author": "btop251",
+    "repo": "https://github.com/btop251/astrbot_ctfpush_plugin",
+    "version": "1.0.0",
+    "social_link": "btop251.top",
+    "tags": [],
+    "stars": 2,
+    "updated_at": "2026-03-22T11:20:09Z"
+  },
   "astrbot-plugin-pokemon": {
     "display_name": "精灵对战插件 for AstrBot",
     "desc": "一个类似宝可梦的精灵对战插件，支持捕捉、培养、对战。",
@@ -349,9 +360,9 @@
     "tags": [],
     "social_link": "",
     "category": "ai_tools",
-    "stars": 19,
+    "stars": 20,
     "version": "1.1.1",
-    "updated_at": "2026-03-21T13:32:39Z",
+    "updated_at": "2026-03-22T13:47:16Z",
     "logo": "https://raw.githubusercontent.com/Kalospacer/astrbot_plugin_maid_agent/master/logo.png"
   },
   "astrbot-plugin-stoprushingiamtyping": {
@@ -1026,9 +1037,9 @@
     "social_link": "https://github.com/Renyus",
     "category": "ai_tools",
     "tags": [],
-    "stars": 30,
+    "stars": 32,
     "version": "Ver 3.0",
-    "updated_at": "2026-03-22T13:41:41Z"
+    "updated_at": "2026-03-22T14:09:12Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
