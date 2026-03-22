@@ -454,8 +454,8 @@
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
     "stars": 250,
-    "version": "v4.9.3",
-    "updated_at": "2026-03-22T15:36:33Z",
+    "version": "v4.9.4",
+    "updated_at": "2026-03-22T16:53:26Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -2261,9 +2261,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 73,
+    "stars": 74,
     "version": "v2.0.4",
-    "updated_at": "2026-03-22T13:57:33Z",
+    "updated_at": "2026-03-22T17:06:41Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -3435,8 +3435,8 @@
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
     "stars": 250,
-    "version": "v4.9.3",
-    "updated_at": "2026-03-22T15:36:33Z",
+    "version": "v4.9.4",
+    "updated_at": "2026-03-22T16:53:26Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -5408,8 +5408,8 @@
     ],
     "category": "entertainment",
     "stars": 35,
-    "version": "2.4.6",
-    "updated_at": "2026-03-22T08:09:02Z",
+    "version": "2.4.7",
+    "updated_at": "2026-03-22T17:10:06Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -5426,8 +5426,8 @@
     "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
     "category": "utilities",
     "stars": 23,
-    "version": "v1.3.1",
-    "updated_at": "2026-03-22T15:32:59Z",
+    "version": "v1.3.2",
+    "updated_at": "2026-03-22T17:18:40Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -9391,9 +9391,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
-    "stars": 41,
+    "stars": 42,
     "version": "v2.2.0",
-    "updated_at": "2026-03-19T16:32:17Z",
+    "updated_at": "2026-03-22T16:41:06Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wakepro/main/logo.png"
   },
   "astrbot_plugin_memora_connect": {
