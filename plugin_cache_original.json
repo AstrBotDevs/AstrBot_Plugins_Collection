@@ -455,7 +455,7 @@
     "category": "productivity",
     "stars": 250,
     "version": "v4.9.3",
-    "updated_at": "2026-03-22T10:37:19Z",
+    "updated_at": "2026-03-22T15:36:33Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1010,9 +1010,9 @@
       "实用"
     ],
     "category": "productivity",
-    "stars": 7,
+    "stars": 8,
     "version": "5.4.0",
-    "updated_at": "2026-03-17T09:36:46Z"
+    "updated_at": "2026-03-22T15:49:29Z"
   },
   "astrbot-plugin-f1-notifier": {
     "display_name": "F1 Notifier",
@@ -2964,9 +2964,9 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "category": "entertainment",
-    "stars": 15,
+    "stars": 16,
     "version": "v3.1.4",
-    "updated_at": "2026-03-21T16:22:53Z",
+    "updated_at": "2026-03-22T16:15:32Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
@@ -3436,7 +3436,7 @@
     "category": "utilities",
     "stars": 250,
     "version": "v4.9.3",
-    "updated_at": "2026-03-22T10:37:19Z",
+    "updated_at": "2026-03-22T15:36:33Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -4084,9 +4084,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 216,
+    "stars": 217,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-22T12:19:59Z",
+    "updated_at": "2026-03-22T15:48:30Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -5427,7 +5427,7 @@
     "category": "utilities",
     "stars": 23,
     "version": "v1.3.1",
-    "updated_at": "2026-03-20T05:05:32Z",
+    "updated_at": "2026-03-22T15:32:59Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -7081,7 +7081,7 @@
     "category": "entertainment",
     "stars": 5,
     "version": "v2.0.0",
-    "updated_at": "2026-03-20T10:55:55Z"
+    "updated_at": "2026-03-22T15:52:51Z"
   },
   "astrbot_plugin_email_tool": {
     "display_name": "SMTP 邮件小工具",
@@ -8559,8 +8559,8 @@
     "category": "entertainment",
     "tags": [],
     "stars": 53,
-    "version": "v2.6.6",
-    "updated_at": "2026-03-22T13:03:12Z"
+    "version": "v2.6.7",
+    "updated_at": "2026-03-22T16:04:51Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
