@@ -48,7 +48,7 @@
     "tags": [],
     "stars": 0,
     "version": "0.1.0",
-    "updated_at": "2026-03-22T19:03:47Z"
+    "updated_at": "2026-03-22T20:03:16Z"
   },
   "astrbot-plugin-daliy": {
     "display_name": "AstrBot 的 Telegram 每日晨报插件",
@@ -8341,9 +8341,9 @@
       "galgame"
     ],
     "category": "entertainment",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.3",
-    "updated_at": "2026-02-06T11:27:28Z"
+    "updated_at": "2026-03-22T20:00:02Z"
   },
   "astrbot_plugins_steam_shop_price": {
     "desc": "用于查询 Steam 游戏的国区价格、史低信息，并支持与其他区服价格对比。支持识别游戏中文名。",
