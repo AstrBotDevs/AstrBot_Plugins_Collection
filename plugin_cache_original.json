@@ -5255,9 +5255,9 @@
     ],
     "social_link": "https://github.com/Xbodwf",
     "category": "entertainment",
-    "stars": 4,
+    "stars": 5,
     "version": "1.30.0",
-    "updated_at": "2026-03-13T14:34:32Z"
+    "updated_at": "2026-03-22T17:57:31Z"
   },
   "astrbot_plugin_QQbox": {
     "display_name": "QQbox",
@@ -5958,7 +5958,7 @@
     "category": "ai_tools",
     "stars": 10,
     "version": "v1.3.1",
-    "updated_at": "2026-03-09T06:33:53Z",
+    "updated_at": "2026-03-22T17:27:13Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_gemini_image/master/logo.png"
   },
   "astrbot_plugin_gemini_image_generation": {
@@ -9393,7 +9393,7 @@
     "category": "ai_tools",
     "stars": 42,
     "version": "v2.2.0",
-    "updated_at": "2026-03-22T16:41:06Z",
+    "updated_at": "2026-03-22T18:22:58Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wakepro/main/logo.png"
   },
   "astrbot_plugin_memora_connect": {
