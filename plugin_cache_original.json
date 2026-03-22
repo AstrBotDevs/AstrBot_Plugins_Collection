@@ -1027,8 +1027,8 @@
     "category": "ai_tools",
     "tags": [],
     "stars": 29,
-    "version": "Ver 2.8.7",
-    "updated_at": "2026-03-21T05:57:03Z"
+    "version": "Ver 3.0",
+    "updated_at": "2026-03-22T08:07:46Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -1389,7 +1389,7 @@
     "category": "entertainment",
     "stars": 2,
     "version": "v1.0.1",
-    "updated_at": "2026-03-05T02:01:35Z"
+    "updated_at": "2026-03-22T07:41:49Z"
   },
   "astrbot-plugin-sky": {
     "display_name": "sky光遇助手",
@@ -2681,7 +2681,7 @@
     "category": "entertainment",
     "stars": 7,
     "version": "v1.2.3",
-    "updated_at": "2026-03-22T04:32:03Z"
+    "updated_at": "2026-03-22T08:16:59Z"
   },
   "astrbot_plugin_qqrecord": {
     "display_name": "Meeting Recorder",
@@ -2766,9 +2766,9 @@
     "repo": "https://github.com/lumingya/astrbot_plugin_html_render",
     "category": "utilities",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "1.4.0",
-    "updated_at": "2026-03-17T15:37:41Z"
+    "updated_at": "2026-03-22T08:08:22Z"
   },
   "astrbot_plugin_opencode": {
     "display_name": "OpenCode Bridge",
@@ -3627,9 +3627,9 @@
     "repo": "https://github.com/YiChex/astrbot_plugin_CNKD_Admin",
     "category": "utilities",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "v0.1.1",
-    "updated_at": "2026-03-11T02:54:24Z"
+    "updated_at": "2026-03-22T08:21:31Z"
   },
   "astrbot_plugin_simple_memory": {
     "display_name": "基于 LLM 的简单记忆",
@@ -4073,9 +4073,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 214,
+    "stars": 215,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-21T15:15:46Z",
+    "updated_at": "2026-03-22T08:23:31Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -5396,9 +5396,9 @@
       "表情"
     ],
     "category": "entertainment",
-    "stars": 34,
+    "stars": 35,
     "version": "2.4.6",
-    "updated_at": "2026-03-21T15:55:52Z",
+    "updated_at": "2026-03-22T08:09:02Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -5885,7 +5885,7 @@
     "category": "ai_tools",
     "stars": 26,
     "version": "1.5.2",
-    "updated_at": "2026-03-22T07:31:31Z",
+    "updated_at": "2026-03-22T07:57:57Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/main/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -10094,9 +10094,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "ai_tools",
-    "stars": 72,
+    "stars": 73,
     "version": "2.1.1",
-    "updated_at": "2026-03-17T17:27:08Z"
+    "updated_at": "2026-03-22T08:08:13Z"
   },
   "cngal_search": {
     "desc": "CnGal查询",
@@ -10246,9 +10246,9 @@
       "沉浸式"
     ],
     "category": "ai_tools",
-    "stars": 20,
+    "stars": 21,
     "version": "1.4.6",
-    "updated_at": "2025-11-02T14:12:46Z"
+    "updated_at": "2026-03-22T08:08:50Z"
   },
   "astrbot_plugin_choulaopo": {
     "name": "抽老婆",
@@ -12145,9 +12145,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "entertainment",
-    "stars": 202,
+    "stars": 203,
     "version": "v3.0.3",
-    "updated_at": "2026-03-21T03:33:53Z",
+    "updated_at": "2026-03-22T08:08:33Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
