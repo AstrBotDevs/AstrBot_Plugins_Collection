@@ -1,4 +1,12 @@
 {
+  "astrbot-ctfpusher-plugin": {
+    "display_name": "CTF 赛题及赛事推送助手",
+    "desc": "基于 CTFTime 与 NSSCTF 的全功能赛题推送、赛事检索、过滤与订阅提醒插件，支持精细化管理和北京时间自动转换。",
+    "author": "btop251",
+    "repo": "https://github.com/btop251/astrbot_ctfpush_plugin",
+    "version": "3.2.0",
+    "social_link": "btop251.top"
+  },
   "astrbot-plugin-pokemon": {
     "display_name": "精灵对战插件 for AstrBot",
     "desc": "一个类似宝可梦的精灵对战插件，支持捕捉、培养、对战。",
