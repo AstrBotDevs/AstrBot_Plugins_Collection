@@ -114,9 +114,9 @@
     ],
     "social_link": "https://xiaochai-123.github.io/",
     "category": "utilities",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-03-20T08:57:47Z"
+    "updated_at": "2026-03-22T11:22:17Z"
   },
   "astrbot-plugin-steamachievement-query": {
     "display_name": "SteamHunter成就查询",
@@ -442,9 +442,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 249,
+    "stars": 250,
     "version": "v4.9.3",
-    "updated_at": "2026-03-22T07:35:11Z",
+    "updated_at": "2026-03-22T10:37:19Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -984,8 +984,8 @@
     "social_link": "",
     "category": "utilities",
     "stars": 6,
-    "version": "v1.2.2",
-    "updated_at": "2026-03-21T13:15:13Z",
+    "version": "v1.2.3",
+    "updated_at": "2026-03-22T11:20:04Z",
     "logo": "https://raw.githubusercontent.com/Waterwzy/astrbot_plugin_firefly_filter/master/logo.png"
   },
   "astrbot-plugin-cet6": {
@@ -1026,9 +1026,9 @@
     "social_link": "https://github.com/Renyus",
     "category": "ai_tools",
     "tags": [],
-    "stars": 29,
+    "stars": 30,
     "version": "Ver 3.0",
-    "updated_at": "2026-03-22T08:07:46Z"
+    "updated_at": "2026-03-22T11:09:35Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -2252,7 +2252,7 @@
     "category": "integrations",
     "stars": 72,
     "version": "v2.0.3",
-    "updated_at": "2026-03-22T05:37:38Z",
+    "updated_at": "2026-03-22T11:21:23Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -3283,8 +3283,8 @@
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
     "stars": 29,
-    "version": "v2.2.4",
-    "updated_at": "2026-03-20T10:43:37Z",
+    "version": "v2.2.5",
+    "updated_at": "2026-03-22T10:40:27Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_worldbook/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -3423,9 +3423,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 249,
+    "stars": 250,
     "version": "v4.9.3",
-    "updated_at": "2026-03-22T07:35:11Z",
+    "updated_at": "2026-03-22T10:37:19Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -3672,9 +3672,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "integrations",
-    "stars": 10,
+    "stars": 11,
     "version": "1.0.0",
-    "updated_at": "2026-03-11T03:50:47Z"
+    "updated_at": "2026-03-22T10:24:18Z"
   },
   "astrbot_plugin_chatmaster": {
     "display_name": "死了么 | 一款检测群聊活跃度的插件",
@@ -3951,9 +3951,9 @@
     ],
     "social_link": "https://www.misakanet.site",
     "category": "ai_tools",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.1",
-    "updated_at": "2026-01-13T03:21:11Z",
+    "updated_at": "2026-03-22T10:33:56Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_image_generation/master/logo.png"
   },
   "astrbot_plugin_group_geetest_verfy": {
@@ -4193,8 +4193,8 @@
     "social_link": "https://github.com/stevessr",
     "category": "integrations",
     "stars": 13,
-    "version": "0.3.4",
-    "updated_at": "2026-03-19T15:54:11Z",
+    "version": "0.3.5",
+    "updated_at": "2026-03-22T10:15:03Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_url_image_auto": {
@@ -4354,9 +4354,9 @@
     "repo": "https://github.com/xiaojuwa/astrbot_plugin_monixiuxian2",
     "category": "entertainment",
     "tags": [],
-    "stars": 9,
+    "stars": 10,
     "version": "v3.1.3",
-    "updated_at": "2026-03-21T04:22:55Z",
+    "updated_at": "2026-03-22T11:23:59Z",
     "logo": "https://raw.githubusercontent.com/xiaojuwa/astrbot_plugin_monixiuxian2/main/logo.png"
   },
   "astrbot_plugin_qymusic": {
@@ -4917,9 +4917,9 @@
       "文件解析"
     ],
     "category": "ai_tools",
-    "stars": 9,
+    "stars": 8,
     "version": "v3.1.0",
-    "updated_at": "2026-03-20T10:43:33Z"
+    "updated_at": "2026-03-22T10:14:50Z"
   },
   "astrbot_plugin_reminder": {
     "display_name": "定时提醒插件",
@@ -6033,9 +6033,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "utilities",
-    "stars": 113,
+    "stars": 114,
     "version": "v2.3.0",
-    "updated_at": "2026-03-22T03:04:58Z",
+    "updated_at": "2026-03-22T09:48:31Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -9437,8 +9437,8 @@
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
     "stars": 47,
-    "version": "v2.1.6",
-    "updated_at": "2026-03-19T10:40:34Z",
+    "version": "v2.1.7",
+    "updated_at": "2026-03-22T11:19:13Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -11609,9 +11609,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
-    "stars": 73,
+    "stars": 72,
     "version": "v1.1.3",
-    "updated_at": "2026-03-22T09:05:40Z",
+    "updated_at": "2026-03-22T10:46:39Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
@@ -12336,7 +12336,7 @@
     "category": "entertainment",
     "stars": 20,
     "version": "1.7.2",
-    "updated_at": "2026-03-18T08:42:42Z",
+    "updated_at": "2026-03-22T11:21:48Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
@@ -13071,9 +13071,9 @@
       "世界书"
     ],
     "category": "ai_tools",
-    "stars": 13,
+    "stars": 12,
     "version": "v0.1.8",
-    "updated_at": "2026-03-22T03:25:13Z"
+    "updated_at": "2026-03-22T10:22:16Z"
   },
   "daily_limit": {
     "desc": "限制成员每日访问AI次数的插件，支持为不同用户和群组设置不同的调用限制(支持的astrbot最低版本为3.5.1)",
@@ -13984,9 +13984,9 @@
     "repo": "https://github.com/anka-afk/astrbot_plugin_humanlike",
     "category": "ai_tools",
     "tags": [],
-    "stars": 34,
+    "stars": 35,
     "version": "v0.2.2",
-    "updated_at": "2026-03-21T19:46:58Z"
+    "updated_at": "2026-03-22T11:08:42Z"
   },
   "astrbot_plugin_blue_archive": {
     "desc": "蔚蓝档案攻略查询 - 指令格式：攻略查询 <攻略名称>",
