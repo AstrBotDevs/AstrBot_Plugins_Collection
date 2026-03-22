@@ -2261,9 +2261,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 72,
+    "stars": 73,
     "version": "v2.0.4",
-    "updated_at": "2026-03-22T13:07:53Z",
+    "updated_at": "2026-03-22T13:57:33Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -5554,9 +5554,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
-    "stars": 61,
+    "stars": 62,
     "version": "v4.2.18",
-    "updated_at": "2026-03-22T09:34:43Z",
+    "updated_at": "2026-03-22T13:46:33Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -6494,9 +6494,9 @@
       "推特"
     ],
     "category": "utilities",
-    "stars": 25,
+    "stars": 26,
     "version": "v5.1.0",
-    "updated_at": "2026-03-19T15:16:44Z",
+    "updated_at": "2026-03-22T14:06:59Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -8723,9 +8723,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 108,
+    "stars": 109,
     "version": "2.2.4",
-    "updated_at": "2026-03-22T01:06:22Z",
+    "updated_at": "2026-03-22T15:28:04Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -10907,9 +10907,9 @@
     ],
     "desc": "歌词接龙插件，当你发送一句歌词，机器人会回复下一句。",
     "category": "entertainment",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.2.2",
-    "updated_at": "2025-07-30T01:07:22Z"
+    "updated_at": "2026-03-22T14:59:12Z"
   },
   "astrbot_plugin_redstone": {
     "author": "LumineStory",
@@ -11200,9 +11200,9 @@
       "vocechat"
     ],
     "category": "integrations",
-    "stars": 9,
+    "stars": 8,
     "version": "1.0.0",
-    "updated_at": "2026-03-02T02:01:37Z"
+    "updated_at": "2026-03-22T14:40:20Z"
   },
   "astrbot_plugin_drift_bottle": {
     "author": "wuyan1003",
@@ -13124,9 +13124,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
     "category": "integrations",
-    "stars": 64,
+    "stars": 65,
     "version": "v3.1.0",
-    "updated_at": "2026-03-18T03:48:29Z",
+    "updated_at": "2026-03-22T14:30:20Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
