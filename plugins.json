@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-dida365": {
+    "display_name": "滴答清单连接器",
+    "desc": "在 AstrBot 中连接 Dida365（滴答清单），支持任务查询、定时汇报和基于 LLM 的任务操作。",
+    "author": "zhenyumi",
+    "repo": "https://github.com/zhenyumi/astrbot_plugin_dida365",
+    "tags": [
+      "Todo",
+      "定时",
+      "提醒"
+    ]
+  },
   "astrbot-plugin-wwkudie": {
     "display_name": "尽孝",
     "desc": "热爱游戏，把游戏公司当父亲尽孝的人",
