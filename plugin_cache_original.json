@@ -129,8 +129,9 @@
     "category": "integrations",
     "tags": [],
     "stars": 0,
-    "version": "0.1.0",
-    "updated_at": "2026-03-23T17:15:13Z"
+    "version": "0.9.8",
+    "updated_at": "2026-03-23T18:22:48Z",
+    "logo": "https://raw.githubusercontent.com/murphys7017/astrbot_plugin_self_open_llm_vtuber/main/logo.png"
   },
   "astrbot-plugin-daliy": {
     "display_name": "AstrBot 的 Telegram 每日晨报插件",
@@ -442,9 +443,9 @@
     "tags": [],
     "social_link": "",
     "category": "ai_tools",
-    "stars": 20,
+    "stars": 21,
     "version": "1.1.1",
-    "updated_at": "2026-03-22T13:47:16Z",
+    "updated_at": "2026-03-23T18:06:34Z",
     "logo": "https://raw.githubusercontent.com/Kalospacer/astrbot_plugin_maid_agent/master/logo.png"
   },
   "astrbot-plugin-stoprushingiamtyping": {
@@ -931,9 +932,9 @@
     "repo": "https://github.com/674537331/astrbot_plugin_mihome",
     "category": "integrations",
     "tags": [],
-    "stars": 10,
+    "stars": 11,
     "version": "v7.0.1",
-    "updated_at": "2026-03-23T13:08:24Z",
+    "updated_at": "2026-03-23T18:04:05Z",
     "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_mihome/main/logo.png"
   },
   "astrbot-plugin-nai-brush": {
@@ -4075,9 +4076,9 @@
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "1.0.2",
-    "updated_at": "2026-03-19T14:35:00Z"
+    "updated_at": "2026-03-23T18:16:55Z"
   },
   "astrbot_plugin_chord": {
     "display_name": "和弦查询",
@@ -7217,9 +7218,9 @@
       "修仙"
     ],
     "category": "entertainment",
-    "stars": 8,
-    "version": "v0.7.2",
-    "updated_at": "2026-03-23T13:02:21Z",
+    "stars": 9,
+    "version": "v0.7.3",
+    "updated_at": "2026-03-23T18:50:12Z",
     "logo": "https://raw.githubusercontent.com/linjianyan0229/astrbot_plugin_monixiuxian/main/logo.png"
   },
   "astrbot_plugin_invitecount": {
@@ -10230,9 +10231,9 @@
       "娱乐"
     ],
     "category": "entertainment",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.4",
-    "updated_at": "2026-02-19T10:46:40Z",
+    "updated_at": "2026-03-23T18:35:50Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_deer_check/master/logo.png"
   },
   "astrbot_plugin_pet": {
