@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-fitness": {
+    "desc": "智能健身教练插件 - 个人档案建立、训练计划生成、每日打卡提醒、动态调整与补剂饮食跟进",
+    "author": "Towqs",
+    "repo": "https://github.com/Towqs/astrbot_plugin_fitness",
+    "tags": [
+      "健身",
+      "打卡",
+      "RPG",
+      "训练计划"
+    ],
+    "social_link": ""
+  },
   "astrbot-plugin-minimax-alert": {
     "display_name": "MiniMax 用量查询",
     "desc": "查询 MiniMax Token Plan API 用量信息，支持国内版和国际版。查看5小时周期和本周周期的剩余额度。",
