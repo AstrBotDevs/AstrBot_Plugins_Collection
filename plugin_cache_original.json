@@ -1,4 +1,33 @@
 {
+  "astrbot-plugin-access-others-chat-history": {
+    "display_name": "访问他人聊天记录",
+    "desc": "为bot提供访问其他聊天会话的工具，让bot在和你聊天的时候也能知道在其他地方聊了什么",
+    "author": "兔子",
+    "repo": "https://github.com/KonmaKanSinPack/astrbot_plugin_access_others_chat",
+    "tags": [
+      "拟人",
+      "聊天",
+      "私聊",
+      "群聊"
+    ],
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-22T05:52:52Z"
+  },
+  "astrbot-plugin-dida365": {
+    "display_name": "滴答清单连接器",
+    "desc": "在 AstrBot 中连接 Dida365（滴答清单），支持任务查询、定时汇报和基于 LLM 的任务操作。",
+    "author": "zhenyumi",
+    "repo": "https://github.com/zhenyumi/astrbot_plugin_dida365",
+    "tags": [
+      "Todo",
+      "定时",
+      "提醒"
+    ],
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-21T17:42:46Z"
+  },
   "astrbot-plugin-wwkudie": {
     "display_name": "尽孝",
     "desc": "热爱游戏，把游戏公司当父亲尽孝的人",
@@ -469,9 +498,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 251,
+    "stars": 252,
     "version": "v4.9.4",
-    "updated_at": "2026-03-22T22:55:24Z",
+    "updated_at": "2026-03-23T03:52:29Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1011,8 +1040,8 @@
     "social_link": "",
     "category": "utilities",
     "stars": 6,
-    "version": "v1.2.3",
-    "updated_at": "2026-03-22T11:20:04Z",
+    "version": "v1.3.0",
+    "updated_at": "2026-03-23T03:30:17Z",
     "logo": "https://raw.githubusercontent.com/Waterwzy/astrbot_plugin_firefly_filter/master/logo.png"
   },
   "astrbot-plugin-cet6": {
@@ -1055,7 +1084,7 @@
     "tags": [],
     "stars": 32,
     "version": "Ver 3.0",
-    "updated_at": "2026-03-23T02:21:35Z"
+    "updated_at": "2026-03-23T03:02:58Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -1533,9 +1562,9 @@
     ],
     "social_link": "https://github.com/IwannaYuJie",
     "category": "productivity",
-    "stars": 3,
+    "stars": 4,
     "version": "0.1.0",
-    "updated_at": "2026-03-19T13:31:24Z"
+    "updated_at": "2026-03-23T03:23:16Z"
   },
   "astrbot-plugin-bookkeeping": {
     "display_name": "日常记账",
@@ -2277,9 +2306,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 75,
+    "stars": 78,
     "version": "v2.0.4",
-    "updated_at": "2026-03-23T02:15:18Z",
+    "updated_at": "2026-03-23T03:47:12Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -2609,9 +2638,9 @@
       "娱乐"
     ],
     "category": "entertainment",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.0.0",
-    "updated_at": "2026-03-17T07:00:07Z"
+    "updated_at": "2026-03-23T03:45:49Z"
   },
   "astrbot_plugin_elves_world": {
     "display_name": "精灵世界",
@@ -2766,9 +2795,9 @@
     ],
     "social_link": "https://github.com/piexian",
     "category": "ai_tools",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.3.0",
-    "updated_at": "2026-03-20T16:03:40Z",
+    "updated_at": "2026-03-23T02:47:02Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_grok_web_search/master/logo.png"
   },
   "astrbot_plugin_fake_ai_watermark": {
@@ -3110,9 +3139,9 @@
     ],
     "social_link": "https://github.com/Azincc/",
     "category": "utilities",
-    "stars": 13,
+    "stars": 14,
     "version": "v1.3.0",
-    "updated_at": "2026-03-20T14:44:51Z"
+    "updated_at": "2026-03-23T04:18:54Z"
   },
   "astrbot_plugin_tomin": {
     "display_name": "Tomin - 少女乐队游戏",
@@ -3450,9 +3479,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 251,
+    "stars": 252,
     "version": "v4.9.4",
-    "updated_at": "2026-03-22T22:55:24Z",
+    "updated_at": "2026-03-23T03:52:29Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -4055,9 +4084,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "utilities",
-    "stars": 40,
+    "stars": 41,
     "version": "1.1.1",
-    "updated_at": "2026-03-18T06:19:21Z"
+    "updated_at": "2026-03-23T04:25:01Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -4100,9 +4129,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 217,
+    "stars": 218,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-22T15:48:30Z",
+    "updated_at": "2026-03-23T02:52:58Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -9980,7 +10009,7 @@
     "category": "utilities",
     "stars": 41,
     "version": "v2.0.0",
-    "updated_at": "2026-03-20T18:07:04Z",
+    "updated_at": "2026-03-23T02:36:03Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -10780,8 +10809,8 @@
     "repo": "https://github.com/CJSen/astrbot_plugin_daliy_60s_news",
     "category": "utilities",
     "stars": 6,
-    "version": "v1.0.3",
-    "updated_at": "2026-03-03T07:59:05Z"
+    "version": "v1.0.4",
+    "updated_at": "2026-03-23T04:05:23Z"
   },
   "astrbot_plugin_desuwa": {
     "author": "GEMILUXVII",
@@ -13663,8 +13692,8 @@
     "social_link": "https://github.com/miaoxutao123/",
     "category": "utilities",
     "stars": 73,
-    "version": "v0.2.14",
-    "updated_at": "2026-03-22T12:56:27Z"
+    "version": "0.3.0",
+    "updated_at": "2026-03-23T03:33:12Z"
   },
   "astrbot_plugin_sjzb": {
     "desc": "随机生成《绝地潜兵2》游戏中一组 4 个战备配置",
