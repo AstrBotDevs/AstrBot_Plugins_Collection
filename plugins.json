@@ -1,4 +1,17 @@
 {
+  "astrbot-plugin-wwkudie": {
+    "display_name": "尽孝",
+    "desc": "热爱游戏，把游戏公司当父亲尽孝的人",
+    "author": "NumInvis",
+    "repo": "https://github.com/NumInvis/astrbot_plugin_wwkudie",
+    "tags": [
+      "文章",
+      "二游",
+      "游戏",
+      "prompt"
+    ],
+    "social_link": "https://github.com/NumInvis"
+  },
   "astrbot-ctfpusher-plugin": {
     "display_name": "CTF 赛题及赛事推送助手",
     "desc": "基于 CTFTime 与 NSSCTF 的全功能赛题推送、赛事检索、过滤与订阅提醒插件，支持精细化管理和北京时间自动转换。",
