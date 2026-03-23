@@ -1,4 +1,10 @@
 {
+  "astrbot-plugin-minimax-alert": {
+    "display_name": "MiniMax 用量查询",
+    "desc": "查询 MiniMax Token Plan API 用量信息，支持国内版和国际版。查看5小时周期和本周周期的剩余额度。",
+    "author": "Crystar-1",
+    "repo": "https://github.com/Crystar-1/astrbot_plugin_minimax_alert"
+  },
   "astrbot-plugin-access-others-chat-history": {
     "display_name": "访问他人聊天记录",
     "desc": "为bot提供访问其他聊天会话的工具，让bot在和你聊天的时候也能知道在其他地方聊了什么",
