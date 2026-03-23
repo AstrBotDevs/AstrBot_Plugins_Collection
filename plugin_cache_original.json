@@ -49,7 +49,7 @@
     ],
     "stars": 0,
     "version": "v1.0.0",
-    "updated_at": "2026-03-22T05:52:52Z"
+    "updated_at": "2026-03-23T13:12:37Z"
   },
   "astrbot-plugin-dida365": {
     "display_name": "滴答清单连接器",
@@ -61,9 +61,9 @@
       "定时",
       "提醒"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-03-23T13:08:18Z"
+    "updated_at": "2026-03-23T13:12:42Z"
   },
   "astrbot-plugin-wwkudie": {
     "display_name": "尽孝",
@@ -1384,9 +1384,9 @@
     ],
     "social_link": "https://github.com/menglimi",
     "category": "ai_tools",
-    "stars": 25,
+    "stars": 26,
     "version": "2.8.0",
-    "updated_at": "2026-03-21T16:45:52Z",
+    "updated_at": "2026-03-23T13:17:02Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -5545,8 +5545,8 @@
     "social_link": "https://github.com/DBJD-CR",
     "category": "utilities",
     "stars": 46,
-    "version": "v1.4.0",
-    "updated_at": "2026-03-20T05:24:50Z",
+    "version": "v1.4.5",
+    "updated_at": "2026-03-23T14:40:27Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -6056,7 +6056,7 @@
     "category": "ai_tools",
     "stars": 30,
     "version": "v1.9.6",
-    "updated_at": "2026-03-16T20:25:20Z",
+    "updated_at": "2026-03-23T13:18:14Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -9488,9 +9488,9 @@
     ],
     "social_link": "https://github.com/qa296/",
     "category": "ai_tools",
-    "stars": 28,
+    "stars": 29,
     "version": "v0.2.7",
-    "updated_at": "2026-03-06T14:01:55Z"
+    "updated_at": "2026-03-23T13:42:15Z"
   },
   "astrbot_plugin_iearning_style": {
     "desc": "使机器人可以从聊天中学习他人说话方式",
@@ -10046,7 +10046,7 @@
     "category": "utilities",
     "stars": 41,
     "version": "v2.0.0",
-    "updated_at": "2026-03-23T02:36:03Z",
+    "updated_at": "2026-03-23T14:20:40Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -13001,9 +13001,9 @@
       "QQ群管"
     ],
     "category": "utilities",
-    "stars": 113,
+    "stars": 114,
     "version": "v3.2.7",
-    "updated_at": "2026-03-23T13:08:31Z",
+    "updated_at": "2026-03-23T14:55:04Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -13651,7 +13651,7 @@
     "category": "entertainment",
     "stars": 1,
     "version": "v1.1.0",
-    "updated_at": "2026-03-21T14:43:51Z"
+    "updated_at": "2026-03-23T13:30:20Z"
   },
   "astrbot_plugin_majsoul-master": {
     "desc": "一个雀魂多功能插件",
@@ -14395,8 +14395,8 @@
     "category": "integrations",
     "tags": [],
     "stars": 1,
-    "version": "v2.2.2",
-    "updated_at": "2026-03-22T07:29:20Z"
+    "version": "v2.2.3",
+    "updated_at": "2026-03-23T14:43:01Z"
   },
   "astrbot_plugin_wol": {
     "desc": "局域网 WOL 唤醒插件，/wolhelp 查看帮助",
@@ -14756,9 +14756,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "ai_tools",
     "tags": [],
-    "stars": 211,
+    "stars": 212,
     "version": "v2.1.0",
-    "updated_at": "2026-03-22T21:59:53Z"
+    "updated_at": "2026-03-23T13:44:17Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
