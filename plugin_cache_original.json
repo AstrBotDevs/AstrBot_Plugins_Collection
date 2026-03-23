@@ -1,4 +1,20 @@
 {
+  "astrbot-plugin-wwkudie": {
+    "display_name": "尽孝",
+    "desc": "热爱游戏，把游戏公司当父亲尽孝的人",
+    "author": "NumInvis",
+    "repo": "https://github.com/NumInvis/astrbot_plugin_wwkudie",
+    "tags": [
+      "文章",
+      "二游",
+      "游戏",
+      "prompt"
+    ],
+    "social_link": "https://github.com/NumInvis",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-03-21T18:13:24Z"
+  },
   "astrbot-ctfpusher-plugin": {
     "display_name": "CTF 赛题及赛事推送助手",
     "desc": "基于 CTFTime 与 NSSCTF 的全功能赛题推送、赛事检索、过滤与订阅提醒插件，支持精细化管理和北京时间自动转换。",
@@ -34,9 +50,9 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "category": "entertainment",
-    "stars": 5,
+    "stars": 6,
     "version": "v2.5.2",
-    "updated_at": "2026-03-22T04:34:15Z",
+    "updated_at": "2026-03-23T01:49:11Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot_plugin_atrifeed/main/logo.png"
   },
   "astrbot-plugin-self-open-llm-vtuber": {
@@ -1039,7 +1055,7 @@
     "tags": [],
     "stars": 32,
     "version": "Ver 3.0",
-    "updated_at": "2026-03-22T14:09:12Z"
+    "updated_at": "2026-03-23T02:21:35Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -1273,7 +1289,7 @@
     "category": "utilities",
     "stars": 13,
     "version": "v1.3.1",
-    "updated_at": "2026-03-20T21:32:18Z",
+    "updated_at": "2026-03-23T02:07:16Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -2261,9 +2277,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 74,
+    "stars": 75,
     "version": "v2.0.4",
-    "updated_at": "2026-03-22T17:06:41Z",
+    "updated_at": "2026-03-23T02:15:18Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -2979,9 +2995,9 @@
       "视奸"
     ],
     "category": "integrations",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.2.3",
-    "updated_at": "2026-03-14T11:39:41Z"
+    "updated_at": "2026-03-23T01:55:48Z"
   },
   "astrbot_plugin_minecraft_monitor": {
     "display_name": "MC 服务器监控（适配基岩版与 Java 版）",
