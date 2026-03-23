@@ -23,8 +23,8 @@
     ],
     "social_link": "",
     "stars": 1,
-    "version": "2.0.0",
-    "updated_at": "2026-03-23T08:56:36Z"
+    "version": "2.0.2",
+    "updated_at": "2026-03-23T09:16:26Z"
   },
   "astrbot-plugin-minimax-alert": {
     "display_name": "MiniMax 用量查询",
@@ -334,7 +334,7 @@
     "category": "entertainment",
     "stars": 6,
     "version": "1.2.0",
-    "updated_at": "2026-03-23T06:10:58Z",
+    "updated_at": "2026-03-23T09:21:13Z",
     "logo": "https://raw.githubusercontent.com/Sisyphbaous-DT-Project/astrbot_plugin_what_to_eat/main/logo.png"
   },
   "astrbot-plugin-HD2-daily-report": {
@@ -536,8 +536,8 @@
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
     "stars": 254,
-    "version": "v4.9.4",
-    "updated_at": "2026-03-23T08:11:53Z",
+    "version": "v4.9.5",
+    "updated_at": "2026-03-23T09:33:50Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1121,7 +1121,7 @@
     "tags": [],
     "stars": 32,
     "version": "Ver 3.1",
-    "updated_at": "2026-03-23T08:51:02Z"
+    "updated_at": "2026-03-23T09:09:50Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -3517,8 +3517,8 @@
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
     "stars": 254,
-    "version": "v4.9.4",
-    "updated_at": "2026-03-23T08:11:53Z",
+    "version": "v4.9.5",
+    "updated_at": "2026-03-23T09:33:50Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -4166,9 +4166,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 218,
+    "stars": 219,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-23T02:52:58Z",
+    "updated_at": "2026-03-23T09:49:34Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -6841,8 +6841,8 @@
     "social_link": "https://github.com/SatenShiroya",
     "category": "entertainment",
     "stars": 11,
-    "version": "V1.4.0",
-    "updated_at": "2026-03-23T06:12:52Z",
+    "version": "V2.0.0",
+    "updated_at": "2026-03-23T09:52:09Z",
     "logo": "https://raw.githubusercontent.com/SatenShiroya/astrbot_plugin_neteasecloud_music/master/logo.png"
   },
   "astrbot_plugin_dailyacmfortune": {
@@ -11923,9 +11923,9 @@
       "主动回复"
     ],
     "category": "utilities",
-    "stars": 13,
+    "stars": 14,
     "version": "v1.3",
-    "updated_at": "2026-03-07T15:08:37Z"
+    "updated_at": "2026-03-23T09:41:20Z"
   },
   "astrbot_plugin_broadcast": {
     "display_name": "广播助手",
@@ -13579,9 +13579,9 @@
       "实用工具"
     ],
     "category": "utilities",
-    "stars": 35,
+    "stars": 36,
     "version": "v3.0.1",
-    "updated_at": "2026-03-17T23:51:01Z",
+    "updated_at": "2026-03-23T09:19:10Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
@@ -14353,9 +14353,9 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "category": "integrations",
     "tags": [],
-    "stars": 49,
+    "stars": 50,
     "version": "v1.5.7",
-    "updated_at": "2026-03-22T12:13:49Z",
+    "updated_at": "2026-03-23T10:05:28Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
