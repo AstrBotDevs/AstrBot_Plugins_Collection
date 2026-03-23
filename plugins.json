@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-access-others-chat-history": {
+    "display_name": "访问他人聊天记录",
+    "desc": "为bot提供访问其他聊天会话的工具，让bot在和你聊天的时候也能知道在其他地方聊了什么",
+    "author": "兔子",
+    "repo": "https://github.com/KonmaKanSinPack/astrbot_plugin_access_others_chat",
+    "tags": [
+      "拟人",
+      "聊天",
+      "私聊",
+      "群聊"
+    ]
+  },
   "astrbot-plugin-dida365": {
     "display_name": "滴答清单连接器",
     "desc": "在 AstrBot 中连接 Dida365（滴答清单），支持任务查询、定时汇报和基于 LLM 的任务操作。",
