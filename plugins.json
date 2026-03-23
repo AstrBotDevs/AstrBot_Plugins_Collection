@@ -1,4 +1,12 @@
 {
+  "astrbot-plugin-codesnap": {
+    "display_name": "CodeSnap(?)",
+    "desc": "A plugin inspired by CodeSnap",
+    "author": "ZeraoraBot",
+    "repo": "https://github.com/Zeraora-807/astrbot_plugin_codesnap",
+    "tags": [],
+    "social_link": ""
+  },
   "astrbot-plugin-fitness": {
     "desc": "智能健身教练插件 - 个人档案建立、训练计划生成、每日打卡提醒、动态调整与补剂饮食跟进",
     "author": "Towqs",
