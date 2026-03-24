@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-daily-album": {
+    "display_name": "每日专辑推荐",
+    "desc": "每日专辑推荐 - 定时向指定会话推送一张专辑推荐，支持 LLM、联网搜索、自定义脚本三种来源",
+    "author": "wanger",
+    "repo": "https://github.com/10knamesmore/astrbot_plugin_daily_album",
+    "tags": [
+      "音乐"
+    ],
+    "stars": 0,
+    "version": "v0.0.4",
+    "updated_at": "2026-03-23T03:30:34Z"
+  },
   "astrbot-plugin-codesnap": {
     "display_name": "CodeSnap(?)",
     "desc": "A plugin inspired by CodeSnap",
@@ -23,8 +35,8 @@
     ],
     "social_link": "",
     "stars": 2,
-    "version": "2.0.2",
-    "updated_at": "2026-03-23T13:08:22Z"
+    "version": "2.0.4",
+    "updated_at": "2026-03-24T02:07:40Z"
   },
   "astrbot-plugin-minimax-alert": {
     "display_name": "MiniMax 用量查询",
@@ -349,9 +361,9 @@
       "vibe coding"
     ],
     "category": "entertainment",
-    "stars": 0,
+    "stars": 1,
     "version": "v0.0.2",
-    "updated_at": "2026-03-20T08:42:11Z",
+    "updated_at": "2026-03-24T01:06:23Z",
     "logo": "https://raw.githubusercontent.com/MomijiOXO/astrbot_plugin_HD2_daily_report/master/logo.png"
   },
   "astrbot-plugin-splatoon3": {
@@ -805,8 +817,8 @@
     "social_link": "https://github.com/Vince-0906",
     "category": "integrations",
     "stars": 1,
-    "version": "0.1.0",
-    "updated_at": "2026-03-02T06:04:58Z"
+    "version": "0.2.0",
+    "updated_at": "2026-03-24T02:05:55Z"
   },
   "astrbot-plugin-shitjournal-daily": {
     "display_name": "SHIT 期刊每日推送",
@@ -1122,7 +1134,7 @@
     "tags": [],
     "stars": 34,
     "version": "Ver 3.1.2",
-    "updated_at": "2026-03-23T15:33:00Z"
+    "updated_at": "2026-03-24T01:13:21Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -4167,9 +4179,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 222,
+    "stars": 223,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-23T17:15:17Z",
+    "updated_at": "2026-03-24T00:34:59Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -5367,9 +5379,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 82,
+    "stars": 83,
     "version": "v1.5.1",
-    "updated_at": "2026-03-19T06:38:54Z",
+    "updated_at": "2026-03-24T01:20:22Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -11331,9 +11343,9 @@
       "玩具"
     ],
     "category": "entertainment",
-    "stars": 22,
+    "stars": 23,
     "version": "v0.1",
-    "updated_at": "2026-03-23T06:36:18Z"
+    "updated_at": "2026-03-24T01:46:52Z"
   },
   "astrbot_plugin_music": {
     "display_name": "点歌插件",
