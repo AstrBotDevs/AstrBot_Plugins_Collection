@@ -128,9 +128,9 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "category": "entertainment",
-    "stars": 7,
+    "stars": 8,
     "version": "v2.5.2",
-    "updated_at": "2026-03-23T17:35:39Z",
+    "updated_at": "2026-03-24T05:04:09Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot_plugin_atrifeed/main/logo.png"
   },
   "astrbot-plugin-self-open-llm-vtuber": {
@@ -3875,9 +3875,9 @@
     ],
     "social_link": "https://github.com/Olynx7",
     "category": "ai_tools",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0",
-    "updated_at": "2026-03-09T16:57:32Z",
+    "updated_at": "2026-03-24T05:37:59Z",
     "logo": "https://raw.githubusercontent.com/Olynx7/astrbot_plugin_text2img/master/logo.png"
   },
   "astrbot_plugin_ppnai": {
@@ -3887,9 +3887,9 @@
     "repo": "https://github.com/dafeiwu666/astrbot_plugin_ppnai",
     "category": "ai_tools",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "v1.0",
-    "updated_at": "2026-02-28T16:47:15Z"
+    "updated_at": "2026-03-24T05:39:28Z"
   },
   "astrbot_plugin_music_pro": {
     "display_name": "高级点歌",
@@ -4179,9 +4179,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 223,
+    "stars": 224,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-24T00:34:59Z",
+    "updated_at": "2026-03-24T05:19:23Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -4421,9 +4421,9 @@
       "豆包"
     ],
     "category": "ai_tools",
-    "stars": 2,
+    "stars": 3,
     "version": "3.3.0",
-    "updated_at": "2026-03-16T04:37:25Z"
+    "updated_at": "2026-03-24T05:29:02Z"
   },
   "astrbot_plugin_admin_notifier": {
     "display_name": "举报通知",
@@ -6785,9 +6785,9 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_siliconflow-shouban",
     "category": "ai_tools",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "v1.3.5",
-    "updated_at": "2026-01-26T22:37:07Z"
+    "updated_at": "2026-03-24T05:49:35Z"
   },
   "astrbot_plugin_eatdrink": {
     "display_name": "吃喝什么呢？",
@@ -12251,9 +12251,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "entertainment",
-    "stars": 205,
+    "stars": 206,
     "version": "v3.0.3",
-    "updated_at": "2026-03-23T16:12:51Z",
+    "updated_at": "2026-03-24T05:25:41Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
