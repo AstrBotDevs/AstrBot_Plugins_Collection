@@ -35,8 +35,8 @@
     ],
     "social_link": "",
     "stars": 2,
-    "version": "2.0.4",
-    "updated_at": "2026-03-24T02:07:40Z"
+    "version": "2.0.7",
+    "updated_at": "2026-03-24T03:18:39Z"
   },
   "astrbot-plugin-minimax-alert": {
     "display_name": "MiniMax 用量查询",
@@ -73,9 +73,9 @@
       "定时",
       "提醒"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-03-23T13:12:42Z"
+    "updated_at": "2026-03-24T02:47:21Z"
   },
   "astrbot-plugin-wwkudie": {
     "display_name": "尽孝",
@@ -89,9 +89,9 @@
       "prompt"
     ],
     "social_link": "https://github.com/NumInvis",
-    "stars": 1,
+    "stars": 4,
     "version": "1.0.0",
-    "updated_at": "2026-03-23T06:25:50Z"
+    "updated_at": "2026-03-24T04:40:04Z"
   },
   "astrbot-ctfpusher-plugin": {
     "display_name": "CTF 赛题及赛事推送助手",
@@ -944,9 +944,9 @@
     "repo": "https://github.com/674537331/astrbot_plugin_mihome",
     "category": "integrations",
     "tags": [],
-    "stars": 11,
+    "stars": 12,
     "version": "v7.0.1",
-    "updated_at": "2026-03-23T18:04:05Z",
+    "updated_at": "2026-03-24T03:59:16Z",
     "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_mihome/main/logo.png"
   },
   "astrbot-plugin-nai-brush": {
@@ -1132,9 +1132,9 @@
     "social_link": "https://github.com/Renyus",
     "category": "ai_tools",
     "tags": [],
-    "stars": 34,
+    "stars": 36,
     "version": "Ver 3.1.2",
-    "updated_at": "2026-03-24T01:13:21Z"
+    "updated_at": "2026-03-24T03:52:02Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -2014,8 +2014,8 @@
     ],
     "category": "integrations",
     "stars": 6,
-    "version": "v1.0.2",
-    "updated_at": "2026-03-17T11:52:34Z"
+    "version": "v1.0.3",
+    "updated_at": "2026-03-24T03:31:39Z"
   },
   "astrbot-plugin-halo-manager": {
     "display_name": "博客管理器",
@@ -2905,9 +2905,9 @@
     ],
     "social_link": "https://github.com/YukiRa1n",
     "category": "integrations",
-    "stars": 8,
+    "stars": 9,
     "version": "v2.1.0",
-    "updated_at": "2026-03-18T18:24:54Z"
+    "updated_at": "2026-03-24T03:15:25Z"
   },
   "astrbot_plugin_sudoku": {
     "display_name": "数独游戏",
@@ -3917,7 +3917,7 @@
     "tags": [],
     "stars": 1,
     "version": "v0.0.5",
-    "updated_at": "2026-03-12T13:37:21Z",
+    "updated_at": "2026-03-24T03:12:49Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_online_status/master/logo.png"
   },
   "astrbot_plugin_logplus": {
@@ -4075,9 +4075,9 @@
     ],
     "social_link": "https://github.com/VanillaNahida/",
     "category": "utilities",
-    "stars": 23,
+    "stars": 24,
     "version": "v1.2.4",
-    "updated_at": "2026-03-20T02:17:38Z",
+    "updated_at": "2026-03-24T04:43:47Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_geetest_verify/master/logo.png"
   },
   "astrbot_plugin_cliproxy_stats": {
@@ -4877,7 +4877,7 @@
     "category": "ai_tools",
     "stars": 18,
     "version": "v0.1.11",
-    "updated_at": "2026-03-23T16:20:12Z",
+    "updated_at": "2026-03-24T02:45:45Z",
     "logo": "https://raw.githubusercontent.com/sukafon/astrbot_plugin_big_banana/main/logo.png"
   },
   "astrbot_plugin_BitTorrent": {
@@ -6351,9 +6351,9 @@
     "repo": "https://github.com/GuJi08233/astrbot_plugin_val_shop",
     "category": "entertainment",
     "tags": [],
-    "stars": 10,
+    "stars": 9,
     "version": "v3.2.6",
-    "updated_at": "2026-03-13T15:41:00Z"
+    "updated_at": "2026-03-24T03:15:09Z"
   },
   "astrbot_plugin_doubao": {
     "display_name": "豆包即梦生成",
@@ -7323,9 +7323,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 150,
+    "stars": 151,
     "version": "v1.1.5",
-    "updated_at": "2026-03-23T16:15:20Z",
+    "updated_at": "2026-03-24T03:57:24Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -9486,9 +9486,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
-    "stars": 42,
+    "stars": 43,
     "version": "v2.2.0",
-    "updated_at": "2026-03-22T18:22:58Z",
+    "updated_at": "2026-03-24T03:56:58Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wakepro/main/logo.png"
   },
   "astrbot_plugin_memora_connect": {
@@ -13014,9 +13014,9 @@
       "QQ群管"
     ],
     "category": "utilities",
-    "stars": 115,
+    "stars": 116,
     "version": "v3.2.7",
-    "updated_at": "2026-03-23T15:59:08Z",
+    "updated_at": "2026-03-24T03:04:20Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -13219,9 +13219,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
     "category": "integrations",
-    "stars": 65,
+    "stars": 66,
     "version": "v3.1.0",
-    "updated_at": "2026-03-22T14:30:20Z",
+    "updated_at": "2026-03-24T03:51:47Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
@@ -13477,9 +13477,9 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "category": "entertainment",
-    "stars": 94,
+    "stars": 95,
     "version": "v3.0.3",
-    "updated_at": "2026-03-20T16:39:33Z",
+    "updated_at": "2026-03-24T03:51:57Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
@@ -14070,9 +14070,9 @@
       "搬史"
     ],
     "category": "utilities",
-    "stars": 536,
+    "stars": 535,
     "version": "v0.916",
-    "updated_at": "2026-03-19T16:31:44Z"
+    "updated_at": "2026-03-24T02:26:26Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
@@ -14226,9 +14226,9 @@
     "repo": "https://github.com/dahetaoa/AstrBot-ban-Plugins",
     "category": "utilities",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "1.2.0",
-    "updated_at": "2025-05-25T06:18:42Z"
+    "updated_at": "2026-03-24T03:08:50Z"
   },
   "mccloud_zhipu_img": {
     "desc": "使用智谱AI生成图片。使用 /aimg <提示词> [大小] 生成图片。需要配置哦！",
