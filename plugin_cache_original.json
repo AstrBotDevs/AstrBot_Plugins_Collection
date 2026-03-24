@@ -89,9 +89,9 @@
       "prompt"
     ],
     "social_link": "https://github.com/NumInvis",
-    "stars": 5,
+    "stars": 6,
     "version": "1.0.0",
-    "updated_at": "2026-03-24T09:44:02Z"
+    "updated_at": "2026-03-24T13:11:12Z"
   },
   "astrbot-ctfpusher-plugin": {
     "display_name": "CTF 赛题及赛事推送助手",
@@ -345,9 +345,9 @@
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
     "category": "entertainment",
-    "stars": 6,
+    "stars": 7,
     "version": "1.2.0",
-    "updated_at": "2026-03-23T09:21:13Z",
+    "updated_at": "2026-03-24T12:29:59Z",
     "logo": "https://raw.githubusercontent.com/Sisyphbaous-DT-Project/astrbot_plugin_what_to_eat/main/logo.png"
   },
   "astrbot-plugin-HD2-daily-report": {
@@ -745,8 +745,8 @@
     "social_link": "https://github.com/GamerNoTitle",
     "category": "entertainment",
     "stars": 3,
-    "version": "v1.2.0",
-    "updated_at": "2026-03-19T15:10:41Z",
+    "version": "v1.2.1",
+    "updated_at": "2026-03-24T12:42:52Z",
     "logo": "https://raw.githubusercontent.com/GamerNoTitle/astrbot_plugin_pairit/master/logo.png"
   },
   "astrbot-plugin-qqfarm": {
@@ -1134,7 +1134,7 @@
     "tags": [],
     "stars": 36,
     "version": "Ver 3.2.0",
-    "updated_at": "2026-03-24T11:39:47Z"
+    "updated_at": "2026-03-24T11:57:57Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -3671,9 +3671,9 @@
     ],
     "social_link": "https://qwq.pyuramazo.online",
     "category": "entertainment",
-    "stars": 18,
+    "stars": 19,
     "version": "v1.9.0",
-    "updated_at": "2026-03-21T14:33:53Z",
+    "updated_at": "2026-03-24T13:03:37Z",
     "logo": "https://raw.githubusercontent.com/PyuraMazo/astrbot_plugin_galgame_box/master/logo.png"
   },
   "astrbot_plugin_anitabi": {
@@ -4179,9 +4179,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 225,
+    "stars": 224,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-24T07:23:01Z",
+    "updated_at": "2026-03-24T12:05:19Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -6139,9 +6139,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "utilities",
-    "stars": 115,
+    "stars": 116,
     "version": "v2.3.0",
-    "updated_at": "2026-03-24T08:27:31Z",
+    "updated_at": "2026-03-24T12:17:49Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -8654,8 +8654,8 @@
     "category": "entertainment",
     "tags": [],
     "stars": 54,
-    "version": "v2.6.7",
-    "updated_at": "2026-03-23T15:59:07Z"
+    "version": "v2.6.8",
+    "updated_at": "2026-03-24T12:12:59Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -11357,9 +11357,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 128,
+    "stars": 129,
     "version": "v2.0.9",
-    "updated_at": "2026-03-23T06:53:31Z",
+    "updated_at": "2026-03-24T12:31:46Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -12999,9 +12999,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
     "category": "ai_tools",
-    "stars": 38,
+    "stars": 39,
     "version": "v2.0.0",
-    "updated_at": "2026-03-23T05:27:59Z",
+    "updated_at": "2026-03-24T13:09:50Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_browser/main/logo.png"
   },
   "astrbot_plugin_qqadmin": {
