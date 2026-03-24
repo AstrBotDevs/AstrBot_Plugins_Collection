@@ -46,7 +46,7 @@
     "tags": [],
     "stars": 0,
     "version": "v1.2.0",
-    "updated_at": "2026-03-24T08:42:57Z"
+    "updated_at": "2026-03-24T09:11:26Z"
   },
   "astrbot-plugin-access-others-chat-history": {
     "display_name": "访问他人聊天记录",
@@ -74,8 +74,8 @@
       "提醒"
     ],
     "stars": 3,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-24T02:47:21Z"
+    "version": "v1.0.1",
+    "updated_at": "2026-03-24T09:12:34Z"
   },
   "astrbot-plugin-wwkudie": {
     "display_name": "尽孝",
@@ -89,9 +89,9 @@
       "prompt"
     ],
     "social_link": "https://github.com/NumInvis",
-    "stars": 4,
+    "stars": 5,
     "version": "1.0.0",
-    "updated_at": "2026-03-24T04:40:04Z"
+    "updated_at": "2026-03-24T09:44:02Z"
   },
   "astrbot-ctfpusher-plugin": {
     "display_name": "CTF 赛题及赛事推送助手",
@@ -129,8 +129,8 @@
     "social_link": "https://github.com/Heximiao",
     "category": "entertainment",
     "stars": 8,
-    "version": "v2.5.4",
-    "updated_at": "2026-03-24T08:54:29Z",
+    "version": "v2.5.5",
+    "updated_at": "2026-03-24T09:10:55Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot_plugin_atrifeed/main/logo.png"
   },
   "astrbot-plugin-self-open-llm-vtuber": {
@@ -142,7 +142,7 @@
     "tags": [],
     "stars": 0,
     "version": "0.9.8",
-    "updated_at": "2026-03-23T18:22:48Z",
+    "updated_at": "2026-03-24T09:37:40Z",
     "logo": "https://raw.githubusercontent.com/murphys7017/astrbot_plugin_self_open_llm_vtuber/main/logo.png"
   },
   "astrbot-plugin-daliy": {
@@ -959,9 +959,9 @@
       "NovalAI"
     ],
     "category": "ai_tools",
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.0",
-    "updated_at": "2026-03-15T13:37:10Z"
+    "updated_at": "2026-03-24T09:53:24Z"
   },
   "astrbot-plugin-endfield": {
     "display_name": "终末地协议终端",
@@ -974,9 +974,9 @@
       "数据查询"
     ],
     "category": "entertainment",
-    "stars": 23,
+    "stars": 24,
     "version": "2.7.0",
-    "updated_at": "2026-03-22T07:12:15Z",
+    "updated_at": "2026-03-24T09:36:34Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -4268,7 +4268,7 @@
     "category": "productivity",
     "stars": 13,
     "version": "v1.3.1",
-    "updated_at": "2026-03-22T07:03:17Z",
+    "updated_at": "2026-03-24T09:43:00Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -5650,8 +5650,8 @@
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
     "stars": 63,
-    "version": "v4.2.18",
-    "updated_at": "2026-03-23T10:46:48Z",
+    "version": "v4.2.19",
+    "updated_at": "2026-03-24T09:25:47Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -6777,7 +6777,7 @@
     "category": "utilities",
     "stars": 6,
     "version": "v1.0.0",
-    "updated_at": "2026-03-16T10:29:02Z"
+    "updated_at": "2026-03-24T09:14:42Z"
   },
   "astrbot_plugin_siliconflow-shouban": {
     "desc": "接入硅基流动画图，图片编辑，可自定义预设",
@@ -7567,9 +7567,9 @@
       "nobroswer"
     ],
     "category": "utilities",
-    "stars": 23,
+    "stars": 24,
     "version": "v1.4.0",
-    "updated_at": "2026-03-18T17:56:40Z"
+    "updated_at": "2026-03-24T09:25:06Z"
   },
   "astrbot_plugin_fetch_summary": {
     "desc": "根据 URL 获取网站摘要",
@@ -9542,9 +9542,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 47,
+    "stars": 48,
     "version": "v2.1.7",
-    "updated_at": "2026-03-22T11:36:17Z",
+    "updated_at": "2026-03-24T09:13:25Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -10392,9 +10392,9 @@
     ],
     "category": "ai_tools",
     "author": null,
-    "stars": 36,
+    "stars": 37,
     "version": "2.6.0",
-    "updated_at": "2026-03-20T11:02:38Z"
+    "updated_at": "2026-03-24T09:25:49Z"
   },
   "astrbot_plugin_group_sign": {
     "name": "group_sign",
@@ -11936,9 +11936,9 @@
       "主动回复"
     ],
     "category": "utilities",
-    "stars": 14,
+    "stars": 15,
     "version": "v1.3",
-    "updated_at": "2026-03-23T09:41:20Z"
+    "updated_at": "2026-03-24T09:25:05Z"
   },
   "astrbot_plugin_broadcast": {
     "display_name": "广播助手",
