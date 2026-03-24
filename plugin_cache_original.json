@@ -1,4 +1,18 @@
 {
+  "astrbot-plugin-quiz": {
+    "display_name": "Quiz",
+    "desc": "一个基于FoxQuiz网站的知识问答插件",
+    "author": "cyh-x",
+    "repo": "https://github.com/cyh-x/astrbot_plugin_quiz",
+    "tags": [
+      "问答",
+      "题库"
+    ],
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-03-24T14:59:50Z",
+    "logo": "https://raw.githubusercontent.com/cyh-x/astrbot_plugin_quiz/main/logo.png"
+  },
   "astrbot-plugin-daily-album": {
     "display_name": "每日专辑推荐",
     "desc": "每日专辑推荐 - 定时向指定会话推送一张专辑推荐，支持 LLM、联网搜索、自定义脚本三种来源",
@@ -59,9 +73,9 @@
       "私聊",
       "群聊"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-03-23T13:12:37Z"
+    "updated_at": "2026-03-24T17:28:17Z"
   },
   "astrbot-plugin-dida365": {
     "display_name": "滴答清单连接器",
@@ -944,9 +958,9 @@
     "repo": "https://github.com/674537331/astrbot_plugin_mihome",
     "category": "integrations",
     "tags": [],
-    "stars": 13,
+    "stars": 14,
     "version": "v7.0.1",
-    "updated_at": "2026-03-24T15:22:51Z",
+    "updated_at": "2026-03-24T16:45:41Z",
     "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_mihome/main/logo.png"
   },
   "astrbot-plugin-nai-brush": {
@@ -1134,7 +1148,7 @@
     "tags": [],
     "stars": 36,
     "version": "Ver 3.2.0",
-    "updated_at": "2026-03-24T15:05:50Z"
+    "updated_at": "2026-03-24T17:19:57Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -1368,7 +1382,7 @@
     "category": "utilities",
     "stars": 13,
     "version": "v1.3.1",
-    "updated_at": "2026-03-23T02:07:16Z",
+    "updated_at": "2026-03-24T17:24:10Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -1462,9 +1476,9 @@
     ],
     "social_link": "https://github.com/LinJohn8",
     "category": "utilities",
-    "stars": 13,
+    "stars": 14,
     "version": "1.0.0",
-    "updated_at": "2026-03-22T02:23:52Z",
+    "updated_at": "2026-03-24T17:28:50Z",
     "logo": "https://raw.githubusercontent.com/LinJohn8/astrbot_plugin_custome_segment_reply/main/logo.png"
   },
   "astrbot-plugin-alteration-notifier": {
@@ -2290,9 +2304,9 @@
       "转链"
     ],
     "category": "utilities",
-    "stars": 8,
+    "stars": 9,
     "version": "1.0.3",
-    "updated_at": "2026-03-14T19:38:21Z",
+    "updated_at": "2026-03-24T17:28:43Z",
     "logo": "https://raw.githubusercontent.com/chufeng/astrbot_plugin_bili_resolver/main/logo.png"
   },
   "astrbot-plugin-inkfusion": {
@@ -4266,9 +4280,9 @@
     ],
     "social_link": "https://github.com/Clhikari",
     "category": "productivity",
-    "stars": 13,
+    "stars": 14,
     "version": "v1.3.1",
-    "updated_at": "2026-03-24T16:02:40Z",
+    "updated_at": "2026-03-24T17:29:33Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -4548,9 +4562,9 @@
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
     "category": "ai_tools",
-    "stars": 49,
+    "stars": 50,
     "version": "v1.1",
-    "updated_at": "2026-03-21T02:13:09Z"
+    "updated_at": "2026-03-24T17:18:55Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -4950,9 +4964,9 @@
       "人格"
     ],
     "category": "ai_tools",
-    "stars": 77,
+    "stars": 78,
     "version": "1.3.9",
-    "updated_at": "2026-03-24T14:02:45Z",
+    "updated_at": "2026-03-24T17:28:33Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -4966,9 +4980,9 @@
       "群聊优化"
     ],
     "category": "ai_tools",
-    "stars": 61,
+    "stars": 62,
     "version": "0.8.21",
-    "updated_at": "2026-03-23T17:22:43Z",
+    "updated_at": "2026-03-24T17:28:25Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -5127,9 +5141,9 @@
       "工具"
     ],
     "category": "utilities",
-    "stars": 2,
+    "stars": 3,
     "version": "2.0.0",
-    "updated_at": "2026-03-11T13:34:20Z"
+    "updated_at": "2026-03-24T17:27:39Z"
   },
   "astrbot_plugin_uni_nickname": {
     "display_name": "Uni-nickname 统一昵称插件",
@@ -5829,9 +5843,9 @@
     ],
     "social_link": "https://github.com/GoodBoyboy666",
     "category": "utilities",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.1",
-    "updated_at": "2026-03-18T06:19:35Z"
+    "updated_at": "2026-03-24T17:33:36Z"
   },
   "astrbot_plugin_ojs": {
     "display_name": "ojisan",
@@ -7618,9 +7632,9 @@
       "sora"
     ],
     "category": "ai_tools",
-    "stars": 28,
+    "stars": 29,
     "version": "v1.3.1",
-    "updated_at": "2026-01-09T11:23:16Z"
+    "updated_at": "2026-03-24T17:15:27Z"
   },
   "astrbot_gengtu": {
     "desc": "梗图抽象猜词插件，获取图片题目并校验答案。",
@@ -8967,9 +8981,9 @@
     ],
     "social_link": "blog.isla.ltd",
     "category": "integrations",
-    "stars": 19,
+    "stars": 20,
     "version": "1.2.0",
-    "updated_at": "2026-03-22T08:44:03Z"
+    "updated_at": "2026-03-24T17:29:43Z"
   },
   "astrbot_plugin_AnimeMagnet": {
     "desc": "这是一个动漫磁链查询插件，可以获取动漫磁链",
@@ -11808,9 +11822,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 24,
+    "stars": 25,
     "version": "v2.0.0",
-    "updated_at": "2026-03-18T02:30:40Z",
+    "updated_at": "2026-03-24T17:28:58Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_emoji_like/main/logo.png"
   },
   "astrbot_plugin_lanraragi": {
@@ -12881,9 +12895,9 @@
       "ehentai"
     ],
     "category": "entertainment",
-    "stars": 8,
+    "stars": 9,
     "version": "v3.2",
-    "updated_at": "2026-03-08T05:41:36Z"
+    "updated_at": "2026-03-24T17:20:32Z"
   },
   "astrbot_plugin_reread": {
     "display_name": "复读姬",
@@ -14070,9 +14084,9 @@
       "搬史"
     ],
     "category": "utilities",
-    "stars": 536,
+    "stars": 537,
     "version": "v0.916",
-    "updated_at": "2026-03-24T06:32:19Z"
+    "updated_at": "2026-03-24T17:20:50Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
@@ -14116,9 +14130,9 @@
     ],
     "pinned": true,
     "category": "entertainment",
-    "stars": 199,
+    "stars": 201,
     "version": "v3.19",
-    "updated_at": "2026-03-24T15:55:14Z"
+    "updated_at": "2026-03-24T17:37:23Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
