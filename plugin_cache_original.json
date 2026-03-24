@@ -1180,7 +1180,7 @@
     "category": "ai_tools",
     "stars": 17,
     "version": "v1.2.0",
-    "updated_at": "2026-03-24T08:41:32Z",
+    "updated_at": "2026-03-24T22:14:01Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
@@ -4297,9 +4297,9 @@
     ],
     "social_link": "https://github.com/Huahuatgc",
     "category": "entertainment",
-    "stars": 12,
+    "stars": 13,
     "version": "1.2.1",
-    "updated_at": "2026-03-23T15:41:23Z"
+    "updated_at": "2026-03-24T22:05:40Z"
   },
   "astrbot_plugin_matrix_adapter": {
     "display_name": "Matrix 协议适配器",
