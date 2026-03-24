@@ -35,8 +35,8 @@
     ],
     "social_link": "",
     "stars": 2,
-    "version": "2.0.7",
-    "updated_at": "2026-03-24T03:18:39Z"
+    "version": "2.0.8",
+    "updated_at": "2026-03-24T06:15:31Z"
   },
   "astrbot-plugin-minimax-alert": {
     "display_name": "MiniMax 用量查询",
@@ -548,9 +548,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 257,
+    "stars": 258,
     "version": "v4.9.5",
-    "updated_at": "2026-03-23T19:40:48Z",
+    "updated_at": "2026-03-24T06:18:42Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1133,8 +1133,8 @@
     "category": "ai_tools",
     "tags": [],
     "stars": 36,
-    "version": "Ver 3.1.2",
-    "updated_at": "2026-03-24T03:52:02Z"
+    "version": "Ver 3.1.4",
+    "updated_at": "2026-03-24T07:38:59Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -2626,7 +2626,7 @@
     "category": "utilities",
     "stars": 8,
     "version": "v0.4.1",
-    "updated_at": "2026-03-20T03:43:26Z",
+    "updated_at": "2026-03-24T07:30:00Z",
     "logo": "https://raw.githubusercontent.com/XYTUworkshop/astrbot_plugin_XYTUFunction/master/logo.png"
   },
   "astrbot_plugin_lzpersona": {
@@ -3059,9 +3059,9 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "category": "entertainment",
-    "stars": 17,
+    "stars": 16,
     "version": "v3.1.5",
-    "updated_at": "2026-03-23T16:46:36Z",
+    "updated_at": "2026-03-24T06:47:22Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
@@ -3529,9 +3529,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 257,
+    "stars": 258,
     "version": "v4.9.5",
-    "updated_at": "2026-03-23T19:40:48Z",
+    "updated_at": "2026-03-24T06:18:42Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -3974,7 +3974,7 @@
     "category": "entertainment",
     "stars": 13,
     "version": "v2.2",
-    "updated_at": "2026-03-23T11:06:14Z",
+    "updated_at": "2026-03-24T06:35:43Z",
     "logo": "https://raw.githubusercontent.com/kennylimz/astrbot_plugin_mudae_qq/main/logo.png"
   },
   "BUGJI/astrbot_plugin_balance": {
@@ -4179,9 +4179,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 224,
+    "stars": 225,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-24T05:19:23Z",
+    "updated_at": "2026-03-24T07:23:01Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -4860,9 +4860,9 @@
     ],
     "social_link": "https://github.com/MegSopern",
     "category": "entertainment",
-    "stars": 25,
+    "stars": 26,
     "version": "1.2.0",
-    "updated_at": "2026-03-18T06:19:39Z",
+    "updated_at": "2026-03-24T07:47:56Z",
     "logo": "https://raw.githubusercontent.com/MegSopern/astrbot_plugin_rollpig/main/logo.png"
   },
   "astrbot_plugin_big_banana": {
@@ -5503,8 +5503,8 @@
     ],
     "category": "entertainment",
     "stars": 35,
-    "version": "2.4.7",
-    "updated_at": "2026-03-22T17:10:06Z",
+    "version": "2.4.8",
+    "updated_at": "2026-03-24T07:53:49Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -8088,9 +8088,9 @@
     ],
     "social_link": "maxim2811705608@outlook.com",
     "category": "entertainment",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.1",
-    "updated_at": "2026-03-08T03:14:50Z"
+    "updated_at": "2026-03-24T06:05:45Z"
   },
   "astrbot_plugin_counter": {
     "desc": "计数器插件; 用法 /cnt add|del|list ; 当消息包含计数器或其别名时自动+1; JSON持久化",
@@ -14070,9 +14070,9 @@
       "搬史"
     ],
     "category": "utilities",
-    "stars": 535,
+    "stars": 536,
     "version": "v0.916",
-    "updated_at": "2026-03-24T02:26:26Z"
+    "updated_at": "2026-03-24T06:32:19Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
