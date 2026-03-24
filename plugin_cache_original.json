@@ -36,7 +36,7 @@
     "social_link": "",
     "stars": 3,
     "version": "2.0.8",
-    "updated_at": "2026-03-24T08:38:35Z"
+    "updated_at": "2026-03-24T10:11:29Z"
   },
   "astrbot-plugin-minimax-alert": {
     "display_name": "MiniMax 用量查询",
@@ -548,9 +548,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 258,
+    "stars": 259,
     "version": "v4.9.5",
-    "updated_at": "2026-03-24T06:18:42Z",
+    "updated_at": "2026-03-24T10:04:58Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1133,8 +1133,8 @@
     "category": "ai_tools",
     "tags": [],
     "stars": 36,
-    "version": "Ver 3.1.4",
-    "updated_at": "2026-03-24T07:38:59Z"
+    "version": "Ver 3.2.0",
+    "updated_at": "2026-03-24T10:09:39Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -3529,9 +3529,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 258,
+    "stars": 259,
     "version": "v4.9.5",
-    "updated_at": "2026-03-24T06:18:42Z",
+    "updated_at": "2026-03-24T10:04:58Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -4934,9 +4934,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "utilities",
-    "stars": 46,
+    "stars": 47,
     "version": "1.1.3",
-    "updated_at": "2026-03-23T14:57:45Z",
+    "updated_at": "2026-03-24T10:50:03Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
@@ -12425,9 +12425,9 @@
       "工具"
     ],
     "category": "utilities",
-    "stars": 6,
+    "stars": 5,
     "version": "v2.1.3",
-    "updated_at": "2025-12-20T15:16:32Z",
+    "updated_at": "2026-03-24T10:04:13Z",
     "logo": "https://raw.githubusercontent.com/ZvZPvz/astrbot_plugin_a2s/main/logo.png"
   },
   "astrbot_plugin_pixiv_reborn": {
