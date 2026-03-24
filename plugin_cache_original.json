@@ -34,9 +34,9 @@
       "训练计划"
     ],
     "social_link": "",
-    "stars": 2,
+    "stars": 3,
     "version": "2.0.8",
-    "updated_at": "2026-03-24T06:15:31Z"
+    "updated_at": "2026-03-24T08:38:35Z"
   },
   "astrbot-plugin-minimax-alert": {
     "display_name": "MiniMax 用量查询",
@@ -45,8 +45,8 @@
     "repo": "https://github.com/Crystar-1/astrbot_plugin_minimax_alert",
     "tags": [],
     "stars": 0,
-    "version": "v1.1.0",
-    "updated_at": "2026-03-22T06:42:30Z"
+    "version": "v1.2.0",
+    "updated_at": "2026-03-24T08:42:57Z"
   },
   "astrbot-plugin-access-others-chat-history": {
     "display_name": "访问他人聊天记录",
@@ -129,8 +129,8 @@
     "social_link": "https://github.com/Heximiao",
     "category": "entertainment",
     "stars": 8,
-    "version": "v2.5.2",
-    "updated_at": "2026-03-24T05:04:09Z",
+    "version": "v2.5.4",
+    "updated_at": "2026-03-24T08:54:29Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot_plugin_atrifeed/main/logo.png"
   },
   "astrbot-plugin-self-open-llm-vtuber": {
@@ -1166,7 +1166,7 @@
     "category": "ai_tools",
     "stars": 17,
     "version": "v1.2.0",
-    "updated_at": "2026-03-23T15:48:01Z",
+    "updated_at": "2026-03-24T08:41:32Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
@@ -1397,9 +1397,9 @@
     ],
     "social_link": "https://github.com/menglimi",
     "category": "ai_tools",
-    "stars": 26,
+    "stars": 27,
     "version": "2.8.0",
-    "updated_at": "2026-03-23T13:17:02Z",
+    "updated_at": "2026-03-24T07:58:28Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -1982,9 +1982,9 @@
     ],
     "social_link": "https://github.com/Radiant303",
     "category": "ai_tools",
-    "stars": 8,
+    "stars": 9,
     "version": "v2.1.6",
-    "updated_at": "2026-03-23T17:06:45Z",
+    "updated_at": "2026-03-24T08:25:39Z",
     "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_clonetts/master/logo.png"
   },
   "astrbot-plugin-ssh": {
@@ -2481,7 +2481,7 @@
     "category": "integrations",
     "stars": 7,
     "version": "1.2.1",
-    "updated_at": "2026-03-21T14:56:42Z"
+    "updated_at": "2026-03-24T08:23:12Z"
   },
   "astrbot_plugin_telegram_summary": {
     "name": "",
@@ -2579,9 +2579,9 @@
     "repo": "https://github.com/coolwind886-spec/astrbot_plugin_live2d_pet/",
     "category": "entertainment",
     "tags": [],
-    "stars": 7,
+    "stars": 8,
     "version": "v4.3.0",
-    "updated_at": "2026-03-22T02:10:56Z"
+    "updated_at": "2026-03-24T08:38:31Z"
   },
   "astrbot_plugin_steam_updates": {
     "display_name": "Steam 游戏更新推送插件",
@@ -6139,9 +6139,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "utilities",
-    "stars": 114,
+    "stars": 115,
     "version": "v2.3.0",
-    "updated_at": "2026-03-22T09:48:31Z",
+    "updated_at": "2026-03-24T08:27:31Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -11715,9 +11715,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
-    "stars": 72,
+    "stars": 73,
     "version": "v1.1.3",
-    "updated_at": "2026-03-22T10:46:39Z",
+    "updated_at": "2026-03-24T08:32:13Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
@@ -11781,9 +11781,9 @@
     "repo": "https://github.com/LWWD/astrbot_plugin_sql_history",
     "category": "utilities",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "v1.1.0",
-    "updated_at": "2025-12-23T16:14:26Z"
+    "updated_at": "2026-03-24T08:26:06Z"
   },
   "astrbot_plugin_error_notice": {
     "author": "DragonEmpery",
@@ -12909,9 +12909,9 @@
       "保研"
     ],
     "category": "productivity",
-    "stars": 6,
+    "stars": 7,
     "version": "1.0.0",
-    "updated_at": "2026-03-02T09:15:13Z"
+    "updated_at": "2026-03-24T07:59:54Z"
   },
   "astrbot_plugin_composting_bucket": {
     "desc": "一个用于降低 DeepSeek API 调用费用的 AstrBot 插件",
@@ -13836,7 +13836,7 @@
     "category": "productivity",
     "stars": 21,
     "version": "v2.1.0",
-    "updated_at": "2026-03-17T14:05:28Z"
+    "updated_at": "2026-03-24T08:27:58Z"
   },
   "astrbot_plugin_gemini_exp": {
     "desc": "让你在 AstrBot 调用 Gemini2.0-flash-exp 来生成图片或者 P 图。Gemini2.0-flash-exp为原生多模态模型，其既是语言模型，也是生图模型，因此能够对图像使用简单的自然语言命令进行处理。",
@@ -14044,9 +14044,9 @@
       "功能"
     ],
     "category": "integrations",
-    "stars": 26,
+    "stars": 27,
     "version": "1.1.0",
-    "updated_at": "2026-03-07T08:33:18Z"
+    "updated_at": "2026-03-24T08:00:49Z"
   },
   "astrbot_plugin_moyuren": {
     "desc": "每天定时推送摸鱼人日历",
@@ -14116,9 +14116,9 @@
     ],
     "pinned": true,
     "category": "entertainment",
-    "stars": 196,
+    "stars": 197,
     "version": "v3.19",
-    "updated_at": "2026-03-23T16:14:18Z"
+    "updated_at": "2026-03-24T08:25:33Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
@@ -14346,9 +14346,9 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_essential",
     "category": "entertainment",
     "tags": [],
-    "stars": 48,
+    "stars": 49,
     "version": "v1.1.0",
-    "updated_at": "2026-03-21T16:04:05Z"
+    "updated_at": "2026-03-24T08:00:42Z"
   },
   "astrbot_plugin_rss": {
     "desc": "支持通过 RSSHub 路由和直接 URL 订阅 RSS 源，并定时获取最新的 RSS 内容，如推特、B站、油管、博客等任何支持 RSS 2.0 的网站。",
@@ -14356,9 +14356,9 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_rss",
     "category": "integrations",
     "tags": [],
-    "stars": 28,
+    "stars": 29,
     "version": "v1.1.2",
-    "updated_at": "2026-03-21T05:17:45Z"
+    "updated_at": "2026-03-24T08:00:05Z"
   },
   "astrbot_plugin_bilibili": {
     "desc": "哔哩哔哩动态推送、视频信息、直播间信息查询插件",
@@ -14366,9 +14366,9 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "category": "integrations",
     "tags": [],
-    "stars": 50,
+    "stars": 51,
     "version": "v1.5.7",
-    "updated_at": "2026-03-23T10:05:28Z",
+    "updated_at": "2026-03-24T08:00:21Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
