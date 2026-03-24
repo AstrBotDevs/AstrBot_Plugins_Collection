@@ -6604,8 +6604,8 @@
     ],
     "category": "utilities",
     "stars": 26,
-    "version": "v5.1.0",
-    "updated_at": "2026-03-24T18:23:04Z",
+    "version": "v5.2.0",
+    "updated_at": "2026-03-24T19:55:20Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -10071,9 +10071,9 @@
       "主动回复"
     ],
     "category": "utilities",
-    "stars": 41,
+    "stars": 40,
     "version": "v2.0.0",
-    "updated_at": "2026-03-24T14:59:42Z",
+    "updated_at": "2026-03-24T19:44:01Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
