@@ -1,4 +1,14 @@
 {
+  "astrbot-plugin-quiz": {
+    "display_name": "Quiz",
+    "desc": "一个基于FoxQuiz网站的知识问答插件",
+    "author": "cyh-x",
+    "repo": "https://github.com/cyh-x/astrbot_plugin_quiz",
+    "tags": [
+      "问答",
+      "题库"
+    ]
+  },
   "astrbot-plugin-daily-album": {
     "display_name": "每日专辑推荐",
     "desc": "每日专辑推荐 - 定时向指定会话推送一张专辑推荐，支持 LLM、联网搜索、自定义脚本三种来源",
