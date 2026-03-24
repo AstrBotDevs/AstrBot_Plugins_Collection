@@ -1,4 +1,13 @@
 {
+  "astrbot-plugin-daily-album": {
+    "display_name": "每日专辑推荐",
+    "desc": "每日专辑推荐 - 定时向指定会话推送一张专辑推荐，支持 LLM、联网搜索、自定义脚本三种来源",
+    "author": "wanger",
+    "repo": "https://github.com/10knamesmore/astrbot_plugin_daily_album",
+    "tags": [
+      "音乐"
+    ]
+  },
   "astrbot-plugin-codesnap": {
     "display_name": "CodeSnap(?)",
     "desc": "A plugin inspired by CodeSnap",
