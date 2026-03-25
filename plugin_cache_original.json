@@ -1,4 +1,50 @@
 {
+  "astrbot-plugin-central-intelligence": {
+    "display_name": "Central Intelligence 记忆服务",
+    "desc": "AI智能体持久化记忆服务。跨会话存储、语义召回、共享知识。Persistent memory for AI agents — store, recall, and share knowledge across sessions.",
+    "author": "AlekseiMarchenko",
+    "repo": "https://github.com/AlekseiMarchenko/astrbot_plugin_central_intelligence",
+    "tags": [
+      "记忆",
+      "memory",
+      "知识管理",
+      "AI Agent"
+    ],
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-23T16:11:53Z"
+  },
+  "astrbot-plugin-x-score": {
+    "display_name": "X账号评分",
+    "desc": "查询 X/Twitter 账号可信度评分，基于 AI 分析账号真实度、风险标签与评价",
+    "author": "xiaoruange39",
+    "repo": "https://github.com/xiaoruange39/astrbot_plugin_x_score",
+    "tags": [
+      "X",
+      "Twitter",
+      "评分",
+      "推特"
+    ],
+    "social_link": "https://github.com/xiaoruange39",
+    "stars": 2,
+    "version": "1.0.0",
+    "updated_at": "2026-03-25T09:51:09Z",
+    "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_x_score/main/logo.png"
+  },
+  "astrbot-plugin-cloudflare-tunnel-monitor": {
+    "display_name": "Cloudflare Tunnel 状态检测",
+    "desc": "一个通过 Cloudflare API 轮询 Cloudflare Tunnel 存活状态的监测插件",
+    "author": "sctop",
+    "repo": "https://github.com/sctop/astrbot_plugin_cloudflare_tunnel_monitor",
+    "tags": [
+      "Cloudflare",
+      "Cloudflare Tunnel"
+    ],
+    "social_link": "https://github.com/sctop",
+    "stars": 1,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-25T09:54:32Z"
+  },
   "astrbot-plugin-apexrankwatch": {
     "display_name": "Apex Rank Watch",
     "desc": "可以用来查询玩家段位，等级，赛季结束时间，大师猎杀数量，猎杀底分。还有能够持续自动监测玩家段位分数变化并且通知。",
@@ -603,8 +649,8 @@
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
     "stars": 260,
-    "version": "v4.9.5",
-    "updated_at": "2026-03-25T08:49:31Z",
+    "version": "v4.9.6",
+    "updated_at": "2026-03-25T09:43:49Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1188,7 +1234,7 @@
     "tags": [],
     "stars": 36,
     "version": "Ver 3.2.0",
-    "updated_at": "2026-03-24T17:19:57Z"
+    "updated_at": "2026-03-25T09:42:19Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -3584,8 +3630,8 @@
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
     "stars": 260,
-    "version": "v4.9.5",
-    "updated_at": "2026-03-25T08:49:31Z",
+    "version": "v4.9.6",
+    "updated_at": "2026-03-25T09:43:49Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -6121,9 +6167,9 @@
     ],
     "social_link": "https://github.com/piexian",
     "category": "ai_tools",
-    "stars": 31,
+    "stars": 32,
     "version": "v1.9.6",
-    "updated_at": "2026-03-25T07:54:43Z",
+    "updated_at": "2026-03-25T09:29:10Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -11313,9 +11359,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 66,
+    "stars": 67,
     "version": "2.2.0",
-    "updated_at": "2026-03-19T16:30:36Z",
+    "updated_at": "2026-03-25T09:34:40Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -14170,9 +14216,9 @@
     ],
     "pinned": true,
     "category": "entertainment",
-    "stars": 201,
+    "stars": 202,
     "version": "v3.19",
-    "updated_at": "2026-03-24T17:37:23Z"
+    "updated_at": "2026-03-25T09:25:48Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
