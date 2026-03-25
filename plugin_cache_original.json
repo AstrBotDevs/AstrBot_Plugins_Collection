@@ -27,8 +27,8 @@
     ],
     "social_link": "https://github.com/xiaoruange39",
     "stars": 2,
-    "version": "1.0.0",
-    "updated_at": "2026-03-25T09:51:09Z",
+    "version": "1.0.1",
+    "updated_at": "2026-03-25T10:34:03Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_x_score/main/logo.png"
   },
   "astrbot-plugin-cloudflare-tunnel-monitor": {
@@ -42,8 +42,8 @@
     ],
     "social_link": "https://github.com/sctop",
     "stars": 1,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-25T09:54:32Z"
+    "version": "v1.1.0",
+    "updated_at": "2026-03-25T09:58:00Z"
   },
   "astrbot-plugin-apexrankwatch": {
     "display_name": "Apex Rank Watch",
@@ -159,9 +159,9 @@
       "私聊",
       "群聊"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-03-24T17:28:17Z"
+    "updated_at": "2026-03-25T10:38:39Z"
   },
   "astrbot-plugin-dida365": {
     "display_name": "滴答清单连接器",
