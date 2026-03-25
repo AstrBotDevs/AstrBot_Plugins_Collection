@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-central-intelligence": {
+    "display_name": "Central Intelligence 记忆服务",
+    "desc": "AI智能体持久化记忆服务。跨会话存储、语义召回、共享知识。Persistent memory for AI agents — store, recall, and share knowledge across sessions.",
+    "author": "AlekseiMarchenko",
+    "repo": "https://github.com/AlekseiMarchenko/astrbot_plugin_central_intelligence",
+    "tags": [
+      "记忆",
+      "memory",
+      "知识管理",
+      "AI Agent"
+    ]
+  },
   "astrbot-plugin-x-score": {
     "display_name": "X账号评分",
     "desc": "查询 X/Twitter 账号可信度评分，基于 AI 分析账号真实度、风险标签与评价",
