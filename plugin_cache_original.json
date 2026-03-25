@@ -1,4 +1,44 @@
 {
+  "astrbot-plugin-apexrankwatch": {
+    "display_name": "Apex Rank Watch",
+    "desc": "可以用来查询玩家段位，等级，赛季结束时间，大师猎杀数量，猎杀底分。还有能够持续自动监测玩家段位分数变化并且通知。",
+    "author": "moeneri",
+    "repo": "https://github.com/moeneri/astrbot_plugin_apexrankwatch",
+    "tags": [
+      "apex",
+      "查询",
+      "段位"
+    ],
+    "social_link": "https://github.com/moeneri",
+    "stars": 0,
+    "version": "1.2.2",
+    "updated_at": "2026-03-22T18:05:56Z",
+    "logo": "https://raw.githubusercontent.com/moeneri/astrbot_plugin_apexrankwatch/main/logo.png"
+  },
+  "astrbot-plugin-ipcam": {
+    "display_name": "IPCam捕获",
+    "desc": "基于AstrBot方式实现对rtsp视频流的图像截取和视频捕获。",
+    "author": "WhEN",
+    "repo": "https://github.com/rorangeeee/astrbot_plugin_ipcam",
+    "tags": [
+      "工具"
+    ],
+    "stars": 0,
+    "version": "v1.0.1",
+    "updated_at": "2026-03-24T01:32:47Z"
+  },
+  "astrbot-plugin-ancient-poem": {
+    "display_name": "古诗插件",
+    "desc": "这是一个 AstrBot 插件，用于随机获取并发送一首古诗词。",
+    "author": "花殇",
+    "repo": "https://github.com/juangchuank-ops/astrbot_plugin_ancient_poem",
+    "tags": [
+      "古诗"
+    ],
+    "stars": 0,
+    "version": "0.1.0",
+    "updated_at": "2026-03-17T13:32:08Z"
+  },
   "astrbot-plugin-quiz": {
     "display_name": "Quiz",
     "desc": "一个基于FoxQuiz网站的知识问答插件",
@@ -376,8 +416,8 @@
     ],
     "category": "entertainment",
     "stars": 1,
-    "version": "v0.0.2",
-    "updated_at": "2026-03-24T01:06:23Z",
+    "version": "v0.0.3",
+    "updated_at": "2026-03-25T01:04:56Z",
     "logo": "https://raw.githubusercontent.com/MomijiOXO/astrbot_plugin_HD2_daily_report/master/logo.png"
   },
   "astrbot-plugin-splatoon3": {
@@ -790,7 +830,7 @@
     "category": "entertainment",
     "stars": 8,
     "version": "v2.3",
-    "updated_at": "2026-03-21T02:19:24Z",
+    "updated_at": "2026-03-25T02:11:38Z",
     "logo": "https://raw.githubusercontent.com/Lidure/astrbot_plugin_airi_voice/master/logo.png"
   },
   "astrbot-plugin-tk-tracker": {
@@ -1996,9 +2036,9 @@
     ],
     "social_link": "https://github.com/Radiant303",
     "category": "ai_tools",
-    "stars": 9,
+    "stars": 10,
     "version": "v2.1.6",
-    "updated_at": "2026-03-24T08:25:39Z",
+    "updated_at": "2026-03-25T01:59:33Z",
     "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_clonetts/master/logo.png"
   },
   "astrbot-plugin-ssh": {
@@ -2415,9 +2455,9 @@
       "提醒"
     ],
     "category": "utilities",
-    "stars": 4,
+    "stars": 5,
     "version": "v3.5",
-    "updated_at": "2026-03-18T04:05:36Z"
+    "updated_at": "2026-03-25T01:27:06Z"
   },
   "astrbot_plugin_nbalance": {
     "display_name": "NewAPI余额查询",
@@ -4148,9 +4188,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "utilities",
-    "stars": 42,
+    "stars": 43,
     "version": "1.1.1",
-    "updated_at": "2026-03-24T16:04:16Z"
+    "updated_at": "2026-03-25T01:38:31Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -5393,9 +5433,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 83,
+    "stars": 85,
     "version": "v1.5.1",
-    "updated_at": "2026-03-24T01:20:22Z",
+    "updated_at": "2026-03-25T00:45:16Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -5663,9 +5703,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
-    "stars": 63,
+    "stars": 64,
     "version": "v4.2.19",
-    "updated_at": "2026-03-24T09:25:47Z",
+    "updated_at": "2026-03-25T00:35:17Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -13015,7 +13055,7 @@
     "category": "ai_tools",
     "stars": 39,
     "version": "v2.0.0",
-    "updated_at": "2026-03-24T13:09:50Z",
+    "updated_at": "2026-03-24T23:52:20Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_browser/main/logo.png"
   },
   "astrbot_plugin_qqadmin": {
@@ -14783,9 +14823,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "ai_tools",
     "tags": [],
-    "stars": 213,
+    "stars": 214,
     "version": "v2.1.0",
-    "updated_at": "2026-03-23T16:13:46Z"
+    "updated_at": "2026-03-25T00:29:36Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
