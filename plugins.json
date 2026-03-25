@@ -1,4 +1,13 @@
 {
+  "astrbot-plugin-ipcam": {
+    "display_name": "IPCam捕获",
+    "desc": "基于AstrBot方式实现对rtsp视频流的图像截取和视频捕获。",
+    "author": "WhEN",
+    "repo": "https://github.com/rorangeeee/astrbot_plugin_ipcam",
+    "tags": [
+      "工具"
+    ]
+  },
   "astrbot-plugin-ancient-poem": {
     "display_name": "古诗插件",
     "desc": "这是一个 AstrBot 插件，用于随机获取并发送一首古诗词。",
