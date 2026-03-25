@@ -12,7 +12,7 @@
     "social_link": "https://github.com/moeneri",
     "stars": 0,
     "version": "1.2.2",
-    "updated_at": "2026-03-22T18:05:56Z",
+    "updated_at": "2026-03-25T07:47:53Z",
     "logo": "https://raw.githubusercontent.com/moeneri/astrbot_plugin_apexrankwatch/main/logo.png"
   },
   "astrbot-plugin-ipcam": {
@@ -369,8 +369,8 @@
     "social_link": "https://github.com/moeneri",
     "category": "utilities",
     "stars": 1,
-    "version": "1.0.1",
-    "updated_at": "2026-03-21T16:19:20Z"
+    "version": "1.0.2",
+    "updated_at": "2026-03-25T07:07:46Z"
   },
   "astrbot-plugin-group-mate": {
     "display_name": "星洛智萌_群友眷属",
@@ -602,9 +602,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 259,
+    "stars": 260,
     "version": "v4.9.5",
-    "updated_at": "2026-03-24T10:04:58Z",
+    "updated_at": "2026-03-25T07:47:04Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1266,9 +1266,9 @@
       "记忆控制"
     ],
     "category": "ai_tools",
-    "stars": 4,
+    "stars": 5,
     "version": "1.3.0",
-    "updated_at": "2026-03-09T13:03:15Z"
+    "updated_at": "2026-03-25T06:32:33Z"
   },
   "astrbot-plugin-talkative-king": {
     "display_name": "话痨王 ",
@@ -3483,9 +3483,9 @@
     ],
     "social_link": "https://github.com/siciyuanweilai",
     "category": "entertainment",
-    "stars": 25,
+    "stars": 26,
     "version": "5.1.1",
-    "updated_at": "2026-03-22T03:18:59Z",
+    "updated_at": "2026-03-25T06:26:09Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -3583,9 +3583,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 259,
+    "stars": 260,
     "version": "v4.9.5",
-    "updated_at": "2026-03-24T10:04:58Z",
+    "updated_at": "2026-03-25T07:47:04Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -4931,7 +4931,7 @@
     "category": "ai_tools",
     "stars": 18,
     "version": "v0.1.11",
-    "updated_at": "2026-03-24T02:45:45Z",
+    "updated_at": "2026-03-25T07:00:13Z",
     "logo": "https://raw.githubusercontent.com/sukafon/astrbot_plugin_big_banana/main/logo.png"
   },
   "astrbot_plugin_BitTorrent": {
@@ -7377,9 +7377,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 151,
+    "stars": 152,
     "version": "v1.1.5",
-    "updated_at": "2026-03-24T03:57:24Z",
+    "updated_at": "2026-03-25T07:11:36Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -12494,9 +12494,9 @@
     ],
     "social_link": "https://github.com/vmoranv-reborn",
     "category": "entertainment",
-    "stars": 20,
+    "stars": 21,
     "version": "1.7.2",
-    "updated_at": "2026-03-22T11:21:48Z",
+    "updated_at": "2026-03-25T06:34:57Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
@@ -13068,9 +13068,9 @@
       "QQ群管"
     ],
     "category": "utilities",
-    "stars": 117,
+    "stars": 118,
     "version": "v3.2.7",
-    "updated_at": "2026-03-24T15:07:31Z",
+    "updated_at": "2026-03-25T07:12:10Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -13273,9 +13273,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
     "category": "integrations",
-    "stars": 66,
+    "stars": 67,
     "version": "v3.1.0",
-    "updated_at": "2026-03-24T03:51:47Z",
+    "updated_at": "2026-03-25T06:38:26Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
@@ -14124,9 +14124,9 @@
       "搬史"
     ],
     "category": "utilities",
-    "stars": 538,
+    "stars": 539,
     "version": "v0.916",
-    "updated_at": "2026-03-25T03:12:30Z"
+    "updated_at": "2026-03-25T07:09:35Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
