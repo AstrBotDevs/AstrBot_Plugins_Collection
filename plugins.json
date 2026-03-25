@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-cloudflare-tunnel-monitor": {
+    "display_name": "Cloudflare Tunnel 状态检测",
+    "desc": "一个通过 Cloudflare API 轮询 Cloudflare Tunnel 存活状态的监测插件",
+    "author": "sctop",
+    "repo": "https://github.com/sctop/astrbot_plugin_cloudflare_tunnel_monitor",
+    "tags": [
+      "Cloudflare",
+      "Cloudflare Tunnel"
+    ],
+    "social_link": "https://github.com/sctop"
+  },
   "astrbot-plugin-apexrankwatch": {
     "display_name": "Apex Rank Watch",
     "desc": "可以用来查询玩家段位，等级，赛季结束时间，大师猎杀数量，猎杀底分。还有能够持续自动监测玩家段位分数变化并且通知。",
