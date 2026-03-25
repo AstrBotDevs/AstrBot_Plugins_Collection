@@ -1,4 +1,17 @@
 {
+  "astrbot-plugin-x-score": {
+    "display_name": "X账号评分",
+    "desc": "查询 X/Twitter 账号可信度评分，基于 AI 分析账号真实度、风险标签与评价",
+    "author": "xiaoruange39",
+    "repo": "https://github.com/xiaoruange39/astrbot_plugin_x_score",
+    "tags": [
+      "X",
+      "Twitter",
+      "评分",
+      "推特"
+    ],
+    "social_link": "https://github.com/xiaoruange39"
+  },
   "astrbot-plugin-cloudflare-tunnel-monitor": {
     "display_name": "Cloudflare Tunnel 状态检测",
     "desc": "一个通过 Cloudflare API 轮询 Cloudflare Tunnel 存活状态的监测插件",
