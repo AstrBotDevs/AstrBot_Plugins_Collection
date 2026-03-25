@@ -12,7 +12,7 @@
     "social_link": "https://github.com/moeneri",
     "stars": 0,
     "version": "1.2.2",
-    "updated_at": "2026-03-25T07:47:53Z",
+    "updated_at": "2026-03-25T08:11:19Z",
     "logo": "https://raw.githubusercontent.com/moeneri/astrbot_plugin_apexrankwatch/main/logo.png"
   },
   "astrbot-plugin-ipcam": {
@@ -369,8 +369,8 @@
     "social_link": "https://github.com/moeneri",
     "category": "utilities",
     "stars": 1,
-    "version": "1.0.2",
-    "updated_at": "2026-03-25T07:07:46Z"
+    "version": "1.0.1",
+    "updated_at": "2026-03-25T08:25:30Z"
   },
   "astrbot-plugin-group-mate": {
     "display_name": "星洛智萌_群友眷属",
@@ -604,7 +604,7 @@
     "category": "productivity",
     "stars": 260,
     "version": "v4.9.5",
-    "updated_at": "2026-03-25T07:47:04Z",
+    "updated_at": "2026-03-25T08:49:31Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -3034,8 +3034,8 @@
     "social_link": "https://meilunova.pages.dev/",
     "category": "integrations",
     "stars": 12,
-    "version": "0.6.0",
-    "updated_at": "2026-03-18T09:30:04Z",
+    "version": "0.7.0",
+    "updated_at": "2026-03-25T08:04:10Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -3585,7 +3585,7 @@
     "category": "utilities",
     "stars": 260,
     "version": "v4.9.5",
-    "updated_at": "2026-03-25T07:47:04Z",
+    "updated_at": "2026-03-25T08:49:31Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -5419,8 +5419,8 @@
     ],
     "category": "entertainment",
     "stars": 4,
-    "version": "v1.2.8",
-    "updated_at": "2026-03-09T03:35:23Z"
+    "version": "v1.2.9",
+    "updated_at": "2026-03-25T08:38:11Z"
   },
   "astrbot_plugin_parser": {
     "display_name": "万能解析器",
@@ -6121,9 +6121,9 @@
     ],
     "social_link": "https://github.com/piexian",
     "category": "ai_tools",
-    "stars": 30,
+    "stars": 31,
     "version": "v1.9.6",
-    "updated_at": "2026-03-23T13:18:14Z",
+    "updated_at": "2026-03-25T07:54:43Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -7079,9 +7079,9 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "ai_tools",
-    "stars": 72,
+    "stars": 73,
     "version": "v1.2.1-(hotfix-重推)",
-    "updated_at": "2026-03-22T11:33:01Z",
+    "updated_at": "2026-03-25T08:27:25Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -7377,9 +7377,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 152,
+    "stars": 153,
     "version": "v1.1.5",
-    "updated_at": "2026-03-25T07:11:36Z",
+    "updated_at": "2026-03-25T08:31:08Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -13231,9 +13231,9 @@
       "世界书"
     ],
     "category": "ai_tools",
-    "stars": 12,
+    "stars": 13,
     "version": "v0.1.8",
-    "updated_at": "2026-03-22T10:22:16Z"
+    "updated_at": "2026-03-25T08:37:13Z"
   },
   "daily_limit": {
     "desc": "限制成员每日访问AI次数的插件，支持为不同用户和群组设置不同的调用限制(支持的astrbot最低版本为3.5.1)",
