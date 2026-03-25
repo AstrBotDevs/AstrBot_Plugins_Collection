@@ -48,9 +48,9 @@
       "问答",
       "题库"
     ],
-    "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-03-25T04:51:46Z",
+    "stars": 1,
+    "version": "1.1.0",
+    "updated_at": "2026-03-25T05:07:49Z",
     "logo": "https://raw.githubusercontent.com/cyh-x/astrbot_plugin_quiz/main/logo.png"
   },
   "astrbot-plugin-daily-album": {
@@ -61,9 +61,9 @@
     "tags": [
       "音乐"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v0.0.4",
-    "updated_at": "2026-03-23T03:30:34Z"
+    "updated_at": "2026-03-25T05:09:35Z"
   },
   "astrbot-plugin-codesnap": {
     "display_name": "CodeSnap(?)",
@@ -1028,9 +1028,9 @@
       "数据查询"
     ],
     "category": "entertainment",
-    "stars": 24,
+    "stars": 25,
     "version": "2.7.0",
-    "updated_at": "2026-03-24T09:36:34Z",
+    "updated_at": "2026-03-25T05:40:23Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -1308,9 +1308,9 @@
     "repo": "https://github.com/xxofficial/astrbot_plugin_daily_ai_news",
     "category": "productivity",
     "tags": [],
-    "stars": 7,
+    "stars": 8,
     "version": "1.01",
-    "updated_at": "2026-03-12T03:07:37Z"
+    "updated_at": "2026-03-25T05:52:48Z"
   },
   "astrbot-plugin-Grok2API Token": {
     "display_name": "Grok2API Token",
