@@ -1,4 +1,13 @@
 {
+  "astrbot-plugin-ancient-poem": {
+    "display_name": "古诗插件",
+    "desc": "这是一个 AstrBot 插件，用于随机获取并发送一首古诗词。",
+    "author": "花殇",
+    "repo": "https://github.com/juangchuank-ops/astrbot_plugin_ancient_poem",
+    "tags": [
+      "古诗"
+    ]
+  },
   "astrbot-plugin-quiz": {
     "display_name": "Quiz",
     "desc": "一个基于FoxQuiz网站的知识问答插件",
