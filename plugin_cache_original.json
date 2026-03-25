@@ -240,9 +240,9 @@
     "repo": "https://github.com/murphys7017/astrbot_plugin_self_open_llm_vtuber",
     "category": "integrations",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "0.9.8",
-    "updated_at": "2026-03-24T15:26:00Z",
+    "updated_at": "2026-03-25T19:19:52Z",
     "logo": "https://raw.githubusercontent.com/murphys7017/astrbot_plugin_self_open_llm_vtuber/main/logo.png"
   },
   "astrbot-plugin-daliy": {
@@ -363,9 +363,9 @@
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
     "category": "entertainment",
-    "stars": 1,
+    "stars": 2,
     "version": "1.1.6",
-    "updated_at": "2026-03-22T10:18:38Z",
+    "updated_at": "2026-03-25T19:28:10Z",
     "logo": "https://raw.githubusercontent.com/Sisyphbaous-DT-Project/astrbot_plugin_shit_detector_plus/main/logo.png"
   },
   "astrbot-plugin-minecraft-wiki": {
@@ -3849,9 +3849,9 @@
     ],
     "social_link": "https://github.com/KonmaKanSinPack",
     "category": "ai_tools",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.1.0",
-    "updated_at": "2026-03-16T07:58:29Z"
+    "updated_at": "2026-03-25T19:15:53Z"
   },
   "astrbot_plugin_engram": {
     "display_name": "仿生双轨记忆系统",
