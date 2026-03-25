@@ -70,8 +70,8 @@
       "工具"
     ],
     "stars": 0,
-    "version": "v1.0.1",
-    "updated_at": "2026-03-24T01:32:47Z"
+    "version": "v1.1.0",
+    "updated_at": "2026-03-25T12:36:39Z"
   },
   "astrbot-plugin-ancient-poem": {
     "display_name": "古诗插件",
@@ -191,7 +191,7 @@
     "social_link": "https://github.com/NumInvis",
     "stars": 6,
     "version": "1.0.0",
-    "updated_at": "2026-03-24T13:11:12Z"
+    "updated_at": "2026-03-25T12:55:24Z"
   },
   "astrbot-ctfpusher-plugin": {
     "display_name": "CTF 赛题及赛事推送助手",
@@ -517,8 +517,8 @@
     ],
     "category": "integrations",
     "stars": 0,
-    "version": "v0.1.0",
-    "updated_at": "2026-03-16T15:16:49Z"
+    "version": "v1.0.0",
+    "updated_at": "2026-03-25T12:50:49Z"
   },
   "astrbot-plugin-tarkovboss": {
     "display_name": "塔科夫Boss刷率",
@@ -742,8 +742,8 @@
     "social_link": "https://github.com/RhoninSeiei",
     "category": "productivity",
     "stars": 1,
-    "version": "v0.3.2",
-    "updated_at": "2026-03-20T19:21:45Z"
+    "version": "v0.3.3",
+    "updated_at": "2026-03-25T13:10:47Z"
   },
   "astrbot-plugin-lyria": {
     "display_name": "Lyria音乐生成",
@@ -1234,7 +1234,7 @@
     "tags": [],
     "stars": 36,
     "version": "Ver 3.2.0",
-    "updated_at": "2026-03-25T09:42:19Z"
+    "updated_at": "2026-03-25T12:57:56Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -1266,7 +1266,7 @@
     "category": "ai_tools",
     "stars": 17,
     "version": "v1.2.0",
-    "updated_at": "2026-03-24T22:14:01Z",
+    "updated_at": "2026-03-25T12:36:47Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
@@ -2945,9 +2945,9 @@
     ],
     "social_link": "https://github.com/piexian",
     "category": "ai_tools",
-    "stars": 11,
+    "stars": 12,
     "version": "v1.3.0",
-    "updated_at": "2026-03-23T06:31:20Z",
+    "updated_at": "2026-03-25T12:47:12Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_grok_web_search/master/logo.png"
   },
   "astrbot_plugin_fake_ai_watermark": {
@@ -4366,9 +4366,9 @@
     ],
     "social_link": "https://github.com/Clhikari",
     "category": "productivity",
-    "stars": 15,
+    "stars": 16,
     "version": "v1.3.1",
-    "updated_at": "2026-03-25T11:33:01Z",
+    "updated_at": "2026-03-25T11:54:16Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -10492,9 +10492,9 @@
     ],
     "category": "ai_tools",
     "author": null,
-    "stars": 37,
+    "stars": 38,
     "version": "2.6.0",
-    "updated_at": "2026-03-24T09:25:49Z"
+    "updated_at": "2026-03-25T11:54:58Z"
   },
   "astrbot_plugin_group_sign": {
     "name": "group_sign",
@@ -13577,9 +13577,9 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "category": "entertainment",
-    "stars": 95,
+    "stars": 96,
     "version": "v3.0.3",
-    "updated_at": "2026-03-24T03:51:57Z",
+    "updated_at": "2026-03-25T12:55:56Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
