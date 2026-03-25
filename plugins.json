@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-apexrankwatch": {
+    "display_name": "Apex Rank Watch",
+    "desc": "可以用来查询玩家段位，等级，赛季结束时间，大师猎杀数量，猎杀底分。还有能够持续自动监测玩家段位分数变化并且通知。",
+    "author": "moeneri",
+    "repo": "https://github.com/moeneri/astrbot_plugin_apexrankwatch",
+    "tags": [
+      "apex",
+      "查询",
+      "段位"
+    ],
+    "social_link": "https://github.com/moeneri"
+  },
   "astrbot-plugin-ipcam": {
     "display_name": "IPCam捕获",
     "desc": "基于AstrBot方式实现对rtsp视频流的图像截取和视频捕获。",
