@@ -2722,9 +2722,9 @@
       "codegen"
     ],
     "category": "ai_tools",
-    "stars": 38,
+    "stars": 39,
     "version": "1.1.1",
-    "updated_at": "2026-03-23T10:59:08Z",
+    "updated_at": "2026-03-26T08:33:45Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -4382,7 +4382,7 @@
     "category": "productivity",
     "stars": 16,
     "version": "v1.4.0",
-    "updated_at": "2026-03-25T15:12:40Z",
+    "updated_at": "2026-03-26T08:35:54Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -13113,9 +13113,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
     "category": "ai_tools",
-    "stars": 39,
+    "stars": 40,
     "version": "v2.0.0",
-    "updated_at": "2026-03-24T23:52:20Z",
+    "updated_at": "2026-03-26T08:07:46Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_browser/main/logo.png"
   },
   "astrbot_plugin_qqadmin": {
@@ -13541,9 +13541,9 @@
     ],
     "repo": "https://github.com/xco2/astrbot_plugin_anime_gacha",
     "category": "entertainment",
-    "stars": 11,
+    "stars": 12,
     "version": "v1.1.2",
-    "updated_at": "2026-03-13T17:38:56Z"
+    "updated_at": "2026-03-26T07:46:02Z"
   },
   "astrbot_plugin_nachoneko": {
     "desc": "一款获取甘城猫猫图片的插件",
@@ -14184,9 +14184,9 @@
       "搬史"
     ],
     "category": "utilities",
-    "stars": 540,
+    "stars": 541,
     "version": "v0.916",
-    "updated_at": "2026-03-26T00:58:08Z"
+    "updated_at": "2026-03-26T07:29:45Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
