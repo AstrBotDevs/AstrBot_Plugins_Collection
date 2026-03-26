@@ -109,8 +109,8 @@
       "题库"
     ],
     "stars": 1,
-    "version": "1.1.0",
-    "updated_at": "2026-03-25T05:07:49Z",
+    "version": "1.1.1",
+    "updated_at": "2026-03-26T11:24:14Z",
     "logo": "https://raw.githubusercontent.com/cyh-x/astrbot_plugin_quiz/main/logo.png"
   },
   "astrbot-plugin-daily-album": {
@@ -664,7 +664,7 @@
     "category": "productivity",
     "stars": 262,
     "version": "v4.9.6",
-    "updated_at": "2026-03-26T05:33:22Z",
+    "updated_at": "2026-03-26T11:37:57Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1088,9 +1088,9 @@
       "数据查询"
     ],
     "category": "entertainment",
-    "stars": 26,
+    "stars": 27,
     "version": "2.7.0",
-    "updated_at": "2026-03-25T17:04:44Z",
+    "updated_at": "2026-03-26T11:14:20Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -1119,9 +1119,9 @@
       "QQ"
     ],
     "category": "ai_tools",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0.1",
-    "updated_at": "2026-03-25T16:48:53Z"
+    "updated_at": "2026-03-26T11:44:41Z"
   },
   "astrbot-plugin-unraid-manager": {
     "display_name": "Unraid NAS安全管理插件",
@@ -1775,9 +1775,9 @@
       "人物画像"
     ],
     "category": "ai_tools",
-    "stars": 27,
+    "stars": 28,
     "version": "v0.3.6",
-    "updated_at": "2026-03-26T06:24:18Z"
+    "updated_at": "2026-03-26T10:52:42Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -3645,7 +3645,7 @@
     "category": "utilities",
     "stars": 262,
     "version": "v4.9.6",
-    "updated_at": "2026-03-26T05:33:22Z",
+    "updated_at": "2026-03-26T11:37:57Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -7222,9 +7222,9 @@
     "repo": "https://github.com/xiaoxi68/astrbot_mcgetter_enhanced",
     "category": "utilities",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.5.0",
-    "updated_at": "2025-11-30T11:27:48Z"
+    "updated_at": "2026-03-26T10:15:08Z"
   },
   "astrbot_plugin_minecraftskin": {
     "display_name": "Minecraft Skin 查询",
@@ -9507,9 +9507,9 @@
     "social_link": "https://github.com/muyouzhi6",
     "category": "entertainment",
     "tags": [],
-    "stars": 8,
+    "stars": 9,
     "version": "2.3.1",
-    "updated_at": "2026-03-19T14:35:02Z",
+    "updated_at": "2026-03-26T11:44:49Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_immersive_control/main/logo.png"
   },
   "astrbot_plugin_provider_ark_ResponsesAPI": {
@@ -11471,9 +11471,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 129,
+    "stars": 130,
     "version": "v2.0.9",
-    "updated_at": "2026-03-24T12:31:46Z",
+    "updated_at": "2026-03-26T11:24:34Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -13948,9 +13948,9 @@
       "推送"
     ],
     "category": "productivity",
-    "stars": 21,
+    "stars": 22,
     "version": "v2.1.0",
-    "updated_at": "2026-03-24T08:27:58Z"
+    "updated_at": "2026-03-26T11:05:12Z"
   },
   "astrbot_plugin_gemini_exp": {
     "desc": "让你在 AstrBot 调用 Gemini2.0-flash-exp 来生成图片或者 P 图。Gemini2.0-flash-exp为原生多模态模型，其既是语言模型，也是生图模型，因此能够对图像使用简单的自然语言命令进行处理。",
