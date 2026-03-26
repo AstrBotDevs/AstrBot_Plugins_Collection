@@ -662,9 +662,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 262,
-    "version": "v4.9.6",
-    "updated_at": "2026-03-26T11:37:57Z",
+    "stars": 263,
+    "version": "v4.9.7",
+    "updated_at": "2026-03-26T15:58:47Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1481,8 +1481,8 @@
     "social_link": "https://github.com/RichardLiuda",
     "category": "utilities",
     "stars": 13,
-    "version": "v2.0.0",
-    "updated_at": "2026-03-26T02:19:48Z",
+    "version": "v2.1.0",
+    "updated_at": "2026-03-26T15:44:02Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -1775,9 +1775,9 @@
       "人物画像"
     ],
     "category": "ai_tools",
-    "stars": 28,
+    "stars": 29,
     "version": "v0.3.6",
-    "updated_at": "2026-03-26T10:52:42Z"
+    "updated_at": "2026-03-26T15:07:48Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -3019,9 +3019,9 @@
     ],
     "social_link": "https://github.com/YukiRa1n",
     "category": "integrations",
-    "stars": 10,
+    "stars": 11,
     "version": "2.2.0",
-    "updated_at": "2026-03-26T09:25:45Z"
+    "updated_at": "2026-03-26T15:23:22Z"
   },
   "astrbot_plugin_sudoku": {
     "display_name": "数独游戏",
@@ -3643,9 +3643,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 262,
-    "version": "v4.9.6",
-    "updated_at": "2026-03-26T11:37:57Z",
+    "stars": 263,
+    "version": "v4.9.7",
+    "updated_at": "2026-03-26T15:58:47Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -4057,9 +4057,9 @@
     "tags": [],
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
-    "stars": 14,
+    "stars": 15,
     "version": "3.1.1",
-    "updated_at": "2026-03-19T14:34:03Z",
+    "updated_at": "2026-03-26T15:31:36Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_context_aware/main/logo.png"
   },
   "astrbot_plugin_STEmbedding": {
@@ -4507,9 +4507,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.0.1",
-    "updated_at": "2026-03-16T10:41:00Z",
+    "updated_at": "2026-03-26T15:57:35Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_extract/main/logo.png"
   },
   "astrbot_plugin_realistic_persona": {
@@ -5064,9 +5064,9 @@
       "人格"
     ],
     "category": "ai_tools",
-    "stars": 82,
+    "stars": 83,
     "version": "1.3.9",
-    "updated_at": "2026-03-26T12:01:32Z",
+    "updated_at": "2026-03-26T15:24:01Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -6332,9 +6332,9 @@
     ],
     "social_link": "https://github.com/magisk317",
     "category": "entertainment",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0.1",
-    "updated_at": "2026-02-24T18:44:22Z"
+    "updated_at": "2026-03-26T16:19:45Z"
   },
   "astrbot_plugin_nyscheduler": {
     "display_name": "定时推送",
@@ -11471,9 +11471,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 130,
+    "stars": 131,
     "version": "v2.0.9",
-    "updated_at": "2026-03-26T11:24:34Z",
+    "updated_at": "2026-03-26T16:55:47Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -14230,9 +14230,9 @@
     ],
     "pinned": true,
     "category": "entertainment",
-    "stars": 203,
+    "stars": 204,
     "version": "v3.19",
-    "updated_at": "2026-03-25T16:29:54Z"
+    "updated_at": "2026-03-26T16:18:09Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
@@ -14885,7 +14885,7 @@
     "tags": [],
     "stars": 214,
     "version": "v2.1.0",
-    "updated_at": "2026-03-25T00:29:36Z"
+    "updated_at": "2026-03-26T15:28:28Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
