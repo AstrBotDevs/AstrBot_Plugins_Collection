@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-welcome-verification": {
+    "display_name": "入群欢迎与验证",
+    "desc": "入群欢迎与验证插件，支持自定义欢迎文本、图片，支持自定义题库",
+    "author": "Yueling",
+    "repo": "https://github.com/oujunhaoyueling/astrbot_plugin_welcome_verification",
+    "tags": [
+      "入群验证",
+      "入群欢迎"
+    ],
+    "social_link": "https://github.com/oujunhaoyueling"
+  },
   "astrbot-plugin-central-intelligence": {
     "display_name": "Central Intelligence 记忆服务",
     "desc": "AI智能体持久化记忆服务。跨会话存储、语义召回、共享知识。Persistent memory for AI agents — store, recall, and share knowledge across sessions.",
