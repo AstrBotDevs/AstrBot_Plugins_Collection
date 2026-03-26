@@ -27,8 +27,8 @@
     ],
     "social_link": "https://github.com/xiaoruange39",
     "stars": 2,
-    "version": "1.0.1",
-    "updated_at": "2026-03-25T10:34:03Z",
+    "version": "1.0.2",
+    "updated_at": "2026-03-26T01:11:28Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_x_score/main/logo.png"
   },
   "astrbot-plugin-cloudflare-tunnel-monitor": {
@@ -1234,7 +1234,7 @@
     "tags": [],
     "stars": 36,
     "version": "Ver 3.2.0",
-    "updated_at": "2026-03-25T14:56:50Z"
+    "updated_at": "2026-03-26T02:29:38Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -1468,7 +1468,7 @@
     "category": "utilities",
     "stars": 13,
     "version": "v2.0.0",
-    "updated_at": "2026-03-25T22:09:32Z",
+    "updated_at": "2026-03-26T02:19:48Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -3332,9 +3332,9 @@
       "multiagent"
     ],
     "category": "productivity",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.1.1",
-    "updated_at": "2026-03-18T16:55:27Z"
+    "updated_at": "2026-03-25T23:44:55Z"
   },
   "astrbot_plugin_trpgdice_rerolled": {
     "display_name": "星星骰娘-重骰版！",
@@ -7614,9 +7614,9 @@
       "实用"
     ],
     "category": "utilities",
-    "stars": 14,
+    "stars": 15,
     "version": "v2.8.6",
-    "updated_at": "2026-03-16T15:53:52Z",
+    "updated_at": "2026-03-26T02:26:48Z",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
   "astrbot_plugin_acm_helper": {
@@ -8918,9 +8918,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 111,
+    "stars": 112,
     "version": "2.2.4",
-    "updated_at": "2026-03-24T15:48:49Z",
+    "updated_at": "2026-03-26T02:07:39Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -13290,9 +13290,9 @@
       "安全"
     ],
     "category": "utilities",
-    "stars": 14,
+    "stars": 15,
     "version": "v2.8.6",
-    "updated_at": "2026-03-16T15:53:52Z",
+    "updated_at": "2026-03-26T02:26:48Z",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
   "astrbot_plugin_quote_collocter": {
@@ -14170,9 +14170,9 @@
       "搬史"
     ],
     "category": "utilities",
-    "stars": 539,
+    "stars": 540,
     "version": "v0.916",
-    "updated_at": "2026-03-25T07:09:35Z"
+    "updated_at": "2026-03-26T00:58:08Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
