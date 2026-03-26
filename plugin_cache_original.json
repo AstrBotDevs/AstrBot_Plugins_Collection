@@ -756,8 +756,8 @@
     "social_link": "https://github.com/RhoninSeiei",
     "category": "productivity",
     "stars": 1,
-    "version": "v0.3.4",
-    "updated_at": "2026-03-25T14:07:22Z"
+    "version": "v0.3.5",
+    "updated_at": "2026-03-26T19:04:39Z"
   },
   "astrbot-plugin-lyria": {
     "display_name": "Lyria音乐生成",
@@ -8768,8 +8768,8 @@
     "category": "entertainment",
     "tags": [],
     "stars": 54,
-    "version": "v2.6.8",
-    "updated_at": "2026-03-24T12:12:59Z"
+    "version": "v2.6.9",
+    "updated_at": "2026-03-26T18:01:46Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -9761,9 +9761,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "integrations",
-    "stars": 93,
+    "stars": 94,
     "version": "v3.0.4",
-    "updated_at": "2026-03-26T14:21:04Z",
+    "updated_at": "2026-03-26T17:23:27Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
