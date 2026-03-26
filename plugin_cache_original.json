@@ -42,7 +42,7 @@
     "social_link": "https://github.com/xiaoruange39",
     "stars": 3,
     "version": "1.0.2",
-    "updated_at": "2026-03-26T04:58:30Z",
+    "updated_at": "2026-03-26T14:54:19Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_x_score/main/logo.png"
   },
   "astrbot-plugin-cloudflare-tunnel-monitor": {
@@ -187,9 +187,9 @@
       "定时",
       "提醒"
     ],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.1",
-    "updated_at": "2026-03-24T09:12:34Z"
+    "updated_at": "2026-03-26T14:11:44Z"
   },
   "astrbot-plugin-wwkudie": {
     "display_name": "尽孝",
@@ -242,9 +242,9 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "category": "entertainment",
-    "stars": 10,
+    "stars": 11,
     "version": "v2.5.5",
-    "updated_at": "2026-03-26T13:17:30Z",
+    "updated_at": "2026-03-26T14:16:18Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot_plugin_atrifeed/main/logo.png"
   },
   "astrbot-plugin-self-open-llm-vtuber": {
@@ -1278,9 +1278,9 @@
     ],
     "social_link": "https://github.com/olozhika/",
     "category": "ai_tools",
-    "stars": 17,
+    "stars": 18,
     "version": "v1.2.0",
-    "updated_at": "2026-03-25T12:36:47Z",
+    "updated_at": "2026-03-26T14:26:26Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
@@ -1992,9 +1992,9 @@
       "PDF"
     ],
     "category": "entertainment",
-    "stars": 13,
+    "stars": 14,
     "version": "3.0.0",
-    "updated_at": "2026-03-25T11:34:35Z",
+    "updated_at": "2026-03-26T14:24:07Z",
     "logo": "https://raw.githubusercontent.com/blueraina/astrbot_plugin_novel/main/logo.png"
   },
   "astrbot-plugin-inaturalist-search": {
@@ -2078,9 +2078,9 @@
       "共同协作"
     ],
     "category": "entertainment",
-    "stars": 13,
+    "stars": 14,
     "version": "3.0.0",
-    "updated_at": "2026-03-25T11:34:35Z",
+    "updated_at": "2026-03-26T14:24:07Z",
     "logo": "https://raw.githubusercontent.com/blueraina/astrbot_plugin_novel/main/logo.png"
   },
   "astrbot-plugin-clonetts": {
@@ -2470,9 +2470,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 82,
+    "stars": 83,
     "version": "v2.0.4",
-    "updated_at": "2026-03-25T17:49:19Z",
+    "updated_at": "2026-03-26T15:00:58Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -4189,9 +4189,9 @@
     ],
     "social_link": "https://github.com/VanillaNahida/",
     "category": "utilities",
-    "stars": 24,
+    "stars": 25,
     "version": "v1.2.4",
-    "updated_at": "2026-03-24T04:43:47Z",
+    "updated_at": "2026-03-26T14:49:07Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_geetest_verify/master/logo.png"
   },
   "astrbot_plugin_cliproxy_stats": {
@@ -5372,9 +5372,9 @@
     ],
     "social_link": "https://github.com/Yue-bin",
     "category": "ai_tools",
-    "stars": 12,
+    "stars": 13,
     "version": "v0.0.1",
-    "updated_at": "2026-03-16T10:12:53Z"
+    "updated_at": "2026-03-26T14:19:38Z"
   },
   "astrbot_plugin_plugins_summary": {
     "display_name": "插件目录查询",
@@ -5634,9 +5634,9 @@
     ],
     "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
     "category": "utilities",
-    "stars": 24,
+    "stars": 25,
     "version": "v1.3.2",
-    "updated_at": "2026-03-24T14:42:37Z",
+    "updated_at": "2026-03-26T14:26:32Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -6442,9 +6442,9 @@
     ],
     "social_link": "https://github.com/vmoranv",
     "category": "ai_tools",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.0.0",
-    "updated_at": "2026-03-22T02:17:19Z"
+    "updated_at": "2026-03-26T13:39:34Z"
   },
   "astrbot_plugin_whitelistpro": {
     "display_name": "白名单拓展",
@@ -9585,9 +9585,9 @@
       "运势"
     ],
     "category": "entertainment",
-    "stars": 18,
+    "stars": 19,
     "version": "v1.0.4",
-    "updated_at": "2026-03-23T16:09:14Z"
+    "updated_at": "2026-03-26T13:24:44Z"
   },
   "astrbot_plugin_wakepro": {
     "display_name": "唤醒增强",
@@ -9761,9 +9761,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "integrations",
-    "stars": 91,
+    "stars": 93,
     "version": "v3.0.4",
-    "updated_at": "2026-03-25T02:58:04Z",
+    "updated_at": "2026-03-26T14:21:04Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -9889,9 +9889,9 @@
     ],
     "social_link": "https://github.com/huntuo146",
     "category": "utilities",
-    "stars": 8,
+    "stars": 9,
     "version": "2.1.2",
-    "updated_at": "2026-03-12T08:10:51Z"
+    "updated_at": "2026-03-26T14:34:37Z"
   },
   "pokemon_fusion": {
     "desc": "宝可梦融合插件，支持指定宝可梦融合和随机融合。",
@@ -10000,7 +10000,7 @@
     "category": "utilities",
     "stars": 10,
     "version": "v1.1.1",
-    "updated_at": "2026-03-19T13:31:27Z",
+    "updated_at": "2026-03-26T13:46:50Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_screenctrl/main/logo.png"
   },
   "astrbot_plugin_error_pro": {
@@ -11373,9 +11373,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 67,
+    "stars": 68,
     "version": "2.2.0",
-    "updated_at": "2026-03-25T09:34:40Z",
+    "updated_at": "2026-03-26T14:49:03Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -12434,9 +12434,9 @@
     ],
     "social_link": "https://github.com/huntuo146",
     "category": "utilities",
-    "stars": 7,
+    "stars": 8,
     "version": "1.2.1",
-    "updated_at": "2026-01-28T14:15:52Z"
+    "updated_at": "2026-03-26T14:49:52Z"
   },
   "astrbot_plugin_Volcengine-Text-to-image": {
     "author": "wayzinx",
