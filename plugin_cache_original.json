@@ -2470,9 +2470,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 83,
+    "stars": 84,
     "version": "v2.0.4",
-    "updated_at": "2026-03-26T15:00:58Z",
+    "updated_at": "2026-03-26T21:55:59Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
