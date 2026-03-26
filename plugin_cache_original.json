@@ -664,7 +664,7 @@
     "category": "productivity",
     "stars": 262,
     "version": "v4.9.6",
-    "updated_at": "2026-03-26T05:02:59Z",
+    "updated_at": "2026-03-26T05:33:22Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -737,8 +737,8 @@
     "social_link": "https://github.com/xiaoruange39",
     "category": "entertainment",
     "stars": 1,
-    "version": "1.0.0",
-    "updated_at": "2026-03-15T14:50:54Z",
+    "version": "1.0.1",
+    "updated_at": "2026-03-26T06:24:45Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_xbox/main/logo.png"
   },
   "astrbot-plugin-rss-forwarder": {
@@ -1775,9 +1775,9 @@
       "人物画像"
     ],
     "category": "ai_tools",
-    "stars": 26,
+    "stars": 27,
     "version": "v0.3.6",
-    "updated_at": "2026-03-24T15:52:46Z"
+    "updated_at": "2026-03-26T06:24:18Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -3205,8 +3205,8 @@
     "social_link": "https://github.com/cryfly666",
     "category": "integrations",
     "stars": 2,
-    "version": "v2.0",
-    "updated_at": "2026-03-17T10:22:35Z"
+    "version": "v2.1",
+    "updated_at": "2026-03-26T05:36:33Z"
   },
   "astrbot_plugin_image_url_base64_to_mcp": {
     "display_name": "图片_url_base64_传递至_mcp",
@@ -3645,7 +3645,7 @@
     "category": "utilities",
     "stars": 262,
     "version": "v4.9.6",
-    "updated_at": "2026-03-26T05:02:59Z",
+    "updated_at": "2026-03-26T05:33:22Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -3974,9 +3974,9 @@
       "自动回复"
     ],
     "category": "utilities",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.3.0",
-    "updated_at": "2026-03-15T16:55:59Z",
+    "updated_at": "2026-03-26T07:08:58Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_keywords_reply/master/logo.png"
   },
   "astrbot_plugin_text2img": {
@@ -7630,7 +7630,7 @@
     "category": "utilities",
     "stars": 15,
     "version": "v2.8.7",
-    "updated_at": "2026-03-26T04:41:28Z",
+    "updated_at": "2026-03-26T05:32:11Z",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
   "astrbot_plugin_acm_helper": {
@@ -8932,9 +8932,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 113,
+    "stars": 114,
     "version": "2.2.4",
-    "updated_at": "2026-03-26T02:49:08Z",
+    "updated_at": "2026-03-26T06:07:08Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -13306,7 +13306,7 @@
     "category": "utilities",
     "stars": 15,
     "version": "v2.8.7",
-    "updated_at": "2026-03-26T04:41:28Z",
+    "updated_at": "2026-03-26T05:32:11Z",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
   "astrbot_plugin_quote_collocter": {
