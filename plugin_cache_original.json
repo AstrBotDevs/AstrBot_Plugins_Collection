@@ -3020,8 +3020,8 @@
     "social_link": "https://github.com/YukiRa1n",
     "category": "integrations",
     "stars": 10,
-    "version": "v2.1.0",
-    "updated_at": "2026-03-25T03:12:24Z"
+    "version": "2.2.0",
+    "updated_at": "2026-03-26T09:25:45Z"
   },
   "astrbot_plugin_sudoku": {
     "display_name": "数独游戏",
@@ -6703,9 +6703,9 @@
       "推特"
     ],
     "category": "utilities",
-    "stars": 27,
+    "stars": 28,
     "version": "v5.2.0",
-    "updated_at": "2026-03-25T17:32:08Z",
+    "updated_at": "2026-03-26T09:07:00Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -13009,9 +13009,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_reread",
     "category": "entertainment",
-    "stars": 31,
+    "stars": 32,
     "version": "v2.0.0",
-    "updated_at": "2026-03-22T06:50:32Z",
+    "updated_at": "2026-03-26T09:06:40Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_reread/main/logo.png"
   },
   "astrbot_plugin_csbaoyan": {
@@ -13333,9 +13333,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
     "category": "integrations",
-    "stars": 67,
+    "stars": 68,
     "version": "v3.1.0",
-    "updated_at": "2026-03-25T06:38:26Z",
+    "updated_at": "2026-03-26T09:58:31Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
