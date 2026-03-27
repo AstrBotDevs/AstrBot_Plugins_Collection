@@ -1,4 +1,14 @@
 {
+  "astrbot-plugin-stardewvalleywiki": {
+    "display_name": "星露谷维基查询",
+    "desc": "星露谷物语中文维基查询插件，支持查询游戏物品、任务、村民、攻略等信息。",
+    "author": "hanhanpig3",
+    "repo": "https://github.com/hanhanpig3/astrbot_plugin_stardewvalleywiki",
+    "tags": [
+      "星露谷物语",
+      "攻略查询"
+    ]
+  },
   "astrbot-plugin-lark-richpost": {
     "display_name": "飞书富文本插件",
     "desc": "飞书输出不支持markdown格式渲染，直接输出会导致丢失表格信息，这个插件是为了解决这个问题",
