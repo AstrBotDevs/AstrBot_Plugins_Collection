@@ -148,9 +148,9 @@
       "面板"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-03-27T14:41:00Z",
+    "updated_at": "2026-03-27T15:19:11Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_live_dashboard/main/logo.png"
   },
   "astrbot-plugin-wol-miko": {
@@ -409,9 +409,9 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "category": "entertainment",
-    "stars": 11,
+    "stars": 12,
     "version": "v2.5.5",
-    "updated_at": "2026-03-26T14:16:18Z",
+    "updated_at": "2026-03-27T15:53:53Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot_plugin_atrifeed/main/logo.png"
   },
   "astrbot-plugin-self-open-llm-vtuber": {
@@ -829,9 +829,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 265,
+    "stars": 266,
     "version": "v4.9.7",
-    "updated_at": "2026-03-27T14:39:59Z",
+    "updated_at": "2026-03-27T15:19:51Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -2263,9 +2263,9 @@
     ],
     "social_link": "https://github.com/Radiant303",
     "category": "ai_tools",
-    "stars": 11,
+    "stars": 12,
     "version": "v2.2.0",
-    "updated_at": "2026-03-27T06:07:17Z",
+    "updated_at": "2026-03-27T15:27:32Z",
     "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_clonetts/master/logo.png"
   },
   "astrbot-plugin-ssh": {
@@ -3810,9 +3810,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 265,
+    "stars": 266,
     "version": "v4.9.7",
-    "updated_at": "2026-03-27T14:39:59Z",
+    "updated_at": "2026-03-27T15:19:51Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -4032,7 +4032,7 @@
     "category": "ai_tools",
     "stars": 7,
     "version": "v1.2.0",
-    "updated_at": "2026-03-27T14:47:40Z"
+    "updated_at": "2026-03-27T14:52:59Z"
   },
   "astrbot_plugin_engram": {
     "display_name": "仿生双轨记忆系统",
@@ -4267,9 +4267,9 @@
       "余额"
     ],
     "category": "ai_tools",
-    "stars": 2,
+    "stars": 3,
     "version": "v0.3.0",
-    "updated_at": "2026-02-09T10:40:43Z"
+    "updated_at": "2026-03-27T15:21:49Z"
   },
   "astrbot_plugin_PersonaFlow": {
     "display_name": "astrbot_plugin_PersonaFlow",
@@ -6053,7 +6053,7 @@
     "category": "ai_tools",
     "stars": 7,
     "version": "2.3",
-    "updated_at": "2026-03-05T14:59:39Z"
+    "updated_at": "2026-03-27T15:08:02Z"
   },
   "astrbot_plugin_customized_active_reply_prompt": {
     "display_name": "自定义主动回复提示词",
@@ -13501,9 +13501,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
     "category": "integrations",
-    "stars": 71,
+    "stars": 72,
     "version": "v3.1.0",
-    "updated_at": "2026-03-27T11:58:50Z",
+    "updated_at": "2026-03-27T15:31:49Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
