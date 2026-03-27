@@ -1,4 +1,18 @@
 {
+  "astrbot-plugin-onesync": {
+    "display_name": "OneSync",
+    "desc": "通用可扩展的软件更新器插件，支持定时检查、自动更新、镜像回退与状态追踪。",
+    "author": "Jacobinwwey",
+    "repo": "https://github.com/Jacobinwwey/astrbot_plugin_onesync",
+    "tags": [
+      "updater",
+      "automation",
+      "devops",
+      "zeroclaw",
+      "astrbot"
+    ],
+    "social_link": "https://github.com/Jacobinwwey"
+  },
   "astrbot-plugin-work-logger": {
     "display_name": "工作记录插件",
     "desc": "工作记录插件，支持自然语言记录工作内容，自动生成日报/周报/月报，支持定时推送图片格式工作报告",
