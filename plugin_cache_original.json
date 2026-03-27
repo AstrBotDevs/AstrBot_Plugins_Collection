@@ -3587,9 +3587,9 @@
       "数据搜刮"
     ],
     "category": "entertainment",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.5.4",
-    "updated_at": "2026-03-17T03:26:15Z",
+    "updated_at": "2026-03-27T00:39:15Z",
     "logo": "https://raw.githubusercontent.com/zhoufan47/astrbot_plugin_bbt_daily_news/master/logo.png"
   },
   "astrbot_plugin_fflogs": {
@@ -4293,9 +4293,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 225,
+    "stars": 224,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-26T13:12:52Z",
+    "updated_at": "2026-03-26T23:45:18Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -5048,9 +5048,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "utilities",
-    "stars": 47,
+    "stars": 48,
     "version": "1.1.3",
-    "updated_at": "2026-03-24T10:50:03Z",
+    "updated_at": "2026-03-27T02:12:03Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
@@ -5080,9 +5080,9 @@
       "群聊优化"
     ],
     "category": "ai_tools",
-    "stars": 63,
+    "stars": 64,
     "version": "0.8.21",
-    "updated_at": "2026-03-26T02:52:16Z",
+    "updated_at": "2026-03-27T02:16:15Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
