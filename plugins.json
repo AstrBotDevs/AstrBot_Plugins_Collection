@@ -1,4 +1,10 @@
 {
+  "VehP/astrbot-plugin-splatoon3": {
+    "display_name": "Splatoon3 斯普拉遁3查询",
+    "desc": "查询Splatoon3游戏数据，包括地图轮换、鲑鱼跑、挑战、祭典、装备商店等信息",
+    "author": "VehP",
+    "repo": "https://github.com/VhePloon/astrbot_plugin_splatoon3"
+  },
   "astrbot-plugin-content-info": {
     "display_name": "上下文统计信息",
     "desc": "通过/context 获取当前上下文长度",
