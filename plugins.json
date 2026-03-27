@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-lyubishchev": {
+    "display_name": "柳比歇夫时间管理插件",
+    "desc": "通过柳比歇夫时间管理方法让Astrbot帮助你进行时间管理，只适合个人使用",
+    "author": "Lynie",
+    "repo": "https://github.com/LynieCN/astrbot_plugin_lyubishchev",
+    "tags": [
+      "工具",
+      "日常",
+      "时间管理",
+      "记录查询"
+    ]
+  },
   "astrbot-plugin-live-dashboard": {
     "display_name": "Live Dashboard",
     "desc": "一个为 AstrBot 设计的「Live Dashboard」插件，用于对接上游 Live Dashboard 服务。支持在私聊/群聊中通过指令快速查询当前手机、电脑的活动状态信息。还支持用自然语言让 LLM 自主查询，让 Bot 和群友都能随时随地视奸你！❤️",
