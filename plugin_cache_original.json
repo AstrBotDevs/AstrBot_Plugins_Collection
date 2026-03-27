@@ -1400,7 +1400,7 @@
     "tags": [],
     "stars": 36,
     "version": "Ver 3.2.1",
-    "updated_at": "2026-03-27T05:59:35Z"
+    "updated_at": "2026-03-27T09:50:17Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -14269,9 +14269,9 @@
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
     "category": "ai_tools",
-    "stars": 112,
+    "stars": 113,
     "version": "v2.1.11",
-    "updated_at": "2026-03-27T07:30:01Z"
+    "updated_at": "2026-03-27T09:47:23Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
