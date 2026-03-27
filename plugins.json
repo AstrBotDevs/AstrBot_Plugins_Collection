@@ -1,4 +1,10 @@
 {
+  "astrbot-plugin-work-logger": {
+    "display_name": "工作记录插件",
+    "desc": "工作记录插件，支持自然语言记录工作内容，自动生成日报/周报/月报，支持定时推送图片格式工作报告",
+    "author": "Tilicil",
+    "repo": "https://github.com/tilicil/Astrbot_plugin_work_logger"
+  },
   "astrbot-plugin-vrc-friend-radar": {
     "display_name": "vrchat好友雷达",
     "desc": "监控 VRChat 好友上线、下线、状态变化与地图切换，并将变化合并播报到指定群聊。",
