@@ -2498,9 +2498,9 @@
       "联网搜索"
     ],
     "category": "ai_tools",
-    "stars": 8,
+    "stars": 9,
     "version": "2.3.0",
-    "updated_at": "2026-03-13T04:57:31Z",
+    "updated_at": "2026-03-27T19:15:39Z",
     "logo": "https://raw.githubusercontent.com/muqing-kg/astrbot_plugin_grok_suite/main/logo.png"
   },
   "astrbot-plugin-chat-polisher": {
@@ -3710,9 +3710,9 @@
     ],
     "social_link": "https://github.com/siciyuanweilai",
     "category": "entertainment",
-    "stars": 26,
+    "stars": 27,
     "version": "5.1.2",
-    "updated_at": "2026-03-27T06:01:40Z",
+    "updated_at": "2026-03-27T19:24:10Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
