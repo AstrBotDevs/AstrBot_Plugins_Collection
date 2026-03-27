@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-Network-Connectivity-Check": {
+    "display_name": "网络连接监测",
+    "desc": "定时监测网络连接状态，支持 HTTP/Ping/TCP 多种检测方式，可用于代理连通性、服务可用性监测。",
+    "author": "Fold",
+    "repo": "https://github.com/FFFold/astrbot_plugin_Network_Connectivity_Check",
+    "tags": [
+      "代理",
+      "网络",
+      "检测"
+    ]
+  },
   "astrbot-plugin-regex-blocker": {
     "display_name": "正则消息屏蔽器",
     "desc": "通过正则表达式匹配屏蔽用户发送给 LLM 的消息",
