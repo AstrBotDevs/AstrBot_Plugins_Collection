@@ -1,4 +1,14 @@
 {
+  "astrbot-plugin-wol-miko": {
+    "display_name": "局域网WOL唤醒插件",
+    "desc": "简易局域网WOL唤醒",
+    "author": "MIKOvOKM",
+    "repo": "https://github.com/MIKOvOKM/astrbot_plugin_wol_miko",
+    "tags": [
+      "WOL"
+    ],
+    "social_link": "https://github.com/MIKOvOKM"
+  },
   "astrbot-plugin-welcome-verification": {
     "display_name": "入群欢迎与验证",
     "desc": "入群欢迎与验证插件，支持自定义欢迎文本、图片，支持自定义题库",
