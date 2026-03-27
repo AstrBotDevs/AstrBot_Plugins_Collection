@@ -45,9 +45,9 @@
       "网络",
       "检测"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-03-13T12:14:27Z"
+    "updated_at": "2026-03-27T14:13:50Z"
   },
   "astrbot-plugin-regex-blocker": {
     "display_name": "正则消息屏蔽器",
@@ -148,9 +148,9 @@
       "面板"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-03-27T06:32:02Z",
+    "updated_at": "2026-03-27T14:41:00Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_live_dashboard/main/logo.png"
   },
   "astrbot-plugin-wol-miko": {
@@ -422,8 +422,8 @@
     "category": "integrations",
     "tags": [],
     "stars": 2,
-    "version": "0.9.8",
-    "updated_at": "2026-03-27T07:21:09Z",
+    "version": "1.0.0",
+    "updated_at": "2026-03-27T14:05:52Z",
     "logo": "https://raw.githubusercontent.com/murphys7017/astrbot_plugin_self_open_llm_vtuber/main/logo.png"
   },
   "astrbot-plugin-daliy": {
@@ -831,7 +831,7 @@
     "category": "productivity",
     "stars": 265,
     "version": "v4.9.7",
-    "updated_at": "2026-03-27T11:28:40Z",
+    "updated_at": "2026-03-27T14:39:59Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -922,9 +922,9 @@
     ],
     "social_link": "https://github.com/RhoninSeiei",
     "category": "productivity",
-    "stars": 1,
+    "stars": 2,
     "version": "v0.3.6",
-    "updated_at": "2026-03-26T19:10:54Z"
+    "updated_at": "2026-03-27T13:26:14Z"
   },
   "astrbot-plugin-lyria": {
     "display_name": "Lyria音乐生成",
@@ -3262,7 +3262,7 @@
     "category": "integrations",
     "stars": 12,
     "version": "0.7.0",
-    "updated_at": "2026-03-25T08:04:10Z",
+    "updated_at": "2026-03-27T13:44:10Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -3812,7 +3812,7 @@
     "category": "utilities",
     "stars": 265,
     "version": "v4.9.7",
-    "updated_at": "2026-03-27T11:28:40Z",
+    "updated_at": "2026-03-27T14:39:59Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -4031,8 +4031,8 @@
     "social_link": "https://github.com/KonmaKanSinPack",
     "category": "ai_tools",
     "stars": 7,
-    "version": "v1.1.0",
-    "updated_at": "2026-03-27T13:06:25Z"
+    "version": "v1.2.0",
+    "updated_at": "2026-03-27T14:47:40Z"
   },
   "astrbot_plugin_engram": {
     "display_name": "仿生双轨记忆系统",
@@ -4460,9 +4460,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 228,
+    "stars": 229,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-27T13:03:30Z",
+    "updated_at": "2026-03-27T14:14:06Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -5661,9 +5661,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 87,
+    "stars": 88,
     "version": "v1.5.1",
-    "updated_at": "2026-03-27T10:13:37Z",
+    "updated_at": "2026-03-27T13:54:08Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
