@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-regex-blocker": {
+    "display_name": "正则消息屏蔽器",
+    "desc": "通过正则表达式匹配屏蔽用户发送给 LLM 的消息",
+    "author": "FHMinyi",
+    "repo": "https://github.com/FHMinyi/astrbot-plugin-regex-blocker",
+    "tags": [
+      "屏蔽",
+      "用户消息",
+      "消息处理"
+    ]
+  },
   "astrbot-plugin-stardewvalleywiki": {
     "display_name": "星露谷维基查询",
     "desc": "星露谷物语中文维基查询插件，支持查询游戏物品、任务、村民、攻略等信息。",
