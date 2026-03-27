@@ -1,4 +1,156 @@
 {
+  "VehP/astrbot-plugin-splatoon3": {
+    "display_name": "Splatoon3 斯普拉遁3查询",
+    "desc": "查询Splatoon3游戏数据，包括地图轮换、鲑鱼跑、挑战、祭典、装备商店等信息",
+    "author": "VehP",
+    "repo": "https://github.com/VhePloon/astrbot_plugin_splatoon3",
+    "tags": [],
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-03-19T03:12:44Z"
+  },
+  "astrbot-plugin-content-info": {
+    "display_name": "上下文统计信息",
+    "desc": "通过/context 获取当前上下文长度",
+    "author": "晚来秋",
+    "repo": "https://github.com/Wan-LaiQiu/astrbot_plugin_content_info",
+    "social_link": "https://github.com/Wan-LaiQiu/astrbot_plugin_content_info",
+    "tags": [],
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-03-18T06:57:55Z"
+  },
+  "astrbot-plugin-Network-Connectivity-Check": {
+    "display_name": "网络连接监测",
+    "desc": "定时监测网络连接状态，支持 HTTP/Ping/TCP 多种检测方式，可用于代理连通性、服务可用性监测。",
+    "author": "Fold",
+    "repo": "https://github.com/FFFold/astrbot_plugin_Network_Connectivity_Check",
+    "tags": [
+      "代理",
+      "网络",
+      "检测"
+    ],
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-13T12:14:27Z"
+  },
+  "astrbot-plugin-regex-blocker": {
+    "display_name": "正则消息屏蔽器",
+    "desc": "通过正则表达式匹配屏蔽用户发送给 LLM 的消息",
+    "author": "FHMinyi",
+    "repo": "https://github.com/FHMinyi/astrbot-plugin-regex-blocker",
+    "tags": [
+      "屏蔽",
+      "用户消息",
+      "消息处理"
+    ],
+    "stars": 0,
+    "version": "v1.0.2",
+    "updated_at": "2026-03-23T02:18:36Z"
+  },
+  "astrbot-plugin-stardewvalleywiki": {
+    "display_name": "星露谷维基查询",
+    "desc": "星露谷物语中文维基查询插件，支持查询游戏物品、任务、村民、攻略等信息。",
+    "author": "hanhanpig3",
+    "repo": "https://github.com/hanhanpig3/astrbot_plugin_stardewvalleywiki",
+    "tags": [
+      "星露谷物语",
+      "攻略查询"
+    ],
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-16T16:21:26Z",
+    "logo": "https://raw.githubusercontent.com/hanhanpig3/astrbot_plugin_stardewvalleywiki/main/logo.png"
+  },
+  "astrbot-plugin-lark-richpost": {
+    "display_name": "飞书富文本插件",
+    "desc": "飞书输出不支持markdown格式渲染，直接输出会导致丢失表格信息，这个插件是为了解决这个问题",
+    "author": "Sherlock",
+    "repo": "https://github.com/Sherloccccccc/astrbot_lark_richpost",
+    "tags": [
+      "飞书",
+      "Lark"
+    ],
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-18T15:48:01Z"
+  },
+  "astrbot-plugin-onesync": {
+    "display_name": "OneSync",
+    "desc": "通用可扩展的软件更新器插件，支持定时检查、自动更新、镜像回退与状态追踪。",
+    "author": "Jacobinwwey",
+    "repo": "https://github.com/Jacobinwwey/astrbot_plugin_onesync",
+    "tags": [
+      "updater",
+      "automation",
+      "devops",
+      "zeroclaw",
+      "astrbot"
+    ],
+    "social_link": "https://github.com/Jacobinwwey",
+    "stars": 1,
+    "version": "v0.2.0",
+    "updated_at": "2026-03-18T11:21:10Z",
+    "logo": "https://raw.githubusercontent.com/Jacobinwwey/astrbot_plugin_onesync/main/logo.png"
+  },
+  "astrbot-plugin-vrc-friend-radar": {
+    "display_name": "vrchat好友雷达",
+    "desc": "监控 VRChat 好友上线、下线、状态变化与地图切换，并将变化合并播报到指定群聊。",
+    "author": "zhumengling",
+    "repo": "https://github.com/zhumengling/astrbot_plugin_vrc_friend_radar",
+    "tags": [
+      "vrchat"
+    ],
+    "stars": 1,
+    "version": "0.1.0",
+    "updated_at": "2026-03-26T12:02:08Z"
+  },
+  "astrbot-plugin-lyubishchev": {
+    "display_name": "柳比歇夫时间管理插件",
+    "desc": "通过柳比歇夫时间管理方法让Astrbot帮助你进行时间管理，只适合个人使用",
+    "author": "Lynie",
+    "repo": "https://github.com/LynieCN/astrbot_plugin_lyubishchev",
+    "tags": [
+      "工具",
+      "日常",
+      "时间管理",
+      "记录查询"
+    ],
+    "stars": 0,
+    "version": "v1.2.1",
+    "updated_at": "2026-03-25T12:36:39Z",
+    "logo": "https://raw.githubusercontent.com/LynieCN/astrbot_plugin_lyubishchev/main/logo.png"
+  },
+  "astrbot-plugin-live-dashboard": {
+    "display_name": "Live Dashboard",
+    "desc": "一个为 AstrBot 设计的「Live Dashboard」插件，用于对接上游 Live Dashboard 服务。支持在私聊/群聊中通过指令快速查询当前手机、电脑的活动状态信息。还支持用自然语言让 LLM 自主查询，让 Bot 和群友都能随时随地视奸你！❤️",
+    "author": "DBJD-CR & GPT",
+    "repo": "https://github.com/DBJD-CR/astrbot_plugin_live_dashboard",
+    "tags": [
+      "状态查询",
+      "设备信息",
+      "娱乐",
+      "面板"
+    ],
+    "social_link": "https://github.com/DBJD-CR",
+    "stars": 1,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-27T06:32:02Z",
+    "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_live_dashboard/main/logo.png"
+  },
+  "astrbot-plugin-wol-miko": {
+    "display_name": "局域网WOL唤醒插件",
+    "desc": "简易局域网WOL唤醒",
+    "author": "MIKOvOKM",
+    "repo": "https://github.com/MIKOvOKM/astrbot_plugin_wol_miko",
+    "tags": [
+      "WOL"
+    ],
+    "social_link": "https://github.com/MIKOvOKM",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-26T00:38:47Z"
+  },
   "astrbot-plugin-welcome-verification": {
     "display_name": "入群欢迎与验证",
     "desc": "入群欢迎与验证插件，支持自定义欢迎文本、图片，支持自定义题库",
@@ -1016,9 +1168,9 @@
     "repo": "https://github.com/NorNeko/astrbot_plugin_Xagent_searcher",
     "category": "integrations",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "v0.0.3",
-    "updated_at": "2026-03-19T10:39:52Z",
+    "updated_at": "2026-03-27T07:03:20Z",
     "logo": "https://raw.githubusercontent.com/NorNeko/astrbot_plugin_Xagent_searcher/main/logo.png"
   },
   "astrbot-plugin-status": {
@@ -1247,8 +1399,8 @@
     "category": "ai_tools",
     "tags": [],
     "stars": 36,
-    "version": "Ver 3.2.0",
-    "updated_at": "2026-03-27T04:29:14Z"
+    "version": "Ver 3.2.1",
+    "updated_at": "2026-03-27T05:59:35Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -1313,7 +1465,7 @@
     "category": "ai_tools",
     "stars": 8,
     "version": "v1.0.0",
-    "updated_at": "2026-03-23T06:15:52Z"
+    "updated_at": "2026-03-27T06:59:18Z"
   },
   "astrbot-plugin-memory": {
     "display_name": "astrbot_plugin_memory",
@@ -1481,8 +1633,8 @@
     "social_link": "https://github.com/RichardLiuda",
     "category": "utilities",
     "stars": 13,
-    "version": "v2.1.0",
-    "updated_at": "2026-03-26T15:44:02Z",
+    "version": "v2.1.1",
+    "updated_at": "2026-03-27T07:04:10Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -2041,9 +2193,9 @@
     "social_link": "https://github.com/sssn-tech",
     "category": "utilities",
     "tags": [],
-    "stars": 13,
+    "stars": 14,
     "version": "v0.1.0",
-    "updated_at": "2026-03-21T14:03:35Z",
+    "updated_at": "2026-03-27T05:43:32Z",
     "logo": "https://raw.githubusercontent.com/sssn-tech/astrbot_plugin_iamthinking/master/logo.png"
   },
   "astrbot-plugin-gbif-search": {
@@ -2096,9 +2248,9 @@
     ],
     "social_link": "https://github.com/Radiant303",
     "category": "ai_tools",
-    "stars": 10,
+    "stars": 11,
     "version": "v2.2.0",
-    "updated_at": "2026-03-27T03:23:33Z",
+    "updated_at": "2026-03-27T06:07:17Z",
     "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_clonetts/master/logo.png"
   },
   "astrbot-plugin-ssh": {
@@ -3544,8 +3696,8 @@
     "social_link": "https://github.com/siciyuanweilai",
     "category": "entertainment",
     "stars": 26,
-    "version": "5.1.1",
-    "updated_at": "2026-03-25T06:26:09Z",
+    "version": "5.1.2",
+    "updated_at": "2026-03-27T06:01:40Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -3865,7 +4017,7 @@
     "category": "ai_tools",
     "stars": 7,
     "version": "v1.1.0",
-    "updated_at": "2026-03-25T19:15:53Z"
+    "updated_at": "2026-03-27T06:59:21Z"
   },
   "astrbot_plugin_engram": {
     "display_name": "仿生双轨记忆系统",
@@ -4293,9 +4445,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 226,
+    "stars": 227,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-27T04:55:55Z",
+    "updated_at": "2026-03-27T06:19:07Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -5064,9 +5216,9 @@
       "人格"
     ],
     "category": "ai_tools",
-    "stars": 83,
+    "stars": 84,
     "version": "1.3.9",
-    "updated_at": "2026-03-26T15:24:01Z",
+    "updated_at": "2026-03-27T06:19:20Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -7139,9 +7291,9 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "ai_tools",
-    "stars": 75,
+    "stars": 76,
     "version": "v1.2.1-(hotfix-重推)",
-    "updated_at": "2026-03-27T04:33:53Z",
+    "updated_at": "2026-03-27T06:19:10Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -7345,8 +7497,8 @@
     ],
     "category": "entertainment",
     "stars": 9,
-    "version": "v0.8.0",
-    "updated_at": "2026-03-23T19:14:11Z",
+    "version": "v0.8.1",
+    "updated_at": "2026-03-27T07:03:38Z",
     "logo": "https://raw.githubusercontent.com/linjianyan0229/astrbot_plugin_monixiuxian/main/logo.png"
   },
   "astrbot_plugin_invitecount": {
@@ -8932,9 +9084,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 115,
+    "stars": 116,
     "version": "2.2.4",
-    "updated_at": "2026-03-27T03:25:33Z",
+    "updated_at": "2026-03-27T06:17:58Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -11396,9 +11548,9 @@
     "repo": "https://github.com/HikariFroya/astrbot-plugin-relaychat",
     "category": "entertainment",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "1.0.0",
-    "updated_at": "2026-03-08T13:00:24Z"
+    "updated_at": "2026-03-27T07:09:55Z"
   },
   "astrbot_plugin_vocechat": {
     "author": "HikariFroya",
@@ -13333,9 +13485,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
     "category": "integrations",
-    "stars": 68,
+    "stars": 69,
     "version": "v3.1.0",
-    "updated_at": "2026-03-26T09:58:31Z",
+    "updated_at": "2026-03-27T07:05:50Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
