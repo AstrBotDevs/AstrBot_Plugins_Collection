@@ -1,4 +1,13 @@
 {
+  "astrbot-plugin-vrc-friend-radar": {
+    "display_name": "vrchat好友雷达",
+    "desc": "监控 VRChat 好友上线、下线、状态变化与地图切换，并将变化合并播报到指定群聊。",
+    "author": "zhumengling",
+    "repo": "https://github.com/zhumengling/astrbot_plugin_vrc_friend_radar",
+    "tags": [
+      "vrchat"
+    ]
+  },
   "astrbot-plugin-lyubishchev": {
     "display_name": "柳比歇夫时间管理插件",
     "desc": "通过柳比歇夫时间管理方法让Astrbot帮助你进行时间管理，只适合个人使用",
