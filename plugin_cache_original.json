@@ -406,9 +406,9 @@
     "repo": "https://github.com/murphys7017/astrbot_plugin_self_open_llm_vtuber",
     "category": "integrations",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "0.9.8",
-    "updated_at": "2026-03-26T19:20:35Z",
+    "updated_at": "2026-03-27T07:21:09Z",
     "logo": "https://raw.githubusercontent.com/murphys7017/astrbot_plugin_self_open_llm_vtuber/main/logo.png"
   },
   "astrbot-plugin-daliy": {
@@ -814,9 +814,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 263,
+    "stars": 264,
     "version": "v4.9.7",
-    "updated_at": "2026-03-27T05:01:38Z",
+    "updated_at": "2026-03-27T08:22:28Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -3795,9 +3795,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 263,
+    "stars": 264,
     "version": "v4.9.7",
-    "updated_at": "2026-03-27T05:01:38Z",
+    "updated_at": "2026-03-27T08:22:28Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -5232,9 +5232,9 @@
       "群聊优化"
     ],
     "category": "ai_tools",
-    "stars": 64,
+    "stars": 65,
     "version": "0.8.21",
-    "updated_at": "2026-03-27T02:16:15Z",
+    "updated_at": "2026-03-27T07:44:31Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -5645,9 +5645,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 85,
+    "stars": 86,
     "version": "v1.5.1",
-    "updated_at": "2026-03-25T04:15:24Z",
+    "updated_at": "2026-03-27T08:31:13Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -8106,9 +8106,9 @@
     ],
     "social_link": "https://github.com/zhewang448",
     "category": "ai_tools",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.3.4",
-    "updated_at": "2025-11-22T00:14:59Z",
+    "updated_at": "2026-03-27T08:41:57Z",
     "logo": "https://raw.githubusercontent.com/zhewang448/astrbot_plugin_33recognition/main/logo.png"
   },
   "astrbot_plugin_clocc_search": {
@@ -10081,9 +10081,9 @@
       "海龟汤"
     ],
     "category": "entertainment",
-    "stars": 20,
+    "stars": 21,
     "version": "v1.0.3",
-    "updated_at": "2026-03-13T03:13:25Z"
+    "updated_at": "2026-03-27T07:29:23Z"
   },
   "astrbot_plugin_typst_render": {
     "name": "astrbot_plugin_typst_render",
@@ -13485,9 +13485,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
     "category": "integrations",
-    "stars": 69,
+    "stars": 70,
     "version": "v3.1.0",
-    "updated_at": "2026-03-27T07:05:50Z",
+    "updated_at": "2026-03-27T08:03:32Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
@@ -14269,9 +14269,9 @@
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
     "category": "ai_tools",
-    "stars": 113,
+    "stars": 112,
     "version": "v2.1.11",
-    "updated_at": "2026-03-23T16:17:10Z"
+    "updated_at": "2026-03-27T07:30:01Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
@@ -14632,9 +14632,9 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "category": "integrations",
     "tags": [],
-    "stars": 51,
+    "stars": 52,
     "version": "v1.5.7",
-    "updated_at": "2026-03-24T08:00:21Z",
+    "updated_at": "2026-03-27T07:36:58Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
