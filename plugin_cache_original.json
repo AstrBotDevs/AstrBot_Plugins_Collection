@@ -4963,9 +4963,9 @@
     "repo": "https://github.com/WangYi82909/astrbot_plugin_yotts",
     "category": "ai_tools",
     "tags": [],
-    "stars": 8,
+    "stars": 7,
     "version": "v1.0.0",
-    "updated_at": "2026-03-21T15:48:46Z",
+    "updated_at": "2026-03-27T21:20:22Z",
     "logo": "https://raw.githubusercontent.com/WangYi82909/astrbot_plugin_yotts/main/logo.png"
   },
   "astrbot_plugin_better_reminder": {
@@ -8525,9 +8525,9 @@
     "social_link": "https://voice.gbkgov.cn",
     "category": "ai_tools",
     "tags": [],
-    "stars": 20,
+    "stars": 19,
     "version": "v1.9.0",
-    "updated_at": "2026-03-25T11:12:10Z"
+    "updated_at": "2026-03-27T21:20:22Z"
   },
   "astrbot_plugin_blacklist_tools": {
     "desc": "允许管理员和 LLM 将用户添加到黑名单中，阻止他们的消息，自动拉黑！",
@@ -9610,9 +9610,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
-    "stars": 61,
+    "stars": 60,
     "version": "3.0.2",
-    "updated_at": "2026-03-20T10:41:50Z",
+    "updated_at": "2026-03-27T21:20:22Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "findx010197/astrbot_plugin_reminder": {
@@ -9929,9 +9929,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "integrations",
-    "stars": 95,
+    "stars": 94,
     "version": "v3.0.4",
-    "updated_at": "2026-03-27T16:20:17Z",
+    "updated_at": "2026-03-27T21:20:22Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
