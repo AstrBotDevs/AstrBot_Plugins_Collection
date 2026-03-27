@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-HonorOfKings": {
+    "display_name": "温雅的农药查询工具",
+    "desc": "查询王者荣耀账号的近期战绩/实时上榜战力/账号资料等功能",
+    "author": "温雅",
+    "repo": "https://github.com/i12cu4/astrbot_plugin_HonorOfKings",
+    "tags": [
+      "王者荣耀",
+      "查询工具"
+    ],
+    "social_link": "https://github.com/i12cu4"
+  },
   "VehP/astrbot-plugin-splatoon3": {
     "display_name": "Splatoon3 斯普拉遁3查询",
     "desc": "查询Splatoon3游戏数据，包括地图轮换、鲑鱼跑、挑战、祭典、装备商店等信息",
