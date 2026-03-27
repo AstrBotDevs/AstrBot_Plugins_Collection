@@ -1,4 +1,19 @@
 {
+  "astrbot-plugin-HonorOfKings": {
+    "display_name": "温雅的农药查询工具",
+    "desc": "查询王者荣耀账号的近期战绩/实时上榜战力/账号资料等功能",
+    "author": "温雅",
+    "repo": "https://github.com/i12cu4/astrbot_plugin_HonorOfKings",
+    "tags": [
+      "王者荣耀",
+      "查询工具"
+    ],
+    "social_link": "https://github.com/i12cu4",
+    "stars": 1,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-27T00:39:55Z",
+    "logo": "https://raw.githubusercontent.com/i12cu4/astrbot_plugin_HonorOfKings/master/logo.png"
+  },
   "VehP/astrbot-plugin-splatoon3": {
     "display_name": "Splatoon3 斯普拉遁3查询",
     "desc": "查询Splatoon3游戏数据，包括地图轮换、鲑鱼跑、挑战、祭典、装备商店等信息",
@@ -102,8 +117,8 @@
       "vrchat"
     ],
     "stars": 1,
-    "version": "0.1.0",
-    "updated_at": "2026-03-26T12:02:08Z"
+    "version": "0.1.1",
+    "updated_at": "2026-03-27T10:54:07Z"
   },
   "astrbot-plugin-lyubishchev": {
     "display_name": "柳比歇夫时间管理插件",
@@ -814,9 +829,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 264,
+    "stars": 265,
     "version": "v4.9.7",
-    "updated_at": "2026-03-27T08:22:28Z",
+    "updated_at": "2026-03-27T11:28:40Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1211,8 +1226,8 @@
     "category": "integrations",
     "tags": [],
     "stars": 14,
-    "version": "v7.0.1",
-    "updated_at": "2026-03-24T16:45:41Z",
+    "version": "v7.1.0",
+    "updated_at": "2026-03-27T11:41:08Z",
     "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_mihome/main/logo.png"
   },
   "astrbot-plugin-nai-brush": {
@@ -1522,7 +1537,7 @@
     "tags": [],
     "stars": 8,
     "version": "1.01",
-    "updated_at": "2026-03-25T05:52:48Z"
+    "updated_at": "2026-03-27T10:03:21Z"
   },
   "astrbot-plugin-Grok2API Token": {
     "display_name": "Grok2API Token",
@@ -1665,7 +1680,7 @@
     "category": "ai_tools",
     "stars": 28,
     "version": "2.8.0",
-    "updated_at": "2026-03-24T11:00:50Z",
+    "updated_at": "2026-03-27T10:49:43Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -3795,9 +3810,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 264,
+    "stars": 265,
     "version": "v4.9.7",
-    "updated_at": "2026-03-27T08:22:28Z",
+    "updated_at": "2026-03-27T11:28:40Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -5410,7 +5425,7 @@
     "category": "utilities",
     "stars": 2,
     "version": "v1.2.1",
-    "updated_at": "2026-03-26T20:56:00Z"
+    "updated_at": "2026-03-27T11:33:18Z"
   },
   "astrbot_plugin_yoimg": {
     "display_name": "Gitee 图系模型文生图，图生图",
@@ -5645,9 +5660,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 86,
+    "stars": 87,
     "version": "v1.5.1",
-    "updated_at": "2026-03-27T08:31:13Z",
+    "updated_at": "2026-03-27T10:13:37Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -6793,8 +6808,8 @@
     ],
     "category": "ai_tools",
     "stars": 23,
-    "version": "2.2.1",
-    "updated_at": "2026-03-16T06:52:26Z",
+    "version": "2.3.0",
+    "updated_at": "2026-03-27T11:03:35Z",
     "logo": "https://raw.githubusercontent.com/aliveriver/astrbot_plugin_continuous_message/master/logo.png"
   },
   "astrbot_plugin_llm_amnesia": {
@@ -8091,9 +8106,9 @@
     "repo": "https://github.com/BGYdook/AstrBot-plugin-tmp-bot",
     "category": "integrations",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "1.8.1",
-    "updated_at": "2026-03-21T08:41:38Z"
+    "updated_at": "2026-03-27T10:12:37Z"
   },
   "astrbot_plugin_33recognition": {
     "desc": "调用大模型检测图片中关键词",
@@ -14007,9 +14022,9 @@
     ],
     "social_link": "https://github.com/miaoxutao123/",
     "category": "utilities",
-    "stars": 74,
+    "stars": 75,
     "version": "0.3.0",
-    "updated_at": "2026-03-24T13:19:26Z"
+    "updated_at": "2026-03-27T11:27:57Z"
   },
   "astrbot_plugin_sjzb": {
     "desc": "随机生成《绝地潜兵2》游戏中一组 4 个战备配置",
