@@ -1,4 +1,11 @@
 {
+  "astrbot-plugin-content-info": {
+    "display_name": "上下文统计信息",
+    "desc": "通过/context 获取当前上下文长度",
+    "author": "晚来秋",
+    "repo": "https://github.com/Wan-LaiQiu/astrbot_plugin_content_info",
+    "social_link": "https://github.com/Wan-LaiQiu/astrbot_plugin_content_info"
+  },
   "astrbot-plugin-Network-Connectivity-Check": {
     "display_name": "网络连接监测",
     "desc": "定时监测网络连接状态，支持 HTTP/Ping/TCP 多种检测方式，可用于代理连通性、服务可用性监测。",
