@@ -1,4 +1,14 @@
 {
+  "astrbot-plugin-lark-richpost": {
+    "display_name": "飞书富文本插件",
+    "desc": "飞书输出不支持markdown格式渲染，直接输出会导致丢失表格信息，这个插件是为了解决这个问题",
+    "author": "Sherlock",
+    "repo": "https://github.com/Sherloccccccc/astrbot_lark_richpost",
+    "tags": [
+      "飞书",
+      "Lark"
+    ]
+  },
   "astrbot-plugin-onesync": {
     "display_name": "OneSync",
     "desc": "通用可扩展的软件更新器插件，支持定时检查、自动更新、镜像回退与状态追踪。",
