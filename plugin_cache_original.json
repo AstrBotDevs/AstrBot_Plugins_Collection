@@ -116,9 +116,9 @@
     "tags": [
       "vrchat"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "0.1.1",
-    "updated_at": "2026-03-27T10:54:07Z"
+    "updated_at": "2026-03-28T05:27:41Z"
   },
   "astrbot-plugin-lyubishchev": {
     "display_name": "柳比歇夫时间管理插件",
@@ -1415,7 +1415,7 @@
     "tags": [],
     "stars": 37,
     "version": "Ver 3.2.1",
-    "updated_at": "2026-03-28T01:42:07Z"
+    "updated_at": "2026-03-28T05:10:18Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -1479,8 +1479,8 @@
     ],
     "category": "ai_tools",
     "stars": 8,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-28T04:53:38Z"
+    "version": "v1.1.0",
+    "updated_at": "2026-03-28T05:45:28Z"
   },
   "astrbot-plugin-memory": {
     "display_name": "astrbot_plugin_memory",
@@ -3188,7 +3188,7 @@
     "category": "integrations",
     "stars": 11,
     "version": "2.2.0",
-    "updated_at": "2026-03-26T15:23:22Z"
+    "updated_at": "2026-03-28T05:44:29Z"
   },
   "astrbot_plugin_sudoku": {
     "display_name": "数独游戏",
@@ -4549,7 +4549,7 @@
     "category": "productivity",
     "stars": 17,
     "version": "v1.4.0",
-    "updated_at": "2026-03-26T12:36:26Z",
+    "updated_at": "2026-03-28T05:42:43Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -6349,9 +6349,9 @@
     ],
     "social_link": "https://github.com/piexian",
     "category": "ai_tools",
-    "stars": 32,
+    "stars": 33,
     "version": "v1.9.6",
-    "updated_at": "2026-03-25T09:29:10Z",
+    "updated_at": "2026-03-28T05:54:09Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -10057,9 +10057,9 @@
     ],
     "social_link": "https://github.com/huntuo146",
     "category": "utilities",
-    "stars": 9,
+    "stars": 10,
     "version": "2.1.2",
-    "updated_at": "2026-03-26T14:34:37Z"
+    "updated_at": "2026-03-28T05:06:23Z"
   },
   "pokemon_fusion": {
     "desc": "宝可梦融合插件，支持指定宝可梦融合和随机融合。",
