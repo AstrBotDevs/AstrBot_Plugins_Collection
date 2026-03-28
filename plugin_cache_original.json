@@ -830,8 +830,8 @@
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
     "stars": 271,
-    "version": "v4.9.8",
-    "updated_at": "2026-03-28T14:46:00Z",
+    "version": "v4.9.9",
+    "updated_at": "2026-03-28T17:08:14Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1142,9 +1142,9 @@
     ],
     "social_link": "https://github.com/xiaoruange39",
     "category": "entertainment",
-    "stars": 4,
+    "stars": 6,
     "version": "v1.0.1",
-    "updated_at": "2026-03-17T12:00:45Z",
+    "updated_at": "2026-03-28T17:09:28Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_steaminfo_xiaoheihe/main/logo.png"
   },
   "astrbot-plugin-hextech": {
@@ -3811,8 +3811,8 @@
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
     "stars": 271,
-    "version": "v4.9.8",
-    "updated_at": "2026-03-28T14:46:00Z",
+    "version": "v4.9.9",
+    "updated_at": "2026-03-28T17:08:14Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -8951,7 +8951,7 @@
     "category": "ai_tools",
     "stars": 9,
     "version": "2.0.6",
-    "updated_at": "2026-03-28T12:31:23Z"
+    "updated_at": "2026-03-28T17:23:00Z"
   },
   "astrbot_plugin_anti_revoke": {
     "desc": "[仅 OneBot]监控指定群聊会话撤回的消息并发送给目标用户",
