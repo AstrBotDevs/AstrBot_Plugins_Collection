@@ -421,9 +421,9 @@
     "repo": "https://github.com/murphys7017/astrbot_plugin_self_open_llm_vtuber",
     "category": "integrations",
     "tags": [],
-    "stars": 3,
+    "stars": 5,
     "version": "1.0.0",
-    "updated_at": "2026-03-28T07:02:31Z",
+    "updated_at": "2026-03-28T08:20:13Z",
     "logo": "https://raw.githubusercontent.com/murphys7017/astrbot_plugin_self_open_llm_vtuber/main/logo.png"
   },
   "astrbot-plugin-daliy": {
@@ -831,7 +831,7 @@
     "category": "productivity",
     "stars": 271,
     "version": "v4.9.7",
-    "updated_at": "2026-03-28T07:04:29Z",
+    "updated_at": "2026-03-28T07:44:36Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1413,9 +1413,9 @@
     "social_link": "https://github.com/Renyus",
     "category": "ai_tools",
     "tags": [],
-    "stars": 37,
+    "stars": 38,
     "version": "Ver 3.2.2",
-    "updated_at": "2026-03-28T06:42:16Z"
+    "updated_at": "2026-03-28T08:32:05Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -3812,7 +3812,7 @@
     "category": "utilities",
     "stars": 271,
     "version": "v4.9.7",
-    "updated_at": "2026-03-28T07:04:29Z",
+    "updated_at": "2026-03-28T07:44:36Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -5423,9 +5423,9 @@
     ],
     "social_link": "https://github.com/Hakuin123",
     "category": "utilities",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.2.2",
-    "updated_at": "2026-03-27T12:15:54Z",
+    "updated_at": "2026-03-28T07:35:00Z",
     "logo": "https://raw.githubusercontent.com/Hakuin123/astrbot_plugin_uni_nickname/main/logo.png"
   },
   "astrbot_plugin_yoimg": {
@@ -11639,9 +11639,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 131,
+    "stars": 132,
     "version": "v2.0.9",
-    "updated_at": "2026-03-26T16:55:47Z",
+    "updated_at": "2026-03-28T07:46:00Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
