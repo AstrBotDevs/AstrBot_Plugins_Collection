@@ -829,9 +829,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 271,
+    "stars": 272,
     "version": "v4.9.9",
-    "updated_at": "2026-03-28T17:08:14Z",
+    "updated_at": "2026-03-28T20:20:30Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -923,8 +923,8 @@
     "social_link": "https://github.com/RhoninSeiei",
     "category": "productivity",
     "stars": 2,
-    "version": "v0.3.6",
-    "updated_at": "2026-03-27T13:26:14Z"
+    "version": "v0.4.0",
+    "updated_at": "2026-03-28T20:08:18Z"
   },
   "astrbot-plugin-lyria": {
     "display_name": "Lyria音乐生成",
@@ -3810,9 +3810,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 271,
+    "stars": 272,
     "version": "v4.9.9",
-    "updated_at": "2026-03-28T17:08:14Z",
+    "updated_at": "2026-03-28T20:20:30Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
