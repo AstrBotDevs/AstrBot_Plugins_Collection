@@ -9,9 +9,9 @@
       "查询工具"
     ],
     "social_link": "https://github.com/i12cu4",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-03-27T00:39:55Z",
+    "updated_at": "2026-03-28T07:05:51Z",
     "logo": "https://raw.githubusercontent.com/i12cu4/astrbot_plugin_HonorOfKings/master/logo.png"
   },
   "VehP/astrbot-plugin-splatoon3": {
@@ -423,7 +423,7 @@
     "tags": [],
     "stars": 3,
     "version": "1.0.0",
-    "updated_at": "2026-03-27T15:57:32Z",
+    "updated_at": "2026-03-28T07:02:31Z",
     "logo": "https://raw.githubusercontent.com/murphys7017/astrbot_plugin_self_open_llm_vtuber/main/logo.png"
   },
   "astrbot-plugin-daliy": {
@@ -831,7 +831,7 @@
     "category": "productivity",
     "stars": 271,
     "version": "v4.9.7",
-    "updated_at": "2026-03-28T04:25:24Z",
+    "updated_at": "2026-03-28T07:04:29Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1414,8 +1414,8 @@
     "category": "ai_tools",
     "tags": [],
     "stars": 37,
-    "version": "Ver 3.2.1",
-    "updated_at": "2026-03-28T05:10:18Z"
+    "version": "Ver 3.2.2",
+    "updated_at": "2026-03-28T06:42:16Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -1480,7 +1480,7 @@
     "category": "ai_tools",
     "stars": 8,
     "version": "v1.1.0",
-    "updated_at": "2026-03-28T05:45:28Z"
+    "updated_at": "2026-03-28T06:31:02Z"
   },
   "astrbot-plugin-memory": {
     "display_name": "astrbot_plugin_memory",
@@ -3456,7 +3456,7 @@
     "category": "utilities",
     "stars": 6,
     "version": "v0.1.4",
-    "updated_at": "2026-03-24T15:21:04Z"
+    "updated_at": "2026-03-28T07:05:35Z"
   },
   "astrbot_plugin_skland": {
     "display_name": "森空岛签到",
@@ -3812,7 +3812,7 @@
     "category": "utilities",
     "stars": 271,
     "version": "v4.9.7",
-    "updated_at": "2026-03-28T04:25:24Z",
+    "updated_at": "2026-03-28T07:04:29Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -4548,8 +4548,8 @@
     "social_link": "https://github.com/Clhikari",
     "category": "productivity",
     "stars": 17,
-    "version": "v1.4.0",
-    "updated_at": "2026-03-28T05:42:43Z",
+    "version": "v1.4.1",
+    "updated_at": "2026-03-28T06:02:42Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
