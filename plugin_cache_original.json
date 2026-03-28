@@ -949,9 +949,9 @@
     ],
     "social_link": "https://github.com/NumInvis",
     "category": "utilities",
-    "stars": 3,
+    "stars": 4,
     "version": "1.0",
-    "updated_at": "2026-03-17T11:59:33Z",
+    "updated_at": "2026-03-28T10:15:16Z",
     "logo": "https://raw.githubusercontent.com/NumInvis/astrbot_plugin_Mocode/main/logo.png"
   },
   "astrbot-plugin-leetcode": {
