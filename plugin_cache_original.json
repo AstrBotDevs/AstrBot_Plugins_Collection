@@ -736,9 +736,9 @@
     "tags": [],
     "social_link": "",
     "category": "ai_tools",
-    "stars": 23,
+    "stars": 24,
     "version": "1.1.1",
-    "updated_at": "2026-03-25T18:17:24Z",
+    "updated_at": "2026-03-28T17:47:48Z",
     "logo": "https://raw.githubusercontent.com/Kalospacer/astrbot_plugin_maid_agent/master/logo.png"
   },
   "astrbot-plugin-stoprushingiamtyping": {
@@ -1679,8 +1679,8 @@
     "social_link": "https://github.com/menglimi",
     "category": "ai_tools",
     "stars": 28,
-    "version": "2.8.0",
-    "updated_at": "2026-03-27T10:49:43Z",
+    "version": "2.8.1",
+    "updated_at": "2026-03-28T18:22:47Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -3215,9 +3215,9 @@
       "表情包"
     ],
     "category": "entertainment",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0.0",
-    "updated_at": "2026-03-03T01:57:04Z"
+    "updated_at": "2026-03-28T18:03:11Z"
   },
   "astrbot_plugin_daily_stock_analysis_adapter": {
     "display_name": "DailyStockAnalysis",
@@ -3823,9 +3823,9 @@
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
     "tags": [],
-    "stars": 7,
+    "stars": 8,
     "version": "2.2.0",
-    "updated_at": "2026-03-20T12:20:13Z"
+    "updated_at": "2026-03-28T17:49:25Z"
   },
   "astrbot_plugin_balance_get": {
     "display_name": "模型平台余额查询",
@@ -5540,9 +5540,9 @@
     ],
     "social_link": "https://github.com/Yue-bin",
     "category": "ai_tools",
-    "stars": 13,
+    "stars": 14,
     "version": "v0.0.1",
-    "updated_at": "2026-03-26T14:19:38Z"
+    "updated_at": "2026-03-28T17:52:08Z"
   },
   "astrbot_plugin_plugins_summary": {
     "display_name": "插件目录查询",
@@ -5661,9 +5661,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 88,
+    "stars": 89,
     "version": "v1.5.1",
-    "updated_at": "2026-03-27T13:54:08Z",
+    "updated_at": "2026-03-28T17:53:09Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -8951,7 +8951,7 @@
     "category": "ai_tools",
     "stars": 9,
     "version": "2.0.6",
-    "updated_at": "2026-03-28T17:23:00Z"
+    "updated_at": "2026-03-28T17:37:22Z"
   },
   "astrbot_plugin_anti_revoke": {
     "desc": "[仅 OneBot]监控指定群聊会话撤回的消息并发送给目标用户",
@@ -11528,9 +11528,9 @@
     "repo": "https://github.com/VincenttHo/astrbot_plugin_bilibili_summary",
     "category": "ai_tools",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "v1.0.1",
-    "updated_at": "2026-02-23T16:37:11Z"
+    "updated_at": "2026-03-28T17:52:11Z"
   },
   "astrbot_plugin_steam_status_monitor": {
     "author": "猫耳",
@@ -13709,9 +13709,9 @@
     ],
     "repo": "https://github.com/xco2/astrbot_plugin_anime_gacha",
     "category": "entertainment",
-    "stars": 12,
+    "stars": 13,
     "version": "v1.1.2",
-    "updated_at": "2026-03-26T07:46:02Z"
+    "updated_at": "2026-03-28T18:09:17Z"
   },
   "astrbot_plugin_nachoneko": {
     "desc": "一款获取甘城猫猫图片的插件",
@@ -14648,9 +14648,9 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "category": "integrations",
     "tags": [],
-    "stars": 52,
+    "stars": 53,
     "version": "v1.5.7",
-    "updated_at": "2026-03-27T07:36:58Z",
+    "updated_at": "2026-03-28T18:14:32Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
