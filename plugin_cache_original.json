@@ -7280,8 +7280,8 @@
     "social_link": "https://github.com/Luna-channel",
     "category": "ai_tools",
     "stars": 22,
-    "version": "2.0.0",
-    "updated_at": "2026-03-23T16:26:29Z",
+    "version": "2.0.1",
+    "updated_at": "2026-03-28T18:58:10Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_Conversa/main/logo.png"
   },
   "astrbot_plugin_shutdown": {
