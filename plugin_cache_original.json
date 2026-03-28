@@ -45,9 +45,9 @@
       "网络",
       "检测"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-03-27T14:13:50Z"
+    "updated_at": "2026-03-28T15:54:45Z"
   },
   "astrbot-plugin-regex-blocker": {
     "display_name": "正则消息屏蔽器",
@@ -3513,9 +3513,9 @@
       "multiagent"
     ],
     "category": "productivity",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.1.1",
-    "updated_at": "2026-03-25T23:44:55Z"
+    "updated_at": "2026-03-28T15:40:07Z"
   },
   "astrbot_plugin_trpgdice_rerolled": {
     "display_name": "星星骰娘-重骰版！",
@@ -4549,7 +4549,7 @@
     "category": "productivity",
     "stars": 18,
     "version": "v1.4.1",
-    "updated_at": "2026-03-28T09:20:56Z",
+    "updated_at": "2026-03-28T16:02:23Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -8501,9 +8501,9 @@
       "fishing"
     ],
     "category": "entertainment",
-    "stars": 34,
+    "stars": 35,
     "version": "2.4.7",
-    "updated_at": "2026-03-12T14:58:46Z",
+    "updated_at": "2026-03-28T16:28:51Z",
     "logo": "https://raw.githubusercontent.com/xxlemon-io/astrbot_plugin_fishing/main/logo.png"
   },
   "astrbot_plugin_astrmetry": {
@@ -14088,9 +14088,9 @@
       "主动对话"
     ],
     "category": "entertainment",
-    "stars": 11,
+    "stars": 12,
     "version": "v2.3.0",
-    "updated_at": "2026-01-19T12:06:50Z"
+    "updated_at": "2026-03-28T16:26:54Z"
   },
   "astrbot_plugin_sensoji": {
     "desc": "这是一个模拟日本浅草寺抽签功能的插件。用户可以通过发送 /抽签 命令随机抽取一个签文，获取运势提示。签文包含吉凶结果（如“大吉”、“凶”等）以及对应的运势描述。",
