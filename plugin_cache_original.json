@@ -4547,9 +4547,9 @@
     ],
     "social_link": "https://github.com/Clhikari",
     "category": "productivity",
-    "stars": 17,
+    "stars": 18,
     "version": "v1.4.1",
-    "updated_at": "2026-03-28T06:02:42Z",
+    "updated_at": "2026-03-28T09:20:56Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -5215,9 +5215,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "utilities",
-    "stars": 48,
+    "stars": 49,
     "version": "1.1.3",
-    "updated_at": "2026-03-27T02:12:03Z",
+    "updated_at": "2026-03-28T09:12:00Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
@@ -6349,9 +6349,9 @@
     ],
     "social_link": "https://github.com/piexian",
     "category": "ai_tools",
-    "stars": 33,
+    "stars": 34,
     "version": "v1.9.6",
-    "updated_at": "2026-03-28T05:54:09Z",
+    "updated_at": "2026-03-28T08:57:15Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -7914,8 +7914,8 @@
     ],
     "category": "entertainment",
     "stars": 1,
-    "version": "v1.0.1",
-    "updated_at": "2025-11-30T09:06:10Z",
+    "version": "v1.0.2",
+    "updated_at": "2026-03-28T09:22:58Z",
     "logo": "https://raw.githubusercontent.com/ningyou8023/astrbot_gengtu/main/logo.png"
   },
   "astrbot_plugin_timeline": {
@@ -13501,9 +13501,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
     "category": "integrations",
-    "stars": 72,
+    "stars": 73,
     "version": "v3.1.0",
-    "updated_at": "2026-03-27T15:31:49Z",
+    "updated_at": "2026-03-28T08:49:00Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
