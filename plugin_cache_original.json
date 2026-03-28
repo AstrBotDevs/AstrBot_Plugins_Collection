@@ -2280,9 +2280,9 @@
     ],
     "social_link": "https://github.com/HSOS6",
     "category": "utilities",
-    "stars": 15,
+    "stars": 16,
     "version": "v1.4.0",
-    "updated_at": "2026-03-27T12:50:51Z",
+    "updated_at": "2026-03-28T09:56:18Z",
     "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_ssh/main/logo.png"
   },
   "astrbot-plugin-httpadapter": {
@@ -5755,9 +5755,9 @@
     ],
     "social_link": "https://github.com/Xbodwf",
     "category": "utilities",
-    "stars": 3,
+    "stars": 4,
     "version": "1.5.0",
-    "updated_at": "2026-02-05T12:18:51Z",
+    "updated_at": "2026-03-28T10:12:44Z",
     "logo": "https://raw.githubusercontent.com/Xbodwf/astrbot_plugin_code_renderer/master/logo.png"
   },
   "astrbot_plugin_life_scheduler": {
