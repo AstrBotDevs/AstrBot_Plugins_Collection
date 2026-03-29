@@ -48,9 +48,9 @@
       "查询工具",
       "彩虹六号"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-03-29T10:17:52Z",
+    "updated_at": "2026-03-29T16:17:02Z",
     "logo": "https://raw.githubusercontent.com/Diekeng/astrbot_plugin_r6states/master/logo.png"
   },
   "astrbot-plugin-HonorOfKings": {
@@ -883,9 +883,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 275,
+    "stars": 277,
     "version": "v4.9.9",
-    "updated_at": "2026-03-29T14:27:08Z",
+    "updated_at": "2026-03-29T15:44:40Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1137,9 +1137,9 @@
     "social_link": "https://www.xiaohongshu.com/user/profile/6986d59f0000000024012e78",
     "category": "ai_tools",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "0.3.0",
-    "updated_at": "2026-03-16T13:37:21Z"
+    "updated_at": "2026-03-29T15:41:11Z"
   },
   "astrbot-plugin-steam-friend-monitor": {
     "display_name": "Steam 玩家状态监控",
@@ -1469,7 +1469,7 @@
     "tags": [],
     "stars": 39,
     "version": "Ver 3.3",
-    "updated_at": "2026-03-29T13:13:18Z"
+    "updated_at": "2026-03-29T14:59:24Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -3225,7 +3225,7 @@
     "category": "integrations",
     "stars": 6,
     "version": "1.3.0",
-    "updated_at": "2026-03-23T17:13:42Z",
+    "updated_at": "2026-03-29T16:36:46Z",
     "logo": "https://raw.githubusercontent.com/singularity2000/astrbot_plugin_opencode/main/logo.png"
   },
   "astrbot_plugin_claudecode": {
@@ -3314,9 +3314,9 @@
     ],
     "social_link": "https://meilunova.pages.dev/",
     "category": "integrations",
-    "stars": 12,
+    "stars": 13,
     "version": "0.7.0",
-    "updated_at": "2026-03-29T05:44:13Z",
+    "updated_at": "2026-03-29T15:08:43Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -3864,9 +3864,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 275,
+    "stars": 277,
     "version": "v4.9.9",
-    "updated_at": "2026-03-29T14:27:08Z",
+    "updated_at": "2026-03-29T15:44:40Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -4086,7 +4086,7 @@
     "category": "ai_tools",
     "stars": 7,
     "version": "v1.2.0",
-    "updated_at": "2026-03-29T14:30:59Z"
+    "updated_at": "2026-03-29T16:05:13Z"
   },
   "astrbot_plugin_engram": {
     "display_name": "仿生双轨记忆系统",
@@ -6326,8 +6326,8 @@
     "social_link": "https://box.firefly520.top/",
     "category": "ai_tools",
     "stars": 26,
-    "version": "1.5.3",
-    "updated_at": "2026-03-23T10:22:17Z",
+    "version": "1.5.4",
+    "updated_at": "2026-03-29T15:32:12Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/main/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -7659,9 +7659,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 156,
+    "stars": 157,
     "version": "v1.1.5",
-    "updated_at": "2026-03-29T11:22:15Z",
+    "updated_at": "2026-03-29T15:54:48Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -12259,9 +12259,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 63,
+    "stars": 64,
     "version": "v2.1.0",
-    "updated_at": "2026-03-23T16:09:07Z",
+    "updated_at": "2026-03-29T15:00:03Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_pokepro/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
