@@ -4469,9 +4469,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "utilities",
-    "stars": 44,
+    "stars": 43,
     "version": "1.1.1",
-    "updated_at": "2026-03-29T11:57:29Z"
+    "updated_at": "2026-03-29T18:29:52Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -6404,8 +6404,8 @@
     "social_link": "https://github.com/piexian",
     "category": "ai_tools",
     "stars": 35,
-    "version": "v1.9.6",
-    "updated_at": "2026-03-29T06:52:02Z",
+    "version": "v1.9.7",
+    "updated_at": "2026-03-29T18:33:33Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
