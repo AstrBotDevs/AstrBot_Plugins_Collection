@@ -1500,8 +1500,8 @@
     "social_link": "https://github.com/olozhika/",
     "category": "ai_tools",
     "stars": 18,
-    "version": "v1.2.1",
-    "updated_at": "2026-03-29T21:30:29Z",
+    "version": "v1.2.2",
+    "updated_at": "2026-03-29T21:46:33Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
@@ -4086,7 +4086,7 @@
     "category": "ai_tools",
     "stars": 7,
     "version": "v1.2.0",
-    "updated_at": "2026-03-29T16:05:13Z"
+    "updated_at": "2026-03-29T22:32:11Z"
   },
   "astrbot_plugin_engram": {
     "display_name": "仿生双轨记忆系统",
