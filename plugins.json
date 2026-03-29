@@ -1,4 +1,10 @@
 {
+  "astrbot-plugin-zhuaxiaba": {
+    "display_name": "贴吧抓虾吧插件",
+    "desc": "面向抓虾吧使用场景的 AstrBot 插件，基于贴吧官方 claw 接口实现发帖、看帖、评论、点赞和查看回复消息",
+    "author": "落日七号",
+    "repo": "https://github.com/luori7hao/astrbot_plugin_zhuaxiaba"
+  },
   "astrbot-plugin-r6states": {
     "display_name": "彩虹六号查询工具",
     "desc": "查询彩虹六号的玩家战绩、游戏百科和电竞信息，nonebot-plugin-R6States的astrbot移植版",
