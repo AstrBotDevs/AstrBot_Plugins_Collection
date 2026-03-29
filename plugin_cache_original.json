@@ -1,4 +1,19 @@
 {
+  "astrbot-plugin-r6states": {
+    "display_name": "彩虹六号查询工具",
+    "desc": "查询彩虹六号的玩家战绩、游戏百科和电竞信息，nonebot-plugin-R6States的astrbot移植版",
+    "author": "Throstle",
+    "repo": "https://github.com/Diekeng/astrbot_plugin_r6states",
+    "tags": [
+      "游戏",
+      "查询工具",
+      "彩虹六号"
+    ],
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-29T10:17:52Z",
+    "logo": "https://raw.githubusercontent.com/Diekeng/astrbot_plugin_r6states/master/logo.png"
+  },
   "astrbot-plugin-HonorOfKings": {
     "display_name": "温雅的农药查询工具",
     "desc": "查询王者荣耀账号的近期战绩/实时上榜战力/账号资料等功能",
@@ -45,9 +60,9 @@
       "网络",
       "检测"
     ],
-    "stars": 3,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-03-29T05:09:10Z"
+    "updated_at": "2026-03-29T11:22:15Z"
   },
   "astrbot-plugin-regex-blocker": {
     "display_name": "正则消息屏蔽器",
@@ -2571,9 +2586,9 @@
       "转链"
     ],
     "category": "utilities",
-    "stars": 10,
+    "stars": 11,
     "version": "1.0.3",
-    "updated_at": "2026-03-25T14:38:22Z",
+    "updated_at": "2026-03-29T11:05:44Z",
     "logo": "https://raw.githubusercontent.com/chufeng/astrbot_plugin_bili_resolver/main/logo.png"
   },
   "astrbot-plugin-inkfusion": {
@@ -3051,8 +3066,8 @@
     "social_link": "hlymcn.cn",
     "category": "integrations",
     "stars": 1,
-    "version": "v0.8.5",
-    "updated_at": "2026-03-29T10:05:56Z",
+    "version": "v0.8.8",
+    "updated_at": "2026-03-29T11:20:00Z",
     "logo": "https://raw.githubusercontent.com/DearCrazyLeaf/astrbot_plugin_hlymcn_signin/master/logo.png"
   },
   "astrbot_plugin_pic_mirror": {
@@ -7605,9 +7620,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 157,
+    "stars": 156,
     "version": "v1.1.5",
-    "updated_at": "2026-03-29T06:32:59Z",
+    "updated_at": "2026-03-29T11:22:15Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -13177,9 +13192,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_reread",
     "category": "entertainment",
-    "stars": 32,
+    "stars": 33,
     "version": "v2.0.0",
-    "updated_at": "2026-03-26T09:06:40Z",
+    "updated_at": "2026-03-29T11:24:52Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_reread/main/logo.png"
   },
   "astrbot_plugin_csbaoyan": {
@@ -14648,9 +14663,9 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "category": "integrations",
     "tags": [],
-    "stars": 53,
+    "stars": 54,
     "version": "v1.5.7",
-    "updated_at": "2026-03-28T18:14:32Z",
+    "updated_at": "2026-03-29T11:05:10Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
