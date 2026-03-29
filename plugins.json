@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-tradingagents": {
+    "display_name": "多智能体股票分析助手",
+    "desc": "基于多智能体辩论架构的 AstrBot 金融分析插件，支持 A 股、港股、美股的智能分析报告生成。",
+    "author": "YYY7C",
+    "repo": "https://github.com/YYY7C/TradingAgents-AstrBot",
+    "tags": [
+      "分析",
+      "金融",
+      "股票"
+    ],
+    "social_link": "https://github.com/YYY7C"
+  },
   "astrbot-plugin-sts2-data": {
     "display_name": "STS2 Data",
     "desc": "查询杀戮尖塔2数据库信息。",
