@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-sts2-data": {
+    "display_name": "STS2 Data",
+    "desc": "查询杀戮尖塔2数据库信息。",
+    "author": "YuWan886",
+    "repo": "https://github.com/YuWan886/astrbot_plugin_sts2_data",
+    "tags": [
+      "杀戮尖塔",
+      "查询工具"
+    ],
+    "social_link": "https://github.com/YuWan886"
+  },
   "astrbot-plugin-zhuaxiaba": {
     "display_name": "贴吧抓虾吧插件",
     "desc": "面向抓虾吧使用场景的 AstrBot 插件，基于贴吧官方 claw 接口实现发帖、看帖、评论、点赞和查看回复消息",
