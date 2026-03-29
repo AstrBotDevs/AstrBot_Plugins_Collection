@@ -862,9 +862,9 @@
     "repo": "https://github.com/Yuuu0109/astrbot_plugin_exchangerate_ICBC",
     "category": "productivity",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.4.2",
-    "updated_at": "2026-03-21T18:48:00Z"
+    "updated_at": "2026-03-29T17:04:40Z"
   },
   "astrbot-plugin-qq-group-daily-analysis": {
     "display_name": "群分析总结插件",
@@ -6862,9 +6862,9 @@
       "私聊"
     ],
     "category": "ai_tools",
-    "stars": 23,
+    "stars": 24,
     "version": "2.3.0",
-    "updated_at": "2026-03-27T11:03:35Z",
+    "updated_at": "2026-03-29T17:25:13Z",
     "logo": "https://raw.githubusercontent.com/aliveriver/astrbot_plugin_continuous_message/master/logo.png"
   },
   "astrbot_plugin_llm_amnesia": {
