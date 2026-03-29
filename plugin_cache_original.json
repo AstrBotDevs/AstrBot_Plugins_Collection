@@ -888,8 +888,8 @@
     "social_link": "https://github.com/Lumivers/Lumi-Hub",
     "category": "ai_tools",
     "stars": 2,
-    "version": "0.2.0",
-    "updated_at": "2026-03-17T15:25:19Z"
+    "version": "0.9.0",
+    "updated_at": "2026-03-29T13:03:09Z"
   },
   "astrbot-plugin-arknights": {
     "display_name": "基于森空岛（Skland）公开API的明日方舟玩家数据查询AstrBot插件",
@@ -1159,7 +1159,7 @@
     "category": "entertainment",
     "stars": 6,
     "version": "v1.0.1",
-    "updated_at": "2026-03-28T17:09:28Z",
+    "updated_at": "2026-03-29T13:13:12Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_steaminfo_xiaoheihe/main/logo.png"
   },
   "astrbot-plugin-hextech": {
@@ -1430,7 +1430,7 @@
     "tags": [],
     "stars": 39,
     "version": "Ver 3.3",
-    "updated_at": "2026-03-29T12:38:03Z"
+    "updated_at": "2026-03-29T13:13:18Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -1462,7 +1462,7 @@
     "category": "ai_tools",
     "stars": 18,
     "version": "v1.2.1",
-    "updated_at": "2026-03-27T16:30:44Z",
+    "updated_at": "2026-03-29T13:29:05Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
@@ -2057,9 +2057,9 @@
     ],
     "social_link": "https://github.com/leafliber",
     "category": "ai_tools",
-    "stars": 19,
+    "stars": 20,
     "version": "v1.11.1",
-    "updated_at": "2026-03-29T00:17:20Z",
+    "updated_at": "2026-03-29T13:08:17Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -2652,9 +2652,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 88,
+    "stars": 89,
     "version": "v2.0.5",
-    "updated_at": "2026-03-29T06:45:07Z",
+    "updated_at": "2026-03-29T13:22:30Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -3469,9 +3469,9 @@
       "QQ"
     ],
     "category": "utilities",
-    "stars": 6,
+    "stars": 7,
     "version": "v0.1.4",
-    "updated_at": "2026-03-28T07:05:35Z"
+    "updated_at": "2026-03-29T13:46:00Z"
   },
   "astrbot_plugin_skland": {
     "display_name": "森空岛签到",
@@ -4047,7 +4047,7 @@
     "category": "ai_tools",
     "stars": 7,
     "version": "v1.2.0",
-    "updated_at": "2026-03-27T14:52:59Z"
+    "updated_at": "2026-03-29T13:44:00Z"
   },
   "astrbot_plugin_engram": {
     "display_name": "仿生双轨记忆系统",
