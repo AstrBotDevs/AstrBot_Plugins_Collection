@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-r6states": {
+    "display_name": "彩虹六号查询工具",
+    "desc": "查询彩虹六号的玩家战绩、游戏百科和电竞信息，nonebot-plugin-R6States的astrbot移植版",
+    "author": "Throstle",
+    "repo": "https://github.com/Diekeng/astrbot_plugin_r6states",
+    "tags": [
+      "游戏",
+      "查询工具",
+      "彩虹六号"
+    ]
+  },
   "astrbot-plugin-HonorOfKings": {
     "display_name": "温雅的农药查询工具",
     "desc": "查询王者荣耀账号的近期战绩/实时上榜战力/账号资料等功能",
