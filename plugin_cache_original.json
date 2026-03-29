@@ -2042,9 +2042,9 @@
     ],
     "social_link": "https://github.com/leafliber",
     "category": "ai_tools",
-    "stars": 18,
+    "stars": 19,
     "version": "v1.11.1",
-    "updated_at": "2026-03-18T15:55:02Z",
+    "updated_at": "2026-03-29T00:17:20Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -2637,9 +2637,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 86,
+    "stars": 87,
     "version": "v2.0.5",
-    "updated_at": "2026-03-27T15:55:22Z",
+    "updated_at": "2026-03-29T01:50:13Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -3262,7 +3262,7 @@
     "category": "integrations",
     "stars": 12,
     "version": "0.7.0",
-    "updated_at": "2026-03-27T13:44:10Z",
+    "updated_at": "2026-03-29T00:58:41Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -7986,9 +7986,9 @@
     ],
     "social_link": "https://www.misakanet.site",
     "category": "utilities",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.3.1",
-    "updated_at": "2026-02-04T05:44:14Z",
+    "updated_at": "2026-03-29T00:42:57Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_persona_plus/master/logo.png"
   },
   "astrbot_plugin_sticker": {
@@ -12263,9 +12263,9 @@
     ],
     "social_link": "https://github.com/QiChenSn",
     "category": "entertainment",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.5.1",
-    "updated_at": "2026-03-28T02:08:10Z"
+    "updated_at": "2026-03-28T23:54:27Z"
   },
   "astrbot_plugin_yinlish": {
     "author": "vmoranv",
@@ -13759,9 +13759,9 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "category": "entertainment",
-    "stars": 96,
+    "stars": 97,
     "version": "v3.0.3",
-    "updated_at": "2026-03-25T12:55:56Z",
+    "updated_at": "2026-03-29T01:58:11Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
