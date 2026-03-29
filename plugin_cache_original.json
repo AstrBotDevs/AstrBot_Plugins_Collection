@@ -45,9 +45,9 @@
       "网络",
       "检测"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-03-28T15:54:45Z"
+    "updated_at": "2026-03-29T05:09:10Z"
   },
   "astrbot-plugin-regex-blocker": {
     "display_name": "正则消息屏蔽器",
@@ -72,9 +72,9 @@
       "星露谷物语",
       "攻略查询"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-03-16T16:21:26Z",
+    "updated_at": "2026-03-29T03:51:23Z",
     "logo": "https://raw.githubusercontent.com/hanhanpig3/astrbot_plugin_stardewvalleywiki/main/logo.png"
   },
   "astrbot-plugin-lark-richpost": {
@@ -409,9 +409,9 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "category": "entertainment",
-    "stars": 12,
+    "stars": 13,
     "version": "v2.5.5",
-    "updated_at": "2026-03-27T15:53:53Z",
+    "updated_at": "2026-03-29T03:10:46Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot_plugin_atrifeed/main/logo.png"
   },
   "astrbot-plugin-self-open-llm-vtuber": {
@@ -1789,9 +1789,9 @@
       "sky"
     ],
     "category": "entertainment",
-    "stars": 2,
+    "stars": 3,
     "version": "2.5.3",
-    "updated_at": "2026-03-17T09:44:44Z",
+    "updated_at": "2026-03-29T03:26:32Z",
     "logo": "https://raw.githubusercontent.com/wzq10314/astrbot_plugin_sky/main/logo.png"
   },
   "astrbot-plugin-animatedemoji": {
@@ -2639,7 +2639,7 @@
     "category": "integrations",
     "stars": 87,
     "version": "v2.0.5",
-    "updated_at": "2026-03-29T01:50:13Z",
+    "updated_at": "2026-03-29T02:41:32Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -2760,9 +2760,9 @@
     ],
     "social_link": "https://github.com/lxfight",
     "category": "integrations",
-    "stars": 7,
+    "stars": 8,
     "version": "1.2.2",
-    "updated_at": "2026-03-26T02:57:18Z"
+    "updated_at": "2026-03-29T05:02:42Z"
   },
   "astrbot_plugin_telegram_summary": {
     "name": "",
@@ -3669,9 +3669,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
-    "stars": 29,
+    "stars": 30,
     "version": "v2.2.5",
-    "updated_at": "2026-03-22T11:49:14Z",
+    "updated_at": "2026-03-29T04:03:31Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_worldbook/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -4072,9 +4072,9 @@
       "群聊活跃度监测"
     ],
     "category": "utilities",
-    "stars": 3,
+    "stars": 4,
     "version": "2.1.1",
-    "updated_at": "2026-02-27T05:43:59Z",
+    "updated_at": "2026-03-29T02:36:59Z",
     "logo": "https://raw.githubusercontent.com/danfong1104/astrbot_plugin_chatmaster/main/logo.png"
   },
   "astrbot_plugin_cheer_mate": {
@@ -5663,7 +5663,7 @@
     "category": "utilities",
     "stars": 89,
     "version": "v1.5.1",
-    "updated_at": "2026-03-28T17:53:09Z",
+    "updated_at": "2026-03-29T04:20:38Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -5931,9 +5931,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
-    "stars": 65,
+    "stars": 66,
     "version": "v4.2.20",
-    "updated_at": "2026-03-27T16:21:07Z",
+    "updated_at": "2026-03-29T04:49:47Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -6421,9 +6421,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "utilities",
-    "stars": 117,
+    "stars": 118,
     "version": "v2.3.0",
-    "updated_at": "2026-03-25T03:26:32Z",
+    "updated_at": "2026-03-29T04:18:54Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -7605,9 +7605,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 155,
+    "stars": 156,
     "version": "v1.1.5",
-    "updated_at": "2026-03-28T03:34:56Z",
+    "updated_at": "2026-03-29T04:56:33Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -8950,8 +8950,8 @@
     "social_link": "https://github.com/qa296/",
     "category": "ai_tools",
     "stars": 9,
-    "version": "2.0.6",
-    "updated_at": "2026-03-28T17:37:22Z"
+    "version": "2.0.8",
+    "updated_at": "2026-03-29T03:03:00Z"
   },
   "astrbot_plugin_anti_revoke": {
     "desc": "[仅 OneBot]监控指定群聊会话撤回的消息并发送给目标用户",
@@ -13296,9 +13296,9 @@
       "QQ群管"
     ],
     "category": "utilities",
-    "stars": 119,
+    "stars": 120,
     "version": "v3.2.7",
-    "updated_at": "2026-03-28T21:52:15Z",
+    "updated_at": "2026-03-29T03:49:26Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -14352,9 +14352,9 @@
       "搬史"
     ],
     "category": "utilities",
-    "stars": 542,
+    "stars": 543,
     "version": "v0.916",
-    "updated_at": "2026-03-27T12:10:43Z"
+    "updated_at": "2026-03-29T03:50:31Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
@@ -14398,9 +14398,9 @@
     ],
     "pinned": true,
     "category": "entertainment",
-    "stars": 207,
+    "stars": 208,
     "version": "v3.19",
-    "updated_at": "2026-03-28T02:50:06Z"
+    "updated_at": "2026-03-29T04:20:48Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
