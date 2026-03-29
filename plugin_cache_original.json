@@ -11909,9 +11909,9 @@
       "服务器"
     ],
     "category": "integrations",
-    "stars": 6,
+    "stars": 7,
     "version": "0.1.0",
-    "updated_at": "2026-01-16T09:38:58Z"
+    "updated_at": "2026-03-29T20:22:31Z"
   },
   "astrbot_plugin_mcmod_modsearch": {
     "author": "mmyddd",
