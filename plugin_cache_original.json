@@ -1413,9 +1413,9 @@
     "social_link": "https://github.com/Renyus",
     "category": "ai_tools",
     "tags": [],
-    "stars": 38,
+    "stars": 39,
     "version": "Ver 3.3",
-    "updated_at": "2026-03-29T07:20:17Z"
+    "updated_at": "2026-03-29T09:10:30Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -3051,8 +3051,8 @@
     "social_link": "hlymcn.cn",
     "category": "integrations",
     "stars": 1,
-    "version": "v0.8.3",
-    "updated_at": "2026-02-27T18:24:46Z",
+    "version": "v0.8.4",
+    "updated_at": "2026-03-29T09:05:42Z",
     "logo": "https://raw.githubusercontent.com/DearCrazyLeaf/astrbot_plugin_hlymcn_signin/master/logo.png"
   },
   "astrbot_plugin_pic_mirror": {
@@ -3340,9 +3340,9 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "category": "entertainment",
-    "stars": 16,
+    "stars": 17,
     "version": "v3.1.5",
-    "updated_at": "2026-03-24T06:47:22Z",
+    "updated_at": "2026-03-29T09:37:07Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
@@ -4548,8 +4548,8 @@
     "social_link": "https://github.com/Clhikari",
     "category": "productivity",
     "stars": 18,
-    "version": "v1.4.1",
-    "updated_at": "2026-03-29T07:43:50Z",
+    "version": "v1.4.2",
+    "updated_at": "2026-03-29T09:14:11Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -5786,7 +5786,7 @@
     "category": "entertainment",
     "stars": 35,
     "version": "2.4.10",
-    "updated_at": "2026-03-29T08:17:37Z",
+    "updated_at": "2026-03-29T09:09:41Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -12533,9 +12533,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "entertainment",
-    "stars": 209,
+    "stars": 210,
     "version": "v3.0.3",
-    "updated_at": "2026-03-29T06:39:17Z",
+    "updated_at": "2026-03-29T08:59:21Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -13874,9 +13874,9 @@
       "实用工具"
     ],
     "category": "utilities",
-    "stars": 36,
+    "stars": 37,
     "version": "v3.0.1",
-    "updated_at": "2026-03-23T09:19:10Z",
+    "updated_at": "2026-03-29T08:50:52Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
