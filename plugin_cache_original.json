@@ -424,9 +424,9 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "category": "entertainment",
-    "stars": 13,
+    "stars": 14,
     "version": "v2.5.5",
-    "updated_at": "2026-03-29T03:10:46Z",
+    "updated_at": "2026-03-29T11:57:22Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot_plugin_atrifeed/main/logo.png"
   },
   "astrbot-plugin-self-open-llm-vtuber": {
@@ -1430,7 +1430,7 @@
     "tags": [],
     "stars": 39,
     "version": "Ver 3.3",
-    "updated_at": "2026-03-29T09:10:30Z"
+    "updated_at": "2026-03-29T12:38:03Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -2279,8 +2279,8 @@
     "social_link": "https://github.com/Radiant303",
     "category": "ai_tools",
     "stars": 14,
-    "version": "v2.2.0",
-    "updated_at": "2026-03-28T14:09:25Z",
+    "version": "v2.2.1",
+    "updated_at": "2026-03-29T12:41:05Z",
     "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_clonetts/master/logo.png"
   },
   "astrbot-plugin-ssh": {
@@ -3066,8 +3066,8 @@
     "social_link": "hlymcn.cn",
     "category": "integrations",
     "stars": 1,
-    "version": "v0.8.8",
-    "updated_at": "2026-03-29T11:20:00Z",
+    "version": "v0.8.9",
+    "updated_at": "2026-03-29T11:46:23Z",
     "logo": "https://raw.githubusercontent.com/DearCrazyLeaf/astrbot_plugin_hlymcn_signin/master/logo.png"
   },
   "astrbot_plugin_pic_mirror": {
@@ -3357,7 +3357,7 @@
     "category": "entertainment",
     "stars": 17,
     "version": "v3.1.5",
-    "updated_at": "2026-03-29T09:37:07Z",
+    "updated_at": "2026-03-29T12:27:17Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
@@ -4430,9 +4430,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "utilities",
-    "stars": 43,
+    "stars": 44,
     "version": "1.1.1",
-    "updated_at": "2026-03-25T01:38:31Z"
+    "updated_at": "2026-03-29T11:57:29Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -9115,9 +9115,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 119,
+    "stars": 120,
     "version": "2.2.4",
-    "updated_at": "2026-03-28T15:04:17Z",
+    "updated_at": "2026-03-29T12:56:15Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -10497,9 +10497,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "ai_tools",
-    "stars": 73,
+    "stars": 74,
     "version": "2.1.1",
-    "updated_at": "2026-03-22T08:08:13Z"
+    "updated_at": "2026-03-29T12:22:54Z"
   },
   "cngal_search": {
     "desc": "CnGal查询",
@@ -14413,9 +14413,9 @@
     ],
     "pinned": true,
     "category": "entertainment",
-    "stars": 208,
+    "stars": 209,
     "version": "v3.19",
-    "updated_at": "2026-03-29T04:20:48Z"
+    "updated_at": "2026-03-29T11:36:42Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
