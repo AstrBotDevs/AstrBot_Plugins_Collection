@@ -844,9 +844,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 274,
+    "stars": 275,
     "version": "v4.9.9",
-    "updated_at": "2026-03-29T05:49:38Z",
+    "updated_at": "2026-03-29T14:27:08Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1694,8 +1694,8 @@
     "social_link": "https://github.com/menglimi",
     "category": "ai_tools",
     "stars": 28,
-    "version": "2.8.1",
-    "updated_at": "2026-03-28T18:22:47Z",
+    "version": "2.9.0",
+    "updated_at": "2026-03-29T14:24:23Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -3355,9 +3355,9 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "category": "entertainment",
-    "stars": 17,
+    "stars": 18,
     "version": "v3.1.5",
-    "updated_at": "2026-03-29T12:27:17Z",
+    "updated_at": "2026-03-29T14:21:35Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
@@ -3825,9 +3825,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 274,
+    "stars": 275,
     "version": "v4.9.9",
-    "updated_at": "2026-03-29T05:49:38Z",
+    "updated_at": "2026-03-29T14:27:08Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -4047,7 +4047,7 @@
     "category": "ai_tools",
     "stars": 7,
     "version": "v1.2.0",
-    "updated_at": "2026-03-29T13:44:00Z"
+    "updated_at": "2026-03-29T14:30:59Z"
   },
   "astrbot_plugin_engram": {
     "display_name": "仿生双轨记忆系统",
@@ -4373,7 +4373,7 @@
     "category": "utilities",
     "stars": 25,
     "version": "v1.2.5",
-    "updated_at": "2026-03-28T20:49:13Z",
+    "updated_at": "2026-03-29T14:27:22Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_geetest_verify/master/logo.png"
   },
   "astrbot_plugin_cliproxy_stats": {
@@ -4596,7 +4596,7 @@
     "category": "integrations",
     "stars": 13,
     "version": "0.3.5",
-    "updated_at": "2026-03-28T02:59:35Z",
+    "updated_at": "2026-03-29T14:12:14Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_url_image_auto": {
@@ -6436,9 +6436,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "utilities",
-    "stars": 119,
+    "stars": 121,
     "version": "v2.3.0",
-    "updated_at": "2026-03-29T06:38:12Z",
+    "updated_at": "2026-03-29T14:07:56Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
