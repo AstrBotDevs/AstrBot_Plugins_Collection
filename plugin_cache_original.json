@@ -8,9 +8,9 @@
       "更多主动功能"
     ],
     "social_link": "www.wyccotccy.cn",
-    "stars": 0,
+    "stars": 1,
     "version": "1.1.0",
-    "updated_at": "2026-03-29T12:32:33Z",
+    "updated_at": "2026-03-30T15:44:15Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -51,8 +51,8 @@
     ],
     "social_link": "https://github.com/YuWan886",
     "stars": 0,
-    "version": "v1.3.1",
-    "updated_at": "2026-03-29T07:12:37Z"
+    "version": "v1.3.2",
+    "updated_at": "2026-03-30T15:06:37Z"
   },
   "astrbot-plugin-zhuaxiaba": {
     "display_name": "贴吧抓虾吧插件",
@@ -911,7 +911,7 @@
     "category": "productivity",
     "stars": 278,
     "version": "v4.9.9",
-    "updated_at": "2026-03-30T14:47:36Z",
+    "updated_at": "2026-03-30T16:04:19Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1003,8 +1003,8 @@
     "social_link": "https://github.com/RhoninSeiei",
     "category": "productivity",
     "stars": 2,
-    "version": "v0.4.0",
-    "updated_at": "2026-03-28T20:08:18Z"
+    "version": "v0.4.1",
+    "updated_at": "2026-03-30T15:09:03Z"
   },
   "astrbot-plugin-lyria": {
     "display_name": "Lyria音乐生成",
@@ -1253,7 +1253,7 @@
     "category": "productivity",
     "stars": 7,
     "version": "v1.3.0",
-    "updated_at": "2026-03-30T08:23:23Z",
+    "updated_at": "2026-03-30T16:09:11Z",
     "logo": "https://raw.githubusercontent.com/gangcaiyoule/astrbot_plugin_mail_notify/master/logo.png"
   },
   "astrbot-plugin-Xagent-searcher": {
@@ -1527,7 +1527,7 @@
     "category": "ai_tools",
     "stars": 19,
     "version": "v1.2.2",
-    "updated_at": "2026-03-30T14:42:16Z",
+    "updated_at": "2026-03-30T16:22:58Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
@@ -3892,7 +3892,7 @@
     "category": "utilities",
     "stars": 278,
     "version": "v4.9.9",
-    "updated_at": "2026-03-30T14:47:36Z",
+    "updated_at": "2026-03-30T16:04:19Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -6013,7 +6013,7 @@
     "category": "ai_tools",
     "stars": 66,
     "version": "v4.2.21",
-    "updated_at": "2026-03-30T12:03:50Z",
+    "updated_at": "2026-03-30T16:16:48Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -7344,7 +7344,7 @@
     "category": "entertainment",
     "stars": 24,
     "version": "v2.0.0",
-    "updated_at": "2026-03-13T14:08:21Z",
+    "updated_at": "2026-03-30T16:00:20Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_qqgal/master/logo.png"
   },
   "astrbot_plugin_Conversa": {
@@ -7685,9 +7685,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 158,
+    "stars": 159,
     "version": "v1.2.0",
-    "updated_at": "2026-03-30T14:21:05Z",
+    "updated_at": "2026-03-30T16:03:07Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -9625,9 +9625,9 @@
       "RAG"
     ],
     "category": "ai_tools",
-    "stars": 3,
+    "stars": 4,
     "version": "2.2.3",
-    "updated_at": "2026-03-28T01:41:24Z"
+    "updated_at": "2026-03-30T15:16:12Z"
   },
   "astrbot_plugin_pic_search": {
     "desc": "爬取 Bing 的图片搜索结果，再使用 VLM 进行选择处理",
@@ -13376,9 +13376,9 @@
       "QQ群管"
     ],
     "category": "utilities",
-    "stars": 121,
+    "stars": 122,
     "version": "v3.2.7",
-    "updated_at": "2026-03-30T05:49:47Z",
+    "updated_at": "2026-03-30T16:01:32Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
