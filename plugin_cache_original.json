@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-DUT-Notices": {
+    "display_name": "大连理工大学通知新闻推送",
+    "desc": "聚合爬取大连理工大学多个通知站点（以开发区校区为主）最新内容，向订阅会话推送最新通知。",
+    "author": "Lentinel",
+    "repo": "https://github.com/Lentinel/astrbot_plugin_DUT_Notices",
+    "social_link": "https://github.com/Lentinel",
+    "tags": [],
+    "stars": 0,
+    "version": "v1.0.1",
+    "updated_at": "2026-03-30T16:35:37Z"
+  },
   "astrbot-plugin-qzone-tools": {
     "display_name": "为你的bot加入更多主动功能",
     "desc": "支持机器人发送定时消息，发送QQ空间，发送戳一戳等给群聊或者私聊，以及更多LLM工具",
@@ -330,9 +341,9 @@
     "tags": [
       "工具"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.1.1",
-    "updated_at": "2026-03-30T13:51:50Z"
+    "updated_at": "2026-03-30T17:13:15Z"
   },
   "astrbot-plugin-ancient-poem": {
     "display_name": "古诗插件",
@@ -1526,8 +1537,8 @@
     "social_link": "https://github.com/olozhika/",
     "category": "ai_tools",
     "stars": 19,
-    "version": "v1.2.2",
-    "updated_at": "2026-03-30T16:22:58Z",
+    "version": "v1.2.3",
+    "updated_at": "2026-03-30T17:32:20Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
@@ -4436,9 +4447,9 @@
     ],
     "social_link": "https://github.com/VanillaNahida/",
     "category": "utilities",
-    "stars": 25,
+    "stars": 26,
     "version": "v1.2.5",
-    "updated_at": "2026-03-29T14:27:22Z",
+    "updated_at": "2026-03-30T17:20:55Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_geetest_verify/master/logo.png"
   },
   "astrbot_plugin_cliproxy_stats": {
@@ -4540,9 +4551,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 235,
+    "stars": 236,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-30T12:05:50Z",
+    "updated_at": "2026-03-30T17:25:43Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -5327,9 +5338,9 @@
       "群聊优化"
     ],
     "category": "ai_tools",
-    "stars": 69,
+    "stars": 70,
     "version": "0.8.21",
-    "updated_at": "2026-03-30T06:10:45Z",
+    "updated_at": "2026-03-30T17:26:15Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -5864,9 +5875,9 @@
       "表情"
     ],
     "category": "entertainment",
-    "stars": 35,
+    "stars": 36,
     "version": "2.4.11",
-    "updated_at": "2026-03-30T12:02:37Z",
+    "updated_at": "2026-03-30T17:49:46Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -7387,9 +7398,9 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "ai_tools",
-    "stars": 76,
+    "stars": 77,
     "version": "v1.2.1-(hotfix-重推)",
-    "updated_at": "2026-03-27T06:19:10Z",
+    "updated_at": "2026-03-30T17:26:12Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
