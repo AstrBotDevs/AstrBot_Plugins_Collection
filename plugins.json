@@ -1,4 +1,14 @@
 {
+  "astrbot-plugin-qzone-tools": {
+    "display_name": "为你的bot加入更多主动功能",
+    "desc": "支持机器人发送定时消息，发送QQ空间，发送戳一戳等给群聊或者私聊，以及更多LLM工具",
+    "author": "Wyccotccy",
+    "repo": "https://github.com/Wyccotccy/astrbot_plugin_qzone_tools",
+    "tags": [
+      "更多主动功能"
+    ],
+    "social_link": "www.wyccotccy.cn"
+  },
   "astrbot-plugin-meme-manager-plus": {
     "display_name": "大模型表情聊天",
     "desc": "astrbot_plugin_meme_manager改了一下，可以接入gemini或grok的生图，实现概率回复图片，概率因子由LLM判断；最好放几张初始表情分类要不效果不好懂得都懂",
