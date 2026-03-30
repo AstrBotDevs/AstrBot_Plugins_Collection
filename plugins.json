@@ -1,4 +1,11 @@
 {
+  "astrbot-plugin-meme-manager-plus": {
+    "display_name": "大模型表情聊天",
+    "desc": "astrbot_plugin_meme_manager改了一下，可以接入gemini或grok的生图，实现概率回复图片，概率因子由LLM判断；最好放几张初始表情分类要不效果不好懂得都懂",
+    "author": "LOVEROXY",
+    "repo": "https://github.com/Sloan-YXT/astrbot_plugin_meme_manager_plus",
+    "social_link": "https://github.com/Sloan-YXT/"
+  },
   "astrbot-plugin-tradingagents": {
     "display_name": "多智能体股票分析助手",
     "desc": "基于多智能体辩论架构的 AstrBot 金融分析插件，支持 A 股、港股、美股的智能分析报告生成。",
