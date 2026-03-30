@@ -1,4 +1,18 @@
 {
+  "astrbot-plugin-qzone-tools": {
+    "display_name": "为你的bot加入更多主动功能",
+    "desc": "支持机器人发送定时消息，发送QQ空间，发送戳一戳等给群聊或者私聊，以及更多LLM工具",
+    "author": "Wyccotccy",
+    "repo": "https://github.com/Wyccotccy/astrbot_plugin_qzone_tools",
+    "tags": [
+      "更多主动功能"
+    ],
+    "social_link": "www.wyccotccy.cn",
+    "stars": 0,
+    "version": "1.1.0",
+    "updated_at": "2026-03-29T12:32:33Z",
+    "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
+  },
   "astrbot-plugin-meme-manager-plus": {
     "display_name": "大模型表情聊天",
     "desc": "astrbot_plugin_meme_manager改了一下，可以接入gemini或grok的生图，实现概率回复图片，概率因子由LLM判断；最好放几张初始表情分类要不效果不好懂得都懂",
@@ -477,7 +491,7 @@
     "category": "entertainment",
     "stars": 14,
     "version": "v2.5.5",
-    "updated_at": "2026-03-30T06:11:09Z",
+    "updated_at": "2026-03-30T08:48:43Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot_plugin_atrifeed/main/logo.png"
   },
   "astrbot-plugin-self-open-llm-vtuber": {
@@ -849,9 +863,9 @@
     ],
     "social_link": "https://github.com/camera-2018",
     "category": "entertainment",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-02-26T07:35:30Z"
+    "updated_at": "2026-03-30T08:20:40Z"
   },
   "astrbot-plugin-rf4-data": {
     "display_name": "astrbot_plugin_rf4_data",
@@ -1033,9 +1047,9 @@
     ],
     "social_link": "https://github.com/NumInvis",
     "category": "productivity",
-    "stars": 4,
+    "stars": 5,
     "version": "1.0.0",
-    "updated_at": "2026-03-16T07:25:20Z",
+    "updated_at": "2026-03-30T08:21:00Z",
     "logo": "https://raw.githubusercontent.com/NumInvis/astrbot_plugin_leetcode/master/logo.png"
   },
   "astrbot-plugin-yunzhijia-adapter": {
@@ -1238,8 +1252,8 @@
     ],
     "category": "productivity",
     "stars": 7,
-    "version": "v1.2.3",
-    "updated_at": "2026-03-30T02:56:08Z",
+    "version": "v1.3.0",
+    "updated_at": "2026-03-30T08:23:23Z",
     "logo": "https://raw.githubusercontent.com/gangcaiyoule/astrbot_plugin_mail_notify/master/logo.png"
   },
   "astrbot-plugin-Xagent-searcher": {
@@ -1452,9 +1466,9 @@
       "实用"
     ],
     "category": "productivity",
-    "stars": 8,
+    "stars": 9,
     "version": "5.4.0",
-    "updated_at": "2026-03-22T15:49:29Z"
+    "updated_at": "2026-03-30T08:20:26Z"
   },
   "astrbot-plugin-f1-notifier": {
     "display_name": "F1 Notifier",
@@ -1744,9 +1758,9 @@
     ],
     "social_link": "https://github.com/menglimi",
     "category": "ai_tools",
-    "stars": 28,
+    "stars": 29,
     "version": "2.9.0",
-    "updated_at": "2026-03-29T14:24:23Z",
+    "updated_at": "2026-03-30T08:37:08Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -2077,9 +2091,9 @@
     "social_link": "https://github.com/storyAura",
     "category": "entertainment",
     "tags": [],
-    "stars": 17,
+    "stars": 18,
     "version": "v1.0.2",
-    "updated_at": "2026-03-24T13:17:27Z",
+    "updated_at": "2026-03-30T08:20:11Z",
     "logo": "https://raw.githubusercontent.com/storyAura/astrbot_plugin_biliVideo/main/logo.png"
   },
   "astrbot-plugin-opencode-client": {
@@ -4895,9 +4909,9 @@
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
     "category": "ai_tools",
-    "stars": 51,
+    "stars": 52,
     "version": "v1.1",
-    "updated_at": "2026-03-25T17:25:12Z"
+    "updated_at": "2026-03-30T08:54:49Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -5385,9 +5399,9 @@
       "通知"
     ],
     "category": "productivity",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.4.1",
-    "updated_at": "2026-03-25T15:43:48Z",
+    "updated_at": "2026-03-30T08:21:17Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_reminder/master/logo.png"
   },
   "astrbot_plugin_binance": {
@@ -9995,9 +10009,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "integrations",
-    "stars": 96,
+    "stars": 97,
     "version": "v3.0.4",
-    "updated_at": "2026-03-30T06:06:52Z",
+    "updated_at": "2026-03-30T07:49:03Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -14714,9 +14728,9 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "category": "integrations",
     "tags": [],
-    "stars": 54,
+    "stars": 55,
     "version": "v1.5.7",
-    "updated_at": "2026-03-29T11:05:10Z",
+    "updated_at": "2026-03-30T08:19:44Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
