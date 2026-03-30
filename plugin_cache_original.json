@@ -22,7 +22,7 @@
     "tags": [],
     "stars": 1,
     "version": "v3.8.5",
-    "updated_at": "2026-03-30T12:51:16Z",
+    "updated_at": "2026-03-30T13:27:06Z",
     "logo": "https://raw.githubusercontent.com/Sloan-YXT/astrbot_plugin_meme_manager_plus/master/logo.png"
   },
   "astrbot-plugin-tradingagents": {
@@ -331,8 +331,8 @@
       "工具"
     ],
     "stars": 0,
-    "version": "v1.1.0",
-    "updated_at": "2026-03-25T12:36:39Z"
+    "version": "v1.1.1",
+    "updated_at": "2026-03-30T13:51:50Z"
   },
   "astrbot-plugin-ancient-poem": {
     "display_name": "古诗插件",
@@ -909,9 +909,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 277,
+    "stars": 278,
     "version": "v4.9.9",
-    "updated_at": "2026-03-30T06:02:05Z",
+    "updated_at": "2026-03-30T14:47:36Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1495,7 +1495,7 @@
     "tags": [],
     "stars": 39,
     "version": "Ver 3.4.0",
-    "updated_at": "2026-03-30T10:40:28Z"
+    "updated_at": "2026-03-30T14:47:15Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -1525,9 +1525,9 @@
     ],
     "social_link": "https://github.com/olozhika/",
     "category": "ai_tools",
-    "stars": 18,
+    "stars": 19,
     "version": "v1.2.2",
-    "updated_at": "2026-03-30T12:51:26Z",
+    "updated_at": "2026-03-30T14:42:16Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
@@ -2718,8 +2718,8 @@
     "pinned": true,
     "category": "integrations",
     "stars": 91,
-    "version": "v2.0.5",
-    "updated_at": "2026-03-30T06:22:04Z",
+    "version": "v2.0.6",
+    "updated_at": "2026-03-30T14:18:18Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -3890,9 +3890,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 277,
+    "stars": 278,
     "version": "v4.9.9",
-    "updated_at": "2026-03-30T06:02:05Z",
+    "updated_at": "2026-03-30T14:47:36Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -4082,9 +4082,9 @@
     "repo": "https://github.com/2529huang/astrbot_plugin_fund_analyzer",
     "category": "productivity",
     "tags": [],
-    "stars": 11,
+    "stars": 12,
     "version": "2.0.0",
-    "updated_at": "2026-03-23T17:12:42Z",
+    "updated_at": "2026-03-30T14:22:14Z",
     "logo": "https://raw.githubusercontent.com/2529huang/astrbot_plugin_fund_analyzer/master/logo.png"
   },
   "astrbot_plugin_CNKD_Admin": {
@@ -4628,8 +4628,8 @@
     "social_link": "https://github.com/Clhikari",
     "category": "productivity",
     "stars": 18,
-    "version": "v1.4.2",
-    "updated_at": "2026-03-29T09:57:30Z",
+    "version": "v1.4.3",
+    "updated_at": "2026-03-30T13:48:53Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -6501,9 +6501,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "utilities",
-    "stars": 122,
+    "stars": 123,
     "version": "v2.3.0",
-    "updated_at": "2026-03-30T04:23:27Z",
+    "updated_at": "2026-03-30T14:35:44Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -7685,9 +7685,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 157,
+    "stars": 158,
     "version": "v1.2.0",
-    "updated_at": "2026-03-30T13:02:02Z",
+    "updated_at": "2026-03-30T14:21:05Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -12378,9 +12378,9 @@
     ],
     "repo": "https://github.com/zhewang448/astrbot_plugin_mrfz",
     "category": "entertainment",
-    "stars": 7,
+    "stars": 8,
     "version": "v3.4.1",
-    "updated_at": "2026-03-18T06:19:33Z",
+    "updated_at": "2026-03-30T14:54:09Z",
     "logo": "https://raw.githubusercontent.com/zhewang448/astrbot_plugin_mrfz/main/logo.png"
   },
   "astrbot_plugin_napdog_cleaner": {
