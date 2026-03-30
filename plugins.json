@@ -1,4 +1,11 @@
 {
+  "astrbot-plugin-DUT-Notices": {
+    "display_name": "大连理工大学通知新闻推送",
+    "desc": "聚合爬取大连理工大学多个通知站点（以开发区校区为主）最新内容，向订阅会话推送最新通知。",
+    "author": "Lentinel",
+    "repo": "https://github.com/Lentinel/astrbot_plugin_DUT_Notices",
+    "social_link": "https://github.com/Lentinel"
+  },
   "astrbot-plugin-qzone-tools": {
     "display_name": "为你的bot加入更多主动功能",
     "desc": "支持机器人发送定时消息，发送QQ空间，发送戳一戳等给群聊或者私聊，以及更多LLM工具",
