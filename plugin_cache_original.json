@@ -34,9 +34,9 @@
     "author": "落日七号",
     "repo": "https://github.com/luori7hao/astrbot_plugin_zhuaxiaba",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "0.3.0",
-    "updated_at": "2026-03-29T06:51:54Z"
+    "updated_at": "2026-03-30T02:02:53Z"
   },
   "astrbot-plugin-r6states": {
     "display_name": "彩虹六号查询工具",
@@ -48,9 +48,9 @@
       "查询工具",
       "彩虹六号"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-03-29T16:17:02Z",
+    "updated_at": "2026-03-30T00:57:16Z",
     "logo": "https://raw.githubusercontent.com/Diekeng/astrbot_plugin_r6states/master/logo.png"
   },
   "astrbot-plugin-HonorOfKings": {
@@ -862,9 +862,9 @@
     "repo": "https://github.com/Yuuu0109/astrbot_plugin_exchangerate_ICBC",
     "category": "productivity",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.4.2",
-    "updated_at": "2026-03-29T17:04:40Z"
+    "updated_at": "2026-03-30T00:50:30Z"
   },
   "astrbot-plugin-qq-group-daily-analysis": {
     "display_name": "群分析总结插件",
@@ -883,9 +883,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 277,
+    "stars": 276,
     "version": "v4.9.9",
-    "updated_at": "2026-03-29T15:44:40Z",
+    "updated_at": "2026-03-30T02:16:07Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -2213,9 +2213,9 @@
       "PDF"
     ],
     "category": "entertainment",
-    "stars": 14,
+    "stars": 13,
     "version": "3.0.0",
-    "updated_at": "2026-03-26T14:24:07Z",
+    "updated_at": "2026-03-30T02:16:09Z",
     "logo": "https://raw.githubusercontent.com/blueraina/astrbot_plugin_novel/main/logo.png"
   },
   "astrbot-plugin-inaturalist-search": {
@@ -2299,9 +2299,9 @@
       "共同协作"
     ],
     "category": "entertainment",
-    "stars": 14,
+    "stars": 13,
     "version": "3.0.0",
-    "updated_at": "2026-03-26T14:24:07Z",
+    "updated_at": "2026-03-30T02:16:09Z",
     "logo": "https://raw.githubusercontent.com/blueraina/astrbot_plugin_novel/main/logo.png"
   },
   "astrbot-plugin-clonetts": {
@@ -2449,9 +2449,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "integrations",
-    "stars": 31,
+    "stars": 32,
     "version": "2.6.2",
-    "updated_at": "2026-03-25T15:48:38Z"
+    "updated_at": "2026-03-30T01:03:41Z"
   },
   "astrbot-plugin-meting": {
     "display_name": "初叶🍂MetingAPI 点歌",
@@ -3314,9 +3314,9 @@
     ],
     "social_link": "https://meilunova.pages.dev/",
     "category": "integrations",
-    "stars": 13,
+    "stars": 14,
     "version": "0.7.0",
-    "updated_at": "2026-03-29T15:08:43Z",
+    "updated_at": "2026-03-30T00:54:03Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -3524,9 +3524,9 @@
     ],
     "social_link": "https://github.com/Azincc/",
     "category": "utilities",
-    "stars": 15,
+    "stars": 16,
     "version": "v1.3.0",
-    "updated_at": "2026-03-25T14:09:58Z"
+    "updated_at": "2026-03-30T02:34:44Z"
   },
   "astrbot_plugin_tomin": {
     "display_name": "Tomin - 少女乐队游戏",
@@ -3864,9 +3864,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 277,
+    "stars": 276,
     "version": "v4.9.9",
-    "updated_at": "2026-03-29T15:44:40Z",
+    "updated_at": "2026-03-30T02:16:07Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -5063,9 +5063,9 @@
       "监测"
     ],
     "category": "integrations",
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.0",
-    "updated_at": "2026-02-12T05:56:04Z"
+    "updated_at": "2026-03-30T01:05:56Z"
   },
   "astrbot_plugin_chat4severals": {
     "display_name": "优化私聊体验，不再说一句回一句",
@@ -5715,9 +5715,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 90,
+    "stars": 91,
     "version": "v1.5.1",
-    "updated_at": "2026-03-29T05:33:47Z",
+    "updated_at": "2026-03-30T02:06:25Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -7659,9 +7659,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 157,
+    "stars": 156,
     "version": "v1.1.5",
-    "updated_at": "2026-03-29T15:54:48Z",
+    "updated_at": "2026-03-30T02:16:08Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -14454,7 +14454,7 @@
     "category": "entertainment",
     "stars": 209,
     "version": "v3.19",
-    "updated_at": "2026-03-29T11:36:42Z"
+    "updated_at": "2026-03-30T02:16:05Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
@@ -15105,9 +15105,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "ai_tools",
     "tags": [],
-    "stars": 214,
+    "stars": 215,
     "version": "v2.1.0",
-    "updated_at": "2026-03-26T15:28:28Z"
+    "updated_at": "2026-03-30T00:08:39Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
