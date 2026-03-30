@@ -20,9 +20,9 @@
     "repo": "https://github.com/Sloan-YXT/astrbot_plugin_meme_manager_plus",
     "social_link": "https://github.com/Sloan-YXT/",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "v3.8.5",
-    "updated_at": "2026-03-30T05:56:14Z",
+    "updated_at": "2026-03-30T09:51:57Z",
     "logo": "https://raw.githubusercontent.com/Sloan-YXT/astrbot_plugin_meme_manager_plus/master/logo.png"
   },
   "astrbot-plugin-tradingagents": {
@@ -60,9 +60,9 @@
     "author": "落日七号",
     "repo": "https://github.com/luori7hao/astrbot_plugin_zhuaxiaba",
     "tags": [],
-    "stars": 1,
+    "stars": 3,
     "version": "1.0.0",
-    "updated_at": "2026-03-30T06:41:05Z"
+    "updated_at": "2026-03-30T10:57:36Z"
   },
   "astrbot-plugin-r6states": {
     "display_name": "彩虹六号查询工具",
@@ -490,8 +490,8 @@
     "social_link": "https://github.com/Heximiao",
     "category": "entertainment",
     "stars": 14,
-    "version": "v2.5.5",
-    "updated_at": "2026-03-30T08:48:43Z",
+    "version": "v2.5.6",
+    "updated_at": "2026-03-30T10:21:11Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot_plugin_atrifeed/main/logo.png"
   },
   "astrbot-plugin-self-open-llm-vtuber": {
@@ -1495,7 +1495,7 @@
     "tags": [],
     "stars": 39,
     "version": "Ver 3.4.0",
-    "updated_at": "2026-03-30T04:29:07Z"
+    "updated_at": "2026-03-30T10:40:28Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -6429,9 +6429,9 @@
     ],
     "social_link": "https://github.com/piexian",
     "category": "ai_tools",
-    "stars": 35,
+    "stars": 36,
     "version": "v1.9.7",
-    "updated_at": "2026-03-29T18:33:33Z",
+    "updated_at": "2026-03-30T10:58:14Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -7686,8 +7686,8 @@
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
     "stars": 156,
-    "version": "v1.1.5",
-    "updated_at": "2026-03-30T02:16:08Z",
+    "version": "v1.2.0",
+    "updated_at": "2026-03-30T10:46:03Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -10009,9 +10009,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "integrations",
-    "stars": 97,
+    "stars": 98,
     "version": "v3.0.4",
-    "updated_at": "2026-03-30T07:49:03Z",
+    "updated_at": "2026-03-30T10:01:14Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -11289,9 +11289,9 @@
     ],
     "social_link": "https://github.com/linjianyan0229",
     "category": "integrations",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2025-11-11T10:12:09Z"
+    "updated_at": "2026-03-30T09:56:56Z"
   },
   "astrbot_plugin_github_analyzer": {
     "author": "lxfight",
@@ -13243,9 +13243,9 @@
       "ehentai"
     ],
     "category": "entertainment",
-    "stars": 9,
+    "stars": 10,
     "version": "v3.2",
-    "updated_at": "2026-03-24T17:20:32Z"
+    "updated_at": "2026-03-30T09:59:04Z"
   },
   "astrbot_plugin_reread": {
     "display_name": "复读姬",
