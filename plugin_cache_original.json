@@ -3353,7 +3353,7 @@
     "category": "integrations",
     "stars": 14,
     "version": "0.7.0",
-    "updated_at": "2026-03-30T00:54:03Z",
+    "updated_at": "2026-03-31T06:24:20Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -5677,8 +5677,8 @@
     "social_link": "https://github.com/huizhiLLL",
     "category": "entertainment",
     "stars": 3,
-    "version": "v1.1.1",
-    "updated_at": "2026-03-27T17:21:42Z",
+    "version": "v1.1.2",
+    "updated_at": "2026-03-31T06:22:35Z",
     "logo": "https://raw.githubusercontent.com/huizhiLLL/astrbot_plugin_wca/master/logo.png"
   },
   "astrbot_plugin_memos_integrator": {
@@ -5752,9 +5752,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 91,
+    "stars": 92,
     "version": "v1.5.1",
-    "updated_at": "2026-03-30T02:06:25Z",
+    "updated_at": "2026-03-31T06:22:47Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -7604,8 +7604,8 @@
     ],
     "category": "entertainment",
     "stars": 9,
-    "version": "v0.8.2",
-    "updated_at": "2026-03-29T08:34:35Z",
+    "version": "v0.8.3",
+    "updated_at": "2026-03-31T05:56:39Z",
     "logo": "https://raw.githubusercontent.com/linjianyan0229/astrbot_plugin_monixiuxian/main/logo.png"
   },
   "astrbot_plugin_invitecount": {
@@ -11730,9 +11730,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 133,
+    "stars": 134,
     "version": "v2.0.9",
-    "updated_at": "2026-03-28T11:54:00Z",
+    "updated_at": "2026-03-31T06:30:17Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
