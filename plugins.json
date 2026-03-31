@@ -1,4 +1,19 @@
 {
+  "astrbot-plugin-biliread": {
+    "display_name": "BiliRead - 让 AI 真正看懂 B 站视频",
+    "desc": "告别机械式的视频大纲复制，让你的 AstrBot 拥有真正“看懂” B 站视频的能力。",
+    "author": "SodaCode & CodeBuddy & GLM-5",
+    "repo": "https://github.com/SodaCodeSave/astrbot_plugin_biliread",
+    "tags": [
+      "哔哩哔哩",
+      "B站",
+      "视频",
+      "总结",
+      "解析",
+      "外部集成"
+    ],
+    "social_link": "https://github.com/SodaCodeSave"
+  },
   "astrbot-plugin-DUT-Notices": {
     "display_name": "大连理工大学通知新闻推送",
     "desc": "聚合爬取大连理工大学多个通知站点（以开发区校区为主）最新内容，向订阅会话推送最新通知。",
