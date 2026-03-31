@@ -519,9 +519,9 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "category": "entertainment",
-    "stars": 15,
+    "stars": 16,
     "version": "v2.5.6",
-    "updated_at": "2026-03-31T12:02:37Z",
+    "updated_at": "2026-03-31T17:54:55Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot_plugin_atrifeed/main/logo.png"
   },
   "astrbot-plugin-self-open-llm-vtuber": {
@@ -1535,9 +1535,9 @@
     "social_link": "QQ群：1071693895",
     "category": "productivity",
     "tags": [],
-    "stars": 7,
+    "stars": 8,
     "version": "2.1.1",
-    "updated_at": "2026-03-31T14:57:31Z"
+    "updated_at": "2026-03-31T17:42:45Z"
   },
   "astrbot-plugin-local-reminiscence": {
     "display_name": "本地回忆[APLR]",
@@ -2121,9 +2121,9 @@
     "social_link": "https://github.com/storyAura",
     "category": "entertainment",
     "tags": [],
-    "stars": 19,
+    "stars": 20,
     "version": "v1.0.2",
-    "updated_at": "2026-03-31T12:25:19Z",
+    "updated_at": "2026-03-31T17:14:20Z",
     "logo": "https://raw.githubusercontent.com/storyAura/astrbot_plugin_biliVideo/main/logo.png"
   },
   "astrbot-plugin-opencode-client": {
@@ -9733,9 +9733,9 @@
     "social_link": "https://github.com/findx010197",
     "category": "productivity",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v3.3.6",
-    "updated_at": "2026-03-01T17:22:56Z"
+    "updated_at": "2026-03-31T17:42:49Z"
   },
   "astrbot_plugin_tts_modify": {
     "display_name": "TTS_modify",
