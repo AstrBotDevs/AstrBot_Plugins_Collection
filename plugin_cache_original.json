@@ -1538,7 +1538,7 @@
     "category": "ai_tools",
     "stars": 21,
     "version": "v1.2.3",
-    "updated_at": "2026-03-31T02:36:46Z",
+    "updated_at": "2026-03-31T07:56:49Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
@@ -1626,9 +1626,9 @@
     "repo": "https://github.com/xxofficial/astrbot_plugin_daily_ai_news",
     "category": "productivity",
     "tags": [],
-    "stars": 8,
+    "stars": 9,
     "version": "1.01",
-    "updated_at": "2026-03-27T10:03:21Z"
+    "updated_at": "2026-03-31T07:29:57Z"
   },
   "astrbot-plugin-Grok2API Token": {
     "display_name": "Grok2API Token",
@@ -2696,7 +2696,7 @@
     "category": "utilities",
     "stars": 1,
     "version": "v1.1.0",
-    "updated_at": "2026-03-11T00:16:51Z"
+    "updated_at": "2026-03-31T08:43:02Z"
   },
   "astrbot_plugin_group_quiz": {
     "display_name": "每日技术问答",
@@ -2773,9 +2773,9 @@
       "提醒"
     ],
     "category": "utilities",
-    "stars": 5,
+    "stars": 6,
     "version": "v3.5",
-    "updated_at": "2026-03-25T01:27:06Z"
+    "updated_at": "2026-03-31T08:07:57Z"
   },
   "astrbot_plugin_nbalance": {
     "display_name": "NewAPI余额查询",
@@ -5262,9 +5262,9 @@
       "磁力"
     ],
     "category": "utilities",
-    "stars": 11,
+    "stars": 12,
     "version": "v1.2.1",
-    "updated_at": "2026-03-12T05:45:48Z",
+    "updated_at": "2026-03-31T08:06:26Z",
     "logo": "https://raw.githubusercontent.com/NightDust981989/astrbot_plugin_BitTorrent/master/logo.png"
   },
   "astrbot_plugin_custom_menu_1": {
@@ -5306,9 +5306,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "utilities",
-    "stars": 50,
+    "stars": 51,
     "version": "1.1.3",
-    "updated_at": "2026-03-30T04:12:30Z",
+    "updated_at": "2026-03-31T08:03:00Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
@@ -5516,7 +5516,7 @@
     "category": "utilities",
     "stars": 3,
     "version": "v1.2.2",
-    "updated_at": "2026-03-28T07:35:00Z",
+    "updated_at": "2026-03-31T08:55:13Z",
     "logo": "https://raw.githubusercontent.com/Hakuin123/astrbot_plugin_uni_nickname/main/logo.png"
   },
   "astrbot_plugin_yoimg": {
@@ -5930,9 +5930,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "utilities",
-    "stars": 47,
+    "stars": 48,
     "version": "v1.4.5",
-    "updated_at": "2026-03-24T15:07:18Z",
+    "updated_at": "2026-03-31T08:01:40Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -8822,9 +8822,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "utilities",
-    "stars": 8,
+    "stars": 9,
     "version": "1.0.1",
-    "updated_at": "2026-03-22T02:58:31Z"
+    "updated_at": "2026-03-31T08:05:20Z"
   },
   "astrbot_plugin_personal_selfupdate": {
     "desc": "一个用于自更新人格数据的插件。",
@@ -9193,7 +9193,7 @@
     "category": "ai_tools",
     "stars": 122,
     "version": "2.2.4",
-    "updated_at": "2026-03-31T02:12:18Z",
+    "updated_at": "2026-03-31T07:50:16Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -10020,9 +10020,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "integrations",
-    "stars": 99,
+    "stars": 100,
     "version": "v3.0.4",
-    "updated_at": "2026-03-31T01:28:17Z",
+    "updated_at": "2026-03-31T07:21:03Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -10558,9 +10558,9 @@
     ],
     "social_link": "https://github.com/zhewang448",
     "category": "integrations",
-    "stars": 15,
+    "stars": 16,
     "version": "v1.1.5",
-    "updated_at": "2026-01-05T05:52:42Z",
+    "updated_at": "2026-03-31T08:06:05Z",
     "logo": "https://raw.githubusercontent.com/zhewang448/astrbot_plugin_SteamSaleTracker/main/logo.png"
   },
   "astrbot_plugin_Heartflow": {
@@ -12636,9 +12636,9 @@
     "social_link": "https://github.com/tinkerbellqwq",
     "category": "utilities",
     "tags": [],
-    "stars": 35,
+    "stars": 36,
     "version": "v1.1.3",
-    "updated_at": "2026-03-30T12:24:28Z"
+    "updated_at": "2026-03-31T07:52:01Z"
   },
   "astrbot_qqemotionreply": {
     "author": "QiChen",
@@ -13551,8 +13551,8 @@
     ],
     "category": "ai_tools",
     "stars": 13,
-    "version": "v0.1.8",
-    "updated_at": "2026-03-25T08:37:13Z"
+    "version": "v0.1.9",
+    "updated_at": "2026-03-31T07:48:10Z"
   },
   "daily_limit": {
     "desc": "限制成员每日访问AI次数的插件，支持为不同用户和群组设置不同的调用限制(支持的astrbot最低版本为3.5.1)",
@@ -14444,9 +14444,9 @@
       "搬史"
     ],
     "category": "utilities",
-    "stars": 544,
+    "stars": 545,
     "version": "v0.916",
-    "updated_at": "2026-03-31T03:30:37Z"
+    "updated_at": "2026-03-31T09:00:00Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
