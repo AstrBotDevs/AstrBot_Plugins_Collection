@@ -19,9 +19,9 @@
       "更多主动功能"
     ],
     "social_link": "www.wyccotccy.cn",
-    "stars": 2,
+    "stars": 3,
     "version": "1.1.0",
-    "updated_at": "2026-03-31T01:20:52Z",
+    "updated_at": "2026-03-31T03:07:34Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -379,9 +379,9 @@
     "tags": [
       "音乐"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v0.0.4",
-    "updated_at": "2026-03-25T05:09:35Z"
+    "updated_at": "2026-03-31T05:09:04Z"
   },
   "astrbot-plugin-codesnap": {
     "display_name": "CodeSnap(?)",
@@ -1536,9 +1536,9 @@
     ],
     "social_link": "https://github.com/olozhika/",
     "category": "ai_tools",
-    "stars": 20,
+    "stars": 21,
     "version": "v1.2.3",
-    "updated_at": "2026-03-30T19:09:43Z",
+    "updated_at": "2026-03-31T02:36:46Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
@@ -1880,9 +1880,9 @@
       "sky"
     ],
     "category": "entertainment",
-    "stars": 3,
+    "stars": 4,
     "version": "2.5.3",
-    "updated_at": "2026-03-29T03:26:32Z",
+    "updated_at": "2026-03-31T02:36:39Z",
     "logo": "https://raw.githubusercontent.com/wzq10314/astrbot_plugin_sky/main/logo.png"
   },
   "astrbot-plugin-animatedemoji": {
@@ -2868,9 +2868,9 @@
     ],
     "social_link": "https://github.com/Sakura520222",
     "category": "integrations",
-    "stars": 3,
+    "stars": 4,
     "version": "1.2.2",
-    "updated_at": "2026-02-12T13:47:49Z",
+    "updated_at": "2026-03-31T03:57:33Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_telegram_summary/main/logo.png"
   },
   "astrbot_plugin_gok": {
@@ -3784,9 +3784,9 @@
     "social_link": "https://github.com/muyouzhi6",
     "category": "utilities",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "0.3.3",
-    "updated_at": "2026-03-19T14:34:50Z"
+    "updated_at": "2026-03-31T02:34:49Z"
   },
   "astrbot_plugin_daily_sharing": {
     "display_name": "定时主动分享所见所闻",
@@ -6362,9 +6362,9 @@
     ],
     "social_link": "https://box.firefly520.top/",
     "category": "ai_tools",
-    "stars": 26,
+    "stars": 27,
     "version": "1.5.4",
-    "updated_at": "2026-03-29T15:32:12Z",
+    "updated_at": "2026-03-31T03:57:24Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/main/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -12813,9 +12813,9 @@
     ],
     "social_link": "https://github.com/vmoranv-reborn",
     "category": "entertainment",
-    "stars": 23,
+    "stars": 24,
     "version": "1.7.2",
-    "updated_at": "2026-03-30T02:50:07Z",
+    "updated_at": "2026-03-31T04:00:37Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
@@ -14444,9 +14444,9 @@
       "搬史"
     ],
     "category": "utilities",
-    "stars": 543,
+    "stars": 544,
     "version": "v0.916",
-    "updated_at": "2026-03-29T03:50:31Z"
+    "updated_at": "2026-03-31T03:30:37Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
