@@ -10449,9 +10449,9 @@
       "主动回复"
     ],
     "category": "utilities",
-    "stars": 41,
+    "stars": 40,
     "version": "v2.0.0",
-    "updated_at": "2026-03-25T03:16:35Z",
+    "updated_at": "2026-03-31T22:02:03Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
