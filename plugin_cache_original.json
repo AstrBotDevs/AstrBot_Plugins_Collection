@@ -1290,9 +1290,9 @@
     ],
     "social_link": "https://github.com/FlanChanXwO",
     "category": "utilities",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.0.2",
-    "updated_at": "2026-03-26T13:03:26Z",
+    "updated_at": "2026-03-31T09:51:43Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_status/master/logo.png"
   },
   "astrbot-plugin-adsb-monitor": {
@@ -1504,9 +1504,9 @@
     "social_link": "https://github.com/Renyus",
     "category": "ai_tools",
     "tags": [],
-    "stars": 39,
+    "stars": 40,
     "version": "Ver 3.4.0",
-    "updated_at": "2026-03-30T14:47:15Z"
+    "updated_at": "2026-03-31T10:07:08Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -3353,7 +3353,7 @@
     "category": "integrations",
     "stars": 14,
     "version": "0.7.0",
-    "updated_at": "2026-03-31T06:24:20Z",
+    "updated_at": "2026-03-31T09:17:15Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -4123,7 +4123,7 @@
     "category": "ai_tools",
     "stars": 8,
     "version": "v1.3.0",
-    "updated_at": "2026-03-31T02:08:34Z"
+    "updated_at": "2026-03-31T10:19:04Z"
   },
   "astrbot_plugin_engram": {
     "display_name": "仿生双轨记忆系统",
@@ -4808,8 +4808,8 @@
     ],
     "category": "utilities",
     "stars": 2,
-    "version": "v1.2",
-    "updated_at": "2026-03-10T09:56:40Z",
+    "version": "v1.3",
+    "updated_at": "2026-03-31T10:01:10Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_admin_notifier/master/logo.png"
   },
   "astrbot_plugin_models_ai": {
@@ -5515,8 +5515,8 @@
     "social_link": "https://github.com/Hakuin123",
     "category": "utilities",
     "stars": 3,
-    "version": "v1.2.2",
-    "updated_at": "2026-03-31T08:55:13Z",
+    "version": "v1.3.0",
+    "updated_at": "2026-03-31T10:20:23Z",
     "logo": "https://raw.githubusercontent.com/Hakuin123/astrbot_plugin_uni_nickname/main/logo.png"
   },
   "astrbot_plugin_yoimg": {
@@ -7029,7 +7029,7 @@
     "category": "ai_tools",
     "stars": 10,
     "version": "v3.4",
-    "updated_at": "2026-03-26T02:57:50Z",
+    "updated_at": "2026-03-31T10:46:57Z",
     "logo": "https://raw.githubusercontent.com/tengtian3/astrbot-plugin-emotionai/main/logo.png"
   },
   "astrbot_plugin_email_narrator": {
@@ -8167,7 +8167,7 @@
     "tags": [],
     "stars": 4,
     "version": "v1.2.1",
-    "updated_at": "2026-03-09T10:15:20Z"
+    "updated_at": "2026-03-31T10:40:27Z"
   },
   "astrbot_plugin_hapemxg_Inspect": {
     "desc": "LLM 内容审查插件，集成了正则表达式与 AI 模型双重审查机制。当回复不合规时，能自动重试并智能引导模型修正，确保内容安全合规。",
@@ -9191,9 +9191,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 122,
+    "stars": 123,
     "version": "2.2.4",
-    "updated_at": "2026-03-31T07:50:16Z",
+    "updated_at": "2026-03-31T09:54:42Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -10601,9 +10601,9 @@
     ],
     "social_link": "https://github.com/EIA2024",
     "category": "entertainment",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.0",
-    "updated_at": "2026-02-20T12:52:20Z"
+    "updated_at": "2026-03-31T09:30:11Z"
   },
   "astrbot_plugin_deer_check": {
     "desc": "一个发送'🦌'进行打卡并生成月度日历的插件",
@@ -11730,9 +11730,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 134,
+    "stars": 135,
     "version": "v2.0.9",
-    "updated_at": "2026-03-31T06:30:17Z",
+    "updated_at": "2026-03-31T09:09:13Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -12419,9 +12419,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "productivity",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.0.3",
-    "updated_at": "2025-12-19T07:24:12Z",
+    "updated_at": "2026-03-31T09:32:22Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_supervisor/main/logo.png"
   },
   "astrbot_plugin_primermath": {
@@ -14490,9 +14490,9 @@
     ],
     "pinned": true,
     "category": "entertainment",
-    "stars": 210,
+    "stars": 211,
     "version": "v3.19",
-    "updated_at": "2026-03-30T04:14:06Z"
+    "updated_at": "2026-03-31T10:22:20Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
