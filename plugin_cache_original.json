@@ -19,9 +19,9 @@
       "更多主动功能"
     ],
     "social_link": "www.wyccotccy.cn",
-    "stars": 1,
+    "stars": 2,
     "version": "1.1.0",
-    "updated_at": "2026-03-30T15:44:15Z",
+    "updated_at": "2026-03-31T01:20:52Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -31,9 +31,9 @@
     "repo": "https://github.com/Sloan-YXT/astrbot_plugin_meme_manager_plus",
     "social_link": "https://github.com/Sloan-YXT/",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v3.8.5",
-    "updated_at": "2026-03-30T13:27:06Z",
+    "updated_at": "2026-03-31T01:05:51Z",
     "logo": "https://raw.githubusercontent.com/Sloan-YXT/astrbot_plugin_meme_manager_plus/master/logo.png"
   },
   "astrbot-plugin-tradingagents": {
@@ -474,7 +474,7 @@
     "social_link": "btop251.top",
     "tags": [],
     "stars": 2,
-    "updated_at": "2026-03-22T11:20:09Z"
+    "updated_at": "2026-03-31T01:36:27Z"
   },
   "astrbot-plugin-pokemon": {
     "display_name": "精灵对战插件 for AstrBot",
@@ -3561,9 +3561,9 @@
     ],
     "social_link": "https://github.com/Azincc/",
     "category": "utilities",
-    "stars": 16,
+    "stars": 17,
     "version": "v1.3.0",
-    "updated_at": "2026-03-30T02:34:44Z"
+    "updated_at": "2026-03-31T00:04:15Z"
   },
   "astrbot_plugin_tomin": {
     "display_name": "Tomin - 少女乐队游戏",
@@ -4121,9 +4121,9 @@
     ],
     "social_link": "https://github.com/KonmaKanSinPack",
     "category": "ai_tools",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.3.0",
-    "updated_at": "2026-03-29T22:45:36Z"
+    "updated_at": "2026-03-31T02:08:34Z"
   },
   "astrbot_plugin_engram": {
     "display_name": "仿生双轨记忆系统",
@@ -9191,9 +9191,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 121,
+    "stars": 122,
     "version": "2.2.4",
-    "updated_at": "2026-03-30T06:24:22Z",
+    "updated_at": "2026-03-31T02:12:18Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -10020,9 +10020,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "integrations",
-    "stars": 98,
+    "stars": 99,
     "version": "v3.0.4",
-    "updated_at": "2026-03-30T10:01:14Z",
+    "updated_at": "2026-03-31T01:28:17Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -12296,9 +12296,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 64,
+    "stars": 65,
     "version": "v2.1.0",
-    "updated_at": "2026-03-29T15:00:03Z",
+    "updated_at": "2026-03-31T01:22:04Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_pokepro/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
@@ -12624,9 +12624,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "entertainment",
-    "stars": 209,
+    "stars": 210,
     "version": "v3.0.3",
-    "updated_at": "2026-03-30T06:40:32Z",
+    "updated_at": "2026-03-31T02:31:06Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
