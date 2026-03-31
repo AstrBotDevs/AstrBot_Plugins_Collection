@@ -13,9 +13,9 @@
       "外部集成"
     ],
     "social_link": "https://github.com/SodaCodeSave",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-03-31T12:03:55Z",
+    "updated_at": "2026-03-31T16:52:37Z",
     "logo": "https://raw.githubusercontent.com/SodaCodeSave/astrbot_plugin_biliread/master/logo.png"
   },
   "astrbot-plugin-DUT-Notices": {
@@ -38,9 +38,9 @@
       "更多主动功能"
     ],
     "social_link": "www.wyccotccy.cn",
-    "stars": 3,
+    "stars": 4,
     "version": "1.1.0",
-    "updated_at": "2026-03-31T03:07:34Z",
+    "updated_at": "2026-03-31T15:11:24Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -752,9 +752,9 @@
       "vibe coding"
     ],
     "category": "entertainment",
-    "stars": 1,
+    "stars": 2,
     "version": "v0.0.3",
-    "updated_at": "2026-03-25T01:04:56Z",
+    "updated_at": "2026-03-31T15:56:08Z",
     "logo": "https://raw.githubusercontent.com/MomijiOXO/astrbot_plugin_HD2_daily_report/master/logo.png"
   },
   "astrbot-plugin-splatoon3": {
@@ -939,9 +939,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 278,
+    "stars": 279,
     "version": "v4.9.10",
-    "updated_at": "2026-03-31T13:17:52Z",
+    "updated_at": "2026-03-31T15:55:30Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1467,9 +1467,9 @@
     "social_link": "https://github.com/kawayiYokami/",
     "category": "entertainment",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "1.0.3",
-    "updated_at": "2026-03-27T12:05:42Z",
+    "updated_at": "2026-03-31T16:32:26Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_smile/master/logo.png"
   },
   "astrbot-plugin-smart-filter": {
@@ -1557,7 +1557,7 @@
     "category": "ai_tools",
     "stars": 21,
     "version": "v1.2.3",
-    "updated_at": "2026-03-31T07:56:49Z",
+    "updated_at": "2026-03-31T16:07:23Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
@@ -1757,9 +1757,9 @@
     ],
     "social_link": "https://github.com/RichardLiuda",
     "category": "utilities",
-    "stars": 13,
+    "stars": 14,
     "version": "v2.1.1",
-    "updated_at": "2026-03-27T07:04:10Z",
+    "updated_at": "2026-03-31T16:54:54Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -2375,7 +2375,7 @@
     "category": "ai_tools",
     "stars": 14,
     "version": "v2.2.1",
-    "updated_at": "2026-03-29T12:41:05Z",
+    "updated_at": "2026-03-31T16:37:11Z",
     "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_clonetts/master/logo.png"
   },
   "astrbot-plugin-ssh": {
@@ -3920,9 +3920,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 278,
+    "stars": 279,
     "version": "v4.9.10",
-    "updated_at": "2026-03-31T13:17:52Z",
+    "updated_at": "2026-03-31T15:55:30Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -4570,9 +4570,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 236,
+    "stars": 239,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-30T17:25:43Z",
+    "updated_at": "2026-03-31T15:46:35Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -4939,9 +4939,9 @@
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
     "category": "ai_tools",
-    "stars": 53,
+    "stars": 54,
     "version": "v1.1",
-    "updated_at": "2026-03-31T14:37:31Z"
+    "updated_at": "2026-03-31T15:08:24Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -6042,8 +6042,8 @@
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
     "stars": 67,
-    "version": "v4.2.21",
-    "updated_at": "2026-03-31T14:37:27Z",
+    "version": "v4.2.24",
+    "updated_at": "2026-03-31T15:51:39Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -7046,9 +7046,9 @@
       "情感"
     ],
     "category": "ai_tools",
-    "stars": 10,
+    "stars": 11,
     "version": "v3.4",
-    "updated_at": "2026-03-31T10:46:57Z",
+    "updated_at": "2026-03-31T16:31:44Z",
     "logo": "https://raw.githubusercontent.com/tengtian3/astrbot-plugin-emotionai/main/logo.png"
   },
   "astrbot_plugin_email_narrator": {
@@ -7959,9 +7959,9 @@
       "nobroswer"
     ],
     "category": "utilities",
-    "stars": 24,
+    "stars": 25,
     "version": "v1.4.0",
-    "updated_at": "2026-03-24T09:25:06Z"
+    "updated_at": "2026-03-31T16:40:38Z"
   },
   "astrbot_plugin_fetch_summary": {
     "desc": "根据 URL 获取网站摘要",
@@ -10620,9 +10620,9 @@
     ],
     "social_link": "https://github.com/EIA2024",
     "category": "entertainment",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.0",
-    "updated_at": "2026-03-31T09:30:11Z"
+    "updated_at": "2026-03-31T16:07:57Z"
   },
   "astrbot_plugin_deer_check": {
     "desc": "一个发送'🦌'进行打卡并生成月度日历的插件",
@@ -12003,7 +12003,7 @@
     "category": "utilities",
     "stars": 4,
     "version": "1.0.0",
-    "updated_at": "2026-03-15T09:05:49Z"
+    "updated_at": "2026-03-31T16:24:28Z"
   },
   "astrbot_plugin_qrcode": {
     "author": "Yuki Soffd",
@@ -14801,8 +14801,8 @@
     "category": "integrations",
     "tags": [],
     "stars": 1,
-    "version": "v2.2.3",
-    "updated_at": "2026-03-23T14:43:01Z"
+    "version": "v2.2.4",
+    "updated_at": "2026-03-31T16:04:52Z"
   },
   "astrbot_plugin_wol": {
     "desc": "局域网 WOL 唤醒插件，/wolhelp 查看帮助",
@@ -15163,8 +15163,8 @@
     "category": "ai_tools",
     "tags": [],
     "stars": 217,
-    "version": "v2.1.0",
-    "updated_at": "2026-03-31T13:54:37Z"
+    "version": "v2.1.3",
+    "updated_at": "2026-03-31T15:29:04Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
