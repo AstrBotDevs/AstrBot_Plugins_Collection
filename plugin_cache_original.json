@@ -1523,9 +1523,9 @@
     "social_link": "https://github.com/Renyus",
     "category": "ai_tools",
     "tags": [],
-    "stars": 41,
+    "stars": 42,
     "version": "Ver 3.4.0",
-    "updated_at": "2026-03-31T12:09:59Z"
+    "updated_at": "2026-03-31T21:18:23Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -4570,9 +4570,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 239,
+    "stars": 240,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-31T15:46:35Z",
+    "updated_at": "2026-03-31T21:18:50Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -7417,9 +7417,9 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "ai_tools",
-    "stars": 77,
+    "stars": 78,
     "version": "v1.2.1-(hotfix-重推)",
-    "updated_at": "2026-03-30T17:26:12Z",
+    "updated_at": "2026-03-31T21:20:21Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -10079,9 +10079,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 17,
+    "stars": 18,
     "version": "v1.0.3",
-    "updated_at": "2026-03-29T05:46:23Z",
+    "updated_at": "2026-03-31T20:56:37Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_record_converter/main/logo.png"
   },
   "astrbot_plugin_spark_tts": {
@@ -11723,9 +11723,9 @@
     ],
     "social_link": "https://github.com/BB0813",
     "category": "utilities",
-    "stars": 6,
+    "stars": 7,
     "version": "v2.0.0",
-    "updated_at": "2026-01-21T10:05:24Z"
+    "updated_at": "2026-03-31T21:21:21Z"
   },
   "astrbot_dg_lab_plugin": {
     "author": "RC-CHN",
