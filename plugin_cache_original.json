@@ -4828,7 +4828,7 @@
     "category": "utilities",
     "stars": 2,
     "version": "v1.3",
-    "updated_at": "2026-03-31T10:01:10Z",
+    "updated_at": "2026-03-31T18:52:46Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_admin_notifier/master/logo.png"
   },
   "astrbot_plugin_models_ai": {
@@ -14689,9 +14689,9 @@
     "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
     "category": "productivity",
     "tags": [],
-    "stars": 32,
+    "stars": 33,
     "version": "v1.4.2",
-    "updated_at": "2026-03-15T16:10:50Z"
+    "updated_at": "2026-03-31T18:55:17Z"
   },
   "ai_memory": {
     "desc": "一个AI记忆管理插件，可以让ai记住重要的事，记忆读取是ai自己调用的，有时候呆呆的ai不会自己调用，可以多问几次或者人格加上特定提示词,输入 /mem_help 查看记忆管理帮助",
