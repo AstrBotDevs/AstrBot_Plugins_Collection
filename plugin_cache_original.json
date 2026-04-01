@@ -2747,9 +2747,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 97,
+    "stars": 98,
     "version": "v2.0.6",
-    "updated_at": "2026-04-01T16:07:48Z",
+    "updated_at": "2026-04-01T16:58:28Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -5895,8 +5895,8 @@
     ],
     "category": "entertainment",
     "stars": 36,
-    "version": "2.4.12",
-    "updated_at": "2026-04-01T14:11:20Z",
+    "version": "2.4.13",
+    "updated_at": "2026-04-01T17:09:34Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -9046,8 +9046,8 @@
     "category": "entertainment",
     "tags": [],
     "stars": 54,
-    "version": "v2.7.0",
-    "updated_at": "2026-04-01T16:06:42Z"
+    "version": "v2.7.1",
+    "updated_at": "2026-04-01T17:27:31Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -11710,9 +11710,9 @@
     ],
     "social_link": "https://github.com/xiewoc",
     "category": "ai_tools",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0.0",
-    "updated_at": "2025-09-04T14:30:31Z"
+    "updated_at": "2026-04-01T17:14:45Z"
   },
   "astrbot_plugin_sysinfoimg": {
     "author": "BB0813",
@@ -14463,9 +14463,9 @@
       "搬史"
     ],
     "category": "utilities",
-    "stars": 545,
+    "stars": 546,
     "version": "v0.916",
-    "updated_at": "2026-03-31T09:00:00Z"
+    "updated_at": "2026-04-01T17:20:38Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
