@@ -15,7 +15,7 @@
     "social_link": "https://github.com/SodaCodeSave",
     "stars": 4,
     "version": "v1.1.1",
-    "updated_at": "2026-04-01T10:50:57Z",
+    "updated_at": "2026-04-01T12:29:24Z",
     "logo": "https://raw.githubusercontent.com/SodaCodeSave/astrbot_plugin_biliread/master/logo.png"
   },
   "astrbot-plugin-DUT-Notices": {
@@ -38,9 +38,9 @@
       "更多主动功能"
     ],
     "social_link": "www.wyccotccy.cn",
-    "stars": 4,
+    "stars": 5,
     "version": "1.1.0",
-    "updated_at": "2026-03-31T15:11:24Z",
+    "updated_at": "2026-04-01T13:05:01Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -90,9 +90,9 @@
     "author": "落日七号",
     "repo": "https://github.com/luori7hao/astrbot_plugin_zhuaxiaba",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "1.0.0",
-    "updated_at": "2026-03-30T12:02:09Z"
+    "updated_at": "2026-04-01T13:46:20Z"
   },
   "astrbot-plugin-r6states": {
     "display_name": "彩虹六号查询工具",
@@ -227,8 +227,8 @@
       "vrchat"
     ],
     "stars": 2,
-    "version": "0.1.2",
-    "updated_at": "2026-03-30T12:58:28Z"
+    "version": "0.1.3",
+    "updated_at": "2026-04-01T12:33:36Z"
   },
   "astrbot-plugin-lyubishchev": {
     "display_name": "柳比歇夫时间管理插件",
@@ -941,7 +941,7 @@
     "category": "productivity",
     "stars": 280,
     "version": "v4.9.10",
-    "updated_at": "2026-04-01T10:23:56Z",
+    "updated_at": "2026-04-01T13:46:06Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1523,9 +1523,9 @@
     "social_link": "https://github.com/Renyus",
     "category": "ai_tools",
     "tags": [],
-    "stars": 43,
-    "version": "Ver 4.1.0",
-    "updated_at": "2026-04-01T11:11:51Z"
+    "stars": 44,
+    "version": "Ver 4.1.1",
+    "updated_at": "2026-04-01T13:14:12Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -2474,9 +2474,9 @@
     "repo": "https://github.com/okami-horo/astrbot_plugin_openai_responses",
     "category": "ai_tools",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "0.1.7",
-    "updated_at": "2026-03-22T04:05:45Z"
+    "updated_at": "2026-04-01T13:45:40Z"
   },
   "astrbot-plugin-matrix-sticker": {
     "display_name": "Matrix Sticker 管理插件",
@@ -3922,7 +3922,7 @@
     "category": "utilities",
     "stars": 280,
     "version": "v4.9.10",
-    "updated_at": "2026-04-01T10:23:56Z",
+    "updated_at": "2026-04-01T13:46:06Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -6382,8 +6382,8 @@
     "social_link": "https://box.firefly520.top/",
     "category": "ai_tools",
     "stars": 27,
-    "version": "1.5.4",
-    "updated_at": "2026-04-01T09:09:22Z",
+    "version": "1.5.6",
+    "updated_at": "2026-04-01T13:45:20Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/main/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -7716,8 +7716,8 @@
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
     "stars": 161,
-    "version": "v1.2.0",
-    "updated_at": "2026-04-01T07:53:40Z",
+    "version": "v1.2.1",
+    "updated_at": "2026-04-01T12:35:57Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -13503,9 +13503,9 @@
       "日常使用"
     ],
     "category": "utilities",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.1",
-    "updated_at": "2026-02-04T02:07:39Z"
+    "updated_at": "2026-04-01T12:13:19Z"
   },
   "astrbot_plugin_Merge_WeMSG": {
     "desc": "[仅gewechat]支持微信个人号(gewechat)的合并消息处理和转发",
