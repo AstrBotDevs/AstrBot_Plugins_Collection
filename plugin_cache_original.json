@@ -13,9 +13,9 @@
       "外部集成"
     ],
     "social_link": "https://github.com/SodaCodeSave",
-    "stars": 2,
-    "version": "v1.0.0",
-    "updated_at": "2026-04-01T00:58:17Z",
+    "stars": 3,
+    "version": "v1.1.1",
+    "updated_at": "2026-04-01T09:02:17Z",
     "logo": "https://raw.githubusercontent.com/SodaCodeSave/astrbot_plugin_biliread/master/logo.png"
   },
   "astrbot-plugin-DUT-Notices": {
@@ -25,9 +25,9 @@
     "repo": "https://github.com/Lentinel/astrbot_plugin_DUT_Notices",
     "social_link": "https://github.com/Lentinel",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.2",
-    "updated_at": "2026-03-31T13:50:31Z"
+    "updated_at": "2026-04-01T08:11:16Z"
   },
   "astrbot-plugin-qzone-tools": {
     "display_name": "为你的bot加入更多主动功能",
@@ -1523,9 +1523,9 @@
     "social_link": "https://github.com/Renyus",
     "category": "ai_tools",
     "tags": [],
-    "stars": 42,
+    "stars": 43,
     "version": "Ver 3.4.0",
-    "updated_at": "2026-03-31T21:18:23Z"
+    "updated_at": "2026-04-01T08:35:29Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -4691,7 +4691,7 @@
     "category": "integrations",
     "stars": 13,
     "version": "0.3.5",
-    "updated_at": "2026-03-29T14:12:14Z",
+    "updated_at": "2026-04-01T07:41:39Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_url_image_auto": {
@@ -6383,7 +6383,7 @@
     "category": "ai_tools",
     "stars": 27,
     "version": "1.5.4",
-    "updated_at": "2026-03-31T03:57:24Z",
+    "updated_at": "2026-04-01T08:58:24Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/main/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -7715,9 +7715,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 160,
+    "stars": 161,
     "version": "v1.2.0",
-    "updated_at": "2026-03-31T13:35:13Z",
+    "updated_at": "2026-04-01T07:53:40Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -10039,9 +10039,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "integrations",
-    "stars": 100,
+    "stars": 101,
     "version": "v3.0.4",
-    "updated_at": "2026-03-31T07:21:03Z",
+    "updated_at": "2026-04-01T08:41:17Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
