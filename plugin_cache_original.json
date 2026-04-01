@@ -437,7 +437,7 @@
     "tags": [],
     "stars": 1,
     "version": "v1.2.0",
-    "updated_at": "2026-03-30T05:54:25Z"
+    "updated_at": "2026-04-01T11:26:08Z"
   },
   "astrbot-plugin-access-others-chat-history": {
     "display_name": "访问他人聊天记录",
@@ -1524,8 +1524,8 @@
     "category": "ai_tools",
     "tags": [],
     "stars": 43,
-    "version": "Ver 3.4.0",
-    "updated_at": "2026-04-01T08:35:29Z"
+    "version": "Ver 4.1.0",
+    "updated_at": "2026-04-01T11:11:51Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -3264,8 +3264,8 @@
     "category": "utilities",
     "tags": [],
     "stars": 3,
-    "version": "1.4.0",
-    "updated_at": "2026-03-22T08:08:22Z"
+    "version": "1.5.0",
+    "updated_at": "2026-04-01T11:11:44Z"
   },
   "astrbot_plugin_opencode": {
     "display_name": "OpenCode Bridge",
@@ -4658,8 +4658,8 @@
     "social_link": "https://github.com/Clhikari",
     "category": "productivity",
     "stars": 19,
-    "version": "v1.4.3",
-    "updated_at": "2026-04-01T05:27:48Z",
+    "version": "v1.5.0",
+    "updated_at": "2026-04-01T11:52:37Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -5896,7 +5896,7 @@
     "category": "entertainment",
     "stars": 36,
     "version": "2.4.12",
-    "updated_at": "2026-03-30T18:26:36Z",
+    "updated_at": "2026-04-01T11:20:16Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
