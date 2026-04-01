@@ -182,9 +182,9 @@
       "星露谷物语",
       "攻略查询"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-03-30T06:37:55Z",
+    "updated_at": "2026-04-01T15:59:03Z",
     "logo": "https://raw.githubusercontent.com/hanhanpig3/astrbot_plugin_stardewvalleywiki/main/logo.png"
   },
   "astrbot-plugin-lark-richpost": {
@@ -939,9 +939,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 281,
+    "stars": 282,
     "version": "v4.9.11",
-    "updated_at": "2026-04-01T14:19:17Z",
+    "updated_at": "2026-04-01T16:45:48Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1757,9 +1757,9 @@
     ],
     "social_link": "https://github.com/RichardLiuda",
     "category": "utilities",
-    "stars": 14,
+    "stars": 15,
     "version": "v2.1.1",
-    "updated_at": "2026-03-31T16:54:54Z",
+    "updated_at": "2026-04-01T16:13:38Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -2747,9 +2747,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 96,
+    "stars": 97,
     "version": "v2.0.6",
-    "updated_at": "2026-04-01T14:44:26Z",
+    "updated_at": "2026-04-01T16:07:48Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -3920,9 +3920,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 281,
+    "stars": 282,
     "version": "v4.9.11",
-    "updated_at": "2026-04-01T14:19:17Z",
+    "updated_at": "2026-04-01T16:45:48Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -5341,9 +5341,9 @@
       "人格"
     ],
     "category": "ai_tools",
-    "stars": 91,
+    "stars": 92,
     "version": "1.3.9",
-    "updated_at": "2026-03-31T14:37:25Z",
+    "updated_at": "2026-04-01T15:27:58Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -9046,8 +9046,8 @@
     "category": "entertainment",
     "tags": [],
     "stars": 54,
-    "version": "v2.6.9",
-    "updated_at": "2026-03-26T18:01:46Z"
+    "version": "v2.7.0",
+    "updated_at": "2026-04-01T16:06:42Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
