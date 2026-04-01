@@ -119,9 +119,9 @@
       "查询工具"
     ],
     "social_link": "https://github.com/i12cu4",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-03-28T07:05:51Z",
+    "updated_at": "2026-04-01T04:04:01Z",
     "logo": "https://raw.githubusercontent.com/i12cu4/astrbot_plugin_HonorOfKings/master/logo.png"
   },
   "VehP/astrbot-plugin-splatoon3": {
@@ -274,7 +274,7 @@
     "social_link": "https://github.com/MIKOvOKM",
     "stars": 0,
     "version": "v1.0.0",
-    "updated_at": "2026-03-26T00:38:47Z"
+    "updated_at": "2026-04-01T04:25:54Z"
   },
   "astrbot-plugin-welcome-verification": {
     "display_name": "入群欢迎与验证",
@@ -287,8 +287,8 @@
     ],
     "social_link": "https://github.com/oujunhaoyueling",
     "stars": 0,
-    "version": "1.1.0",
-    "updated_at": "2026-03-30T07:25:52Z"
+    "version": "1.2.0",
+    "updated_at": "2026-04-01T04:13:30Z"
   },
   "astrbot-plugin-central-intelligence": {
     "display_name": "Central Intelligence 记忆服务",
@@ -939,9 +939,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 279,
+    "stars": 278,
     "version": "v4.9.10",
-    "updated_at": "2026-03-31T15:55:30Z",
+    "updated_at": "2026-04-01T03:52:45Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -3236,9 +3236,9 @@
     ],
     "social_link": "https://github.com/piexian",
     "category": "ai_tools",
-    "stars": 12,
+    "stars": 13,
     "version": "v1.3.0",
-    "updated_at": "2026-03-25T12:47:12Z",
+    "updated_at": "2026-04-01T04:44:53Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_grok_web_search/master/logo.png"
   },
   "astrbot_plugin_fake_ai_watermark": {
@@ -3920,9 +3920,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 279,
+    "stars": 278,
     "version": "v4.9.10",
-    "updated_at": "2026-03-31T15:55:30Z",
+    "updated_at": "2026-04-01T03:52:45Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -4570,9 +4570,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 240,
+    "stars": 239,
     "version": "Next-2.0.6",
-    "updated_at": "2026-03-31T21:18:50Z",
+    "updated_at": "2026-04-01T03:52:46Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -6319,7 +6319,7 @@
     "category": "utilities",
     "stars": 4,
     "version": "v1.3.3",
-    "updated_at": "2026-03-25T17:31:57Z",
+    "updated_at": "2026-04-01T05:14:59Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_video_analysis/master/logo.png"
   },
   "astrbot_plugin_image_generation": {
@@ -14509,9 +14509,9 @@
     ],
     "pinned": true,
     "category": "entertainment",
-    "stars": 211,
+    "stars": 212,
     "version": "v3.19",
-    "updated_at": "2026-03-31T10:22:20Z"
+    "updated_at": "2026-04-01T03:49:28Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
