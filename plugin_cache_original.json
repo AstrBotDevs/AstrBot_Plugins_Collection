@@ -156,8 +156,8 @@
       "检测"
     ],
     "stars": 2,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-29T11:22:15Z"
+    "version": "v1.1.1",
+    "updated_at": "2026-04-01T06:48:47Z"
   },
   "astrbot-plugin-regex-blocker": {
     "display_name": "正则消息屏蔽器",
@@ -736,9 +736,9 @@
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
     "category": "entertainment",
-    "stars": 8,
+    "stars": 10,
     "version": "1.2.0",
-    "updated_at": "2026-03-29T05:50:24Z",
+    "updated_at": "2026-04-01T06:57:50Z",
     "logo": "https://raw.githubusercontent.com/Sisyphbaous-DT-Project/astrbot_plugin_what_to_eat/main/logo.png"
   },
   "astrbot-plugin-HD2-daily-report": {
@@ -939,9 +939,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 278,
+    "stars": 279,
     "version": "v4.9.10",
-    "updated_at": "2026-04-01T03:52:45Z",
+    "updated_at": "2026-04-01T06:05:57Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -3920,9 +3920,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 278,
+    "stars": 279,
     "version": "v4.9.10",
-    "updated_at": "2026-04-01T03:52:45Z",
+    "updated_at": "2026-04-01T06:05:57Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -4657,9 +4657,9 @@
     ],
     "social_link": "https://github.com/Clhikari",
     "category": "productivity",
-    "stars": 18,
+    "stars": 19,
     "version": "v1.4.3",
-    "updated_at": "2026-03-30T13:48:53Z",
+    "updated_at": "2026-04-01T05:27:48Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
