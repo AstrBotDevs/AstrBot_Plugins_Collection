@@ -13,9 +13,9 @@
       "外部集成"
     ],
     "social_link": "https://github.com/SodaCodeSave",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.1.1",
-    "updated_at": "2026-04-01T12:29:24Z",
+    "updated_at": "2026-04-01T18:29:10Z",
     "logo": "https://raw.githubusercontent.com/SodaCodeSave/astrbot_plugin_biliread/master/logo.png"
   },
   "astrbot-plugin-DUT-Notices": {
@@ -3837,9 +3837,9 @@
     ],
     "social_link": "https://github.com/VanillaNahida",
     "category": "utilities",
-    "stars": 2,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-03-13T17:26:33Z",
+    "updated_at": "2026-04-01T17:56:27Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_auto_clean_member/master/logo.png"
   },
   "astrbot_plugin_judge": {
@@ -4689,9 +4689,9 @@
     ],
     "social_link": "https://github.com/stevessr",
     "category": "integrations",
-    "stars": 13,
+    "stars": 14,
     "version": "0.3.5",
-    "updated_at": "2026-04-01T07:41:39Z",
+    "updated_at": "2026-04-01T19:00:44Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_url_image_auto": {
@@ -6274,8 +6274,8 @@
     ],
     "category": "entertainment",
     "stars": 1,
-    "version": "v1.4.1",
-    "updated_at": "2026-03-23T06:23:51Z",
+    "version": "v1.4.2",
+    "updated_at": "2026-04-01T18:13:55Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_CloudImg/master/logo.png"
   },
   "astrbot_plugin_aicu_analysis": {
@@ -9046,8 +9046,8 @@
     "category": "entertainment",
     "tags": [],
     "stars": 54,
-    "version": "v2.7.1",
-    "updated_at": "2026-04-01T17:27:31Z"
+    "version": "v2.7.2",
+    "updated_at": "2026-04-01T18:27:00Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
