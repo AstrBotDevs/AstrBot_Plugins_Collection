@@ -13,9 +13,9 @@
       "外部集成"
     ],
     "social_link": "https://github.com/SodaCodeSave",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.1.1",
-    "updated_at": "2026-04-01T09:02:17Z",
+    "updated_at": "2026-04-01T10:50:57Z",
     "logo": "https://raw.githubusercontent.com/SodaCodeSave/astrbot_plugin_biliread/master/logo.png"
   },
   "astrbot-plugin-DUT-Notices": {
@@ -939,9 +939,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 279,
+    "stars": 280,
     "version": "v4.9.10",
-    "updated_at": "2026-04-01T06:05:57Z",
+    "updated_at": "2026-04-01T10:23:56Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1557,7 +1557,7 @@
     "category": "ai_tools",
     "stars": 21,
     "version": "v1.2.3",
-    "updated_at": "2026-03-31T16:07:23Z",
+    "updated_at": "2026-04-01T09:43:12Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
@@ -2747,9 +2747,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 93,
+    "stars": 95,
     "version": "v2.0.6",
-    "updated_at": "2026-03-31T14:39:10Z",
+    "updated_at": "2026-04-01T09:18:57Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -3920,9 +3920,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 279,
+    "stars": 280,
     "version": "v4.9.10",
-    "updated_at": "2026-04-01T06:05:57Z",
+    "updated_at": "2026-04-01T10:23:56Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -4251,9 +4251,9 @@
       "自动回复"
     ],
     "category": "utilities",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.3.0",
-    "updated_at": "2026-03-26T07:08:58Z",
+    "updated_at": "2026-04-01T09:42:54Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_keywords_reply/master/logo.png"
   },
   "astrbot_plugin_text2img": {
@@ -4377,9 +4377,9 @@
       "余额"
     ],
     "category": "ai_tools",
-    "stars": 3,
+    "stars": 4,
     "version": "v0.3.0",
-    "updated_at": "2026-03-27T15:21:49Z"
+    "updated_at": "2026-04-01T09:24:18Z"
   },
   "astrbot_plugin_PersonaFlow": {
     "display_name": "astrbot_plugin_PersonaFlow",
@@ -4570,9 +4570,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 239,
+    "stars": 240,
     "version": "Next-2.0.6",
-    "updated_at": "2026-04-01T03:52:46Z",
+    "updated_at": "2026-04-01T10:25:41Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -6383,7 +6383,7 @@
     "category": "ai_tools",
     "stars": 27,
     "version": "1.5.4",
-    "updated_at": "2026-04-01T08:58:24Z",
+    "updated_at": "2026-04-01T09:09:22Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/main/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -14135,7 +14135,7 @@
     "category": "utilities",
     "stars": 75,
     "version": "0.3.0",
-    "updated_at": "2026-03-27T11:27:57Z"
+    "updated_at": "2026-04-01T10:01:29Z"
   },
   "astrbot_plugin_sjzb": {
     "desc": "随机生成《绝地潜兵2》游戏中一组 4 个战备配置",
