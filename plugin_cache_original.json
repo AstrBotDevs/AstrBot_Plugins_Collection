@@ -4365,7 +4365,7 @@
     "category": "entertainment",
     "stars": 13,
     "version": "v2.2",
-    "updated_at": "2026-03-24T06:35:43Z",
+    "updated_at": "2026-04-01T22:45:35Z",
     "logo": "https://raw.githubusercontent.com/kennylimz/astrbot_plugin_mudae_qq/main/logo.png"
   },
   "BUGJI/astrbot_plugin_balance": {
@@ -11653,7 +11653,7 @@
     "category": "integrations",
     "stars": 69,
     "version": "2.2.0",
-    "updated_at": "2026-03-31T14:37:26Z",
+    "updated_at": "2026-04-01T23:00:08Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -13540,9 +13540,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 11,
+    "stars": 10,
     "version": "v1.1.3",
-    "updated_at": "2026-03-21T03:13:03Z",
+    "updated_at": "2026-04-01T23:12:20Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqprofile/main/logo.png"
   },
   "astrbot_plugin_mcping": {
