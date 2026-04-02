@@ -1,4 +1,14 @@
 {
+  "astrbot-plugin-astralparty": {
+    "display_name": "《吉星派对》随机角色地图",
+    "desc": "随机抽取游戏《吉星派对》中的地图和角色。",
+    "author": "aurora4123",
+    "repo": "https://github.com/Aurora4123/astrbot_plugin_astralparty",
+    "tags": [],
+    "stars": 0,
+    "version": "v1.0",
+    "updated_at": "2026-04-01T13:09:40Z"
+  },
   "astrbot-plugin-biliread": {
     "display_name": "BiliRead - 让 AI 真正看懂 B 站视频",
     "desc": "告别机械式的视频大纲复制，让你的 AstrBot 拥有真正“看懂” B 站视频的能力。",
@@ -1789,8 +1799,8 @@
     "social_link": "https://github.com/menglimi",
     "category": "ai_tools",
     "stars": 30,
-    "version": "2.9.1",
-    "updated_at": "2026-03-31T13:36:29Z",
+    "version": "2.9.2",
+    "updated_at": "2026-04-02T03:45:15Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -3565,8 +3575,8 @@
     ],
     "category": "utilities",
     "stars": 7,
-    "version": "v0.1.4",
-    "updated_at": "2026-03-29T13:46:00Z"
+    "version": "v0.2.0",
+    "updated_at": "2026-04-02T03:08:02Z"
   },
   "astrbot_plugin_skland": {
     "display_name": "森空岛签到",
@@ -5341,9 +5351,9 @@
       "人格"
     ],
     "category": "ai_tools",
-    "stars": 92,
+    "stars": 93,
     "version": "1.3.9",
-    "updated_at": "2026-04-01T15:27:58Z",
+    "updated_at": "2026-04-02T05:01:16Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -9046,8 +9056,8 @@
     "category": "entertainment",
     "tags": [],
     "stars": 54,
-    "version": "v2.7.2",
-    "updated_at": "2026-04-01T18:27:00Z"
+    "version": "v2.7.3",
+    "updated_at": "2026-04-02T04:41:57Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -11603,9 +11613,9 @@
     "social_link": "https://github.com/Niloux",
     "repo": "https://github.com/Niloux/astrbot_plugin_cook",
     "category": "productivity",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.0",
-    "updated_at": "2026-01-29T12:03:41Z"
+    "updated_at": "2026-04-02T02:34:12Z"
   },
   "astrbot_plugin_galinfo": {
     "author": "Hxfrzc",
