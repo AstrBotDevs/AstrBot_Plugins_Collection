@@ -15,7 +15,7 @@
     "social_link": "https://github.com/SodaCodeSave",
     "stars": 5,
     "version": "v1.1.1",
-    "updated_at": "2026-04-01T18:29:10Z",
+    "updated_at": "2026-04-02T02:11:35Z",
     "logo": "https://raw.githubusercontent.com/SodaCodeSave/astrbot_plugin_biliread/master/logo.png"
   },
   "astrbot-plugin-DUT-Notices": {
@@ -519,9 +519,9 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "category": "entertainment",
-    "stars": 16,
+    "stars": 17,
     "version": "v2.5.6",
-    "updated_at": "2026-03-31T17:54:55Z",
+    "updated_at": "2026-04-02T01:45:35Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot_plugin_atrifeed/main/logo.png"
   },
   "astrbot-plugin-self-open-llm-vtuber": {
@@ -1524,8 +1524,8 @@
     "category": "ai_tools",
     "tags": [],
     "stars": 44,
-    "version": "Ver 4.1.1",
-    "updated_at": "2026-04-01T13:14:12Z"
+    "version": "Ver 4.1.2",
+    "updated_at": "2026-04-02T02:27:13Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -1555,9 +1555,9 @@
     ],
     "social_link": "https://github.com/olozhika/",
     "category": "ai_tools",
-    "stars": 21,
+    "stars": 22,
     "version": "v1.2.3",
-    "updated_at": "2026-04-01T09:43:12Z",
+    "updated_at": "2026-04-02T01:57:20Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
