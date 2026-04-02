@@ -237,8 +237,8 @@
       "vrchat"
     ],
     "stars": 2,
-    "version": "0.1.3",
-    "updated_at": "2026-04-01T12:33:36Z"
+    "version": "0.1.4",
+    "updated_at": "2026-04-02T12:51:08Z"
   },
   "astrbot-plugin-lyubishchev": {
     "display_name": "柳比歇夫时间管理插件",
@@ -460,9 +460,9 @@
       "私聊",
       "群聊"
     ],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.0",
-    "updated_at": "2026-03-29T05:57:05Z"
+    "updated_at": "2026-04-02T12:21:28Z"
   },
   "astrbot-plugin-dida365": {
     "display_name": "滴答清单连接器",
@@ -697,9 +697,9 @@
     ],
     "social_link": "https://github.com/gudzpoz/",
     "category": "productivity",
-    "stars": 1,
+    "stars": 2,
     "version": "v0.1.0",
-    "updated_at": "2026-03-20T08:32:59Z",
+    "updated_at": "2026-04-02T12:40:35Z",
     "logo": "https://raw.githubusercontent.com/gudzpoz/astrbot_plugin_rss_tool/master/logo.png"
   },
   "astrbot-plugin-ts3-tracker": {
@@ -976,9 +976,9 @@
     "social_link": "www.alienstar.icu",
     "category": "utilities",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.0",
-    "updated_at": "2026-03-21T17:49:13Z"
+    "updated_at": "2026-04-02T11:58:31Z"
   },
   "astrbot-plugin-Lumi-Hub-plugin": {
     "display_name": "Lumi-Hub-plugin",
@@ -1598,9 +1598,9 @@
       "全局记忆"
     ],
     "category": "ai_tools",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.1.0",
-    "updated_at": "2026-04-02T09:20:17Z"
+    "updated_at": "2026-04-02T12:21:33Z"
   },
   "astrbot-plugin-memory": {
     "display_name": "astrbot_plugin_memory",
@@ -1655,9 +1655,9 @@
     "repo": "https://github.com/xxofficial/astrbot_plugin_daily_ai_news",
     "category": "productivity",
     "tags": [],
-    "stars": 9,
+    "stars": 10,
     "version": "1.01",
-    "updated_at": "2026-03-31T07:29:57Z"
+    "updated_at": "2026-04-02T12:43:02Z"
   },
   "astrbot-plugin-Grok2API Token": {
     "display_name": "Grok2API Token",
@@ -2121,7 +2121,7 @@
     "category": "ai_tools",
     "stars": 16,
     "version": "0.2.4",
-    "updated_at": "2026-04-02T07:14:28Z"
+    "updated_at": "2026-04-02T12:21:08Z"
   },
   "astrbot-plugin-biliVideo": {
     "display_name": "哔哩哔哩视频总结",
@@ -4150,9 +4150,9 @@
     ],
     "social_link": "https://github.com/KonmaKanSinPack",
     "category": "ai_tools",
-    "stars": 8,
-    "version": "v1.3.0",
-    "updated_at": "2026-03-31T10:19:04Z"
+    "stars": 9,
+    "version": "v1.3.1",
+    "updated_at": "2026-04-02T13:01:51Z"
   },
   "astrbot_plugin_engram": {
     "display_name": "仿生双轨记忆系统",
@@ -4221,9 +4221,9 @@
     ],
     "social_link": "https://github.com/DITF16",
     "category": "ai_tools",
-    "stars": 54,
+    "stars": 55,
     "version": "1.1.1",
-    "updated_at": "2026-03-31T14:37:29Z",
+    "updated_at": "2026-04-02T12:46:30Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_groupGuard": {
@@ -4668,8 +4668,8 @@
     "social_link": "https://github.com/Clhikari",
     "category": "productivity",
     "stars": 19,
-    "version": "v1.5.0",
-    "updated_at": "2026-04-02T08:00:39Z",
+    "version": "v1.5.1",
+    "updated_at": "2026-04-02T12:28:56Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -5904,9 +5904,9 @@
       "表情"
     ],
     "category": "entertainment",
-    "stars": 36,
+    "stars": 35,
     "version": "2.4.14",
-    "updated_at": "2026-04-02T09:43:52Z",
+    "updated_at": "2026-04-02T12:26:14Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -7726,8 +7726,8 @@
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
     "stars": 164,
-    "version": "v1.2.1",
-    "updated_at": "2026-04-02T09:19:44Z",
+    "version": "v1.2.2",
+    "updated_at": "2026-04-02T12:44:33Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -9431,9 +9431,9 @@
     "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
     "category": "ai_tools",
     "tags": [],
-    "stars": 45,
+    "stars": 46,
     "version": "v1.0.4",
-    "updated_at": "2026-03-31T14:29:06Z"
+    "updated_at": "2026-04-02T13:11:03Z"
   },
   "astrbot_plugin_vtb_adapter": {
     "desc": "用于连接 AstrBot 与 Open LLM Vtuber，除安装插件外还需要修改 Open LLM Vtuber 中的相关文件",
@@ -10049,9 +10049,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "integrations",
-    "stars": 101,
+    "stars": 102,
     "version": "v3.0.4",
-    "updated_at": "2026-04-01T08:41:17Z",
+    "updated_at": "2026-04-02T11:53:29Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
