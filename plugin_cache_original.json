@@ -78,7 +78,8 @@
     "social_link": "https://github.com/YYY7C",
     "stars": 3,
     "version": "1.1.0",
-    "updated_at": "2026-04-02T14:15:46Z"
+    "updated_at": "2026-04-02T16:01:54Z",
+    "logo": "https://raw.githubusercontent.com/YYY7C/TradingAgents-AstrBot/main/logo.png"
   },
   "astrbot-plugin-sts2-data": {
     "display_name": "STS2 Data",
@@ -90,9 +91,9 @@
       "查询工具"
     ],
     "social_link": "https://github.com/YuWan886",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.3.2",
-    "updated_at": "2026-03-30T15:06:37Z"
+    "updated_at": "2026-04-02T15:09:16Z"
   },
   "astrbot-plugin-zhuaxiaba": {
     "display_name": "贴吧抓虾吧插件",
@@ -1799,8 +1800,8 @@
     "social_link": "https://github.com/menglimi",
     "category": "ai_tools",
     "stars": 30,
-    "version": "2.9.2",
-    "updated_at": "2026-04-02T03:45:15Z",
+    "version": "2.9.3",
+    "updated_at": "2026-04-02T15:19:40Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -3009,9 +3010,9 @@
       "codegen"
     ],
     "category": "ai_tools",
-    "stars": 40,
+    "stars": 41,
     "version": "1.1.1",
-    "updated_at": "2026-03-31T14:00:56Z",
+    "updated_at": "2026-04-02T15:10:27Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -4580,9 +4581,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 241,
+    "stars": 242,
     "version": "Next-2.0.6",
-    "updated_at": "2026-04-02T06:35:35Z",
+    "updated_at": "2026-04-02T15:11:23Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -9783,9 +9784,9 @@
     ],
     "social_link": "https://github.com/Futureppo",
     "category": "integrations",
-    "stars": 11,
+    "stars": 12,
     "version": "v1.0.3",
-    "updated_at": "2026-03-17T15:39:13Z",
+    "updated_at": "2026-04-02T14:59:36Z",
     "logo": "https://raw.githubusercontent.com/Futureppo/astrbot_plugin_Xiaomi_BandProMax/main/logo.png"
   },
   "astrbot_plugin_immersive_control": {
@@ -13087,9 +13088,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_gallery",
     "category": "utilities",
-    "stars": 26,
+    "stars": 27,
     "version": "v2.1.0",
-    "updated_at": "2026-03-30T06:40:36Z",
+    "updated_at": "2026-04-02T15:16:10Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_gallery/main/logo.png"
   },
   "astrbot_plugin_sensoji_pro": {
