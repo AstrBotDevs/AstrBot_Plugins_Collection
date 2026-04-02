@@ -76,9 +76,9 @@
       "股票"
     ],
     "social_link": "https://github.com/YYY7C",
-    "stars": 2,
+    "stars": 3,
     "version": "1.0.0",
-    "updated_at": "2026-04-01T15:01:56Z"
+    "updated_at": "2026-04-02T10:14:38Z"
   },
   "astrbot-plugin-sts2-data": {
     "display_name": "STS2 Data",
@@ -298,7 +298,7 @@
     "social_link": "https://github.com/oujunhaoyueling",
     "stars": 0,
     "version": "1.2.0",
-    "updated_at": "2026-04-01T04:13:30Z"
+    "updated_at": "2026-04-02T11:01:30Z"
   },
   "astrbot-plugin-central-intelligence": {
     "display_name": "Central Intelligence 记忆服务",
@@ -949,9 +949,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 284,
+    "stars": 285,
     "version": "v4.9.12",
-    "updated_at": "2026-04-02T09:52:54Z",
+    "updated_at": "2026-04-02T11:24:55Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -2757,9 +2757,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 99,
+    "stars": 101,
     "version": "v2.0.6",
-    "updated_at": "2026-04-02T08:40:07Z",
+    "updated_at": "2026-04-02T11:21:53Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -3930,9 +3930,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 284,
+    "stars": 285,
     "version": "v4.9.12",
-    "updated_at": "2026-04-02T09:52:54Z",
+    "updated_at": "2026-04-02T11:24:55Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -6051,9 +6051,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
-    "stars": 67,
+    "stars": 66,
     "version": "v4.2.24",
-    "updated_at": "2026-03-31T15:51:39Z",
+    "updated_at": "2026-04-02T10:24:15Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -13621,9 +13621,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
     "category": "integrations",
-    "stars": 75,
+    "stars": 76,
     "version": "v3.1.0",
-    "updated_at": "2026-04-02T09:30:56Z",
+    "updated_at": "2026-04-02T11:11:15Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
@@ -14405,9 +14405,9 @@
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
     "category": "ai_tools",
-    "stars": 115,
+    "stars": 116,
     "version": "v2.1.11",
-    "updated_at": "2026-03-31T14:36:41Z"
+    "updated_at": "2026-04-02T11:29:14Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
