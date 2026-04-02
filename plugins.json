@@ -1,4 +1,10 @@
 {
+  "astrbot-plugin-astralparty": {
+    "display_name": "《吉星派对》随机角色地图",
+    "desc": "随机抽取游戏《吉星派对》中的地图和角色。",
+    "author": "aurora4123",
+    "repo": "https://github.com/Aurora4123/astrbot_plugin_astralparty"
+  },
   "astrbot-plugin-biliread": {
     "display_name": "BiliRead - 让 AI 真正看懂 B 站视频",
     "desc": "告别机械式的视频大纲复制，让你的 AstrBot 拥有真正“看懂” B 站视频的能力。",
