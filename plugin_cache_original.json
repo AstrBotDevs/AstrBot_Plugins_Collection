@@ -952,7 +952,7 @@
     "category": "productivity",
     "stars": 286,
     "version": "v4.9.12",
-    "updated_at": "2026-04-02T13:53:48Z",
+    "updated_at": "2026-04-02T17:20:02Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1801,7 +1801,7 @@
     "category": "ai_tools",
     "stars": 30,
     "version": "2.9.3",
-    "updated_at": "2026-04-02T15:19:40Z",
+    "updated_at": "2026-04-02T16:27:41Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -1952,7 +1952,7 @@
     "tags": [],
     "stars": 6,
     "version": "v1.0.4",
-    "updated_at": "2026-04-02T14:25:34Z",
+    "updated_at": "2026-04-02T17:49:05Z",
     "logo": "https://raw.githubusercontent.com/zoffyultraman/astrbot_plugin_manbo-tts/main/logo.png"
   },
   "astrbot-plugin-steammod-monitor": {
@@ -3933,7 +3933,7 @@
     "category": "utilities",
     "stars": 286,
     "version": "v4.9.12",
-    "updated_at": "2026-04-02T13:53:48Z",
+    "updated_at": "2026-04-02T17:20:02Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -5262,9 +5262,9 @@
     ],
     "social_link": "https://github.com/MegSopern",
     "category": "entertainment",
-    "stars": 27,
+    "stars": 28,
     "version": "1.2.0",
-    "updated_at": "2026-04-02T06:35:39Z",
+    "updated_at": "2026-04-02T16:19:12Z",
     "logo": "https://raw.githubusercontent.com/MegSopern/astrbot_plugin_rollpig/main/logo.png"
   },
   "astrbot_plugin_big_banana": {
@@ -5441,8 +5441,8 @@
     ],
     "category": "productivity",
     "stars": 5,
-    "version": "v1.4.1",
-    "updated_at": "2026-03-30T08:21:17Z",
+    "version": "v1.4.2",
+    "updated_at": "2026-04-02T17:29:03Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_reminder/master/logo.png"
   },
   "astrbot_plugin_binance": {
@@ -5941,9 +5941,9 @@
     ],
     "social_link": "https://github.com/sl251",
     "category": "ai_tools",
-    "stars": 14,
+    "stars": 15,
     "version": "1.2.0",
-    "updated_at": "2026-03-25T10:35:58Z",
+    "updated_at": "2026-04-02T16:25:16Z",
     "logo": "https://raw.githubusercontent.com/sl251/astrbot_plugin_e2b_sandbox/main/logo.png"
   },
   "astrbot_plugin_disaster_warning": {
