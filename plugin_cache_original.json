@@ -282,9 +282,9 @@
       "WOL"
     ],
     "social_link": "https://github.com/MIKOvOKM",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-04-01T04:25:54Z"
+    "updated_at": "2026-04-02T07:51:02Z"
   },
   "astrbot-plugin-welcome-verification": {
     "display_name": "入群欢迎与验证",
@@ -949,9 +949,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 283,
+    "stars": 284,
     "version": "v4.9.11",
-    "updated_at": "2026-04-02T05:04:10Z",
+    "updated_at": "2026-04-02T08:40:45Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1375,9 +1375,9 @@
       "数据查询"
     ],
     "category": "entertainment",
-    "stars": 30,
+    "stars": 31,
     "version": "2.7.0",
-    "updated_at": "2026-04-02T06:37:58Z",
+    "updated_at": "2026-04-02T08:21:13Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -1565,9 +1565,9 @@
     ],
     "social_link": "https://github.com/olozhika/",
     "category": "ai_tools",
-    "stars": 22,
+    "stars": 21,
     "version": "v1.2.3",
-    "updated_at": "2026-04-02T01:57:20Z",
+    "updated_at": "2026-04-02T07:51:14Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
@@ -1895,8 +1895,8 @@
     "social_link": "https://github.com/DNTOF",
     "category": "entertainment",
     "stars": 2,
-    "version": "v1.0.1",
-    "updated_at": "2026-03-22T07:41:49Z"
+    "version": "v1.0.2",
+    "updated_at": "2026-04-02T08:31:10Z"
   },
   "astrbot-plugin-sky": {
     "display_name": "sky光遇助手",
@@ -2757,9 +2757,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 98,
+    "stars": 99,
     "version": "v2.0.6",
-    "updated_at": "2026-04-01T16:58:28Z",
+    "updated_at": "2026-04-02T08:40:07Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -3930,9 +3930,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 283,
+    "stars": 284,
     "version": "v4.9.11",
-    "updated_at": "2026-04-02T05:04:10Z",
+    "updated_at": "2026-04-02T08:40:45Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -4669,7 +4669,7 @@
     "category": "productivity",
     "stars": 19,
     "version": "v1.5.0",
-    "updated_at": "2026-04-01T11:52:37Z",
+    "updated_at": "2026-04-02T08:00:39Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -5905,8 +5905,8 @@
     ],
     "category": "entertainment",
     "stars": 36,
-    "version": "2.4.13",
-    "updated_at": "2026-04-01T19:33:41Z",
+    "version": "2.4.14",
+    "updated_at": "2026-04-02T08:54:07Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -6541,9 +6541,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "utilities",
-    "stars": 124,
+    "stars": 125,
     "version": "v2.3.0",
-    "updated_at": "2026-03-31T14:36:42Z",
+    "updated_at": "2026-04-02T07:27:18Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -10459,9 +10459,9 @@
       "主动回复"
     ],
     "category": "utilities",
-    "stars": 40,
+    "stars": 39,
     "version": "v2.0.0",
-    "updated_at": "2026-03-31T22:02:03Z",
+    "updated_at": "2026-04-02T07:42:03Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -15153,8 +15153,8 @@
     "category": "entertainment",
     "tags": [],
     "stars": 9,
-    "version": "v1.0.2",
-    "updated_at": "2026-02-11T16:14:11Z"
+    "version": "v1.0.4",
+    "updated_at": "2026-04-02T07:59:37Z"
   },
   "astrbot_plugin_AW": {
     "desc": "群老婆插件，记得点右上角帮助查看readme",
