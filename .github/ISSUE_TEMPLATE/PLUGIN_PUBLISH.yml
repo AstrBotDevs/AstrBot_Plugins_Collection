@@ -1,0 +1,57 @@
+name: 🥳 Plugin Publish
+description: Publish to market
+title: "[Plugin] YOUR PLUGIN NAME"
+labels: ["plugin-publish"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Welcome to publish your plugins to the plugin marketplace!
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Plugin info
+
+        Please fill in the plugin information in the JSON code block below. `tags` (plugin tags) and `social_link` (social links) are optional.
+
+        Unfamiliar with JSON? You can submit it from the bottom right corner of [this site](https://plugins.astrbot.app).
+
+  - type: textarea
+    id: plugin-info
+    attributes:
+      label: Plugin Info
+      description: Please fill in your plugin information in the code block below, making sure the JSON is wrapped in backticks.
+      value: |
+        ```json
+        {
+          "name": "Plugin Name",
+          "display_name": "Human-readable plugin display name",
+          "desc": "Plugin brief",
+          "author": "author",
+          "repo": "https://xxxx. DO NOT end with `.git`",
+          "tags": [],
+          "social_link": "",
+        }
+        ```
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ## check
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Check List
+      description: Please check:
+      options:
+        - label: My plugin has undergone thorough testing.
+          required: true
+        - label: My plugin does not contain malicious code.
+          required: true
+        - label: I have read and agree: [Code of Conduct](https://docs.github.com/zh/site-policy/github-terms/github-community-code-of-conduct)。
+          required: true
