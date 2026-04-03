@@ -53,5 +53,5 @@ body:
           required: true
         - label: My plugin does not contain malicious code.
           required: true
-        - label: I have read and agree: [Code of Conduct](https://docs.github.com/zh/site-policy/github-terms/github-community-code-of-conduct)。
+        - label: I have read and agree [Code of Conduct](https://docs.github.com/zh/site-policy/github-terms/github-community-code-of-conduct)。
           required: true
