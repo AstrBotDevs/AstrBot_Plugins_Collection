@@ -354,9 +354,9 @@
       "Cloudflare Tunnel"
     ],
     "social_link": "https://github.com/sctop",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.2.0",
-    "updated_at": "2026-03-29T10:03:37Z"
+    "updated_at": "2026-04-03T08:38:50Z"
   },
   "astrbot-plugin-apexrankwatch": {
     "display_name": "Apex Rank Watch",
@@ -868,9 +868,9 @@
     "tags": [],
     "social_link": "",
     "category": "ai_tools",
-    "stars": 26,
+    "stars": 27,
     "version": "1.1.1",
-    "updated_at": "2026-04-03T01:34:13Z",
+    "updated_at": "2026-04-03T07:28:59Z",
     "logo": "https://raw.githubusercontent.com/Kalospacer/astrbot_plugin_maid_agent/master/logo.png"
   },
   "astrbot-plugin-stoprushingiamtyping": {
@@ -1387,9 +1387,9 @@
       "数据查询"
     ],
     "category": "entertainment",
-    "stars": 31,
+    "stars": 32,
     "version": "2.7.0",
-    "updated_at": "2026-04-02T08:21:13Z",
+    "updated_at": "2026-04-03T07:14:37Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -1610,9 +1610,9 @@
       "全局记忆"
     ],
     "category": "ai_tools",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.1.0",
-    "updated_at": "2026-04-02T12:21:33Z"
+    "updated_at": "2026-04-03T08:14:08Z"
   },
   "astrbot-plugin-memory": {
     "display_name": "astrbot_plugin_memory",
@@ -1810,9 +1810,9 @@
     ],
     "social_link": "https://github.com/menglimi",
     "category": "ai_tools",
-    "stars": 30,
+    "stars": 31,
     "version": "2.9.3",
-    "updated_at": "2026-04-02T16:27:41Z",
+    "updated_at": "2026-04-03T08:00:55Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -2769,9 +2769,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 101,
+    "stars": 102,
     "version": "v2.0.6",
-    "updated_at": "2026-04-02T11:21:53Z",
+    "updated_at": "2026-04-03T07:41:43Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -4162,9 +4162,9 @@
     ],
     "social_link": "https://github.com/KonmaKanSinPack",
     "category": "ai_tools",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.3.1",
-    "updated_at": "2026-04-02T14:14:22Z"
+    "updated_at": "2026-04-03T07:29:19Z"
   },
   "astrbot_plugin_engram": {
     "display_name": "仿生双轨记忆系统",
@@ -4873,9 +4873,9 @@
     "repo": "https://github.com/xiaojuwa/astrbot_plugin_monixiuxian2",
     "category": "entertainment",
     "tags": [],
-    "stars": 10,
+    "stars": 11,
     "version": "v3.1.3",
-    "updated_at": "2026-03-22T11:23:59Z",
+    "updated_at": "2026-04-03T07:41:30Z",
     "logo": "https://raw.githubusercontent.com/xiaojuwa/astrbot_plugin_monixiuxian2/main/logo.png"
   },
   "astrbot_plugin_qymusic": {
@@ -5902,9 +5902,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "entertainment",
-    "stars": 18,
+    "stars": 19,
     "version": "v2.2.7",
-    "updated_at": "2026-03-19T15:12:00Z",
+    "updated_at": "2026-04-03T08:20:03Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_life_scheduler/main/logo.png"
   },
   "astrbot_plugin_stealer": {
@@ -6078,9 +6078,9 @@
       "gemini"
     ],
     "category": "ai_tools",
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.0",
-    "updated_at": "2026-02-17T02:46:33Z"
+    "updated_at": "2026-04-03T08:07:12Z"
   },
   "astrbot_plugin_chatsummary_v2": {
     "display_name": "群聊消息总结v2",
@@ -7411,9 +7411,9 @@
     ],
     "social_link": "https://github.com/Luna-channel",
     "category": "ai_tools",
-    "stars": 22,
+    "stars": 23,
     "version": "2.0.1",
-    "updated_at": "2026-03-28T18:58:10Z",
+    "updated_at": "2026-04-03T08:09:56Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_Conversa/main/logo.png"
   },
   "astrbot_plugin_shutdown": {
@@ -7737,9 +7737,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 165,
+    "stars": 166,
     "version": "v1.2.2",
-    "updated_at": "2026-04-03T06:55:40Z",
+    "updated_at": "2026-04-03T08:19:26Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -12638,9 +12638,9 @@
       "prompt"
     ],
     "category": "ai_tools",
-    "stars": 6,
+    "stars": 5,
     "version": "1.3.0",
-    "updated_at": "2026-03-19T15:51:03Z"
+    "updated_at": "2026-04-03T07:29:15Z"
   },
   "astrbot_plugin_MsgDistributor": {
     "author": "Dinggg",
@@ -14417,9 +14417,9 @@
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
     "category": "ai_tools",
-    "stars": 116,
+    "stars": 117,
     "version": "v2.1.11",
-    "updated_at": "2026-04-02T11:29:14Z"
+    "updated_at": "2026-04-03T08:53:52Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
