@@ -34,9 +34,9 @@
       "外部集成"
     ],
     "social_link": "https://github.com/SodaCodeSave",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.1.2",
-    "updated_at": "2026-04-03T06:47:12Z",
+    "updated_at": "2026-04-03T09:30:35Z",
     "logo": "https://raw.githubusercontent.com/SodaCodeSave/astrbot_plugin_biliread/master/logo.png"
   },
   "astrbot-plugin-DUT-Notices": {
@@ -59,9 +59,9 @@
       "更多主动功能"
     ],
     "social_link": "www.wyccotccy.cn",
-    "stars": 5,
+    "stars": 6,
     "version": "1.2.0",
-    "updated_at": "2026-04-01T14:33:03Z",
+    "updated_at": "2026-04-03T09:29:22Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -2131,9 +2131,9 @@
     ],
     "social_link": "https://axi404.top",
     "category": "ai_tools",
-    "stars": 16,
+    "stars": 17,
     "version": "0.2.4",
-    "updated_at": "2026-04-02T12:21:08Z"
+    "updated_at": "2026-04-03T09:29:07Z"
   },
   "astrbot-plugin-biliVideo": {
     "display_name": "哔哩哔哩视频总结",
@@ -4594,7 +4594,7 @@
     "category": "ai_tools",
     "stars": 242,
     "version": "Next-2.1.0",
-    "updated_at": "2026-04-02T18:23:40Z",
+    "updated_at": "2026-04-03T09:07:18Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -5492,9 +5492,9 @@
       "v1.0.0"
     ],
     "category": "ai_tools",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.4.0",
-    "updated_at": "2026-03-22T03:01:27Z"
+    "updated_at": "2026-04-03T09:30:23Z"
   },
   "astrbot_plugin_web_analysis": {
     "display_name": "网页解析",
@@ -5916,9 +5916,9 @@
       "表情"
     ],
     "category": "entertainment",
-    "stars": 35,
+    "stars": 36,
     "version": "2.4.14",
-    "updated_at": "2026-04-03T05:28:00Z",
+    "updated_at": "2026-04-03T09:31:51Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -8778,9 +8778,9 @@
     "repo": "https://github.com/EraAsh/astrbot_plugin_admin_emoji_reply",
     "category": "utilities",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.7.0",
-    "updated_at": "2026-01-12T11:19:33Z"
+    "updated_at": "2026-04-03T09:32:49Z"
   },
   "astrbot_plugin_dpcq_game": {
     "desc": "一个文字修仙游戏，基于经典小说《斗破苍穹》设定，包含境界突破、炼丹系统、副本挑战等丰富玩法",
@@ -12222,9 +12222,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 26,
+    "stars": 27,
     "version": "v2.0.0",
-    "updated_at": "2026-03-26T12:34:50Z",
+    "updated_at": "2026-04-03T09:33:42Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_emoji_like/main/logo.png"
   },
   "astrbot_plugin_lanraragi": {
@@ -15184,9 +15184,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "ai_tools",
     "tags": [],
-    "stars": 218,
+    "stars": 220,
     "version": "v2.1.3",
-    "updated_at": "2026-04-02T07:08:45Z"
+    "updated_at": "2026-04-03T09:03:46Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
