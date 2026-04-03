@@ -36,7 +36,7 @@
     "social_link": "https://github.com/SodaCodeSave",
     "stars": 10,
     "version": "v1.1.2",
-    "updated_at": "2026-04-03T09:30:35Z",
+    "updated_at": "2026-04-03T16:05:07Z",
     "logo": "https://raw.githubusercontent.com/SodaCodeSave/astrbot_plugin_biliread/master/logo.png"
   },
   "astrbot-plugin-DUT-Notices": {
@@ -88,8 +88,8 @@
     ],
     "social_link": "https://github.com/YYY7C",
     "stars": 3,
-    "version": "1.1.0",
-    "updated_at": "2026-04-02T16:01:54Z",
+    "version": "1.1.1",
+    "updated_at": "2026-04-03T16:26:56Z",
     "logo": "https://raw.githubusercontent.com/YYY7C/TradingAgents-AstrBot/main/logo.png"
   },
   "astrbot-plugin-sts2-data": {
@@ -616,9 +616,9 @@
     ],
     "social_link": "https://github.com/NayukiChiba",
     "category": "productivity",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.1",
-    "updated_at": "2026-03-22T06:49:03Z",
+    "updated_at": "2026-04-03T16:23:13Z",
     "logo": "https://raw.githubusercontent.com/NayukiChiba/astrbot_plugin_arxiv/master/logo.png"
   },
   "astrbot-plugin-cve-warning": {
@@ -1547,7 +1547,7 @@
     "tags": [],
     "stars": 44,
     "version": "Ver 5.1.0",
-    "updated_at": "2026-04-03T05:09:44Z"
+    "updated_at": "2026-04-03T16:06:05Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -11771,9 +11771,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 135,
+    "stars": 134,
     "version": "v2.0.9",
-    "updated_at": "2026-03-31T09:09:13Z",
+    "updated_at": "2026-04-03T16:28:30Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -14155,9 +14155,9 @@
     ],
     "social_link": "https://github.com/miaoxutao123/",
     "category": "utilities",
-    "stars": 75,
+    "stars": 74,
     "version": "0.3.0",
-    "updated_at": "2026-04-01T10:01:29Z"
+    "updated_at": "2026-04-03T15:47:32Z"
   },
   "astrbot_plugin_sjzb": {
     "desc": "随机生成《绝地潜兵2》游戏中一组 4 个战备配置",
