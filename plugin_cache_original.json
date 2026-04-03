@@ -1067,7 +1067,7 @@
     "tags": [],
     "stars": 0,
     "version": "v1.0.0",
-    "updated_at": "2026-03-14T20:31:16Z"
+    "updated_at": "2026-04-03T15:24:19Z"
   },
   "astrbot-plugin-mocode": {
     "display_name": "MoCode",
@@ -11171,9 +11171,9 @@
     "social_link": "https://github.com/railgun19457",
     "category": "utilities",
     "tags": [],
-    "stars": 7,
+    "stars": 8,
     "version": "v1.5.0",
-    "updated_at": "2026-03-28T14:58:09Z",
+    "updated_at": "2026-04-03T15:35:01Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_shutup/master/logo.png"
   },
   "astrbot_plugin_check-dst-room": {
