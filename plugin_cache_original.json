@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-read-local-image": {
+    "display_name": "Read Local Image",
+    "desc": "读取本地图片文件并使用 ImageContent 机制让 LLM 立即分析图片内容",
+    "author": "sunnyyang",
+    "repo": "https://github.com/sunnyyangyangyang/astrbot_plugin_read_local_image",
+    "tags": [],
+    "social_link": "",
+    "stars": 0,
+    "version": "1.6.0",
+    "updated_at": "2026-04-02T15:15:50Z"
+  },
   "astrbot-plugin-astralparty": {
     "display_name": "《吉星派对》随机角色地图",
     "desc": "随机抽取游戏《吉星派对》中的地图和角色。",
@@ -857,9 +868,9 @@
     "tags": [],
     "social_link": "",
     "category": "ai_tools",
-    "stars": 25,
+    "stars": 26,
     "version": "1.1.1",
-    "updated_at": "2026-03-30T07:12:22Z",
+    "updated_at": "2026-04-03T01:34:13Z",
     "logo": "https://raw.githubusercontent.com/Kalospacer/astrbot_plugin_maid_agent/master/logo.png"
   },
   "astrbot-plugin-stoprushingiamtyping": {
@@ -1535,8 +1546,8 @@
     "category": "ai_tools",
     "tags": [],
     "stars": 44,
-    "version": "Ver 4.1.2",
-    "updated_at": "2026-04-02T02:27:13Z"
+    "version": "Ver 5.0.0",
+    "updated_at": "2026-04-03T02:27:27Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -2063,9 +2074,9 @@
       "人物画像"
     ],
     "category": "ai_tools",
-    "stars": 30,
+    "stars": 31,
     "version": "v0.3.6",
-    "updated_at": "2026-04-01T02:43:30Z"
+    "updated_at": "2026-04-03T00:55:35Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -6052,9 +6063,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
-    "stars": 66,
+    "stars": 67,
     "version": "v4.2.24",
-    "updated_at": "2026-04-02T10:24:15Z",
+    "updated_at": "2026-04-03T02:22:32Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -9874,9 +9885,9 @@
       "运势"
     ],
     "category": "entertainment",
-    "stars": 19,
+    "stars": 20,
     "version": "v1.0.4",
-    "updated_at": "2026-03-26T13:24:44Z"
+    "updated_at": "2026-04-03T01:43:28Z"
   },
   "astrbot_plugin_wakepro": {
     "display_name": "唤醒增强",
@@ -10546,9 +10557,9 @@
       "监控"
     ],
     "category": "utilities",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.1",
-    "updated_at": "2026-01-16T18:22:25Z"
+    "updated_at": "2026-04-03T00:23:26Z"
   },
   "astrbot_plugin_scheduler": {
     "desc": "功能强大的通用定时任务调度插件，支持 Cron 表达式、间隔执行、条件执行等多种调度方式。提供可视化配置界面和任务创建向导。",
@@ -11316,9 +11327,9 @@
     ],
     "social_link": "https://github.com/oyxning",
     "category": "ai_tools",
-    "stars": 56,
+    "stars": 57,
     "version": "v3.5.1",
-    "updated_at": "2026-03-31T14:37:28Z",
+    "updated_at": "2026-04-03T02:05:46Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_antipromptinjector/master/logo.png"
   },
   "astrbot_plugin_alistfile": {
@@ -13882,7 +13893,7 @@
     "category": "entertainment",
     "stars": 97,
     "version": "v3.0.3",
-    "updated_at": "2026-03-29T01:58:11Z",
+    "updated_at": "2026-04-03T01:09:02Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
