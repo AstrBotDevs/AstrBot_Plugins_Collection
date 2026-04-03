@@ -4401,7 +4401,7 @@
     "category": "ai_tools",
     "stars": 4,
     "version": "v0.3.0",
-    "updated_at": "2026-04-01T09:24:18Z"
+    "updated_at": "2026-04-03T18:24:08Z"
   },
   "astrbot_plugin_PersonaFlow": {
     "display_name": "astrbot_plugin_PersonaFlow",
@@ -4679,9 +4679,9 @@
     ],
     "social_link": "https://github.com/Clhikari",
     "category": "productivity",
-    "stars": 19,
+    "stars": 20,
     "version": "v1.5.1",
-    "updated_at": "2026-04-02T12:28:56Z",
+    "updated_at": "2026-04-03T17:13:14Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -9863,7 +9863,7 @@
     "category": "entertainment",
     "stars": 4,
     "version": "v1.3.6",
-    "updated_at": "2026-02-24T14:28:41Z"
+    "updated_at": "2026-04-03T17:49:46Z"
   },
   "astrbot_plugin_xfbank": {
     "desc": "一个简易的银行插件",
