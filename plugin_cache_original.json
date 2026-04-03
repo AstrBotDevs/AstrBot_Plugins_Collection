@@ -4400,8 +4400,8 @@
     ],
     "category": "ai_tools",
     "stars": 4,
-    "version": "v0.3.0",
-    "updated_at": "2026-04-03T18:24:08Z"
+    "version": "v1.2.0",
+    "updated_at": "2026-04-03T21:30:59Z"
   },
   "astrbot_plugin_PersonaFlow": {
     "display_name": "astrbot_plugin_PersonaFlow",
@@ -4608,8 +4608,8 @@
     "social_link": "https://github.com/Li-shi-ling",
     "category": "entertainment",
     "stars": 5,
-    "version": "v1.2.0",
-    "updated_at": "2026-04-03T20:19:07Z"
+    "version": "v1.2.1",
+    "updated_at": "2026-04-03T20:51:14Z"
   },
   "astrbot_plugin_help_typst": {
     "display_name": "插件菜单(typst 实现)",
