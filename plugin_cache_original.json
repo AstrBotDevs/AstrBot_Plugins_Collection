@@ -34,9 +34,9 @@
       "外部集成"
     ],
     "social_link": "https://github.com/SodaCodeSave",
-    "stars": 5,
-    "version": "v1.1.1",
-    "updated_at": "2026-04-02T02:11:35Z",
+    "stars": 7,
+    "version": "v1.1.2",
+    "updated_at": "2026-04-03T04:53:20Z",
     "logo": "https://raw.githubusercontent.com/SodaCodeSave/astrbot_plugin_biliread/master/logo.png"
   },
   "astrbot-plugin-DUT-Notices": {
@@ -961,9 +961,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 285,
+    "stars": 286,
     "version": "v4.9.12",
-    "updated_at": "2026-04-02T19:56:45Z",
+    "updated_at": "2026-04-03T02:50:04Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1546,8 +1546,8 @@
     "category": "ai_tools",
     "tags": [],
     "stars": 44,
-    "version": "Ver 5.0.0",
-    "updated_at": "2026-04-03T02:27:27Z"
+    "version": "Ver 5.0.1",
+    "updated_at": "2026-04-03T03:59:59Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -1962,8 +1962,8 @@
     "category": "entertainment",
     "tags": [],
     "stars": 7,
-    "version": "v1.0.4",
-    "updated_at": "2026-04-02T18:55:05Z",
+    "version": "v1.0.6",
+    "updated_at": "2026-04-03T03:37:54Z",
     "logo": "https://raw.githubusercontent.com/zoffyultraman/astrbot_plugin_manbo-tts/main/logo.png"
   },
   "astrbot-plugin-steammod-monitor": {
@@ -3942,9 +3942,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 285,
+    "stars": 286,
     "version": "v4.9.12",
-    "updated_at": "2026-04-02T19:56:45Z",
+    "updated_at": "2026-04-03T02:50:04Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -4961,9 +4961,9 @@
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
     "category": "ai_tools",
-    "stars": 54,
+    "stars": 55,
     "version": "v1.1",
-    "updated_at": "2026-03-31T15:08:24Z"
+    "updated_at": "2026-04-03T04:38:57Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -5918,7 +5918,7 @@
     "category": "entertainment",
     "stars": 35,
     "version": "2.4.14",
-    "updated_at": "2026-04-02T12:26:14Z",
+    "updated_at": "2026-04-03T04:50:41Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -10558,8 +10558,8 @@
     ],
     "category": "utilities",
     "stars": 5,
-    "version": "v1.1",
-    "updated_at": "2026-04-03T00:23:26Z"
+    "version": "v2.0",
+    "updated_at": "2026-04-03T04:39:43Z"
   },
   "astrbot_plugin_scheduler": {
     "desc": "功能强大的通用定时任务调度插件，支持 Cron 表达式、间隔执行、条件执行等多种调度方式。提供可视化配置界面和任务创建向导。",
@@ -10659,7 +10659,7 @@
     "category": "entertainment",
     "stars": 7,
     "version": "v1.4",
-    "updated_at": "2026-03-23T18:35:50Z",
+    "updated_at": "2026-04-03T04:47:36Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_deer_check/master/logo.png"
   },
   "astrbot_plugin_pet": {
@@ -11673,9 +11673,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 69,
+    "stars": 70,
     "version": "2.2.0",
-    "updated_at": "2026-04-01T23:00:08Z",
+    "updated_at": "2026-04-03T02:44:54Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -12677,9 +12677,9 @@
     "social_link": "https://github.com/tinkerbellqwq",
     "category": "utilities",
     "tags": [],
-    "stars": 37,
+    "stars": 38,
     "version": "v1.1.3",
-    "updated_at": "2026-04-02T06:35:38Z"
+    "updated_at": "2026-04-03T03:16:17Z"
   },
   "astrbot_qqemotionreply": {
     "author": "QiChen",
@@ -14433,9 +14433,9 @@
       "图片"
     ],
     "category": "utilities",
-    "stars": 21,
+    "stars": 22,
     "version": "v1.8.8",
-    "updated_at": "2026-03-30T18:43:23Z",
+    "updated_at": "2026-04-03T05:03:03Z",
     "logo": "https://raw.githubusercontent.com/inori-3333/astrbot_plugin_steamshot/master/logo.png"
   },
   "astrbot_plugin_GGAC_Messenger": {
