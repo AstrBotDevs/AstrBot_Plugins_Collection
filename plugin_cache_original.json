@@ -59,9 +59,9 @@
       "更多主动功能"
     ],
     "social_link": "www.wyccotccy.cn",
-    "stars": 6,
+    "stars": 7,
     "version": "1.2.0",
-    "updated_at": "2026-04-03T09:29:22Z",
+    "updated_at": "2026-04-03T14:02:57Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -3023,7 +3023,7 @@
     "category": "ai_tools",
     "stars": 41,
     "version": "1.1.1",
-    "updated_at": "2026-04-03T10:23:39Z",
+    "updated_at": "2026-04-03T14:03:51Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -7645,8 +7645,8 @@
     ],
     "category": "entertainment",
     "stars": 9,
-    "version": "v0.8.3",
-    "updated_at": "2026-03-31T05:56:39Z",
+    "version": "v0.9.0",
+    "updated_at": "2026-04-03T13:26:39Z",
     "logo": "https://raw.githubusercontent.com/linjianyan0229/astrbot_plugin_monixiuxian/main/logo.png"
   },
   "astrbot_plugin_invitecount": {
