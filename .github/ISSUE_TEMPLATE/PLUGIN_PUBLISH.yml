@@ -47,7 +47,7 @@ body:
     id: checks
     attributes:
       label: Check List
-      description: Please check:
+      description: Please check below
       options:
         - label: My plugin has undergone thorough testing.
           required: true
