@@ -1,4 +1,12 @@
 {
+  "astrbot-plugin-read-local-image": {
+    "display_name": "Read Local Image",
+    "desc": "读取本地图片文件并使用 ImageContent 机制让 LLM 立即分析图片内容",
+    "author": "sunnyyang",
+    "repo": "https://github.com/sunnyyangyangyang/astrbot_plugin_read_local_image",
+    "tags": [],
+    "social_link": ""
+  },
   "astrbot-plugin-astralparty": {
     "display_name": "《吉星派对》随机角色地图",
     "desc": "随机抽取游戏《吉星派对》中的地图和角色。",
