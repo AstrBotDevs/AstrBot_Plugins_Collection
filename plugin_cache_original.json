@@ -3023,7 +3023,7 @@
     "category": "ai_tools",
     "stars": 41,
     "version": "1.1.1",
-    "updated_at": "2026-04-02T15:10:27Z",
+    "updated_at": "2026-04-03T10:23:39Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -4594,7 +4594,7 @@
     "category": "ai_tools",
     "stars": 242,
     "version": "Next-2.1.0",
-    "updated_at": "2026-04-03T09:07:18Z",
+    "updated_at": "2026-04-03T10:10:08Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -5718,8 +5718,8 @@
     "social_link": "https://github.com/huizhiLLL",
     "category": "entertainment",
     "stars": 3,
-    "version": "v1.1.2",
-    "updated_at": "2026-04-03T05:56:08Z",
+    "version": "v1.1.4",
+    "updated_at": "2026-04-03T10:10:54Z",
     "logo": "https://raw.githubusercontent.com/huizhiLLL/astrbot_plugin_wca/master/logo.png"
   },
   "astrbot_plugin_memos_integrator": {
