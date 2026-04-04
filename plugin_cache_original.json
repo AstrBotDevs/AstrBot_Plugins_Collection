@@ -961,9 +961,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 286,
+    "stars": 287,
     "version": "v4.9.13",
-    "updated_at": "2026-04-04T10:31:19Z",
+    "updated_at": "2026-04-04T11:02:38Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1504,7 +1504,7 @@
     "category": "utilities",
     "stars": 7,
     "version": "v1.3.0",
-    "updated_at": "2026-03-29T05:21:15Z",
+    "updated_at": "2026-04-04T11:29:42Z",
     "logo": "https://raw.githubusercontent.com/Waterwzy/astrbot_plugin_firefly_filter/master/logo.png"
   },
   "astrbot-plugin-cet6": {
@@ -1546,8 +1546,8 @@
     "category": "ai_tools",
     "tags": [],
     "stars": 44,
-    "version": "Ver 5.1.2",
-    "updated_at": "2026-04-04T09:32:08Z"
+    "version": "Ver 5.1.3",
+    "updated_at": "2026-04-04T10:46:39Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -1810,9 +1810,9 @@
     ],
     "social_link": "https://github.com/menglimi",
     "category": "ai_tools",
-    "stars": 31,
+    "stars": 32,
     "version": "2.9.3",
-    "updated_at": "2026-04-03T08:00:55Z",
+    "updated_at": "2026-04-04T11:07:50Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -1962,8 +1962,8 @@
     "category": "entertainment",
     "tags": [],
     "stars": 7,
-    "version": "v1.0.7",
-    "updated_at": "2026-04-04T04:46:08Z",
+    "version": "v1.0.8",
+    "updated_at": "2026-04-04T11:20:38Z",
     "logo": "https://raw.githubusercontent.com/zoffyultraman/astrbot_plugin_manbo-tts/main/logo.png"
   },
   "astrbot-plugin-steammod-monitor": {
@@ -2412,9 +2412,9 @@
     ],
     "social_link": "https://github.com/HSOS6",
     "category": "utilities",
-    "stars": 16,
+    "stars": 17,
     "version": "v1.4.0",
-    "updated_at": "2026-03-28T09:56:18Z",
+    "updated_at": "2026-04-04T11:18:45Z",
     "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_ssh/main/logo.png"
   },
   "astrbot-plugin-httpadapter": {
@@ -3942,9 +3942,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 286,
+    "stars": 287,
     "version": "v4.9.13",
-    "updated_at": "2026-04-04T10:31:19Z",
+    "updated_at": "2026-04-04T11:02:38Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -9232,9 +9232,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 127,
+    "stars": 128,
     "version": "2.2.4",
-    "updated_at": "2026-04-04T01:32:27Z",
+    "updated_at": "2026-04-04T11:30:11Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -13249,9 +13249,9 @@
       "AGE"
     ],
     "category": "entertainment",
-    "stars": 6,
+    "stars": 7,
     "version": "1.0.0",
-    "updated_at": "2025-12-18T07:31:26Z"
+    "updated_at": "2026-04-04T11:11:37Z"
   },
   "astrbot_plugin_media302-save": {
     "author": "Qoo",
