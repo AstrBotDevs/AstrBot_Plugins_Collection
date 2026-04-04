@@ -87,9 +87,9 @@
       "股票"
     ],
     "social_link": "https://github.com/YYY7C",
-    "stars": 3,
+    "stars": 4,
     "version": "1.1.1",
-    "updated_at": "2026-04-03T16:26:56Z",
+    "updated_at": "2026-04-04T16:13:58Z",
     "logo": "https://raw.githubusercontent.com/YYY7C/TradingAgents-AstrBot/main/logo.png"
   },
   "astrbot-plugin-sts2-data": {
@@ -963,7 +963,7 @@
     "category": "productivity",
     "stars": 287,
     "version": "v4.9.14",
-    "updated_at": "2026-04-04T13:26:44Z",
+    "updated_at": "2026-04-04T15:48:38Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1331,9 +1331,9 @@
     ],
     "social_link": "https://github.com/FlanChanXwO",
     "category": "utilities",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.0.2",
-    "updated_at": "2026-03-31T09:51:43Z",
+    "updated_at": "2026-04-04T15:53:53Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_status/master/logo.png"
   },
   "astrbot-plugin-adsb-monitor": {
@@ -3944,7 +3944,7 @@
     "category": "utilities",
     "stars": 287,
     "version": "v4.9.14",
-    "updated_at": "2026-04-04T13:26:44Z",
+    "updated_at": "2026-04-04T15:48:38Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -6925,9 +6925,9 @@
     "repo": "https://github.com/exynos967/astrbot_plugin_picstatus",
     "category": "utilities",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.3.0",
-    "updated_at": "2026-02-24T08:59:33Z"
+    "updated_at": "2026-04-04T15:53:57Z"
   },
   "astrbot_plugin_continuous_message": {
     "display_name": "消息防抖动",
@@ -9958,7 +9958,7 @@
     "category": "utilities",
     "stars": 51,
     "version": "v2.2.0",
-    "updated_at": "2026-04-04T15:33:27Z",
+    "updated_at": "2026-04-04T16:00:15Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -11745,9 +11745,9 @@
     ],
     "social_link": "https://github.com/BB0813",
     "category": "utilities",
-    "stars": 7,
+    "stars": 8,
     "version": "v2.0.0",
-    "updated_at": "2026-03-31T21:21:21Z"
+    "updated_at": "2026-04-04T15:45:57Z"
   },
   "astrbot_dg_lab_plugin": {
     "author": "RC-CHN",
@@ -11771,9 +11771,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 134,
+    "stars": 135,
     "version": "v2.0.9",
-    "updated_at": "2026-04-03T16:28:30Z",
+    "updated_at": "2026-04-04T16:28:04Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
