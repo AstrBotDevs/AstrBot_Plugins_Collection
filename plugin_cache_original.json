@@ -1546,8 +1546,8 @@
     "category": "ai_tools",
     "tags": [],
     "stars": 44,
-    "version": "Ver 5.1.0",
-    "updated_at": "2026-04-03T16:06:05Z"
+    "version": "Ver 5.1.1",
+    "updated_at": "2026-04-04T07:26:47Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -4592,9 +4592,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 242,
+    "stars": 243,
     "version": "Next-2.1.0",
-    "updated_at": "2026-04-03T10:10:08Z",
+    "updated_at": "2026-04-04T07:49:42Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -4681,7 +4681,7 @@
     "category": "productivity",
     "stars": 20,
     "version": "v1.5.1",
-    "updated_at": "2026-04-03T17:13:14Z",
+    "updated_at": "2026-04-04T07:34:59Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -5555,9 +5555,9 @@
     ],
     "social_link": "https://github.com/Hakuin123",
     "category": "utilities",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.3.0",
-    "updated_at": "2026-03-31T10:20:23Z",
+    "updated_at": "2026-04-04T08:03:31Z",
     "logo": "https://raw.githubusercontent.com/Hakuin123/astrbot_plugin_uni_nickname/main/logo.png"
   },
   "astrbot_plugin_yoimg": {
