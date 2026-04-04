@@ -3376,9 +3376,9 @@
     ],
     "social_link": "https://cyilin36.github.io",
     "category": "integrations",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.2",
-    "updated_at": "2026-02-17T14:19:05Z"
+    "updated_at": "2026-04-04T19:40:24Z"
   },
   "astrbot_plugin_telegram_forwarder": {
     "display_name": "Telegram Forwarder",
@@ -14531,9 +14531,9 @@
     ],
     "pinned": true,
     "category": "entertainment",
-    "stars": 217,
+    "stars": 218,
     "version": "v3.19",
-    "updated_at": "2026-04-04T06:42:44Z"
+    "updated_at": "2026-04-04T20:29:51Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
