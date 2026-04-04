@@ -204,9 +204,9 @@
       "星露谷物语",
       "攻略查询"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-04-02T07:13:29Z",
+    "updated_at": "2026-04-04T14:41:21Z",
     "logo": "https://raw.githubusercontent.com/hanhanpig3/astrbot_plugin_stardewvalleywiki/main/logo.png"
   },
   "astrbot-plugin-lark-richpost": {
@@ -1962,8 +1962,8 @@
     "category": "entertainment",
     "tags": [],
     "stars": 7,
-    "version": "v1.0.8",
-    "updated_at": "2026-04-04T14:33:58Z",
+    "version": "v1.0.9",
+    "updated_at": "2026-04-04T14:41:00Z",
     "logo": "https://raw.githubusercontent.com/zoffyultraman/astrbot_plugin_manbo-tts/main/logo.png"
   },
   "astrbot-plugin-steammod-monitor": {
@@ -4679,9 +4679,9 @@
     ],
     "social_link": "https://github.com/Clhikari",
     "category": "productivity",
-    "stars": 20,
+    "stars": 21,
     "version": "v1.5.1",
-    "updated_at": "2026-04-04T09:26:11Z",
+    "updated_at": "2026-04-04T15:24:44Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -9957,8 +9957,8 @@
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
     "stars": 51,
-    "version": "v2.1.7",
-    "updated_at": "2026-04-04T09:13:58Z",
+    "version": "v2.2.0",
+    "updated_at": "2026-04-04T15:33:27Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
