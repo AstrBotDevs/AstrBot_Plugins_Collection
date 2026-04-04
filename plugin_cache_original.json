@@ -868,9 +868,9 @@
     "tags": [],
     "social_link": "",
     "category": "ai_tools",
-    "stars": 27,
+    "stars": 28,
     "version": "1.1.1",
-    "updated_at": "2026-04-03T07:28:59Z",
+    "updated_at": "2026-04-04T00:11:46Z",
     "logo": "https://raw.githubusercontent.com/Kalospacer/astrbot_plugin_maid_agent/master/logo.png"
   },
   "astrbot-plugin-stoprushingiamtyping": {
@@ -1067,7 +1067,7 @@
     "tags": [],
     "stars": 0,
     "version": "v1.0.0",
-    "updated_at": "2026-04-03T15:24:19Z"
+    "updated_at": "2026-04-04T01:46:50Z"
   },
   "astrbot-plugin-mocode": {
     "display_name": "MoCode",
@@ -5379,9 +5379,9 @@
       "群聊优化"
     ],
     "category": "ai_tools",
-    "stars": 71,
+    "stars": 70,
     "version": "0.8.21",
-    "updated_at": "2026-04-02T19:18:35Z",
+    "updated_at": "2026-04-04T01:47:31Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -7737,9 +7737,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 166,
+    "stars": 167,
     "version": "v1.2.2",
-    "updated_at": "2026-04-03T08:19:26Z",
+    "updated_at": "2026-04-04T00:13:05Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -9232,9 +9232,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 126,
+    "stars": 127,
     "version": "2.2.4",
-    "updated_at": "2026-04-03T19:07:38Z",
+    "updated_at": "2026-04-04T01:32:27Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
