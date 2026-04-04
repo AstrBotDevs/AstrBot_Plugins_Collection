@@ -280,9 +280,9 @@
       "面板"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.0.0",
-    "updated_at": "2026-04-02T09:19:53Z",
+    "updated_at": "2026-04-04T11:52:24Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_live_dashboard/main/logo.png"
   },
   "astrbot-plugin-wol-miko": {
@@ -963,7 +963,7 @@
     "category": "productivity",
     "stars": 287,
     "version": "v4.9.13",
-    "updated_at": "2026-04-04T11:02:38Z",
+    "updated_at": "2026-04-04T12:44:50Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1503,8 +1503,8 @@
     "social_link": "",
     "category": "utilities",
     "stars": 7,
-    "version": "v1.3.0",
-    "updated_at": "2026-04-04T11:29:42Z",
+    "version": "v1.4.0",
+    "updated_at": "2026-04-04T11:32:19Z",
     "logo": "https://raw.githubusercontent.com/Waterwzy/astrbot_plugin_firefly_filter/master/logo.png"
   },
   "astrbot-plugin-cet6": {
@@ -1546,8 +1546,8 @@
     "category": "ai_tools",
     "tags": [],
     "stars": 44,
-    "version": "Ver 5.1.3",
-    "updated_at": "2026-04-04T10:46:39Z"
+    "version": "Ver 5.1.4",
+    "updated_at": "2026-04-04T11:56:40Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -3944,7 +3944,7 @@
     "category": "utilities",
     "stars": 287,
     "version": "v4.9.13",
-    "updated_at": "2026-04-04T11:02:38Z",
+    "updated_at": "2026-04-04T12:44:50Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -9506,7 +9506,7 @@
     "category": "ai_tools",
     "stars": 10,
     "version": "v1.1.0",
-    "updated_at": "2026-04-04T06:29:18Z"
+    "updated_at": "2026-04-04T11:49:30Z"
   },
   "astrbot_plugin_lark_send_patcher": {
     "desc": "通过猴子补丁的方式，优化了飞书Lark适配器下，机器人发送的消息引用太频繁的问题。现在飞书下所有的机器人回复从引用消息变更为直接发送。插件可能会随着astrbot本体版本更新，涉及到lark_adapter和lark_event重大更新时失效。",
@@ -14712,8 +14712,8 @@
     "category": "productivity",
     "tags": [],
     "stars": 33,
-    "version": "v1.4.2",
-    "updated_at": "2026-03-31T18:55:17Z"
+    "version": "v1.4.3",
+    "updated_at": "2026-04-04T12:56:48Z"
   },
   "ai_memory": {
     "desc": "一个AI记忆管理插件，可以让ai记住重要的事，记忆读取是ai自己调用的，有时候呆呆的ai不会自己调用，可以多问几次或者人格加上特定提示词,输入 /mem_help 查看记忆管理帮助",
