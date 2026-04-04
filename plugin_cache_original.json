@@ -1545,9 +1545,9 @@
     "social_link": "https://github.com/Renyus",
     "category": "ai_tools",
     "tags": [],
-    "stars": 44,
+    "stars": 45,
     "version": "Ver 5.1.4",
-    "updated_at": "2026-04-04T11:56:40Z"
+    "updated_at": "2026-04-04T18:08:41Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -6405,7 +6405,7 @@
     "category": "ai_tools",
     "stars": 27,
     "version": "1.5.6",
-    "updated_at": "2026-04-01T13:45:20Z",
+    "updated_at": "2026-04-04T18:32:32Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/main/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
