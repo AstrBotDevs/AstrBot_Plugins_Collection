@@ -34,9 +34,9 @@
       "外部集成"
     ],
     "social_link": "https://github.com/SodaCodeSave",
-    "stars": 10,
+    "stars": 12,
     "version": "v1.1.2",
-    "updated_at": "2026-04-03T16:05:07Z",
+    "updated_at": "2026-04-04T04:14:49Z",
     "logo": "https://raw.githubusercontent.com/SodaCodeSave/astrbot_plugin_biliread/master/logo.png"
   },
   "astrbot-plugin-DUT-Notices": {
@@ -59,9 +59,9 @@
       "更多主动功能"
     ],
     "social_link": "www.wyccotccy.cn",
-    "stars": 7,
+    "stars": 8,
     "version": "1.2.0",
-    "updated_at": "2026-04-03T14:02:57Z",
+    "updated_at": "2026-04-04T04:04:41Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -616,9 +616,9 @@
     ],
     "social_link": "https://github.com/NayukiChiba",
     "category": "productivity",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.1",
-    "updated_at": "2026-04-03T16:23:13Z",
+    "updated_at": "2026-04-04T04:49:44Z",
     "logo": "https://raw.githubusercontent.com/NayukiChiba/astrbot_plugin_arxiv/master/logo.png"
   },
   "astrbot-plugin-cve-warning": {
@@ -1358,8 +1358,8 @@
     "category": "integrations",
     "tags": [],
     "stars": 15,
-    "version": "v7.1.0",
-    "updated_at": "2026-03-27T12:47:42Z",
+    "version": "v7.1.1",
+    "updated_at": "2026-04-04T04:50:04Z",
     "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_mihome/main/logo.png"
   },
   "astrbot-plugin-nai-brush": {
@@ -1963,7 +1963,7 @@
     "tags": [],
     "stars": 7,
     "version": "v1.0.7",
-    "updated_at": "2026-04-03T07:01:07Z",
+    "updated_at": "2026-04-04T04:46:08Z",
     "logo": "https://raw.githubusercontent.com/zoffyultraman/astrbot_plugin_manbo-tts/main/logo.png"
   },
   "astrbot-plugin-steammod-monitor": {
@@ -3258,9 +3258,9 @@
     ],
     "social_link": "https://github.com/piexian",
     "category": "ai_tools",
-    "stars": 13,
+    "stars": 14,
     "version": "v1.3.0",
-    "updated_at": "2026-04-01T04:44:53Z",
+    "updated_at": "2026-04-04T02:25:40Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_grok_web_search/master/logo.png"
   },
   "astrbot_plugin_fake_ai_watermark": {
@@ -3518,9 +3518,9 @@
       "图片"
     ],
     "category": "utilities",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.1.5",
-    "updated_at": "2026-04-02T06:09:19Z"
+    "updated_at": "2026-04-04T04:04:08Z"
   },
   "astrbot_plugin_at_ignore": {
     "display_name": "忽略@消息",
@@ -3586,9 +3586,9 @@
       "QQ"
     ],
     "category": "utilities",
-    "stars": 7,
+    "stars": 8,
     "version": "v0.2.0",
-    "updated_at": "2026-04-02T03:08:02Z"
+    "updated_at": "2026-04-04T04:04:05Z"
   },
   "astrbot_plugin_skland": {
     "display_name": "森空岛签到",
@@ -4370,9 +4370,9 @@
       "嵌入模型"
     ],
     "category": "ai_tools",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.2.4",
-    "updated_at": "2026-03-23T11:41:15Z"
+    "updated_at": "2026-04-04T04:23:47Z"
   },
   "astrbot_plugin_mudae_qq": {
     "display_name": "二次元笑传之抽抽Bot",
@@ -8296,9 +8296,9 @@
       "Telegram"
     ],
     "category": "integrations",
-    "stars": 6,
+    "stars": 7,
     "version": "1.3.4",
-    "updated_at": "2026-03-18T07:35:39Z"
+    "updated_at": "2026-04-04T04:05:53Z"
   },
   "astrbot_plugin_markdown2img": {
     "desc": "允许 LLM 将复杂的 Markdown 格式内容转换为图片发送，提升消息的可读性。",
@@ -12062,9 +12062,9 @@
     ],
     "social_link": "https://github.com/TheAnyan",
     "category": "ai_tools",
-    "stars": 14,
+    "stars": 15,
     "version": "v1.1.0",
-    "updated_at": "2026-03-21T12:18:28Z"
+    "updated_at": "2026-04-04T03:56:36Z"
   },
   "astrbot_plugin_stock": {
     "author": "anchor",
