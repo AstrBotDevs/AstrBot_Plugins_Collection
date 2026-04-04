@@ -962,8 +962,8 @@
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
     "stars": 287,
-    "version": "v4.9.13",
-    "updated_at": "2026-04-04T12:44:50Z",
+    "version": "v4.9.14",
+    "updated_at": "2026-04-04T13:26:44Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -3943,8 +3943,8 @@
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
     "stars": 287,
-    "version": "v4.9.13",
-    "updated_at": "2026-04-04T12:44:50Z",
+    "version": "v4.9.14",
+    "updated_at": "2026-04-04T13:26:44Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -4592,9 +4592,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 243,
+    "stars": 244,
     "version": "Next-2.1.0",
-    "updated_at": "2026-04-04T07:49:42Z",
+    "updated_at": "2026-04-04T13:08:04Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -13428,9 +13428,9 @@
       "QQ群管"
     ],
     "category": "utilities",
-    "stars": 123,
+    "stars": 124,
     "version": "v3.2.7",
-    "updated_at": "2026-03-31T13:15:25Z",
+    "updated_at": "2026-04-04T13:38:34Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
