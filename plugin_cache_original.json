@@ -394,9 +394,9 @@
     "tags": [
       "古诗"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "0.1.0",
-    "updated_at": "2026-03-17T13:32:08Z"
+    "updated_at": "2026-04-05T10:11:33Z"
   },
   "astrbot-plugin-quiz": {
     "display_name": "Quiz",
@@ -975,9 +975,9 @@
       "群欢迎"
     ],
     "category": "utilities",
-    "stars": 1,
+    "stars": 2,
     "version": "2.0.0",
-    "updated_at": "2026-03-21T08:48:58Z",
+    "updated_at": "2026-04-05T10:05:03Z",
     "logo": "https://raw.githubusercontent.com/lingyun14beta/astrbot_plugin_group_welcome/main/logo.png"
   },
   "astrbot-plugin-atrelay": {
@@ -2527,9 +2527,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "integrations",
-    "stars": 34,
+    "stars": 35,
     "version": "2.6.2",
-    "updated_at": "2026-04-01T00:59:25Z"
+    "updated_at": "2026-04-05T10:14:40Z"
   },
   "astrbot-plugin-meting": {
     "display_name": "初叶🍂MetingAPI 点歌",
@@ -4592,9 +4592,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 244,
+    "stars": 245,
     "version": "Next-2.1.0",
-    "updated_at": "2026-04-04T13:08:04Z",
+    "updated_at": "2026-04-05T10:28:07Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -7284,9 +7284,9 @@
       "打卡"
     ],
     "category": "entertainment",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.2",
-    "updated_at": "2026-03-14T15:44:10Z",
+    "updated_at": "2026-04-05T10:12:16Z",
     "logo": "https://raw.githubusercontent.com/Dayanshifu/astrbot_plugin_dailyacmfortune/main/logo.png"
   },
   "astrbot_plugin_idgen": {
@@ -7737,9 +7737,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 168,
+    "stars": 169,
     "version": "v1.2.2",
-    "updated_at": "2026-04-05T08:47:49Z",
+    "updated_at": "2026-04-05T10:05:10Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -8903,9 +8903,9 @@
       "TTS"
     ],
     "category": "ai_tools",
-    "stars": 8,
+    "stars": 9,
     "version": "1.3.6",
-    "updated_at": "2026-03-28T11:50:46Z"
+    "updated_at": "2026-04-05T10:01:08Z"
   },
   "astrbot_plugin_pollinations_images": {
     "desc": "使用 Pollinations AI生成图片。无需注册，开箱即用！",
@@ -12086,9 +12086,9 @@
       "疯狂星期四"
     ],
     "category": "entertainment",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.3",
-    "updated_at": "2026-01-21T17:11:12Z"
+    "updated_at": "2026-04-05T10:13:24Z"
   },
   "astrbot_plugin_search_video": {
     "display_name": "搜视频",
@@ -13428,9 +13428,9 @@
       "QQ群管"
     ],
     "category": "utilities",
-    "stars": 124,
+    "stars": 125,
     "version": "v3.2.7",
-    "updated_at": "2026-04-04T13:38:34Z",
+    "updated_at": "2026-04-05T10:26:06Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
