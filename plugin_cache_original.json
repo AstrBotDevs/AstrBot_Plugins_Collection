@@ -249,8 +249,8 @@
       "vrchat"
     ],
     "stars": 2,
-    "version": "0.1.4",
-    "updated_at": "2026-04-02T12:51:08Z"
+    "version": "0.1.5",
+    "updated_at": "2026-04-05T04:47:58Z"
   },
   "astrbot-plugin-lyubishchev": {
     "display_name": "柳比歇夫时间管理插件",
@@ -310,7 +310,7 @@
     "social_link": "https://github.com/oujunhaoyueling",
     "stars": 0,
     "version": "1.2.0",
-    "updated_at": "2026-04-02T11:01:30Z"
+    "updated_at": "2026-04-05T04:42:11Z"
   },
   "astrbot-plugin-central-intelligence": {
     "display_name": "Central Intelligence 记忆服务",
@@ -472,9 +472,9 @@
       "私聊",
       "群聊"
     ],
-    "stars": 4,
+    "stars": 6,
     "version": "v1.0.0",
-    "updated_at": "2026-04-02T12:21:28Z"
+    "updated_at": "2026-04-05T03:34:51Z"
   },
   "astrbot-plugin-dida365": {
     "display_name": "滴答清单连接器",
@@ -941,8 +941,8 @@
     "category": "productivity",
     "tags": [],
     "stars": 3,
-    "version": "v1.4.2",
-    "updated_at": "2026-03-30T00:50:30Z"
+    "version": "v1.4.3",
+    "updated_at": "2026-04-05T02:53:23Z"
   },
   "astrbot-plugin-qq-group-daily-analysis": {
     "display_name": "群分析总结插件",
@@ -1610,9 +1610,9 @@
       "全局记忆"
     ],
     "category": "ai_tools",
-    "stars": 11,
+    "stars": 13,
     "version": "v1.1.0",
-    "updated_at": "2026-04-03T08:14:08Z"
+    "updated_at": "2026-04-05T03:34:47Z"
   },
   "astrbot-plugin-memory": {
     "display_name": "astrbot_plugin_memory",
@@ -3274,9 +3274,9 @@
     ],
     "social_link": "https://github.com/FenChen0211",
     "category": "entertainment",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.1",
-    "updated_at": "2026-02-27T08:59:10Z"
+    "updated_at": "2026-04-05T03:30:52Z"
   },
   "astrbot_plugin_html_render": {
     "display_name": "HTML 渲染插件",
@@ -4162,9 +4162,9 @@
     ],
     "social_link": "https://github.com/KonmaKanSinPack",
     "category": "ai_tools",
-    "stars": 11,
+    "stars": 12,
     "version": "v1.3.1",
-    "updated_at": "2026-04-03T07:29:19Z"
+    "updated_at": "2026-04-05T03:33:12Z"
   },
   "astrbot_plugin_engram": {
     "display_name": "仿生双轨记忆系统",
@@ -5017,9 +5017,9 @@
     "social_link": "https://blog.zxqblog.cn",
     "category": "utilities",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.1.5",
-    "updated_at": "2026-03-18T14:41:04Z"
+    "updated_at": "2026-04-05T05:12:14Z"
   },
   "astrbot_plugin_anti-bot": {
     "display_name": "bot自己怼人的插件",
@@ -7486,9 +7486,9 @@
     ],
     "social_link": "https://github.com/ovoox",
     "category": "entertainment",
-    "stars": 7,
+    "stars": 8,
     "version": "v2.0",
-    "updated_at": "2026-03-20T03:40:36Z"
+    "updated_at": "2026-04-05T04:00:30Z"
   },
   "astrbot_plugin_weibo_hot": {
     "desc": "自动抓取微博热榜。",
@@ -13891,9 +13891,9 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "category": "entertainment",
-    "stars": 97,
+    "stars": 98,
     "version": "v3.0.3",
-    "updated_at": "2026-04-03T01:09:02Z",
+    "updated_at": "2026-04-05T04:14:16Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
@@ -14485,9 +14485,9 @@
       "搬史"
     ],
     "category": "utilities",
-    "stars": 546,
+    "stars": 547,
     "version": "v0.916",
-    "updated_at": "2026-04-01T17:20:38Z"
+    "updated_at": "2026-04-05T04:43:24Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
