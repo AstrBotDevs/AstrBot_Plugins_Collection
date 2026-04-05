@@ -71,9 +71,9 @@
     "repo": "https://github.com/Sloan-YXT/astrbot_plugin_meme_manager_plus",
     "social_link": "https://github.com/Sloan-YXT/",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v3.8.5",
-    "updated_at": "2026-03-31T01:05:51Z",
+    "updated_at": "2026-04-05T18:45:39Z",
     "logo": "https://raw.githubusercontent.com/Sloan-YXT/astrbot_plugin_meme_manager_plus/master/logo.png"
   },
   "astrbot-plugin-tradingagents": {
@@ -3413,7 +3413,7 @@
     "category": "entertainment",
     "stars": 1,
     "version": "v1.9.0",
-    "updated_at": "2026-04-05T14:14:14Z",
+    "updated_at": "2026-04-05T18:35:44Z",
     "logo": "https://raw.githubusercontent.com/NyaNyagulugulu/astrbot_NekoMusic/main/logo.png"
   },
   "astrbot_plugin_mooncell_finder": {
@@ -14485,9 +14485,9 @@
       "搬史"
     ],
     "category": "utilities",
-    "stars": 547,
+    "stars": 548,
     "version": "v0.916",
-    "updated_at": "2026-04-05T04:43:24Z"
+    "updated_at": "2026-04-05T18:05:53Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
