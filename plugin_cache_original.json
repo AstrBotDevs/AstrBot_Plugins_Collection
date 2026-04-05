@@ -309,8 +309,8 @@
     ],
     "social_link": "https://github.com/oujunhaoyueling",
     "stars": 0,
-    "version": "1.2.0",
-    "updated_at": "2026-04-05T04:42:11Z"
+    "version": "2.4.2",
+    "updated_at": "2026-04-05T06:29:33Z"
   },
   "astrbot-plugin-central-intelligence": {
     "display_name": "Central Intelligence 记忆服务",
@@ -961,9 +961,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 287,
+    "stars": 288,
     "version": "v4.9.14",
-    "updated_at": "2026-04-04T15:48:38Z",
+    "updated_at": "2026-04-05T06:53:56Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -2174,9 +2174,9 @@
     ],
     "social_link": "https://github.com/leafliber",
     "category": "ai_tools",
-    "stars": 21,
+    "stars": 22,
     "version": "v1.11.1",
-    "updated_at": "2026-03-30T02:44:54Z",
+    "updated_at": "2026-04-05T06:54:59Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -2395,9 +2395,9 @@
     ],
     "social_link": "https://github.com/Radiant303",
     "category": "ai_tools",
-    "stars": 14,
+    "stars": 15,
     "version": "v2.2.1",
-    "updated_at": "2026-03-31T16:37:11Z",
+    "updated_at": "2026-04-05T06:59:30Z",
     "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_clonetts/master/logo.png"
   },
   "astrbot-plugin-ssh": {
@@ -3942,9 +3942,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 287,
+    "stars": 288,
     "version": "v4.9.14",
-    "updated_at": "2026-04-04T15:48:38Z",
+    "updated_at": "2026-04-05T06:53:56Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -4681,7 +4681,7 @@
     "category": "productivity",
     "stars": 21,
     "version": "v1.5.1",
-    "updated_at": "2026-04-04T15:24:44Z",
+    "updated_at": "2026-04-05T05:58:19Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -5095,9 +5095,9 @@
     "repo": "https://github.com/WangYi82909/astrbot_plugin_yotts",
     "category": "ai_tools",
     "tags": [],
-    "stars": 8,
+    "stars": 9,
     "version": "v1.0.0",
-    "updated_at": "2026-03-30T03:03:44Z",
+    "updated_at": "2026-04-05T05:42:58Z",
     "logo": "https://raw.githubusercontent.com/WangYi82909/astrbot_plugin_yotts/main/logo.png"
   },
   "astrbot_plugin_better_reminder": {
@@ -5793,9 +5793,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 94,
+    "stars": 95,
     "version": "v1.5.1",
-    "updated_at": "2026-03-31T14:36:40Z",
+    "updated_at": "2026-04-05T06:12:08Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -10101,9 +10101,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 18,
+    "stars": 19,
     "version": "v1.0.3",
-    "updated_at": "2026-03-31T20:56:37Z",
+    "updated_at": "2026-04-05T05:25:25Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_record_converter/main/logo.png"
   },
   "astrbot_plugin_spark_tts": {
@@ -13891,9 +13891,9 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "category": "entertainment",
-    "stars": 98,
+    "stars": 99,
     "version": "v3.0.3",
-    "updated_at": "2026-04-05T04:14:16Z",
+    "updated_at": "2026-04-05T06:14:28Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
@@ -14220,9 +14220,9 @@
       "主动对话"
     ],
     "category": "entertainment",
-    "stars": 12,
+    "stars": 11,
     "version": "v2.3.0",
-    "updated_at": "2026-03-28T16:26:54Z"
+    "updated_at": "2026-04-05T06:08:23Z"
   },
   "astrbot_plugin_sensoji": {
     "desc": "这是一个模拟日本浅草寺抽签功能的插件。用户可以通过发送 /抽签 命令随机抽取一个签文，获取运势提示。签文包含吉凶结果（如“大吉”、“凶”等）以及对应的运势描述。",
