@@ -4085,8 +4085,8 @@
     "social_link": "https://qwq.pyuramazo.online",
     "category": "entertainment",
     "stars": 20,
-    "version": "v1.9.0",
-    "updated_at": "2026-03-24T15:01:54Z",
+    "version": "v1.10.1",
+    "updated_at": "2026-04-05T14:44:29Z",
     "logo": "https://raw.githubusercontent.com/PyuraMazo/astrbot_plugin_galgame_box/master/logo.png"
   },
   "astrbot_plugin_anitabi": {
@@ -7644,9 +7644,9 @@
       "修仙"
     ],
     "category": "entertainment",
-    "stars": 9,
+    "stars": 10,
     "version": "v0.9.0",
-    "updated_at": "2026-04-03T13:26:39Z",
+    "updated_at": "2026-04-05T15:09:04Z",
     "logo": "https://raw.githubusercontent.com/linjianyan0229/astrbot_plugin_monixiuxian/main/logo.png"
   },
   "astrbot_plugin_invitecount": {
