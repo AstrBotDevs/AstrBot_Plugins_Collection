@@ -2131,9 +2131,9 @@
     ],
     "social_link": "https://axi404.top",
     "category": "ai_tools",
-    "stars": 17,
+    "stars": 18,
     "version": "0.2.4",
-    "updated_at": "2026-04-03T09:29:07Z"
+    "updated_at": "2026-04-05T14:31:24Z"
   },
   "astrbot-plugin-biliVideo": {
     "display_name": "哔哩哔哩视频总结",
@@ -3412,8 +3412,8 @@
     "social_link": "https://www.cnmsb.xin",
     "category": "entertainment",
     "stars": 1,
-    "version": "v1.8.1",
-    "updated_at": "2026-03-21T14:25:02Z",
+    "version": "v1.9.0",
+    "updated_at": "2026-04-05T14:14:14Z",
     "logo": "https://raw.githubusercontent.com/NyaNyagulugulu/astrbot_NekoMusic/main/logo.png"
   },
   "astrbot_plugin_mooncell_finder": {
@@ -3472,9 +3472,9 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "category": "entertainment",
-    "stars": 20,
+    "stars": 21,
     "version": "v3.1.6",
-    "updated_at": "2026-04-04T10:17:23Z",
+    "updated_at": "2026-04-05T13:09:50Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
@@ -4274,8 +4274,8 @@
     ],
     "category": "utilities",
     "stars": 6,
-    "version": "v1.3.0",
-    "updated_at": "2026-04-01T09:42:54Z",
+    "version": "v1.3.1",
+    "updated_at": "2026-04-05T14:07:25Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_keywords_reply/master/logo.png"
   },
   "astrbot_plugin_text2img": {
@@ -5971,9 +5971,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "utilities",
-    "stars": 50,
+    "stars": 51,
     "version": "v1.4.5",
-    "updated_at": "2026-04-02T09:18:54Z",
+    "updated_at": "2026-04-05T14:21:23Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -6940,9 +6940,9 @@
       "私聊"
     ],
     "category": "ai_tools",
-    "stars": 25,
+    "stars": 26,
     "version": "2.3.0",
-    "updated_at": "2026-03-31T14:20:30Z",
+    "updated_at": "2026-04-05T13:32:35Z",
     "logo": "https://raw.githubusercontent.com/aliveriver/astrbot_plugin_continuous_message/master/logo.png"
   },
   "astrbot_plugin_llm_amnesia": {
@@ -9915,9 +9915,9 @@
     ],
     "social_link": "https://github.com/qa296/",
     "category": "ai_tools",
-    "stars": 29,
+    "stars": 30,
     "version": "v0.2.7",
-    "updated_at": "2026-03-23T13:42:15Z"
+    "updated_at": "2026-04-05T14:24:40Z"
   },
   "astrbot_plugin_iearning_style": {
     "desc": "使机器人可以从聊天中学习他人说话方式",
@@ -11771,9 +11771,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 135,
+    "stars": 136,
     "version": "v2.0.9",
-    "updated_at": "2026-04-04T16:28:04Z",
+    "updated_at": "2026-04-05T13:19:04Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -15184,9 +15184,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "ai_tools",
     "tags": [],
-    "stars": 220,
+    "stars": 221,
     "version": "v2.1.3",
-    "updated_at": "2026-04-04T08:52:05Z"
+    "updated_at": "2026-04-05T14:28:54Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
