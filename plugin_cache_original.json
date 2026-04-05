@@ -87,9 +87,9 @@
       "股票"
     ],
     "social_link": "https://github.com/YYY7C",
-    "stars": 4,
+    "stars": 5,
     "version": "1.1.1",
-    "updated_at": "2026-04-04T16:13:58Z",
+    "updated_at": "2026-04-05T15:41:37Z",
     "logo": "https://raw.githubusercontent.com/YYY7C/TradingAgents-AstrBot/main/logo.png"
   },
   "astrbot-plugin-sts2-data": {
@@ -163,9 +163,9 @@
     "repo": "https://github.com/Wan-LaiQiu/astrbot_plugin_content_info",
     "social_link": "https://github.com/Wan-LaiQiu/astrbot_plugin_content_info",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "1.0.0",
-    "updated_at": "2026-03-18T06:57:55Z"
+    "updated_at": "2026-04-05T15:59:41Z"
   },
   "astrbot-plugin-Network-Connectivity-Check": {
     "display_name": "网络连接监测",
@@ -569,9 +569,9 @@
     ],
     "social_link": "https://github.com/zzzwannasleep",
     "category": "productivity",
-    "stars": 0,
+    "stars": 1,
     "version": "0.1.0",
-    "updated_at": "2026-03-18T15:23:35Z"
+    "updated_at": "2026-04-05T16:16:35Z"
   },
   "astrbot-plugin-pjsk-guess-card": {
     "display_name": "PJSK猜卡面插件",
@@ -695,7 +695,7 @@
     "category": "ai_tools",
     "stars": 0,
     "version": "v1.2.0",
-    "updated_at": "2026-03-29T08:10:06Z"
+    "updated_at": "2026-04-05T15:57:31Z"
   },
   "astrbot-plugin-rss-tool": {
     "display_name": "RSS 技能",
@@ -4177,8 +4177,8 @@
     ],
     "category": "ai_tools",
     "stars": 10,
-    "version": "1.6.7",
-    "updated_at": "2026-03-23T16:25:04Z"
+    "version": "1.6.8",
+    "updated_at": "2026-04-05T15:52:11Z"
   },
   "astrbot_plugin_mc_manager": {
     "display_name": "astrbot_plugin_mc_manager",
@@ -5973,7 +5973,7 @@
     "category": "utilities",
     "stars": 51,
     "version": "v1.4.5",
-    "updated_at": "2026-04-05T14:21:23Z",
+    "updated_at": "2026-04-05T16:04:05Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -7214,9 +7214,9 @@
     ],
     "social_link": "https://github.com/Newbie-L",
     "category": "entertainment",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.2.2",
-    "updated_at": "2026-01-04T02:37:09Z"
+    "updated_at": "2026-04-05T15:59:45Z"
   },
   "astrbot_plugin_VisiStat": {
     "display_name": "可视化服务状态监控",
@@ -7737,9 +7737,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 169,
+    "stars": 171,
     "version": "v1.2.2",
-    "updated_at": "2026-04-05T10:05:10Z",
+    "updated_at": "2026-04-05T16:06:35Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -12337,9 +12337,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 67,
+    "stars": 68,
     "version": "v2.1.0",
-    "updated_at": "2026-04-04T05:09:51Z",
+    "updated_at": "2026-04-05T16:01:36Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_pokepro/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
@@ -12665,9 +12665,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "entertainment",
-    "stars": 212,
+    "stars": 213,
     "version": "v3.0.3",
-    "updated_at": "2026-04-03T05:31:19Z",
+    "updated_at": "2026-04-05T15:38:21Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -12854,9 +12854,9 @@
     ],
     "social_link": "https://github.com/vmoranv-reborn",
     "category": "entertainment",
-    "stars": 24,
+    "stars": 25,
     "version": "1.7.2",
-    "updated_at": "2026-03-31T04:00:37Z",
+    "updated_at": "2026-04-05T16:15:00Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
@@ -14006,9 +14006,9 @@
       "实用工具"
     ],
     "category": "utilities",
-    "stars": 37,
+    "stars": 38,
     "version": "v3.0.1",
-    "updated_at": "2026-03-29T08:50:52Z",
+    "updated_at": "2026-04-05T15:44:23Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
