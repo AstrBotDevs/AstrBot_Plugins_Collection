@@ -1,4 +1,17 @@
 {
+  "astrbot-plugin-terraria-server-manager": {
+    "display_name": "泰拉服务器管理",
+    "desc": "Terraria TShock 服务器监控，支持玩家上下线通知、在线查询与远程指令执行",
+    "author": "Reisenbug",
+    "repo": "https://github.com/Reisenbug/AstrBot_Plugin_Terraria_Server_Manager",
+    "tags": [
+      "服务器",
+      "terraria",
+      "泰拉瑞亚",
+      "tshock"
+    ],
+    "social_link": "https://github.com/Reisenbug"
+  },
   "astrbot-plugin-dingtalk-feishu-forwarder": {
     "desc": "钉钉与飞书之间的双向消息转发插件，支持文本、图片等消息格式自动转换。",
     "author": "zwwangoo",
