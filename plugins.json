@@ -1,4 +1,13 @@
 {
+  "astrbot-plugin-morning-news": {
+    "display_name": "飞书每日晨报",
+    "desc": "定时向飞书会话推送每日晨报，支持卡片展示、文本回退、订阅、预览、新闻速览、天气查询与管理员立即群发。",
+    "author": "json0368",
+    "repo": "https://github.com/json0368/astrbot_plugin_morning_news",
+    "tags": [
+      "飞书"
+    ]
+  },
   "astrbot-plugin-read-local-image": {
     "display_name": "Read Local Image",
     "desc": "读取本地图片文件并使用 ImageContent 机制让 LLM 立即分析图片内容",
