@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-dingtalk-feishu-forwarder": {
+    "desc": "钉钉与飞书之间的双向消息转发插件，支持文本、图片等消息格式自动转换。",
+    "author": "zwwangoo",
+    "repo": "https://github.com/zwwangoo/astrbot_plugin_dingtalk_feishu_forwarder",
+    "tags": [
+      "dingtalk",
+      "lark",
+      "feishu",
+      "forwarder"
+    ],
+    "social_link": ""
+  },
   "astrbot-plugin-context-undo": {
     "display_name": "上下文撤回",
     "desc": "撤回最近一次或多次的ai回复上下文，避免ai被不良信息影响。",
