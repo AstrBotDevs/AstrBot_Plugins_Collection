@@ -1,4 +1,128 @@
 {
+  "astrbot-plugin-BiliCookie-monitor": {
+    "display_name": "B站Cookie状态监控插件",
+    "desc": "B站Cookie状态监控插件 - 定时检测Cookie有效性，失效时主动通知用户",
+    "author": "fimore",
+    "repo": "https://github.com/fimore/astrbot_plugin_bili_cookie_monitor",
+    "tags": [
+      "bilibili"
+    ],
+    "stars": 0,
+    "version": "2.0.8",
+    "updated_at": "2026-04-03T20:08:04Z"
+  },
+  "astrbot-plugin-touhou-kb": {
+    "display_name": "东方知识库",
+    "desc": "将 THBWiki 备用站词条清洗后导入 AstrBot 官方知识库，支持会话绑定、人格绑定与东方话题优先路由",
+    "author": "YunMo-yanyu",
+    "repo": "https://github.com/YunMo-yanyu/astrbot-",
+    "tags": [
+      "东方Project",
+      "THBWiki",
+      "知识库",
+      "RAG",
+      "人格绑定"
+    ],
+    "social_link": "",
+    "stars": 0,
+    "version": "0.3.1",
+    "updated_at": "2026-04-06T07:27:22Z"
+  },
+  "astrbot-plugin-terraria-server-manager": {
+    "display_name": "泰拉服务器管理",
+    "desc": "Terraria TShock 服务器监控，支持玩家上下线通知、在线查询与远程指令执行",
+    "author": "Reisenbug",
+    "repo": "https://github.com/Reisenbug/AstrBot_Plugin_Terraria_Server_Manager",
+    "tags": [
+      "服务器",
+      "terraria",
+      "泰拉瑞亚",
+      "tshock"
+    ],
+    "social_link": "https://github.com/Reisenbug",
+    "stars": 0,
+    "version": "0.1.0",
+    "updated_at": "2026-04-04T17:48:27Z"
+  },
+  "astrbot-plugin-dingtalk-feishu-forwarder": {
+    "desc": "钉钉与飞书之间的双向消息转发插件，支持文本、图片等消息格式自动转换。",
+    "author": "zwwangoo",
+    "repo": "https://github.com/zwwangoo/astrbot_plugin_dingtalk_feishu_forwarder",
+    "tags": [
+      "dingtalk",
+      "lark",
+      "feishu",
+      "forwarder"
+    ],
+    "social_link": "",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-04-03T02:11:15Z"
+  },
+  "astrbot-plugin-context-undo": {
+    "display_name": "上下文撤回",
+    "desc": "撤回最近一次或多次的ai回复上下文，避免ai被不良信息影响。",
+    "author": "lumingya",
+    "repo": "https://github.com/lumingya/astrbot_plugin_context_undo",
+    "tags": [],
+    "stars": 0,
+    "version": "2.1.1",
+    "updated_at": "2026-03-28T15:37:06Z"
+  },
+  "astrbot-plugin-qq-restapi": {
+    "display_name": "QQ REST API 适配器",
+    "desc": "QQ 官方 REST API 平台适配器，不依赖 botpy，直接 HTTP 调用官方接口。支持 WebSocket/Webhook 双模式、35+ 事件类型、Markdown 模板、按钮面板、自动事件处理等",
+    "author": "Wanyi",
+    "repo": "https://github.com/Ryan7t/astrbot_plugin_qq_restapi",
+    "tags": [
+      "平台适配器",
+      "QQ"
+    ],
+    "social_link": "https://github.com/Ryan7t",
+    "stars": 1,
+    "version": "v0.1.0",
+    "updated_at": "2026-03-29T08:36:10Z"
+  },
+  "astrbot-plugin-lark-access-control": {
+    "display_name": "飞书权限控制",
+    "desc": "AstrBot 插件，用于在飞书平台做访问权限控制，例如限制哪些用户可以与机器人对话，在哪些群聊中允许与机器人对话。",
+    "author": "Aolinlu",
+    "repo": "https://github.com/Aolinlu/astrbot_plugin_lark_access_control",
+    "tags": [
+      "飞书"
+    ],
+    "social_link": "https://github.com/Aolinlu",
+    "stars": 0,
+    "version": "v0.1.0",
+    "updated_at": "2026-04-02T13:07:59Z"
+  },
+  "astrbot-plugin-universe": {
+    "display_name": "Galgame 圣地巡礼",
+    "desc": "如果在梦里能相遇的话，那大概就是现实",
+    "author": "Care",
+    "repo": "https://github.com/Care0721/astrbot_plugin_galuniverse",
+    "tags": [
+      "galgame",
+      "圣地巡礼",
+      "今日老婆"
+    ],
+    "social_link": "https://github.com/Care0721",
+    "stars": 1,
+    "version": "v1.7.0",
+    "updated_at": "2026-04-03T05:10:14Z"
+  },
+  "astrbot-plugin-morning-news": {
+    "display_name": "飞书每日晨报",
+    "desc": "定时向飞书会话推送每日晨报，支持卡片展示、文本回退、订阅、预览、新闻速览、天气查询与管理员立即群发。",
+    "author": "json0368",
+    "repo": "https://github.com/json0368/astrbot_plugin_morning_news",
+    "tags": [
+      "飞书"
+    ],
+    "stars": 0,
+    "version": "0.2.0",
+    "updated_at": "2026-04-03T07:27:22Z"
+  },
   "astrbot-plugin-read-local-image": {
     "display_name": "Read Local Image",
     "desc": "读取本地图片文件并使用 ImageContent 机制让 LLM 立即分析图片内容",
@@ -309,8 +433,8 @@
     ],
     "social_link": "https://github.com/oujunhaoyueling",
     "stars": 0,
-    "version": "2.4.2",
-    "updated_at": "2026-04-05T06:29:33Z"
+    "version": "2.5.0",
+    "updated_at": "2026-04-06T09:05:15Z"
   },
   "astrbot-plugin-central-intelligence": {
     "display_name": "Central Intelligence 记忆服务",
@@ -1545,9 +1669,9 @@
     "social_link": "https://github.com/Renyus",
     "category": "ai_tools",
     "tags": [],
-    "stars": 45,
+    "stars": 46,
     "version": "Ver 5.1.4",
-    "updated_at": "2026-04-04T18:08:41Z"
+    "updated_at": "2026-04-06T08:53:12Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -1811,8 +1935,8 @@
     "social_link": "https://github.com/menglimi",
     "category": "ai_tools",
     "stars": 32,
-    "version": "2.9.3",
-    "updated_at": "2026-04-04T11:07:50Z",
+    "version": "2.9.4",
+    "updated_at": "2026-04-06T08:40:02Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -1962,8 +2086,8 @@
     "category": "entertainment",
     "tags": [],
     "stars": 8,
-    "version": "v1.0.9",
-    "updated_at": "2026-04-06T05:42:49Z",
+    "version": "v1.1.0",
+    "updated_at": "2026-04-06T08:58:22Z",
     "logo": "https://raw.githubusercontent.com/zoffyultraman/astrbot_plugin_manbo-tts/main/logo.png"
   },
   "astrbot-plugin-steammod-monitor": {
@@ -3392,9 +3516,9 @@
     ],
     "social_link": "https://meilunova.pages.dev/",
     "category": "integrations",
-    "stars": 16,
+    "stars": 17,
     "version": "0.7.0",
-    "updated_at": "2026-04-03T05:54:41Z",
+    "updated_at": "2026-04-06T08:55:34Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -4592,9 +4716,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 246,
+    "stars": 247,
     "version": "Next-2.1.0",
-    "updated_at": "2026-04-05T12:58:15Z",
+    "updated_at": "2026-04-06T08:53:40Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -8407,8 +8531,8 @@
     "social_link": "https://catyun.cyou/",
     "category": "entertainment",
     "stars": 2,
-    "version": "v2.0.2",
-    "updated_at": "2026-03-01T10:57:39Z",
+    "version": "v2.1.0",
+    "updated_at": "2026-04-06T08:14:34Z",
     "logo": "https://raw.githubusercontent.com/WhiteCloudOL/astrbot_plugin_mcstatus/master/logo.png"
   },
   "astrbot_plugin_search_tracemoe": {
@@ -8635,7 +8759,7 @@
     "category": "entertainment",
     "stars": 35,
     "version": "2.4.7",
-    "updated_at": "2026-03-28T16:28:51Z",
+    "updated_at": "2026-04-06T08:03:13Z",
     "logo": "https://raw.githubusercontent.com/xxlemon-io/astrbot_plugin_fishing/main/logo.png"
   },
   "astrbot_plugin_astrmetry": {
@@ -12997,8 +13121,9 @@
     "category": "utilities",
     "tags": [],
     "stars": 16,
-    "version": "v1.10",
-    "updated_at": "2026-03-09T16:18:56Z"
+    "version": "v1.11",
+    "updated_at": "2026-04-06T07:58:06Z",
+    "logo": "https://raw.githubusercontent.com/1113-yangfanou/astrbot_plugin_hello-bye/master/logo.png"
   },
   "astrbot_plugin_pexels": {
     "author": "xiamuceer-j",
