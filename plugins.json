@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-universe": {
+    "display_name": "Galgame 圣地巡礼",
+    "desc": "如果在梦里能相遇的话，那大概就是现实",
+    "author": "Care",
+    "repo": "https://github.com/Care0721/astrbot_plugin_galuniverse",
+    "tags": [
+      "galgame",
+      "圣地巡礼",
+      "今日老婆"
+    ],
+    "social_link": "https://github.com/Care0721"
+  },
   "astrbot-plugin-morning-news": {
     "display_name": "飞书每日晨报",
     "desc": "定时向飞书会话推送每日晨报，支持卡片展示、文本回退、订阅、预览、新闻速览、天气查询与管理员立即群发。",
