@@ -1,4 +1,10 @@
 {
+  "astrbot-plugin-context-undo": {
+    "display_name": "上下文撤回",
+    "desc": "撤回最近一次或多次的ai回复上下文，避免ai被不良信息影响。",
+    "author": "lumingya",
+    "repo": "https://github.com/lumingya/astrbot_plugin_context_undo"
+  },
   "astrbot-plugin-qq-restapi": {
     "display_name": "QQ REST API 适配器",
     "desc": "QQ 官方 REST API 平台适配器，不依赖 botpy，直接 HTTP 调用官方接口。支持 WebSocket/Webhook 双模式、35+ 事件类型、Markdown 模板、按钮面板、自动事件处理等",
