@@ -1,4 +1,13 @@
 {
+  "astrbot-plugin-BiliCookie-monitor": {
+    "display_name": "B站Cookie状态监控插件",
+    "desc": "B站Cookie状态监控插件 - 定时检测Cookie有效性，失效时主动通知用户",
+    "author": "fimore",
+    "repo": "https://github.com/fimore/astrbot_plugin_bili_cookie_monitor",
+    "tags": [
+      "bilibili"
+    ]
+  },
   "astrbot-plugin-touhou-kb": {
     "display_name": "东方知识库",
     "desc": "将 THBWiki 备用站词条清洗后导入 AstrBot 官方知识库，支持会话绑定、人格绑定与东方话题优先路由",
