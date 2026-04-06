@@ -1,4 +1,18 @@
 {
+  "astrbot-plugin-touhou-kb": {
+    "display_name": "东方知识库",
+    "desc": "将 THBWiki 备用站词条清洗后导入 AstrBot 官方知识库，支持会话绑定、人格绑定与东方话题优先路由",
+    "author": "YunMo-yanyu",
+    "repo": "https://github.com/YunMo-yanyu/astrbot-",
+    "tags": [
+      "东方Project",
+      "THBWiki",
+      "知识库",
+      "RAG",
+      "人格绑定"
+    ],
+    "social_link": ""
+  },
   "astrbot-plugin-terraria-server-manager": {
     "display_name": "泰拉服务器管理",
     "desc": "Terraria TShock 服务器监控，支持玩家上下线通知、在线查询与远程指令执行",
