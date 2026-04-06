@@ -108,8 +108,8 @@
     ],
     "social_link": "https://github.com/Care0721",
     "stars": 1,
-    "version": "v1.7.0",
-    "updated_at": "2026-04-03T05:10:14Z"
+    "version": "v1.8.0",
+    "updated_at": "2026-04-06T10:09:43Z"
   },
   "astrbot-plugin-morning-news": {
     "display_name": "飞书每日晨报",
@@ -140,9 +140,9 @@
     "author": "aurora4123",
     "repo": "https://github.com/Aurora4123/astrbot_plugin_astralparty",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0",
-    "updated_at": "2026-04-01T13:09:40Z"
+    "updated_at": "2026-04-06T10:19:47Z"
   },
   "astrbot-plugin-biliread": {
     "display_name": "BiliRead - 让 AI 真正看懂 B 站视频",
@@ -361,7 +361,7 @@
     "social_link": "https://github.com/Jacobinwwey",
     "stars": 1,
     "version": "v0.2.0",
-    "updated_at": "2026-03-18T11:21:10Z",
+    "updated_at": "2026-04-06T10:52:42Z",
     "logo": "https://raw.githubusercontent.com/Jacobinwwey/astrbot_plugin_onesync/main/logo.png"
   },
   "astrbot-plugin-vrc-friend-radar": {
@@ -433,8 +433,8 @@
     ],
     "social_link": "https://github.com/oujunhaoyueling",
     "stars": 0,
-    "version": "2.5.0",
-    "updated_at": "2026-04-06T09:05:15Z"
+    "version": "2.5.2",
+    "updated_at": "2026-04-06T10:29:18Z"
   },
   "astrbot-plugin-central-intelligence": {
     "display_name": "Central Intelligence 记忆服务",
@@ -665,9 +665,9 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "category": "entertainment",
-    "stars": 18,
+    "stars": 19,
     "version": "v2.5.6",
-    "updated_at": "2026-04-06T04:57:30Z",
+    "updated_at": "2026-04-06T09:32:04Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot_plugin_atrifeed/main/logo.png"
   },
   "astrbot-plugin-self-open-llm-vtuber": {
@@ -1682,8 +1682,8 @@
     "category": "productivity",
     "tags": [],
     "stars": 8,
-    "version": "2.1.1",
-    "updated_at": "2026-04-03T06:45:07Z"
+    "version": "2.4.0",
+    "updated_at": "2026-04-06T09:59:06Z"
   },
   "astrbot-plugin-local-reminiscence": {
     "display_name": "本地回忆[APLR]",
@@ -2032,7 +2032,7 @@
     "category": "entertainment",
     "stars": 2,
     "version": "v1.0.2",
-    "updated_at": "2026-04-02T08:31:10Z"
+    "updated_at": "2026-04-06T09:30:00Z"
   },
   "astrbot-plugin-sky": {
     "display_name": "sky光遇助手",
@@ -2087,7 +2087,7 @@
     "tags": [],
     "stars": 8,
     "version": "v1.1.0",
-    "updated_at": "2026-04-06T08:58:22Z",
+    "updated_at": "2026-04-06T09:23:07Z",
     "logo": "https://raw.githubusercontent.com/zoffyultraman/astrbot_plugin_manbo-tts/main/logo.png"
   },
   "astrbot-plugin-steammod-monitor": {
@@ -7128,8 +7128,8 @@
     ],
     "category": "utilities",
     "stars": 28,
-    "version": "v5.2.0",
-    "updated_at": "2026-03-26T09:07:00Z",
+    "version": "v5.2.1",
+    "updated_at": "2026-04-06T10:58:11Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -7682,9 +7682,9 @@
     "repo": "https://github.com/SatenShiroya/astrbot_plugin_llm_qqgroupTools",
     "category": "ai_tools",
     "tags": [],
-    "stars": 14,
+    "stars": 15,
     "version": "V1.4.0",
-    "updated_at": "2026-03-25T04:05:50Z",
+    "updated_at": "2026-04-06T10:45:24Z",
     "logo": "https://raw.githubusercontent.com/SatenShiroya/astrbot_plugin_llm_qqgroupTools/master/logo.png"
   },
   "astrbot_plugin_cs_skins": {
@@ -14610,9 +14610,9 @@
       "搬史"
     ],
     "category": "utilities",
-    "stars": 548,
+    "stars": 549,
     "version": "v0.916",
-    "updated_at": "2026-04-05T18:05:53Z"
+    "updated_at": "2026-04-06T09:59:08Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
