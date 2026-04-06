@@ -1,4 +1,14 @@
 {
+  "astrbot-plugin-lark-access-control": {
+    "display_name": "飞书权限控制",
+    "desc": "AstrBot 插件，用于在飞书平台做访问权限控制，例如限制哪些用户可以与机器人对话，在哪些群聊中允许与机器人对话。",
+    "author": "Aolinlu",
+    "repo": "https://github.com/Aolinlu/astrbot_plugin_lark_access_control",
+    "tags": [
+      "飞书"
+    ],
+    "social_link": "https://github.com/Aolinlu"
+  },
   "astrbot-plugin-universe": {
     "display_name": "Galgame 圣地巡礼",
     "desc": "如果在梦里能相遇的话，那大概就是现实",
