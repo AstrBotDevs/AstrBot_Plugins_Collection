@@ -1041,7 +1041,7 @@
     "category": "entertainment",
     "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-03-30T08:20:40Z"
+    "updated_at": "2026-04-06T18:28:23Z"
   },
   "astrbot-plugin-rf4-data": {
     "display_name": "astrbot_plugin_rf4_data",
@@ -1935,8 +1935,8 @@
     "social_link": "https://github.com/menglimi",
     "category": "ai_tools",
     "stars": 32,
-    "version": "2.9.5",
-    "updated_at": "2026-04-06T11:56:58Z",
+    "version": "2.9.6",
+    "updated_at": "2026-04-06T18:05:52Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -3502,7 +3502,7 @@
     "category": "integrations",
     "stars": 7,
     "version": "v1.3",
-    "updated_at": "2026-04-06T06:44:37Z"
+    "updated_at": "2026-04-06T18:30:48Z"
   },
   "astrbot_plugin_telegram_forwarder": {
     "display_name": "Telegram Forwarder",
