@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-qq-restapi": {
+    "display_name": "QQ REST API 适配器",
+    "desc": "QQ 官方 REST API 平台适配器，不依赖 botpy，直接 HTTP 调用官方接口。支持 WebSocket/Webhook 双模式、35+ 事件类型、Markdown 模板、按钮面板、自动事件处理等",
+    "author": "Wanyi",
+    "repo": "https://github.com/Ryan7t/astrbot_plugin_qq_restapi",
+    "tags": [
+      "平台适配器",
+      "QQ"
+    ],
+    "social_link": "https://github.com/Ryan7t"
+  },
   "astrbot-plugin-lark-access-control": {
     "display_name": "飞书权限控制",
     "desc": "AstrBot 插件，用于在飞书平台做访问权限控制，例如限制哪些用户可以与机器人对话，在哪些群聊中允许与机器人对话。",
