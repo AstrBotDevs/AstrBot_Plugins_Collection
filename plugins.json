@@ -1,4 +1,19 @@
 {
+  "astrbot-plugin-CNInfoCrawler": {
+    "display_name": "巨潮资讯上市公司公告自动爬取工具",
+    "version": "1.0.0",
+    "desc": "CNInfoHedgeCrawler 是基于巨潮资讯的 A 股上市公司公告爬取工具，支持任意关键词搜索、日期范围过滤、PDF 批量下载和企业微信推送。",
+    "author": "Interstellar1217",
+    "repo": "https://github.com/Interstellar1217/CNInfoHedgeCrawler",
+    "tags": [
+      "套期保值",
+      "公告查询",
+      "巨潮资讯",
+      "业绩预告",
+      "金融"
+    ],
+    "social_link": "https://github.com/Interstellar1217"
+  },
   "astrbot-plugin-anime1-list": {
     "display_name": "anime1动画追番",
     "desc": "基于anime1.me，获取每日动画更新、番剧列表和观看地址。",
