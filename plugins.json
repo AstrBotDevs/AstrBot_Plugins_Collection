@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-mailer": {
+    "display_name": "学会发邮件",
+    "desc": "为Agent提供一个受控的 SMTP 电子邮件发送工具，支持 HTML 格式、内嵌图片以及附件功能。",
+    "author": "Fold",
+    "repo": "https://github.com/FFFold/astrbot_plugin_mailer",
+    "tags": [
+      "email",
+      "电子邮件",
+      "smtp"
+    ]
+  },
   "astrbot-plugin-CNInfoCrawler": {
     "display_name": "巨潮资讯上市公司公告自动爬取工具",
     "version": "1.0.0",
