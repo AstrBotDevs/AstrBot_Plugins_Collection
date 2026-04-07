@@ -2398,9 +2398,9 @@
     "repo": "https://github.com/Xuewu-awa/astrbot_plugin_bilibanshi",
     "category": "entertainment",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0.0",
-    "updated_at": "2026-03-17T05:07:17Z"
+    "updated_at": "2026-04-07T10:34:14Z"
   },
   "blueraina/astrbot-plugin-novel": {
     "desc": "QQ群群友协作 + AI辅助写作的长篇小说插件（每群独立/知识库/多AI打分/冲突投票/风格模仿/用户修正/EPUB/PDF导出）",
@@ -4716,9 +4716,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 248,
+    "stars": 249,
     "version": "Next-2.1.0",
-    "updated_at": "2026-04-07T02:58:45Z",
+    "updated_at": "2026-04-07T09:11:46Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -8353,9 +8353,9 @@
     "repo": "https://github.com/xiaoxi68/astrbot_quotes_plugin",
     "category": "entertainment",
     "tags": [],
-    "stars": 2,
-    "version": "v1.5.0",
-    "updated_at": "2025-12-08T05:51:01Z"
+    "stars": 3,
+    "version": "v1.9.0",
+    "updated_at": "2026-04-07T10:29:27Z"
   },
   "astrbot-plugin-tmp-bot": {
     "desc": "欧洲卡车模拟2 TMP查询机器人 - 支持玩家信息查询、位置查询、服务器状态查询、里程排行榜等功能",
@@ -8757,9 +8757,9 @@
       "fishing"
     ],
     "category": "entertainment",
-    "stars": 35,
+    "stars": 36,
     "version": "2.4.7",
-    "updated_at": "2026-04-06T08:03:13Z",
+    "updated_at": "2026-04-07T10:40:38Z",
     "logo": "https://raw.githubusercontent.com/xxlemon-io/astrbot_plugin_fishing/main/logo.png"
   },
   "astrbot_plugin_astrmetry": {
@@ -12222,9 +12222,9 @@
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
     "tags": [],
-    "stars": 46,
+    "stars": 47,
     "version": "v1.2.1",
-    "updated_at": "2026-04-04T10:32:18Z",
+    "updated_at": "2026-04-07T09:17:38Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_search_video/main/logo.png"
   },
   "astrbot_plugin_zt": {
@@ -12789,9 +12789,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "entertainment",
-    "stars": 214,
+    "stars": 215,
     "version": "v3.0.3",
-    "updated_at": "2026-04-05T19:44:39Z",
+    "updated_at": "2026-04-07T10:41:51Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -13553,9 +13553,9 @@
       "QQ群管"
     ],
     "category": "utilities",
-    "stars": 125,
+    "stars": 126,
     "version": "v3.2.7",
-    "updated_at": "2026-04-05T10:26:06Z",
+    "updated_at": "2026-04-07T10:40:30Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -14610,9 +14610,9 @@
       "搬史"
     ],
     "category": "utilities",
-    "stars": 550,
+    "stars": 551,
     "version": "v0.916",
-    "updated_at": "2026-04-06T16:38:38Z"
+    "updated_at": "2026-04-07T10:38:57Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
@@ -14630,9 +14630,9 @@
     "repo": "https://github.com/anka-afk/astrbot_plugin_humanlike",
     "category": "ai_tools",
     "tags": [],
-    "stars": 34,
+    "stars": 35,
     "version": "v0.2.2",
-    "updated_at": "2026-03-23T16:18:23Z"
+    "updated_at": "2026-04-07T10:55:49Z"
   },
   "astrbot_plugin_blue_archive": {
     "desc": "蔚蓝档案攻略查询 - 指令格式：攻略查询 <攻略名称>",
@@ -14656,9 +14656,9 @@
     ],
     "pinned": true,
     "category": "entertainment",
-    "stars": 223,
+    "stars": 224,
     "version": "v3.19",
-    "updated_at": "2026-04-07T06:51:06Z"
+    "updated_at": "2026-04-07T09:35:29Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
@@ -15291,7 +15291,7 @@
     "tags": [],
     "stars": 9,
     "version": "v1.0.4",
-    "updated_at": "2026-04-02T07:59:37Z"
+    "updated_at": "2026-04-07T09:52:03Z"
   },
   "astrbot_plugin_AW": {
     "desc": "群老婆插件，记得点右上角帮助查看readme",
