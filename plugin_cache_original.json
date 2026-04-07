@@ -158,9 +158,9 @@
       "外部集成"
     ],
     "social_link": "https://github.com/SodaCodeSave",
-    "stars": 12,
+    "stars": 13,
     "version": "v1.1.2",
-    "updated_at": "2026-04-04T05:57:00Z",
+    "updated_at": "2026-04-07T14:26:35Z",
     "logo": "https://raw.githubusercontent.com/SodaCodeSave/astrbot_plugin_biliread/master/logo.png"
   },
   "astrbot-plugin-DUT-Notices": {
@@ -361,7 +361,7 @@
     "social_link": "https://github.com/Jacobinwwey",
     "stars": 1,
     "version": "v0.2.0",
-    "updated_at": "2026-04-07T08:38:03Z",
+    "updated_at": "2026-04-07T14:20:38Z",
     "logo": "https://raw.githubusercontent.com/Jacobinwwey/astrbot_plugin_onesync/main/logo.png"
   },
   "astrbot-plugin-vrc-friend-radar": {
@@ -740,9 +740,9 @@
     ],
     "social_link": "https://github.com/NayukiChiba",
     "category": "productivity",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0.1",
-    "updated_at": "2026-04-04T04:49:44Z",
+    "updated_at": "2026-04-07T14:32:28Z",
     "logo": "https://raw.githubusercontent.com/NayukiChiba/astrbot_plugin_arxiv/master/logo.png"
   },
   "astrbot-plugin-cve-warning": {
@@ -1085,9 +1085,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 290,
-    "version": "v4.9.14",
-    "updated_at": "2026-04-07T06:19:01Z",
+    "stars": 291,
+    "version": "v4.9.15",
+    "updated_at": "2026-04-07T15:05:04Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -4066,9 +4066,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 290,
-    "version": "v4.9.14",
-    "updated_at": "2026-04-07T06:19:01Z",
+    "stars": 291,
+    "version": "v4.9.15",
+    "updated_at": "2026-04-07T15:05:04Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -7861,9 +7861,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 178,
+    "stars": 179,
     "version": "v1.2.2",
-    "updated_at": "2026-04-07T12:41:08Z",
+    "updated_at": "2026-04-07T13:58:05Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -10011,7 +10011,7 @@
     "category": "entertainment",
     "stars": 20,
     "version": "v1.0.4",
-    "updated_at": "2026-04-03T01:43:28Z"
+    "updated_at": "2026-04-07T14:15:40Z"
   },
   "astrbot_plugin_wakepro": {
     "display_name": "唤醒增强",
@@ -11357,9 +11357,9 @@
     ],
     "social_link": "https://github.com/lxfight",
     "category": "ai_tools",
-    "stars": 30,
+    "stars": 31,
     "version": "0.1.0",
-    "updated_at": "2026-03-20T13:27:37Z"
+    "updated_at": "2026-04-07T13:55:23Z"
   },
   "astrbot_plugin_textadventure": {
     "author": "LumineStory",
