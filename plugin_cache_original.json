@@ -1,4 +1,49 @@
 {
+  "astrbot-plugin-mailer": {
+    "display_name": "学会发邮件",
+    "desc": "为Agent提供一个受控的 SMTP 电子邮件发送工具，支持 HTML 格式、内嵌图片以及附件功能。",
+    "author": "Fold",
+    "repo": "https://github.com/FFFold/astrbot_plugin_mailer",
+    "tags": [
+      "email",
+      "电子邮件",
+      "smtp"
+    ],
+    "stars": 1,
+    "version": "0.1.1",
+    "updated_at": "2026-04-06T12:22:18Z",
+    "logo": "https://raw.githubusercontent.com/FFFold/astrbot_plugin_mailer/main/logo.png"
+  },
+  "astrbot-plugin-CNInfoCrawler": {
+    "display_name": "巨潮资讯上市公司公告自动爬取工具",
+    "version": "1.0.0",
+    "desc": "CNInfoHedgeCrawler 是基于巨潮资讯的 A 股上市公司公告爬取工具，支持任意关键词搜索、日期范围过滤、PDF 批量下载和企业微信推送。",
+    "author": "Interstellar1217",
+    "repo": "https://github.com/Interstellar1217/CNInfoHedgeCrawler",
+    "tags": [
+      "套期保值",
+      "公告查询",
+      "巨潮资讯",
+      "业绩预告",
+      "金融"
+    ],
+    "social_link": "https://github.com/Interstellar1217",
+    "stars": 1,
+    "updated_at": "2026-04-07T16:05:57Z"
+  },
+  "astrbot-plugin-anime1-list": {
+    "display_name": "anime1动画追番",
+    "desc": "基于anime1.me，获取每日动画更新、番剧列表和观看地址。",
+    "author": "zhist",
+    "repo": "https://github.com/zhist2028/astrbot_plugin_anime1_list",
+    "tags": [
+      "动画"
+    ],
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-04-07T15:47:30Z",
+    "logo": "https://raw.githubusercontent.com/zhist2028/astrbot_plugin_anime1_list/main/logo.png"
+  },
   "astrbot-plugin-BiliCookie-monitor": {
     "display_name": "B站Cookie状态监控插件",
     "desc": "B站Cookie状态监控插件 - 定时检测Cookie有效性，失效时主动通知用户",
@@ -158,9 +203,9 @@
       "外部集成"
     ],
     "social_link": "https://github.com/SodaCodeSave",
-    "stars": 13,
+    "stars": 14,
     "version": "v1.1.2",
-    "updated_at": "2026-04-07T14:26:35Z",
+    "updated_at": "2026-04-07T15:44:45Z",
     "logo": "https://raw.githubusercontent.com/SodaCodeSave/astrbot_plugin_biliread/master/logo.png"
   },
   "astrbot-plugin-DUT-Notices": {
@@ -373,8 +418,8 @@
       "vrchat"
     ],
     "stars": 2,
-    "version": "0.1.6",
-    "updated_at": "2026-04-07T12:00:55Z"
+    "version": "0.1.7",
+    "updated_at": "2026-04-07T15:11:47Z"
   },
   "astrbot-plugin-lyubishchev": {
     "display_name": "柳比歇夫时间管理插件",
@@ -1482,8 +1527,8 @@
     "category": "integrations",
     "tags": [],
     "stars": 16,
-    "version": "v7.1.1",
-    "updated_at": "2026-04-07T07:23:20Z",
+    "version": "v7.1.2",
+    "updated_at": "2026-04-07T16:01:53Z",
     "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_mihome/main/logo.png"
   },
   "astrbot-plugin-nai-brush": {
@@ -2681,9 +2726,9 @@
     ],
     "social_link": "https://github.com/cjxzdzh",
     "category": "ai_tools",
-    "stars": 7,
+    "stars": 8,
     "version": "1.0.1",
-    "updated_at": "2026-03-11T04:16:27Z"
+    "updated_at": "2026-04-07T15:11:07Z"
   },
   "astrbot-plugin-payqr": {
     "display_name": "智能收款码",
@@ -4805,7 +4850,7 @@
     "category": "productivity",
     "stars": 22,
     "version": "v1.5.1",
-    "updated_at": "2026-04-07T04:13:19Z",
+    "updated_at": "2026-04-07T15:55:11Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -7469,9 +7514,9 @@
       "图片处理"
     ],
     "category": "entertainment",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.2.2",
-    "updated_at": "2025-12-06T09:24:40Z",
+    "updated_at": "2026-04-07T15:14:05Z",
     "logo": "https://raw.githubusercontent.com/Yuzi-Liang/astrbot_plugin_mirage_tank/master/logo.png"
   },
   "astrbot_plugin_stockgame": {
@@ -7861,9 +7906,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 179,
+    "stars": 180,
     "version": "v1.2.2",
-    "updated_at": "2026-04-07T13:58:05Z",
+    "updated_at": "2026-04-07T15:31:41Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
