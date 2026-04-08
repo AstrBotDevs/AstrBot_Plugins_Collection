@@ -406,7 +406,7 @@
     "social_link": "https://github.com/Jacobinwwey",
     "stars": 2,
     "version": "v0.2.0",
-    "updated_at": "2026-04-08T04:33:24Z",
+    "updated_at": "2026-04-08T06:52:38Z",
     "logo": "https://raw.githubusercontent.com/Jacobinwwey/astrbot_plugin_onesync/main/logo.png"
   },
   "astrbot-plugin-vrc-friend-radar": {
@@ -1297,9 +1297,9 @@
     ],
     "social_link": "https://github.com/jiantoucn",
     "category": "integrations",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.11.0",
-    "updated_at": "2026-03-19T07:43:09Z",
+    "updated_at": "2026-04-08T06:36:42Z",
     "logo": "https://raw.githubusercontent.com/jiantoucn/astrbot_plugin_weibo_monitor/main/logo.png"
   },
   "astrbot-plugin-content-safety-guard": {
@@ -2595,9 +2595,9 @@
       "平台适配器"
     ],
     "category": "integrations",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.0.3",
-    "updated_at": "2026-04-07T12:27:14Z"
+    "updated_at": "2026-04-08T07:19:30Z"
   },
   "astrbot-plugin-halo-manager": {
     "display_name": "博客管理器",
@@ -11842,9 +11842,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 71,
+    "stars": 70,
     "version": "2.2.0",
-    "updated_at": "2026-04-03T12:02:23Z",
+    "updated_at": "2026-04-08T05:58:01Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -13583,9 +13583,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
     "category": "ai_tools",
-    "stars": 43,
+    "stars": 44,
     "version": "v2.0.0",
-    "updated_at": "2026-04-02T14:33:29Z",
+    "updated_at": "2026-04-08T07:10:07Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_browser/main/logo.png"
   },
   "astrbot_plugin_qqadmin": {
@@ -14061,9 +14061,9 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "category": "entertainment",
-    "stars": 100,
+    "stars": 98,
     "version": "v3.0.3",
-    "updated_at": "2026-04-05T08:16:11Z",
+    "updated_at": "2026-04-08T05:45:51Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
