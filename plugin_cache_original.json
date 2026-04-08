@@ -229,8 +229,8 @@
     ],
     "social_link": "www.wyccotccy.cn",
     "stars": 9,
-    "version": "1.4.0",
-    "updated_at": "2026-04-08T13:36:57Z",
+    "version": "2.0.0",
+    "updated_at": "2026-04-08T19:01:48Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -1412,8 +1412,8 @@
     ],
     "category": "entertainment",
     "stars": 4,
-    "version": "v1.2.2",
-    "updated_at": "2026-04-06T15:33:30Z"
+    "version": "v1.2.3",
+    "updated_at": "2026-04-08T17:30:01Z"
   },
   "astrbot-plugin-SteamLink": {
     "display_name": "Steam 游戏查找识别",
@@ -1714,9 +1714,9 @@
     "social_link": "https://github.com/Renyus",
     "category": "ai_tools",
     "tags": [],
-    "stars": 47,
+    "stars": 48,
     "version": "Ver 5.2.0",
-    "updated_at": "2026-04-08T11:56:26Z"
+    "updated_at": "2026-04-08T18:02:01Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -6071,9 +6071,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "entertainment",
-    "stars": 19,
+    "stars": 20,
     "version": "v2.2.7",
-    "updated_at": "2026-04-03T08:20:03Z",
+    "updated_at": "2026-04-08T18:22:02Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_life_scheduler/main/logo.png"
   },
   "astrbot_plugin_stealer": {
@@ -7172,9 +7172,9 @@
       "推特"
     ],
     "category": "utilities",
-    "stars": 28,
+    "stars": 29,
     "version": "v5.2.1",
-    "updated_at": "2026-04-06T10:58:11Z",
+    "updated_at": "2026-04-08T18:14:48Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
