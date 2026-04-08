@@ -1714,9 +1714,9 @@
     "social_link": "https://github.com/Renyus",
     "category": "ai_tools",
     "tags": [],
-    "stars": 46,
-    "version": "Ver 5.1.4",
-    "updated_at": "2026-04-06T13:20:24Z"
+    "stars": 47,
+    "version": "Ver 5.2.0",
+    "updated_at": "2026-04-08T10:53:46Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -1931,8 +1931,8 @@
     "social_link": "https://github.com/xiaoruange39",
     "category": "entertainment",
     "stars": 5,
-    "version": "v1.0.4",
-    "updated_at": "2026-03-18T06:19:42Z",
+    "version": "v1.0.5",
+    "updated_at": "2026-04-08T10:57:12Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_epic_freegame/main/logo.png"
   },
   "astrbot-plugin-goofish-catcher": {
@@ -4761,9 +4761,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 251,
+    "stars": 252,
     "version": "Next-2.1.0",
-    "updated_at": "2026-04-08T08:43:46Z",
+    "updated_at": "2026-04-08T10:29:48Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -6177,9 +6177,9 @@
     "repo": "https://github.com/onniemi/astrbot_plugin_qinglong",
     "category": "integrations",
     "tags": [],
-    "stars": 2,
+    "stars": 1,
     "version": "v1.0.1",
-    "updated_at": "2026-04-02T13:59:52Z"
+    "updated_at": "2026-04-08T09:07:01Z"
   },
   "astrbot_plugin_1panel": {
     "display_name": "1Panel 服务器管理",
@@ -9550,9 +9550,9 @@
     ],
     "social_link": "blog.isla.ltd",
     "category": "integrations",
-    "stars": 21,
+    "stars": 22,
     "version": "1.2.0",
-    "updated_at": "2026-04-03T11:27:59Z"
+    "updated_at": "2026-04-08T10:13:46Z"
   },
   "astrbot_plugin_AnimeMagnet": {
     "desc": "这是一个动漫磁链查询插件，可以获取动漫磁链",
@@ -10000,9 +10000,9 @@
     ],
     "social_link": "https://github.com/SodaSizzle",
     "category": "entertainment",
-    "stars": 19,
+    "stars": 20,
     "version": "v1.0.0",
-    "updated_at": "2026-03-28T13:43:07Z"
+    "updated_at": "2026-04-08T09:09:15Z"
   },
   "astrbot_plugin_baiduocr": {
     "desc": "百度智能云的 OCR 文字识别服务。新用户有千次的免费调用次数，适合轻度使用",
