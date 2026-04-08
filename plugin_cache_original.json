@@ -257,8 +257,8 @@
     ],
     "social_link": "https://github.com/YYY7C",
     "stars": 8,
-    "version": "1.1.3",
-    "updated_at": "2026-04-08T02:42:52Z",
+    "version": "1.2.0",
+    "updated_at": "2026-04-08T16:28:33Z",
     "logo": "https://raw.githubusercontent.com/YYY7C/TradingAgents-AstrBot/main/logo.png"
   },
   "astrbot-plugin-sts2-data": {
@@ -1145,8 +1145,8 @@
     ],
     "category": "utilities",
     "stars": 2,
-    "version": "2.0.0",
-    "updated_at": "2026-04-05T10:05:03Z",
+    "version": "2.1.0",
+    "updated_at": "2026-04-08T15:56:47Z",
     "logo": "https://raw.githubusercontent.com/lingyun14beta/astrbot_plugin_group_welcome/main/logo.png"
   },
   "astrbot-plugin-atrelay": {
@@ -1980,8 +1980,8 @@
     "social_link": "https://github.com/menglimi",
     "category": "ai_tools",
     "stars": 33,
-    "version": "2.9.6",
-    "updated_at": "2026-04-07T01:59:29Z",
+    "version": "2.9.7",
+    "updated_at": "2026-04-08T16:26:07Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -2343,9 +2343,9 @@
     ],
     "social_link": "https://github.com/leafliber",
     "category": "ai_tools",
-    "stars": 22,
+    "stars": 23,
     "version": "v1.11.1",
-    "updated_at": "2026-04-05T06:54:59Z",
+    "updated_at": "2026-04-08T16:47:40Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -2564,9 +2564,9 @@
     ],
     "social_link": "https://github.com/Radiant303",
     "category": "ai_tools",
-    "stars": 15,
+    "stars": 16,
     "version": "v2.2.1",
-    "updated_at": "2026-04-05T06:59:30Z",
+    "updated_at": "2026-04-08T15:37:12Z",
     "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_clonetts/master/logo.png"
   },
   "astrbot-plugin-ssh": {
@@ -4029,8 +4029,8 @@
     "social_link": "https://github.com/VanillaNahida",
     "category": "utilities",
     "stars": 1,
-    "version": "v1.0.1",
-    "updated_at": "2026-04-07T19:01:25Z",
+    "version": "v1.0.2",
+    "updated_at": "2026-04-08T15:31:15Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_auto_clean_member/master/logo.png"
   },
   "astrbot_plugin_judge": {
@@ -4761,9 +4761,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 253,
+    "stars": 254,
     "version": "Next-2.1.0",
-    "updated_at": "2026-04-08T14:56:09Z",
+    "updated_at": "2026-04-08T16:21:13Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -7906,9 +7906,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 183,
+    "stars": 184,
     "version": "v1.2.2",
-    "updated_at": "2026-04-08T12:37:01Z",
+    "updated_at": "2026-04-08T16:24:46Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -8453,8 +8453,8 @@
     ],
     "category": "utilities",
     "stars": 0,
-    "version": "v1.9.3",
-    "updated_at": "2026-04-07T05:38:25Z",
+    "version": "v2.0.0",
+    "updated_at": "2026-04-08T16:54:32Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_file_checker/master/logo.png"
   },
   "astrbot_plugin_tg_button": {
@@ -9401,9 +9401,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 130,
+    "stars": 131,
     "version": "2.2.4",
-    "updated_at": "2026-04-07T17:22:23Z",
+    "updated_at": "2026-04-08T15:40:19Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -9911,9 +9911,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
-    "stars": 62,
+    "stars": 63,
     "version": "3.1.3",
-    "updated_at": "2026-04-04T10:04:11Z",
+    "updated_at": "2026-04-08T16:47:14Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "findx010197/astrbot_plugin_reminder": {
