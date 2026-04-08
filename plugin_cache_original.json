@@ -449,9 +449,9 @@
       "面板"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.0.0",
-    "updated_at": "2026-04-05T17:02:45Z",
+    "updated_at": "2026-04-08T08:43:50Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_live_dashboard/main/logo.png"
   },
   "astrbot-plugin-wol-miko": {
@@ -945,7 +945,7 @@
     "category": "entertainment",
     "stars": 2,
     "version": "v0.0.4",
-    "updated_at": "2026-04-01T00:35:15Z",
+    "updated_at": "2026-04-08T07:52:49Z",
     "logo": "https://raw.githubusercontent.com/MomijiOXO/astrbot_plugin_HD2_daily_report/master/logo.png"
   },
   "astrbot-plugin-splatoon3": {
@@ -1781,7 +1781,7 @@
     "category": "ai_tools",
     "stars": 13,
     "version": "v1.1.0",
-    "updated_at": "2026-04-05T03:34:47Z"
+    "updated_at": "2026-04-08T07:24:12Z"
   },
   "astrbot-plugin-memory": {
     "display_name": "astrbot_plugin_memory",
@@ -2027,9 +2027,9 @@
     ],
     "social_link": "https://github.com/w2902171175",
     "category": "ai_tools",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.7.1",
-    "updated_at": "2026-04-07T12:33:46Z"
+    "updated_at": "2026-04-08T07:33:05Z"
   },
   "astrbot-plugin-custome-segment-reply": {
     "display_name": "自定义断句回复插件",
@@ -2254,9 +2254,9 @@
     "repo": "https://github.com/w2902171175/astrbot_plugin_GPT-SoVITS",
     "category": "ai_tools",
     "tags": [],
-    "stars": 8,
+    "stars": 9,
     "version": "v1.7.1",
-    "updated_at": "2026-04-07T12:33:46Z"
+    "updated_at": "2026-04-08T07:33:05Z"
   },
   "astrbot-plugin-topic-starter": {
     "display_name": "topic_starter",
@@ -2696,9 +2696,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "integrations",
-    "stars": 35,
+    "stars": 36,
     "version": "2.6.2",
-    "updated_at": "2026-04-05T10:14:40Z"
+    "updated_at": "2026-04-08T08:35:00Z"
   },
   "astrbot-plugin-meting": {
     "display_name": "初叶🍂MetingAPI 点歌",
@@ -4346,8 +4346,8 @@
     ],
     "category": "ai_tools",
     "stars": 10,
-    "version": "1.6.8",
-    "updated_at": "2026-04-05T15:52:11Z"
+    "version": "1.6.9",
+    "updated_at": "2026-04-08T07:58:09Z"
   },
   "astrbot_plugin_mc_manager": {
     "display_name": "astrbot_plugin_mc_manager",
@@ -4761,9 +4761,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 250,
+    "stars": 251,
     "version": "Next-2.1.0",
-    "updated_at": "2026-04-08T02:27:09Z",
+    "updated_at": "2026-04-08T08:43:46Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -6104,8 +6104,8 @@
     "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
     "category": "utilities",
     "stars": 26,
-    "version": "v1.3.3",
-    "updated_at": "2026-03-29T06:57:17Z",
+    "version": "v1.3.4beta",
+    "updated_at": "2026-04-08T08:36:01Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -6991,9 +6991,9 @@
     ],
     "social_link": "https://github.com/ZhiheZier",
     "category": "entertainment",
-    "stars": 1,
+    "stars": 2,
     "version": "1.1.0",
-    "updated_at": "2026-04-07T08:50:18Z",
+    "updated_at": "2026-04-08T08:34:52Z",
     "logo": "https://raw.githubusercontent.com/ZhiheZier/astrbot_plugin_maimaidx/master/logo.png"
   },
   "astrbot_plugin_mcsmanager": {
@@ -7906,9 +7906,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 181,
+    "stars": 182,
     "version": "v1.2.2",
-    "updated_at": "2026-04-07T19:05:10Z",
+    "updated_at": "2026-04-08T08:43:43Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -8399,8 +8399,8 @@
     "category": "entertainment",
     "tags": [],
     "stars": 3,
-    "version": "v1.10.0",
-    "updated_at": "2026-04-07T12:18:33Z"
+    "version": "v2.0.0",
+    "updated_at": "2026-04-08T07:30:00Z"
   },
   "astrbot-plugin-tmp-bot": {
     "desc": "欧洲卡车模拟2 TMP查询机器人 - 支持玩家信息查询、位置查询、服务器状态查询、里程排行榜等功能",
