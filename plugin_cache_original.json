@@ -406,7 +406,7 @@
     "social_link": "https://github.com/Jacobinwwey",
     "stars": 2,
     "version": "v0.2.0",
-    "updated_at": "2026-04-08T06:52:38Z",
+    "updated_at": "2026-04-08T11:57:08Z",
     "logo": "https://raw.githubusercontent.com/Jacobinwwey/astrbot_plugin_onesync/main/logo.png"
   },
   "astrbot-plugin-vrc-friend-radar": {
@@ -1158,8 +1158,8 @@
     "category": "utilities",
     "tags": [],
     "stars": 4,
-    "version": "v1.0.0",
-    "updated_at": "2026-04-02T11:58:31Z"
+    "version": "v1.1.0",
+    "updated_at": "2026-04-08T11:27:31Z"
   },
   "astrbot-plugin-Lumi-Hub-plugin": {
     "display_name": "Lumi-Hub-plugin",
@@ -1716,7 +1716,7 @@
     "tags": [],
     "stars": 47,
     "version": "Ver 5.2.0",
-    "updated_at": "2026-04-08T10:53:46Z"
+    "updated_at": "2026-04-08T11:56:26Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -1932,7 +1932,7 @@
     "category": "entertainment",
     "stars": 5,
     "version": "v1.0.5",
-    "updated_at": "2026-04-08T10:57:12Z",
+    "updated_at": "2026-04-08T11:34:38Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_epic_freegame/main/logo.png"
   },
   "astrbot-plugin-goofish-catcher": {
@@ -2938,9 +2938,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 104,
+    "stars": 105,
     "version": "v2.0.7",
-    "updated_at": "2026-04-07T12:51:34Z",
+    "updated_at": "2026-04-08T11:31:06Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -3487,9 +3487,9 @@
     ],
     "social_link": "https://github.com/YukiRa1n",
     "category": "integrations",
-    "stars": 11,
+    "stars": 10,
     "version": "2.2.0",
-    "updated_at": "2026-03-28T05:44:29Z"
+    "updated_at": "2026-04-08T11:02:13Z"
   },
   "astrbot_plugin_sudoku": {
     "display_name": "数独游戏",
