@@ -256,9 +256,9 @@
       "股票"
     ],
     "social_link": "https://github.com/YYY7C",
-    "stars": 7,
+    "stars": 8,
     "version": "1.1.3",
-    "updated_at": "2026-04-07T06:11:07Z",
+    "updated_at": "2026-04-08T02:42:52Z",
     "logo": "https://raw.githubusercontent.com/YYY7C/TradingAgents-AstrBot/main/logo.png"
   },
   "astrbot-plugin-sts2-data": {
@@ -271,9 +271,9 @@
       "查询工具"
     ],
     "social_link": "https://github.com/YuWan886",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.3.2",
-    "updated_at": "2026-04-02T15:09:16Z"
+    "updated_at": "2026-04-08T03:53:15Z"
   },
   "astrbot-plugin-zhuaxiaba": {
     "display_name": "贴吧抓虾吧插件",
@@ -404,9 +404,9 @@
       "astrbot"
     ],
     "social_link": "https://github.com/Jacobinwwey",
-    "stars": 1,
+    "stars": 2,
     "version": "v0.2.0",
-    "updated_at": "2026-04-08T02:31:38Z",
+    "updated_at": "2026-04-08T04:33:24Z",
     "logo": "https://raw.githubusercontent.com/Jacobinwwey/astrbot_plugin_onesync/main/logo.png"
   },
   "astrbot-plugin-vrc-friend-radar": {
@@ -417,9 +417,9 @@
     "tags": [
       "vrchat"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "0.1.7",
-    "updated_at": "2026-04-07T15:11:47Z"
+    "updated_at": "2026-04-08T03:54:34Z"
   },
   "astrbot-plugin-lyubishchev": {
     "display_name": "柳比歇夫时间管理插件",
@@ -1556,9 +1556,9 @@
       "数据查询"
     ],
     "category": "entertainment",
-    "stars": 32,
+    "stars": 33,
     "version": "2.7.0",
-    "updated_at": "2026-04-03T07:14:37Z",
+    "updated_at": "2026-04-08T03:49:39Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -3970,9 +3970,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
-    "stars": 31,
+    "stars": 32,
     "version": "v2.2.5",
-    "updated_at": "2026-03-29T08:16:49Z",
+    "updated_at": "2026-04-08T03:11:56Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_worldbook/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -6085,9 +6085,9 @@
       "表情"
     ],
     "category": "entertainment",
-    "stars": 37,
+    "stars": 38,
     "version": "2.4.15",
-    "updated_at": "2026-04-07T11:03:39Z",
+    "updated_at": "2026-04-08T02:51:13Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
