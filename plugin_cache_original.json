@@ -228,9 +228,9 @@
       "更多主动功能"
     ],
     "social_link": "www.wyccotccy.cn",
-    "stars": 8,
+    "stars": 9,
     "version": "1.4.0",
-    "updated_at": "2026-04-07T20:02:06Z",
+    "updated_at": "2026-04-08T13:36:57Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -406,7 +406,7 @@
     "social_link": "https://github.com/Jacobinwwey",
     "stars": 2,
     "version": "v0.2.0",
-    "updated_at": "2026-04-08T11:57:08Z",
+    "updated_at": "2026-04-08T13:41:19Z",
     "logo": "https://raw.githubusercontent.com/Jacobinwwey/astrbot_plugin_onesync/main/logo.png"
   },
   "astrbot-plugin-vrc-friend-radar": {
@@ -802,9 +802,9 @@
     ],
     "social_link": "https://xiaochai-123.github.io/",
     "category": "utilities",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-03-22T11:22:17Z"
+    "updated_at": "2026-04-08T12:47:52Z"
   },
   "astrbot-plugin-steamachievement-query": {
     "display_name": "SteamHunter成就查询",
@@ -4850,7 +4850,7 @@
     "category": "productivity",
     "stars": 22,
     "version": "v1.5.1",
-    "updated_at": "2026-04-07T15:55:11Z",
+    "updated_at": "2026-04-08T12:55:47Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -5516,9 +5516,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "utilities",
-    "stars": 56,
+    "stars": 57,
     "version": "1.1.3",
-    "updated_at": "2026-04-06T11:27:27Z",
+    "updated_at": "2026-04-08T12:30:11Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
@@ -5532,9 +5532,9 @@
       "人格"
     ],
     "category": "ai_tools",
-    "stars": 96,
+    "stars": 97,
     "version": "1.3.9",
-    "updated_at": "2026-04-06T23:18:44Z",
+    "updated_at": "2026-04-08T13:46:26Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -5661,9 +5661,9 @@
       "v1.0.0"
     ],
     "category": "ai_tools",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.4.0",
-    "updated_at": "2026-04-03T09:30:23Z"
+    "updated_at": "2026-04-08T13:05:55Z"
   },
   "astrbot_plugin_web_analysis": {
     "display_name": "网页解析",
@@ -5962,9 +5962,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 96,
+    "stars": 97,
     "version": "v1.5.1",
-    "updated_at": "2026-04-06T11:11:58Z",
+    "updated_at": "2026-04-08T12:19:53Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -6103,9 +6103,9 @@
     ],
     "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
     "category": "utilities",
-    "stars": 26,
+    "stars": 27,
     "version": "v1.3.4beta",
-    "updated_at": "2026-04-08T08:36:01Z",
+    "updated_at": "2026-04-08T12:58:18Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -6974,9 +6974,9 @@
     ],
     "social_link": "https://github.com/piexian",
     "category": "entertainment",
-    "stars": 9,
+    "stars": 10,
     "version": "1.2.6",
-    "updated_at": "2026-04-06T20:47:56Z",
+    "updated_at": "2026-04-08T13:01:38Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_rg2/master/logo.png"
   },
   "astrbot_plugin_maimaidx": {
@@ -7727,9 +7727,9 @@
     "repo": "https://github.com/SatenShiroya/astrbot_plugin_llm_qqgroupTools",
     "category": "ai_tools",
     "tags": [],
-    "stars": 15,
+    "stars": 16,
     "version": "V1.4.0",
-    "updated_at": "2026-04-06T10:45:24Z",
+    "updated_at": "2026-04-08T12:56:59Z",
     "logo": "https://raw.githubusercontent.com/SatenShiroya/astrbot_plugin_llm_qqgroupTools/master/logo.png"
   },
   "astrbot_plugin_cs_skins": {
@@ -7906,9 +7906,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 182,
+    "stars": 183,
     "version": "v1.2.2",
-    "updated_at": "2026-04-08T08:43:43Z",
+    "updated_at": "2026-04-08T12:37:01Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -8362,9 +8362,9 @@
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
     "category": "entertainment",
-    "stars": 23,
+    "stars": 24,
     "version": "v3.1.3",
-    "updated_at": "2026-03-16T12:33:35Z",
+    "updated_at": "2026-04-08T12:58:29Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_Favour_Ultra/main/logo.png"
   },
   "astrbot_plugin_owcx": {
@@ -9199,9 +9199,9 @@
       "永久记忆"
     ],
     "category": "utilities",
-    "stars": 3,
+    "stars": 4,
     "version": "v0.2.6.0",
-    "updated_at": "2026-01-25T11:08:57Z"
+    "updated_at": "2026-04-08T12:58:04Z"
   },
   "randomtoken": {
     "desc": "一个Token生成管理器，支持生成、导出、删除和查看Token列表。",
@@ -9448,9 +9448,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
-    "stars": 14,
+    "stars": 15,
     "version": "v2.1.0",
-    "updated_at": "2026-03-30T03:27:24Z",
+    "updated_at": "2026-04-08T13:01:20Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_recall_cancel/main/logo.png"
   },
   "astrbot_plugin_multimsg": {
@@ -12298,9 +12298,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
-    "stars": 76,
+    "stars": 77,
     "version": "v1.1.3",
-    "updated_at": "2026-04-03T19:05:27Z",
+    "updated_at": "2026-04-08T12:04:47Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
@@ -13598,9 +13598,9 @@
       "QQ群管"
     ],
     "category": "utilities",
-    "stars": 126,
+    "stars": 127,
     "version": "v3.2.7",
-    "updated_at": "2026-04-07T10:40:30Z",
+    "updated_at": "2026-04-08T12:59:50Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -14325,9 +14325,9 @@
     ],
     "social_link": "https://github.com/miaoxutao123/",
     "category": "utilities",
-    "stars": 74,
+    "stars": 75,
     "version": "0.3.0",
-    "updated_at": "2026-04-03T15:47:32Z"
+    "updated_at": "2026-04-08T12:19:11Z"
   },
   "astrbot_plugin_sjzb": {
     "desc": "随机生成《绝地潜兵2》游戏中一组 4 个战备配置",
@@ -15354,9 +15354,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "ai_tools",
     "tags": [],
-    "stars": 222,
+    "stars": 223,
     "version": "v2.1.3",
-    "updated_at": "2026-04-07T07:08:15Z"
+    "updated_at": "2026-04-08T12:47:31Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
