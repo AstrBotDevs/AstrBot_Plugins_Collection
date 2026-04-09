@@ -39,9 +39,9 @@
     "tags": [
       "动画"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-04-07T15:47:30Z",
+    "updated_at": "2026-04-09T01:19:01Z",
     "logo": "https://raw.githubusercontent.com/zhist2028/astrbot_plugin_anime1_list/main/logo.png"
   },
   "astrbot-plugin-BiliCookie-monitor": {
@@ -228,9 +228,9 @@
       "更多主动功能"
     ],
     "social_link": "www.wyccotccy.cn",
-    "stars": 9,
+    "stars": 10,
     "version": "2.0.0",
-    "updated_at": "2026-04-08T19:21:30Z",
+    "updated_at": "2026-04-09T01:22:35Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -1223,9 +1223,9 @@
     ],
     "social_link": "https://github.com/RhoninSeiei",
     "category": "productivity",
-    "stars": 2,
+    "stars": 3,
     "version": "v0.4.1",
-    "updated_at": "2026-03-30T15:09:03Z"
+    "updated_at": "2026-04-09T01:50:48Z"
   },
   "astrbot-plugin-lyria": {
     "display_name": "Lyria音乐生成",
@@ -1714,9 +1714,9 @@
     "social_link": "https://github.com/Renyus",
     "category": "ai_tools",
     "tags": [],
-    "stars": 49,
+    "stars": 50,
     "version": "Ver 5.2.0",
-    "updated_at": "2026-04-08T21:52:37Z"
+    "updated_at": "2026-04-09T02:15:09Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -4761,9 +4761,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 255,
+    "stars": 256,
     "version": "Next-2.1.0",
-    "updated_at": "2026-04-08T21:52:24Z",
+    "updated_at": "2026-04-09T01:53:40Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -9911,9 +9911,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
-    "stars": 63,
+    "stars": 64,
     "version": "3.1.3",
-    "updated_at": "2026-04-08T16:47:14Z",
+    "updated_at": "2026-04-09T02:18:30Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "findx010197/astrbot_plugin_reminder": {
@@ -11496,9 +11496,9 @@
     ],
     "social_link": "https://github.com/oyxning",
     "category": "ai_tools",
-    "stars": 58,
+    "stars": 59,
     "version": "v3.5.1",
-    "updated_at": "2026-04-03T12:06:17Z",
+    "updated_at": "2026-04-09T02:18:00Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_antipromptinjector/master/logo.png"
   },
   "astrbot_plugin_alistfile": {
