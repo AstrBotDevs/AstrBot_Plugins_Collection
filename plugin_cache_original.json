@@ -3656,9 +3656,9 @@
       "视奸"
     ],
     "category": "integrations",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.2.3",
-    "updated_at": "2026-03-23T01:55:48Z"
+    "updated_at": "2026-04-09T07:13:37Z"
   },
   "astrbot_plugin_minecraft_monitor": {
     "display_name": "MC 服务器监控（适配基岩版与 Java 版）",
@@ -4761,9 +4761,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 257,
+    "stars": 258,
     "version": "Next-2.1.0",
-    "updated_at": "2026-04-09T04:36:44Z",
+    "updated_at": "2026-04-09T05:31:15Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -6103,9 +6103,9 @@
     ],
     "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
     "category": "utilities",
-    "stars": 27,
+    "stars": 28,
     "version": "v1.3.4beta",
-    "updated_at": "2026-04-08T12:58:18Z",
+    "updated_at": "2026-04-09T06:04:19Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -6885,8 +6885,8 @@
     "category": "entertainment",
     "tags": [],
     "stars": 2,
-    "version": "v0.1.0",
-    "updated_at": "2026-03-06T03:43:35Z"
+    "version": "v0.1.1",
+    "updated_at": "2026-04-09T05:39:24Z"
   },
   "astrbot_plugin_hardwareinfo": {
     "display_name": "硬件信息查询",
@@ -8152,7 +8152,7 @@
     "category": "utilities",
     "stars": 25,
     "version": "v1.4.0",
-    "updated_at": "2026-03-31T16:40:38Z"
+    "updated_at": "2026-04-09T07:24:24Z"
   },
   "astrbot_plugin_fetch_summary": {
     "desc": "根据 URL 获取网站摘要",
@@ -9236,9 +9236,9 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "category": "entertainment",
     "tags": [],
-    "stars": 55,
+    "stars": 54,
     "version": "v2.7.5",
-    "updated_at": "2026-04-07T05:30:54Z"
+    "updated_at": "2026-04-09T06:38:02Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -11496,9 +11496,9 @@
     ],
     "social_link": "https://github.com/oyxning",
     "category": "ai_tools",
-    "stars": 59,
+    "stars": 61,
     "version": "v3.5.1",
-    "updated_at": "2026-04-09T02:18:00Z",
+    "updated_at": "2026-04-09T07:24:20Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_antipromptinjector/master/logo.png"
   },
   "astrbot_plugin_alistfile": {
