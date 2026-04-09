@@ -6121,9 +6121,9 @@
     ],
     "social_link": "https://github.com/sl251",
     "category": "ai_tools",
-    "stars": 15,
+    "stars": 16,
     "version": "1.2.0",
-    "updated_at": "2026-04-02T16:25:16Z",
+    "updated_at": "2026-04-09T08:36:40Z",
     "logo": "https://raw.githubusercontent.com/sl251/astrbot_plugin_e2b_sandbox/main/logo.png"
   },
   "astrbot_plugin_disaster_warning": {
@@ -8453,8 +8453,8 @@
     ],
     "category": "utilities",
     "stars": 0,
-    "version": "v2.0.0",
-    "updated_at": "2026-04-08T16:54:32Z",
+    "version": "v2.0.1",
+    "updated_at": "2026-04-09T08:59:09Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_file_checker/master/logo.png"
   },
   "astrbot_plugin_tg_button": {
@@ -14061,9 +14061,9 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "category": "entertainment",
-    "stars": 98,
+    "stars": 99,
     "version": "v3.0.3",
-    "updated_at": "2026-04-08T05:45:51Z",
+    "updated_at": "2026-04-09T07:37:31Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
@@ -14881,9 +14881,9 @@
     "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
     "category": "productivity",
     "tags": [],
-    "stars": 33,
+    "stars": 34,
     "version": "v1.4.3",
-    "updated_at": "2026-04-04T12:56:48Z"
+    "updated_at": "2026-04-09T08:58:46Z"
   },
   "ai_memory": {
     "desc": "一个AI记忆管理插件，可以让ai记住重要的事，记忆读取是ai自己调用的，有时候呆呆的ai不会自己调用，可以多问几次或者人格加上特定提示词,输入 /mem_help 查看记忆管理帮助",
