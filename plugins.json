@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-uapipro-toolbox": {
+    "display_name": "UApiPro 工具箱",
+    "desc": "调用 UApiPro 提供的免费 API，支持一言、天气、IP 查询，卡片图片返回。",
+    "author": "lingyun",
+    "repo": "https://github.com/lingyun14beta/astrbot_plugin_uapipro_toolbox",
+    "tags": [
+      "api",
+      "uapi"
+    ],
+    "social_link": "https://github.com/lingyun14beta"
+  },
   "astrbot-plugin-mailer": {
     "display_name": "学会发邮件",
     "desc": "为Agent提供一个受控的 SMTP 电子邮件发送工具，支持 HTML 格式、内嵌图片以及附件功能。",
