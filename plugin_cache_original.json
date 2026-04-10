@@ -1172,9 +1172,9 @@
     "social_link": "www.alienstar.icu",
     "category": "utilities",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "v1.1.0",
-    "updated_at": "2026-04-08T11:27:31Z"
+    "updated_at": "2026-04-10T08:54:38Z"
   },
   "astrbot-plugin-Lumi-Hub-plugin": {
     "display_name": "Lumi-Hub-plugin",
@@ -1965,7 +1965,7 @@
     "category": "utilities",
     "stars": 15,
     "version": "v2.1.1",
-    "updated_at": "2026-04-10T06:23:52Z",
+    "updated_at": "2026-04-10T09:03:02Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -6247,9 +6247,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
-    "stars": 67,
-    "version": "v4.2.24",
-    "updated_at": "2026-04-10T05:27:19Z",
+    "stars": 68,
+    "version": "v4.2.25",
+    "updated_at": "2026-04-10T09:05:37Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -7141,9 +7141,9 @@
     ],
     "social_link": "https://github.com/SinkAbyss",
     "category": "ai_tools",
-    "stars": 9,
+    "stars": 8,
     "version": "v1.1.6",
-    "updated_at": "2026-03-25T10:35:31Z"
+    "updated_at": "2026-04-10T08:04:14Z"
   },
   "astrbot_plugin_Furimg_Cloud": {
     "display_name": "兽云祭(兽兽图片/图鉴)",
@@ -10245,9 +10245,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "integrations",
-    "stars": 105,
+    "stars": 106,
     "version": "v3.0.4",
-    "updated_at": "2026-04-07T12:53:27Z",
+    "updated_at": "2026-04-10T08:33:46Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -14826,9 +14826,9 @@
     "repo": "https://github.com/dahetaoa/AstrBot-ban-Plugins",
     "category": "utilities",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "1.2.0",
-    "updated_at": "2026-03-24T03:08:50Z"
+    "updated_at": "2026-04-10T08:45:10Z"
   },
   "mccloud_zhipu_img": {
     "desc": "使用智谱AI生成图片。使用 /aimg <提示词> [大小] 生成图片。需要配置哦！",
