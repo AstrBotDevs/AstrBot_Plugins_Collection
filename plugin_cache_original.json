@@ -4792,7 +4792,7 @@
     "category": "ai_tools",
     "stars": 259,
     "version": "Next-2.1.0",
-    "updated_at": "2026-04-09T13:50:02Z",
+    "updated_at": "2026-04-10T14:59:13Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -8967,8 +8967,8 @@
     ],
     "category": "integrations",
     "stars": 4,
-    "version": "v1.0.0",
-    "updated_at": "2026-04-10T13:49:36Z"
+    "version": "v1.0.1",
+    "updated_at": "2026-04-10T15:40:30Z"
   },
   "astrbot_plugin_admin_emoji_reply": {
     "desc": "自动为指定的用户回复表情消息，支持开关和自定义速度",
@@ -11969,9 +11969,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 137,
+    "stars": 138,
     "version": "v2.1.0",
-    "updated_at": "2026-04-09T04:00:46Z",
+    "updated_at": "2026-04-10T15:24:31Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
