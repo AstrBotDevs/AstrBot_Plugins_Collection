@@ -10,8 +10,8 @@
     ],
     "social_link": "https://github.com/starlight02",
     "stars": 2,
-    "version": "v0.1.5",
-    "updated_at": "2026-04-10T14:38:13Z"
+    "version": "v0.1.6",
+    "updated_at": "2026-04-10T16:51:48Z"
   },
   "astrbot-plugin-uapipro-toolbox": {
     "display_name": "UApiPro 工具箱",
@@ -25,7 +25,7 @@
     "social_link": "https://github.com/lingyun14beta",
     "stars": 0,
     "version": "1.6.5",
-    "updated_at": "2026-04-05T13:16:44Z",
+    "updated_at": "2026-04-10T16:11:15Z",
     "logo": "https://raw.githubusercontent.com/lingyun14beta/astrbot_plugin_uapipro_toolbox/main/logo.png"
   },
   "astrbot-plugin-mailer": {
@@ -68,9 +68,9 @@
     "tags": [
       "动画"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-04-09T01:19:01Z",
+    "updated_at": "2026-04-10T16:17:27Z",
     "logo": "https://raw.githubusercontent.com/zhist2028/astrbot_plugin_anime1_list/main/logo.png"
   },
   "astrbot-plugin-BiliCookie-monitor": {
@@ -258,8 +258,8 @@
     ],
     "social_link": "www.wyccotccy.cn",
     "stars": 11,
-    "version": "2.1.0",
-    "updated_at": "2026-04-10T01:53:08Z",
+    "version": "3.0.0",
+    "updated_at": "2026-04-10T16:41:04Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -3999,9 +3999,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
-    "stars": 32,
+    "stars": 33,
     "version": "v2.2.5",
-    "updated_at": "2026-04-08T03:11:56Z",
+    "updated_at": "2026-04-10T16:45:30Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_worldbook/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -4745,9 +4745,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "utilities",
-    "stars": 44,
+    "stars": 45,
     "version": "1.1.1",
-    "updated_at": "2026-04-08T21:52:45Z"
+    "updated_at": "2026-04-10T16:42:46Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -6871,9 +6871,9 @@
       "ftp"
     ],
     "category": "integrations",
-    "stars": 3,
+    "stars": 4,
     "version": "1.2.0",
-    "updated_at": "2026-03-23T06:54:29Z"
+    "updated_at": "2026-04-10T16:15:59Z"
   },
   "astrbot_plugin_hotsearch": {
     "display_name": "实时热搜插件",
@@ -7637,9 +7637,9 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "ai_tools",
-    "stars": 85,
+    "stars": 86,
     "version": "v1.2.1-(hotfix-重推)",
-    "updated_at": "2026-04-09T13:50:07Z",
+    "updated_at": "2026-04-10T16:40:33Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -13052,9 +13052,9 @@
     ],
     "social_link": "https://github.com/vmoranv-reborn",
     "category": "entertainment",
-    "stars": 26,
+    "stars": 27,
     "version": "1.7.2",
-    "updated_at": "2026-04-10T02:58:08Z",
+    "updated_at": "2026-04-10T16:37:51Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
@@ -14206,8 +14206,8 @@
     ],
     "category": "utilities",
     "stars": 38,
-    "version": "v3.0.1",
-    "updated_at": "2026-04-05T15:44:23Z",
+    "version": "v3.0.2",
+    "updated_at": "2026-04-10T16:45:50Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
