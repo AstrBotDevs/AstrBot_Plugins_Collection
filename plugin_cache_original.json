@@ -4686,9 +4686,9 @@
     ],
     "social_link": "https://github.com/VanillaNahida/",
     "category": "utilities",
-    "stars": 26,
+    "stars": 27,
     "version": "v1.2.7",
-    "updated_at": "2026-04-09T16:37:59Z",
+    "updated_at": "2026-04-10T23:15:34Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_geetest_verify/master/logo.png"
   },
   "astrbot_plugin_cliproxy_stats": {
@@ -6207,8 +6207,8 @@
     "category": "integrations",
     "tags": [],
     "stars": 1,
-    "version": "v1.0.1",
-    "updated_at": "2026-04-08T09:07:01Z"
+    "version": "v1.1.0",
+    "updated_at": "2026-04-10T23:12:47Z"
   },
   "astrbot_plugin_1panel": {
     "display_name": "1Panel 服务器管理",
