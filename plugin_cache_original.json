@@ -1,4 +1,19 @@
 {
+  "astrbot-plugin-uapipro-toolbox": {
+    "display_name": "UApiPro 工具箱",
+    "desc": "调用 UApiPro 提供的免费 API，支持一言、天气、IP 查询，卡片图片返回。",
+    "author": "lingyun",
+    "repo": "https://github.com/lingyun14beta/astrbot_plugin_uapipro_toolbox",
+    "tags": [
+      "api",
+      "uapi"
+    ],
+    "social_link": "https://github.com/lingyun14beta",
+    "stars": 0,
+    "version": "1.6.5",
+    "updated_at": "2026-04-05T13:16:44Z",
+    "logo": "https://raw.githubusercontent.com/lingyun14beta/astrbot_plugin_uapipro_toolbox/main/logo.png"
+  },
   "astrbot-plugin-mailer": {
     "display_name": "学会发邮件",
     "desc": "为Agent提供一个受控的 SMTP 电子邮件发送工具，支持 HTML 格式、内嵌图片以及附件功能。",
@@ -230,7 +245,7 @@
     "social_link": "www.wyccotccy.cn",
     "stars": 11,
     "version": "2.1.0",
-    "updated_at": "2026-04-09T20:16:46Z",
+    "updated_at": "2026-04-10T01:53:08Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -2312,9 +2327,9 @@
     "social_link": "https://github.com/storyAura",
     "category": "entertainment",
     "tags": [],
-    "stars": 20,
+    "stars": 21,
     "version": "v1.0.2",
-    "updated_at": "2026-03-31T17:14:20Z",
+    "updated_at": "2026-04-10T02:39:21Z",
     "logo": "https://raw.githubusercontent.com/storyAura/astrbot_plugin_biliVideo/main/logo.png"
   },
   "astrbot-plugin-opencode-client": {
@@ -5198,9 +5213,9 @@
     "social_link": "https://github.com/NachoCrazy",
     "category": "entertainment",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "1.5.0",
-    "updated_at": "2026-03-05T07:03:23Z"
+    "updated_at": "2026-04-10T00:49:45Z"
   },
   "astrbot_plugin_netease_music": {
     "display_name": "豪华版网易云点歌插件",
@@ -8826,9 +8841,9 @@
     "social_link": "https://voice.gbkgov.cn",
     "category": "ai_tools",
     "tags": [],
-    "stars": 19,
+    "stars": 20,
     "version": "v1.9.0",
-    "updated_at": "2026-03-27T21:20:22Z"
+    "updated_at": "2026-04-10T01:43:37Z"
   },
   "astrbot_plugin_blacklist_tools": {
     "desc": "允许管理员和 LLM 将用户添加到黑名单中，阻止他们的消息，自动拉黑！",
@@ -11496,9 +11511,9 @@
     ],
     "social_link": "https://github.com/oyxning",
     "category": "ai_tools",
-    "stars": 61,
+    "stars": 62,
     "version": "v3.5.1",
-    "updated_at": "2026-04-09T07:24:20Z",
+    "updated_at": "2026-04-10T01:53:51Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_antipromptinjector/master/logo.png"
   },
   "astrbot_plugin_alistfile": {
@@ -13803,9 +13818,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
     "category": "integrations",
-    "stars": 77,
+    "stars": 78,
     "version": "v3.1.0",
-    "updated_at": "2026-04-02T13:54:50Z",
+    "updated_at": "2026-04-10T01:46:55Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
