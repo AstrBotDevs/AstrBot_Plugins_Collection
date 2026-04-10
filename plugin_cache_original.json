@@ -1978,8 +1978,8 @@
     "social_link": "https://github.com/RichardLiuda",
     "category": "utilities",
     "stars": 15,
-    "version": "v2.1.1",
-    "updated_at": "2026-04-10T09:03:02Z",
+    "version": "v2.2.0",
+    "updated_at": "2026-04-10T17:34:21Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -9967,7 +9967,7 @@
     "tags": [],
     "stars": 0,
     "version": "v1.0.0",
-    "updated_at": "2026-01-28T12:13:53Z",
+    "updated_at": "2026-04-10T17:13:34Z",
     "logo": "https://raw.githubusercontent.com/L1ke40oz/astrbot_plugin_tts_modify/master/logo.png"
   },
   "astrbot_plugin_keyword_monitor": {
