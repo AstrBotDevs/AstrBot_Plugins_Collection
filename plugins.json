@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-rocket-chat-adapter": {
+    "display_name": "Rocket.Chat 适配器",
+    "desc": "AstrBot 的 Rocket.Chat 消息平台适配器，支持通过 WebSocket 实时接收消息，通过 REST API 发送消息",
+    "author": "星光の殲滅者",
+    "repo": "https://github.com/NET-Homeless/astrbot_plugin_rocket_chat_adapter",
+    "tags": [
+      "消息平台",
+      "适配器"
+    ],
+    "social_link": "https://github.com/starlight02"
+  },
   "astrbot-plugin-uapipro-toolbox": {
     "display_name": "UApiPro 工具箱",
     "desc": "调用 UApiPro 提供的免费 API，支持一言、天气、IP 查询，卡片图片返回。",
