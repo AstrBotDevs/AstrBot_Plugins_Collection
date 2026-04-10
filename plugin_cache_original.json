@@ -2901,9 +2901,9 @@
       "转链"
     ],
     "category": "utilities",
-    "stars": 11,
+    "stars": 12,
     "version": "1.0.3",
-    "updated_at": "2026-03-29T11:05:44Z",
+    "updated_at": "2026-04-10T22:17:43Z",
     "logo": "https://raw.githubusercontent.com/chufeng/astrbot_plugin_bili_resolver/main/logo.png"
   },
   "astrbot-plugin-inkfusion": {
@@ -6219,7 +6219,7 @@
     "tags": [],
     "stars": 2,
     "version": "v1.0.3",
-    "updated_at": "2026-04-02T13:59:15Z"
+    "updated_at": "2026-04-10T21:44:26Z"
   },
   "astrbot_plugin_gif_vision_helper": {
     "display_name": "GIF Vision Helper",
