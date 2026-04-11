@@ -447,8 +447,8 @@
       "vrchat"
     ],
     "stars": 4,
-    "version": "0.1.7",
-    "updated_at": "2026-04-10T07:35:33Z"
+    "version": "0.1.8",
+    "updated_at": "2026-04-11T12:57:43Z"
   },
   "astrbot-plugin-lyubishchev": {
     "display_name": "柳比歇夫时间管理插件",
@@ -580,9 +580,9 @@
     "tags": [
       "工具"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.1.1",
-    "updated_at": "2026-03-30T17:13:15Z"
+    "updated_at": "2026-04-11T11:48:25Z"
   },
   "astrbot-plugin-ancient-poem": {
     "display_name": "古诗插件",
@@ -1775,9 +1775,9 @@
     ],
     "social_link": "https://github.com/olozhika/",
     "category": "ai_tools",
-    "stars": 22,
+    "stars": 23,
     "version": "v1.2.3",
-    "updated_at": "2026-04-10T09:35:09Z",
+    "updated_at": "2026-04-11T11:56:17Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
@@ -2667,8 +2667,8 @@
     "social_link": "https://github.com/1-20182",
     "category": "entertainment",
     "stars": 9,
-    "version": "v1.9.5",
-    "updated_at": "2026-04-10T11:48:59Z"
+    "version": "v1.9.6",
+    "updated_at": "2026-04-11T12:30:58Z"
   },
   "astrbot-plugin-Gemini-STT": {
     "display_name": "Gemini_STT",
@@ -3592,7 +3592,7 @@
     "category": "integrations",
     "stars": 18,
     "version": "0.7.0",
-    "updated_at": "2026-04-06T12:42:58Z",
+    "updated_at": "2026-04-11T12:51:21Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -4792,7 +4792,7 @@
     "category": "ai_tools",
     "stars": 260,
     "version": "Next-2.1.0",
-    "updated_at": "2026-04-11T03:55:23Z",
+    "updated_at": "2026-04-11T11:59:52Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -7935,9 +7935,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 186,
+    "stars": 188,
     "version": "v1.2.2",
-    "updated_at": "2026-04-11T08:34:11Z",
+    "updated_at": "2026-04-11T12:44:38Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -8317,8 +8317,8 @@
     "social_link": "https://www.misakanet.site",
     "category": "utilities",
     "stars": 10,
-    "version": "v1.3.1",
-    "updated_at": "2026-04-11T10:19:10Z",
+    "version": "v1.3.3",
+    "updated_at": "2026-04-11T12:28:44Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_persona_plus/master/logo.png"
   },
   "astrbot_plugin_sticker": {
@@ -14730,9 +14730,9 @@
     ],
     "pinned": true,
     "category": "entertainment",
-    "stars": 229,
+    "stars": 230,
     "version": "v3.20",
-    "updated_at": "2026-04-11T08:25:39Z"
+    "updated_at": "2026-04-11T11:45:32Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
