@@ -767,9 +767,9 @@
     ],
     "social_link": "https://github.com/zzzwannasleep",
     "category": "productivity",
-    "stars": 2,
+    "stars": 1,
     "version": "0.1.0",
-    "updated_at": "2026-04-08T19:51:52Z"
+    "updated_at": "2026-04-11T23:04:17Z"
   },
   "astrbot-plugin-pjsk-guess-card": {
     "display_name": "PJSK猜卡面插件",
@@ -7935,9 +7935,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 188,
+    "stars": 189,
     "version": "v1.2.2",
-    "updated_at": "2026-04-11T12:44:38Z",
+    "updated_at": "2026-04-11T23:28:54Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
