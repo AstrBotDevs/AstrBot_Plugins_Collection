@@ -1161,7 +1161,7 @@
     "category": "productivity",
     "stars": 296,
     "version": "v4.9.15",
-    "updated_at": "2026-04-11T08:15:15Z",
+    "updated_at": "2026-04-11T13:31:10Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1977,9 +1977,9 @@
     ],
     "social_link": "https://github.com/RichardLiuda",
     "category": "utilities",
-    "stars": 15,
+    "stars": 16,
     "version": "v2.2.0",
-    "updated_at": "2026-04-10T18:06:49Z",
+    "updated_at": "2026-04-11T13:32:22Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -4142,7 +4142,7 @@
     "category": "utilities",
     "stars": 296,
     "version": "v4.9.15",
-    "updated_at": "2026-04-11T08:15:15Z",
+    "updated_at": "2026-04-11T13:31:10Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -8318,7 +8318,7 @@
     "category": "utilities",
     "stars": 10,
     "version": "v1.3.3",
-    "updated_at": "2026-04-11T12:28:44Z",
+    "updated_at": "2026-04-11T14:16:44Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_persona_plus/master/logo.png"
   },
   "astrbot_plugin_sticker": {
@@ -12106,9 +12106,9 @@
     "repo": "https://github.com/VincenttHo/astrbot_plugin_dzmm",
     "category": "entertainment",
     "tags": [],
-    "stars": 20,
+    "stars": 21,
     "version": "v1.1.1",
-    "updated_at": "2026-03-30T19:48:29Z"
+    "updated_at": "2026-04-11T14:03:43Z"
   },
   "astrbot_plugin_text2image": {
     "author": "wuyan1003",
