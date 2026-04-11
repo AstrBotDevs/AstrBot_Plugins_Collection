@@ -7786,9 +7786,9 @@
       "战绩"
     ],
     "category": "entertainment",
-    "stars": 6,
+    "stars": 7,
     "version": "v2.0.0",
-    "updated_at": "2026-04-07T04:53:16Z"
+    "updated_at": "2026-04-11T21:42:58Z"
   },
   "astrbot_plugin_email_tool": {
     "display_name": "SMTP 邮件小工具",
