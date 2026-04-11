@@ -1897,9 +1897,9 @@
     ],
     "social_link": "https://github.com/united-pooh",
     "category": "entertainment",
-    "stars": 11,
+    "stars": 10,
     "version": "v1.1.1",
-    "updated_at": "2026-04-11T17:30:01Z",
+    "updated_at": "2026-04-11T17:46:09Z",
     "logo": "https://raw.githubusercontent.com/united-pooh/astrbot_plugin_bangumi/main/logo.png"
   },
   "astrbot-plugin-three-body-wiki": {
@@ -4686,9 +4686,9 @@
     ],
     "social_link": "https://github.com/VanillaNahida/",
     "category": "utilities",
-    "stars": 27,
+    "stars": 28,
     "version": "v1.2.7",
-    "updated_at": "2026-04-10T23:15:34Z",
+    "updated_at": "2026-04-11T17:41:48Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_geetest_verify/master/logo.png"
   },
   "astrbot_plugin_cliproxy_stats": {
@@ -6116,7 +6116,7 @@
     "category": "entertainment",
     "stars": 40,
     "version": "2.5.2",
-    "updated_at": "2026-04-11T17:07:05Z",
+    "updated_at": "2026-04-11T18:00:19Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -9967,7 +9967,7 @@
     "tags": [],
     "stars": 0,
     "version": "v1.0.0",
-    "updated_at": "2026-04-10T17:55:11Z",
+    "updated_at": "2026-04-11T18:16:25Z",
     "logo": "https://raw.githubusercontent.com/L1ke40oz/astrbot_plugin_tts_modify/master/logo.png"
   },
   "astrbot_plugin_keyword_monitor": {
@@ -14616,9 +14616,9 @@
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
     "category": "ai_tools",
-    "stars": 117,
+    "stars": 116,
     "version": "v2.1.11",
-    "updated_at": "2026-04-03T08:53:52Z"
+    "updated_at": "2026-04-11T17:58:53Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
