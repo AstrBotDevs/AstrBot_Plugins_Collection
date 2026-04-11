@@ -10,8 +10,8 @@
     ],
     "social_link": "https://github.com/starlight02",
     "stars": 2,
-    "version": "v0.1.7",
-    "updated_at": "2026-04-11T04:12:39Z"
+    "version": "v0.1.8",
+    "updated_at": "2026-04-11T05:46:37Z"
   },
   "astrbot-plugin-uapipro-toolbox": {
     "display_name": "UApiPro 工具箱",
@@ -1730,9 +1730,9 @@
     ],
     "social_link": "www.maredevi.moe",
     "category": "entertainment",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.1.3",
-    "updated_at": "2026-03-14T04:06:48Z",
+    "updated_at": "2026-04-11T05:26:19Z",
     "logo": "https://raw.githubusercontent.com/MareDevi/astrbot_plugin_f1_notifier/master/logo.png"
   },
   "astrbot-plugin-self-evolution": {
@@ -2159,9 +2159,9 @@
     "social_link": "https://github.com/zoffyultraman",
     "category": "entertainment",
     "tags": [],
-    "stars": 8,
+    "stars": 9,
     "version": "v1.1.1",
-    "updated_at": "2026-04-07T08:55:12Z",
+    "updated_at": "2026-04-11T05:21:36Z",
     "logo": "https://raw.githubusercontent.com/zoffyultraman/astrbot_plugin_manbo-tts/main/logo.png"
   },
   "astrbot-plugin-steammod-monitor": {
@@ -4670,7 +4670,7 @@
     "category": "ai_tools",
     "stars": 3,
     "version": "v1.0.1",
-    "updated_at": "2026-03-22T10:33:56Z",
+    "updated_at": "2026-04-11T05:56:15Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_image_generation/master/logo.png"
   },
   "astrbot_plugin_group_geetest_verfy": {
@@ -4879,7 +4879,7 @@
     "category": "productivity",
     "stars": 22,
     "version": "v1.6.0",
-    "updated_at": "2026-04-10T14:35:46Z",
+    "updated_at": "2026-04-11T05:55:18Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -6195,9 +6195,9 @@
     ],
     "social_link": "https://github.com/GEMILUXVII",
     "category": "integrations",
-    "stars": 1,
+    "stars": 2,
     "version": "1.4.1",
-    "updated_at": "2025-12-30T07:23:56Z"
+    "updated_at": "2026-04-11T05:26:21Z"
   },
   "astrbot_plugin_qinglong": {
     "display_name": "青龙面板管理",
@@ -6262,8 +6262,8 @@
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
     "stars": 68,
-    "version": "v4.2.25",
-    "updated_at": "2026-04-10T09:05:37Z",
+    "version": "v4.2.26",
+    "updated_at": "2026-04-11T05:12:36Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -6679,9 +6679,9 @@
     ],
     "social_link": "https://github.com/piexian",
     "category": "ai_tools",
-    "stars": 35,
+    "stars": 36,
     "version": "v1.9.7",
-    "updated_at": "2026-03-30T18:15:25Z",
+    "updated_at": "2026-04-11T05:24:06Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -7055,7 +7055,7 @@
     "category": "integrations",
     "stars": 9,
     "version": "2.0.2",
-    "updated_at": "2026-03-17T17:40:54Z",
+    "updated_at": "2026-04-11T05:54:02Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_minecraft_adapter/master/logo.png"
   },
   "astrbot_plugin_temp-email": {
