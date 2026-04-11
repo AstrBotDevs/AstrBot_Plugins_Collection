@@ -11,7 +11,7 @@
     "social_link": "https://github.com/starlight02",
     "stars": 2,
     "version": "v0.1.8",
-    "updated_at": "2026-04-11T05:46:37Z"
+    "updated_at": "2026-04-11T06:13:25Z"
   },
   "astrbot-plugin-uapipro-toolbox": {
     "display_name": "UApiPro 工具箱",
@@ -257,9 +257,9 @@
       "更多主动功能"
     ],
     "social_link": "www.wyccotccy.cn",
-    "stars": 11,
+    "stars": 12,
     "version": "3.0.0",
-    "updated_at": "2026-04-10T16:41:04Z",
+    "updated_at": "2026-04-11T07:23:15Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -2461,8 +2461,8 @@
     ],
     "category": "utilities",
     "stars": 2,
-    "version": "v1.2.0",
-    "updated_at": "2026-03-30T11:23:34Z",
+    "version": "v1.2.1",
+    "updated_at": "2026-04-11T07:30:51Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_sentinel/master/logo.png"
   },
   "astrbot-plugin-bilibanshi": {
@@ -2967,9 +2967,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 108,
+    "stars": 109,
     "version": "v2.0.7",
-    "updated_at": "2026-04-09T12:43:38Z",
+    "updated_at": "2026-04-11T06:21:04Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -4084,9 +4084,9 @@
       "数据搜刮"
     ],
     "category": "entertainment",
-    "stars": 12,
+    "stars": 13,
     "version": "v1.5.4",
-    "updated_at": "2026-04-02T13:52:42Z",
+    "updated_at": "2026-04-11T07:19:37Z",
     "logo": "https://raw.githubusercontent.com/zhoufan47/astrbot_plugin_bbt_daily_news/master/logo.png"
   },
   "astrbot_plugin_fflogs": {
@@ -4200,9 +4200,9 @@
     ],
     "social_link": "https://blog.gbkgov.cn",
     "category": "productivity",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.0.0",
-    "updated_at": "2026-03-11T13:03:55Z",
+    "updated_at": "2026-04-11T07:06:21Z",
     "logo": "https://raw.githubusercontent.com/Chris95743/astrbot_plugin_mysql/main/logo.png"
   },
   "astrbot_plugin_github_webhook": {
@@ -7202,8 +7202,8 @@
     ],
     "category": "utilities",
     "stars": 30,
-    "version": "v5.2.2",
-    "updated_at": "2026-04-11T00:34:46Z",
+    "version": "v5.2.3",
+    "updated_at": "2026-04-11T06:44:24Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -7873,7 +7873,7 @@
     "category": "utilities",
     "stars": 4,
     "version": "v1.2.5",
-    "updated_at": "2026-04-10T09:35:09Z",
+    "updated_at": "2026-04-11T06:52:33Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_magnet_preview/master/logo.png"
   },
   "astrbot_plugin_gemini-image": {
@@ -8482,8 +8482,8 @@
     ],
     "category": "utilities",
     "stars": 1,
-    "version": "v2.0.1",
-    "updated_at": "2026-04-09T09:53:58Z",
+    "version": "v2.0.2",
+    "updated_at": "2026-04-11T06:26:11Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_file_checker/master/logo.png"
   },
   "astrbot_plugin_tg_button": {
