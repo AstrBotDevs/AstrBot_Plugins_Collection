@@ -257,9 +257,9 @@
       "更多主动功能"
     ],
     "social_link": "www.wyccotccy.cn",
-    "stars": 12,
+    "stars": 13,
     "version": "3.0.0",
-    "updated_at": "2026-04-11T07:23:15Z",
+    "updated_at": "2026-04-11T17:00:54Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -1546,7 +1546,7 @@
     "category": "utilities",
     "stars": 1,
     "version": "1.0.0",
-    "updated_at": "2026-03-07T15:52:06Z"
+    "updated_at": "2026-04-11T16:57:38Z"
   },
   "astrbot-plugin-mihome": {
     "display_name": "米家控制",
@@ -1897,9 +1897,9 @@
     ],
     "social_link": "https://github.com/united-pooh",
     "category": "entertainment",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.1.1",
-    "updated_at": "2026-03-24T15:48:32Z",
+    "updated_at": "2026-04-11T17:30:01Z",
     "logo": "https://raw.githubusercontent.com/united-pooh/astrbot_plugin_bangumi/main/logo.png"
   },
   "astrbot-plugin-three-body-wiki": {
@@ -1979,7 +1979,7 @@
     "category": "utilities",
     "stars": 16,
     "version": "v2.2.1",
-    "updated_at": "2026-04-11T16:29:27Z",
+    "updated_at": "2026-04-11T17:03:49Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -2106,7 +2106,7 @@
     "category": "entertainment",
     "stars": 2,
     "version": "v1.0.2",
-    "updated_at": "2026-04-11T16:33:51Z"
+    "updated_at": "2026-04-11T16:56:50Z"
   },
   "astrbot-plugin-sky": {
     "display_name": "sky光遇助手",
@@ -5963,8 +5963,8 @@
     "social_link": "https://github.com/Xbodwf",
     "category": "entertainment",
     "stars": 6,
-    "version": "1.30.0",
-    "updated_at": "2026-03-30T06:26:14Z"
+    "version": "2.0.1",
+    "updated_at": "2026-04-11T17:31:04Z"
   },
   "astrbot_plugin_QQbox": {
     "display_name": "QQbox",
@@ -6115,8 +6115,8 @@
     ],
     "category": "entertainment",
     "stars": 40,
-    "version": "2.5.01",
-    "updated_at": "2026-04-11T16:21:41Z",
+    "version": "2.5.2",
+    "updated_at": "2026-04-11T17:07:05Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -7055,7 +7055,7 @@
     "category": "integrations",
     "stars": 9,
     "version": "2.0.2",
-    "updated_at": "2026-04-11T15:12:35Z",
+    "updated_at": "2026-04-11T17:13:15Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_minecraft_adapter/master/logo.png"
   },
   "astrbot_plugin_temp-email": {
@@ -9279,9 +9279,9 @@
     ],
     "social_link": "https://github.com/qa296/",
     "category": "ai_tools",
-    "stars": 9,
+    "stars": 10,
     "version": "2.0.8",
-    "updated_at": "2026-04-11T09:13:06Z"
+    "updated_at": "2026-04-11T16:49:34Z"
   },
   "astrbot_plugin_anti_revoke": {
     "desc": "[仅 OneBot]监控指定群聊会话撤回的消息并发送给目标用户",
@@ -10156,7 +10156,7 @@
     "category": "utilities",
     "stars": 52,
     "version": "v2.2.0",
-    "updated_at": "2026-04-10T03:00:39Z",
+    "updated_at": "2026-04-11T16:41:31Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
