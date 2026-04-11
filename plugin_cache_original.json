@@ -1978,8 +1978,8 @@
     "social_link": "https://github.com/RichardLiuda",
     "category": "utilities",
     "stars": 16,
-    "version": "v2.2.0",
-    "updated_at": "2026-04-11T13:32:22Z",
+    "version": "v2.2.1",
+    "updated_at": "2026-04-11T16:29:27Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -2106,7 +2106,7 @@
     "category": "entertainment",
     "stars": 2,
     "version": "v1.0.2",
-    "updated_at": "2026-04-06T09:30:00Z"
+    "updated_at": "2026-04-11T16:33:51Z"
   },
   "astrbot-plugin-sky": {
     "display_name": "sky光遇助手",
@@ -4040,9 +4040,9 @@
     ],
     "social_link": "https://github.com/siciyuanweilai",
     "category": "entertainment",
-    "stars": 30,
+    "stars": 31,
     "version": "5.1.2",
-    "updated_at": "2026-04-09T10:17:30Z",
+    "updated_at": "2026-04-11T16:37:41Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -4745,9 +4745,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "utilities",
-    "stars": 45,
+    "stars": 46,
     "version": "1.1.1",
-    "updated_at": "2026-04-10T16:42:46Z"
+    "updated_at": "2026-04-11T16:32:56Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -6115,8 +6115,8 @@
     ],
     "category": "entertainment",
     "stars": 40,
-    "version": "2.4.15",
-    "updated_at": "2026-04-09T17:55:17Z",
+    "version": "2.5.01",
+    "updated_at": "2026-04-11T16:21:41Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -6601,9 +6601,9 @@
     ],
     "social_link": "https://box.firefly520.top/",
     "category": "ai_tools",
-    "stars": 27,
+    "stars": 28,
     "version": "1.5.6",
-    "updated_at": "2026-04-04T18:32:32Z",
+    "updated_at": "2026-04-11T16:35:24Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/main/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
