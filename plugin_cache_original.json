@@ -1066,9 +1066,9 @@
     "tags": [],
     "social_link": "",
     "category": "ai_tools",
-    "stars": 29,
+    "stars": 30,
     "version": "1.1.1",
-    "updated_at": "2026-04-07T08:53:04Z",
+    "updated_at": "2026-04-11T00:45:36Z",
     "logo": "https://raw.githubusercontent.com/Kalospacer/astrbot_plugin_maid_agent/master/logo.png"
   },
   "astrbot-plugin-stoprushingiamtyping": {
@@ -7201,9 +7201,9 @@
       "推特"
     ],
     "category": "utilities",
-    "stars": 29,
+    "stars": 30,
     "version": "v5.2.2",
-    "updated_at": "2026-04-09T14:31:56Z",
+    "updated_at": "2026-04-11T00:34:46Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -9641,9 +9641,9 @@
     "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
     "category": "ai_tools",
     "tags": [],
-    "stars": 46,
+    "stars": 47,
     "version": "v1.0.4",
-    "updated_at": "2026-04-02T13:11:03Z"
+    "updated_at": "2026-04-11T00:14:02Z"
   },
   "astrbot_plugin_vtb_adapter": {
     "desc": "用于连接 AstrBot 与 Open LLM Vtuber，除安装插件外还需要修改 Open LLM Vtuber 中的相关文件",
