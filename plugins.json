@@ -6,6 +6,116 @@
     "repo": "https://github.com/AstrBotDevs/builtin_commands_extension",
     "social_link": "https://docs.astrbot.app/use/command.html"
   },
+  "astrbot_plugin_btw": {
+    "display_name": "ByTheWay 快捷问题",
+    "desc": "类似claude code /btw指令，允许用户在当前对话中快速发起一次额外的独立提问，不包含上下文，不计入对话历史。",
+    "author": "JingLang",
+    "repo": "https://github.com/PandragonXIII/astrbot_plugin_btw",
+    "tags": [
+      "对话"
+    ]
+  },
+  "astrbot_plugin_torrent_analyze": {
+    "display_name": "磁链分析",
+    "desc": "查询磁链或种子 hash 的基础信息，并可选返回截图拼图（支持高斯模糊）",
+    "author": "howrain",
+    "repo": "https://github.com/howrain/astrbot_plugin_torrent_analyze",
+    "tags": [
+      "磁链"
+    ],
+    "social_link": "https://github.com/howrain"
+  },
+  "astrbot_plugin_rsshub": {
+    "display_name": "RSS订阅",
+    "desc": "多平台RSS订阅推送插件，支持失败队列重试、多BOT去重、平台数据共享、智能发送策略，LLM工具调用，让你的BOT成为信息聚合中心。",
+    "author": "FlanChanXwO",
+    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_rsshub",
+    "tags": [
+      "rss",
+      "rsshub",
+      "订阅",
+      "推送"
+    ],
+    "social_link": "https://github.com/FlanChanXwO"
+  },
+  "astrbot_plugin_scriptor": {
+    "display_name": "灵笔司书",
+    "desc": "AstrBot 长期记忆插件 | Scriptor (灵笔司书) 是一个基于 AstrBot 框架的 AI 管家插件，提供跨越个体与群体的通用记忆管理与智能交互服务。通过多层次记忆系统、跨平台身份管理、渐进式披露架构等核心技术，实现拟人化、个性化、智能化的管家式交互体验。",
+    "author": "ysf7762-dev",
+    "repo": "https://github.com/ysf7762-dev/astrbot_plugin_scriptor",
+    "tags": [
+      "长期记忆",
+      "全局记忆",
+      "管家",
+      "跨平台身份管理",
+      "数据库查询"
+    ]
+  },
+  "astrbot_plugin_actions": {
+    "display_name": "快捷指令动作",
+    "desc": "根据自定义前缀或正则匹配指令，触发无上下文单次对话，可用于生图、嵌字翻译等场景。本项目是对旧版 Chatluna 快捷指令 (chatluna-actions) 在 Astrobot 内的复刻版本 (?)",
+    "author": "teatube",
+    "repo": "https://github.com/teatube/astrbot_plugin_actions"
+  },
+  "astrbot_plugin_imgexploration": {
+    "display_name": "图片搜索",
+    "desc": "通过上传图片搜索其来源，支持 SauceNAO、Google Lens、Ascii2d 等搜图引擎，并结合LLM改善使用体验。",
+    "author": "FlanChanXwO",
+    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_imgexploration",
+    "tags": [
+      "搜图",
+      "图片搜索",
+      "Ascii2d",
+      "Google Lens",
+      "SauceNAO",
+      "找图",
+      "以图搜图",
+      "反向图片搜索",
+      "图片来源"
+    ],
+    "social_link": "https://github.com/FlanChanXwO"
+  },
+  "astrbot_plugin_eggSearch": {
+    "display_name": "洛克王国世界蛋重查询器",
+    "desc": "输入尺寸和重量，给出符合的精灵种类",
+    "author": "WJF",
+    "repo": "https://github.com/starsky-web/astrbot_plugin_eggSearch"
+  },
+  "astrbot_plugin_eve_esi": {
+    "display_name": "EVE市场助手",
+    "desc": "EVE Online ESI API 调用插件，支持市场价格查询、舰船加成查询、简称管理等功能",
+    "author": "LZQ123PKQ",
+    "repo": "https://github.com/LZQ123PKQ/astrbot_plugin_eve_esi",
+    "tags": [
+      "EVE",
+      "EVE Online",
+      "星战前夜",
+      "查询",
+      "esi"
+    ],
+    "social_link": "https://github.com/LZQ123PKQ"
+  },
+  "astrbot_plugin_gamdl": {
+    "display_name": "applemusic 下载器（gamdl版）",
+    "desc": "astrbot_plugin_gamdl 是一个面向 AstrBot 的 Apple Music 插件，基于 gamdl 实现搜索、解析、下载、封面、动态封面、歌词导出等能力。它专为 QQ NapCat（OneBot/aiocqhttp）优化，支持后台任务队列、会话级设置记忆、ZIP/逐个发送、下载进度提醒和错误友好提示。插件采用单体架构，**不依赖额外服务端**，部署更简单，同时支持容器场景下的路径映射与远程 wrapper 配置，适合在实际机器人环境中稳定长期运行。只测试了wrapper的功能",
+    "author": "jelly",
+    "repo": "https://github.com/wuuduf/astrbot-plugin-gamdl",
+    "tags": [
+      "音乐下载",
+      "apple music"
+    ],
+    "social_link": "https://github.com/wuuduf"
+  },
+  "astrbot_plugin_paperphone": {
+    "display_name": "Paperphone 适配器",
+    "desc": "AstrBot PaperPhone 适配器插件",
+    "author": "619dev",
+    "repo": "https://github.com/619dev/astrbot_plugin_paperphone",
+    "tags": [
+      "paperphone",
+      "im"
+    ]
+  },
   "astrbot-plugin-rocket-chat-adapter": {
     "display_name": "Rocket.Chat 适配器",
     "desc": "AstrBot 的 Rocket.Chat 消息平台适配器，支持通过 WebSocket 实时接收消息，通过 REST API 发送消息",
