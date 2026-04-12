@@ -1,4 +1,11 @@
 {
+  "builtin_commands_extension": {
+    "display_name": "内置指令扩展",
+    "desc": "包含了一系列内置命令的扩展，涵盖了对话管理、管理员管理、大语言模型（LLM）提供商管理等功能。",
+    "author": "AstrBot Team",
+    "repo": "https://github.com/AstrBotDevs/builtin_commands_extension",
+    "social_link": "https://docs.astrbot.app/use/command.html"
+  },
   "astrbot-plugin-rocket-chat-adapter": {
     "display_name": "Rocket.Chat 适配器",
     "desc": "AstrBot 的 Rocket.Chat 消息平台适配器，支持通过 WebSocket 实时接收消息，通过 REST API 发送消息",
