@@ -180,9 +180,9 @@
       "uapi"
     ],
     "social_link": "https://github.com/lingyun14beta",
-    "stars": 1,
+    "stars": 2,
     "version": "2.1.0",
-    "updated_at": "2026-04-12T15:39:25Z",
+    "updated_at": "2026-04-12T22:53:27Z",
     "logo": "https://raw.githubusercontent.com/lingyun14beta/astrbot_plugin_uapipro_toolbox/main/logo.png"
   },
   "astrbot-plugin-mailer": {
@@ -4588,9 +4588,9 @@
     ],
     "social_link": "https://github.com/DITF16",
     "category": "ai_tools",
-    "stars": 58,
+    "stars": 59,
     "version": "1.1.1",
-    "updated_at": "2026-04-12T14:39:38Z",
+    "updated_at": "2026-04-12T23:19:43Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_groupGuard": {
@@ -4643,9 +4643,9 @@
     ],
     "social_link": "https://github.com/Olynx7",
     "category": "ai_tools",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0",
-    "updated_at": "2026-03-24T05:37:59Z",
+    "updated_at": "2026-04-12T23:19:56Z",
     "logo": "https://raw.githubusercontent.com/Olynx7/astrbot_plugin_text2img/master/logo.png"
   },
   "astrbot_plugin_ppnai": {
