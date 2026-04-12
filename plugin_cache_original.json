@@ -6,9 +6,9 @@
     "repo": "https://github.com/AstrBotDevs/builtin_commands_extension",
     "social_link": "https://docs.astrbot.app/use/command.html",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "v0.0.1",
-    "updated_at": "2026-04-12T08:22:16Z"
+    "updated_at": "2026-04-12T16:07:35Z"
   },
   "astrbot_plugin_btw": {
     "display_name": "ByTheWay 快捷问题",
@@ -98,7 +98,7 @@
     "social_link": "https://github.com/FlanChanXwO",
     "stars": 2,
     "version": "v1.0.3",
-    "updated_at": "2026-04-12T15:34:54Z",
+    "updated_at": "2026-04-12T15:48:11Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_imgexploration/master/logo.png"
   },
   "astrbot_plugin_eggSearch": {
@@ -181,8 +181,8 @@
     ],
     "social_link": "https://github.com/lingyun14beta",
     "stars": 1,
-    "version": "2.0.0",
-    "updated_at": "2026-04-12T15:36:27Z",
+    "version": "2.1.0",
+    "updated_at": "2026-04-12T15:39:25Z",
     "logo": "https://raw.githubusercontent.com/lingyun14beta/astrbot_plugin_uapipro_toolbox/main/logo.png"
   },
   "astrbot-plugin-mailer": {
@@ -2429,9 +2429,9 @@
       "人物画像"
     ],
     "category": "ai_tools",
-    "stars": 34,
+    "stars": 35,
     "version": "v0.3.6",
-    "updated_at": "2026-04-12T00:58:53Z"
+    "updated_at": "2026-04-12T16:20:13Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -8818,7 +8818,7 @@
     "category": "utilities",
     "stars": 5,
     "version": "v1.2",
-    "updated_at": "2026-03-20T18:20:31Z",
+    "updated_at": "2026-04-12T16:12:09Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_GroupFS/master/logo.png"
   },
   "group_notice_manager": {
@@ -10441,9 +10441,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 17,
+    "stars": 18,
     "version": "v1.0.2",
-    "updated_at": "2026-03-17T23:50:06Z",
+    "updated_at": "2026-04-12T15:42:36Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_recall/main/logo.png"
   },
   "astrbot_plugin_record_converter": {
@@ -15137,9 +15137,9 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "category": "integrations",
     "tags": [],
-    "stars": 56,
+    "stars": 57,
     "version": "v1.5.7",
-    "updated_at": "2026-04-10T06:48:18Z",
+    "updated_at": "2026-04-12T15:48:11Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
