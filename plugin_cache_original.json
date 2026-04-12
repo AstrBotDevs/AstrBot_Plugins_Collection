@@ -435,7 +435,7 @@
     "social_link": "https://github.com/Jacobinwwey",
     "stars": 2,
     "version": "v0.2.0",
-    "updated_at": "2026-04-09T12:31:34Z",
+    "updated_at": "2026-04-12T04:33:01Z",
     "logo": "https://raw.githubusercontent.com/Jacobinwwey/astrbot_plugin_onesync/main/logo.png"
   },
   "astrbot-plugin-vrc-friend-radar": {
@@ -446,9 +446,9 @@
     "tags": [
       "vrchat"
     ],
-    "stars": 4,
+    "stars": 5,
     "version": "0.1.8",
-    "updated_at": "2026-04-11T12:57:43Z"
+    "updated_at": "2026-04-12T05:06:00Z"
   },
   "astrbot-plugin-lyubishchev": {
     "display_name": "柳比歇夫时间管理插件",
@@ -1027,9 +1027,9 @@
       "lofter"
     ],
     "category": "integrations",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-03-25T12:50:49Z"
+    "updated_at": "2026-04-12T03:52:05Z"
   },
   "astrbot-plugin-tarkovboss": {
     "display_name": "塔科夫Boss刷率",
@@ -1743,9 +1743,9 @@
     "social_link": "https://github.com/Renyus",
     "category": "ai_tools",
     "tags": [],
-    "stars": 51,
+    "stars": 52,
     "version": "Ver 5.3.0",
-    "updated_at": "2026-04-12T00:53:30Z"
+    "updated_at": "2026-04-12T04:05:59Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -1775,9 +1775,9 @@
     ],
     "social_link": "https://github.com/olozhika/",
     "category": "ai_tools",
-    "stars": 23,
+    "stars": 24,
     "version": "v1.2.3",
-    "updated_at": "2026-04-11T11:56:17Z",
+    "updated_at": "2026-04-12T03:53:33Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
@@ -2038,9 +2038,9 @@
     "tags": [],
     "social_link": "",
     "category": "utilities",
-    "stars": 0,
+    "stars": 1,
     "version": "1.2.0",
-    "updated_at": "2026-02-22T08:08:29Z"
+    "updated_at": "2026-04-12T03:20:03Z"
   },
   "w2902171175/astrbot-plugin-GPT-SoVITS": {
     "display_name": "astrbot_plugin_GPT-SoVITS",
@@ -3076,9 +3076,9 @@
     "repo": "https://github.com/luori7hao/astrbot_plugin_messenger",
     "category": "utilities",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "2.1.0",
-    "updated_at": "2026-03-06T11:38:06Z"
+    "updated_at": "2026-04-12T04:55:01Z"
   },
   "astrbot_plugin_live2d_adapter": {
     "display_name": "Live2D 适配器",
@@ -3456,9 +3456,9 @@
     ],
     "social_link": "https://github.com/piexian",
     "category": "ai_tools",
-    "stars": 14,
+    "stars": 15,
     "version": "v1.3.0",
-    "updated_at": "2026-04-04T02:25:40Z",
+    "updated_at": "2026-04-12T04:26:23Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_grok_web_search/master/logo.png"
   },
   "astrbot_plugin_fake_ai_watermark": {
@@ -9430,9 +9430,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 134,
+    "stars": 135,
     "version": "2.2.4",
-    "updated_at": "2026-04-10T03:29:59Z",
+    "updated_at": "2026-04-12T03:03:17Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
