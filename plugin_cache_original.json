@@ -97,8 +97,8 @@
     ],
     "social_link": "https://github.com/FlanChanXwO",
     "stars": 2,
-    "version": "v1.0.2",
-    "updated_at": "2026-04-12T14:33:47Z",
+    "version": "v1.0.3",
+    "updated_at": "2026-04-12T15:34:54Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_imgexploration/master/logo.png"
   },
   "astrbot_plugin_eggSearch": {
@@ -182,7 +182,7 @@
     "social_link": "https://github.com/lingyun14beta",
     "stars": 1,
     "version": "2.0.0",
-    "updated_at": "2026-04-12T09:32:47Z",
+    "updated_at": "2026-04-12T15:36:27Z",
     "logo": "https://raw.githubusercontent.com/lingyun14beta/astrbot_plugin_uapipro_toolbox/main/logo.png"
   },
   "astrbot-plugin-mailer": {
@@ -604,8 +604,8 @@
       "vrchat"
     ],
     "stars": 5,
-    "version": "0.1.8",
-    "updated_at": "2026-04-12T05:06:00Z"
+    "version": "0.1.9",
+    "updated_at": "2026-04-12T15:21:17Z"
   },
   "astrbot-plugin-lyubishchev": {
     "display_name": "柳比歇夫时间管理插件",
@@ -1316,9 +1316,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 296,
+    "stars": 297,
     "version": "v4.9.16",
-    "updated_at": "2026-04-12T14:09:00Z",
+    "updated_at": "2026-04-12T15:28:15Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -4297,9 +4297,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 296,
+    "stars": 297,
     "version": "v4.9.16",
-    "updated_at": "2026-04-12T14:09:00Z",
+    "updated_at": "2026-04-12T15:28:15Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -6759,8 +6759,8 @@
     "social_link": "https://box.firefly520.top/",
     "category": "ai_tools",
     "stars": 28,
-    "version": "1.5.6",
-    "updated_at": "2026-04-11T16:35:24Z",
+    "version": "1.5.7",
+    "updated_at": "2026-04-12T15:31:01Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/main/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -9589,7 +9589,7 @@
     "category": "ai_tools",
     "stars": 135,
     "version": "2.2.4",
-    "updated_at": "2026-04-12T03:03:17Z",
+    "updated_at": "2026-04-12T15:26:40Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -13947,9 +13947,9 @@
       "世界书"
     ],
     "category": "ai_tools",
-    "stars": 14,
+    "stars": 15,
     "version": "v0.1.9",
-    "updated_at": "2026-04-02T05:16:33Z"
+    "updated_at": "2026-04-12T14:43:26Z"
   },
   "daily_limit": {
     "desc": "限制成员每日访问AI次数的插件，支持为不同用户和群组设置不同的调用限制(支持的astrbot最低版本为3.5.1)",
