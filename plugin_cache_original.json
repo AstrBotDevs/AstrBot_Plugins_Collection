@@ -47,9 +47,9 @@
       "推送"
     ],
     "social_link": "https://github.com/FlanChanXwO",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.10",
-    "updated_at": "2026-04-12T12:24:43Z",
+    "updated_at": "2026-04-12T17:04:15Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_rsshub/master/logo.png"
   },
   "astrbot_plugin_scriptor": {
@@ -3124,9 +3124,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 110,
+    "stars": 111,
     "version": "v2.0.7",
-    "updated_at": "2026-04-12T00:45:22Z",
+    "updated_at": "2026-04-12T16:43:58Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -4001,8 +4001,8 @@
     ],
     "category": "productivity",
     "stars": 7,
-    "version": "v1.1.1",
-    "updated_at": "2026-04-10T20:44:10Z"
+    "version": "v1.1.2",
+    "updated_at": "2026-04-12T16:59:06Z"
   },
   "astrbot_plugin_trpgdice_rerolled": {
     "display_name": "星星骰娘-重骰版！",
@@ -8092,9 +8092,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 191,
+    "stars": 192,
     "version": "v1.2.2",
-    "updated_at": "2026-04-12T13:26:07Z",
+    "updated_at": "2026-04-12T16:52:50Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -10312,8 +10312,8 @@
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
     "stars": 52,
-    "version": "v2.2.0",
-    "updated_at": "2026-04-12T00:31:05Z",
+    "version": "v2.2.1",
+    "updated_at": "2026-04-12T17:01:25Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
