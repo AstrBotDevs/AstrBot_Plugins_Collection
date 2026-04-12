@@ -98,7 +98,7 @@
     "social_link": "https://github.com/FlanChanXwO",
     "stars": 2,
     "version": "v1.0.2",
-    "updated_at": "2026-04-12T12:24:42Z",
+    "updated_at": "2026-04-12T14:33:47Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_imgexploration/master/logo.png"
   },
   "astrbot_plugin_eggSearch": {
@@ -167,8 +167,8 @@
     ],
     "social_link": "https://github.com/starlight02",
     "stars": 2,
-    "version": "v0.4.0",
-    "updated_at": "2026-04-12T13:00:41Z"
+    "version": "v0.4.1",
+    "updated_at": "2026-04-12T13:52:24Z"
   },
   "astrbot-plugin-uapipro-toolbox": {
     "display_name": "UApiPro 工具箱",
@@ -1223,9 +1223,9 @@
     "tags": [],
     "social_link": "",
     "category": "ai_tools",
-    "stars": 30,
+    "stars": 29,
     "version": "1.1.1",
-    "updated_at": "2026-04-11T00:45:36Z",
+    "updated_at": "2026-04-12T13:34:04Z",
     "logo": "https://raw.githubusercontent.com/Kalospacer/astrbot_plugin_maid_agent/master/logo.png"
   },
   "astrbot-plugin-stoprushingiamtyping": {
@@ -1317,8 +1317,8 @@
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
     "stars": 296,
-    "version": "v4.9.15",
-    "updated_at": "2026-04-11T13:31:10Z",
+    "version": "v4.9.16",
+    "updated_at": "2026-04-12T14:09:00Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -2869,7 +2869,7 @@
     "category": "utilities",
     "stars": 1,
     "version": "1.0.2",
-    "updated_at": "2026-03-09T15:35:33Z"
+    "updated_at": "2026-04-12T13:57:27Z"
   },
   "astrbot-plugin-astrbook": {
     "display_name": "Astrbook适配器",
@@ -4298,8 +4298,8 @@
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
     "stars": 296,
-    "version": "v4.9.15",
-    "updated_at": "2026-04-11T13:31:10Z",
+    "version": "v4.9.16",
+    "updated_at": "2026-04-12T14:09:00Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -4588,9 +4588,9 @@
     ],
     "social_link": "https://github.com/DITF16",
     "category": "ai_tools",
-    "stars": 57,
+    "stars": 58,
     "version": "1.1.1",
-    "updated_at": "2026-04-12T07:16:11Z",
+    "updated_at": "2026-04-12T14:39:38Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_groupGuard": {
@@ -7423,9 +7423,9 @@
       "情感"
     ],
     "category": "ai_tools",
-    "stars": 11,
+    "stars": 12,
     "version": "v3.4",
-    "updated_at": "2026-03-31T16:31:44Z",
+    "updated_at": "2026-04-12T13:24:29Z",
     "logo": "https://raw.githubusercontent.com/tengtian3/astrbot-plugin-emotionai/main/logo.png"
   },
   "astrbot_plugin_email_narrator": {
@@ -8092,9 +8092,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 190,
+    "stars": 191,
     "version": "v1.2.2",
-    "updated_at": "2026-04-12T00:36:29Z",
+    "updated_at": "2026-04-12T13:26:07Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -14841,9 +14841,9 @@
       "搬史"
     ],
     "category": "utilities",
-    "stars": 553,
+    "stars": 554,
     "version": "v0.916",
-    "updated_at": "2026-04-12T00:49:00Z"
+    "updated_at": "2026-04-12T14:40:20Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
@@ -15541,8 +15541,8 @@
     "category": "ai_tools",
     "tags": [],
     "stars": 225,
-    "version": "v2.1.3",
-    "updated_at": "2026-04-12T00:49:41Z"
+    "version": "v2.1.4",
+    "updated_at": "2026-04-12T13:28:25Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
