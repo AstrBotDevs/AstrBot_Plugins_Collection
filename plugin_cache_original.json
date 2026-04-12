@@ -1170,9 +1170,9 @@
       "服务器查询"
     ],
     "category": "entertainment",
-    "stars": 0,
+    "stars": 1,
     "version": "0.1.0",
-    "updated_at": "2026-03-18T07:18:05Z",
+    "updated_at": "2026-04-12T10:06:06Z",
     "logo": "https://raw.githubusercontent.com/Bugelll/astrbot_plugin_unturned_servers/master/logo.png"
   },
   "astrbot-plugin-lofter": {
@@ -3858,9 +3858,9 @@
     ],
     "social_link": "https://github.com/cryfly666",
     "category": "integrations",
-    "stars": 2,
+    "stars": 3,
     "version": "v2.1",
-    "updated_at": "2026-03-26T05:36:33Z"
+    "updated_at": "2026-04-12T10:06:52Z"
   },
   "astrbot_plugin_image_url_base64_to_mcp": {
     "display_name": "图片_url_base64_传递至_mcp",
@@ -6148,9 +6148,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 98,
+    "stars": 99,
     "version": "v1.5.1",
-    "updated_at": "2026-04-10T04:03:08Z",
+    "updated_at": "2026-04-12T10:19:36Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -7210,9 +7210,9 @@
     ],
     "social_link": "https://www.misakanet.site",
     "category": "integrations",
-    "stars": 9,
+    "stars": 10,
     "version": "2.0.2",
-    "updated_at": "2026-04-11T17:13:15Z",
+    "updated_at": "2026-04-12T10:07:07Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_minecraft_adapter/master/logo.png"
   },
   "astrbot_plugin_temp-email": {
@@ -8761,9 +8761,9 @@
     ],
     "social_link": "https://catyun.cyou/",
     "category": "entertainment",
-    "stars": 2,
+    "stars": 3,
     "version": "v2.1.0",
-    "updated_at": "2026-04-06T08:14:34Z",
+    "updated_at": "2026-04-12T10:08:07Z",
     "logo": "https://raw.githubusercontent.com/WhiteCloudOL/astrbot_plugin_mcstatus/master/logo.png"
   },
   "astrbot_plugin_search_tracemoe": {
@@ -10018,9 +10018,9 @@
       "motd"
     ],
     "category": "integrations",
-    "stars": 4,
+    "stars": 5,
     "version": "v2.0.0",
-    "updated_at": "2026-01-13T08:07:40Z"
+    "updated_at": "2026-04-12T10:06:57Z"
   },
   "astrbot-plugin-huaer-bot": {
     "desc": "基于 SiliconFlow API 的多组群聊天插件，支持人格设定、Markdown 显示、联网搜索、检索增强生成（RAG）等功能",
@@ -12468,9 +12468,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 14,
+    "stars": 15,
     "version": "v1.1.0",
-    "updated_at": "2026-03-31T20:28:37Z",
+    "updated_at": "2026-04-12T10:08:59Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_zt/main/logo.png"
   },
   "astrbot_plugin_portrayal": {
@@ -12750,9 +12750,9 @@
     ],
     "social_link": "https://github.com/QiChenSn",
     "category": "entertainment",
-    "stars": 11,
+    "stars": 12,
     "version": "v1.5.1",
-    "updated_at": "2026-03-28T23:54:27Z"
+    "updated_at": "2026-04-12T10:09:17Z"
   },
   "astrbot_plugin_yinlish": {
     "author": "vmoranv",
@@ -13073,9 +13073,9 @@
       "游戏"
     ],
     "category": "integrations",
-    "stars": 11,
+    "stars": 12,
     "version": "v1.8.6",
-    "updated_at": "2026-03-17T01:14:56Z",
+    "updated_at": "2026-04-12T10:09:05Z",
     "logo": "https://raw.githubusercontent.com/kterna/astrbot_plugin_mcqq/main/logo.png"
   },
   "astrbot_plugin_Group-Verification": {
@@ -13784,9 +13784,9 @@
       "QQ群管"
     ],
     "category": "utilities",
-    "stars": 129,
+    "stars": 130,
     "version": "v3.2.7",
-    "updated_at": "2026-04-12T07:06:19Z",
+    "updated_at": "2026-04-12T10:39:04Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -14497,9 +14497,9 @@
     "repo": "https://github.com/yanfd/astrbot_plugin_server",
     "category": "utilities",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.1",
-    "updated_at": "2025-07-06T12:34:16Z"
+    "updated_at": "2026-04-12T10:09:19Z"
   },
   "astrbot_plugin_videos_analysis": {
     "desc": "聚合视频分享链接解析（仅测试过napcat）",
