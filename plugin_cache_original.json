@@ -49,7 +49,7 @@
     "social_link": "https://github.com/FlanChanXwO",
     "stars": 4,
     "version": "v1.0.10",
-    "updated_at": "2026-04-13T01:57:20Z",
+    "updated_at": "2026-04-13T07:20:09Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_rsshub/master/logo.png"
   },
   "astrbot_plugin_scriptor": {
@@ -96,9 +96,9 @@
       "图片来源"
     ],
     "social_link": "https://github.com/FlanChanXwO",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.3",
-    "updated_at": "2026-04-13T02:31:07Z",
+    "updated_at": "2026-04-13T07:26:46Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_imgexploration/master/logo.png"
   },
   "astrbot_plugin_eggSearch": {
@@ -167,8 +167,8 @@
     ],
     "social_link": "https://github.com/starlight02",
     "stars": 2,
-    "version": "v0.4.1",
-    "updated_at": "2026-04-12T13:52:24Z"
+    "version": "v0.4.2",
+    "updated_at": "2026-04-13T07:33:21Z"
   },
   "astrbot-plugin-uapipro-toolbox": {
     "display_name": "UApiPro 工具箱",
@@ -591,8 +591,8 @@
     ],
     "social_link": "https://github.com/Jacobinwwey",
     "stars": 2,
-    "version": "v0.2.1",
-    "updated_at": "2026-04-13T05:37:37Z",
+    "version": "v0.2.2",
+    "updated_at": "2026-04-13T08:03:24Z",
     "logo": "https://raw.githubusercontent.com/Jacobinwwey/astrbot_plugin_onesync/main/logo.png"
   },
   "astrbot-plugin-vrc-friend-radar": {
@@ -1318,7 +1318,7 @@
     "category": "productivity",
     "stars": 299,
     "version": "v4.9.16",
-    "updated_at": "2026-04-13T02:44:41Z",
+    "updated_at": "2026-04-13T07:37:27Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -3124,9 +3124,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 113,
+    "stars": 114,
     "version": "v2.0.7",
-    "updated_at": "2026-04-13T03:48:30Z",
+    "updated_at": "2026-04-13T06:49:12Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -4299,7 +4299,7 @@
     "category": "utilities",
     "stars": 299,
     "version": "v4.9.16",
-    "updated_at": "2026-04-13T02:44:41Z",
+    "updated_at": "2026-04-13T07:37:27Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -4742,7 +4742,7 @@
     "category": "entertainment",
     "stars": 13,
     "version": "v2.2.1",
-    "updated_at": "2026-04-09T18:09:42Z",
+    "updated_at": "2026-04-13T07:06:54Z",
     "logo": "https://raw.githubusercontent.com/kennylimz/astrbot_plugin_mudae_qq/main/logo.png"
   },
   "BUGJI/astrbot_plugin_balance": {
@@ -4947,9 +4947,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 260,
+    "stars": 261,
     "version": "Next-2.1.0",
-    "updated_at": "2026-04-11T11:59:52Z",
+    "updated_at": "2026-04-13T07:30:03Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -8092,9 +8092,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 192,
+    "stars": 193,
     "version": "v1.2.2",
-    "updated_at": "2026-04-12T16:52:50Z",
+    "updated_at": "2026-04-13T07:30:12Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -9124,8 +9124,8 @@
     ],
     "category": "integrations",
     "stars": 4,
-    "version": "v1.0.1",
-    "updated_at": "2026-04-10T15:40:30Z"
+    "version": "v1.0.2",
+    "updated_at": "2026-04-13T06:13:15Z"
   },
   "astrbot_plugin_admin_emoji_reply": {
     "desc": "自动为指定的用户回复表情消息，支持开关和自定义速度",
@@ -9449,8 +9449,8 @@
     ],
     "category": "utilities",
     "stars": 9,
-    "version": "v1.2.4",
-    "updated_at": "2026-04-12T19:42:23Z",
+    "version": "v1.2.5",
+    "updated_at": "2026-04-13T06:03:13Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_anti_revoke/master/logo.png"
   },
   "input_state_by_napcat": {
@@ -9859,9 +9859,9 @@
     ],
     "social_link": "https://github.com/kjqwer",
     "category": "ai_tools",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.1.0",
-    "updated_at": "2026-04-04T11:49:30Z"
+    "updated_at": "2026-04-13T06:17:49Z"
   },
   "astrbot_plugin_lark_send_patcher": {
     "desc": "通过猴子补丁的方式，优化了飞书Lark适配器下，机器人发送的消息引用太频繁的问题。现在飞书下所有的机器人回复从引用消息变更为直接发送。插件可能会随着astrbot本体版本更新，涉及到lark_adapter和lark_event重大更新时失效。",
@@ -10416,9 +10416,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "integrations",
-    "stars": 108,
+    "stars": 109,
     "version": "v3.0.4",
-    "updated_at": "2026-04-13T02:22:17Z",
+    "updated_at": "2026-04-13T06:32:05Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -12102,7 +12102,7 @@
     "category": "utilities",
     "stars": 9,
     "version": "V2.5.0",
-    "updated_at": "2026-04-06T05:36:56Z"
+    "updated_at": "2026-04-13T05:46:03Z"
   },
   "astrbot_dg_lab_plugin": {
     "author": "RC-CHN",
@@ -13133,8 +13133,8 @@
     "social_link": "https://github.com/gameswu",
     "category": "entertainment",
     "stars": 13,
-    "version": "v0.2.2",
-    "updated_at": "2026-03-17T10:50:02Z",
+    "version": "v0.3.0",
+    "updated_at": "2026-04-13T07:52:48Z",
     "logo": "https://raw.githubusercontent.com/gameswu/astrbot_plugin_osutrack/master/logo.png"
   },
   "astrbot_plugin_group_information": {
@@ -13769,9 +13769,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
     "category": "ai_tools",
-    "stars": 45,
+    "stars": 46,
     "version": "v2.0.0",
-    "updated_at": "2026-04-12T01:32:18Z",
+    "updated_at": "2026-04-13T07:48:47Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_browser/main/logo.png"
   },
   "astrbot_plugin_qqadmin": {
@@ -15540,9 +15540,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "ai_tools",
     "tags": [],
-    "stars": 225,
+    "stars": 226,
     "version": "v2.1.4",
-    "updated_at": "2026-04-12T13:28:25Z"
+    "updated_at": "2026-04-13T07:30:08Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
