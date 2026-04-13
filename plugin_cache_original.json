@@ -47,9 +47,9 @@
       "推送"
     ],
     "social_link": "https://github.com/FlanChanXwO",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0.10",
-    "updated_at": "2026-04-13T07:20:09Z",
+    "updated_at": "2026-04-13T10:08:47Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_rsshub/master/logo.png"
   },
   "astrbot_plugin_scriptor": {
@@ -591,8 +591,8 @@
     ],
     "social_link": "https://github.com/Jacobinwwey",
     "stars": 2,
-    "version": "v0.2.2",
-    "updated_at": "2026-04-13T08:03:24Z",
+    "version": "v0.2.3",
+    "updated_at": "2026-04-13T10:45:35Z",
     "logo": "https://raw.githubusercontent.com/Jacobinwwey/astrbot_plugin_onesync/main/logo.png"
   },
   "astrbot-plugin-vrc-friend-radar": {
@@ -1316,9 +1316,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 299,
+    "stars": 300,
     "version": "v4.9.16",
-    "updated_at": "2026-04-13T07:37:27Z",
+    "updated_at": "2026-04-13T09:25:37Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -2629,9 +2629,9 @@
     "repo": "https://github.com/Xuewu-awa/astrbot_plugin_bilibanshi",
     "category": "entertainment",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "v1.0.0",
-    "updated_at": "2026-04-07T10:34:14Z"
+    "updated_at": "2026-04-13T09:54:02Z"
   },
   "blueraina/astrbot-plugin-novel": {
     "desc": "QQ群群友协作 + AI辅助写作的长篇小说插件（每群独立/知识库/多AI打分/冲突投票/风格模仿/用户修正/EPUB/PDF导出）",
@@ -3124,9 +3124,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 114,
+    "stars": 115,
     "version": "v2.0.7",
-    "updated_at": "2026-04-13T06:49:12Z",
+    "updated_at": "2026-04-13T08:30:06Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -3376,9 +3376,9 @@
       "codegen"
     ],
     "category": "ai_tools",
-    "stars": 44,
+    "stars": 43,
     "version": "1.3.2",
-    "updated_at": "2026-04-12T11:30:21Z",
+    "updated_at": "2026-04-13T08:24:12Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -4297,9 +4297,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 299,
+    "stars": 300,
     "version": "v4.9.16",
-    "updated_at": "2026-04-13T07:37:27Z",
+    "updated_at": "2026-04-13T09:25:37Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -7442,9 +7442,9 @@
     ],
     "social_link": "https://github.com/ZvZPvz",
     "category": "integrations",
-    "stars": 6,
+    "stars": 7,
     "version": "1.0.0",
-    "updated_at": "2026-04-02T14:05:36Z",
+    "updated_at": "2026-04-13T08:36:42Z",
     "logo": "https://raw.githubusercontent.com/ZvZPvz/astrbot_plugin_email_narrator/main/logo.png"
   },
   "astrbot_plugin_mcwatcher": {
@@ -7622,9 +7622,9 @@
     ],
     "social_link": "https://github.com/SatenShiroya",
     "category": "entertainment",
-    "stars": 11,
+    "stars": 12,
     "version": "V2.1.0",
-    "updated_at": "2026-03-23T12:51:45Z",
+    "updated_at": "2026-04-13T09:06:02Z",
     "logo": "https://raw.githubusercontent.com/SatenShiroya/astrbot_plugin_neteasecloud_music/master/logo.png"
   },
   "astrbot_plugin_dailyacmfortune": {
@@ -10270,9 +10270,9 @@
     ],
     "social_link": "https://github.com/qa296/",
     "category": "ai_tools",
-    "stars": 30,
+    "stars": 31,
     "version": "v0.2.7",
-    "updated_at": "2026-04-11T09:12:20Z"
+    "updated_at": "2026-04-13T09:21:44Z"
   },
   "astrbot_plugin_iearning_style": {
     "desc": "使机器人可以从聊天中学习他人说话方式",
@@ -13918,9 +13918,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.1.3",
-    "updated_at": "2026-04-01T23:12:20Z",
+    "updated_at": "2026-04-13T09:06:29Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqprofile/main/logo.png"
   },
   "astrbot_plugin_mcping": {
