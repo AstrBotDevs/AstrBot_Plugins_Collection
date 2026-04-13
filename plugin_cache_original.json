@@ -6,9 +6,9 @@
     "repo": "https://github.com/AstrBotDevs/builtin_commands_extension",
     "social_link": "https://docs.astrbot.app/use/command.html",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v0.0.1",
-    "updated_at": "2026-04-13T00:49:57Z"
+    "updated_at": "2026-04-13T12:01:52Z"
   },
   "astrbot_plugin_btw": {
     "display_name": "ByTheWay 快捷问题",
@@ -592,7 +592,7 @@
     "social_link": "https://github.com/Jacobinwwey",
     "stars": 2,
     "version": "v0.2.3",
-    "updated_at": "2026-04-13T10:45:35Z",
+    "updated_at": "2026-04-13T11:59:19Z",
     "logo": "https://raw.githubusercontent.com/Jacobinwwey/astrbot_plugin_onesync/main/logo.png"
   },
   "astrbot-plugin-vrc-friend-radar": {
@@ -605,7 +605,7 @@
     ],
     "stars": 5,
     "version": "0.1.9",
-    "updated_at": "2026-04-12T15:21:17Z"
+    "updated_at": "2026-04-13T11:21:49Z"
   },
   "astrbot-plugin-lyubishchev": {
     "display_name": "柳比歇夫时间管理插件",
@@ -813,8 +813,8 @@
     "repo": "https://github.com/Crystar-1/astrbot_plugin_minimax_alert",
     "tags": [],
     "stars": 3,
-    "version": "v1.3.0",
-    "updated_at": "2026-04-10T14:44:12Z"
+    "version": "v1.3.1",
+    "updated_at": "2026-04-13T11:15:08Z"
   },
   "astrbot-plugin-access-others-chat-history": {
     "display_name": "访问他人聊天记录",
@@ -2923,9 +2923,9 @@
     "repo": "https://github.com/luori7hao/astrbot_plugin_payqr",
     "category": "utilities",
     "tags": [],
-    "stars": 7,
+    "stars": 8,
     "version": "1.0.0",
-    "updated_at": "2026-03-18T06:19:26Z"
+    "updated_at": "2026-04-13T11:58:16Z"
   },
   "astrbot-plugin-jx3": {
     "display_name": "剑网三游戏数据查询工具",
@@ -3264,9 +3264,9 @@
     ],
     "social_link": "https://github.com/Sakura520222",
     "category": "integrations",
-    "stars": 4,
+    "stars": 5,
     "version": "1.2.2",
-    "updated_at": "2026-03-31T03:57:33Z",
+    "updated_at": "2026-04-13T11:26:28Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_telegram_summary/main/logo.png"
   },
   "astrbot_plugin_gok": {
@@ -6758,9 +6758,9 @@
     ],
     "social_link": "https://box.firefly520.top/",
     "category": "ai_tools",
-    "stars": 28,
+    "stars": 29,
     "version": "1.5.7",
-    "updated_at": "2026-04-12T15:31:01Z",
+    "updated_at": "2026-04-13T11:26:20Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/main/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -9124,8 +9124,8 @@
     ],
     "category": "integrations",
     "stars": 4,
-    "version": "v1.0.2",
-    "updated_at": "2026-04-13T06:13:15Z"
+    "version": "v1.0.3",
+    "updated_at": "2026-04-13T11:27:03Z"
   },
   "astrbot_plugin_admin_emoji_reply": {
     "desc": "自动为指定的用户回复表情消息，支持开关和自定义速度",
@@ -12453,9 +12453,9 @@
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
     "tags": [],
-    "stars": 47,
+    "stars": 48,
     "version": "v1.2.1",
-    "updated_at": "2026-04-07T09:17:38Z",
+    "updated_at": "2026-04-13T10:56:59Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_search_video/main/logo.png"
   },
   "astrbot_plugin_zt": {
