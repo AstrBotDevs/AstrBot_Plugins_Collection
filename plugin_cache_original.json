@@ -33,7 +33,7 @@
     "social_link": "https://github.com/howrain",
     "stars": 0,
     "version": "v1.0.1",
-    "updated_at": "2026-04-08T08:45:32Z"
+    "updated_at": "2026-04-13T18:59:12Z"
   },
   "astrbot_plugin_rsshub": {
     "display_name": "RSS订阅",
@@ -3749,7 +3749,7 @@
     "category": "integrations",
     "stars": 18,
     "version": "0.7.0",
-    "updated_at": "2026-04-11T12:51:21Z",
+    "updated_at": "2026-04-13T18:33:35Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -6272,8 +6272,8 @@
     ],
     "category": "entertainment",
     "stars": 40,
-    "version": "2.5.3",
-    "updated_at": "2026-04-12T20:12:18Z",
+    "version": "2.5.5",
+    "updated_at": "2026-04-13T20:05:59Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -6583,8 +6583,8 @@
     "social_link": "https://space.bilibili.com/702922307",
     "category": "utilities",
     "stars": 8,
-    "version": "0.0.4",
-    "updated_at": "2026-03-21T07:26:25Z"
+    "version": "0.0.6",
+    "updated_at": "2026-04-13T20:05:56Z"
   },
   "astrbot_plugin_fox_status": {
     "display_name": "Fox 状态监控",
