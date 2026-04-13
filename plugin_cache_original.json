@@ -167,8 +167,8 @@
     ],
     "social_link": "https://github.com/starlight02",
     "stars": 2,
-    "version": "v0.4.2",
-    "updated_at": "2026-04-13T07:33:21Z"
+    "version": "v0.5.1",
+    "updated_at": "2026-04-13T16:45:40Z"
   },
   "astrbot-plugin-uapipro-toolbox": {
     "display_name": "UApiPro 工具箱",
@@ -592,7 +592,7 @@
     "social_link": "https://github.com/Jacobinwwey",
     "stars": 2,
     "version": "v0.2.3",
-    "updated_at": "2026-04-13T16:11:19Z",
+    "updated_at": "2026-04-13T16:55:30Z",
     "logo": "https://raw.githubusercontent.com/Jacobinwwey/astrbot_plugin_onesync/main/logo.png"
   },
   "astrbot-plugin-vrc-friend-radar": {
@@ -1744,7 +1744,7 @@
     "category": "entertainment",
     "stars": 33,
     "version": "2.7.0",
-    "updated_at": "2026-04-08T03:49:39Z",
+    "updated_at": "2026-04-13T16:24:57Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -1934,7 +1934,7 @@
     "category": "ai_tools",
     "stars": 24,
     "version": "v1.2.3",
-    "updated_at": "2026-04-12T03:53:33Z",
+    "updated_at": "2026-04-13T17:28:25Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
@@ -3124,9 +3124,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 116,
+    "stars": 115,
     "version": "v2.0.7",
-    "updated_at": "2026-04-13T12:25:45Z",
+    "updated_at": "2026-04-13T17:17:18Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -6760,7 +6760,7 @@
     "category": "ai_tools",
     "stars": 29,
     "version": "1.5.7",
-    "updated_at": "2026-04-13T11:26:20Z",
+    "updated_at": "2026-04-13T17:38:26Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/main/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -8092,9 +8092,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 193,
+    "stars": 194,
     "version": "v1.2.2",
-    "updated_at": "2026-04-13T07:30:12Z",
+    "updated_at": "2026-04-13T16:22:32Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
