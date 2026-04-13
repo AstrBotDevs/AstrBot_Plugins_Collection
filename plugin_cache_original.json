@@ -6,9 +6,9 @@
     "repo": "https://github.com/AstrBotDevs/builtin_commands_extension",
     "social_link": "https://docs.astrbot.app/use/command.html",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "v0.0.1",
-    "updated_at": "2026-04-13T12:01:52Z"
+    "updated_at": "2026-04-13T15:50:41Z"
   },
   "astrbot_plugin_btw": {
     "display_name": "ByTheWay 快捷问题",
@@ -48,8 +48,8 @@
     ],
     "social_link": "https://github.com/FlanChanXwO",
     "stars": 6,
-    "version": "v1.0.11",
-    "updated_at": "2026-04-13T14:23:01Z",
+    "version": "v1.0.12",
+    "updated_at": "2026-04-13T14:58:54Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_rsshub/master/logo.png"
   },
   "astrbot_plugin_scriptor": {
@@ -592,7 +592,7 @@
     "social_link": "https://github.com/Jacobinwwey",
     "stars": 2,
     "version": "v0.2.3",
-    "updated_at": "2026-04-13T14:46:17Z",
+    "updated_at": "2026-04-13T16:11:19Z",
     "logo": "https://raw.githubusercontent.com/Jacobinwwey/astrbot_plugin_onesync/main/logo.png"
   },
   "astrbot-plugin-vrc-friend-radar": {
@@ -605,7 +605,7 @@
     ],
     "stars": 5,
     "version": "0.1.9",
-    "updated_at": "2026-04-13T11:21:49Z"
+    "updated_at": "2026-04-13T15:45:29Z"
   },
   "astrbot-plugin-lyubishchev": {
     "display_name": "柳比歇夫时间管理插件",
@@ -1185,8 +1185,8 @@
     ],
     "category": "integrations",
     "stars": 1,
-    "version": "v1.1.0",
-    "updated_at": "2026-04-13T13:51:55Z"
+    "version": "v1.1.1",
+    "updated_at": "2026-04-13T15:31:45Z"
   },
   "astrbot-plugin-tarkovboss": {
     "display_name": "塔科夫Boss刷率",
@@ -2530,8 +2530,8 @@
     "social_link": "https://github.com/leafliber",
     "category": "ai_tools",
     "stars": 25,
-    "version": "v1.11.1",
-    "updated_at": "2026-04-12T00:58:58Z",
+    "version": "v1.11.2",
+    "updated_at": "2026-04-13T15:40:10Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -5036,7 +5036,7 @@
     "category": "productivity",
     "stars": 22,
     "version": "v1.6.1",
-    "updated_at": "2026-04-12T05:57:54Z",
+    "updated_at": "2026-04-13T15:35:00Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -6447,9 +6447,9 @@
       "消息总结"
     ],
     "category": "ai_tools",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.3.2",
-    "updated_at": "2026-02-03T11:47:20Z"
+    "updated_at": "2026-04-13T15:58:20Z"
   },
   "astrbot_plugin_bananic_ninjutsu": {
     "display_name": "香蕉忍法帖",
@@ -8857,9 +8857,9 @@
     ],
     "social_link": "maxim2811705608@outlook.com",
     "category": "entertainment",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.1",
-    "updated_at": "2026-03-24T06:05:45Z"
+    "updated_at": "2026-04-13T15:03:41Z"
   },
   "astrbot_plugin_counter": {
     "desc": "计数器插件; 用法 /cnt add|del|list ; 当消息包含计数器或其别名时自动+1; JSON持久化",
@@ -13989,9 +13989,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
     "category": "integrations",
-    "stars": 78,
+    "stars": 79,
     "version": "v3.1.0",
-    "updated_at": "2026-04-10T01:46:55Z",
+    "updated_at": "2026-04-13T15:14:10Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
