@@ -108,8 +108,8 @@
     "repo": "https://github.com/starsky-web/astrbot_plugin_eggSearch",
     "tags": [],
     "stars": 0,
-    "version": "v0.1.0",
-    "updated_at": "2026-04-08T06:34:12Z"
+    "version": "v0.1.1",
+    "updated_at": "2026-04-13T05:17:09Z"
   },
   "astrbot_plugin_eve_esi": {
     "display_name": "EVE市场助手",
@@ -125,8 +125,8 @@
     ],
     "social_link": "https://github.com/LZQ123PKQ",
     "stars": 0,
-    "version": "v2.1.1",
-    "updated_at": "2026-04-12T09:06:19Z",
+    "version": "v2.1.2",
+    "updated_at": "2026-04-13T04:35:26Z",
     "logo": "https://raw.githubusercontent.com/LZQ123PKQ/astrbot_plugin_eve_esi/main/logo.png"
   },
   "astrbot_plugin_gamdl": {
@@ -591,8 +591,8 @@
     ],
     "social_link": "https://github.com/Jacobinwwey",
     "stars": 2,
-    "version": "v0.2.0",
-    "updated_at": "2026-04-12T07:38:40Z",
+    "version": "v0.2.1",
+    "updated_at": "2026-04-13T05:37:37Z",
     "logo": "https://raw.githubusercontent.com/Jacobinwwey/astrbot_plugin_onesync/main/logo.png"
   },
   "astrbot-plugin-vrc-friend-radar": {
@@ -942,7 +942,7 @@
     "category": "entertainment",
     "stars": 3,
     "version": "v1.6.0",
-    "updated_at": "2026-04-13T02:39:04Z",
+    "updated_at": "2026-04-13T03:55:06Z",
     "logo": "https://raw.githubusercontent.com/yonglanws/astrbot_plugin_pjsk_guess_card/main/logo.png"
   },
   "astrbot-plugin-arcaea": {
@@ -1688,7 +1688,7 @@
     "category": "utilities",
     "stars": 12,
     "version": "v1.0.3",
-    "updated_at": "2026-04-12T12:24:40Z",
+    "updated_at": "2026-04-13T05:34:58Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_status/master/logo.png"
   },
   "astrbot-plugin-adsb-monitor": {
@@ -2882,9 +2882,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "integrations",
-    "stars": 36,
+    "stars": 37,
     "version": "2.6.2",
-    "updated_at": "2026-04-08T08:35:00Z"
+    "updated_at": "2026-04-13T02:52:53Z"
   },
   "astrbot-plugin-meting": {
     "display_name": "初叶🍂MetingAPI 点歌",
@@ -3058,9 +3058,9 @@
       "转链"
     ],
     "category": "utilities",
-    "stars": 12,
+    "stars": 13,
     "version": "1.0.3",
-    "updated_at": "2026-04-10T22:17:43Z",
+    "updated_at": "2026-04-13T05:17:19Z",
     "logo": "https://raw.githubusercontent.com/chufeng/astrbot_plugin_bili_resolver/main/logo.png"
   },
   "astrbot-plugin-inkfusion": {
@@ -3124,9 +3124,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 111,
+    "stars": 113,
     "version": "v2.0.7",
-    "updated_at": "2026-04-12T16:43:58Z",
+    "updated_at": "2026-04-13T03:48:30Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -13020,9 +13020,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "entertainment",
-    "stars": 218,
+    "stars": 219,
     "version": "v3.0.3",
-    "updated_at": "2026-04-10T05:41:30Z",
+    "updated_at": "2026-04-13T03:48:56Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
