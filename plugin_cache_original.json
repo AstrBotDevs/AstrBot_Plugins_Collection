@@ -48,8 +48,8 @@
     ],
     "social_link": "https://github.com/FlanChanXwO",
     "stars": 6,
-    "version": "v1.0.12",
-    "updated_at": "2026-04-13T14:58:54Z",
+    "version": "v1.0.13",
+    "updated_at": "2026-04-14T03:13:28Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_rsshub/master/logo.png"
   },
   "astrbot_plugin_scriptor": {
@@ -107,9 +107,9 @@
     "author": "WJF",
     "repo": "https://github.com/starsky-web/astrbot_plugin_eggSearch",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "v0.1.1",
-    "updated_at": "2026-04-13T05:17:09Z"
+    "updated_at": "2026-04-14T02:43:18Z"
   },
   "astrbot_plugin_eve_esi": {
     "display_name": "EVE市场助手",
@@ -1316,9 +1316,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 300,
+    "stars": 301,
     "version": "v4.9.17",
-    "updated_at": "2026-04-13T14:37:37Z",
+    "updated_at": "2026-04-14T03:15:18Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -2498,9 +2498,9 @@
     "social_link": "https://github.com/storyAura",
     "category": "entertainment",
     "tags": [],
-    "stars": 21,
+    "stars": 22,
     "version": "v1.0.2",
-    "updated_at": "2026-04-10T02:39:21Z",
+    "updated_at": "2026-04-14T05:06:53Z",
     "logo": "https://raw.githubusercontent.com/storyAura/astrbot_plugin_biliVideo/main/logo.png"
   },
   "astrbot-plugin-opencode-client": {
@@ -4297,9 +4297,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 300,
+    "stars": 301,
     "version": "v4.9.17",
-    "updated_at": "2026-04-13T14:37:37Z",
+    "updated_at": "2026-04-14T03:15:18Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -4947,9 +4947,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 262,
+    "stars": 263,
     "version": "Next-2.1.0",
-    "updated_at": "2026-04-14T00:20:25Z",
+    "updated_at": "2026-04-14T04:11:17Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -10312,8 +10312,8 @@
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
     "stars": 52,
-    "version": "v2.2.1",
-    "updated_at": "2026-04-14T01:55:57Z",
+    "version": "v2.2.2",
+    "updated_at": "2026-04-14T03:01:41Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -13989,9 +13989,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
     "category": "integrations",
-    "stars": 79,
+    "stars": 80,
     "version": "v3.1.0",
-    "updated_at": "2026-04-13T15:14:10Z",
+    "updated_at": "2026-04-14T05:10:24Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
@@ -14887,9 +14887,9 @@
     ],
     "pinned": true,
     "category": "entertainment",
-    "stars": 234,
+    "stars": 235,
     "version": "v3.20",
-    "updated_at": "2026-04-14T00:02:22Z"
+    "updated_at": "2026-04-14T02:45:15Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
@@ -15362,7 +15362,7 @@
     "tags": [],
     "stars": 7,
     "version": "v1.0.7",
-    "updated_at": "2026-04-10T14:29:37Z"
+    "updated_at": "2026-04-14T04:53:39Z"
   },
   "FateTrial_zhipu_video": {
     "desc": "智谱AI视频生成插件",
