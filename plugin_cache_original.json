@@ -604,8 +604,8 @@
       "vrchat"
     ],
     "stars": 5,
-    "version": "0.1.9",
-    "updated_at": "2026-04-13T15:45:29Z"
+    "version": "0.2.0",
+    "updated_at": "2026-04-14T14:36:35Z"
   },
   "astrbot-plugin-lyubishchev": {
     "display_name": "柳比歇夫时间管理插件",
@@ -4947,9 +4947,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 263,
+    "stars": 264,
     "version": "Next-2.1.0",
-    "updated_at": "2026-04-14T04:11:17Z",
+    "updated_at": "2026-04-14T13:45:47Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
