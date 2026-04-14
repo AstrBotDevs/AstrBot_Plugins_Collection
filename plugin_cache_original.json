@@ -125,8 +125,8 @@
     ],
     "social_link": "https://github.com/LZQ123PKQ",
     "stars": 0,
-    "version": "v2.1.2",
-    "updated_at": "2026-04-13T04:35:26Z",
+    "version": "v2.1.3",
+    "updated_at": "2026-04-14T17:56:17Z",
     "logo": "https://raw.githubusercontent.com/LZQ123PKQ/astrbot_plugin_eve_esi/main/logo.png"
   },
   "astrbot_plugin_gamdl": {
@@ -635,9 +635,9 @@
       "面板"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.0.0",
-    "updated_at": "2026-04-11T09:07:31Z",
+    "updated_at": "2026-04-14T18:26:03Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_live_dashboard/main/logo.png"
   },
   "astrbot-plugin-wol-miko": {
@@ -6290,8 +6290,8 @@
     "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
     "category": "utilities",
     "stars": 29,
-    "version": "v1.3.4beta",
-    "updated_at": "2026-04-10T05:57:39Z",
+    "version": "v1.3.5",
+    "updated_at": "2026-04-14T19:11:17Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -8549,8 +8549,8 @@
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
     "category": "entertainment",
     "stars": 24,
-    "version": "v3.1.3",
-    "updated_at": "2026-04-08T12:58:29Z",
+    "version": "v3.1.6",
+    "updated_at": "2026-04-14T17:45:02Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_Favour_Ultra/main/logo.png"
   },
   "astrbot_plugin_owcx": {
@@ -9912,9 +9912,9 @@
     "social_link": "https://pan.l9.lc",
     "category": "integrations",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "v0.5",
-    "updated_at": "2025-10-15T03:38:50Z"
+    "updated_at": "2026-04-14T17:56:30Z"
   },
   "astrbot_plugin_furry_cg": {
     "desc": "小茶馆插件",
@@ -13538,9 +13538,9 @@
     ],
     "social_link": "https://docs.sayu-bot.com/",
     "category": "integrations",
-    "stars": 36,
+    "stars": 37,
     "version": "v0.4.6",
-    "updated_at": "2026-03-19T03:17:26Z"
+    "updated_at": "2026-04-14T18:19:05Z"
   },
   "astrbot_plugin_xyzw": {
     "author": "四郎",
