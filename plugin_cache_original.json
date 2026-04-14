@@ -6,9 +6,9 @@
     "repo": "https://github.com/AstrBotDevs/builtin_commands_extension",
     "social_link": "https://docs.astrbot.app/use/command.html",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "v0.0.1",
-    "updated_at": "2026-04-13T15:50:41Z"
+    "updated_at": "2026-04-14T13:05:04Z"
   },
   "astrbot_plugin_btw": {
     "display_name": "ByTheWay 快捷问题",
@@ -4388,9 +4388,9 @@
       "抖音"
     ],
     "category": "utilities",
-    "stars": 15,
+    "stars": 16,
     "version": "v1.0.9",
-    "updated_at": "2026-03-23T06:15:57Z"
+    "updated_at": "2026-04-14T12:06:00Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -4931,9 +4931,9 @@
     "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
     "category": "ai_tools",
     "tags": [],
-    "stars": 19,
+    "stars": 20,
     "version": "v4.6.2",
-    "updated_at": "2026-04-07T06:33:56Z",
+    "updated_at": "2026-04-14T11:56:34Z",
     "logo": "https://raw.githubusercontent.com/xiaoxi68/astrbot_zssm_explain/main/logo.png"
   },
   "astrbot_plugin_self_learning": {
@@ -14887,9 +14887,9 @@
     ],
     "pinned": true,
     "category": "entertainment",
-    "stars": 235,
+    "stars": 236,
     "version": "v3.20",
-    "updated_at": "2026-04-14T02:45:15Z"
+    "updated_at": "2026-04-14T11:13:23Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
@@ -15138,8 +15138,8 @@
     "category": "integrations",
     "tags": [],
     "stars": 57,
-    "version": "v1.5.7",
-    "updated_at": "2026-04-12T15:48:11Z",
+    "version": "v1.5.8",
+    "updated_at": "2026-04-14T11:42:42Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
