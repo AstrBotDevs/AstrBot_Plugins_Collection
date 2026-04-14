@@ -442,9 +442,9 @@
       "股票"
     ],
     "social_link": "https://github.com/YYY7C",
-    "stars": 9,
+    "stars": 10,
     "version": "1.2.0",
-    "updated_at": "2026-04-09T13:06:37Z",
+    "updated_at": "2026-04-14T07:45:03Z",
     "logo": "https://raw.githubusercontent.com/YYY7C/TradingAgents-AstrBot/main/logo.png"
   },
   "astrbot-plugin-sts2-data": {
@@ -1316,9 +1316,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 301,
+    "stars": 302,
     "version": "v4.9.17",
-    "updated_at": "2026-04-14T03:15:18Z",
+    "updated_at": "2026-04-14T07:33:59Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -2165,9 +2165,9 @@
     ],
     "social_link": "https://github.com/menglimi",
     "category": "ai_tools",
-    "stars": 33,
+    "stars": 34,
     "version": "2.9.8",
-    "updated_at": "2026-04-10T12:00:52Z",
+    "updated_at": "2026-04-14T05:50:30Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -3124,9 +3124,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 115,
+    "stars": 116,
     "version": "v2.0.7",
-    "updated_at": "2026-04-13T17:17:18Z",
+    "updated_at": "2026-04-14T07:18:59Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -3860,7 +3860,7 @@
     "category": "integrations",
     "stars": 3,
     "version": "v2.1",
-    "updated_at": "2026-04-12T10:06:52Z"
+    "updated_at": "2026-04-14T06:05:37Z"
   },
   "astrbot_plugin_image_url_base64_to_mcp": {
     "display_name": "图片_url_base64_传递至_mcp",
@@ -4297,9 +4297,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 301,
+    "stars": 302,
     "version": "v4.9.17",
-    "updated_at": "2026-04-14T03:15:18Z",
+    "updated_at": "2026-04-14T07:33:59Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -6273,7 +6273,7 @@
     "category": "entertainment",
     "stars": 40,
     "version": "2.5.5",
-    "updated_at": "2026-04-13T20:05:59Z",
+    "updated_at": "2026-04-14T07:15:24Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
