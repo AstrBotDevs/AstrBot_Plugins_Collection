@@ -48,8 +48,8 @@
     ],
     "social_link": "https://github.com/FlanChanXwO",
     "stars": 6,
-    "version": "v1.0.13",
-    "updated_at": "2026-04-14T03:13:28Z",
+    "version": "v1.0.14",
+    "updated_at": "2026-04-14T08:22:07Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_rsshub/master/logo.png"
   },
   "astrbot_plugin_scriptor": {
@@ -167,8 +167,8 @@
     ],
     "social_link": "https://github.com/starlight02",
     "stars": 2,
-    "version": "v0.5.1",
-    "updated_at": "2026-04-13T16:45:40Z"
+    "version": "v0.5.2",
+    "updated_at": "2026-04-14T08:33:43Z"
   },
   "astrbot-plugin-uapipro-toolbox": {
     "display_name": "UApiPro 工具箱",
@@ -180,9 +180,9 @@
       "uapi"
     ],
     "social_link": "https://github.com/lingyun14beta",
-    "stars": 2,
+    "stars": 3,
     "version": "2.1.0",
-    "updated_at": "2026-04-12T22:53:27Z",
+    "updated_at": "2026-04-14T09:17:24Z",
     "logo": "https://raw.githubusercontent.com/lingyun14beta/astrbot_plugin_uapipro_toolbox/main/logo.png"
   },
   "astrbot-plugin-mailer": {
@@ -255,9 +255,9 @@
       "人格绑定"
     ],
     "social_link": "",
-    "stars": 2,
+    "stars": 3,
     "version": "0.3.1",
-    "updated_at": "2026-04-12T18:31:50Z"
+    "updated_at": "2026-04-14T08:44:46Z"
   },
   "astrbot-plugin-terraria-server-manager": {
     "display_name": "泰拉服务器管理",
@@ -857,9 +857,9 @@
       "prompt"
     ],
     "social_link": "https://github.com/NumInvis",
-    "stars": 8,
+    "stars": 9,
     "version": "1.0.0",
-    "updated_at": "2026-04-08T14:05:03Z"
+    "updated_at": "2026-04-14T08:06:30Z"
   },
   "astrbot-ctfpusher-plugin": {
     "display_name": "CTF 赛题及赛事推送助手",
@@ -1513,8 +1513,8 @@
     "social_link": "https://github.com/GamerNoTitle",
     "category": "entertainment",
     "stars": 4,
-    "version": "v1.2.1",
-    "updated_at": "2026-03-24T22:36:38Z",
+    "version": "v1.3.0",
+    "updated_at": "2026-04-14T08:39:40Z",
     "logo": "https://raw.githubusercontent.com/GamerNoTitle/astrbot_plugin_pairit/master/logo.png"
   },
   "astrbot-plugin-qqfarm": {
@@ -7358,9 +7358,9 @@
       "推特"
     ],
     "category": "utilities",
-    "stars": 32,
+    "stars": 33,
     "version": "v5.2.3",
-    "updated_at": "2026-04-13T23:34:13Z",
+    "updated_at": "2026-04-14T09:06:24Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
