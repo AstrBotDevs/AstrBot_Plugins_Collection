@@ -167,8 +167,8 @@
     ],
     "social_link": "https://github.com/starlight02",
     "stars": 2,
-    "version": "v0.5.2",
-    "updated_at": "2026-04-14T08:33:43Z"
+    "version": "v0.5.3",
+    "updated_at": "2026-04-14T09:49:20Z"
   },
   "astrbot-plugin-uapipro-toolbox": {
     "display_name": "UApiPro 工具箱",
@@ -416,7 +416,7 @@
     "social_link": "www.wyccotccy.cn",
     "stars": 14,
     "version": "3.0.0",
-    "updated_at": "2026-04-12T07:21:44Z",
+    "updated_at": "2026-04-14T09:50:04Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -1933,8 +1933,8 @@
     "social_link": "https://github.com/olozhika/",
     "category": "ai_tools",
     "stars": 24,
-    "version": "v1.2.3",
-    "updated_at": "2026-04-13T17:28:25Z",
+    "version": "v1.3.0",
+    "updated_at": "2026-04-14T09:28:10Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
@@ -2230,9 +2230,9 @@
     ],
     "social_link": "https://github.com/LinJohn8",
     "category": "utilities",
-    "stars": 15,
+    "stars": 16,
     "version": "1.0.0",
-    "updated_at": "2026-04-11T09:39:30Z",
+    "updated_at": "2026-04-14T09:32:37Z",
     "logo": "https://raw.githubusercontent.com/LinJohn8/astrbot_plugin_custome_segment_reply/main/logo.png"
   },
   "astrbot-plugin-alteration-notifier": {
@@ -6759,8 +6759,8 @@
     "social_link": "https://box.firefly520.top/",
     "category": "ai_tools",
     "stars": 29,
-    "version": "1.5.7",
-    "updated_at": "2026-04-13T17:38:26Z",
+    "version": "1.5.8",
+    "updated_at": "2026-04-14T10:49:06Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/main/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
