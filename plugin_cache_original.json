@@ -1316,9 +1316,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 302,
+    "stars": 303,
     "version": "v4.9.17",
-    "updated_at": "2026-04-14T07:33:59Z",
+    "updated_at": "2026-04-14T16:36:04Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1934,7 +1934,7 @@
     "category": "ai_tools",
     "stars": 24,
     "version": "v1.3.0",
-    "updated_at": "2026-04-14T09:28:10Z",
+    "updated_at": "2026-04-14T16:19:25Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
@@ -2134,9 +2134,9 @@
     ],
     "social_link": "https://github.com/RichardLiuda",
     "category": "utilities",
-    "stars": 17,
+    "stars": 18,
     "version": "v2.2.1",
-    "updated_at": "2026-04-14T01:20:09Z",
+    "updated_at": "2026-04-14T16:30:52Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -4297,9 +4297,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 302,
+    "stars": 303,
     "version": "v4.9.17",
-    "updated_at": "2026-04-14T07:33:59Z",
+    "updated_at": "2026-04-14T16:36:04Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -4949,7 +4949,7 @@
     "category": "ai_tools",
     "stars": 264,
     "version": "Next-2.1.0",
-    "updated_at": "2026-04-14T13:45:47Z",
+    "updated_at": "2026-04-14T16:30:17Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -7358,9 +7358,9 @@
       "推特"
     ],
     "category": "utilities",
-    "stars": 33,
+    "stars": 34,
     "version": "v5.2.3",
-    "updated_at": "2026-04-14T09:06:24Z",
+    "updated_at": "2026-04-14T15:35:25Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -8817,8 +8817,8 @@
     ],
     "category": "utilities",
     "stars": 5,
-    "version": "v1.2",
-    "updated_at": "2026-04-12T16:12:09Z",
+    "version": "v1.3",
+    "updated_at": "2026-04-14T17:06:52Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_GroupFS/master/logo.png"
   },
   "group_notice_manager": {
