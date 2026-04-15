@@ -6,9 +6,9 @@
     "repo": "https://github.com/AstrBotDevs/builtin_commands_extension",
     "social_link": "https://docs.astrbot.app/use/command.html",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "v0.0.1",
-    "updated_at": "2026-04-14T13:05:04Z"
+    "updated_at": "2026-04-15T00:36:16Z"
   },
   "astrbot_plugin_btw": {
     "display_name": "ByTheWay 快捷问题",
@@ -3124,9 +3124,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 116,
+    "stars": 117,
     "version": "v2.0.7",
-    "updated_at": "2026-04-14T07:18:59Z",
+    "updated_at": "2026-04-15T02:11:38Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -4947,9 +4947,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 264,
+    "stars": 265,
     "version": "Next-2.1.0",
-    "updated_at": "2026-04-14T16:30:17Z",
+    "updated_at": "2026-04-15T02:28:30Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -7794,9 +7794,9 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "ai_tools",
-    "stars": 87,
+    "stars": 88,
     "version": "v1.2.1-(hotfix-重推)",
-    "updated_at": "2026-04-13T22:23:35Z",
+    "updated_at": "2026-04-15T02:28:24Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -11325,9 +11325,9 @@
     ],
     "author": "UyNewNas",
     "category": "entertainment",
-    "stars": 13,
+    "stars": 14,
     "version": "v1.2",
-    "updated_at": "2026-01-27T03:58:44Z"
+    "updated_at": "2026-04-15T01:22:55Z"
   },
   "astrbot_plugin_LetAI_sendemojis": {
     "desc": "智能分析AI对话内容并发送匹配表情包，支持情感识别、历史记录和多数据源，让聊天更生动有趣",
