@@ -1223,9 +1223,9 @@
     "tags": [],
     "social_link": "",
     "category": "ai_tools",
-    "stars": 29,
+    "stars": 30,
     "version": "1.1.1",
-    "updated_at": "2026-04-12T13:34:04Z",
+    "updated_at": "2026-04-15T19:28:59Z",
     "logo": "https://raw.githubusercontent.com/Kalospacer/astrbot_plugin_maid_agent/master/logo.png"
   },
   "astrbot-plugin-stoprushingiamtyping": {
@@ -2165,9 +2165,9 @@
     ],
     "social_link": "https://github.com/menglimi",
     "category": "ai_tools",
-    "stars": 34,
+    "stars": 35,
     "version": "2.9.8",
-    "updated_at": "2026-04-14T05:50:30Z",
+    "updated_at": "2026-04-15T19:45:16Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -4588,9 +4588,9 @@
     ],
     "social_link": "https://github.com/DITF16",
     "category": "ai_tools",
-    "stars": 59,
+    "stars": 60,
     "version": "1.1.1",
-    "updated_at": "2026-04-12T23:19:43Z",
+    "updated_at": "2026-04-15T19:41:56Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_groupGuard": {
@@ -7717,9 +7717,9 @@
     ],
     "social_link": "https://github.com/DITF16",
     "category": "entertainment",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.0.3",
-    "updated_at": "2026-04-02T14:07:08Z",
+    "updated_at": "2026-04-15T19:41:13Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_stockgame/master/logo.png"
   },
   "astrbot_plugin_cryptocurrency": {
