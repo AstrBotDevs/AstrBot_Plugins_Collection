@@ -414,9 +414,9 @@
       "更多主动功能"
     ],
     "social_link": "www.wyccotccy.cn",
-    "stars": 14,
+    "stars": 15,
     "version": "3.0.0",
-    "updated_at": "2026-04-14T09:50:04Z",
+    "updated_at": "2026-04-15T11:50:14Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -941,8 +941,8 @@
     "social_link": "https://github.com/yonglanws/",
     "category": "entertainment",
     "stars": 3,
-    "version": "v1.6.0",
-    "updated_at": "2026-04-13T03:55:06Z",
+    "version": "v1.7.0",
+    "updated_at": "2026-04-15T13:18:46Z",
     "logo": "https://raw.githubusercontent.com/yonglanws/astrbot_plugin_pjsk_guess_card/main/logo.png"
   },
   "astrbot-plugin-arcaea": {
@@ -1900,9 +1900,9 @@
     "social_link": "https://github.com/Renyus",
     "category": "ai_tools",
     "tags": [],
-    "stars": 53,
+    "stars": 52,
     "version": "Ver 5.3.0",
-    "updated_at": "2026-04-14T01:50:56Z"
+    "updated_at": "2026-04-15T11:54:18Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -2232,7 +2232,7 @@
     "category": "utilities",
     "stars": 16,
     "version": "1.0.0",
-    "updated_at": "2026-04-14T09:32:37Z",
+    "updated_at": "2026-04-15T12:16:36Z",
     "logo": "https://raw.githubusercontent.com/LinJohn8/astrbot_plugin_custome_segment_reply/main/logo.png"
   },
   "astrbot-plugin-alteration-notifier": {
@@ -4947,9 +4947,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 265,
+    "stars": 266,
     "version": "Next-2.1.0",
-    "updated_at": "2026-04-15T02:28:30Z",
+    "updated_at": "2026-04-15T12:22:37Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -5036,7 +5036,7 @@
     "category": "productivity",
     "stars": 22,
     "version": "v1.6.1",
-    "updated_at": "2026-04-13T15:35:00Z",
+    "updated_at": "2026-04-15T12:20:41Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
