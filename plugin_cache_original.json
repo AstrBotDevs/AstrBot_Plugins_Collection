@@ -9587,9 +9587,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 136,
+    "stars": 137,
     "version": "2.2.4",
-    "updated_at": "2026-04-14T01:50:54Z",
+    "updated_at": "2026-04-15T10:51:17Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -15540,9 +15540,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "ai_tools",
     "tags": [],
-    "stars": 227,
+    "stars": 228,
     "version": "v2.1.4",
-    "updated_at": "2026-04-14T02:39:21Z"
+    "updated_at": "2026-04-15T10:16:51Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
