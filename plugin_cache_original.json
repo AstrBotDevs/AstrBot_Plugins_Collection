@@ -9218,9 +9218,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "utilities",
-    "stars": 9,
+    "stars": 10,
     "version": "1.0.1",
-    "updated_at": "2026-03-31T08:05:20Z"
+    "updated_at": "2026-04-16T19:25:12Z"
   },
   "astrbot_plugin_personal_selfupdate": {
     "desc": "一个用于自更新人格数据的插件。",
@@ -13032,9 +13032,9 @@
     "social_link": "https://github.com/tinkerbellqwq",
     "category": "utilities",
     "tags": [],
-    "stars": 39,
+    "stars": 40,
     "version": "v1.1.3",
-    "updated_at": "2026-04-11T11:30:00Z"
+    "updated_at": "2026-04-16T19:38:18Z"
   },
   "astrbot_qqemotionreply": {
     "author": "QiChen",
@@ -13881,9 +13881,9 @@
       "日常使用"
     ],
     "category": "utilities",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.1",
-    "updated_at": "2026-04-02T06:35:29Z"
+    "updated_at": "2026-04-16T19:33:51Z"
   },
   "astrbot_plugin_Merge_WeMSG": {
     "desc": "[仅gewechat]支持微信个人号(gewechat)的合并消息处理和转发",
