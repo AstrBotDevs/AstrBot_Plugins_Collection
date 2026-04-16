@@ -107,9 +107,9 @@
     "author": "WJF",
     "repo": "https://github.com/starsky-web/astrbot_plugin_eggSearch",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v0.1.1",
-    "updated_at": "2026-04-14T02:43:18Z"
+    "updated_at": "2026-04-16T16:31:25Z"
   },
   "astrbot_plugin_eve_esi": {
     "display_name": "EVE市场助手",
@@ -1316,9 +1316,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 306,
+    "stars": 307,
     "version": "v4.9.18",
-    "updated_at": "2026-04-16T13:53:16Z",
+    "updated_at": "2026-04-16T15:49:12Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1742,9 +1742,9 @@
       "数据查询"
     ],
     "category": "entertainment",
-    "stars": 33,
+    "stars": 34,
     "version": "2.7.0",
-    "updated_at": "2026-04-13T16:24:57Z",
+    "updated_at": "2026-04-16T16:29:04Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -2276,9 +2276,9 @@
       "sky"
     ],
     "category": "entertainment",
-    "stars": 6,
+    "stars": 7,
     "version": "2.5.3",
-    "updated_at": "2026-04-13T12:16:00Z",
+    "updated_at": "2026-04-16T16:51:27Z",
     "logo": "https://raw.githubusercontent.com/wzq10314/astrbot_plugin_sky/main/logo.png"
   },
   "astrbot-plugin-animatedemoji": {
@@ -4297,9 +4297,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 306,
+    "stars": 307,
     "version": "v4.9.18",
-    "updated_at": "2026-04-16T13:53:16Z",
+    "updated_at": "2026-04-16T15:49:12Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -5051,9 +5051,9 @@
     ],
     "social_link": "https://github.com/Huahuatgc",
     "category": "entertainment",
-    "stars": 15,
+    "stars": 16,
     "version": "1.2.1",
-    "updated_at": "2026-04-16T10:08:57Z"
+    "updated_at": "2026-04-16T16:27:41Z"
   },
   "astrbot_plugin_matrix_adapter": {
     "display_name": "Matrix 协议适配器",
@@ -13869,9 +13869,9 @@
     "repo": "https://github.com/lm379/astrbot_plugin_quarksave",
     "category": "integrations",
     "tags": [],
-    "stars": 15,
+    "stars": 16,
     "version": "v1.0.5",
-    "updated_at": "2026-03-20T04:13:40Z"
+    "updated_at": "2026-04-16T16:27:40Z"
   },
   "astrbot_plugins_ConvetPicture": {
     "desc": "[仅aiocqhttp]把QQ里面不可保存的表情转化为可以保存的图片，包括GIF",
