@@ -414,9 +414,9 @@
       "更多主动功能"
     ],
     "social_link": "www.wyccotccy.cn",
-    "stars": 16,
+    "stars": 17,
     "version": "3.0.0",
-    "updated_at": "2026-04-16T06:52:51Z",
+    "updated_at": "2026-04-16T09:34:34Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -1031,9 +1031,9 @@
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
     "category": "entertainment",
-    "stars": 2,
+    "stars": 3,
     "version": "1.1.6",
-    "updated_at": "2026-03-25T19:28:10Z",
+    "updated_at": "2026-04-16T09:50:40Z",
     "logo": "https://raw.githubusercontent.com/Sisyphbaous-DT-Project/astrbot_plugin_shit_detector_plus/main/logo.png"
   },
   "astrbot-plugin-minecraft-wiki": {
@@ -5036,7 +5036,7 @@
     "category": "productivity",
     "stars": 22,
     "version": "v1.6.2",
-    "updated_at": "2026-04-16T07:35:13Z",
+    "updated_at": "2026-04-16T10:09:02Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -5051,9 +5051,9 @@
     ],
     "social_link": "https://github.com/Huahuatgc",
     "category": "entertainment",
-    "stars": 14,
+    "stars": 15,
     "version": "1.2.1",
-    "updated_at": "2026-04-10T03:49:06Z"
+    "updated_at": "2026-04-16T10:08:57Z"
   },
   "astrbot_plugin_matrix_adapter": {
     "display_name": "Matrix 协议适配器",
@@ -13638,9 +13638,9 @@
     "social_link": "https://github.com/Futureppo",
     "repo": "https://github.com/Futureppo/astrbot_plugin_zanwo",
     "category": "utilities",
-    "stars": 24,
+    "stars": 25,
     "version": "v1.0.9",
-    "updated_at": "2026-02-23T13:44:28Z",
+    "updated_at": "2026-04-16T09:56:07Z",
     "logo": "https://raw.githubusercontent.com/Futureppo/astrbot_plugin_zanwo/master/logo.png"
   },
   "astrbot_plugin_ehentai_bot": {
