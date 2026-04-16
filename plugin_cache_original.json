@@ -64,9 +64,9 @@
       "跨平台身份管理",
       "数据库查询"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "1.0.0",
-    "updated_at": "2026-04-16T03:45:08Z",
+    "updated_at": "2026-04-16T12:32:21Z",
     "logo": "https://raw.githubusercontent.com/ysf7762-dev/astrbot_plugin_scriptor/main/logo.png"
   },
   "astrbot_plugin_actions": {
@@ -96,9 +96,9 @@
       "图片来源"
     ],
     "social_link": "https://github.com/FlanChanXwO",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.3",
-    "updated_at": "2026-04-13T07:26:46Z",
+    "updated_at": "2026-04-16T13:42:52Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_imgexploration/master/logo.png"
   },
   "astrbot_plugin_eggSearch": {
@@ -4947,9 +4947,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 269,
+    "stars": 268,
     "version": "Next-2.1.0",
-    "updated_at": "2026-04-16T03:40:56Z",
+    "updated_at": "2026-04-16T11:55:14Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -5718,9 +5718,9 @@
       "人格"
     ],
     "category": "ai_tools",
-    "stars": 104,
+    "stars": 103,
     "version": "1.3.10",
-    "updated_at": "2026-04-13T14:29:54Z",
+    "updated_at": "2026-04-16T11:55:11Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -5734,9 +5734,9 @@
       "群聊优化"
     ],
     "category": "ai_tools",
-    "stars": 76,
+    "stars": 75,
     "version": "0.8.23",
-    "updated_at": "2026-04-16T08:52:26Z",
+    "updated_at": "2026-04-16T11:55:12Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -6418,9 +6418,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
-    "stars": 68,
+    "stars": 69,
     "version": "v4.2.26",
-    "updated_at": "2026-04-11T05:12:36Z",
+    "updated_at": "2026-04-16T12:49:25Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -7794,9 +7794,9 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "ai_tools",
-    "stars": 88,
+    "stars": 87,
     "version": "v1.2.1-(hotfix-重推)",
-    "updated_at": "2026-04-15T02:28:24Z",
+    "updated_at": "2026-04-16T11:55:14Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -8283,9 +8283,9 @@
       "实用"
     ],
     "category": "utilities",
-    "stars": 16,
+    "stars": 15,
     "version": "v2.8.7",
-    "updated_at": "2026-04-09T13:31:05Z",
+    "updated_at": "2026-04-16T11:55:17Z",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
   "astrbot_plugin_acm_helper": {
@@ -13691,9 +13691,9 @@
       "DeepSeek"
     ],
     "category": "ai_tools",
-    "stars": 14,
+    "stars": 13,
     "version": "v0.1",
-    "updated_at": "2026-04-09T13:27:26Z"
+    "updated_at": "2026-04-16T11:55:18Z"
   },
   "astrbot_plugin_doro_ending": {
     "desc": "[QQ]doro互动故事",
@@ -13960,9 +13960,9 @@
       "安全"
     ],
     "category": "utilities",
-    "stars": 16,
+    "stars": 15,
     "version": "v2.8.7",
-    "updated_at": "2026-04-09T13:31:05Z",
+    "updated_at": "2026-04-16T11:55:17Z",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
   "astrbot_plugin_quote_collocter": {
@@ -14249,7 +14249,7 @@
     "category": "entertainment",
     "stars": 100,
     "version": "v3.0.3",
-    "updated_at": "2026-04-15T05:14:40Z",
+    "updated_at": "2026-04-16T13:37:48Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
@@ -15540,9 +15540,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "ai_tools",
     "tags": [],
-    "stars": 229,
+    "stars": 228,
     "version": "v2.1.4",
-    "updated_at": "2026-04-16T03:39:34Z"
+    "updated_at": "2026-04-16T11:55:19Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
