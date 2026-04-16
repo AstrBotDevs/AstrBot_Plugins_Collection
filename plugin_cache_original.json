@@ -1902,7 +1902,7 @@
     "tags": [],
     "stars": 52,
     "version": "Ver 5.3.0",
-    "updated_at": "2026-04-15T11:54:18Z"
+    "updated_at": "2026-04-16T07:56:28Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -2363,9 +2363,9 @@
     ],
     "social_link": "https://github.com/cxyfer",
     "category": "entertainment",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.1.7",
-    "updated_at": "2026-03-16T12:45:36Z",
+    "updated_at": "2026-04-16T09:19:44Z",
     "logo": "https://raw.githubusercontent.com/cxyfer/astrbot_plugin_livepulse/master/logo.png"
   },
   "astrbot-plugin-bookkeeper": {
@@ -2769,7 +2769,7 @@
     "category": "utilities",
     "stars": 18,
     "version": "v1.4.0",
-    "updated_at": "2026-04-05T11:09:22Z",
+    "updated_at": "2026-04-16T08:57:07Z",
     "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_ssh/main/logo.png"
   },
   "astrbot-plugin-httpadapter": {
@@ -4019,7 +4019,7 @@
     "category": "entertainment",
     "stars": 3,
     "version": "v1.2.0",
-    "updated_at": "2026-04-16T02:04:57Z"
+    "updated_at": "2026-04-16T08:01:35Z"
   },
   "astrbot_plugin_bestdori_tools": {
     "display_name": "BanG！Dream！Bestdori工具箱",
@@ -5316,9 +5316,9 @@
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
     "category": "ai_tools",
-    "stars": 55,
+    "stars": 56,
     "version": "v1.1",
-    "updated_at": "2026-04-03T04:38:57Z"
+    "updated_at": "2026-04-16T09:16:19Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -5735,8 +5735,8 @@
     ],
     "category": "ai_tools",
     "stars": 76,
-    "version": "0.8.21",
-    "updated_at": "2026-04-10T12:29:00Z",
+    "version": "0.8.23",
+    "updated_at": "2026-04-16T08:52:26Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -7312,9 +7312,9 @@
     ],
     "social_link": "https://github.com/SinkAbyss",
     "category": "ai_tools",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.1.6",
-    "updated_at": "2026-04-10T08:04:14Z"
+    "updated_at": "2026-04-16T08:21:05Z"
   },
   "astrbot_plugin_Furimg_Cloud": {
     "display_name": "兽云祭(兽兽图片/图鉴)",
@@ -7766,9 +7766,9 @@
     ],
     "social_link": "https://github.com/Luna-channel",
     "category": "ai_tools",
-    "stars": 23,
+    "stars": 24,
     "version": "2.0.1",
-    "updated_at": "2026-04-03T08:09:56Z",
+    "updated_at": "2026-04-16T08:20:48Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_Conversa/main/logo.png"
   },
   "astrbot_plugin_shutdown": {
@@ -9634,9 +9634,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
-    "stars": 15,
+    "stars": 16,
     "version": "v2.1.0",
-    "updated_at": "2026-04-08T13:01:20Z",
+    "updated_at": "2026-04-16T08:21:10Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_recall_cancel/main/logo.png"
   },
   "astrbot_plugin_multimsg": {
@@ -15137,9 +15137,9 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "category": "integrations",
     "tags": [],
-    "stars": 57,
+    "stars": 58,
     "version": "v1.5.8",
-    "updated_at": "2026-04-14T11:42:42Z",
+    "updated_at": "2026-04-16T07:53:15Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
