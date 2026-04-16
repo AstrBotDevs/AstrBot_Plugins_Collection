@@ -414,9 +414,9 @@
       "更多主动功能"
     ],
     "social_link": "www.wyccotccy.cn",
-    "stars": 17,
+    "stars": 18,
     "version": "3.0.0",
-    "updated_at": "2026-04-16T09:34:34Z",
+    "updated_at": "2026-04-16T18:45:39Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -3376,9 +3376,9 @@
       "codegen"
     ],
     "category": "ai_tools",
-    "stars": 44,
+    "stars": 45,
     "version": "1.3.2",
-    "updated_at": "2026-04-15T06:20:29Z",
+    "updated_at": "2026-04-16T17:20:45Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -6257,9 +6257,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "entertainment",
-    "stars": 20,
+    "stars": 21,
     "version": "v2.2.7",
-    "updated_at": "2026-04-08T18:22:02Z",
+    "updated_at": "2026-04-16T18:51:58Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_life_scheduler/main/logo.png"
   },
   "astrbot_plugin_stealer": {
@@ -14247,9 +14247,9 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "category": "entertainment",
-    "stars": 100,
+    "stars": 101,
     "version": "v3.0.3",
-    "updated_at": "2026-04-16T13:37:48Z",
+    "updated_at": "2026-04-16T17:20:49Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
@@ -14362,9 +14362,9 @@
       "实用工具"
     ],
     "category": "utilities",
-    "stars": 39,
+    "stars": 40,
     "version": "v3.0.2",
-    "updated_at": "2026-04-12T00:48:19Z",
+    "updated_at": "2026-04-16T17:27:49Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
