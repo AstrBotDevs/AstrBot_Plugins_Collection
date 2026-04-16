@@ -47,9 +47,9 @@
       "推送"
     ],
     "social_link": "https://github.com/FlanChanXwO",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.0.14",
-    "updated_at": "2026-04-14T08:22:07Z",
+    "updated_at": "2026-04-16T07:35:27Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_rsshub/master/logo.png"
   },
   "astrbot_plugin_scriptor": {
@@ -414,9 +414,9 @@
       "更多主动功能"
     ],
     "social_link": "www.wyccotccy.cn",
-    "stars": 15,
+    "stars": 16,
     "version": "3.0.0",
-    "updated_at": "2026-04-15T11:50:14Z",
+    "updated_at": "2026-04-16T06:52:51Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -1484,8 +1484,8 @@
     "social_link": "https://github.com/jiantoucn",
     "category": "integrations",
     "stars": 6,
-    "version": "v1.11.2",
-    "updated_at": "2026-04-15T07:43:17Z",
+    "version": "v1.11.3",
+    "updated_at": "2026-04-16T06:11:17Z",
     "logo": "https://raw.githubusercontent.com/jiantoucn/astrbot_plugin_weibo_monitor/main/logo.png"
   },
   "astrbot-plugin-content-safety-guard": {
@@ -2054,9 +2054,9 @@
     ],
     "social_link": "https://github.com/united-pooh",
     "category": "entertainment",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.1.1",
-    "updated_at": "2026-04-11T17:46:09Z",
+    "updated_at": "2026-04-16T07:17:40Z",
     "logo": "https://raw.githubusercontent.com/united-pooh/astrbot_plugin_bangumi/main/logo.png"
   },
   "astrbot-plugin-three-body-wiki": {
@@ -5035,8 +5035,8 @@
     "social_link": "https://github.com/Clhikari",
     "category": "productivity",
     "stars": 22,
-    "version": "v1.6.1",
-    "updated_at": "2026-04-16T05:02:35Z",
+    "version": "v1.6.2",
+    "updated_at": "2026-04-16T07:35:13Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -5301,9 +5301,9 @@
     ],
     "social_link": "QQ：1067118179",
     "category": "utilities",
-    "stars": 4,
+    "stars": 5,
     "version": "v0.0.1",
-    "updated_at": "2026-03-05T07:04:08Z",
+    "updated_at": "2026-04-16T06:56:36Z",
     "logo": "https://raw.githubusercontent.com/Close245/astrbot_plugin_click2download/master/logo.png"
   },
   "astrbot_plugin_gemini": {
@@ -7958,9 +7958,9 @@
     ],
     "social_link": "https://gbkgov.cn",
     "category": "ai_tools",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.1.0",
-    "updated_at": "2026-04-06T11:41:42Z"
+    "updated_at": "2026-04-16T07:23:37Z"
   },
   "astrbot_plugin_onelastimage": {
     "display_name": "One Last Kiss 图片生成器",
@@ -8561,9 +8561,9 @@
     "social_link": "https://space.bilibili.com/1482890426?spm_id_from=333.1007.0.0",
     "category": "entertainment",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "v1.2.1",
-    "updated_at": "2026-03-31T10:40:27Z"
+    "updated_at": "2026-04-16T06:52:03Z"
   },
   "astrbot_plugin_hapemxg_Inspect": {
     "desc": "LLM 内容审查插件，集成了正则表达式与 AI 模型双重审查机制。当回复不合规时，能自动重试并智能引导模型修正，确保内容安全合规。",
@@ -10188,7 +10188,7 @@
     "category": "entertainment",
     "stars": 21,
     "version": "v1.0.0",
-    "updated_at": "2026-04-16T02:23:08Z"
+    "updated_at": "2026-04-16T07:17:22Z"
   },
   "astrbot_plugin_baiduocr": {
     "desc": "百度智能云的 OCR 文字识别服务。新用户有千次的免费调用次数，适合轻度使用",
@@ -13020,9 +13020,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "entertainment",
-    "stars": 217,
+    "stars": 219,
     "version": "v3.0.3",
-    "updated_at": "2026-04-16T00:31:22Z",
+    "updated_at": "2026-04-16T06:49:43Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -14887,9 +14887,9 @@
     ],
     "pinned": true,
     "category": "entertainment",
-    "stars": 238,
+    "stars": 239,
     "version": "v3.20",
-    "updated_at": "2026-04-15T14:12:44Z"
+    "updated_at": "2026-04-16T07:38:27Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
