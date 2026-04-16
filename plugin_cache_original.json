@@ -66,7 +66,7 @@
     ],
     "stars": 0,
     "version": "1.0.0",
-    "updated_at": "2026-04-16T02:11:38Z",
+    "updated_at": "2026-04-16T03:45:08Z",
     "logo": "https://raw.githubusercontent.com/ysf7762-dev/astrbot_plugin_scriptor/main/logo.png"
   },
   "astrbot_plugin_actions": {
@@ -3942,8 +3942,8 @@
     ],
     "category": "utilities",
     "stars": 8,
-    "version": "v0.2.0",
-    "updated_at": "2026-04-04T04:04:05Z"
+    "version": "v0.2.1",
+    "updated_at": "2026-04-16T05:20:38Z"
   },
   "astrbot_plugin_skland": {
     "display_name": "森空岛签到",
@@ -4947,9 +4947,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 268,
+    "stars": 269,
     "version": "Next-2.1.0",
-    "updated_at": "2026-04-15T14:12:05Z",
+    "updated_at": "2026-04-16T03:40:56Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -4973,9 +4973,9 @@
     "repo": "https://github.com/bylkuse/astrbot_plugin_help_typst",
     "category": "utilities",
     "tags": [],
-    "stars": 17,
+    "stars": 18,
     "version": "v0.1.1",
-    "updated_at": "2026-04-11T07:55:38Z",
+    "updated_at": "2026-04-16T02:58:12Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_help_typst/master/logo.png"
   },
   "astrbot_plugin_lb_provider": {
@@ -5036,7 +5036,7 @@
     "category": "productivity",
     "stars": 22,
     "version": "v1.6.1",
-    "updated_at": "2026-04-15T12:20:41Z",
+    "updated_at": "2026-04-16T05:02:35Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -7240,9 +7240,9 @@
     ],
     "social_link": "https://github.com/NekoiMeiov",
     "category": "utilities",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.0.1",
-    "updated_at": "2026-03-20T12:57:39Z"
+    "updated_at": "2026-04-16T05:20:02Z"
   },
   "astrbot_plugin_mc_update": {
     "display_name": "Minecraft 基岩版更新日志提醒插件",
@@ -8988,9 +8988,9 @@
       "fishing"
     ],
     "category": "entertainment",
-    "stars": 36,
+    "stars": 37,
     "version": "2.4.7",
-    "updated_at": "2026-04-07T10:40:38Z",
+    "updated_at": "2026-04-16T03:44:09Z",
     "logo": "https://raw.githubusercontent.com/xxlemon-io/astrbot_plugin_fishing/main/logo.png"
   },
   "astrbot_plugin_astrmetry": {
@@ -10416,9 +10416,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "integrations",
-    "stars": 109,
+    "stars": 110,
     "version": "v3.0.4",
-    "updated_at": "2026-04-13T06:32:05Z",
+    "updated_at": "2026-04-16T04:35:01Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -15460,9 +15460,9 @@
     "repo": "https://github.com/zgojin/astrbot_plugin_botName",
     "category": "utilities",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "v2.0",
-    "updated_at": "2025-08-24T16:24:46Z"
+    "updated_at": "2026-04-16T04:35:49Z"
   },
   "astrbot_plugin_tts_Cosyvoice2": {
     "desc": "Astrbot的tts功能补充（使用Cosyvoice2-0.5b本地模型）",
@@ -15540,9 +15540,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "ai_tools",
     "tags": [],
-    "stars": 228,
+    "stars": 229,
     "version": "v2.1.4",
-    "updated_at": "2026-04-15T10:16:51Z"
+    "updated_at": "2026-04-16T03:39:34Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
