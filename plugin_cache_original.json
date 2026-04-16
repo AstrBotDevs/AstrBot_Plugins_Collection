@@ -1316,9 +1316,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 305,
+    "stars": 306,
     "version": "v4.9.18",
-    "updated_at": "2026-04-15T15:20:05Z",
+    "updated_at": "2026-04-16T13:53:16Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1712,9 +1712,9 @@
     "repo": "https://github.com/674537331/astrbot_plugin_mihome",
     "category": "integrations",
     "tags": [],
-    "stars": 20,
+    "stars": 21,
     "version": "v7.2.0",
-    "updated_at": "2026-04-15T13:39:56Z",
+    "updated_at": "2026-04-16T14:31:42Z",
     "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_mihome/main/logo.png"
   },
   "astrbot-plugin-nai-brush": {
@@ -2134,9 +2134,9 @@
     ],
     "social_link": "https://github.com/RichardLiuda",
     "category": "utilities",
-    "stars": 18,
+    "stars": 19,
     "version": "v2.2.1",
-    "updated_at": "2026-04-14T16:30:52Z",
+    "updated_at": "2026-04-16T14:10:45Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -4297,9 +4297,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 305,
+    "stars": 306,
     "version": "v4.9.18",
-    "updated_at": "2026-04-15T15:20:05Z",
+    "updated_at": "2026-04-16T13:53:16Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -4947,9 +4947,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 268,
+    "stars": 269,
     "version": "Next-2.1.0",
-    "updated_at": "2026-04-16T11:55:14Z",
+    "updated_at": "2026-04-16T15:18:45Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -6837,8 +6837,8 @@
     "social_link": "https://github.com/piexian",
     "category": "ai_tools",
     "stars": 36,
-    "version": "v1.9.10",
-    "updated_at": "2026-04-16T02:24:31Z",
+    "version": "v1.9.11",
+    "updated_at": "2026-04-16T15:19:26Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -8094,7 +8094,7 @@
     "category": "ai_tools",
     "stars": 196,
     "version": "v1.2.2",
-    "updated_at": "2026-04-16T01:42:20Z",
+    "updated_at": "2026-04-16T14:15:43Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -12126,9 +12126,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 140,
+    "stars": 141,
     "version": "v2.1.0",
-    "updated_at": "2026-04-15T14:11:36Z",
+    "updated_at": "2026-04-16T14:57:04Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -12936,9 +12936,9 @@
     "repo": "https://github.com/LKarxa/astrbot_plugin_SillyTavern_card",
     "category": "ai_tools",
     "tags": [],
-    "stars": 7,
+    "stars": 8,
     "version": "v1.0.0",
-    "updated_at": "2026-04-02T05:16:25Z"
+    "updated_at": "2026-04-16T15:25:00Z"
   },
   "astrbot_plugin_reply": {
     "author": "yahayao",
@@ -13640,7 +13640,7 @@
     "category": "utilities",
     "stars": 25,
     "version": "v1.0.9",
-    "updated_at": "2026-04-16T09:56:07Z",
+    "updated_at": "2026-04-16T15:20:33Z",
     "logo": "https://raw.githubusercontent.com/Futureppo/astrbot_plugin_zanwo/master/logo.png"
   },
   "astrbot_plugin_ehentai_bot": {
