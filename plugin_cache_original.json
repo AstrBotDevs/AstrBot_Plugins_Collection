@@ -47,9 +47,9 @@
       "推送"
     ],
     "social_link": "https://github.com/FlanChanXwO",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.0.14",
-    "updated_at": "2026-04-16T07:35:27Z",
+    "updated_at": "2026-04-17T02:53:53Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_rsshub/master/logo.png"
   },
   "astrbot_plugin_scriptor": {
@@ -1255,9 +1255,9 @@
     ],
     "social_link": "https://github.com/Dracowyn",
     "category": "entertainment",
-    "stars": 2,
+    "stars": 3,
     "version": "v0.6.1",
-    "updated_at": "2026-03-17T02:36:45Z"
+    "updated_at": "2026-04-17T04:31:18Z"
   },
   "astrbot-plugin-emojikitchen": {
     "display_name": "Emoji Kitchen",
@@ -1316,9 +1316,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 307,
+    "stars": 308,
     "version": "v4.9.18",
-    "updated_at": "2026-04-16T15:49:12Z",
+    "updated_at": "2026-04-17T03:15:28Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -2750,9 +2750,9 @@
     ],
     "social_link": "https://github.com/Radiant303",
     "category": "ai_tools",
-    "stars": 20,
+    "stars": 22,
     "version": "v2.3.0",
-    "updated_at": "2026-04-15T07:37:33Z",
+    "updated_at": "2026-04-17T03:53:13Z",
     "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_clonetts/master/logo.png"
   },
   "astrbot-plugin-ssh": {
@@ -4297,9 +4297,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 307,
+    "stars": 308,
     "version": "v4.9.18",
-    "updated_at": "2026-04-16T15:49:12Z",
+    "updated_at": "2026-04-17T03:15:28Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -6148,9 +6148,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 100,
+    "stars": 101,
     "version": "v1.5.1",
-    "updated_at": "2026-04-13T12:39:21Z",
+    "updated_at": "2026-04-17T05:06:52Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -6290,8 +6290,8 @@
     "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
     "category": "utilities",
     "stars": 29,
-    "version": "v1.3.6",
-    "updated_at": "2026-04-15T05:31:42Z",
+    "version": "v1.3.7",
+    "updated_at": "2026-04-17T05:22:42Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -7240,9 +7240,9 @@
     ],
     "social_link": "https://github.com/NekoiMeiov",
     "category": "utilities",
-    "stars": 7,
+    "stars": 9,
     "version": "v1.0.1",
-    "updated_at": "2026-04-16T05:20:02Z"
+    "updated_at": "2026-04-17T03:13:21Z"
   },
   "astrbot_plugin_mc_update": {
     "display_name": "Minecraft 基岩版更新日志提醒插件",
@@ -10456,9 +10456,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 19,
+    "stars": 20,
     "version": "v1.0.3",
-    "updated_at": "2026-04-05T05:25:25Z",
+    "updated_at": "2026-04-17T03:36:50Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_record_converter/main/logo.png"
   },
   "astrbot_plugin_spark_tts": {
@@ -12707,7 +12707,7 @@
     "category": "utilities",
     "stars": 15,
     "version": "v1.3",
-    "updated_at": "2026-03-24T09:25:05Z"
+    "updated_at": "2026-04-17T05:12:40Z"
   },
   "astrbot_plugin_broadcast": {
     "display_name": "广播助手",
