@@ -31,9 +31,9 @@
       "磁链"
     ],
     "social_link": "https://github.com/howrain",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.1",
-    "updated_at": "2026-04-13T18:59:12Z"
+    "updated_at": "2026-04-17T12:49:58Z"
   },
   "astrbot_plugin_rsshub": {
     "display_name": "RSS订阅",
@@ -4198,8 +4198,8 @@
     "social_link": "https://github.com/siciyuanweilai",
     "category": "entertainment",
     "stars": 31,
-    "version": "5.1.6",
-    "updated_at": "2026-04-17T06:51:01Z",
+    "version": "5.1.7",
+    "updated_at": "2026-04-17T13:18:03Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -8585,8 +8585,8 @@
     "category": "entertainment",
     "tags": [],
     "stars": 3,
-    "version": "v2.1.0",
-    "updated_at": "2026-04-15T08:01:09Z"
+    "version": "v2.2.0",
+    "updated_at": "2026-04-17T12:17:06Z"
   },
   "astrbot-plugin-tmp-bot": {
     "desc": "欧洲卡车模拟2 TMP查询机器人 - 支持玩家信息查询、位置查询、服务器状态查询、里程排行榜等功能",
@@ -10186,9 +10186,9 @@
     ],
     "social_link": "https://github.com/SodaSizzle",
     "category": "entertainment",
-    "stars": 21,
+    "stars": 22,
     "version": "v1.0.0",
-    "updated_at": "2026-04-16T07:17:22Z"
+    "updated_at": "2026-04-17T13:33:57Z"
   },
   "astrbot_plugin_baiduocr": {
     "desc": "百度智能云的 OCR 文字识别服务。新用户有千次的免费调用次数，适合轻度使用",
