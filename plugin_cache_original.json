@@ -215,7 +215,7 @@
     ],
     "social_link": "https://github.com/Interstellar1217",
     "stars": 1,
-    "updated_at": "2026-04-11T11:02:20Z"
+    "updated_at": "2026-04-17T01:12:43Z"
   },
   "astrbot-plugin-anime1-list": {
     "display_name": "anime1动画追番",
@@ -1712,9 +1712,9 @@
     "repo": "https://github.com/674537331/astrbot_plugin_mihome",
     "category": "integrations",
     "tags": [],
-    "stars": 21,
+    "stars": 22,
     "version": "v7.2.0",
-    "updated_at": "2026-04-16T14:31:42Z",
+    "updated_at": "2026-04-17T02:32:45Z",
     "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_mihome/main/logo.png"
   },
   "astrbot-plugin-nai-brush": {
@@ -5034,9 +5034,9 @@
     ],
     "social_link": "https://github.com/Clhikari",
     "category": "productivity",
-    "stars": 22,
+    "stars": 23,
     "version": "v1.6.2",
-    "updated_at": "2026-04-16T10:09:02Z",
+    "updated_at": "2026-04-17T01:47:03Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -5116,9 +5116,9 @@
     ],
     "social_link": "https://github.com/Hakuin123",
     "category": "integrations",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.1.3",
-    "updated_at": "2026-04-12T07:53:33Z",
+    "updated_at": "2026-04-17T00:04:30Z",
     "logo": "https://raw.githubusercontent.com/Hakuin123/astrbot_plugin_maa/main/logo.png"
   },
   "astrbot_plugin_queue_system": {
@@ -5718,9 +5718,9 @@
       "人格"
     ],
     "category": "ai_tools",
-    "stars": 103,
+    "stars": 104,
     "version": "1.3.10",
-    "updated_at": "2026-04-16T11:55:11Z",
+    "updated_at": "2026-04-17T01:32:52Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -7358,9 +7358,9 @@
       "推特"
     ],
     "category": "utilities",
-    "stars": 34,
+    "stars": 35,
     "version": "v5.2.3",
-    "updated_at": "2026-04-14T15:35:25Z",
+    "updated_at": "2026-04-17T02:08:09Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -7794,9 +7794,9 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "ai_tools",
-    "stars": 87,
+    "stars": 88,
     "version": "v1.2.1-(hotfix-重推)",
-    "updated_at": "2026-04-16T11:55:14Z",
+    "updated_at": "2026-04-17T01:53:17Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -15520,9 +15520,9 @@
     "repo": "https://github.com/jmt059/DailyWife",
     "category": "entertainment",
     "tags": [],
-    "stars": 9,
+    "stars": 10,
     "version": "v1.0.4",
-    "updated_at": "2026-04-07T09:52:03Z"
+    "updated_at": "2026-04-17T01:12:17Z"
   },
   "astrbot_plugin_AW": {
     "desc": "群老婆插件，记得点右上角帮助查看readme",
