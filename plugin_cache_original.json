@@ -520,7 +520,7 @@
     "tags": [],
     "stars": 2,
     "version": "1.0.0",
-    "updated_at": "2026-04-06T04:04:48Z"
+    "updated_at": "2026-04-17T07:42:44Z"
   },
   "astrbot-plugin-Network-Connectivity-Check": {
     "display_name": "网络连接监测",
@@ -1316,9 +1316,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 308,
+    "stars": 309,
     "version": "v4.9.18",
-    "updated_at": "2026-04-17T03:15:28Z",
+    "updated_at": "2026-04-17T06:10:56Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1900,9 +1900,9 @@
     "social_link": "https://github.com/Renyus",
     "category": "ai_tools",
     "tags": [],
-    "stars": 52,
+    "stars": 53,
     "version": "Ver 5.3.0",
-    "updated_at": "2026-04-16T07:56:28Z"
+    "updated_at": "2026-04-17T06:04:06Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -3376,9 +3376,9 @@
       "codegen"
     ],
     "category": "ai_tools",
-    "stars": 45,
+    "stars": 46,
     "version": "1.3.2",
-    "updated_at": "2026-04-16T17:20:45Z",
+    "updated_at": "2026-04-17T06:36:33Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -4198,8 +4198,8 @@
     "social_link": "https://github.com/siciyuanweilai",
     "category": "entertainment",
     "stars": 31,
-    "version": "5.1.5",
-    "updated_at": "2026-04-12T11:25:49Z",
+    "version": "5.1.6",
+    "updated_at": "2026-04-17T06:51:01Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -4297,9 +4297,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 308,
+    "stars": 309,
     "version": "v4.9.18",
-    "updated_at": "2026-04-17T03:15:28Z",
+    "updated_at": "2026-04-17T06:10:56Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -5658,9 +5658,9 @@
       "磁力"
     ],
     "category": "utilities",
-    "stars": 12,
+    "stars": 13,
     "version": "v1.2.1",
-    "updated_at": "2026-03-31T08:06:26Z",
+    "updated_at": "2026-04-17T05:32:31Z",
     "logo": "https://raw.githubusercontent.com/NightDust981989/astrbot_plugin_BitTorrent/master/logo.png"
   },
   "astrbot_plugin_custom_menu_1": {
@@ -5735,8 +5735,8 @@
     ],
     "category": "ai_tools",
     "stars": 75,
-    "version": "0.8.23",
-    "updated_at": "2026-04-16T11:55:12Z",
+    "version": "0.8.24",
+    "updated_at": "2026-04-17T05:53:16Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -9206,8 +9206,8 @@
     ],
     "category": "entertainment",
     "stars": 8,
-    "version": "v1.3",
-    "updated_at": "2026-03-22T20:00:02Z"
+    "version": "v1.4",
+    "updated_at": "2026-04-17T07:44:37Z"
   },
   "astrbot_plugins_steam_shop_price": {
     "desc": "用于查询 Steam 游戏的国区价格、史低信息，并支持与其他区服价格对比。支持识别游戏中文名。",
@@ -9587,9 +9587,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 139,
+    "stars": 140,
     "version": "2.2.4",
-    "updated_at": "2026-04-15T15:22:45Z",
+    "updated_at": "2026-04-17T07:34:26Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -12692,9 +12692,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 69,
+    "stars": 70,
     "version": "v2.1.0",
-    "updated_at": "2026-04-07T12:51:10Z",
+    "updated_at": "2026-04-17T06:38:02Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_pokepro/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
