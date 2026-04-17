@@ -618,9 +618,9 @@
       "时间管理",
       "记录查询"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v2.3.1",
-    "updated_at": "2026-03-29T08:25:11Z",
+    "updated_at": "2026-04-17T18:27:57Z",
     "logo": "https://raw.githubusercontent.com/LynieCN/astrbot_plugin_lyubishchev/main/logo.png"
   },
   "astrbot-plugin-live-dashboard": {
@@ -814,7 +814,7 @@
     "tags": [],
     "stars": 3,
     "version": "v1.4.0",
-    "updated_at": "2026-04-15T13:50:45Z"
+    "updated_at": "2026-04-17T18:47:09Z"
   },
   "astrbot-plugin-access-others-chat-history": {
     "display_name": "访问他人聊天记录",
@@ -1223,9 +1223,9 @@
     "tags": [],
     "social_link": "",
     "category": "ai_tools",
-    "stars": 30,
+    "stars": 31,
     "version": "1.1.1",
-    "updated_at": "2026-04-15T19:28:59Z",
+    "updated_at": "2026-04-17T18:17:50Z",
     "logo": "https://raw.githubusercontent.com/Kalospacer/astrbot_plugin_maid_agent/master/logo.png"
   },
   "astrbot-plugin-stoprushingiamtyping": {
@@ -6908,9 +6908,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "utilities",
-    "stars": 126,
+    "stars": 127,
     "version": "v2.3.0",
-    "updated_at": "2026-04-14T02:12:19Z",
+    "updated_at": "2026-04-17T18:07:13Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -7358,9 +7358,9 @@
       "推特"
     ],
     "category": "utilities",
-    "stars": 35,
+    "stars": 36,
     "version": "v5.2.3",
-    "updated_at": "2026-04-17T02:08:09Z",
+    "updated_at": "2026-04-17T18:21:08Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
