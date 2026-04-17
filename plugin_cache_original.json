@@ -4156,9 +4156,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
-    "stars": 33,
+    "stars": 34,
     "version": "v2.2.5",
-    "updated_at": "2026-04-10T16:45:30Z",
+    "updated_at": "2026-04-17T14:18:58Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_worldbook/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -4199,7 +4199,7 @@
     "category": "entertainment",
     "stars": 31,
     "version": "5.1.7",
-    "updated_at": "2026-04-17T13:18:03Z",
+    "updated_at": "2026-04-17T14:02:37Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
