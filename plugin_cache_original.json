@@ -64,9 +64,9 @@
       "跨平台身份管理",
       "数据库查询"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.0",
-    "updated_at": "2026-04-16T12:32:21Z",
+    "updated_at": "2026-04-17T08:57:09Z",
     "logo": "https://raw.githubusercontent.com/ysf7762-dev/astrbot_plugin_scriptor/main/logo.png"
   },
   "astrbot_plugin_actions": {
@@ -520,7 +520,7 @@
     "tags": [],
     "stars": 2,
     "version": "1.0.0",
-    "updated_at": "2026-04-17T07:42:44Z"
+    "updated_at": "2026-04-17T08:14:40Z"
   },
   "astrbot-plugin-Network-Connectivity-Check": {
     "display_name": "网络连接监测",
@@ -1316,9 +1316,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 309,
+    "stars": 311,
     "version": "v4.9.18",
-    "updated_at": "2026-04-17T06:10:56Z",
+    "updated_at": "2026-04-17T09:03:39Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1483,9 +1483,9 @@
     ],
     "social_link": "https://github.com/jiantoucn",
     "category": "integrations",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.11.3",
-    "updated_at": "2026-04-16T06:11:17Z",
+    "updated_at": "2026-04-17T09:18:40Z",
     "logo": "https://raw.githubusercontent.com/jiantoucn/astrbot_plugin_weibo_monitor/main/logo.png"
   },
   "astrbot-plugin-content-safety-guard": {
@@ -1712,9 +1712,9 @@
     "repo": "https://github.com/674537331/astrbot_plugin_mihome",
     "category": "integrations",
     "tags": [],
-    "stars": 22,
+    "stars": 23,
     "version": "v7.2.0",
-    "updated_at": "2026-04-17T02:32:45Z",
+    "updated_at": "2026-04-17T08:02:06Z",
     "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_mihome/main/logo.png"
   },
   "astrbot-plugin-nai-brush": {
@@ -4297,9 +4297,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 309,
+    "stars": 311,
     "version": "v4.9.18",
-    "updated_at": "2026-04-17T06:10:56Z",
+    "updated_at": "2026-04-17T09:03:39Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -10150,9 +10150,9 @@
     ],
     "social_link": "https://github.com/Futureppo",
     "category": "integrations",
-    "stars": 12,
+    "stars": 13,
     "version": "v1.0.3",
-    "updated_at": "2026-04-02T14:59:36Z",
+    "updated_at": "2026-04-17T07:57:50Z",
     "logo": "https://raw.githubusercontent.com/Futureppo/astrbot_plugin_Xiaomi_BandProMax/main/logo.png"
   },
   "astrbot_plugin_immersive_control": {
@@ -13769,9 +13769,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
     "category": "ai_tools",
-    "stars": 46,
+    "stars": 47,
     "version": "v2.0.0",
-    "updated_at": "2026-04-13T07:48:47Z",
+    "updated_at": "2026-04-17T08:29:19Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_browser/main/logo.png"
   },
   "astrbot_plugin_qqadmin": {
