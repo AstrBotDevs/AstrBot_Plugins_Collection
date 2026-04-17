@@ -1410,8 +1410,8 @@
     "social_link": "https://github.com/RhoninSeiei",
     "category": "productivity",
     "stars": 3,
-    "version": "v0.4.1",
-    "updated_at": "2026-04-09T01:50:48Z"
+    "version": "v0.4.2",
+    "updated_at": "2026-04-17T21:11:18Z"
   },
   "astrbot-plugin-lyria": {
     "display_name": "Lyria音乐生成",
@@ -11722,9 +11722,9 @@
     ],
     "repo": "https://github.com/itismygo/astrbot_plugin_mathjax2image",
     "category": "ai_tools",
-    "stars": 5,
+    "stars": 6,
     "version": "v3.1.0",
-    "updated_at": "2026-04-01T01:32:48Z"
+    "updated_at": "2026-04-17T21:13:41Z"
   },
   "astrbot_plugin_xyzw_box": {
     "author": "cloudcranesss",
