@@ -64,9 +64,9 @@
       "跨平台身份管理",
       "数据库查询"
     ],
-    "stars": 2,
+    "stars": 4,
     "version": "1.0.0",
-    "updated_at": "2026-04-17T08:57:09Z",
+    "updated_at": "2026-04-18T04:01:06Z",
     "logo": "https://raw.githubusercontent.com/ysf7762-dev/astrbot_plugin_scriptor/main/logo.png"
   },
   "astrbot_plugin_actions": {
@@ -5658,9 +5658,9 @@
       "磁力"
     ],
     "category": "utilities",
-    "stars": 13,
+    "stars": 14,
     "version": "v1.2.1",
-    "updated_at": "2026-04-17T05:32:31Z",
+    "updated_at": "2026-04-18T02:53:50Z",
     "logo": "https://raw.githubusercontent.com/NightDust981989/astrbot_plugin_BitTorrent/master/logo.png"
   },
   "astrbot_plugin_custom_menu_1": {
@@ -6148,9 +6148,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 101,
+    "stars": 102,
     "version": "v1.5.1",
-    "updated_at": "2026-04-17T05:06:52Z",
+    "updated_at": "2026-04-18T03:50:12Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -8092,9 +8092,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 197,
+    "stars": 198,
     "version": "v1.2.2",
-    "updated_at": "2026-04-17T09:45:15Z",
+    "updated_at": "2026-04-18T03:32:52Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -8257,9 +8257,9 @@
     ],
     "social_link": "https://github.com/CCYellowStar2",
     "category": "entertainment",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0.0",
-    "updated_at": "2026-03-04T16:21:54Z"
+    "updated_at": "2026-04-18T03:08:23Z"
   },
   "astrbot_plugin_yunsdf": {
     "name": "yunsdf",
@@ -12577,9 +12577,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 27,
+    "stars": 28,
     "version": "v2.0.0",
-    "updated_at": "2026-04-03T09:33:42Z",
+    "updated_at": "2026-04-18T03:04:51Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_emoji_like/main/logo.png"
   },
   "astrbot_plugin_lanraragi": {
@@ -14887,9 +14887,9 @@
     ],
     "pinned": true,
     "category": "entertainment",
-    "stars": 239,
+    "stars": 240,
     "version": "v3.20",
-    "updated_at": "2026-04-16T07:38:27Z"
+    "updated_at": "2026-04-18T03:34:28Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
