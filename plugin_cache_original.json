@@ -181,8 +181,8 @@
     ],
     "social_link": "https://github.com/lingyun14beta",
     "stars": 4,
-    "version": "2.1.0",
-    "updated_at": "2026-04-15T14:12:37Z",
+    "version": "2.1.1",
+    "updated_at": "2026-04-18T15:18:22Z",
     "logo": "https://raw.githubusercontent.com/lingyun14beta/astrbot_plugin_uapipro_toolbox/main/logo.png"
   },
   "astrbot-plugin-mailer": {
@@ -1316,9 +1316,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 312,
+    "stars": 313,
     "version": "v4.9.18",
-    "updated_at": "2026-04-18T10:13:52Z",
+    "updated_at": "2026-04-18T15:21:11Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -3347,9 +3347,9 @@
     "repo": "https://github.com/coolwind886-spec/astrbot_plugin_live2d_pet/",
     "category": "entertainment",
     "tags": [],
-    "stars": 8,
+    "stars": 9,
     "version": "v4.3.0",
-    "updated_at": "2026-03-24T08:38:31Z"
+    "updated_at": "2026-04-18T15:09:51Z"
   },
   "astrbot_plugin_steam_updates": {
     "display_name": "Steam 游戏更新推送插件",
@@ -4297,9 +4297,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 312,
+    "stars": 313,
     "version": "v4.9.18",
-    "updated_at": "2026-04-18T10:13:52Z",
+    "updated_at": "2026-04-18T15:21:11Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -8299,9 +8299,9 @@
       "训练"
     ],
     "category": "productivity",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0",
-    "updated_at": "2026-01-22T12:50:08Z"
+    "updated_at": "2026-04-18T15:24:08Z"
   },
   "astrbot_plugin_chat_queue": {
     "desc": "让并发消息按照队列依次执行",
@@ -9588,8 +9588,8 @@
     ],
     "category": "ai_tools",
     "stars": 140,
-    "version": "2.2.5",
-    "updated_at": "2026-04-18T13:52:48Z",
+    "version": "2.2.6",
+    "updated_at": "2026-04-18T15:21:38Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -10186,9 +10186,9 @@
     ],
     "social_link": "https://github.com/SodaSizzle",
     "category": "entertainment",
-    "stars": 36,
+    "stars": 39,
     "version": "v2.0",
-    "updated_at": "2026-04-18T14:33:47Z",
+    "updated_at": "2026-04-18T15:34:10Z",
     "logo": "https://raw.githubusercontent.com/SodaSizzle/astrbot_plugin_meme_generator/master/logo.png"
   },
   "astrbot_plugin_baiduocr": {
