@@ -271,9 +271,9 @@
       "tshock"
     ],
     "social_link": "https://github.com/Reisenbug",
-    "stars": 1,
+    "stars": 2,
     "version": "0.1.0",
-    "updated_at": "2026-04-06T13:13:03Z"
+    "updated_at": "2026-04-18T08:13:32Z"
   },
   "astrbot-plugin-dingtalk-feishu-forwarder": {
     "desc": "钉钉与飞书之间的双向消息转发插件，支持文本、图片等消息格式自动转换。",
@@ -1033,7 +1033,7 @@
     "category": "entertainment",
     "stars": 3,
     "version": "1.1.6",
-    "updated_at": "2026-04-16T09:50:40Z",
+    "updated_at": "2026-04-18T08:27:53Z",
     "logo": "https://raw.githubusercontent.com/Sisyphbaous-DT-Project/astrbot_plugin_shit_detector_plus/main/logo.png"
   },
   "astrbot-plugin-minecraft-wiki": {
@@ -10186,9 +10186,10 @@
     ],
     "social_link": "https://github.com/SodaSizzle",
     "category": "entertainment",
-    "stars": 25,
-    "version": "v1.0.0",
-    "updated_at": "2026-04-18T06:58:28Z"
+    "stars": 30,
+    "version": "v2.0",
+    "updated_at": "2026-04-18T08:23:04Z",
+    "logo": "https://raw.githubusercontent.com/SodaSizzle/astrbot_plugin_meme_generator/master/logo.png"
   },
   "astrbot_plugin_baiduocr": {
     "desc": "百度智能云的 OCR 文字识别服务。新用户有千次的免费调用次数，适合轻度使用",
@@ -13989,9 +13990,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
     "category": "integrations",
-    "stars": 80,
+    "stars": 81,
     "version": "v3.1.0",
-    "updated_at": "2026-04-14T05:10:24Z",
+    "updated_at": "2026-04-18T07:35:53Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
