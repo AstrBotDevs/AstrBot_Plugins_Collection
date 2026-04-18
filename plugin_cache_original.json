@@ -7358,9 +7358,9 @@
       "推特"
     ],
     "category": "utilities",
-    "stars": 36,
+    "stars": 37,
     "version": "v5.2.3",
-    "updated_at": "2026-04-17T18:21:08Z",
+    "updated_at": "2026-04-18T09:29:16Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -14199,8 +14199,8 @@
     "repo": "https://github.com/xco2/astrbot_plugin_anime_gacha",
     "category": "entertainment",
     "stars": 13,
-    "version": "v1.1.2",
-    "updated_at": "2026-03-28T18:09:17Z"
+    "version": "v1.1.3",
+    "updated_at": "2026-04-18T09:35:28Z"
   },
   "astrbot_plugin_nachoneko": {
     "desc": "一款获取甘城猫猫图片的插件",
@@ -14842,9 +14842,9 @@
       "搬史"
     ],
     "category": "utilities",
-    "stars": 554,
+    "stars": 555,
     "version": "v0.916",
-    "updated_at": "2026-04-12T14:40:20Z"
+    "updated_at": "2026-04-18T09:27:19Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
