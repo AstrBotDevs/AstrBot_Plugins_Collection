@@ -1900,9 +1900,9 @@
     "social_link": "https://github.com/Renyus",
     "category": "ai_tools",
     "tags": [],
-    "stars": 53,
+    "stars": 54,
     "version": "Ver 5.3.0",
-    "updated_at": "2026-04-17T06:04:06Z"
+    "updated_at": "2026-04-18T11:15:38Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -2473,7 +2473,7 @@
     "category": "utilities",
     "stars": 4,
     "version": "v1.3.1",
-    "updated_at": "2026-03-18T06:19:56Z",
+    "updated_at": "2026-04-18T11:30:52Z",
     "logo": "https://raw.githubusercontent.com/tniany/astrbot_plugin_web-screenshot/main/logo.png"
   },
   "astrbot-plugin-astrbot-enhance-mode": {
@@ -2750,9 +2750,9 @@
     ],
     "social_link": "https://github.com/Radiant303",
     "category": "ai_tools",
-    "stars": 22,
+    "stars": 23,
     "version": "v2.3.0",
-    "updated_at": "2026-04-17T03:53:13Z",
+    "updated_at": "2026-04-18T10:59:28Z",
     "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_clonetts/master/logo.png"
   },
   "astrbot-plugin-ssh": {
@@ -3843,8 +3843,8 @@
     ],
     "category": "integrations",
     "stars": 8,
-    "version": "v1.2.3",
-    "updated_at": "2026-04-09T07:13:37Z"
+    "version": "v1.2.4",
+    "updated_at": "2026-04-18T11:24:26Z"
   },
   "astrbot_plugin_minecraft_monitor": {
     "display_name": "MC 服务器监控（适配基岩版与 Java 版）",
@@ -10186,9 +10186,9 @@
     ],
     "social_link": "https://github.com/SodaSizzle",
     "category": "entertainment",
-    "stars": 31,
+    "stars": 33,
     "version": "v2.0",
-    "updated_at": "2026-04-18T09:57:19Z",
+    "updated_at": "2026-04-18T11:27:38Z",
     "logo": "https://raw.githubusercontent.com/SodaSizzle/astrbot_plugin_meme_generator/master/logo.png"
   },
   "astrbot_plugin_baiduocr": {
