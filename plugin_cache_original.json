@@ -48,8 +48,8 @@
     ],
     "social_link": "https://github.com/FlanChanXwO",
     "stars": 8,
-    "version": "v1.0.14",
-    "updated_at": "2026-04-17T02:53:53Z",
+    "version": "v1.0.15",
+    "updated_at": "2026-04-18T13:12:34Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_rsshub/master/logo.png"
   },
   "astrbot_plugin_scriptor": {
@@ -941,8 +941,8 @@
     "social_link": "https://github.com/yonglanws/",
     "category": "entertainment",
     "stars": 3,
-    "version": "v1.7.0",
-    "updated_at": "2026-04-17T19:45:22Z",
+    "version": "v1.8.0",
+    "updated_at": "2026-04-18T13:47:35Z",
     "logo": "https://raw.githubusercontent.com/yonglanws/astrbot_plugin_pjsk_guess_card/main/logo.png"
   },
   "astrbot-plugin-arcaea": {
@@ -1185,8 +1185,8 @@
     ],
     "category": "integrations",
     "stars": 1,
-    "version": "v1.1.2",
-    "updated_at": "2026-04-17T09:43:39Z"
+    "version": "v1.2.0",
+    "updated_at": "2026-04-18T14:23:13Z"
   },
   "astrbot-plugin-tarkovboss": {
     "display_name": "塔科夫Boss刷率",
@@ -2629,9 +2629,9 @@
     "repo": "https://github.com/Xuewu-awa/astrbot_plugin_bilibanshi",
     "category": "entertainment",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "v1.0.0",
-    "updated_at": "2026-04-13T09:54:02Z"
+    "updated_at": "2026-04-18T13:52:42Z"
   },
   "blueraina/astrbot-plugin-novel": {
     "desc": "QQ群群友协作 + AI辅助写作的长篇小说插件（每群独立/知识库/多AI打分/冲突投票/风格模仿/用户修正/EPUB/PDF导出）",
@@ -9588,8 +9588,8 @@
     ],
     "category": "ai_tools",
     "stars": 140,
-    "version": "2.2.4",
-    "updated_at": "2026-04-17T07:34:26Z",
+    "version": "2.2.5",
+    "updated_at": "2026-04-18T13:52:48Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -10186,9 +10186,9 @@
     ],
     "social_link": "https://github.com/SodaSizzle",
     "category": "entertainment",
-    "stars": 34,
+    "stars": 36,
     "version": "v2.0",
-    "updated_at": "2026-04-18T12:43:41Z",
+    "updated_at": "2026-04-18T14:33:47Z",
     "logo": "https://raw.githubusercontent.com/SodaSizzle/astrbot_plugin_meme_generator/master/logo.png"
   },
   "astrbot_plugin_baiduocr": {
@@ -14888,9 +14888,9 @@
     ],
     "pinned": true,
     "category": "entertainment",
-    "stars": 241,
+    "stars": 242,
     "version": "v3.20",
-    "updated_at": "2026-04-18T11:59:29Z"
+    "updated_at": "2026-04-18T14:07:09Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
