@@ -4001,8 +4001,8 @@
     ],
     "category": "productivity",
     "stars": 7,
-    "version": "v1.1.2",
-    "updated_at": "2026-04-12T16:59:06Z"
+    "version": "v1.2.0",
+    "updated_at": "2026-04-18T05:23:25Z"
   },
   "astrbot_plugin_trpgdice_rerolled": {
     "display_name": "星星骰娘-重骰版！",
@@ -5735,8 +5735,8 @@
     ],
     "category": "ai_tools",
     "stars": 76,
-    "version": "0.8.24",
-    "updated_at": "2026-04-17T09:45:24Z",
+    "version": "0.8.25",
+    "updated_at": "2026-04-18T06:35:17Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -6148,9 +6148,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 102,
+    "stars": 103,
     "version": "v1.5.1",
-    "updated_at": "2026-04-18T03:50:12Z",
+    "updated_at": "2026-04-18T06:11:06Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -10098,8 +10098,8 @@
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
     "stars": 67,
-    "version": "3.1.3",
-    "updated_at": "2026-04-12T00:38:38Z",
+    "version": "3.1.4",
+    "updated_at": "2026-04-18T05:53:08Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "findx010197/astrbot_plugin_reminder": {
@@ -10186,9 +10186,9 @@
     ],
     "social_link": "https://github.com/SodaSizzle",
     "category": "entertainment",
-    "stars": 22,
+    "stars": 25,
     "version": "v1.0.0",
-    "updated_at": "2026-04-17T13:33:57Z"
+    "updated_at": "2026-04-18T06:58:28Z"
   },
   "astrbot_plugin_baiduocr": {
     "desc": "百度智能云的 OCR 文字识别服务。新用户有千次的免费调用次数，适合轻度使用",
@@ -12126,9 +12126,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 141,
+    "stars": 142,
     "version": "v2.1.0",
-    "updated_at": "2026-04-16T14:57:04Z",
+    "updated_at": "2026-04-18T06:29:08Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -12692,9 +12692,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 70,
+    "stars": 71,
     "version": "v2.1.0",
-    "updated_at": "2026-04-17T06:38:02Z",
+    "updated_at": "2026-04-18T06:07:03Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_pokepro/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
@@ -14247,9 +14247,9 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "category": "entertainment",
-    "stars": 101,
+    "stars": 102,
     "version": "v3.0.3",
-    "updated_at": "2026-04-16T17:20:49Z",
+    "updated_at": "2026-04-18T05:22:57Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
