@@ -6271,9 +6271,9 @@
       "表情"
     ],
     "category": "entertainment",
-    "stars": 40,
+    "stars": 41,
     "version": "2.5.6",
-    "updated_at": "2026-04-18T17:14:30Z",
+    "updated_at": "2026-04-18T22:07:07Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -6289,9 +6289,9 @@
     ],
     "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
     "category": "utilities",
-    "stars": 29,
+    "stars": 30,
     "version": "v1.3.7",
-    "updated_at": "2026-04-17T05:22:42Z",
+    "updated_at": "2026-04-18T22:08:02Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -14888,9 +14888,9 @@
     ],
     "pinned": true,
     "category": "entertainment",
-    "stars": 242,
+    "stars": 243,
     "version": "v3.20",
-    "updated_at": "2026-04-18T14:07:09Z"
+    "updated_at": "2026-04-18T22:06:59Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
