@@ -181,8 +181,8 @@
     ],
     "social_link": "https://github.com/lingyun14beta",
     "stars": 4,
-    "version": "2.1.1",
-    "updated_at": "2026-04-18T15:18:22Z",
+    "version": "2.1.2",
+    "updated_at": "2026-04-18T16:11:30Z",
     "logo": "https://raw.githubusercontent.com/lingyun14beta/astrbot_plugin_uapipro_toolbox/main/logo.png"
   },
   "astrbot-plugin-mailer": {
@@ -775,9 +775,9 @@
     "tags": [
       "音乐"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v0.0.4",
-    "updated_at": "2026-03-31T05:09:04Z"
+    "updated_at": "2026-04-18T15:38:54Z"
   },
   "astrbot-plugin-codesnap": {
     "display_name": "CodeSnap(?)",
@@ -9587,9 +9587,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 140,
+    "stars": 141,
     "version": "2.2.6",
-    "updated_at": "2026-04-18T15:21:38Z",
+    "updated_at": "2026-04-18T16:28:20Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -10186,9 +10186,9 @@
     ],
     "social_link": "https://github.com/SodaSizzle",
     "category": "entertainment",
-    "stars": 39,
+    "stars": 40,
     "version": "v2.0",
-    "updated_at": "2026-04-18T15:34:10Z",
+    "updated_at": "2026-04-18T16:12:02Z",
     "logo": "https://raw.githubusercontent.com/SodaSizzle/astrbot_plugin_meme_generator/master/logo.png"
   },
   "astrbot_plugin_baiduocr": {
@@ -10256,9 +10256,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
-    "stars": 47,
+    "stars": 48,
     "version": "v2.2.0",
-    "updated_at": "2026-04-10T10:19:33Z",
+    "updated_at": "2026-04-18T15:44:08Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wakepro/main/logo.png"
   },
   "astrbot_plugin_memora_connect": {
@@ -10312,9 +10312,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 52,
+    "stars": 53,
     "version": "v2.2.2",
-    "updated_at": "2026-04-14T03:01:41Z",
+    "updated_at": "2026-04-18T15:39:57Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -12127,9 +12127,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 142,
+    "stars": 143,
     "version": "v2.1.0",
-    "updated_at": "2026-04-18T06:29:08Z",
+    "updated_at": "2026-04-18T15:39:55Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -12485,9 +12485,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
-    "stars": 77,
+    "stars": 78,
     "version": "v1.1.3",
-    "updated_at": "2026-04-16T00:31:27Z",
+    "updated_at": "2026-04-18T15:50:00Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
@@ -14363,9 +14363,9 @@
       "实用工具"
     ],
     "category": "utilities",
-    "stars": 40,
+    "stars": 41,
     "version": "v3.0.2",
-    "updated_at": "2026-04-16T17:27:49Z",
+    "updated_at": "2026-04-18T15:39:57Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
