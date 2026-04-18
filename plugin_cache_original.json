@@ -1316,9 +1316,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 311,
+    "stars": 312,
     "version": "v4.9.18",
-    "updated_at": "2026-04-17T09:03:39Z",
+    "updated_at": "2026-04-18T10:13:52Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1361,7 +1361,7 @@
     "category": "ai_tools",
     "stars": 2,
     "version": "0.9.0",
-    "updated_at": "2026-03-29T13:03:09Z"
+    "updated_at": "2026-04-18T10:37:59Z"
   },
   "astrbot-plugin-arknights": {
     "display_name": "基于森空岛（Skland）公开API的明日方舟玩家数据查询AstrBot插件",
@@ -4297,9 +4297,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 311,
+    "stars": 312,
     "version": "v4.9.18",
-    "updated_at": "2026-04-17T09:03:39Z",
+    "updated_at": "2026-04-18T10:13:52Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -10186,9 +10186,9 @@
     ],
     "social_link": "https://github.com/SodaSizzle",
     "category": "entertainment",
-    "stars": 30,
+    "stars": 31,
     "version": "v2.0",
-    "updated_at": "2026-04-18T08:23:04Z",
+    "updated_at": "2026-04-18T09:57:19Z",
     "logo": "https://raw.githubusercontent.com/SodaSizzle/astrbot_plugin_meme_generator/master/logo.png"
   },
   "astrbot_plugin_baiduocr": {
