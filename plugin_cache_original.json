@@ -5,9 +5,9 @@
     "author": "middcom,dream,deepseek",
     "repo": "https://github.com/middcom/astrbot_plugin_affection",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.1",
-    "updated_at": "2026-04-19T18:02:23Z"
+    "updated_at": "2026-04-19T21:51:25Z"
   },
   "astrbot_plugin_media_wiki": {
     "display_name": "MediaWiki 通用查询",
@@ -5093,9 +5093,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 272,
+    "stars": 273,
     "version": "Next-2.1.0",
-    "updated_at": "2026-04-19T06:58:38Z",
+    "updated_at": "2026-04-19T21:54:04Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -7569,9 +7569,9 @@
       "情感"
     ],
     "category": "ai_tools",
-    "stars": 13,
+    "stars": 14,
     "version": "v3.4",
-    "updated_at": "2026-04-12T18:26:19Z",
+    "updated_at": "2026-04-19T21:50:50Z",
     "logo": "https://raw.githubusercontent.com/tengtian3/astrbot-plugin-emotionai/main/logo.png"
   },
   "astrbot_plugin_email_narrator": {
