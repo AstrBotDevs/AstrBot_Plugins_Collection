@@ -1,4 +1,150 @@
 {
+  "astrbot_plugin_affection": {
+    "display_name": "情绪管理",
+    "desc": "一个基于弗洛伊德心理动力学引入双驱情绪模型的 AstrBot 插件。它模拟了力比多（生本能/爱欲）与攻击性（死本能/毁灭欲）之间的相互作用。机器人的回复与交互将根据这两种核心心理能量的浮动平衡而动态演变，提供独特的、基于心理学基础的陪伴体验。",
+    "author": "middcom,dream,deepseek",
+    "repo": "https://github.com/middcom/astrbot_plugin_affection",
+    "tags": [],
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-04-19T03:35:51Z"
+  },
+  "astrbot_plugin_media_wiki": {
+    "display_name": "MediaWiki 通用查询",
+    "desc": "MediaWiki 通用查询插件，支持查询任何 MediaWiki 站点内容。",
+    "author": "lingran7031",
+    "repo": "https://github.com/lingran7031/astrbot_plugin_media_wiki-master",
+    "tags": [
+      "MediaWiki",
+      "Wiki",
+      "Wiki查询"
+    ],
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-04-18T16:13:01Z",
+    "logo": "https://raw.githubusercontent.com/lingran7031/astrbot_plugin_media_wiki-master/master/logo.png"
+  },
+  "astrbot_plugin_awmc_maimaidx_status": {
+    "display_name": "舞萌DX 状态查询",
+    "desc": "舞萌DX 服务器状态查询（AWMC Status / Uptime Kuma 数据接入）",
+    "author": "千岚之夏",
+    "repo": "https://github.com/Blueteemo/astrbot_plugin_awmc_maimaidx_status",
+    "tags": [
+      "maimai",
+      "舞萌",
+      "状态"
+    ],
+    "social_link": "https://github.com/Blueteemo",
+    "stars": 1,
+    "version": "1.0.0",
+    "updated_at": "2026-04-19T02:20:13Z",
+    "logo": "https://raw.githubusercontent.com/Blueteemo/astrbot_plugin_awmc_maimaidx_status/master/logo.png"
+  },
+  "astrbot_plugin_osu_downloader": {
+    "display_name": "osu 谱面下载器",
+    "desc": "自动识别 osu! 谱面链接，从 osu.sayobot , osu.direct 或 catboy.best 镜像站下载 .osz 文件并发送到群聊。",
+    "author": "xianyuOvO",
+    "repo": "https://github.com/xianyuOvO0/astrbot_plugin_osu_downloader",
+    "tags": [
+      "osu"
+    ],
+    "social_link": "https://github.com/xianyuOvO0",
+    "stars": 1,
+    "version": "1.0.1",
+    "updated_at": "2026-04-09T05:55:18Z",
+    "logo": "https://raw.githubusercontent.com/xianyuOvO0/astrbot_plugin_osu_downloader/main/logo.png"
+  },
+  "astrbot_plugin_minecraft_multy_monitor": {
+    "display_name": "我的世界多服务器状态监控",
+    "desc": "在一个群聊中同时监控多台我的世界服务器的状态：服务器上下线，玩家上下线，在线人数等。支持java和基岩版。且支持自由选择展示的条目。",
+    "author": "xlyang",
+    "repo": "https://github.com/XiaolongYang-HZAU/astrbot_plugin_minecraft_multy_monitor?tab=readme-ov-file",
+    "tags": [
+      "我的世界",
+      "娱乐"
+    ],
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-04-11T08:37:43Z"
+  },
+  "astrbot_plugin_osu_dl": {
+    "display_name": "osu! 谱面下载",
+    "desc": "自动识别解析聊天中的 osu! 谱面链接并发送 osz 文件",
+    "author": "timetetngr",
+    "repo": "https://github.com/timetetng/astrbot_plugin_osu_dl",
+    "tags": [
+      "osu",
+      "游戏",
+      "“解析"
+    ],
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-04-18T08:49:37Z",
+    "logo": "https://raw.githubusercontent.com/timetetng/astrbot_plugin_osu_dl/main/logo.png"
+  },
+  "astrbot_plugin_majsoul": {
+    "display_name": "雀魂Majsoul助手",
+    "desc": "🀄一款轻量化雀魂查谱吐槽插件🀄",
+    "author": "killer-qert",
+    "repo": "https://github.com/kldsjfas/astrbot_plugin_majsoul",
+    "tags": [
+      "雀魂",
+      "游戏",
+      "麻将"
+    ],
+    "social_link": "https://killer-qert.cloud/",
+    "stars": 1,
+    "version": "1.0.0",
+    "updated_at": "2026-04-13T08:52:12Z",
+    "logo": "https://raw.githubusercontent.com/kldsjfas/astrbot_plugin_majsoul/master/logo.png"
+  },
+  "astrbot_plugin_roco_world_wiki_search": {
+    "display_name": "洛克王国百科全书插件",
+    "desc": "为 AstrBot 打造的洛克王国 Wiki 查询插件，支持宠物、技能、道具、家具、颜色筛选等全面查询功能。",
+    "author": "InMain",
+    "repo": "https://github.com/ZHwash/astrbot_plugin_roco_world_wiki_search",
+    "tags": [
+      "洛克王国",
+      "洛克",
+      "wiki",
+      "roco"
+    ],
+    "social_link": "https://space.bilibili.com/20407488;https://github.com/ZHwash",
+    "stars": 5,
+    "version": "2.9.0",
+    "updated_at": "2026-04-14T08:30:44Z",
+    "logo": "https://raw.githubusercontent.com/ZHwash/astrbot_plugin_roco_world_wiki_search/main/logo.png"
+  },
+  "astrbot_plugin_currency": {
+    "display_name": "currency",
+    "desc": "这是一个基于 AstrBot 框架开发的数字货币价格查询和提醒插件，支持实时查询 BTC、ETH 等主流数字货币价格，并支持设置价格突破提醒。",
+    "author": "苏澜",
+    "repo": "https://github.com/sulan-hub/astrbot_plugin_currency",
+    "tags": [
+      "虚拟货币",
+      "查询",
+      "提醒"
+    ],
+    "social_link": "http://www.su1001.xyz/",
+    "stars": 0,
+    "version": "v1.0.1",
+    "updated_at": "2026-04-18T12:33:27Z"
+  },
+  "astrbot_plugin_zhihuSummary": {
+    "display_name": "知乎总结",
+    "desc": "发送知乎回答/文章链接，自动生成 AI 结构化总结。\n\n知乎总结：发送知乎链接，自动抓取内容并通过 LLM 生成结构化总结\n多类型支持：回答、专栏文章、问题（自动取高赞回答）\n自动识别：开启后自动检测群聊中的知乎链接并生成总结\n精美渲染：总结可渲染为卡片图片（需 playwright）\n长文本处理：支持截断和 Map-Reduce 分段总结两种策略\n多种 LLM：支持 AstrBot 内置 LLM 或自定义 OpenAI 兼容 API\n访问控制：黑名单/白名单模式控制群聊使用权限",
+    "author": "MillionDream",
+    "repo": "https://github.com/MillionDreamQAQ/astrbot_plugin_zhihuSummary",
+    "tags": [
+      "功能",
+      "总结",
+      "知乎"
+    ],
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-04-17T07:38:33Z",
+    "logo": "https://raw.githubusercontent.com/MillionDreamQAQ/astrbot_plugin_zhihuSummary/main/logo.png"
+  },
   "builtin_commands_extension": {
     "display_name": "内置指令扩展",
     "desc": "包含了一系列内置命令的扩展，涵盖了对话管理、管理员管理、大语言模型（LLM）提供商管理等功能。",
@@ -6,9 +152,9 @@
     "repo": "https://github.com/AstrBotDevs/builtin_commands_extension",
     "social_link": "https://docs.astrbot.app/use/command.html",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "v0.0.1",
-    "updated_at": "2026-04-15T00:36:16Z"
+    "updated_at": "2026-04-19T05:57:37Z"
   },
   "astrbot_plugin_btw": {
     "display_name": "ByTheWay 快捷问题",
@@ -635,9 +781,9 @@
       "面板"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 12,
+    "stars": 13,
     "version": "v1.0.0",
-    "updated_at": "2026-04-14T20:41:56Z",
+    "updated_at": "2026-04-19T06:24:38Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_live_dashboard/main/logo.png"
   },
   "astrbot-plugin-wol-miko": {
@@ -2429,9 +2575,9 @@
       "人物画像"
     ],
     "category": "ai_tools",
-    "stars": 35,
+    "stars": 37,
     "version": "v0.3.6",
-    "updated_at": "2026-04-12T16:20:13Z"
+    "updated_at": "2026-04-19T06:47:45Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -4947,9 +5093,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 271,
+    "stars": 272,
     "version": "Next-2.1.0",
-    "updated_at": "2026-04-17T16:53:23Z",
+    "updated_at": "2026-04-19T06:58:38Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -5035,8 +5181,8 @@
     "social_link": "https://github.com/Clhikari",
     "category": "productivity",
     "stars": 23,
-    "version": "v1.6.2",
-    "updated_at": "2026-04-17T01:47:03Z",
+    "version": "v1.6.3-beta",
+    "updated_at": "2026-04-19T07:01:38Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -5718,9 +5864,9 @@
       "人格"
     ],
     "category": "ai_tools",
-    "stars": 105,
+    "stars": 106,
     "version": "1.3.10",
-    "updated_at": "2026-04-17T09:45:35Z",
+    "updated_at": "2026-04-19T07:16:35Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -6820,9 +6966,9 @@
     ],
     "social_link": "https://www.misakanet.site",
     "category": "ai_tools",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.3.1",
-    "updated_at": "2026-03-22T17:27:13Z",
+    "updated_at": "2026-04-19T06:16:33Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_gemini_image/master/logo.png"
   },
   "astrbot_plugin_gemini_image_generation": {
@@ -12752,8 +12898,8 @@
     "social_link": "https://github.com/QiChenSn",
     "category": "entertainment",
     "stars": 12,
-    "version": "v1.5.1",
-    "updated_at": "2026-04-12T10:09:17Z"
+    "version": "v1.5.2",
+    "updated_at": "2026-04-19T06:56:59Z"
   },
   "astrbot_plugin_yinlish": {
     "author": "vmoranv",
