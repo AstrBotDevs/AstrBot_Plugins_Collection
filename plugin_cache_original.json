@@ -5,9 +5,9 @@
     "author": "middcom,dream,deepseek",
     "repo": "https://github.com/middcom/astrbot_plugin_affection",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-04-19T03:35:51Z"
+    "updated_at": "2026-04-19T11:09:48Z"
   },
   "astrbot_plugin_media_wiki": {
     "display_name": "MediaWiki 通用查询",
@@ -2575,9 +2575,9 @@
       "人物画像"
     ],
     "category": "ai_tools",
-    "stars": 37,
+    "stars": 38,
     "version": "v0.3.6",
-    "updated_at": "2026-04-19T06:47:45Z"
+    "updated_at": "2026-04-19T11:00:15Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -9733,9 +9733,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 144,
+    "stars": 145,
     "version": "2.2.6",
-    "updated_at": "2026-04-19T09:38:15Z",
+    "updated_at": "2026-04-19T10:28:54Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -14988,9 +14988,9 @@
       "搬史"
     ],
     "category": "utilities",
-    "stars": 556,
+    "stars": 557,
     "version": "v0.916",
-    "updated_at": "2026-04-19T08:15:18Z"
+    "updated_at": "2026-04-19T11:29:07Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
@@ -15648,8 +15648,8 @@
     "category": "integrations",
     "tags": [],
     "stars": 15,
-    "version": "v1.1.3",
-    "updated_at": "2026-04-02T18:32:00Z"
+    "version": "v1.1.4",
+    "updated_at": "2026-04-19T10:26:30Z"
   },
   "astrbot_plugin_memeify": {
     "desc": "一个AstrBot的插件，用于LLM回复表情包的实现",
