@@ -6,8 +6,8 @@
     "repo": "https://github.com/middcom/astrbot_plugin_affection",
     "tags": [],
     "stars": 1,
-    "version": "v1.0.0",
-    "updated_at": "2026-04-19T12:11:34Z"
+    "version": "v1.1",
+    "updated_at": "2026-04-19T18:02:23Z"
   },
   "astrbot_plugin_media_wiki": {
     "display_name": "MediaWiki 通用查询",
