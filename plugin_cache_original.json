@@ -37,7 +37,7 @@
     "social_link": "https://github.com/Blueteemo",
     "stars": 1,
     "version": "1.0.0",
-    "updated_at": "2026-04-19T02:20:13Z",
+    "updated_at": "2026-04-19T16:52:33Z",
     "logo": "https://raw.githubusercontent.com/Blueteemo/astrbot_plugin_awmc_maimaidx_status/master/logo.png"
   },
   "astrbot_plugin_osu_downloader": {
@@ -401,9 +401,9 @@
       "人格绑定"
     ],
     "social_link": "",
-    "stars": 3,
+    "stars": 4,
     "version": "0.3.1",
-    "updated_at": "2026-04-14T08:44:46Z"
+    "updated_at": "2026-04-19T17:30:57Z"
   },
   "astrbot-plugin-terraria-server-manager": {
     "display_name": "泰拉服务器管理",
@@ -8731,8 +8731,8 @@
     "category": "entertainment",
     "tags": [],
     "stars": 3,
-    "version": "v2.2.0",
-    "updated_at": "2026-04-19T16:41:51Z"
+    "version": "v2.3.0",
+    "updated_at": "2026-04-19T16:59:29Z"
   },
   "astrbot-plugin-tmp-bot": {
     "desc": "欧洲卡车模拟2 TMP查询机器人 - 支持玩家信息查询、位置查询、服务器状态查询、里程排行榜等功能",
@@ -10332,9 +10332,9 @@
     ],
     "social_link": "https://github.com/SodaSizzle",
     "category": "entertainment",
-    "stars": 52,
+    "stars": 53,
     "version": "v2.0",
-    "updated_at": "2026-04-19T16:21:20Z",
+    "updated_at": "2026-04-19T16:53:35Z",
     "logo": "https://raw.githubusercontent.com/SodaSizzle/astrbot_plugin_meme_generator/master/logo.png"
   },
   "astrbot_plugin_baiduocr": {
@@ -14723,9 +14723,9 @@
       "主动对话"
     ],
     "category": "entertainment",
-    "stars": 11,
+    "stars": 12,
     "version": "v2.3.0",
-    "updated_at": "2026-04-05T06:08:23Z"
+    "updated_at": "2026-04-19T16:47:52Z"
   },
   "astrbot_plugin_sensoji": {
     "desc": "这是一个模拟日本浅草寺抽签功能的插件。用户可以通过发送 /抽签 命令随机抽取一个签文，获取运势提示。签文包含吉凶结果（如“大吉”、“凶”等）以及对应的运势描述。",
