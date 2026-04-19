@@ -124,9 +124,9 @@
       "esi"
     ],
     "social_link": "https://github.com/LZQ123PKQ",
-    "stars": 0,
+    "stars": 1,
     "version": "v2.1.3",
-    "updated_at": "2026-04-14T17:56:17Z",
+    "updated_at": "2026-04-19T03:51:22Z",
     "logo": "https://raw.githubusercontent.com/LZQ123PKQ/astrbot_plugin_eve_esi/main/logo.png"
   },
   "astrbot_plugin_gamdl": {
@@ -1712,9 +1712,9 @@
     "repo": "https://github.com/674537331/astrbot_plugin_mihome",
     "category": "integrations",
     "tags": [],
-    "stars": 23,
+    "stars": 24,
     "version": "v7.2.0",
-    "updated_at": "2026-04-17T08:02:06Z",
+    "updated_at": "2026-04-19T05:08:34Z",
     "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_mihome/main/logo.png"
   },
   "astrbot-plugin-nai-brush": {
@@ -2135,8 +2135,8 @@
     "social_link": "https://github.com/RichardLiuda",
     "category": "utilities",
     "stars": 19,
-    "version": "v2.2.1",
-    "updated_at": "2026-04-16T14:10:45Z",
+    "version": "v2.2.2",
+    "updated_at": "2026-04-19T03:18:14Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -4439,9 +4439,9 @@
     ],
     "social_link": "https://qwq.pyuramazo.online",
     "category": "entertainment",
-    "stars": 20,
+    "stars": 21,
     "version": "v1.10.1",
-    "updated_at": "2026-04-07T06:13:17Z",
+    "updated_at": "2026-04-19T02:58:10Z",
     "logo": "https://raw.githubusercontent.com/PyuraMazo/astrbot_plugin_galgame_box/master/logo.png"
   },
   "astrbot_plugin_anitabi": {
@@ -5734,9 +5734,9 @@
       "群聊优化"
     ],
     "category": "ai_tools",
-    "stars": 76,
+    "stars": 77,
     "version": "0.8.25",
-    "updated_at": "2026-04-18T06:35:17Z",
+    "updated_at": "2026-04-19T04:31:55Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -10186,9 +10186,9 @@
     ],
     "social_link": "https://github.com/SodaSizzle",
     "category": "entertainment",
-    "stars": 46,
+    "stars": 47,
     "version": "v2.0",
-    "updated_at": "2026-04-19T02:45:49Z",
+    "updated_at": "2026-04-19T04:35:07Z",
     "logo": "https://raw.githubusercontent.com/SodaSizzle/astrbot_plugin_meme_generator/master/logo.png"
   },
   "astrbot_plugin_baiduocr": {
