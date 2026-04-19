@@ -194,8 +194,8 @@
     ],
     "social_link": "https://github.com/FlanChanXwO",
     "stars": 8,
-    "version": "v1.0.19",
-    "updated_at": "2026-04-19T15:33:26Z",
+    "version": "v1.0.20",
+    "updated_at": "2026-04-19T16:22:31Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_rsshub/master/logo.png"
   },
   "astrbot_plugin_scriptor": {
@@ -2313,7 +2313,7 @@
     "category": "ai_tools",
     "stars": 35,
     "version": "2.9.9",
-    "updated_at": "2026-04-19T13:19:50Z",
+    "updated_at": "2026-04-19T16:16:16Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -2718,8 +2718,8 @@
     "social_link": "",
     "category": "entertainment",
     "stars": 4,
-    "version": "v0.3.0",
-    "updated_at": "2026-04-19T15:11:45Z",
+    "version": "v0.3.1",
+    "updated_at": "2026-04-19T16:04:30Z",
     "logo": "https://raw.githubusercontent.com/moemoli/astrbot_plugin_warframe_helper/master/logo.png"
   },
   "astrbot-plugin-trello": {
@@ -2764,8 +2764,8 @@
     ],
     "category": "utilities",
     "stars": 2,
-    "version": "v1.2.1",
-    "updated_at": "2026-04-11T07:30:51Z",
+    "version": "v1.2.2",
+    "updated_at": "2026-04-19T16:09:33Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_sentinel/master/logo.png"
   },
   "astrbot-plugin-bilibanshi": {
@@ -8238,9 +8238,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 200,
+    "stars": 201,
     "version": "v1.2.2",
-    "updated_at": "2026-04-19T13:37:08Z",
+    "updated_at": "2026-04-19T15:41:36Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -8732,7 +8732,7 @@
     "tags": [],
     "stars": 3,
     "version": "v2.2.0",
-    "updated_at": "2026-04-17T12:17:06Z"
+    "updated_at": "2026-04-19T16:41:51Z"
   },
   "astrbot-plugin-tmp-bot": {
     "desc": "欧洲卡车模拟2 TMP查询机器人 - 支持玩家信息查询、位置查询、服务器状态查询、里程排行榜等功能",
@@ -10308,9 +10308,9 @@
     "social_link": "https://github.com/muyouzhi6",
     "category": "entertainment",
     "tags": [],
-    "stars": 9,
+    "stars": 10,
     "version": "2.3.1",
-    "updated_at": "2026-03-26T11:44:49Z",
+    "updated_at": "2026-04-19T15:56:12Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_immersive_control/main/logo.png"
   },
   "astrbot_plugin_provider_ark_ResponsesAPI": {
@@ -10332,9 +10332,9 @@
     ],
     "social_link": "https://github.com/SodaSizzle",
     "category": "entertainment",
-    "stars": 50,
+    "stars": 52,
     "version": "v2.0",
-    "updated_at": "2026-04-19T08:50:44Z",
+    "updated_at": "2026-04-19T16:21:20Z",
     "logo": "https://raw.githubusercontent.com/SodaSizzle/astrbot_plugin_meme_generator/master/logo.png"
   },
   "astrbot_plugin_baiduocr": {
