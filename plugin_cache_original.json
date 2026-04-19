@@ -2472,8 +2472,8 @@
     "social_link": "https://github.com/tniany",
     "category": "utilities",
     "stars": 4,
-    "version": "v1.3.1",
-    "updated_at": "2026-04-18T11:30:52Z",
+    "version": "v1.3.2",
+    "updated_at": "2026-04-19T02:48:54Z",
     "logo": "https://raw.githubusercontent.com/tniany/astrbot_plugin_web-screenshot/main/logo.png"
   },
   "astrbot-plugin-astrbot-enhance-mode": {
@@ -2750,9 +2750,9 @@
     ],
     "social_link": "https://github.com/Radiant303",
     "category": "ai_tools",
-    "stars": 23,
+    "stars": 24,
     "version": "v2.3.0",
-    "updated_at": "2026-04-18T10:59:28Z",
+    "updated_at": "2026-04-19T00:15:15Z",
     "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_clonetts/master/logo.png"
   },
   "astrbot-plugin-ssh": {
@@ -3156,8 +3156,8 @@
     "social_link": "github.com/hutuyee",
     "category": "integrations",
     "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-02-10T09:28:11Z"
+    "version": "1.0.1",
+    "updated_at": "2026-04-19T00:44:57Z"
   },
   "astrbot_plugin_memory_reboot": {
     "display_name": "旧消息提醒 火星救援插件",
@@ -9471,9 +9471,9 @@
     "repo": "https://github.com/Dt8333/astrbot_plugin_model_mcp_bridge",
     "category": "ai_tools",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.2.0",
-    "updated_at": "2026-01-30T13:41:04Z"
+    "updated_at": "2026-04-19T01:00:32Z"
   },
   "Codex": {
     "desc": "AstrBot_Codex 是一个基于 Docker 的 Linux 命令执行插件，专为 AstrBot 开发，能够安全地在隔离的 Docker 容器中执行多种编程语言的代码并返回结果。",
@@ -10186,9 +10186,9 @@
     ],
     "social_link": "https://github.com/SodaSizzle",
     "category": "entertainment",
-    "stars": 42,
+    "stars": 46,
     "version": "v2.0",
-    "updated_at": "2026-04-18T18:45:27Z",
+    "updated_at": "2026-04-19T02:45:49Z",
     "logo": "https://raw.githubusercontent.com/SodaSizzle/astrbot_plugin_meme_generator/master/logo.png"
   },
   "astrbot_plugin_baiduocr": {
@@ -11162,9 +11162,9 @@
     ],
     "category": "ai_tools",
     "author": null,
-    "stars": 40,
+    "stars": 41,
     "version": "2.6.0",
-    "updated_at": "2026-04-01T01:12:37Z"
+    "updated_at": "2026-04-19T02:02:48Z"
   },
   "astrbot_plugin_group_sign": {
     "name": "group_sign",
