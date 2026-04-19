@@ -49,9 +49,9 @@
       "osu"
     ],
     "social_link": "https://github.com/xianyuOvO0",
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.1",
-    "updated_at": "2026-04-09T05:55:18Z",
+    "updated_at": "2026-04-19T15:15:35Z",
     "logo": "https://raw.githubusercontent.com/xianyuOvO0/astrbot_plugin_osu_downloader/main/logo.png"
   },
   "astrbot_plugin_minecraft_multy_monitor": {
@@ -194,8 +194,8 @@
     ],
     "social_link": "https://github.com/FlanChanXwO",
     "stars": 8,
-    "version": "v1.0.17",
-    "updated_at": "2026-04-18T23:10:17Z",
+    "version": "v1.0.19",
+    "updated_at": "2026-04-19T15:33:26Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_rsshub/master/logo.png"
   },
   "astrbot_plugin_scriptor": {
@@ -2003,9 +2003,9 @@
     "tags": [],
     "social_link": "",
     "category": "utilities",
-    "stars": 8,
+    "stars": 9,
     "version": "v2.0.0",
-    "updated_at": "2026-04-19T14:09:03Z",
+    "updated_at": "2026-04-19T14:54:54Z",
     "logo": "https://raw.githubusercontent.com/Waterwzy/astrbot_plugin_firefly_filter/master/logo.png"
   },
   "astrbot-plugin-cet6": {
@@ -2144,7 +2144,7 @@
     "category": "entertainment",
     "stars": 0,
     "version": "1.2.0",
-    "updated_at": "2026-03-08T10:41:27Z"
+    "updated_at": "2026-04-19T15:21:48Z"
   },
   "astrbot-plugin-memos-manager": {
     "display_name": "Memos Manager",
@@ -2718,8 +2718,8 @@
     "social_link": "",
     "category": "entertainment",
     "stars": 4,
-    "version": "v0.2.2",
-    "updated_at": "2026-03-14T12:50:16Z",
+    "version": "v0.3.0",
+    "updated_at": "2026-04-19T15:11:45Z",
     "logo": "https://raw.githubusercontent.com/moemoli/astrbot_plugin_warframe_helper/master/logo.png"
   },
   "astrbot-plugin-trello": {
@@ -15034,9 +15034,9 @@
     ],
     "pinned": true,
     "category": "entertainment",
-    "stars": 244,
+    "stars": 245,
     "version": "v3.20",
-    "updated_at": "2026-04-19T12:07:00Z"
+    "updated_at": "2026-04-19T15:23:37Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
@@ -15687,9 +15687,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "ai_tools",
     "tags": [],
-    "stars": 229,
+    "stars": 230,
     "version": "v2.1.4",
-    "updated_at": "2026-04-19T13:36:55Z"
+    "updated_at": "2026-04-19T15:30:22Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
