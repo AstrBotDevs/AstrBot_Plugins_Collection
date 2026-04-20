@@ -20,8 +20,8 @@
     "repo": "https://github.com/middcom/astrbot_plugin_affection",
     "tags": [],
     "stars": 3,
-    "version": "v1.1",
-    "updated_at": "2026-04-20T08:59:27Z"
+    "version": "v1.2",
+    "updated_at": "2026-04-20T16:00:59Z"
   },
   "astrbot_plugin_media_wiki": {
     "display_name": "MediaWiki 通用查询",
@@ -795,9 +795,9 @@
       "面板"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 14,
+    "stars": 15,
     "version": "v1.0.0",
-    "updated_at": "2026-04-20T05:28:52Z",
+    "updated_at": "2026-04-20T15:44:31Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_live_dashboard/main/logo.png"
   },
   "astrbot-plugin-wol-miko": {
@@ -7400,9 +7400,9 @@
     ],
     "social_link": "https://github.com/NekoiMeiov",
     "category": "utilities",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.0.1",
-    "updated_at": "2026-04-17T03:13:21Z"
+    "updated_at": "2026-04-20T15:28:40Z"
   },
   "astrbot_plugin_mc_update": {
     "display_name": "Minecraft 基岩版更新日志提醒插件",
@@ -8073,9 +8073,9 @@
     "repo": "https://github.com/SatenShiroya/astrbot_plugin_llm_qqgroupTools",
     "category": "ai_tools",
     "tags": [],
-    "stars": 16,
+    "stars": 17,
     "version": "V1.4.0",
-    "updated_at": "2026-04-08T12:56:59Z",
+    "updated_at": "2026-04-20T15:16:53Z",
     "logo": "https://raw.githubusercontent.com/SatenShiroya/astrbot_plugin_llm_qqgroupTools/master/logo.png"
   },
   "astrbot_plugin_cs_skins": {
@@ -10577,9 +10577,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "integrations",
-    "stars": 111,
+    "stars": 112,
     "version": "v3.0.4",
-    "updated_at": "2026-04-17T09:49:10Z",
+    "updated_at": "2026-04-20T15:19:31Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
