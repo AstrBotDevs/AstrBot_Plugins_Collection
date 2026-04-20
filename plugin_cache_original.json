@@ -1,4 +1,18 @@
 {
+  "astrbot-plugin-orangevibe": {
+    "display_name": "橘子鉴定",
+    "desc": "互动式成分鉴定插件，答题可生成AI专属锐评的海报，支持LLM辅助生成测试方案，分享结果至群聊还能探测同成分群友。",
+    "author": "largefox",
+    "repo": "https://github.com/largefox/astrbot_plugin_orangevibe",
+    "tags": [
+      "成分鉴定",
+      "查成分"
+    ],
+    "social_link": "https://github.com/largefox/",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-04-19T19:37:49Z"
+  },
   "astrbot_plugin_affection": {
     "display_name": "情绪管理",
     "desc": "一个基于弗洛伊德心理动力学引入双驱情绪模型的 AstrBot 插件。它模拟了力比多（生本能/爱欲）与攻击性（死本能/毁灭欲）之间的相互作用。机器人的回复与交互将根据这两种核心心理能量的浮动平衡而动态演变，提供独特的、基于心理学基础的陪伴体验。",
@@ -1890,7 +1904,7 @@
     "category": "entertainment",
     "stars": 34,
     "version": "2.7.0",
-    "updated_at": "2026-04-16T16:29:04Z",
+    "updated_at": "2026-04-20T02:39:53Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -5952,9 +5966,9 @@
       "通知"
     ],
     "category": "productivity",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.4.2",
-    "updated_at": "2026-04-02T17:29:03Z",
+    "updated_at": "2026-04-20T00:41:30Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_reminder/master/logo.png"
   },
   "astrbot_plugin_binance": {
@@ -9882,9 +9896,9 @@
     ],
     "social_link": "blog.isla.ltd",
     "category": "integrations",
-    "stars": 22,
+    "stars": 23,
     "version": "1.2.0",
-    "updated_at": "2026-04-08T10:13:46Z"
+    "updated_at": "2026-04-20T02:31:28Z"
   },
   "astrbot_plugin_AnimeMagnet": {
     "desc": "这是一个动漫磁链查询插件，可以获取动漫磁链",
@@ -10332,9 +10346,9 @@
     ],
     "social_link": "https://github.com/SodaSizzle",
     "category": "entertainment",
-    "stars": 53,
+    "stars": 55,
     "version": "v2.0",
-    "updated_at": "2026-04-19T16:53:35Z",
+    "updated_at": "2026-04-20T00:45:35Z",
     "logo": "https://raw.githubusercontent.com/SodaSizzle/astrbot_plugin_meme_generator/master/logo.png"
   },
   "astrbot_plugin_baiduocr": {
@@ -13179,9 +13193,9 @@
     "social_link": "https://github.com/tinkerbellqwq",
     "category": "utilities",
     "tags": [],
-    "stars": 41,
+    "stars": 42,
     "version": "v1.1.3",
-    "updated_at": "2026-04-17T11:23:45Z"
+    "updated_at": "2026-04-20T01:54:09Z"
   },
   "astrbot_qqemotionreply": {
     "author": "QiChen",
