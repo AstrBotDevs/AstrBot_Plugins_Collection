@@ -795,9 +795,9 @@
       "面板"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 13,
+    "stars": 14,
     "version": "v1.0.0",
-    "updated_at": "2026-04-19T06:24:38Z",
+    "updated_at": "2026-04-20T05:28:52Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_live_dashboard/main/logo.png"
   },
   "astrbot-plugin-wol-miko": {
@@ -1476,9 +1476,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 314,
+    "stars": 315,
     "version": "v4.9.18",
-    "updated_at": "2026-04-19T09:32:02Z",
+    "updated_at": "2026-04-20T03:54:02Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -4457,9 +4457,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 314,
+    "stars": 315,
     "version": "v4.9.18",
-    "updated_at": "2026-04-19T09:32:02Z",
+    "updated_at": "2026-04-20T03:54:02Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -4871,9 +4871,9 @@
     "tags": [],
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
-    "stars": 18,
+    "stars": 19,
     "version": "3.1.2",
-    "updated_at": "2026-04-03T13:06:50Z",
+    "updated_at": "2026-04-20T04:02:04Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_context_aware/main/logo.png"
   },
   "astrbot_plugin_STEmbedding": {
@@ -8252,9 +8252,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 201,
+    "stars": 202,
     "version": "v1.2.2",
-    "updated_at": "2026-04-19T15:41:36Z",
+    "updated_at": "2026-04-20T03:29:36Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -10346,9 +10346,9 @@
     ],
     "social_link": "https://github.com/SodaSizzle",
     "category": "entertainment",
-    "stars": 55,
+    "stars": 56,
     "version": "v2.0",
-    "updated_at": "2026-04-20T00:45:35Z",
+    "updated_at": "2026-04-20T04:40:36Z",
     "logo": "https://raw.githubusercontent.com/SodaSizzle/astrbot_plugin_meme_generator/master/logo.png"
   },
   "astrbot_plugin_baiduocr": {
@@ -15701,9 +15701,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "ai_tools",
     "tags": [],
-    "stars": 230,
+    "stars": 231,
     "version": "v2.1.4",
-    "updated_at": "2026-04-19T15:30:22Z"
+    "updated_at": "2026-04-20T03:28:31Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
