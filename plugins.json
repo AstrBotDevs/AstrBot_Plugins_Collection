@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-orangevibe": {
+    "display_name": "橘子鉴定",
+    "desc": "互动式成分鉴定插件，答题可生成AI专属锐评的海报，支持LLM辅助生成测试方案，分享结果至群聊还能探测同成分群友。",
+    "author": "largefox",
+    "repo": "https://github.com/largefox/astrbot_plugin_orangevibe",
+    "tags": [
+      "成分鉴定",
+      "查成分"
+    ],
+    "social_link": "https://github.com/largefox/"
+  },
   "astrbot_plugin_affection": {
     "display_name": "情绪管理",
     "desc": "一个基于弗洛伊德心理动力学引入双驱情绪模型的 AstrBot 插件。它模拟了力比多（生本能/爱欲）与攻击性（死本能/毁灭欲）之间的相互作用。机器人的回复与交互将根据这两种核心心理能量的浮动平衡而动态演变，提供独特的、基于心理学基础的陪伴体验。",
@@ -53,7 +64,11 @@
     "desc": "自动识别解析聊天中的 osu! 谱面链接并发送 osz 文件",
     "author": "timetetngr",
     "repo": "https://github.com/timetetng/astrbot_plugin_osu_dl",
-    "tags": ["osu", "游戏","“解析"]
+    "tags": [
+      "osu",
+      "游戏",
+      "“解析"
+    ]
   },
   "astrbot_plugin_majsoul": {
     "display_name": "雀魂Majsoul助手",
