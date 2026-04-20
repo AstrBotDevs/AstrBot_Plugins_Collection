@@ -209,7 +209,7 @@
     "social_link": "https://github.com/FlanChanXwO",
     "stars": 8,
     "version": "v1.0.20",
-    "updated_at": "2026-04-19T16:22:31Z",
+    "updated_at": "2026-04-20T12:00:03Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_rsshub/master/logo.png"
   },
   "astrbot_plugin_scriptor": {
@@ -551,7 +551,7 @@
     "social_link": "https://github.com/SodaCodeSave",
     "stars": 16,
     "version": "v1.2.0",
-    "updated_at": "2026-04-20T10:43:44Z",
+    "updated_at": "2026-04-20T10:52:23Z",
     "logo": "https://raw.githubusercontent.com/SodaCodeSave/astrbot_plugin_biliread/master/logo.png"
   },
   "astrbot-plugin-DUT-Notices": {
@@ -561,9 +561,9 @@
     "repo": "https://github.com/Lentinel/astrbot_plugin_DUT_Notices",
     "social_link": "https://github.com/Lentinel",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.2",
-    "updated_at": "2026-04-02T14:14:13Z"
+    "updated_at": "2026-04-20T11:54:07Z"
   },
   "astrbot-plugin-qzone-tools": {
     "display_name": "为你的bot加入更多主动功能",
@@ -3407,9 +3407,9 @@
     ],
     "social_link": "https://github.com/lxfight",
     "category": "integrations",
-    "stars": 8,
+    "stars": 9,
     "version": "1.2.2",
-    "updated_at": "2026-04-20T08:38:38Z"
+    "updated_at": "2026-04-20T11:53:49Z"
   },
   "astrbot_plugin_telegram_summary": {
     "name": "",
@@ -6996,9 +6996,9 @@
     ],
     "social_link": "https://github.com/piexian",
     "category": "ai_tools",
-    "stars": 37,
+    "stars": 38,
     "version": "v1.9.11",
-    "updated_at": "2026-04-19T14:06:03Z",
+    "updated_at": "2026-04-20T11:06:11Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -8252,9 +8252,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 203,
+    "stars": 204,
     "version": "v1.2.2",
-    "updated_at": "2026-04-20T08:09:15Z",
+    "updated_at": "2026-04-20T11:06:03Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -8268,9 +8268,9 @@
     ],
     "social_link": "https://github.com/oyxning",
     "category": "entertainment",
-    "stars": 9,
+    "stars": 10,
     "version": "0.3.0",
-    "updated_at": "2026-03-20T14:10:20Z",
+    "updated_at": "2026-04-20T11:15:14Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot-plugin-moremorelove/main/logo.png"
   },
   "astrbot_plugin_genie-tts": {
@@ -12424,9 +12424,9 @@
     "repo": "https://github.com/VincenttHo/astrbot_plugin_dzmm",
     "category": "entertainment",
     "tags": [],
-    "stars": 21,
+    "stars": 22,
     "version": "v1.1.1",
-    "updated_at": "2026-04-11T14:03:43Z"
+    "updated_at": "2026-04-20T11:16:18Z"
   },
   "astrbot_plugin_text2image": {
     "author": "wuyan1003",
@@ -13826,9 +13826,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_reread",
     "category": "entertainment",
-    "stars": 35,
+    "stars": 36,
     "version": "v2.0.0",
-    "updated_at": "2026-04-11T11:31:17Z",
+    "updated_at": "2026-04-20T11:05:52Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_reread/main/logo.png"
   },
   "astrbot_plugin_csbaoyan": {
@@ -14672,9 +14672,9 @@
     ],
     "social_link": "https://github.com/miaoxutao123/",
     "category": "utilities",
-    "stars": 75,
+    "stars": 76,
     "version": "0.3.0",
-    "updated_at": "2026-04-08T12:19:11Z"
+    "updated_at": "2026-04-20T11:24:22Z"
   },
   "astrbot_plugin_sjzb": {
     "desc": "随机生成《绝地潜兵2》游戏中一组 4 个战备配置",
