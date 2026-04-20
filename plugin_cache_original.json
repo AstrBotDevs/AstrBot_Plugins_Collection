@@ -19,9 +19,9 @@
     "author": "middcom,dream,deepseek",
     "repo": "https://github.com/middcom/astrbot_plugin_affection",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.1",
-    "updated_at": "2026-04-19T21:51:25Z"
+    "updated_at": "2026-04-20T08:59:27Z"
   },
   "astrbot_plugin_media_wiki": {
     "display_name": "MediaWiki 通用查询",
@@ -33,9 +33,9 @@
       "Wiki",
       "Wiki查询"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-04-18T16:13:01Z",
+    "updated_at": "2026-04-20T10:20:51Z",
     "logo": "https://raw.githubusercontent.com/lingran7031/astrbot_plugin_media_wiki-master/master/logo.png"
   },
   "astrbot_plugin_awmc_maimaidx_status": {
@@ -551,7 +551,7 @@
     "social_link": "https://github.com/SodaCodeSave",
     "stars": 16,
     "version": "v1.2.0",
-    "updated_at": "2026-04-20T05:54:47Z",
+    "updated_at": "2026-04-20T10:43:44Z",
     "logo": "https://raw.githubusercontent.com/SodaCodeSave/astrbot_plugin_biliread/master/logo.png"
   },
   "astrbot-plugin-DUT-Notices": {
@@ -1176,9 +1176,9 @@
     ],
     "social_link": "https://space.bilibili.com/662600708",
     "category": "integrations",
-    "stars": 0,
+    "stars": 1,
     "version": "1.0.0",
-    "updated_at": "2026-03-20T09:32:35Z",
+    "updated_at": "2026-04-20T09:29:27Z",
     "logo": "https://raw.githubusercontent.com/2350047329f-art/astrbot_plugin_MQTTCloudIoT/master/logo.png"
   },
   "astrbot-plugin-shit-detector-plus": {
@@ -1902,9 +1902,9 @@
       "数据查询"
     ],
     "category": "entertainment",
-    "stars": 34,
+    "stars": 35,
     "version": "2.7.0",
-    "updated_at": "2026-04-20T02:39:53Z",
+    "updated_at": "2026-04-20T09:31:26Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -2325,9 +2325,9 @@
     ],
     "social_link": "https://github.com/menglimi",
     "category": "ai_tools",
-    "stars": 35,
+    "stars": 36,
     "version": "2.9.9",
-    "updated_at": "2026-04-19T16:16:16Z",
+    "updated_at": "2026-04-20T10:31:34Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -3409,7 +3409,7 @@
     "category": "integrations",
     "stars": 8,
     "version": "1.2.2",
-    "updated_at": "2026-03-29T05:02:42Z"
+    "updated_at": "2026-04-20T08:38:38Z"
   },
   "astrbot_plugin_telegram_summary": {
     "name": "",
@@ -5196,7 +5196,7 @@
     "category": "productivity",
     "stars": 23,
     "version": "v1.6.3-beta",
-    "updated_at": "2026-04-20T05:49:19Z",
+    "updated_at": "2026-04-20T09:20:56Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -6308,9 +6308,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 103,
+    "stars": 104,
     "version": "v1.5.1",
-    "updated_at": "2026-04-18T06:11:06Z",
+    "updated_at": "2026-04-20T09:46:43Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -10346,9 +10346,9 @@
     ],
     "social_link": "https://github.com/SodaSizzle",
     "category": "entertainment",
-    "stars": 56,
+    "stars": 57,
     "version": "v2.0",
-    "updated_at": "2026-04-20T04:40:36Z",
+    "updated_at": "2026-04-20T08:46:19Z",
     "logo": "https://raw.githubusercontent.com/SodaSizzle/astrbot_plugin_meme_generator/master/logo.png"
   },
   "astrbot_plugin_baiduocr": {
@@ -13381,9 +13381,9 @@
     "repo": "https://github.com/vmoranv/astrbot_plugin_fuck",
     "category": "utilities",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.2.0",
-    "updated_at": "2026-01-11T02:04:33Z"
+    "updated_at": "2026-04-20T09:26:14Z"
   },
   "astrbot_plugin_wuziqi": {
     "author": "大沙北",
@@ -15701,9 +15701,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "ai_tools",
     "tags": [],
-    "stars": 231,
+    "stars": 232,
     "version": "v2.1.4",
-    "updated_at": "2026-04-20T03:28:31Z"
+    "updated_at": "2026-04-20T10:48:12Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
