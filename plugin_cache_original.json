@@ -21,7 +21,7 @@
     "tags": [],
     "stars": 3,
     "version": "v1.2",
-    "updated_at": "2026-04-20T16:00:59Z"
+    "updated_at": "2026-04-20T16:45:58Z"
   },
   "astrbot_plugin_media_wiki": {
     "display_name": "MediaWiki 通用查询",
@@ -125,8 +125,8 @@
     ],
     "social_link": "https://space.bilibili.com/20407488;https://github.com/ZHwash",
     "stars": 7,
-    "version": "2.9.0",
-    "updated_at": "2026-04-19T12:04:38Z",
+    "version": "2.10.0",
+    "updated_at": "2026-04-20T17:37:16Z",
     "logo": "https://raw.githubusercontent.com/ZHwash/astrbot_plugin_roco_world_wiki_search/main/logo.png"
   },
   "astrbot_plugin_currency": {
@@ -6920,7 +6920,7 @@
     "category": "ai_tools",
     "stars": 29,
     "version": "1.6.0",
-    "updated_at": "2026-04-19T09:32:35Z",
+    "updated_at": "2026-04-20T16:33:59Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/main/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -10346,9 +10346,9 @@
     ],
     "social_link": "https://github.com/SodaSizzle",
     "category": "entertainment",
-    "stars": 57,
+    "stars": 58,
     "version": "v2.0",
-    "updated_at": "2026-04-20T08:46:19Z",
+    "updated_at": "2026-04-20T16:34:16Z",
     "logo": "https://raw.githubusercontent.com/SodaSizzle/astrbot_plugin_meme_generator/master/logo.png"
   },
   "astrbot_plugin_baiduocr": {
@@ -15298,9 +15298,9 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "category": "integrations",
     "tags": [],
-    "stars": 58,
+    "stars": 59,
     "version": "v1.5.8",
-    "updated_at": "2026-04-16T07:53:15Z",
+    "updated_at": "2026-04-20T17:56:01Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
