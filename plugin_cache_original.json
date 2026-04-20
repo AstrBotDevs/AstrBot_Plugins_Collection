@@ -125,8 +125,8 @@
     ],
     "social_link": "https://space.bilibili.com/20407488;https://github.com/ZHwash",
     "stars": 7,
-    "version": "2.10.0",
-    "updated_at": "2026-04-20T17:37:16Z",
+    "version": "v2.10.0",
+    "updated_at": "2026-04-20T18:13:06Z",
     "logo": "https://raw.githubusercontent.com/ZHwash/astrbot_plugin_roco_world_wiki_search/main/logo.png"
   },
   "astrbot_plugin_currency": {
@@ -1101,8 +1101,8 @@
     "social_link": "https://github.com/yonglanws/",
     "category": "entertainment",
     "stars": 3,
-    "version": "v1.8.0",
-    "updated_at": "2026-04-18T13:47:35Z",
+    "version": "v1.7.1",
+    "updated_at": "2026-04-20T18:13:28Z",
     "logo": "https://raw.githubusercontent.com/yonglanws/astrbot_plugin_pjsk_guess_card/main/logo.png"
   },
   "astrbot-plugin-arcaea": {
