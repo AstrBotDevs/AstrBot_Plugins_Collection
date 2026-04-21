@@ -7,8 +7,8 @@
     "tags": [],
     "social_link": "",
     "stars": 22,
-    "version": "2.2.1",
-    "updated_at": "2026-04-21T14:06:09Z",
+    "version": "2.3.0",
+    "updated_at": "2026-04-21T15:59:36Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -2309,7 +2309,7 @@
     "category": "utilities",
     "stars": 20,
     "version": "v2.2.2",
-    "updated_at": "2026-04-20T07:29:04Z",
+    "updated_at": "2026-04-21T16:48:16Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -5000,7 +5000,7 @@
     "category": "ai_tools",
     "stars": 3,
     "version": "v1.0.1",
-    "updated_at": "2026-04-11T08:10:55Z",
+    "updated_at": "2026-04-21T15:41:56Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_image_generation/master/logo.png"
   },
   "astrbot_plugin_group_geetest_verfy": {
@@ -5533,8 +5533,8 @@
     ],
     "category": "utilities",
     "stars": 0,
-    "version": "v1.3.0",
-    "updated_at": "2026-04-15T14:07:23Z",
+    "version": "v1.3.1",
+    "updated_at": "2026-04-21T16:21:57Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_multi_execute/master/logo.png"
   },
   "astrbot_plugin_recall_xz": {
@@ -5907,9 +5907,9 @@
       "群聊优化"
     ],
     "category": "ai_tools",
-    "stars": 79,
+    "stars": 80,
     "version": "0.8.25",
-    "updated_at": "2026-04-21T13:31:09Z",
+    "updated_at": "2026-04-21T15:32:37Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -8265,9 +8265,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 205,
+    "stars": 206,
     "version": "v1.2.2",
-    "updated_at": "2026-04-21T06:04:02Z",
+    "updated_at": "2026-04-21T16:49:57Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
