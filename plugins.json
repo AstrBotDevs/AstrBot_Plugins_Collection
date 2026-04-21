@@ -1,4 +1,12 @@
 {
+  "astrbot-plugin-rocom": {
+    "display_name": "洛克王国数据查询",
+    "desc": "基于熵增项目组API的洛克王国数据查询插件，支持远行商人 个人信息 精灵查询 交换大厅 图鉴 配队攻略等查询渲染。",
+    "author": "bvzrays & 熵增项目组",
+    "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
+    "tags": [],
+    "social_link": ""
+  },
   "astrbot-plugin-orangevibe": {
     "display_name": "橘子鉴定",
     "desc": "互动式成分鉴定插件，答题可生成AI专属锐评的海报，支持LLM辅助生成测试方案，分享结果至群聊还能探测同成分群友。",
