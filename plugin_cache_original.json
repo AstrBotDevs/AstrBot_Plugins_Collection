@@ -949,8 +949,8 @@
       "音乐"
     ],
     "stars": 3,
-    "version": "v0.0.4",
-    "updated_at": "2026-04-18T15:38:54Z"
+    "version": "v0.0.6",
+    "updated_at": "2026-04-21T19:54:45Z"
   },
   "astrbot-plugin-codesnap": {
     "display_name": "CodeSnap(?)",
@@ -4218,9 +4218,9 @@
     ],
     "social_link": "https://github.com/Youzini-afk",
     "category": "entertainment",
-    "stars": 5,
+    "stars": 4,
     "version": "1.8.3",
-    "updated_at": "2026-03-02T01:09:56Z"
+    "updated_at": "2026-04-21T19:23:50Z"
   },
   "astrbot_plugin_group_aip_review": {
     "display_name": "群消息内容安全审核插件",
