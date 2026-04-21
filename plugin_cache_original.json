@@ -6,9 +6,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 20,
+    "stars": 21,
     "version": "2.2.1",
-    "updated_at": "2026-04-21T03:50:18Z",
+    "updated_at": "2026-04-21T08:23:01Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -168,7 +168,7 @@
     ],
     "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-04-20T12:55:30Z",
+    "updated_at": "2026-04-21T09:35:55Z",
     "logo": "https://raw.githubusercontent.com/MillionDreamQAQ/astrbot_plugin_zhihuSummary/main/logo.png"
   },
   "builtin_commands_extension": {
@@ -386,8 +386,8 @@
       "金融"
     ],
     "social_link": "https://github.com/Interstellar1217",
-    "stars": 2,
-    "updated_at": "2026-04-17T17:10:40Z"
+    "stars": 3,
+    "updated_at": "2026-04-21T09:15:30Z"
   },
   "astrbot-plugin-anime1-list": {
     "display_name": "anime1动画追番",
@@ -1771,8 +1771,8 @@
     ],
     "category": "entertainment",
     "stars": 4,
-    "version": "v1.2.3",
-    "updated_at": "2026-04-08T17:30:01Z"
+    "version": "v1.3.0",
+    "updated_at": "2026-04-21T06:16:30Z"
   },
   "astrbot-plugin-SteamLink": {
     "display_name": "Steam 游戏查找识别",
@@ -2955,8 +2955,8 @@
     ],
     "category": "integrations",
     "stars": 7,
-    "version": "v1.0.3",
-    "updated_at": "2026-04-08T07:19:30Z"
+    "version": "v1.0.4",
+    "updated_at": "2026-04-21T07:51:22Z"
   },
   "astrbot-plugin-halo-manager": {
     "display_name": "博客管理器",
@@ -3421,8 +3421,8 @@
     "social_link": "https://github.com/lxfight",
     "category": "integrations",
     "stars": 9,
-    "version": "1.2.2",
-    "updated_at": "2026-04-20T11:53:49Z"
+    "version": "1.2.3",
+    "updated_at": "2026-04-21T06:33:28Z"
   },
   "astrbot_plugin_telegram_summary": {
     "name": "",
@@ -5207,9 +5207,9 @@
     ],
     "social_link": "https://github.com/Clhikari",
     "category": "productivity",
-    "stars": 23,
+    "stars": 24,
     "version": "v1.6.3-beta",
-    "updated_at": "2026-04-20T09:20:56Z",
+    "updated_at": "2026-04-21T08:29:15Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -5907,9 +5907,9 @@
       "群聊优化"
     ],
     "category": "ai_tools",
-    "stars": 78,
+    "stars": 79,
     "version": "0.8.25",
-    "updated_at": "2026-04-20T13:46:09Z",
+    "updated_at": "2026-04-21T06:59:25Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -6593,7 +6593,7 @@
     "category": "ai_tools",
     "stars": 69,
     "version": "v4.2.26",
-    "updated_at": "2026-04-16T12:49:25Z",
+    "updated_at": "2026-04-21T07:53:10Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -6622,7 +6622,7 @@
     "category": "ai_tools",
     "stars": 6,
     "version": "v1.3.2",
-    "updated_at": "2026-04-13T15:58:20Z"
+    "updated_at": "2026-04-21T09:29:38Z"
   },
   "astrbot_plugin_bananic_ninjutsu": {
     "display_name": "香蕉忍法帖",
@@ -7010,8 +7010,8 @@
     "social_link": "https://github.com/piexian",
     "category": "ai_tools",
     "stars": 38,
-    "version": "v1.9.11",
-    "updated_at": "2026-04-20T11:06:11Z",
+    "version": "v1.9.12",
+    "updated_at": "2026-04-21T08:51:58Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -8087,8 +8087,8 @@
     "category": "ai_tools",
     "tags": [],
     "stars": 17,
-    "version": "V1.4.0",
-    "updated_at": "2026-04-20T15:16:53Z",
+    "version": "V2.0.0",
+    "updated_at": "2026-04-21T07:31:35Z",
     "logo": "https://raw.githubusercontent.com/SatenShiroya/astrbot_plugin_llm_qqgroupTools/master/logo.png"
   },
   "astrbot_plugin_cs_skins": {
@@ -8265,9 +8265,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 204,
+    "stars": 205,
     "version": "v1.2.2",
-    "updated_at": "2026-04-20T22:27:42Z",
+    "updated_at": "2026-04-21T06:04:02Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -9378,9 +9378,9 @@
       "galgame"
     ],
     "category": "entertainment",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.4",
-    "updated_at": "2026-04-17T07:44:37Z"
+    "updated_at": "2026-04-21T06:04:30Z"
   },
   "astrbot_plugins_steam_shop_price": {
     "desc": "用于查询 Steam 游戏的国区价格、史低信息，并支持与其他区服价格对比。支持识别游戏中文名。",
@@ -9962,7 +9962,7 @@
     "category": "entertainment",
     "stars": 17,
     "version": "v1.1.4",
-    "updated_at": "2026-03-29T06:26:49Z",
+    "updated_at": "2026-04-21T07:54:07Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qun_album/main/logo.png"
   },
   "astrbot_plugin_favourpro": {
@@ -13194,9 +13194,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "entertainment",
-    "stars": 220,
+    "stars": 221,
     "version": "v3.0.3",
-    "updated_at": "2026-04-17T22:53:37Z",
+    "updated_at": "2026-04-21T06:32:56Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -14947,9 +14947,9 @@
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
     "category": "ai_tools",
-    "stars": 116,
+    "stars": 117,
     "version": "v2.1.11",
-    "updated_at": "2026-04-11T17:58:53Z"
+    "updated_at": "2026-04-21T06:59:26Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
@@ -15015,9 +15015,9 @@
       "搬史"
     ],
     "category": "utilities",
-    "stars": 557,
+    "stars": 558,
     "version": "v0.916",
-    "updated_at": "2026-04-19T11:29:07Z"
+    "updated_at": "2026-04-21T06:45:51Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
