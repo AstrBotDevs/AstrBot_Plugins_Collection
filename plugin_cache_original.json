@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-rocom": {
+    "display_name": "洛克王国数据查询",
+    "desc": "基于熵增项目组API的洛克王国数据查询插件，支持远行商人 个人信息 精灵查询 交换大厅 图鉴 配队攻略等查询渲染。",
+    "author": "bvzrays & 熵增项目组",
+    "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
+    "tags": [],
+    "social_link": "",
+    "stars": 20,
+    "version": "2.2.1",
+    "updated_at": "2026-04-20T15:50:13Z",
+    "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
+  },
   "astrbot-plugin-orangevibe": {
     "display_name": "橘子鉴定",
     "desc": "互动式成分鉴定插件，答题可生成AI专属锐评的海报，支持LLM辅助生成测试方案，分享结果至群聊还能探测同成分群友。",
@@ -50,8 +62,8 @@
     ],
     "social_link": "https://github.com/Blueteemo",
     "stars": 1,
-    "version": "1.0.0",
-    "updated_at": "2026-04-19T16:52:33Z",
+    "version": "1.0.1",
+    "updated_at": "2026-04-21T02:31:15Z",
     "logo": "https://raw.githubusercontent.com/Blueteemo/astrbot_plugin_awmc_maimaidx_status/master/logo.png"
   },
   "astrbot_plugin_osu_downloader": {
@@ -533,7 +545,8 @@
     "tags": [],
     "stars": 1,
     "version": "v1.0",
-    "updated_at": "2026-04-06T10:19:47Z"
+    "updated_at": "2026-04-20T23:53:53Z",
+    "logo": "https://raw.githubusercontent.com/Aurora4123/astrbot_plugin_astralparty/master/logo.png"
   },
   "astrbot-plugin-biliread": {
     "display_name": "BiliRead - 让 AI 真正看懂 B 站视频",
@@ -5878,9 +5891,9 @@
       "人格"
     ],
     "category": "ai_tools",
-    "stars": 108,
+    "stars": 109,
     "version": "1.3.10",
-    "updated_at": "2026-04-20T14:05:00Z",
+    "updated_at": "2026-04-21T02:11:36Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -6920,7 +6933,7 @@
     "category": "ai_tools",
     "stars": 30,
     "version": "1.6.0",
-    "updated_at": "2026-04-20T22:41:18Z",
+    "updated_at": "2026-04-21T01:07:19Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/main/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
