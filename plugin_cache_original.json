@@ -31,9 +31,9 @@
     "author": "middcom,dream,deepseek",
     "repo": "https://github.com/middcom/astrbot_plugin_affection",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.2",
-    "updated_at": "2026-04-20T16:45:58Z"
+    "updated_at": "2026-04-22T15:56:52Z"
   },
   "astrbot_plugin_media_wiki": {
     "display_name": "MediaWiki 通用查询",
@@ -136,9 +136,9 @@
       "roco"
     ],
     "social_link": "https://space.bilibili.com/20407488;https://github.com/ZHwash",
-    "stars": 7,
+    "stars": 8,
     "version": "v2.10.0",
-    "updated_at": "2026-04-20T18:13:06Z",
+    "updated_at": "2026-04-22T16:29:56Z",
     "logo": "https://raw.githubusercontent.com/ZHwash/astrbot_plugin_roco_world_wiki_search/main/logo.png"
   },
   "astrbot_plugin_currency": {
@@ -219,9 +219,9 @@
       "推送"
     ],
     "social_link": "https://github.com/FlanChanXwO",
-    "stars": 10,
+    "stars": 12,
     "version": "v1.0.20",
-    "updated_at": "2026-04-22T03:13:45Z",
+    "updated_at": "2026-04-22T15:57:05Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_rsshub/master/logo.png"
   },
   "astrbot_plugin_scriptor": {
@@ -1489,9 +1489,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 317,
+    "stars": 318,
     "version": "v4.10.0",
-    "updated_at": "2026-04-22T14:26:10Z",
+    "updated_at": "2026-04-22T15:36:03Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -2291,7 +2291,7 @@
     "category": "entertainment",
     "stars": 6,
     "version": "v1.0.6",
-    "updated_at": "2026-04-22T15:11:45Z",
+    "updated_at": "2026-04-22T15:19:29Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_epic_freegame/main/logo.png"
   },
   "astrbot-plugin-goofish-catcher": {
@@ -2338,9 +2338,9 @@
     ],
     "social_link": "https://github.com/menglimi",
     "category": "ai_tools",
-    "stars": 37,
+    "stars": 38,
     "version": "2.9.9",
-    "updated_at": "2026-04-20T22:36:10Z",
+    "updated_at": "2026-04-22T16:54:11Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -4470,9 +4470,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 317,
+    "stars": 318,
     "version": "v4.10.0",
-    "updated_at": "2026-04-22T14:26:10Z",
+    "updated_at": "2026-04-22T15:36:03Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -5875,9 +5875,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "utilities",
-    "stars": 66,
+    "stars": 67,
     "version": "1.1.3",
-    "updated_at": "2026-04-20T22:27:33Z",
+    "updated_at": "2026-04-22T16:52:55Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
@@ -11335,9 +11335,9 @@
     ],
     "category": "ai_tools",
     "author": null,
-    "stars": 41,
+    "stars": 42,
     "version": "2.6.0",
-    "updated_at": "2026-04-19T02:02:48Z"
+    "updated_at": "2026-04-22T15:37:53Z"
   },
   "astrbot_plugin_group_sign": {
     "name": "group_sign",
