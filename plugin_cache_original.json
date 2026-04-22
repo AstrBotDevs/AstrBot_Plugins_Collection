@@ -5816,9 +5816,9 @@
       "vertex_ai"
     ],
     "category": "ai_tools",
-    "stars": 22,
+    "stars": 23,
     "version": "v0.1.12",
-    "updated_at": "2026-04-15T16:37:22Z",
+    "updated_at": "2026-04-22T21:53:39Z",
     "logo": "https://raw.githubusercontent.com/sukafon/astrbot_plugin_big_banana/main/logo.png"
   },
   "astrbot_plugin_BitTorrent": {
