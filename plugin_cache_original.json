@@ -6,9 +6,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 24,
+    "stars": 25,
     "version": "2.3.0",
-    "updated_at": "2026-04-22T02:38:20Z",
+    "updated_at": "2026-04-22T03:19:39Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -219,9 +219,9 @@
       "推送"
     ],
     "social_link": "https://github.com/FlanChanXwO",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.0.20",
-    "updated_at": "2026-04-21T11:11:04Z",
+    "updated_at": "2026-04-22T03:13:45Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_rsshub/master/logo.png"
   },
   "astrbot_plugin_scriptor": {
@@ -3067,9 +3067,9 @@
     "social_link": "www.chuyel.cn",
     "category": "entertainment",
     "tags": [],
-    "stars": 14,
-    "version": "v1.0.8",
-    "updated_at": "2026-04-06T06:12:20Z",
+    "stars": 15,
+    "version": "v1.1.0",
+    "updated_at": "2026-04-22T04:39:46Z",
     "logo": "https://raw.githubusercontent.com/chuyegzs/astrbot_plugin_meting/main/logo.png"
   },
   "astrbot-plugin-comfyui": {
@@ -6231,7 +6231,7 @@
     "category": "utilities",
     "stars": 1,
     "version": "v1.0.4",
-    "updated_at": "2026-04-22T02:39:42Z",
+    "updated_at": "2026-04-22T03:05:03Z",
     "logo": "https://raw.githubusercontent.com/CecilyGao/astrbot_plugin_color/main/logo.png"
   },
   "astrbot_plugin_wca": {
@@ -6593,7 +6593,7 @@
     "category": "ai_tools",
     "stars": 69,
     "version": "v4.2.26",
-    "updated_at": "2026-04-21T07:53:10Z",
+    "updated_at": "2026-04-22T04:44:14Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -7065,9 +7065,9 @@
     ],
     "social_link": "https://github.com/Siaospeed",
     "category": "utilities",
-    "stars": 10,
+    "stars": 11,
     "version": "v0.1.0",
-    "updated_at": "2026-03-17T12:04:30Z",
+    "updated_at": "2026-04-22T03:16:44Z",
     "logo": "https://raw.githubusercontent.com/Siaospeed/astrbot_plugin_msg_transfer/main/logo.png"
   },
   "astrbot_plugin_chuanhuatong": {
@@ -8086,9 +8086,9 @@
     "repo": "https://github.com/SatenShiroya/astrbot_plugin_llm_qqgroupTools",
     "category": "ai_tools",
     "tags": [],
-    "stars": 17,
+    "stars": 18,
     "version": "V2.1.0",
-    "updated_at": "2026-04-21T12:36:41Z",
+    "updated_at": "2026-04-22T03:18:54Z",
     "logo": "https://raw.githubusercontent.com/SatenShiroya/astrbot_plugin_llm_qqgroupTools/master/logo.png"
   },
   "astrbot_plugin_cs_skins": {
@@ -8647,8 +8647,8 @@
     "social_link": "https://www.misakanet.site",
     "category": "utilities",
     "stars": 10,
-    "version": "v1.3.3",
-    "updated_at": "2026-04-11T14:16:44Z",
+    "version": "v1.3.4",
+    "updated_at": "2026-04-22T04:29:42Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_persona_plus/master/logo.png"
   },
   "astrbot_plugin_sticker": {
@@ -11000,9 +11000,9 @@
       "主动回复"
     ],
     "category": "utilities",
-    "stars": 40,
+    "stars": 41,
     "version": "v2.0.1",
-    "updated_at": "2026-04-12T00:42:30Z",
+    "updated_at": "2026-04-22T04:22:50Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -12751,9 +12751,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 29,
+    "stars": 30,
     "version": "v2.0.0",
-    "updated_at": "2026-04-20T13:47:47Z",
+    "updated_at": "2026-04-22T03:21:18Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_emoji_like/main/logo.png"
   },
   "astrbot_plugin_lanraragi": {
