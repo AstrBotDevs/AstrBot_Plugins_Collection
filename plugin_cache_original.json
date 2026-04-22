@@ -6,9 +6,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 25,
+    "stars": 26,
     "version": "2.3.0",
-    "updated_at": "2026-04-22T03:19:39Z",
+    "updated_at": "2026-04-22T07:32:32Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -236,9 +236,9 @@
       "跨平台身份管理",
       "数据库查询"
     ],
-    "stars": 4,
+    "stars": 5,
     "version": "1.0.0",
-    "updated_at": "2026-04-18T04:01:06Z",
+    "updated_at": "2026-04-22T06:02:35Z",
     "logo": "https://raw.githubusercontent.com/ysf7762-dev/astrbot_plugin_scriptor/main/logo.png"
   },
   "astrbot_plugin_actions": {
@@ -410,9 +410,9 @@
     "tags": [
       "bilibili"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "3.0.0",
-    "updated_at": "2026-04-18T18:08:00Z"
+    "updated_at": "2026-04-22T06:28:26Z"
   },
   "astrbot-plugin-touhou-kb": {
     "display_name": "东方知识库",
@@ -949,8 +949,8 @@
       "音乐"
     ],
     "stars": 3,
-    "version": "v0.0.6",
-    "updated_at": "2026-04-21T19:54:45Z"
+    "version": "v0.0.7",
+    "updated_at": "2026-04-22T07:16:50Z"
   },
   "astrbot-plugin-codesnap": {
     "display_name": "CodeSnap(?)",
@@ -1489,9 +1489,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 315,
-    "version": "v4.9.18",
-    "updated_at": "2026-04-20T03:54:02Z",
+    "stars": 316,
+    "version": "v4.10.0",
+    "updated_at": "2026-04-22T07:17:42Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -4470,9 +4470,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 315,
-    "version": "v4.9.18",
-    "updated_at": "2026-04-20T03:54:02Z",
+    "stars": 316,
+    "version": "v4.10.0",
+    "updated_at": "2026-04-22T07:17:42Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -5075,9 +5075,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "utilities",
-    "stars": 46,
+    "stars": 47,
     "version": "1.1.1",
-    "updated_at": "2026-04-11T16:32:56Z"
+    "updated_at": "2026-04-22T05:53:47Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -12300,9 +12300,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 144,
+    "stars": 145,
     "version": "v2.1.0",
-    "updated_at": "2026-04-19T08:53:17Z",
+    "updated_at": "2026-04-22T05:51:10Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
