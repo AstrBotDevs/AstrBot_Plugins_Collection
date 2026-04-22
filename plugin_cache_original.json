@@ -6,9 +6,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 30,
+    "stars": 31,
     "version": "2.5.0",
-    "updated_at": "2026-04-22T13:23:08Z",
+    "updated_at": "2026-04-22T18:14:53Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -219,9 +219,9 @@
       "推送"
     ],
     "social_link": "https://github.com/FlanChanXwO",
-    "stars": 12,
+    "stars": 13,
     "version": "v1.0.20",
-    "updated_at": "2026-04-22T15:57:05Z",
+    "updated_at": "2026-04-22T17:23:16Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_rsshub/master/logo.png"
   },
   "astrbot_plugin_scriptor": {
@@ -8265,9 +8265,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 208,
+    "stars": 207,
     "version": "v1.2.2",
-    "updated_at": "2026-04-22T10:40:10Z",
+    "updated_at": "2026-04-22T17:04:34Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -15311,9 +15311,9 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "category": "integrations",
     "tags": [],
-    "stars": 59,
+    "stars": 60,
     "version": "v1.5.8",
-    "updated_at": "2026-04-20T17:56:01Z",
+    "updated_at": "2026-04-22T18:45:55Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
