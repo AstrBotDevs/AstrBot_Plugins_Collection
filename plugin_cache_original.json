@@ -6,9 +6,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 23,
+    "stars": 24,
     "version": "2.3.0",
-    "updated_at": "2026-04-21T17:54:10Z",
+    "updated_at": "2026-04-22T02:38:20Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -1144,9 +1144,9 @@
     ],
     "social_link": "https://github.com/NayukiChiba",
     "category": "productivity",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.0.1",
-    "updated_at": "2026-04-07T14:32:28Z",
+    "updated_at": "2026-04-22T00:08:37Z",
     "logo": "https://raw.githubusercontent.com/NayukiChiba/astrbot_plugin_arxiv/master/logo.png"
   },
   "astrbot-plugin-cve-warning": {
@@ -2490,8 +2490,8 @@
     "category": "entertainment",
     "tags": [],
     "stars": 9,
-    "version": "v1.1.1",
-    "updated_at": "2026-04-11T05:21:36Z",
+    "version": "v1.1.3",
+    "updated_at": "2026-04-22T02:33:40Z",
     "logo": "https://raw.githubusercontent.com/zoffyultraman/astrbot_plugin_manbo-tts/main/logo.png"
   },
   "astrbot-plugin-steammod-monitor": {
@@ -6111,8 +6111,8 @@
     ],
     "category": "ai_tools",
     "stars": 5,
-    "version": "1.2.13",
-    "updated_at": "2026-02-10T09:27:51Z",
+    "version": "1.2.15",
+    "updated_at": "2026-04-22T02:16:49Z",
     "logo": "https://raw.githubusercontent.com/wangyingxuan383-ai/astrbot_plugin_ronghedraw/main/logo.png"
   },
   "astrbot_plugin_model_router": {
@@ -6230,8 +6230,8 @@
     ],
     "category": "utilities",
     "stars": 1,
-    "version": "v1.0.3",
-    "updated_at": "2026-03-04T00:22:58Z",
+    "version": "v1.0.4",
+    "updated_at": "2026-04-22T02:39:42Z",
     "logo": "https://raw.githubusercontent.com/CecilyGao/astrbot_plugin_color/main/logo.png"
   },
   "astrbot_plugin_wca": {
@@ -8265,9 +8265,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 206,
+    "stars": 207,
     "version": "v1.2.2",
-    "updated_at": "2026-04-21T16:49:57Z",
+    "updated_at": "2026-04-22T01:42:23Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -9909,9 +9909,9 @@
     ],
     "social_link": "blog.isla.ltd",
     "category": "integrations",
-    "stars": 23,
+    "stars": 24,
     "version": "1.2.0",
-    "updated_at": "2026-04-20T02:31:28Z"
+    "updated_at": "2026-04-22T01:43:24Z"
   },
   "astrbot_plugin_AnimeMagnet": {
     "desc": "这是一个动漫磁链查询插件，可以获取动漫磁链",
@@ -10359,9 +10359,9 @@
     ],
     "social_link": "https://github.com/SodaSizzle",
     "category": "entertainment",
-    "stars": 59,
+    "stars": 61,
     "version": "v2.0",
-    "updated_at": "2026-04-21T04:39:13Z",
+    "updated_at": "2026-04-22T02:06:57Z",
     "logo": "https://raw.githubusercontent.com/SodaSizzle/astrbot_plugin_meme_generator/master/logo.png"
   },
   "astrbot_plugin_baiduocr": {
@@ -13194,9 +13194,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "entertainment",
-    "stars": 221,
+    "stars": 222,
     "version": "v3.0.3",
-    "updated_at": "2026-04-21T06:32:56Z",
+    "updated_at": "2026-04-22T01:12:18Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -14165,7 +14165,7 @@
     "category": "integrations",
     "stars": 80,
     "version": "v3.1.0",
-    "updated_at": "2026-04-19T08:25:38Z",
+    "updated_at": "2026-04-22T01:14:45Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
