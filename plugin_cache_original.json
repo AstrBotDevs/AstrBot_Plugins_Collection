@@ -6,9 +6,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 28,
+    "stars": 30,
     "version": "2.5.0",
-    "updated_at": "2026-04-22T10:06:14Z",
+    "updated_at": "2026-04-22T13:23:08Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -4612,9 +4612,9 @@
     ],
     "social_link": "https://qwq.pyuramazo.online",
     "category": "entertainment",
-    "stars": 21,
+    "stars": 22,
     "version": "v1.10.2",
-    "updated_at": "2026-04-21T11:21:42Z",
+    "updated_at": "2026-04-22T11:22:32Z",
     "logo": "https://raw.githubusercontent.com/PyuraMazo/astrbot_plugin_galgame_box/master/logo.png"
   },
   "astrbot_plugin_anitabi": {
@@ -11002,7 +11002,7 @@
     "category": "utilities",
     "stars": 41,
     "version": "v2.0.1",
-    "updated_at": "2026-04-22T04:22:50Z",
+    "updated_at": "2026-04-22T13:23:46Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
