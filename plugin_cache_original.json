@@ -7,8 +7,8 @@
     "tags": [],
     "social_link": "",
     "stars": 26,
-    "version": "2.3.0",
-    "updated_at": "2026-04-22T07:32:32Z",
+    "version": "2.5.0",
+    "updated_at": "2026-04-22T09:06:50Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -3598,9 +3598,9 @@
     ],
     "social_link": "https://github.com/4869-yinxu",
     "category": "integrations",
-    "stars": 11,
-    "version": "1.3.0",
-    "updated_at": "2026-04-12T07:37:45Z"
+    "stars": 12,
+    "version": "1.0.0",
+    "updated_at": "2026-04-22T08:52:46Z"
   },
   "astrbot_plugin_riddlegame": {
     "display_name": "qq群棋类游戏",
@@ -5891,9 +5891,9 @@
       "人格"
     ],
     "category": "ai_tools",
-    "stars": 109,
+    "stars": 110,
     "version": "1.3.10",
-    "updated_at": "2026-04-21T02:11:36Z",
+    "updated_at": "2026-04-22T08:28:00Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -10359,9 +10359,9 @@
     ],
     "social_link": "https://github.com/SodaSizzle",
     "category": "entertainment",
-    "stars": 61,
+    "stars": 62,
     "version": "v2.0",
-    "updated_at": "2026-04-22T02:06:57Z",
+    "updated_at": "2026-04-22T08:22:28Z",
     "logo": "https://raw.githubusercontent.com/SodaSizzle/astrbot_plugin_meme_generator/master/logo.png"
   },
   "astrbot_plugin_baiduocr": {
@@ -13194,9 +13194,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "entertainment",
-    "stars": 222,
+    "stars": 223,
     "version": "v3.0.3",
-    "updated_at": "2026-04-22T01:12:18Z",
+    "updated_at": "2026-04-22T08:40:56Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -13383,9 +13383,9 @@
     ],
     "social_link": "https://github.com/vmoranv-reborn",
     "category": "entertainment",
-    "stars": 27,
+    "stars": 28,
     "version": "1.7.2",
-    "updated_at": "2026-04-10T16:37:51Z",
+    "updated_at": "2026-04-22T08:16:52Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
