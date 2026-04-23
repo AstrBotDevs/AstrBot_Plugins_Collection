@@ -6,9 +6,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 33,
+    "stars": 35,
     "version": "2.5.0",
-    "updated_at": "2026-04-23T09:36:19Z",
+    "updated_at": "2026-04-23T11:08:00Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -7010,8 +7010,8 @@
     "social_link": "https://github.com/piexian",
     "category": "ai_tools",
     "stars": 39,
-    "version": "v1.9.12",
-    "updated_at": "2026-04-21T14:25:41Z",
+    "version": "v1.9.13",
+    "updated_at": "2026-04-23T10:07:34Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
