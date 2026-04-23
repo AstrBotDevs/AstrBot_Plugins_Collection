@@ -587,9 +587,9 @@
       "更多主动功能"
     ],
     "social_link": "www.wyccotccy.cn",
-    "stars": 18,
+    "stars": 19,
     "version": "3.0.1",
-    "updated_at": "2026-04-21T09:49:03Z",
+    "updated_at": "2026-04-23T11:35:59Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -808,9 +808,9 @@
       "面板"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 15,
+    "stars": 16,
     "version": "v1.0.0",
-    "updated_at": "2026-04-20T15:44:31Z",
+    "updated_at": "2026-04-23T12:32:40Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_live_dashboard/main/logo.png"
   },
   "astrbot-plugin-wol-miko": {
@@ -1915,9 +1915,9 @@
       "数据查询"
     ],
     "category": "entertainment",
-    "stars": 36,
+    "stars": 37,
     "version": "2.7.0",
-    "updated_at": "2026-04-20T14:08:57Z",
+    "updated_at": "2026-04-23T12:51:59Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -2923,9 +2923,9 @@
     ],
     "social_link": "https://github.com/Radiant303",
     "category": "ai_tools",
-    "stars": 26,
+    "stars": 27,
     "version": "v2.3.1",
-    "updated_at": "2026-04-22T10:18:51Z",
+    "updated_at": "2026-04-23T12:26:52Z",
     "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_clonetts/master/logo.png"
   },
   "astrbot-plugin-ssh": {
@@ -11435,9 +11435,9 @@
     ],
     "social_link": "astrbot.uk",
     "category": "utilities",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.4.0",
-    "updated_at": "2026-03-24T14:47:10Z"
+    "updated_at": "2026-04-23T13:14:45Z"
   },
   "astrbot_plugin_bw_monitor": {
     "desc": "Bilibili Show 票务监控插件，支持群聊/私聊隔离，检测余票变化并推送通知。",
@@ -12926,7 +12926,7 @@
     "category": "entertainment",
     "stars": 12,
     "version": "v1.6.0",
-    "updated_at": "2026-04-19T12:48:05Z"
+    "updated_at": "2026-04-23T11:41:28Z"
   },
   "astrbot_plugin_yinlish": {
     "author": "vmoranv",
@@ -15061,9 +15061,9 @@
     ],
     "pinned": true,
     "category": "entertainment",
-    "stars": 246,
+    "stars": 247,
     "version": "v3.20",
-    "updated_at": "2026-04-22T10:39:58Z"
+    "updated_at": "2026-04-23T11:22:43Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
