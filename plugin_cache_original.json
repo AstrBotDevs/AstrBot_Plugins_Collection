@@ -236,9 +236,9 @@
       "跨平台身份管理",
       "数据库查询"
     ],
-    "stars": 5,
+    "stars": 6,
     "version": "1.0.0",
-    "updated_at": "2026-04-22T06:02:35Z",
+    "updated_at": "2026-04-23T07:33:18Z",
     "logo": "https://raw.githubusercontent.com/ysf7762-dev/astrbot_plugin_scriptor/main/logo.png"
   },
   "astrbot_plugin_actions": {
@@ -397,9 +397,9 @@
     "tags": [
       "动画"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-04-10T16:17:27Z",
+    "updated_at": "2026-04-23T05:57:36Z",
     "logo": "https://raw.githubusercontent.com/zhist2028/astrbot_plugin_anime1_list/main/logo.png"
   },
   "astrbot-plugin-BiliCookie-monitor": {
@@ -3110,9 +3110,9 @@
       "数据查询"
     ],
     "category": "entertainment",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.2.4",
-    "updated_at": "2026-04-06T11:56:25Z",
+    "updated_at": "2026-04-23T07:22:56Z",
     "logo": "https://raw.githubusercontent.com/qsc20001102/astrbot_plugin_jx3/main/logo.png"
   },
   "astrbot-plugin-zirunbi": {
@@ -3129,7 +3129,7 @@
     "category": "entertainment",
     "stars": 3,
     "version": "1.1.1",
-    "updated_at": "2026-03-18T15:08:22Z",
+    "updated_at": "2026-04-23T07:54:37Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_zirunbi/main/logo.png"
   },
   "astrbot-plugin-at-check": {
@@ -6499,9 +6499,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "utilities",
-    "stars": 52,
+    "stars": 53,
     "version": "v1.4.5",
-    "updated_at": "2026-04-19T12:21:08Z",
+    "updated_at": "2026-04-23T05:43:23Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -6933,7 +6933,7 @@
     "category": "ai_tools",
     "stars": 30,
     "version": "1.6.1",
-    "updated_at": "2026-04-21T03:47:48Z",
+    "updated_at": "2026-04-23T07:14:44Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/main/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -8265,9 +8265,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 207,
+    "stars": 208,
     "version": "v1.2.2",
-    "updated_at": "2026-04-22T17:04:34Z",
+    "updated_at": "2026-04-23T06:52:58Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -10359,9 +10359,9 @@
     ],
     "social_link": "https://github.com/SodaSizzle",
     "category": "entertainment",
-    "stars": 65,
+    "stars": 66,
     "version": "v2.1",
-    "updated_at": "2026-04-23T05:12:43Z",
+    "updated_at": "2026-04-23T06:18:55Z",
     "logo": "https://raw.githubusercontent.com/SodaSizzle/astrbot_plugin_meme_generator/master/logo.png"
   },
   "astrbot_plugin_baiduocr": {
@@ -11856,9 +11856,9 @@
     ],
     "social_link": "https://github.com/oyxning",
     "category": "ai_tools",
-    "stars": 64,
+    "stars": 63,
     "version": "v3.5.1",
-    "updated_at": "2026-04-21T10:45:45Z",
+    "updated_at": "2026-04-23T05:42:25Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_antipromptinjector/master/logo.png"
   },
   "astrbot_plugin_alistfile": {
