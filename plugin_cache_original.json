@@ -9596,8 +9596,8 @@
     "category": "entertainment",
     "tags": [],
     "stars": 56,
-    "version": "v2.7.7",
-    "updated_at": "2026-04-23T18:30:21Z"
+    "version": "v2.7.8",
+    "updated_at": "2026-04-23T19:37:31Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
