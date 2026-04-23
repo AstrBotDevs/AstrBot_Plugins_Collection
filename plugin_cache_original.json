@@ -6,9 +6,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 35,
+    "stars": 36,
     "version": "2.5.3",
-    "updated_at": "2026-04-23T15:52:00Z",
+    "updated_at": "2026-04-23T17:01:18Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -2307,9 +2307,9 @@
     ],
     "social_link": "https://github.com/RichardLiuda",
     "category": "utilities",
-    "stars": 20,
+    "stars": 22,
     "version": "v2.2.2",
-    "updated_at": "2026-04-21T16:48:16Z",
+    "updated_at": "2026-04-23T17:17:17Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -8990,8 +8990,8 @@
     ],
     "category": "utilities",
     "stars": 5,
-    "version": "v1.3",
-    "updated_at": "2026-04-21T13:41:56Z",
+    "version": "v1.3.1",
+    "updated_at": "2026-04-23T16:13:17Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_GroupFS/master/logo.png"
   },
   "group_notice_manager": {
