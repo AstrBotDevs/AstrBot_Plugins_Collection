@@ -7615,9 +7615,9 @@
     ],
     "social_link": "https://github.com/ZvZPvz",
     "category": "integrations",
-    "stars": 7,
+    "stars": 6,
     "version": "1.0.0",
-    "updated_at": "2026-04-13T08:36:42Z",
+    "updated_at": "2026-04-23T18:52:36Z",
     "logo": "https://raw.githubusercontent.com/ZvZPvz/astrbot_plugin_email_narrator/main/logo.png"
   },
   "astrbot_plugin_mcwatcher": {
@@ -9596,8 +9596,8 @@
     "category": "entertainment",
     "tags": [],
     "stars": 56,
-    "version": "v2.7.5",
-    "updated_at": "2026-04-10T06:14:22Z"
+    "version": "v2.7.7",
+    "updated_at": "2026-04-23T18:30:21Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
