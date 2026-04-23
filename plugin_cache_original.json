@@ -6,9 +6,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 31,
+    "stars": 33,
     "version": "2.5.0",
-    "updated_at": "2026-04-22T18:14:53Z",
+    "updated_at": "2026-04-23T09:36:19Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -31,9 +31,9 @@
     "author": "middcom,dream,deepseek",
     "repo": "https://github.com/middcom/astrbot_plugin_affection",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "v1.2",
-    "updated_at": "2026-04-22T15:56:52Z"
+    "updated_at": "2026-04-23T09:15:32Z"
   },
   "astrbot_plugin_media_wiki": {
     "display_name": "MediaWiki 通用查询",
@@ -168,7 +168,7 @@
     ],
     "stars": 1,
     "version": "v1.1.0",
-    "updated_at": "2026-04-21T09:55:23Z",
+    "updated_at": "2026-04-23T09:44:07Z",
     "logo": "https://raw.githubusercontent.com/MillionDreamQAQ/astrbot_plugin_zhihuSummary/main/logo.png"
   },
   "builtin_commands_extension": {
@@ -219,9 +219,9 @@
       "推送"
     ],
     "social_link": "https://github.com/FlanChanXwO",
-    "stars": 13,
+    "stars": 14,
     "version": "v1.0.20",
-    "updated_at": "2026-04-22T17:23:16Z",
+    "updated_at": "2026-04-23T08:13:41Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_rsshub/master/logo.png"
   },
   "astrbot_plugin_scriptor": {
@@ -279,9 +279,9 @@
     "author": "WJF",
     "repo": "https://github.com/starsky-web/astrbot_plugin_eggSearch",
     "tags": [],
-    "stars": 2,
+    "stars": 1,
     "version": "v0.1.1",
-    "updated_at": "2026-04-16T16:31:25Z"
+    "updated_at": "2026-04-23T09:30:21Z"
   },
   "astrbot_plugin_eve_esi": {
     "display_name": "EVE市场助手",
@@ -615,9 +615,9 @@
       "股票"
     ],
     "social_link": "https://github.com/YYY7C",
-    "stars": 10,
+    "stars": 11,
     "version": "1.2.0",
-    "updated_at": "2026-04-14T07:45:03Z",
+    "updated_at": "2026-04-23T08:49:55Z",
     "logo": "https://raw.githubusercontent.com/YYY7C/TradingAgents-AstrBot/main/logo.png"
   },
   "astrbot-plugin-sts2-data": {
@@ -9895,9 +9895,9 @@
       "表情包"
     ],
     "category": "entertainment",
-    "stars": 13,
+    "stars": 14,
     "version": "v1.0.1",
-    "updated_at": "2026-04-07T11:46:12Z"
+    "updated_at": "2026-04-23T09:09:56Z"
   },
   "wxauto_repost": {
     "desc": "微信消息转发框架插件 - 基于 wxauto 库和 OneBotV11 协议，支持微信消息与 OneBotV11 协议的双向转发",
@@ -10361,7 +10361,7 @@
     "category": "entertainment",
     "stars": 66,
     "version": "v2.1",
-    "updated_at": "2026-04-23T06:18:55Z",
+    "updated_at": "2026-04-23T08:17:02Z",
     "logo": "https://raw.githubusercontent.com/SodaSizzle/astrbot_plugin_meme_generator/master/logo.png"
   },
   "astrbot_plugin_baiduocr": {
@@ -12627,9 +12627,9 @@
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
     "tags": [],
-    "stars": 48,
+    "stars": 49,
     "version": "v1.3.0",
-    "updated_at": "2026-04-20T12:30:58Z",
+    "updated_at": "2026-04-23T08:09:12Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_search_video/main/logo.png"
   },
   "astrbot_plugin_zt": {
