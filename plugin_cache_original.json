@@ -7,8 +7,8 @@
     "tags": [],
     "social_link": "",
     "stars": 35,
-    "version": "2.5.0",
-    "updated_at": "2026-04-23T11:08:00Z",
+    "version": "2.5.3",
+    "updated_at": "2026-04-23T15:52:00Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -219,9 +219,9 @@
       "推送"
     ],
     "social_link": "https://github.com/FlanChanXwO",
-    "stars": 14,
+    "stars": 15,
     "version": "v1.0.20",
-    "updated_at": "2026-04-23T08:13:41Z",
+    "updated_at": "2026-04-23T15:15:53Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_rsshub/master/logo.png"
   },
   "astrbot_plugin_scriptor": {
@@ -2073,9 +2073,9 @@
     "social_link": "https://github.com/Renyus",
     "category": "ai_tools",
     "tags": [],
-    "stars": 55,
+    "stars": 56,
     "version": "Ver 5.3.0",
-    "updated_at": "2026-04-19T13:37:00Z"
+    "updated_at": "2026-04-23T13:49:47Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -5120,9 +5120,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 274,
+    "stars": 275,
     "version": "Next-2.1.0",
-    "updated_at": "2026-04-22T10:39:55Z",
+    "updated_at": "2026-04-23T13:53:06Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -6932,8 +6932,8 @@
     "social_link": "https://box.firefly520.top/",
     "category": "ai_tools",
     "stars": 30,
-    "version": "1.6.1",
-    "updated_at": "2026-04-23T07:14:44Z",
+    "version": "1.6.2",
+    "updated_at": "2026-04-23T15:37:49Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/main/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -7010,8 +7010,8 @@
     "social_link": "https://github.com/piexian",
     "category": "ai_tools",
     "stars": 39,
-    "version": "v1.9.13",
-    "updated_at": "2026-04-23T10:07:34Z",
+    "version": "v1.9.14",
+    "updated_at": "2026-04-23T14:57:26Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -8014,9 +8014,9 @@
     ],
     "social_link": "https://github.com/ovoox",
     "category": "entertainment",
-    "stars": 8,
+    "stars": 9,
     "version": "v2.0",
-    "updated_at": "2026-04-05T04:00:30Z"
+    "updated_at": "2026-04-23T13:54:25Z"
   },
   "astrbot_plugin_weibo_hot": {
     "desc": "自动抓取微博热榜。",
