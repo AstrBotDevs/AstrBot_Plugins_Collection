@@ -1490,8 +1490,8 @@
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
     "stars": 317,
-    "version": "v4.10.0",
-    "updated_at": "2026-04-22T22:58:38Z",
+    "version": "v4.10.1",
+    "updated_at": "2026-04-23T00:54:01Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -3920,9 +3920,9 @@
     ],
     "social_link": "https://meilunova.pages.dev/",
     "category": "integrations",
-    "stars": 18,
+    "stars": 19,
     "version": "0.7.0",
-    "updated_at": "2026-04-13T18:33:35Z",
+    "updated_at": "2026-04-23T01:23:17Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -4000,9 +4000,9 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "category": "entertainment",
-    "stars": 21,
+    "stars": 22,
     "version": "v3.1.6",
-    "updated_at": "2026-04-05T13:09:50Z",
+    "updated_at": "2026-04-23T02:36:26Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
@@ -4341,9 +4341,9 @@
     "repo": "https://github.com/Aloys233/astrbot_plugin_service_watcher",
     "category": "utilities",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "v0.2.0",
-    "updated_at": "2026-03-12T13:21:26Z"
+    "updated_at": "2026-04-23T01:37:37Z"
   },
   "astrbot_plugin_cmdmask": {
     "display_name": "指令伪装",
@@ -4471,8 +4471,8 @@
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
     "stars": 317,
-    "version": "v4.10.0",
-    "updated_at": "2026-04-22T22:58:38Z",
+    "version": "v4.10.1",
+    "updated_at": "2026-04-23T00:54:01Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -7967,9 +7967,9 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "ai_tools",
-    "stars": 87,
+    "stars": 86,
     "version": "v1.2.1-(hotfix-重推)",
-    "updated_at": "2026-04-22T22:59:09Z",
+    "updated_at": "2026-04-23T02:02:20Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -8646,9 +8646,9 @@
     ],
     "social_link": "https://www.misakanet.site",
     "category": "utilities",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.3.4",
-    "updated_at": "2026-04-22T04:29:42Z",
+    "updated_at": "2026-04-23T01:52:12Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_persona_plus/master/logo.png"
   },
   "astrbot_plugin_sticker": {
@@ -10359,9 +10359,9 @@
     ],
     "social_link": "https://github.com/SodaSizzle",
     "category": "entertainment",
-    "stars": 62,
+    "stars": 64,
     "version": "v2.0",
-    "updated_at": "2026-04-22T08:22:28Z",
+    "updated_at": "2026-04-23T01:43:38Z",
     "logo": "https://raw.githubusercontent.com/SodaSizzle/astrbot_plugin_meme_generator/master/logo.png"
   },
   "astrbot_plugin_baiduocr": {
@@ -11086,9 +11086,9 @@
       "监控"
     ],
     "category": "utilities",
-    "stars": 5,
+    "stars": 6,
     "version": "v2.0",
-    "updated_at": "2026-04-03T04:39:43Z"
+    "updated_at": "2026-04-23T01:52:20Z"
   },
   "astrbot_plugin_scheduler": {
     "desc": "功能强大的通用定时任务调度插件，支持 Cron 表达式、间隔执行、条件执行等多种调度方式。提供可视化配置界面和任务创建向导。",
