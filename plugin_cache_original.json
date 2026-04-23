@@ -5489,9 +5489,9 @@
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
     "category": "ai_tools",
-    "stars": 56,
+    "stars": 57,
     "version": "v1.1",
-    "updated_at": "2026-04-16T09:16:19Z"
+    "updated_at": "2026-04-23T03:57:06Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -10359,9 +10359,9 @@
     ],
     "social_link": "https://github.com/SodaSizzle",
     "category": "entertainment",
-    "stars": 64,
-    "version": "v2.0",
-    "updated_at": "2026-04-23T01:43:38Z",
+    "stars": 65,
+    "version": "v2.1",
+    "updated_at": "2026-04-23T05:12:43Z",
     "logo": "https://raw.githubusercontent.com/SodaSizzle/astrbot_plugin_meme_generator/master/logo.png"
   },
   "astrbot_plugin_baiduocr": {
@@ -13194,9 +13194,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "entertainment",
-    "stars": 225,
+    "stars": 226,
     "version": "v3.0.3",
-    "updated_at": "2026-04-22T14:27:11Z",
+    "updated_at": "2026-04-23T04:45:58Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
