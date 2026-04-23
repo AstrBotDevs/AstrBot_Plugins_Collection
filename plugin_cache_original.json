@@ -7011,7 +7011,7 @@
     "category": "ai_tools",
     "stars": 39,
     "version": "v1.9.14",
-    "updated_at": "2026-04-23T14:57:26Z",
+    "updated_at": "2026-04-23T23:36:16Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -7532,8 +7532,8 @@
     ],
     "category": "utilities",
     "stars": 37,
-    "version": "v5.2.3",
-    "updated_at": "2026-04-18T09:29:16Z",
+    "version": "v6.0.0",
+    "updated_at": "2026-04-23T23:46:28Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
