@@ -24,6 +24,11 @@ except ImportError:  # pragma: no cover - optional in local unit tests
 
 REQUIRED_METADATA_FIELDS = ("name", "desc", "version", "author")
 DEFAULT_CLONE_TIMEOUT = 120
+CONFLICT_MARKERS = ("<<<<<<<", "=======", ">>>>>>>")
+
+
+class MetadataLoadError(ValueError):
+    pass
 
 
 def build_result(
@@ -104,8 +109,17 @@ def _parse_simple_yaml(path: Path) -> dict:
 
 
 def load_metadata(path: Path) -> dict:
+    text = path.read_text(encoding="utf-8")
+    if any(marker in text for marker in CONFLICT_MARKERS):
+        raise MetadataLoadError(
+            "could not find expected ':' (merge conflict markers found in metadata.yaml)"
+        )
+
     if yaml is not None:
-        loaded = yaml.safe_load(path.read_text(encoding="utf-8"))
+        try:
+            loaded = yaml.safe_load(text)
+        except yaml.YAMLError as exc:
+            raise MetadataLoadError(str(exc)) from exc
         if isinstance(loaded, dict):
             return loaded
         return {}
@@ -121,7 +135,16 @@ def precheck_plugin_directory(plugin_dir: Path) -> dict:
             "message": "missing metadata.yaml",
         }
 
-    metadata = load_metadata(metadata_path)
+    try:
+        metadata = load_metadata(metadata_path)
+    except MetadataLoadError as exc:
+        return {
+            "ok": False,
+            "stage": "metadata",
+            "message": "invalid metadata.yaml",
+            "details": str(exc),
+        }
+
     missing = [
         field
         for field in REQUIRED_METADATA_FIELDS
@@ -367,6 +390,7 @@ def validate_plugin(
             ok=False,
             stage=precheck["stage"],
             message=precheck["message"],
+            details=precheck.get("details"),
         )
 
     plugin_dir_name = precheck["plugin_dir_name"]

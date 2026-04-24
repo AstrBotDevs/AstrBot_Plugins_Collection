@@ -215,6 +215,24 @@ class MetadataValidationTests(unittest.TestCase):
         self.assertIn("desc", result["message"])
         self.assertIn("version", result["message"])
 
+    def test_reports_invalid_metadata_yaml_without_raising(self):
+        module = load_validator_module()
+
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            plugin_dir = Path(tmp_dir)
+            (plugin_dir / "metadata.yaml").write_text(
+                "name: demo_plugin\n<<<<<<< HEAD\ndesc: broken\n=======\ndesc: fixed\n>>>>>>> branch\n",
+                encoding="utf-8",
+            )
+            (plugin_dir / "main.py").write_text("print('hello')\n", encoding="utf-8")
+
+            result = module.precheck_plugin_directory(plugin_dir)
+
+        self.assertFalse(result["ok"])
+        self.assertEqual(result["stage"], "metadata")
+        self.assertIn("invalid metadata.yaml", result["message"])
+        self.assertIn("could not find expected ':'", result["details"])
+
 
 class WorkerCommandTests(unittest.TestCase):
     def test_build_worker_command_contains_required_arguments(self):
