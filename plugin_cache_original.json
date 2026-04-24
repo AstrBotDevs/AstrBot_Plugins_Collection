@@ -6,9 +6,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 38,
+    "stars": 39,
     "version": "2.5.3",
-    "updated_at": "2026-04-24T10:48:44Z",
+    "updated_at": "2026-04-24T15:10:12Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -851,9 +851,9 @@
       "知识管理",
       "AI Agent"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-04-24T02:53:38Z"
+    "updated_at": "2026-04-24T14:09:39Z"
   },
   "astrbot-plugin-x-score": {
     "display_name": "X账号评分",
@@ -1915,9 +1915,9 @@
       "数据查询"
     ],
     "category": "entertainment",
-    "stars": 37,
+    "stars": 39,
     "version": "2.7.0",
-    "updated_at": "2026-04-23T12:51:59Z",
+    "updated_at": "2026-04-24T15:08:26Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -2105,9 +2105,9 @@
     ],
     "social_link": "https://github.com/olozhika/",
     "category": "ai_tools",
-    "stars": 24,
+    "stars": 25,
     "version": "v1.3.1",
-    "updated_at": "2026-04-15T14:46:02Z",
+    "updated_at": "2026-04-24T14:00:49Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
@@ -9760,9 +9760,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 151,
-    "version": "2.2.7",
-    "updated_at": "2026-04-24T13:04:04Z",
+    "stars": 152,
+    "version": "2.2.9",
+    "updated_at": "2026-04-24T15:00:10Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -15794,9 +15794,9 @@
     "repo": "https://github.com/zouyonghe/astrbot_plugin_ebooks",
     "category": "utilities",
     "tags": [],
-    "stars": 21,
+    "stars": 22,
     "version": "v2.0.0",
-    "updated_at": "2026-04-24T13:10:02Z"
+    "updated_at": "2026-04-24T15:06:23Z"
   },
   "astrbot_plugin_AIQTalk": {
     "desc": "基于QQ的AI声聊完成的（伪）TTS转语音",
