@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import argparse
 import asyncio
+import concurrent.futures
 import hashlib
 import json
 import os
@@ -29,6 +30,7 @@ except ImportError:  # pragma: no cover - optional in local unit tests
 
 REQUIRED_METADATA_FIELDS = ("name", "desc", "version", "author")
 DEFAULT_CLONE_TIMEOUT = 120
+DEFAULT_MAX_WORKERS = 8
 CONFLICT_MARKERS = ("<<<<<<<", "=======", ">>>>>>>")
 
 
@@ -489,29 +491,60 @@ def validate_selected_plugins(
     work_dir: Path,
     clone_timeout: int,
     load_timeout: int,
+    max_workers: int,
 ) -> list[dict]:
-    results = []
     total = len(selected)
+    results: list[dict | None] = [None] * total
 
-    for index, (plugin, plugin_data) in enumerate(selected, start=1):
-        print(f"[{index}/{total}] Validating {plugin}", flush=True)
-        result = validate_plugin(
-            plugin=plugin,
-            plugin_data=plugin_data,
-            astrbot_path=astrbot_path,
-            script_path=script_path,
-            work_dir=work_dir,
-            clone_timeout=clone_timeout,
-            load_timeout=load_timeout,
+    def task(index: int, plugin: str, plugin_data: dict) -> tuple[int, dict]:
+        return (
+            index,
+            validate_plugin(
+                plugin=plugin,
+                plugin_data=plugin_data,
+                astrbot_path=astrbot_path,
+                script_path=script_path,
+                work_dir=work_dir,
+                clone_timeout=clone_timeout,
+                load_timeout=load_timeout,
+            ),
         )
-        results.append(result)
 
-        status = "PASS" if result.get("ok") else "FAIL"
-        stage = result.get("stage", "unknown")
-        message = result.get("message", "")
-        print(f"[{index}/{total}] {status} {plugin} [{stage}] {message}", flush=True)
+    with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
+        future_to_context: dict[concurrent.futures.Future, tuple[int, str]] = {}
 
-    return results
+        for index, (plugin, plugin_data) in enumerate(selected, start=1):
+            print(f"[{index}/{total}] Queued {plugin}", flush=True)
+            future = executor.submit(task, index, plugin, plugin_data)
+            future_to_context[future] = (index, plugin)
+
+        for future in concurrent.futures.as_completed(future_to_context):
+            index, plugin = future_to_context[future]
+            try:
+                original_index, result = future.result()
+            except Exception as exc:
+                original_index = index
+                result = build_result(
+                    plugin=plugin,
+                    repo="",
+                    normalized_repo_url=None,
+                    ok=False,
+                    stage="threadpool",
+                    message=str(exc),
+                    details=traceback.format_exc(),
+                )
+
+            results[original_index - 1] = result
+            status = "PASS" if result.get("ok") else "FAIL"
+            stage = result.get("stage", "unknown")
+            message = result.get("message", "")
+            print(f"[{original_index}/{total}] {status} {plugin} [{stage}] {message}", flush=True)
+
+    finalized = [result for result in results if result is not None]
+    if len(finalized) != total:
+        raise RuntimeError("parallel validation finished with missing results")
+
+    return finalized
 
 
 class NullStub:
@@ -684,6 +717,7 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--work-dir")
     parser.add_argument("--clone-timeout", type=int, default=DEFAULT_CLONE_TIMEOUT)
     parser.add_argument("--load-timeout", type=int, default=300)
+    parser.add_argument("--max-workers", type=int, default=DEFAULT_MAX_WORKERS)
     parser.add_argument("--worker", action="store_true")
     parser.add_argument("--plugin-source-dir")
     parser.add_argument("--plugin-dir-name")
@@ -736,6 +770,7 @@ def main() -> int:
             work_dir=work_dir,
             clone_timeout=args.clone_timeout,
             load_timeout=args.load_timeout,
+            max_workers=args.max_workers,
         )
     finally:
         if temp_dir is not None:

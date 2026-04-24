@@ -386,6 +386,13 @@ class HelperFunctionTests(unittest.TestCase):
 
 
 class ValidationProgressTests(unittest.TestCase):
+    def test_build_parser_defaults_max_workers_to_eight(self):
+        module = load_validator_module()
+
+        args = module.build_parser().parse_args(["--astrbot-path", "/tmp/AstrBot"])
+
+        self.assertEqual(args.max_workers, 8)
+
     def test_validate_selected_plugins_emits_progress_and_result_lines(self):
         module = load_validator_module()
         selected = [
@@ -406,13 +413,57 @@ class ValidationProgressTests(unittest.TestCase):
                     work_dir=Path("/tmp/work"),
                     clone_timeout=60,
                     load_timeout=300,
+                    max_workers=8,
                 )
 
         self.assertEqual(results, fake_results)
         self.assertEqual(validate_mock.call_count, 2)
-        print_mock.assert_any_call("[1/2] Validating plugin-a", flush=True)
+        print_mock.assert_any_call("[1/2] Queued plugin-a", flush=True)
         print_mock.assert_any_call("[1/2] PASS plugin-a [load] ok", flush=True)
         print_mock.assert_any_call("[2/2] FAIL plugin-b [metadata] invalid metadata.yaml", flush=True)
+
+    def test_validate_selected_plugins_preserves_result_order_with_out_of_order_completion(self):
+        module = load_validator_module()
+        selected = [
+            ("plugin-a", {"repo": "https://github.com/example/plugin-a"}),
+            ("plugin-b", {"repo": "https://github.com/example/plugin-b"}),
+            ("plugin-c", {"repo": "https://github.com/example/plugin-c"}),
+        ]
+        futures = [mock.Mock(name="future-a"), mock.Mock(name="future-b"), mock.Mock(name="future-c")]
+        future_to_result = {
+            futures[0]: (1, {"plugin": "plugin-a", "ok": True, "stage": "load", "message": "a"}),
+            futures[1]: (2, {"plugin": "plugin-b", "ok": False, "stage": "metadata", "message": "b"}),
+            futures[2]: (3, {"plugin": "plugin-c", "ok": True, "stage": "load", "message": "c"}),
+        }
+
+        executor = mock.MagicMock()
+        executor.__enter__.return_value = executor
+        executor.__exit__.return_value = False
+        executor.submit.side_effect = futures
+
+        def future_result(future):
+            return future_to_result[future]
+
+        for future in futures:
+            future.result.side_effect = lambda _timeout=None, future=future: future_result(future)
+
+        with mock.patch.object(module.concurrent.futures, "ThreadPoolExecutor", return_value=executor) as pool_mock:
+            with mock.patch.object(module.concurrent.futures, "as_completed", return_value=[futures[2], futures[0], futures[1]]):
+                with mock.patch("builtins.print") as print_mock:
+                    results = module.validate_selected_plugins(
+                        selected=selected,
+                        astrbot_path=Path("/tmp/AstrBot"),
+                        script_path=Path("/tmp/run.py"),
+                        work_dir=Path("/tmp/work"),
+                        clone_timeout=60,
+                        load_timeout=300,
+                        max_workers=8,
+                    )
+
+        pool_mock.assert_called_once_with(max_workers=8)
+        self.assertEqual([item["plugin"] for item in results], ["plugin-a", "plugin-b", "plugin-c"])
+        print_mock.assert_any_call("[1/3] Queued plugin-a", flush=True)
+        print_mock.assert_any_call("[3/3] PASS plugin-c [load] c", flush=True)
 
 
 class ValidatePluginTests(unittest.TestCase):
