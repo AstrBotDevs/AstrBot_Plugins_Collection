@@ -6,9 +6,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 37,
+    "stars": 38,
     "version": "2.5.3",
-    "updated_at": "2026-04-24T05:00:38Z",
+    "updated_at": "2026-04-24T10:48:44Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -2307,9 +2307,9 @@
     ],
     "social_link": "https://github.com/RichardLiuda",
     "category": "utilities",
-    "stars": 22,
+    "stars": 23,
     "version": "v2.2.2",
-    "updated_at": "2026-04-23T17:17:17Z",
+    "updated_at": "2026-04-24T11:18:21Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -3111,8 +3111,8 @@
     ],
     "category": "entertainment",
     "stars": 7,
-    "version": "v1.2.4",
-    "updated_at": "2026-04-23T07:22:56Z",
+    "version": "v2.1",
+    "updated_at": "2026-04-24T11:35:47Z",
     "logo": "https://raw.githubusercontent.com/qsc20001102/astrbot_plugin_jx3/main/logo.png"
   },
   "astrbot-plugin-zirunbi": {
@@ -3939,9 +3939,9 @@
     ],
     "social_link": "https://www.cnmsb.xin",
     "category": "entertainment",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.9.0",
-    "updated_at": "2026-04-05T18:35:44Z",
+    "updated_at": "2026-04-24T11:45:57Z",
     "logo": "https://raw.githubusercontent.com/NyaNyagulugulu/astrbot_NekoMusic/main/logo.png"
   },
   "astrbot_plugin_mooncell_finder": {
@@ -5843,9 +5843,9 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_custom_menu",
     "category": "utilities",
     "tags": [],
-    "stars": 18,
+    "stars": 19,
     "version": "1.9.1",
-    "updated_at": "2026-03-21T16:09:11Z",
+    "updated_at": "2026-04-24T11:20:29Z",
     "logo": "https://raw.githubusercontent.com/shskjw/astrbot_plugin_custom_menu/master/logo.png"
   },
   "astrbot_plugin_webnovel_info": {
@@ -7531,9 +7531,9 @@
       "推特"
     ],
     "category": "utilities",
-    "stars": 38,
+    "stars": 39,
     "version": "v6.0.0",
-    "updated_at": "2026-04-24T01:59:30Z",
+    "updated_at": "2026-04-24T10:31:25Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -8087,8 +8087,8 @@
     "category": "ai_tools",
     "tags": [],
     "stars": 19,
-    "version": "V2.2.0",
-    "updated_at": "2026-04-24T08:42:51Z",
+    "version": "V2.3.0",
+    "updated_at": "2026-04-24T10:39:56Z",
     "logo": "https://raw.githubusercontent.com/SatenShiroya/astrbot_plugin_llm_qqgroupTools/master/logo.png"
   },
   "astrbot_plugin_cs_skins": {
@@ -9597,7 +9597,7 @@
     "tags": [],
     "stars": 56,
     "version": "v2.8.1",
-    "updated_at": "2026-04-24T09:44:23Z"
+    "updated_at": "2026-04-24T10:33:19Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
