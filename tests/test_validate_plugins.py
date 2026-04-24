@@ -386,6 +386,18 @@ class HelperFunctionTests(unittest.TestCase):
 
 
 class DummyContextStubTests(unittest.IsolatedAsyncioTestCase):
+    def test_dummy_context_returns_worker_data_dir_for_plugin_storage(self):
+        module = load_validator_module()
+
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            astrbot_root = Path(tmp_dir) / "astrbot-root"
+            with mock.patch.dict(os.environ, {"ASTRBOT_ROOT": str(astrbot_root)}, clear=True):
+                data_dir = Path(module.DummyContext().get_data_dir())
+                data_dir_exists = data_dir.is_dir()
+
+        self.assertEqual(data_dir.resolve(), (astrbot_root / "data" / "plugin_data").resolve())
+        self.assertTrue(data_dir_exists)
+
     async def test_null_stub_supports_async_database_context_pattern(self):
         module = load_validator_module()
 
@@ -410,6 +422,16 @@ class DummyContextStubTests(unittest.IsolatedAsyncioTestCase):
                 int(os.environ.get("DASHBOARD_PORT", dashboard_config.get("port", 6185))),
                 6185,
             )
+
+    def test_dummy_context_exposes_dict_like_config_defaults(self):
+        module = load_validator_module()
+
+        with mock.patch.dict(os.environ, {}, clear=True):
+            context = module.DummyContext()
+
+        self.assertEqual(context.get_config()["wake_prefix"], [])
+        self.assertEqual(context.get_config()["dashboard"].get("port", 6185), 6185)
+        self.assertEqual(context._config.get("expire_seconds", 300), 300)
 
 
 class ValidationProgressTests(unittest.TestCase):
