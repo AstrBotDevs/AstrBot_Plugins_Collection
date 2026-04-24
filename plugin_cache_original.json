@@ -6,9 +6,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 36,
+    "stars": 37,
     "version": "2.5.3",
-    "updated_at": "2026-04-23T17:01:18Z",
+    "updated_at": "2026-04-24T05:00:38Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -427,9 +427,9 @@
       "人格绑定"
     ],
     "social_link": "",
-    "stars": 4,
+    "stars": 5,
     "version": "0.3.1",
-    "updated_at": "2026-04-19T17:30:57Z"
+    "updated_at": "2026-04-24T02:56:35Z"
   },
   "astrbot-plugin-terraria-server-manager": {
     "display_name": "泰拉服务器管理",
@@ -615,9 +615,9 @@
       "股票"
     ],
     "social_link": "https://github.com/YYY7C",
-    "stars": 11,
+    "stars": 12,
     "version": "1.2.0",
-    "updated_at": "2026-04-23T08:49:55Z",
+    "updated_at": "2026-04-24T05:16:32Z",
     "logo": "https://raw.githubusercontent.com/YYY7C/TradingAgents-AstrBot/main/logo.png"
   },
   "astrbot-plugin-sts2-data": {
@@ -851,9 +851,9 @@
       "知识管理",
       "AI Agent"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-03-23T16:11:53Z"
+    "updated_at": "2026-04-24T02:53:38Z"
   },
   "astrbot-plugin-x-score": {
     "display_name": "X账号评分",
@@ -3297,9 +3297,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 120,
+    "stars": 121,
     "version": "v2.0.7",
-    "updated_at": "2026-04-21T18:14:55Z",
+    "updated_at": "2026-04-24T04:06:03Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -4662,9 +4662,9 @@
     "repo": "https://github.com/2529huang/astrbot_plugin_fund_analyzer",
     "category": "productivity",
     "tags": [],
-    "stars": 13,
+    "stars": 14,
     "version": "2.0.0",
-    "updated_at": "2026-04-21T03:24:50Z",
+    "updated_at": "2026-04-24T05:32:02Z",
     "logo": "https://raw.githubusercontent.com/2529huang/astrbot_plugin_fund_analyzer/master/logo.png"
   },
   "astrbot_plugin_CNKD_Admin": {
@@ -7468,9 +7468,9 @@
       "私聊"
     ],
     "category": "ai_tools",
-    "stars": 26,
+    "stars": 27,
     "version": "2.3.0",
-    "updated_at": "2026-04-05T13:32:35Z",
+    "updated_at": "2026-04-24T03:05:00Z",
     "logo": "https://raw.githubusercontent.com/aliveriver/astrbot_plugin_continuous_message/master/logo.png"
   },
   "astrbot_plugin_llm_amnesia": {
@@ -12300,9 +12300,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 146,
+    "stars": 147,
     "version": "v2.1.0",
-    "updated_at": "2026-04-22T14:25:41Z",
+    "updated_at": "2026-04-24T03:36:53Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -13194,9 +13194,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "entertainment",
-    "stars": 226,
+    "stars": 227,
     "version": "v3.0.3",
-    "updated_at": "2026-04-23T04:45:58Z",
+    "updated_at": "2026-04-24T03:03:23Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -15061,9 +15061,9 @@
     ],
     "pinned": true,
     "category": "entertainment",
-    "stars": 247,
+    "stars": 248,
     "version": "v3.20",
-    "updated_at": "2026-04-23T11:22:43Z"
+    "updated_at": "2026-04-24T04:11:11Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
