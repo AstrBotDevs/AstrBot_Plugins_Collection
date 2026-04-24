@@ -1,0 +1,118 @@
+name: Validate Plugin Smoke
+
+on:
+  pull_request:
+    paths:
+      - "plugins.json"
+      - "scripts/validate_plugins/**"
+      - ".github/workflows/validate-plugin-smoke.yml"
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+    inputs:
+      plugin_names:
+        description: "Comma-separated plugin keys from plugins.json"
+        required: false
+        default: ""
+      plugin_limit:
+        description: "Validate the first N plugins when plugin_names is empty. Leave blank or use -1 for all plugins"
+        required: false
+        default: ""
+      astrbot_ref:
+        description: "AstrBot git ref to validate against"
+        required: false
+        default: "master"
+      max_workers:
+        description: "Maximum concurrent plugin validations"
+        required: false
+        default: "8"
+
+jobs:
+  validate-plugin-smoke:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Set manual validation inputs
+        if: github.event_name == 'workflow_dispatch'
+        run: |
+          echo "ASTRBOT_REF=${{ inputs.astrbot_ref }}" >> "$GITHUB_ENV"
+          echo "PLUGIN_NAME_LIST=${{ inputs.plugin_names }}" >> "$GITHUB_ENV"
+          echo "PLUGIN_LIMIT=${{ inputs.plugin_limit }}" >> "$GITHUB_ENV"
+          echo "MAX_WORKERS=${{ inputs.max_workers }}" >> "$GITHUB_ENV"
+          echo "SHOULD_VALIDATE=true" >> "$GITHUB_ENV"
+
+      - name: Set scheduled validation inputs
+        if: github.event_name == 'schedule'
+        run: |
+          echo "ASTRBOT_REF=master" >> "$GITHUB_ENV"
+          echo "PLUGIN_NAME_LIST=" >> "$GITHUB_ENV"
+          echo "PLUGIN_LIMIT=" >> "$GITHUB_ENV"
+          echo "MAX_WORKERS=8" >> "$GITHUB_ENV"
+          echo "SHOULD_VALIDATE=true" >> "$GITHUB_ENV"
+          echo "VALIDATION_NOTE=Running scheduled full plugin validation." >> "$GITHUB_ENV"
+
+      - name: Detect changed plugins from pull request
+        if: github.event_name == 'pull_request'
+        run: python scripts/validate_plugins/detect_changed_plugins.py
+
+      - name: Show PR diff selection
+        if: github.event_name == 'pull_request'
+        run: |
+          if [ "$SHOULD_VALIDATE" != "true" ]; then
+            printf '%s\n' "${VALIDATION_NOTE:-Smoke validation skipped.}"
+          else
+            printf 'Selected plugins: %s\n' "$PLUGIN_NAME_LIST"
+          fi
+
+      - name: Set up Python
+        if: env.SHOULD_VALIDATE == 'true'
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install validator dependencies
+        if: env.SHOULD_VALIDATE == 'true'
+        run: python -m pip install --upgrade pip pyyaml
+
+      - name: Clone AstrBot
+        if: env.SHOULD_VALIDATE == 'true'
+        run: git clone --depth 1 --branch "$ASTRBOT_REF" "https://github.com/AstrBotDevs/AstrBot" ".cache/AstrBot"
+
+      - name: Install AstrBot dependencies
+        if: env.SHOULD_VALIDATE == 'true'
+        run: python -m pip install -r ".cache/AstrBot/requirements.txt"
+
+      - name: Run plugin smoke validator
+        if: env.SHOULD_VALIDATE == 'true'
+        run: |
+          args=(
+            --astrbot-path ".cache/AstrBot"
+            --report-path "validation-report.json"
+          )
+
+          if [ -n "${PLUGIN_NAME_LIST:-}" ]; then
+            args+=(--plugin-name-list "$PLUGIN_NAME_LIST")
+          fi
+
+          if [ -n "${PLUGIN_LIMIT:-}" ]; then
+            args+=(--limit "$PLUGIN_LIMIT")
+          fi
+
+          if [ -n "${MAX_WORKERS:-}" ]; then
+            args+=(--max-workers "$MAX_WORKERS")
+          fi
+
+          python scripts/validate_plugins/run.py "${args[@]}"
+
+      - name: Upload validation report
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: validation-report
+          path: validation-report.json
+          if-no-files-found: warn
