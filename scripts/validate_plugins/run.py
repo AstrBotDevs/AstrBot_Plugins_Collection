@@ -85,7 +85,7 @@ def select_plugins(
         return selected
 
     items = list(plugins.items())
-    if limit is None:
+    if limit is None or limit < 0:
         return items
     return items[:limit]
 
@@ -173,6 +173,10 @@ def build_worker_command(
     ]
 
 
+def build_worker_sys_path(*, astrbot_root: Path, astrbot_path: Path) -> list[str]:
+    return [str(astrbot_root.resolve()), str(astrbot_path.resolve())]
+
+
 def build_report(results: list[dict]) -> dict:
     passed = sum(1 for result in results if result.get("ok"))
     failed = len(results) - passed
@@ -231,16 +235,17 @@ def parse_worker_output(
 ) -> dict:
     stdout = completed.stdout.strip()
     if stdout:
-        try:
-            payload = json.loads(stdout)
-        except json.JSONDecodeError:
-            payload = None
-        if isinstance(payload, dict):
-            payload["plugin"] = plugin
-            payload["repo"] = repo
-            payload["normalized_repo_url"] = normalized_repo_url
-            payload.setdefault("plugin_dir_name", plugin_dir_name)
-            return payload
+        for line in reversed(stdout.splitlines()):
+            try:
+                payload = json.loads(line)
+            except json.JSONDecodeError:
+                continue
+            if isinstance(payload, dict):
+                payload["plugin"] = plugin
+                payload["repo"] = repo
+                payload["normalized_repo_url"] = normalized_repo_url
+                payload.setdefault("plugin_dir_name", plugin_dir_name)
+                return payload
 
     stderr = completed.stderr.strip()
     message = stderr or stdout or "worker returned no structured output"
@@ -478,7 +483,13 @@ def run_worker(args: argparse.Namespace) -> int:
 
         os.environ["ASTRBOT_ROOT"] = str(astrbot_root)
         os.environ.setdefault("TESTING", "true")
-        sys.path.insert(0, str(Path(args.astrbot_path).resolve()))
+        for entry in reversed(
+            build_worker_sys_path(
+                astrbot_root=astrbot_root,
+                astrbot_path=Path(args.astrbot_path),
+            )
+        ):
+            sys.path.insert(0, entry)
 
         result = asyncio.run(
             run_worker_load_check(args.plugin_dir_name, args.normalized_repo_url)
@@ -506,7 +517,11 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--plugins-json", default="plugins.json")
     parser.add_argument("--plugin-name", action="append", dest="plugin_names")
     parser.add_argument("--plugin-name-list")
-    parser.add_argument("--limit", type=int)
+    parser.add_argument(
+        "--limit",
+        type=int,
+        help="Validate the first N plugins when plugin names are empty. Omit or use -1 for all plugins.",
+    )
     parser.add_argument("--astrbot-path")
     parser.add_argument("--report-path", default="validation-report.json")
     parser.add_argument("--work-dir")

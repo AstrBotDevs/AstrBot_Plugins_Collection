@@ -42,6 +42,36 @@ class NormalizeRepoUrlTests(unittest.TestCase):
 
 
 class SelectPluginsTests(unittest.TestCase):
+    def test_returns_all_plugins_when_limit_is_none(self):
+        module = load_validator_module()
+        plugins = {
+            "plugin-a": {"repo": "https://github.com/example/plugin-a"},
+            "plugin-b": {"repo": "https://github.com/example/plugin-b"},
+        }
+
+        selected = module.select_plugins(
+            plugins=plugins,
+            requested_names=None,
+            limit=None,
+        )
+
+        self.assertEqual([item[0] for item in selected], ["plugin-a", "plugin-b"])
+
+    def test_returns_all_plugins_when_limit_is_negative_one(self):
+        module = load_validator_module()
+        plugins = {
+            "plugin-a": {"repo": "https://github.com/example/plugin-a"},
+            "plugin-b": {"repo": "https://github.com/example/plugin-b"},
+        }
+
+        selected = module.select_plugins(
+            plugins=plugins,
+            requested_names=None,
+            limit=-1,
+        )
+
+        self.assertEqual([item[0] for item in selected], ["plugin-a", "plugin-b"])
+
     def test_prefers_explicit_names_in_requested_order(self):
         module = load_validator_module()
         plugins = {
@@ -100,6 +130,21 @@ class WorkerCommandTests(unittest.TestCase):
         self.assertIn("--normalized-repo-url", command)
 
 
+class WorkerSysPathTests(unittest.TestCase):
+    def test_worker_sys_path_includes_astrbot_root_before_codebase(self):
+        module = load_validator_module()
+
+        sys_path_entries = module.build_worker_sys_path(
+            astrbot_root=Path("/tmp/astrbot-root"),
+            astrbot_path=Path("/tmp/AstrBot"),
+        )
+
+        self.assertEqual(
+            [Path(item) for item in sys_path_entries],
+            [Path("/tmp/astrbot-root").resolve(), Path("/tmp/AstrBot").resolve()],
+        )
+
+
 class ReportBuilderTests(unittest.TestCase):
     def test_build_report_counts_passed_and_failed_results(self):
         module = load_validator_module()
@@ -137,6 +182,27 @@ class WorkerOutputParsingTests(unittest.TestCase):
 
         self.assertEqual(result["plugin"], "market-plugin-key")
         self.assertEqual(result["plugin_dir_name"], "demo_plugin")
+
+    def test_parse_worker_output_uses_last_json_line_after_logs(self):
+        module = load_validator_module()
+        completed = subprocess.CompletedProcess(
+            args=["python3", "run.py"],
+            returncode=1,
+            stdout='log line\n{"plugin": "demo_plugin", "ok": false, "stage": "load", "message": "boom"}',
+            stderr="",
+        )
+
+        result = module.parse_worker_output(
+            plugin="market-plugin-key",
+            repo="https://github.com/example/demo-plugin",
+            normalized_repo_url="https://github.com/example/demo-plugin",
+            completed=completed,
+            plugin_dir_name="demo_plugin",
+        )
+
+        self.assertEqual(result["plugin"], "market-plugin-key")
+        self.assertEqual(result["stage"], "load")
+        self.assertEqual(result["message"], "boom")
 
 
 if __name__ == "__main__":

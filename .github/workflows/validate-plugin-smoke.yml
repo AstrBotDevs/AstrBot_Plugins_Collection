@@ -13,9 +13,9 @@ on:
         required: false
         default: ""
       plugin_limit:
-        description: "Validate the first N plugins when plugin_names is empty"
+        description: "Validate the first N plugins when plugin_names is empty. Leave blank or use -1 for all plugins"
         required: false
-        default: "20"
+        default: ""
       astrbot_ref:
         description: "AstrBot git ref to validate against"
         required: false
