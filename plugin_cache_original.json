@@ -2702,9 +2702,9 @@
     ],
     "social_link": "https://github.com/leafliber",
     "category": "ai_tools",
-    "stars": 25,
+    "stars": 26,
     "version": "v1.11.2",
-    "updated_at": "2026-04-13T15:40:10Z",
+    "updated_at": "2026-04-24T17:28:00Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -4998,9 +4998,9 @@
     ],
     "social_link": "https://www.misakanet.site",
     "category": "ai_tools",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.1",
-    "updated_at": "2026-04-21T15:41:56Z",
+    "updated_at": "2026-04-24T17:47:21Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_image_generation/master/logo.png"
   },
   "astrbot_plugin_group_geetest_verfy": {
@@ -7011,7 +7011,7 @@
     "category": "ai_tools",
     "stars": 39,
     "version": "v1.9.14",
-    "updated_at": "2026-04-23T23:36:16Z",
+    "updated_at": "2026-04-24T17:24:40Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -12202,9 +12202,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 72,
+    "stars": 73,
     "version": "2.2.0",
-    "updated_at": "2026-04-22T22:58:37Z",
+    "updated_at": "2026-04-24T17:30:02Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
