@@ -168,7 +168,7 @@
     ],
     "stars": 1,
     "version": "v1.1.0",
-    "updated_at": "2026-04-23T09:44:07Z",
+    "updated_at": "2026-04-24T09:55:41Z",
     "logo": "https://raw.githubusercontent.com/MillionDreamQAQ/astrbot_plugin_zhihuSummary/main/logo.png"
   },
   "builtin_commands_extension": {
@@ -219,9 +219,9 @@
       "推送"
     ],
     "social_link": "https://github.com/FlanChanXwO",
-    "stars": 15,
+    "stars": 16,
     "version": "v1.0.20",
-    "updated_at": "2026-04-23T15:15:53Z",
+    "updated_at": "2026-04-24T09:15:44Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_rsshub/master/logo.png"
   },
   "astrbot_plugin_scriptor": {
@@ -410,9 +410,9 @@
     "tags": [
       "bilibili"
     ],
-    "stars": 2,
+    "stars": 1,
     "version": "3.0.0",
-    "updated_at": "2026-04-22T06:28:26Z"
+    "updated_at": "2026-04-24T09:19:02Z"
   },
   "astrbot-plugin-touhou-kb": {
     "display_name": "东方知识库",
@@ -5891,9 +5891,9 @@
       "人格"
     ],
     "category": "ai_tools",
-    "stars": 112,
+    "stars": 113,
     "version": "1.3.10",
-    "updated_at": "2026-04-24T02:08:42Z",
+    "updated_at": "2026-04-24T08:38:42Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -5907,9 +5907,9 @@
       "群聊优化"
     ],
     "category": "ai_tools",
-    "stars": 80,
+    "stars": 81,
     "version": "0.8.25",
-    "updated_at": "2026-04-22T22:59:09Z",
+    "updated_at": "2026-04-24T09:08:36Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -8087,8 +8087,8 @@
     "category": "ai_tools",
     "tags": [],
     "stars": 19,
-    "version": "V2.1.0",
-    "updated_at": "2026-04-22T14:25:18Z",
+    "version": "V2.2.0",
+    "updated_at": "2026-04-24T08:42:51Z",
     "logo": "https://raw.githubusercontent.com/SatenShiroya/astrbot_plugin_llm_qqgroupTools/master/logo.png"
   },
   "astrbot_plugin_cs_skins": {
@@ -8265,9 +8265,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 208,
+    "stars": 209,
     "version": "v1.2.2",
-    "updated_at": "2026-04-23T06:52:58Z",
+    "updated_at": "2026-04-24T09:11:10Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -9596,8 +9596,8 @@
     "category": "entertainment",
     "tags": [],
     "stars": 56,
-    "version": "v2.7.9",
-    "updated_at": "2026-04-24T06:49:59Z"
+    "version": "v2.8.1",
+    "updated_at": "2026-04-24T09:44:23Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -10590,9 +10590,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "integrations",
-    "stars": 113,
+    "stars": 114,
     "version": "v3.0.4",
-    "updated_at": "2026-04-21T15:08:29Z",
+    "updated_at": "2026-04-24T08:10:40Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
