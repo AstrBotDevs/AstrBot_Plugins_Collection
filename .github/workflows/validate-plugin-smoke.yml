@@ -86,8 +86,22 @@ jobs:
               if not should_validate:
                   validation_note = "No plugin entries changed in plugins.json; skipping smoke validation."
 
+          astrbot_ref = "master"
+          try:
+              default_head = subprocess.check_output(
+                  ["git", "ls-remote", "--symref", "https://github.com/AstrBotDevs/AstrBot", "HEAD"],
+                  text=True,
+                  stderr=subprocess.DEVNULL,
+              )
+              for line in default_head.splitlines():
+                  if line.startswith("ref: refs/heads/") and line.endswith("\tHEAD"):
+                      astrbot_ref = line.split("refs/heads/", 1)[1].split("\t", 1)[0]
+                      break
+          except subprocess.CalledProcessError:
+              pass
+
           with open(os.environ["GITHUB_ENV"], "a", encoding="utf-8") as handle:
-              handle.write("ASTRBOT_REF=master\n")
+              handle.write(f"ASTRBOT_REF={astrbot_ref}\n")
               handle.write(f"PLUGIN_NAME_LIST={','.join(changed)}\n")
               handle.write("PLUGIN_LIMIT=\n")
               handle.write(f"SHOULD_VALIDATE={'true' if should_validate else 'false'}\n")

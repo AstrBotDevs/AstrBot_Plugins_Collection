@@ -134,9 +134,11 @@ def load_metadata(path: Path) -> dict:
             loaded = yaml.safe_load(text)
         except yaml.YAMLError as exc:
             raise MetadataLoadError(str(exc)) from exc
-        if isinstance(loaded, dict):
-            return loaded
-        return {}
+        if loaded is None:
+            return {}
+        if not isinstance(loaded, dict):
+            raise MetadataLoadError("metadata.yaml must contain a mapping at the top level")
+        return loaded
     return _parse_simple_yaml(path)
 
 

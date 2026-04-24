@@ -243,6 +243,27 @@ class HelperFunctionTests(unittest.TestCase):
         self.assertEqual(metadata, {"name": "from-yaml", "version": "1.0.0"})
         fake_yaml.safe_load.assert_called_once()
 
+    def test_load_metadata_rejects_non_mapping_yaml_root(self):
+        module = load_validator_module()
+
+        with tempfile.NamedTemporaryFile("w", suffix=".yml", delete=False) as handle:
+            handle.write("- item\n")
+            metadata_path = Path(handle.name)
+
+        fake_yaml = mock.Mock()
+        fake_yaml.safe_load.return_value = ["item"]
+        fake_yaml.YAMLError = ValueError
+
+        try:
+            with mock.patch.object(module, "yaml", fake_yaml):
+                with self.assertRaisesRegex(
+                    module.MetadataLoadError,
+                    "metadata.yaml must contain a mapping at the top level",
+                ):
+                    module.load_metadata(metadata_path)
+        finally:
+            os.remove(metadata_path)
+
     def test_load_metadata_uses_simple_parser_when_yaml_unavailable(self):
         module = load_validator_module()
 
@@ -345,6 +366,117 @@ class ValidationProgressTests(unittest.TestCase):
         print_mock.assert_any_call("[1/2] Validating plugin-a", flush=True)
         print_mock.assert_any_call("[1/2] PASS plugin-a [load] ok", flush=True)
         print_mock.assert_any_call("[2/2] FAIL plugin-b [metadata] invalid metadata.yaml", flush=True)
+
+
+class ValidatePluginTests(unittest.TestCase):
+    def setUp(self):
+        self.module = load_validator_module()
+        self.plugin_key = "demo-plugin"
+        self.plugin_data = {"repo": "https://github.com/example/demo-plugin"}
+        self.astrbot_path = Path("/tmp/AstrBot")
+        self.script_path = Path("/tmp/run.py")
+        self.work_dir = Path("/tmp/work")
+
+    def call_validate_plugin(self, plugin_data=None):
+        return self.module.validate_plugin(
+            plugin=self.plugin_key,
+            plugin_data=self.plugin_data if plugin_data is None else plugin_data,
+            astrbot_path=self.astrbot_path,
+            script_path=self.script_path,
+            work_dir=self.work_dir,
+            clone_timeout=30,
+            load_timeout=60,
+        )
+
+    def test_missing_repo_field_sets_repo_url_stage(self):
+        result = self.call_validate_plugin(plugin_data={})
+
+        self.assertFalse(result["ok"])
+        self.assertEqual(result["stage"], "repo_url")
+        self.assertEqual(result["message"], "missing repo field")
+
+    def test_invalid_repo_url_sets_repo_url_stage(self):
+        with mock.patch.object(self.module, "normalize_repo_url", side_effect=ValueError("invalid repo URL")):
+            result = self.call_validate_plugin()
+
+        self.assertFalse(result["ok"])
+        self.assertEqual(result["stage"], "repo_url")
+        self.assertEqual(result["message"], "invalid repo URL")
+
+    def test_clone_called_process_error_uses_stderr_or_stdout(self):
+        error = subprocess.CalledProcessError(
+            returncode=1,
+            cmd=["git", "clone"],
+            output="clone stdout",
+            stderr="clone stderr",
+        )
+
+        with mock.patch.object(self.module, "clone_plugin_repo", side_effect=error):
+            result = self.call_validate_plugin()
+
+        self.assertFalse(result["ok"])
+        self.assertEqual(result["stage"], "clone")
+        self.assertIn("clone stderr", result["message"])
+
+    def test_clone_timeout_uses_process_output_details(self):
+        timeout = subprocess.TimeoutExpired(cmd=["git", "clone"], timeout=30, output="slow", stderr="warning")
+
+        with mock.patch.object(self.module, "clone_plugin_repo", side_effect=timeout):
+            with mock.patch.object(
+                self.module,
+                "build_process_output_details",
+                return_value={"stdout": "slow", "stderr": "warning"},
+            ) as details_mock:
+                result = self.call_validate_plugin()
+
+        self.assertFalse(result["ok"])
+        self.assertEqual(result["stage"], "clone_timeout")
+        self.assertEqual(result["details"], {"stdout": "slow", "stderr": "warning"})
+        details_mock.assert_called_once_with(stdout="slow", stderr="warning")
+
+    def test_precheck_failure_is_mapped_into_result(self):
+        with mock.patch.object(self.module, "clone_plugin_repo"):
+            with mock.patch.object(
+                self.module,
+                "precheck_plugin_directory",
+                return_value={"ok": False, "stage": "metadata", "message": "invalid metadata", "details": "line 3"},
+            ):
+                result = self.call_validate_plugin()
+
+        self.assertFalse(result["ok"])
+        self.assertEqual(result["stage"], "metadata")
+        self.assertEqual(result["message"], "invalid metadata")
+        self.assertEqual(result["details"], "line 3")
+
+    def test_successful_clone_and_precheck_invokes_worker_and_parses_output(self):
+        completed = subprocess.CompletedProcess(
+            args=["python3", "run.py"],
+            returncode=0,
+            stdout='{"ok": true}',
+            stderr="",
+        )
+        parsed_output = {"ok": True, "stage": "load", "message": "plugin loaded successfully"}
+
+        with mock.patch.object(
+            self.module,
+            "precheck_plugin_directory",
+            return_value={"ok": True, "plugin_dir_name": "demo_plugin", "message": "ok", "stage": "precheck"},
+        ) as precheck_mock:
+            with mock.patch.object(self.module, "clone_plugin_repo"):
+                with mock.patch.object(subprocess, "run", return_value=completed) as run_mock:
+                    with mock.patch.object(self.module, "parse_worker_output", return_value=parsed_output) as parse_mock:
+                        result = self.call_validate_plugin()
+
+        self.assertEqual(result, parsed_output)
+        precheck_mock.assert_called_once()
+        run_mock.assert_called_once()
+        parse_mock.assert_called_once_with(
+            plugin=self.plugin_key,
+            repo=self.plugin_data["repo"],
+            normalized_repo_url=self.plugin_data["repo"],
+            completed=completed,
+            plugin_dir_name="demo_plugin",
+        )
 
 
 class MetadataValidationTests(unittest.TestCase):
