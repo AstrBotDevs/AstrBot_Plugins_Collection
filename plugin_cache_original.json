@@ -3920,9 +3920,9 @@
     ],
     "social_link": "https://meilunova.pages.dev/",
     "category": "integrations",
-    "stars": 19,
+    "stars": 20,
     "version": "0.7.0",
-    "updated_at": "2026-04-23T01:23:17Z",
+    "updated_at": "2026-04-24T20:37:08Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -10359,9 +10359,9 @@
     ],
     "social_link": "https://github.com/SodaSizzle",
     "category": "entertainment",
-    "stars": 66,
+    "stars": 65,
     "version": "v2.1",
-    "updated_at": "2026-04-23T08:17:02Z",
+    "updated_at": "2026-04-24T20:50:23Z",
     "logo": "https://raw.githubusercontent.com/SodaSizzle/astrbot_plugin_meme_generator/master/logo.png"
   },
   "astrbot_plugin_baiduocr": {
