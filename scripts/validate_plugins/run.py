@@ -630,6 +630,21 @@ class NullStub:
 
         return _return_self().__await__()
 
+    async def __aenter__(self) -> "NullStub":
+        return self
+
+    async def __aexit__(self, exc_type, exc, tb) -> bool:
+        del exc_type, exc, tb
+        return False
+
+    def get(self, key=None, default=None):
+        del key
+        return default
+
+    def pop(self, key=None, default=None):
+        del key
+        return default
+
     def __iter__(self):
         return iter(())
 

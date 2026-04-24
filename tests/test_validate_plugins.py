@@ -385,6 +385,33 @@ class HelperFunctionTests(unittest.TestCase):
             os.remove(index_path)
 
 
+class DummyContextStubTests(unittest.IsolatedAsyncioTestCase):
+    async def test_null_stub_supports_async_database_context_pattern(self):
+        module = load_validator_module()
+
+        db = module.DummyContext().get_db()
+
+        async with db.get_db() as session:
+            self.assertIsInstance(session, module.NullStub)
+            async with session.begin() as transaction:
+                self.assertIs(transaction, session)
+            result = await session.execute("SELECT 1")
+
+        self.assertIs(result, session)
+
+    async def test_null_stub_returns_defaults_for_restart_style_config_access(self):
+        module = load_validator_module()
+
+        with mock.patch.dict(os.environ, {}, clear=True):
+            dashboard_config = module.DummyContext().get_config().get("dashboard", {})
+
+            self.assertEqual(dashboard_config.get("host", "127.0.0.1"), "127.0.0.1")
+            self.assertEqual(
+                int(os.environ.get("DASHBOARD_PORT", dashboard_config.get("port", 6185))),
+                6185,
+            )
+
+
 class ValidationProgressTests(unittest.TestCase):
     def test_build_parser_defaults_max_workers_to_sixteen(self):
         module = load_validator_module()
