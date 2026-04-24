@@ -98,13 +98,27 @@ def select_plugins(
 
 
 def _parse_simple_yaml(path: Path) -> dict:
+    def parse_value(raw_value: str) -> str:
+        value = raw_value.strip()
+        if not value:
+            return ""
+
+        if value[0] in {'"', "'"}:
+            quote = value[0]
+            end_index = value.rfind(quote)
+            if end_index > 0:
+                return value[1:end_index]
+
+        value = re.split(r"\s+#", value, maxsplit=1)[0].rstrip()
+        return value.strip("\"'")
+
     result = {}
     for raw_line in path.read_text(encoding="utf-8").splitlines():
         line = raw_line.strip()
         if not line or line.startswith("#") or ":" not in line:
             continue
         key, value = line.split(":", 1)
-        result[key.strip()] = value.strip().strip("\"'")
+        result[key.strip()] = parse_value(value)
     return result
 
 
@@ -219,11 +233,17 @@ def load_plugins_index(path: Path) -> dict[str, dict]:
     data = json.loads(path.read_text(encoding="utf-8"))
     if not isinstance(data, dict):
         raise ValueError("plugins.json must contain a JSON object")
-    result = {}
+
     for key, value in data.items():
-        if isinstance(key, str) and isinstance(value, dict):
-            result[key] = value
-    return result
+        if not isinstance(key, str):
+            raise ValueError(
+                f"plugins.json keys must be strings, got {type(key).__name__!r}: {key!r}"
+            )
+        if not isinstance(value, dict):
+            raise ValueError(
+                f"plugins.json values must be objects/dicts; key {key!r} has {type(value).__name__!r}"
+            )
+    return data
 
 
 def combine_requested_names(
@@ -429,6 +449,39 @@ def validate_plugin(
         completed=completed,
         plugin_dir_name=plugin_dir_name,
     )
+
+
+def validate_selected_plugins(
+    *,
+    selected: list[tuple[str, dict]],
+    astrbot_path: Path,
+    script_path: Path,
+    work_dir: Path,
+    clone_timeout: int,
+    load_timeout: int,
+) -> list[dict]:
+    results = []
+    total = len(selected)
+
+    for index, (plugin, plugin_data) in enumerate(selected, start=1):
+        print(f"[{index}/{total}] Validating {plugin}", flush=True)
+        result = validate_plugin(
+            plugin=plugin,
+            plugin_data=plugin_data,
+            astrbot_path=astrbot_path,
+            script_path=script_path,
+            work_dir=work_dir,
+            clone_timeout=clone_timeout,
+            load_timeout=load_timeout,
+        )
+        results.append(result)
+
+        status = "PASS" if result.get("ok") else "FAIL"
+        stage = result.get("stage", "unknown")
+        message = result.get("message", "")
+        print(f"[{index}/{total}] {status} {plugin} [{stage}] {message}", flush=True)
+
+    return results
 
 
 class NullStub:
@@ -646,18 +699,14 @@ def main() -> int:
     work_dir.mkdir(parents=True, exist_ok=True)
 
     try:
-        results = [
-            validate_plugin(
-                plugin=plugin,
-                plugin_data=plugin_data,
-                astrbot_path=Path(args.astrbot_path).resolve(),
-                script_path=Path(__file__).resolve(),
-                work_dir=work_dir,
-                clone_timeout=args.clone_timeout,
-                load_timeout=args.load_timeout,
-            )
-            for plugin, plugin_data in selected
-        ]
+        results = validate_selected_plugins(
+            selected=selected,
+            astrbot_path=Path(args.astrbot_path).resolve(),
+            script_path=Path(__file__).resolve(),
+            work_dir=work_dir,
+            clone_timeout=args.clone_timeout,
+            load_timeout=args.load_timeout,
+        )
     finally:
         if temp_dir is not None:
             temp_dir.cleanup()

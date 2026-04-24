@@ -46,6 +46,7 @@ jobs:
           import json
           import os
           import subprocess
+          import sys
           from pathlib import Path
 
           base_ref = os.environ["GITHUB_BASE_REF"]
@@ -70,9 +71,11 @@ jobs:
               if not isinstance(head, dict):
                   raise ValueError("plugins.json must contain a JSON object")
           except (json.JSONDecodeError, ValueError) as exc:
-              changed = []
-              should_validate = False
-              validation_note = f"Skipping smoke validation because plugins.json is invalid on the PR head: {exc}"
+              print(
+                  f"plugins.json is invalid on the PR head; smoke validation cannot continue: {exc}",
+                  file=sys.stderr,
+              )
+              raise SystemExit(1)
           else:
               changed = [
                   name

@@ -1,9 +1,12 @@
 import importlib.util
+import json
+import os
 import subprocess
 import sys
 import tempfile
 import unittest
 from pathlib import Path
+from unittest import mock
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -194,6 +197,154 @@ class HelperFunctionTests(unittest.TestCase):
         )
 
         self.assertEqual(details, {"stdout": "line one\nline two", "stderr": "warning"})
+
+    def test_parse_simple_yaml_handles_comments_quotes_and_whitespace(self):
+        module = load_validator_module()
+
+        with tempfile.NamedTemporaryFile("w", suffix=".yml", delete=False) as handle:
+            handle.write(
+                """
+                # leading comment
+
+                key1: value1      # trailing comment
+                key2: \" spaced value \"
+                key3: 'another value'
+                key4: value-with-#-hash
+                """
+            )
+            metadata_path = Path(handle.name)
+
+        try:
+            parsed = module._parse_simple_yaml(metadata_path)
+        finally:
+            os.remove(metadata_path)
+
+        self.assertEqual(parsed["key1"], "value1")
+        self.assertEqual(parsed["key2"], " spaced value ")
+        self.assertEqual(parsed["key3"], "another value")
+        self.assertEqual(parsed["key4"], "value-with-#-hash")
+
+    def test_load_metadata_uses_yaml_safe_load_when_available(self):
+        module = load_validator_module()
+
+        with tempfile.NamedTemporaryFile("w", suffix=".yml", delete=False) as handle:
+            handle.write("name: should-be-overridden\n")
+            metadata_path = Path(handle.name)
+
+        fake_yaml = mock.Mock()
+        fake_yaml.safe_load.return_value = {"name": "from-yaml", "version": "1.0.0"}
+
+        try:
+            with mock.patch.object(module, "yaml", fake_yaml):
+                metadata = module.load_metadata(metadata_path)
+        finally:
+            os.remove(metadata_path)
+
+        self.assertEqual(metadata, {"name": "from-yaml", "version": "1.0.0"})
+        fake_yaml.safe_load.assert_called_once()
+
+    def test_load_metadata_uses_simple_parser_when_yaml_unavailable(self):
+        module = load_validator_module()
+
+        with tempfile.NamedTemporaryFile("w", suffix=".yml", delete=False) as handle:
+            handle.write(
+                """
+                name: demo-plugin
+                version: \"0.2.3\"
+                """
+            )
+            metadata_path = Path(handle.name)
+
+        yaml_backup = getattr(module, "yaml", None)
+        try:
+            module.yaml = None
+            metadata = module.load_metadata(metadata_path)
+        finally:
+            module.yaml = yaml_backup
+            os.remove(metadata_path)
+
+        self.assertEqual(metadata.get("name"), "demo-plugin")
+        self.assertEqual(metadata.get("version"), "0.2.3")
+
+    def test_load_plugins_index_accepts_valid_object(self):
+        module = load_validator_module()
+
+        index_obj = {
+            "good-plugin": {"name": "Good Plugin", "repo": "https://github.com/example/good"},
+            "another-plugin": {"name": "Another Plugin"},
+        }
+
+        with tempfile.NamedTemporaryFile("w", suffix=".json", delete=False) as handle:
+            json.dump(index_obj, handle)
+            index_path = Path(handle.name)
+
+        try:
+            plugins = module.load_plugins_index(index_path)
+        finally:
+            os.remove(index_path)
+
+        self.assertEqual(plugins, index_obj)
+
+    def test_load_plugins_index_rejects_json_array(self):
+        module = load_validator_module()
+
+        with tempfile.NamedTemporaryFile("w", suffix=".json", delete=False) as handle:
+            json.dump([{"name": "array-entry"}], handle)
+            index_path = Path(handle.name)
+
+        try:
+            with self.assertRaisesRegex(ValueError, "plugins.json must contain a JSON object"):
+                module.load_plugins_index(index_path)
+        finally:
+            os.remove(index_path)
+
+    def test_load_plugins_index_rejects_non_dict_values(self):
+        module = load_validator_module()
+
+        index_obj = {
+            "valid-plugin": {"name": "Valid Plugin", "repo": "https://github.com/example/valid"},
+            "not-a-dict": "just-a-string",
+        }
+
+        with tempfile.NamedTemporaryFile("w", suffix=".json", delete=False) as handle:
+            json.dump(index_obj, handle)
+            index_path = Path(handle.name)
+
+        try:
+            with self.assertRaisesRegex(ValueError, "plugins.json values must be objects/dicts"):
+                module.load_plugins_index(index_path)
+        finally:
+            os.remove(index_path)
+
+
+class ValidationProgressTests(unittest.TestCase):
+    def test_validate_selected_plugins_emits_progress_and_result_lines(self):
+        module = load_validator_module()
+        selected = [
+            ("plugin-a", {"repo": "https://github.com/example/plugin-a"}),
+            ("plugin-b", {"repo": "https://github.com/example/plugin-b"}),
+        ]
+        fake_results = [
+            {"plugin": "plugin-a", "ok": True, "stage": "load", "message": "ok"},
+            {"plugin": "plugin-b", "ok": False, "stage": "metadata", "message": "invalid metadata.yaml"},
+        ]
+
+        with mock.patch.object(module, "validate_plugin", side_effect=fake_results) as validate_mock:
+            with mock.patch("builtins.print") as print_mock:
+                results = module.validate_selected_plugins(
+                    selected=selected,
+                    astrbot_path=Path("/tmp/AstrBot"),
+                    script_path=Path("/tmp/run.py"),
+                    work_dir=Path("/tmp/work"),
+                    clone_timeout=60,
+                    load_timeout=300,
+                )
+
+        self.assertEqual(results, fake_results)
+        self.assertEqual(validate_mock.call_count, 2)
+        print_mock.assert_any_call("[1/2] Validating plugin-a", flush=True)
+        print_mock.assert_any_call("[1/2] PASS plugin-a [load] ok", flush=True)
+        print_mock.assert_any_call("[2/2] FAIL plugin-b [metadata] invalid metadata.yaml", flush=True)
 
 
 class MetadataValidationTests(unittest.TestCase):
