@@ -30,7 +30,7 @@ except ImportError:  # pragma: no cover - optional in local unit tests
 
 REQUIRED_METADATA_FIELDS = ("name", "desc", "version", "author")
 DEFAULT_CLONE_TIMEOUT = 120
-DEFAULT_MAX_WORKERS = 8
+DEFAULT_MAX_WORKERS = 16
 CONFLICT_MARKERS = ("<<<<<<<", "=======", ">>>>>>>")
 
 
@@ -280,6 +280,38 @@ def build_worker_command(
 
 def build_worker_sys_path(*, astrbot_root: Path, astrbot_path: Path) -> list[str]:
     return [str(astrbot_root.resolve()), str(astrbot_path.resolve())]
+
+
+def normalize_path_for_comparison(path: str | os.PathLike[str]) -> str:
+    path_str = os.fspath(path)
+    return os.path.normcase(os.path.realpath(os.path.abspath(os.path.expanduser(path_str))))
+
+
+def configure_worker_install_target(*, temp_root: Path) -> Path:
+    """Configure process-global install/import state for a validator worker.
+
+    This mutates ``os.environ`` and ``sys.path`` for the lifetime of the worker
+    process so plugin dependency installs stay isolated under ``temp_root``.
+    """
+
+    site_packages = (temp_root / "site-packages").resolve()
+    site_packages.mkdir(parents=True, exist_ok=True)
+    site_packages_str = str(site_packages)
+    site_packages_key = normalize_path_for_comparison(site_packages_str)
+
+    os.environ["PIP_TARGET"] = site_packages_str
+    existing_pythonpath = [
+        entry
+        for entry in os.environ.get("PYTHONPATH", "").split(os.pathsep)
+        if entry and normalize_path_for_comparison(entry) != site_packages_key
+    ]
+    os.environ["PYTHONPATH"] = os.pathsep.join([site_packages_str, *existing_pythonpath])
+
+    sys.path[:] = [
+        entry for entry in sys.path if normalize_path_for_comparison(entry) != site_packages_key
+    ]
+    sys.path.insert(0, site_packages_str)
+    return site_packages
 
 
 def build_report(results: list[dict]) -> dict:
@@ -700,6 +732,8 @@ async def run_worker_load_check(plugin_dir_name: str, normalized_repo_url: str) 
 def run_worker(args: argparse.Namespace) -> int:
     temp_root = Path(tempfile.mkdtemp(prefix="astrbot-plugin-worker-"))
     try:
+        configure_worker_install_target(temp_root=temp_root)
+
         astrbot_root = temp_root / "astrbot-root"
         plugin_store = astrbot_root / "data" / "plugins"
         plugin_config = astrbot_root / "data" / "config"

@@ -386,12 +386,12 @@ class HelperFunctionTests(unittest.TestCase):
 
 
 class ValidationProgressTests(unittest.TestCase):
-    def test_build_parser_defaults_max_workers_to_eight(self):
+    def test_build_parser_defaults_max_workers_to_sixteen(self):
         module = load_validator_module()
 
         args = module.build_parser().parse_args(["--astrbot-path", "/tmp/AstrBot"])
 
-        self.assertEqual(args.max_workers, 8)
+        self.assertEqual(args.max_workers, 16)
 
     def test_build_parser_rejects_non_positive_worker_and_timeout_values(self):
         module = load_validator_module()
@@ -746,6 +746,131 @@ class WorkerLoadCheckTests(unittest.IsolatedAsyncioTestCase):
         self.assertFalse(result["ok"])
         self.assertEqual(result["stage"], "load")
         self.assertEqual(result["message"], "{'reason': 'boom'}")
+
+
+class RunWorkerIsolationTests(unittest.TestCase):
+    def _assert_worker_isolated(self, *, temp_root: Path, args, observed: dict) -> None:
+        self.assertIn("astrbot_root", observed)
+        astrbot_root = Path(observed["astrbot_root"]).resolve()
+        shared_astrbot_path = Path(args.astrbot_path).resolve()
+
+        self.assertNotEqual(astrbot_root, shared_astrbot_path)
+        self.assertTrue(
+            astrbot_root.is_relative_to(temp_root.resolve()),
+            f"worker astrbot_root {astrbot_root} should be under {temp_root}",
+        )
+
+        current = astrbot_root
+        found_worker_prefix = False
+        while True:
+            if current.name.startswith("astrbot-plugin-worker-"):
+                found_worker_prefix = True
+                break
+            if current.parent == current:
+                break
+            current = current.parent
+
+        self.assertTrue(found_worker_prefix)
+        self.assertTrue((astrbot_root / "data" / "plugins").is_dir())
+        self.assertTrue((astrbot_root / "data" / "config").is_dir())
+
+    def test_configure_worker_install_target_deduplicates_process_paths(self):
+        module = load_validator_module()
+        original_sys_path = list(sys.path)
+
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            temp_root = Path(tmp_dir)
+            site_packages = (temp_root / "site-packages").resolve()
+            site_packages_alias = os.path.join(str(site_packages.parent), ".", site_packages.name)
+            extra_path = (temp_root / "extra-path").resolve()
+            extra_path.mkdir()
+            observed = {}
+
+            sys.path[:0] = [str(site_packages), site_packages_alias]
+            with mock.patch.dict(
+                os.environ,
+                {"PYTHONPATH": os.pathsep.join([site_packages_alias, str(extra_path)])},
+                clear=True,
+            ):
+                module.configure_worker_install_target(temp_root=temp_root)
+                module.configure_worker_install_target(temp_root=temp_root)
+
+                observed["pip_target"] = os.environ["PIP_TARGET"]
+                observed["pythonpath_entries"] = os.environ["PYTHONPATH"].split(os.pathsep)
+                observed["resolved_pythonpath_count"] = sum(
+                    1
+                    for entry in observed["pythonpath_entries"]
+                    if Path(entry).resolve() == site_packages
+                )
+                observed["resolved_sys_path_count"] = sum(
+                    1 for entry in sys.path if Path(entry).resolve() == site_packages
+                )
+
+            self.assertEqual(observed["pip_target"], str(site_packages))
+            self.assertEqual(observed["resolved_pythonpath_count"], 1)
+            self.assertEqual(observed["resolved_sys_path_count"], 1)
+            self.assertIn(str(extra_path), observed["pythonpath_entries"])
+
+        sys.path[:] = original_sys_path
+
+    def test_run_worker_isolates_plugin_installs_under_temp_root(self):
+        module = load_validator_module()
+        observed = {}
+        original_sys_path = list(sys.path)
+
+        async def fake_run_worker_load_check(plugin_dir_name: str, normalized_repo_url: str):
+            observed["plugin_dir_name"] = plugin_dir_name
+            observed["normalized_repo_url"] = normalized_repo_url
+            observed["astrbot_root"] = os.environ.get("ASTRBOT_ROOT")
+            observed["pip_target"] = os.environ.get("PIP_TARGET")
+            observed["sys_path"] = list(sys.path)
+            return module.build_result(
+                plugin=plugin_dir_name,
+                repo=normalized_repo_url,
+                normalized_repo_url=normalized_repo_url,
+                ok=True,
+                stage="load",
+                message="plugin loaded successfully",
+                plugin_dir_name=plugin_dir_name,
+            )
+
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            worker_temp_root = Path(tmp_dir) / "astrbot-plugin-worker-test-root"
+            worker_temp_root.mkdir()
+            plugin_source_dir = Path(tmp_dir) / "plugin-src"
+            plugin_source_dir.mkdir()
+            (plugin_source_dir / "main.py").write_text("print('hello')\n", encoding="utf-8")
+            args = module.argparse.Namespace(
+                astrbot_path="/tmp/AstrBot",
+                plugin_source_dir=str(plugin_source_dir),
+                plugin_dir_name="demo_plugin",
+                normalized_repo_url="https://github.com/example/demo-plugin",
+            )
+
+            with mock.patch.dict(os.environ, {}, clear=True):
+                with mock.patch.object(module, "run_worker_load_check", side_effect=fake_run_worker_load_check):
+                    with mock.patch.object(module.tempfile, "mkdtemp", return_value=str(worker_temp_root)):
+                        with mock.patch.object(module.shutil, "rmtree") as rmtree_mock:
+                            exit_code = module.run_worker(args)
+
+            self._assert_worker_isolated(temp_root=worker_temp_root, args=args, observed=observed)
+            rmtree_mock.assert_called_once_with(worker_temp_root, ignore_errors=True)
+
+        sys.path[:] = original_sys_path
+
+        self.assertEqual(exit_code, 0)
+        self.assertEqual(observed["plugin_dir_name"], "demo_plugin")
+        self.assertEqual(
+            observed["normalized_repo_url"],
+            "https://github.com/example/demo-plugin",
+        )
+        self.assertIsNotNone(observed["astrbot_root"])
+        self.assertIsNotNone(observed["pip_target"])
+        self.assertEqual(
+            Path(observed["pip_target"]).resolve(),
+            (Path(observed["astrbot_root"]).parent / "site-packages").resolve(),
+        )
+        self.assertIn(observed["pip_target"], observed["sys_path"])
 
 
 class ReportBuilderTests(unittest.TestCase):
