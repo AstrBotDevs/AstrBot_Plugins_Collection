@@ -781,14 +781,15 @@ class RunWorkerIsolationTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as tmp_dir:
             temp_root = Path(tmp_dir)
             site_packages = (temp_root / "site-packages").resolve()
+            site_packages_alias = os.path.join(str(site_packages.parent), ".", site_packages.name)
             extra_path = (temp_root / "extra-path").resolve()
             extra_path.mkdir()
             observed = {}
 
-            sys.path[:0] = [str(site_packages), str(site_packages)]
+            sys.path[:0] = [str(site_packages), site_packages_alias]
             with mock.patch.dict(
                 os.environ,
-                {"PYTHONPATH": os.pathsep.join([str(site_packages), str(extra_path)])},
+                {"PYTHONPATH": os.pathsep.join([site_packages_alias, str(extra_path)])},
                 clear=True,
             ):
                 module.configure_worker_install_target(temp_root=temp_root)
@@ -796,11 +797,18 @@ class RunWorkerIsolationTests(unittest.TestCase):
 
                 observed["pip_target"] = os.environ["PIP_TARGET"]
                 observed["pythonpath_entries"] = os.environ["PYTHONPATH"].split(os.pathsep)
-                observed["sys_path_count"] = sys.path.count(str(site_packages))
+                observed["resolved_pythonpath_count"] = sum(
+                    1
+                    for entry in observed["pythonpath_entries"]
+                    if Path(entry).resolve() == site_packages
+                )
+                observed["resolved_sys_path_count"] = sum(
+                    1 for entry in sys.path if Path(entry).resolve() == site_packages
+                )
 
             self.assertEqual(observed["pip_target"], str(site_packages))
-            self.assertEqual(observed["pythonpath_entries"].count(str(site_packages)), 1)
-            self.assertEqual(observed["sys_path_count"], 1)
+            self.assertEqual(observed["resolved_pythonpath_count"], 1)
+            self.assertEqual(observed["resolved_sys_path_count"], 1)
             self.assertIn(str(extra_path), observed["pythonpath_entries"])
 
         sys.path[:] = original_sys_path
