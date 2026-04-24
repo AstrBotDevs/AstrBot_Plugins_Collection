@@ -393,6 +393,18 @@ class ValidationProgressTests(unittest.TestCase):
 
         self.assertEqual(args.max_workers, 8)
 
+    def test_build_parser_rejects_non_positive_worker_and_timeout_values(self):
+        module = load_validator_module()
+
+        with self.assertRaises(SystemExit):
+            module.build_parser().parse_args(["--astrbot-path", "/tmp/AstrBot", "--max-workers", "0"])
+
+        with self.assertRaises(SystemExit):
+            module.build_parser().parse_args(["--astrbot-path", "/tmp/AstrBot", "--clone-timeout", "0"])
+
+        with self.assertRaises(SystemExit):
+            module.build_parser().parse_args(["--astrbot-path", "/tmp/AstrBot", "--load-timeout", "0"])
+
     def test_validate_selected_plugins_emits_progress_and_result_lines(self):
         module = load_validator_module()
         selected = [
@@ -545,6 +557,51 @@ class ValidatePluginTests(unittest.TestCase):
         self.assertEqual(result["stage"], "metadata")
         self.assertEqual(result["message"], "invalid metadata")
         self.assertEqual(result["details"], "line 3")
+
+    def test_precheck_warning_is_non_fatal_in_final_result(self):
+        with mock.patch.object(self.module, "clone_plugin_repo"):
+            with mock.patch.object(
+                self.module,
+                "precheck_plugin_directory",
+                return_value={
+                    "ok": False,
+                    "severity": "warn",
+                    "stage": "metadata",
+                    "message": "missing required metadata fields: desc",
+                },
+            ):
+                result = self.call_validate_plugin()
+
+        self.assertTrue(result["ok"])
+        self.assertEqual(result["severity"], "warn")
+        self.assertEqual(result["stage"], "metadata")
+
+    def test_load_timeout_uses_process_output_details(self):
+        timeout = subprocess.TimeoutExpired(
+            cmd=[sys.executable, str(self.script_path)],
+            timeout=60,
+            output="timeout-stdout",
+            stderr="timeout-stderr",
+        )
+
+        with mock.patch.object(
+            self.module,
+            "precheck_plugin_directory",
+            return_value={"ok": True, "plugin_dir_name": "demo-plugin", "message": "ok", "stage": "precheck"},
+        ):
+            with mock.patch.object(self.module, "clone_plugin_repo"):
+                with mock.patch.object(subprocess, "run", side_effect=timeout):
+                    with mock.patch.object(
+                        self.module,
+                        "build_process_output_details",
+                        return_value={"stdout": "timeout-stdout", "stderr": "timeout-stderr"},
+                    ) as details_mock:
+                        result = self.call_validate_plugin()
+
+        self.assertEqual(result["stage"], "timeout")
+        self.assertEqual(result["plugin_dir_name"], "demo-plugin")
+        self.assertEqual(result["details"], {"stdout": "timeout-stdout", "stderr": "timeout-stderr"})
+        details_mock.assert_called_once_with(stdout="timeout-stdout", stderr="timeout-stderr")
 
     def test_successful_clone_and_precheck_invokes_worker_and_parses_output(self):
         completed = subprocess.CompletedProcess(

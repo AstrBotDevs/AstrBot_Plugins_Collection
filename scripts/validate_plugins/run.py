@@ -38,6 +38,13 @@ class MetadataLoadError(ValueError):
     pass
 
 
+def positive_int(raw_value: str) -> int:
+    value = int(raw_value)
+    if value <= 0:
+        raise argparse.ArgumentTypeError("must be a positive integer")
+    return value
+
+
 def build_result(
     *,
     plugin: str,
@@ -50,14 +57,16 @@ def build_result(
     plugin_dir_name: str | None = None,
     details: dict | str | None = None,
 ) -> dict:
+    resolved_severity = severity or ("pass" if ok else "fail")
+    resolved_ok = True if resolved_severity in {"pass", "warn"} else ok
     result = {
         "plugin": plugin,
         "repo": repo,
         "normalized_repo_url": normalized_repo_url,
-        "ok": ok,
+        "ok": resolved_ok,
         "stage": stage,
         "message": message,
-        "severity": severity or ("pass" if ok else "fail"),
+        "severity": resolved_severity,
     }
     if plugin_dir_name:
         result["plugin_dir_name"] = plugin_dir_name
@@ -742,9 +751,9 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--astrbot-path")
     parser.add_argument("--report-path", default="validation-report.json")
     parser.add_argument("--work-dir")
-    parser.add_argument("--clone-timeout", type=int, default=DEFAULT_CLONE_TIMEOUT)
-    parser.add_argument("--load-timeout", type=int, default=300)
-    parser.add_argument("--max-workers", type=int, default=DEFAULT_MAX_WORKERS)
+    parser.add_argument("--clone-timeout", type=positive_int, default=DEFAULT_CLONE_TIMEOUT)
+    parser.add_argument("--load-timeout", type=positive_int, default=300)
+    parser.add_argument("--max-workers", type=positive_int, default=DEFAULT_MAX_WORKERS)
     parser.add_argument("--worker", action="store_true")
     parser.add_argument("--plugin-source-dir")
     parser.add_argument("--plugin-dir-name")
