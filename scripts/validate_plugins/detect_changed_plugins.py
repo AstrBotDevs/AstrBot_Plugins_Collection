@@ -55,9 +55,8 @@ def resolve_astrbot_ref() -> str:
 
 
 def detect_pull_request_selection(*, repo_root: Path, base_ref: str) -> dict[str, object]:
-    fetch_base_ref(base_ref)
-
     try:
+        fetch_base_ref(base_ref)
         base = load_plugins_map(read_base_plugins_json(base_ref), source_name=f"base ref {base_ref}")
     except (subprocess.CalledProcessError, ValueError):
         base = {}

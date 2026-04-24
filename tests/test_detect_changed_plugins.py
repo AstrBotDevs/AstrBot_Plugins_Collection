@@ -74,6 +74,24 @@ class AstrbotRefTests(unittest.TestCase):
 
 
 class PullRequestDetectionTests(unittest.TestCase):
+    def test_detect_pull_request_selection_handles_fetch_base_ref_failure(self):
+        module = load_detection_module()
+
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            repo_root = Path(tmp_dir)
+            plugins_json = repo_root / "plugins.json"
+            plugins_json.write_text('{"plugin-a": {"repo": "https://github.com/example/a"}}', encoding="utf-8")
+
+            with mock.patch.object(
+                module,
+                "fetch_base_ref",
+                side_effect=module.subprocess.CalledProcessError(1, ["git", "fetch"]),
+            ):
+                result = module.detect_pull_request_selection(repo_root=repo_root, base_ref="main")
+
+        self.assertEqual(result["changed"], ["plugin-a"])
+        self.assertEqual(result["validation_note"], "")
+
     def test_detect_pull_request_selection_handles_missing_base_file(self):
         module = load_detection_module()
 
