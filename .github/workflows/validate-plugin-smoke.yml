@@ -50,32 +50,52 @@ jobs:
 
           base_ref = os.environ["GITHUB_BASE_REF"]
           subprocess.run(["git", "fetch", "origin", base_ref, "--depth", "1"], check=True)
-          base = json.loads(
-              subprocess.check_output(
+
+          validation_note = ""
+
+          try:
+              base_raw = subprocess.check_output(
                   ["git", "show", f"origin/{base_ref}:plugins.json"],
                   text=True,
+                  stderr=subprocess.DEVNULL,
               )
-          )
-          head = json.loads(Path("plugins.json").read_text(encoding="utf-8"))
+              base = json.loads(base_raw)
+              if not isinstance(base, dict):
+                  base = {}
+          except (subprocess.CalledProcessError, json.JSONDecodeError):
+              base = {}
 
-          changed = [
-              name
-              for name, payload in head.items()
-              if base.get(name) != payload
-          ]
+          try:
+              head = json.loads(Path("plugins.json").read_text(encoding="utf-8"))
+              if not isinstance(head, dict):
+                  raise ValueError("plugins.json must contain a JSON object")
+          except (json.JSONDecodeError, ValueError) as exc:
+              changed = []
+              should_validate = False
+              validation_note = f"Skipping smoke validation because plugins.json is invalid on the PR head: {exc}"
+          else:
+              changed = [
+                  name
+                  for name, payload in head.items()
+                  if base.get(name) != payload
+              ]
+              should_validate = bool(changed)
+              if not should_validate:
+                  validation_note = "No plugin entries changed in plugins.json; skipping smoke validation."
 
           with open(os.environ["GITHUB_ENV"], "a", encoding="utf-8") as handle:
               handle.write("ASTRBOT_REF=master\n")
               handle.write(f"PLUGIN_NAME_LIST={','.join(changed)}\n")
               handle.write("PLUGIN_LIMIT=\n")
-              handle.write(f"SHOULD_VALIDATE={'true' if changed else 'false'}\n")
+              handle.write(f"SHOULD_VALIDATE={'true' if should_validate else 'false'}\n")
+              handle.write(f"VALIDATION_NOTE={validation_note}\n")
           PY
 
       - name: Show PR diff selection
         if: github.event_name == 'pull_request'
         run: |
           if [ "$SHOULD_VALIDATE" != "true" ]; then
-            printf '%s\n' "No plugin entries changed in plugins.json; skipping smoke validation."
+            printf '%s\n' "${VALIDATION_NOTE:-Smoke validation skipped.}"
           else
             printf 'Selected plugins: %s\n' "$PLUGIN_NAME_LIST"
           fi

@@ -40,6 +40,39 @@ class NormalizeRepoUrlTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             module.normalize_repo_url("https://gitlab.com/example/demo-plugin")
 
+    def test_rejects_non_http_schemes(self):
+        module = load_validator_module()
+
+        for url in (
+            "git://github.com/example/demo-plugin",
+            "ssh://github.com/example/demo-plugin",
+        ):
+            with self.subTest(url=url):
+                with self.assertRaisesRegex(ValueError, "repo URL must use http or https"):
+                    module.normalize_repo_url(url)
+
+    def test_rejects_missing_owner_or_repository(self):
+        module = load_validator_module()
+
+        for url in (
+            "https://github.com/",
+            "https://github.com/example",
+            "https://github.com/example/",
+            "https://github.com//demo-plugin",
+            "https://github.com/example//",
+        ):
+            with self.subTest(url=url):
+                with self.assertRaisesRegex(ValueError, "repo URL must include owner and repository"):
+                    module.normalize_repo_url(url)
+
+    def test_strips_leading_and_trailing_whitespace(self):
+        module = load_validator_module()
+
+        self.assertEqual(
+            module.normalize_repo_url("  https://github.com/example/demo-plugin  "),
+            "https://github.com/example/demo-plugin",
+        )
+
 
 class SelectPluginsTests(unittest.TestCase):
     def test_returns_all_plugins_when_limit_is_none(self):
@@ -87,6 +120,80 @@ class SelectPluginsTests(unittest.TestCase):
         )
 
         self.assertEqual([item[0] for item in selected], ["plugin-c", "plugin-a"])
+
+    def test_respects_positive_limit_when_names_not_requested(self):
+        module = load_validator_module()
+        plugins = {
+            "plugin-a": {"repo": "https://github.com/example/plugin-a"},
+            "plugin-b": {"repo": "https://github.com/example/plugin-b"},
+            "plugin-c": {"repo": "https://github.com/example/plugin-c"},
+        }
+
+        selected = module.select_plugins(
+            plugins=plugins,
+            requested_names=None,
+            limit=1,
+        )
+
+        self.assertEqual([item[0] for item in selected], ["plugin-a"])
+
+    def test_raises_key_error_for_unknown_requested_plugin(self):
+        module = load_validator_module()
+        plugins = {
+            "known-plugin": {"repo": "https://github.com/example/known-plugin"},
+        }
+
+        with self.assertRaisesRegex(KeyError, "plugin not found: missing-plugin"):
+            module.select_plugins(
+                plugins=plugins,
+                requested_names=["known-plugin", "missing-plugin"],
+                limit=None,
+            )
+
+
+class HelperFunctionTests(unittest.TestCase):
+    def test_combine_requested_names_merges_trims_and_drops_empty_values(self):
+        module = load_validator_module()
+
+        combined = module.combine_requested_names(
+            plugin_names=["foo", "  bar  ", "", "   "],
+            plugin_name_list="baz,   qux  , ,foo ",
+        )
+
+        self.assertEqual(combined, ["foo", "bar", "baz", "qux", "foo"])
+
+    def test_combine_requested_names_handles_none_inputs(self):
+        module = load_validator_module()
+
+        self.assertEqual(module.combine_requested_names(None, None), [])
+
+    def test_sanitize_name_replaces_invalid_chars_and_falls_back_when_needed(self):
+        module = load_validator_module()
+
+        self.assertEqual(module.sanitize_name("  -invalid name!*?-  "), "invalid-name")
+        self.assertEqual(module.sanitize_name("valid-name_123"), "valid-name_123")
+        self.assertEqual(module.sanitize_name("   "), "plugin")
+        self.assertEqual(module.sanitize_name("!!!"), "plugin")
+
+    def test_build_plugin_clone_dir_is_unique_for_colliding_sanitized_names(self):
+        module = load_validator_module()
+
+        first = module.build_plugin_clone_dir(Path("/tmp/work"), "foo bar")
+        second = module.build_plugin_clone_dir(Path("/tmp/work"), "foo/bar")
+
+        self.assertNotEqual(first, second)
+        self.assertEqual(first.parent, Path("/tmp/work"))
+        self.assertEqual(second.parent, Path("/tmp/work"))
+
+    def test_build_process_output_details_keeps_partial_timeout_logs(self):
+        module = load_validator_module()
+
+        details = module.build_process_output_details(
+            stdout="line one\nline two\n",
+            stderr=b"warning\n",
+        )
+
+        self.assertEqual(details, {"stdout": "line one\nline two", "stderr": "warning"})
 
 
 class MetadataValidationTests(unittest.TestCase):

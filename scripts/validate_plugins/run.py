@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import argparse
 import asyncio
+import hashlib
 import json
 import os
 import re
@@ -22,6 +23,7 @@ except ImportError:  # pragma: no cover - optional in local unit tests
 
 
 REQUIRED_METADATA_FIELDS = ("name", "desc", "version", "author")
+DEFAULT_CLONE_TIMEOUT = 120
 
 
 def build_result(
@@ -205,7 +207,7 @@ def combine_requested_names(
     plugin_names: list[str] | None,
     plugin_name_list: str | None,
 ) -> list[str]:
-    names = list(plugin_names or [])
+    names = [name.strip() for name in (plugin_names or [])]
     if plugin_name_list:
         names.extend(part.strip() for part in plugin_name_list.split(","))
     return [name for name in names if name]
@@ -216,12 +218,47 @@ def sanitize_name(name: str) -> str:
     return sanitized or "plugin"
 
 
-def clone_plugin_repo(repo_url: str, destination: Path) -> None:
+def build_plugin_clone_dir(work_dir: Path, plugin: str) -> Path:
+    digest = hashlib.sha256(plugin.encode("utf-8")).hexdigest()[:8]
+    return work_dir / f"{sanitize_name(plugin)}-{digest}"
+
+
+def _normalize_process_output(output: str | bytes | None) -> str | None:
+    if output is None:
+        return None
+    if isinstance(output, bytes):
+        output = output.decode("utf-8", errors="replace")
+    normalized = output.strip()
+    return normalized or None
+
+
+def build_process_output_details(
+    *,
+    stdout: str | bytes | None,
+    stderr: str | bytes | None,
+) -> dict | None:
+    details = {}
+    stdout_text = _normalize_process_output(stdout)
+    stderr_text = _normalize_process_output(stderr)
+    if stdout_text:
+        details["stdout"] = stdout_text
+    if stderr_text:
+        details["stderr"] = stderr_text
+    return details or None
+
+
+def clone_plugin_repo(
+    repo_url: str,
+    destination: Path,
+    *,
+    timeout: int = DEFAULT_CLONE_TIMEOUT,
+) -> None:
     subprocess.run(
         ["git", "clone", "--depth", "1", repo_url, str(destination)],
         check=True,
         capture_output=True,
         text=True,
+        timeout=timeout,
     )
 
 
@@ -267,6 +304,7 @@ def validate_plugin(
     astrbot_path: Path,
     script_path: Path,
     work_dir: Path,
+    clone_timeout: int,
     load_timeout: int,
 ) -> dict:
     repo_url = plugin_data.get("repo")
@@ -292,9 +330,13 @@ def validate_plugin(
             message=str(exc),
         )
 
-    plugin_clone_dir = work_dir / sanitize_name(plugin)
+    plugin_clone_dir = build_plugin_clone_dir(work_dir, plugin)
     try:
-        clone_plugin_repo(normalized_repo_url, plugin_clone_dir)
+        clone_plugin_repo(
+            normalized_repo_url,
+            plugin_clone_dir,
+            timeout=clone_timeout,
+        )
     except subprocess.CalledProcessError as exc:
         message = exc.stderr.strip() or exc.stdout.strip() or str(exc)
         return build_result(
@@ -304,6 +346,16 @@ def validate_plugin(
             ok=False,
             stage="clone",
             message=message,
+        )
+    except subprocess.TimeoutExpired as exc:
+        return build_result(
+            plugin=plugin,
+            repo=repo_url,
+            normalized_repo_url=normalized_repo_url,
+            ok=False,
+            stage="clone_timeout",
+            message=f"git clone timed out after {clone_timeout} seconds",
+            details=build_process_output_details(stdout=exc.stdout, stderr=exc.stderr),
         )
 
     precheck = precheck_plugin_directory(plugin_clone_dir)
@@ -334,7 +386,7 @@ def validate_plugin(
             text=True,
             timeout=load_timeout,
         )
-    except subprocess.TimeoutExpired:
+    except subprocess.TimeoutExpired as exc:
         return build_result(
             plugin=plugin,
             repo=repo_url,
@@ -343,6 +395,7 @@ def validate_plugin(
             stage="timeout",
             message=f"worker timed out after {load_timeout} seconds",
             plugin_dir_name=plugin_dir_name,
+            details=build_process_output_details(stdout=exc.stdout, stderr=exc.stderr),
         )
 
     return parse_worker_output(
@@ -483,13 +536,10 @@ def run_worker(args: argparse.Namespace) -> int:
 
         os.environ["ASTRBOT_ROOT"] = str(astrbot_root)
         os.environ.setdefault("TESTING", "true")
-        for entry in reversed(
-            build_worker_sys_path(
-                astrbot_root=astrbot_root,
-                astrbot_path=Path(args.astrbot_path),
-            )
-        ):
-            sys.path.insert(0, entry)
+        sys.path[:0] = build_worker_sys_path(
+            astrbot_root=astrbot_root,
+            astrbot_path=Path(args.astrbot_path),
+        )
 
         result = asyncio.run(
             run_worker_load_check(args.plugin_dir_name, args.normalized_repo_url)
@@ -525,6 +575,7 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--astrbot-path")
     parser.add_argument("--report-path", default="validation-report.json")
     parser.add_argument("--work-dir")
+    parser.add_argument("--clone-timeout", type=int, default=DEFAULT_CLONE_TIMEOUT)
     parser.add_argument("--load-timeout", type=int, default=300)
     parser.add_argument("--worker", action="store_true")
     parser.add_argument("--plugin-source-dir")
@@ -578,6 +629,7 @@ def main() -> int:
                 astrbot_path=Path(args.astrbot_path).resolve(),
                 script_path=Path(__file__).resolve(),
                 work_dir=work_dir,
+                clone_timeout=args.clone_timeout,
                 load_timeout=args.load_timeout,
             )
             for plugin, plugin_data in selected
