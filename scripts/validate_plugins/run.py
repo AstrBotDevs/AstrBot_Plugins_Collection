@@ -30,7 +30,7 @@ except ImportError:  # pragma: no cover - optional in local unit tests
 
 REQUIRED_METADATA_FIELDS = ("name", "desc", "version", "author")
 DEFAULT_CLONE_TIMEOUT = 120
-DEFAULT_MAX_WORKERS = 8
+DEFAULT_MAX_WORKERS = 16
 CONFLICT_MARKERS = ("<<<<<<<", "=======", ">>>>>>>")
 
 
@@ -280,6 +280,24 @@ def build_worker_command(
 
 def build_worker_sys_path(*, astrbot_root: Path, astrbot_path: Path) -> list[str]:
     return [str(astrbot_root.resolve()), str(astrbot_path.resolve())]
+
+
+def configure_worker_install_target(*, temp_root: Path) -> Path:
+    site_packages = (temp_root / "site-packages").resolve()
+    site_packages.mkdir(parents=True, exist_ok=True)
+
+    os.environ["PIP_TARGET"] = str(site_packages)
+    existing_pythonpath = os.environ.get("PYTHONPATH")
+    os.environ["PYTHONPATH"] = (
+        str(site_packages)
+        if not existing_pythonpath
+        else os.pathsep.join([str(site_packages), existing_pythonpath])
+    )
+
+    if str(site_packages) in sys.path:
+        sys.path.remove(str(site_packages))
+    sys.path.insert(0, str(site_packages))
+    return site_packages
 
 
 def build_report(results: list[dict]) -> dict:
@@ -700,6 +718,8 @@ async def run_worker_load_check(plugin_dir_name: str, normalized_repo_url: str) 
 def run_worker(args: argparse.Namespace) -> int:
     temp_root = Path(tempfile.mkdtemp(prefix="astrbot-plugin-worker-"))
     try:
+        configure_worker_install_target(temp_root=temp_root)
+
         astrbot_root = temp_root / "astrbot-root"
         plugin_store = astrbot_root / "data" / "plugins"
         plugin_config = astrbot_root / "data" / "config"

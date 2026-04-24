@@ -386,12 +386,12 @@ class HelperFunctionTests(unittest.TestCase):
 
 
 class ValidationProgressTests(unittest.TestCase):
-    def test_build_parser_defaults_max_workers_to_eight(self):
+    def test_build_parser_defaults_max_workers_to_sixteen(self):
         module = load_validator_module()
 
         args = module.build_parser().parse_args(["--astrbot-path", "/tmp/AstrBot"])
 
-        self.assertEqual(args.max_workers, 8)
+        self.assertEqual(args.max_workers, 16)
 
     def test_build_parser_rejects_non_positive_worker_and_timeout_values(self):
         module = load_validator_module()
@@ -746,6 +746,60 @@ class WorkerLoadCheckTests(unittest.IsolatedAsyncioTestCase):
         self.assertFalse(result["ok"])
         self.assertEqual(result["stage"], "load")
         self.assertEqual(result["message"], "{'reason': 'boom'}")
+
+
+class RunWorkerIsolationTests(unittest.TestCase):
+    def test_run_worker_isolates_plugin_installs_under_temp_root(self):
+        module = load_validator_module()
+        observed = {}
+        original_sys_path = list(sys.path)
+
+        async def fake_run_worker_load_check(plugin_dir_name: str, normalized_repo_url: str):
+            observed["plugin_dir_name"] = plugin_dir_name
+            observed["normalized_repo_url"] = normalized_repo_url
+            observed["astrbot_root"] = os.environ.get("ASTRBOT_ROOT")
+            observed["pip_target"] = os.environ.get("PIP_TARGET")
+            observed["sys_path"] = list(sys.path)
+            return module.build_result(
+                plugin=plugin_dir_name,
+                repo=normalized_repo_url,
+                normalized_repo_url=normalized_repo_url,
+                ok=True,
+                stage="load",
+                message="plugin loaded successfully",
+                plugin_dir_name=plugin_dir_name,
+            )
+
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            plugin_source_dir = Path(tmp_dir) / "plugin-src"
+            plugin_source_dir.mkdir()
+            (plugin_source_dir / "main.py").write_text("print('hello')\n", encoding="utf-8")
+            args = module.argparse.Namespace(
+                astrbot_path="/tmp/AstrBot",
+                plugin_source_dir=str(plugin_source_dir),
+                plugin_dir_name="demo_plugin",
+                normalized_repo_url="https://github.com/example/demo-plugin",
+            )
+
+            with mock.patch.dict(os.environ, {}, clear=True):
+                with mock.patch.object(module, "run_worker_load_check", side_effect=fake_run_worker_load_check):
+                    exit_code = module.run_worker(args)
+
+        sys.path[:] = original_sys_path
+
+        self.assertEqual(exit_code, 0)
+        self.assertEqual(observed["plugin_dir_name"], "demo_plugin")
+        self.assertEqual(
+            observed["normalized_repo_url"],
+            "https://github.com/example/demo-plugin",
+        )
+        self.assertIsNotNone(observed["astrbot_root"])
+        self.assertIsNotNone(observed["pip_target"])
+        self.assertEqual(
+            Path(observed["pip_target"]).resolve(),
+            (Path(observed["astrbot_root"]).parent / "site-packages").resolve(),
+        )
+        self.assertIn(observed["pip_target"], observed["sys_path"])
 
 
 class ReportBuilderTests(unittest.TestCase):

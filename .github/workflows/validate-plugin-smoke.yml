@@ -25,7 +25,7 @@ on:
       max_workers:
         description: "Maximum concurrent plugin validations"
         required: false
-        default: "8"
+        default: "16"
 
 jobs:
   validate-plugin-smoke:
@@ -52,7 +52,7 @@ jobs:
           echo "ASTRBOT_REF=master" >> "$GITHUB_ENV"
           echo "PLUGIN_NAME_LIST=" >> "$GITHUB_ENV"
           echo "PLUGIN_LIMIT=" >> "$GITHUB_ENV"
-          echo "MAX_WORKERS=8" >> "$GITHUB_ENV"
+          echo "MAX_WORKERS=16" >> "$GITHUB_ENV"
           echo "SHOULD_VALIDATE=true" >> "$GITHUB_ENV"
           echo "VALIDATION_NOTE=Running scheduled full plugin validation." >> "$GITHUB_ENV"
 
