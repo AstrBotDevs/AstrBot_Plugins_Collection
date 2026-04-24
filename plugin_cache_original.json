@@ -1859,9 +1859,9 @@
     ],
     "social_link": "https://github.com/FlanChanXwO",
     "category": "utilities",
-    "stars": 12,
+    "stars": 13,
     "version": "v1.0.3",
-    "updated_at": "2026-04-13T05:34:58Z",
+    "updated_at": "2026-04-24T02:38:15Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_status/master/logo.png"
   },
   "astrbot-plugin-adsb-monitor": {
@@ -5891,9 +5891,9 @@
       "人格"
     ],
     "category": "ai_tools",
-    "stars": 111,
+    "stars": 112,
     "version": "1.3.10",
-    "updated_at": "2026-04-22T10:40:11Z",
+    "updated_at": "2026-04-24T02:08:42Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -7531,9 +7531,9 @@
       "推特"
     ],
     "category": "utilities",
-    "stars": 37,
+    "stars": 38,
     "version": "v6.0.0",
-    "updated_at": "2026-04-23T23:46:28Z",
+    "updated_at": "2026-04-24T01:59:30Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -9760,9 +9760,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 149,
+    "stars": 150,
     "version": "2.2.6",
-    "updated_at": "2026-04-22T14:31:42Z",
+    "updated_at": "2026-04-24T00:50:58Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
