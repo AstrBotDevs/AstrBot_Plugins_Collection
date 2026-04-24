@@ -749,6 +749,31 @@ class WorkerLoadCheckTests(unittest.IsolatedAsyncioTestCase):
 
 
 class RunWorkerIsolationTests(unittest.TestCase):
+    def _assert_worker_isolated(self, *, temp_root: Path, args, observed: dict) -> None:
+        self.assertIn("astrbot_root", observed)
+        astrbot_root = Path(observed["astrbot_root"]).resolve()
+        shared_astrbot_path = Path(args.astrbot_path).resolve()
+
+        self.assertNotEqual(astrbot_root, shared_astrbot_path)
+        self.assertTrue(
+            astrbot_root.is_relative_to(temp_root.resolve()),
+            f"worker astrbot_root {astrbot_root} should be under {temp_root}",
+        )
+
+        current = astrbot_root
+        found_worker_prefix = False
+        while True:
+            if current.name.startswith("astrbot-plugin-worker-"):
+                found_worker_prefix = True
+                break
+            if current.parent == current:
+                break
+            current = current.parent
+
+        self.assertTrue(found_worker_prefix)
+        self.assertTrue((astrbot_root / "data" / "plugins").is_dir())
+        self.assertTrue((astrbot_root / "data" / "config").is_dir())
+
     def test_configure_worker_install_target_deduplicates_process_paths(self):
         module = load_validator_module()
         original_sys_path = list(sys.path)
@@ -802,6 +827,8 @@ class RunWorkerIsolationTests(unittest.TestCase):
             )
 
         with tempfile.TemporaryDirectory() as tmp_dir:
+            worker_temp_root = Path(tmp_dir) / "astrbot-plugin-worker-test-root"
+            worker_temp_root.mkdir()
             plugin_source_dir = Path(tmp_dir) / "plugin-src"
             plugin_source_dir.mkdir()
             (plugin_source_dir / "main.py").write_text("print('hello')\n", encoding="utf-8")
@@ -814,7 +841,12 @@ class RunWorkerIsolationTests(unittest.TestCase):
 
             with mock.patch.dict(os.environ, {}, clear=True):
                 with mock.patch.object(module, "run_worker_load_check", side_effect=fake_run_worker_load_check):
-                    exit_code = module.run_worker(args)
+                    with mock.patch.object(module.tempfile, "mkdtemp", return_value=str(worker_temp_root)):
+                        with mock.patch.object(module.shutil, "rmtree") as rmtree_mock:
+                            exit_code = module.run_worker(args)
+
+            self._assert_worker_isolated(temp_root=worker_temp_root, args=args, observed=observed)
+            rmtree_mock.assert_called_once_with(worker_temp_root, ignore_errors=True)
 
         sys.path[:] = original_sys_path
 
