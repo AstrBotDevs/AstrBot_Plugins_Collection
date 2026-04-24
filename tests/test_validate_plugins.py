@@ -615,6 +615,24 @@ class MetadataValidationTests(unittest.TestCase):
         self.assertIn("invalid metadata.yaml", result["message"])
         self.assertIn("could not find expected ':'", result["details"])
 
+    def test_rejects_unsafe_plugin_dir_name_from_metadata(self):
+        module = load_validator_module()
+
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            plugin_dir = Path(tmp_dir)
+            (plugin_dir / "metadata.yaml").write_text(
+                "name: ../escape\ndesc: demo\nversion: 1.0.0\nauthor: AstrBot Team\n",
+                encoding="utf-8",
+            )
+            (plugin_dir / "main.py").write_text("print('hello')\n", encoding="utf-8")
+
+            result = module.precheck_plugin_directory(plugin_dir)
+
+        self.assertFalse(result["ok"])
+        self.assertEqual(result["stage"], "metadata")
+        self.assertEqual(result["message"], "invalid plugin directory name")
+        self.assertIn("unsafe plugin_dir_name", result["details"])
+
 
 class WorkerCommandTests(unittest.TestCase):
     def test_build_worker_command_contains_required_arguments(self):
@@ -650,6 +668,27 @@ class WorkerSysPathTests(unittest.TestCase):
             [Path(item) for item in sys_path_entries],
             [Path("/tmp/astrbot-root").resolve(), Path("/tmp/AstrBot").resolve()],
         )
+
+
+class WorkerLoadCheckTests(unittest.IsolatedAsyncioTestCase):
+    async def test_stringifies_non_string_plugin_load_error_message(self):
+        module = load_validator_module()
+
+        class FakeManager:
+            def __init__(self, context, config):
+                del context, config
+                self.failed_plugin_dict = {"demo_plugin": {"error": "detail"}}
+
+            async def load(self, specified_dir_name: str):
+                del specified_dir_name
+                return False, {"reason": "boom"}
+
+        with mock.patch.dict(sys.modules, {"astrbot.core.star.star_manager": mock.Mock(PluginManager=FakeManager)}):
+            result = await module.run_worker_load_check("demo_plugin", "https://github.com/example/demo")
+
+        self.assertFalse(result["ok"])
+        self.assertEqual(result["stage"], "load")
+        self.assertEqual(result["message"], "{'reason': 'boom'}")
 
 
 class ReportBuilderTests(unittest.TestCase):

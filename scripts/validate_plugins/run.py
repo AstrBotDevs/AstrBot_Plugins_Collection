@@ -219,7 +219,16 @@ def precheck_plugin_directory(plugin_dir: Path) -> dict:
             "message": f"missing required metadata fields: {', '.join(missing)}",
         }
 
-    plugin_name = metadata["name"].strip()
+    try:
+        plugin_name = validate_plugin_dir_name(metadata["name"])
+    except ValueError as exc:
+        return {
+            "ok": False,
+            "stage": "metadata",
+            "message": "invalid plugin directory name",
+            "details": str(exc),
+        }
+
     entry_candidates = [plugin_dir / "main.py", plugin_dir / f"{plugin_name}.py"]
     if not any(path.exists() for path in entry_candidates):
         return {
@@ -296,6 +305,17 @@ def combine_requested_names(
 def sanitize_name(name: str) -> str:
     sanitized = re.sub(r"[^A-Za-z0-9._-]+", "-", name).strip("-")
     return sanitized or "plugin"
+
+
+def validate_plugin_dir_name(name: str) -> str:
+    candidate = name.strip()
+    if not candidate or candidate in {".", ".."}:
+        raise ValueError("unsafe plugin_dir_name")
+    if "/" in candidate or "\\" in candidate:
+        raise ValueError("unsafe plugin_dir_name")
+    if ".." in candidate:
+        raise ValueError("unsafe plugin_dir_name")
+    return candidate
 
 
 def build_plugin_clone_dir(work_dir: Path, plugin: str) -> Path:
@@ -662,7 +682,7 @@ async def run_worker_load_check(plugin_dir_name: str, normalized_repo_url: str) 
         normalized_repo_url=normalized_repo_url,
         ok=False,
         stage="load",
-        message=error or "plugin load failed",
+        message=str(error) if error else "plugin load failed",
         plugin_dir_name=plugin_dir_name,
         details=manager.failed_plugin_dict.get(plugin_dir_name),
     )
