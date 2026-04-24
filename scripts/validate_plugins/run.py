@@ -46,6 +46,7 @@ def build_result(
     ok: bool,
     stage: str,
     message: str,
+    severity: str | None = None,
     plugin_dir_name: str | None = None,
     details: dict | str | None = None,
 ) -> dict:
@@ -56,6 +57,7 @@ def build_result(
         "ok": ok,
         "stage": stage,
         "message": message,
+        "severity": severity or ("pass" if ok else "fail"),
     }
     if plugin_dir_name:
         result["plugin_dir_name"] = plugin_dir_name
@@ -212,6 +214,7 @@ def precheck_plugin_directory(plugin_dir: Path) -> dict:
     if missing:
         return {
             "ok": False,
+            "severity": "warn",
             "stage": "metadata",
             "message": f"missing required metadata fields: {', '.join(missing)}",
         }
@@ -262,12 +265,14 @@ def build_worker_sys_path(*, astrbot_root: Path, astrbot_path: Path) -> list[str
 
 
 def build_report(results: list[dict]) -> dict:
-    passed = sum(1 for result in results if result.get("ok"))
-    failed = len(results) - passed
+    passed = sum(1 for result in results if result.get("severity") == "pass")
+    warned = sum(1 for result in results if result.get("severity") == "warn")
+    failed = sum(1 for result in results if result.get("severity") == "fail")
     return {
         "summary": {
             "total": len(results),
             "passed": passed,
+            "warned": warned,
             "failed": failed,
         },
         "results": results,
@@ -442,6 +447,7 @@ def validate_plugin(
             ok=False,
             stage=precheck["stage"],
             message=precheck["message"],
+            severity=precheck.get("severity"),
             details=precheck.get("details"),
         )
 
@@ -535,7 +541,8 @@ def validate_selected_plugins(
                 )
 
             results[original_index - 1] = result
-            status = "PASS" if result.get("ok") else "FAIL"
+            severity = result.get("severity", "pass" if result.get("ok") else "fail")
+            status = {"pass": "PASS", "warn": "WARN", "fail": "FAIL"}.get(severity, "FAIL")
             stage = result.get("stage", "unknown")
             message = result.get("message", "")
             print(f"[{original_index}/{total}] {status} {plugin} [{stage}] {message}", flush=True)

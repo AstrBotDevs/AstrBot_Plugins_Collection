@@ -400,8 +400,8 @@ class ValidationProgressTests(unittest.TestCase):
             ("plugin-b", {"repo": "https://github.com/example/plugin-b"}),
         ]
         fake_results = [
-            {"plugin": "plugin-a", "ok": True, "stage": "load", "message": "ok"},
-            {"plugin": "plugin-b", "ok": False, "stage": "metadata", "message": "invalid metadata.yaml"},
+            {"plugin": "plugin-a", "ok": True, "severity": "pass", "stage": "load", "message": "ok"},
+            {"plugin": "plugin-b", "ok": False, "severity": "warn", "stage": "metadata", "message": "missing required metadata fields: desc"},
         ]
 
         with mock.patch.object(module, "validate_plugin", side_effect=fake_results) as validate_mock:
@@ -420,7 +420,7 @@ class ValidationProgressTests(unittest.TestCase):
         self.assertEqual(validate_mock.call_count, 2)
         print_mock.assert_any_call("[1/2] Queued plugin-a", flush=True)
         print_mock.assert_any_call("[1/2] PASS plugin-a [load] ok", flush=True)
-        print_mock.assert_any_call("[2/2] FAIL plugin-b [metadata] invalid metadata.yaml", flush=True)
+        print_mock.assert_any_call("[2/2] WARN plugin-b [metadata] missing required metadata fields: desc", flush=True)
 
     def test_validate_selected_plugins_preserves_result_order_with_out_of_order_completion(self):
         module = load_validator_module()
@@ -592,6 +592,7 @@ class MetadataValidationTests(unittest.TestCase):
             result = module.precheck_plugin_directory(plugin_dir)
 
         self.assertFalse(result["ok"])
+        self.assertEqual(result["severity"], "warn")
         self.assertEqual(result["stage"], "metadata")
         self.assertIn("desc", result["message"])
         self.assertIn("version", result["message"])
@@ -652,19 +653,21 @@ class WorkerSysPathTests(unittest.TestCase):
 
 
 class ReportBuilderTests(unittest.TestCase):
-    def test_build_report_counts_passed_and_failed_results(self):
+    def test_build_report_counts_passed_warned_and_failed_results(self):
         module = load_validator_module()
 
         report = module.build_report(
             [
-                {"plugin": "plugin-a", "ok": True, "stage": "load", "message": "ok"},
-                {"plugin": "plugin-b", "ok": False, "stage": "metadata", "message": "missing desc"},
+                {"plugin": "plugin-a", "ok": True, "severity": "pass", "stage": "load", "message": "ok"},
+                {"plugin": "plugin-b", "ok": False, "severity": "warn", "stage": "metadata", "message": "missing desc"},
+                {"plugin": "plugin-c", "ok": False, "severity": "fail", "stage": "load", "message": "boom"},
             ]
         )
 
-        self.assertEqual(report["summary"]["total"], 2)
+        self.assertEqual(report["summary"]["total"], 3)
         self.assertEqual(report["summary"]["passed"], 1)
         self.assertEqual(report["summary"]["failed"], 1)
+        self.assertEqual(report["summary"]["warned"], 1)
         self.assertEqual(report["results"][1]["plugin"], "plugin-b")
 
 
