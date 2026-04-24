@@ -203,14 +203,11 @@ class HelperFunctionTests(unittest.TestCase):
 
         with tempfile.NamedTemporaryFile("w", suffix=".yml", delete=False) as handle:
             handle.write(
-                """
-                # leading comment
-
-                key1: value1      # trailing comment
-                key2: \" spaced value \"
-                key3: 'another value'
-                key4: value-with-#-hash
-                """
+                "# leading comment\n\n"
+                "key1: value1      # trailing comment\n"
+                'key2: " spaced value "\n'
+                "key3: 'another value'\n"
+                "key4: value-with-#-hash\n"
             )
             metadata_path = Path(handle.name)
 
@@ -223,6 +220,45 @@ class HelperFunctionTests(unittest.TestCase):
         self.assertEqual(parsed["key2"], " spaced value ")
         self.assertEqual(parsed["key3"], "another value")
         self.assertEqual(parsed["key4"], "value-with-#-hash")
+
+    def test_parse_simple_yaml_rejects_indented_lines(self):
+        module = load_validator_module()
+
+        with tempfile.NamedTemporaryFile("w", suffix=".yml", delete=False) as handle:
+            handle.write("name: demo\n  nested: nope\n")
+            metadata_path = Path(handle.name)
+
+        try:
+            with self.assertRaisesRegex(ValueError, "Unsupported YAML indentation"):
+                module._parse_simple_yaml(metadata_path)
+        finally:
+            os.remove(metadata_path)
+
+    def test_parse_simple_yaml_rejects_list_syntax(self):
+        module = load_validator_module()
+
+        with tempfile.NamedTemporaryFile("w", suffix=".yml", delete=False) as handle:
+            handle.write("- item\n")
+            metadata_path = Path(handle.name)
+
+        try:
+            with self.assertRaisesRegex(ValueError, "Unsupported YAML list syntax"):
+                module._parse_simple_yaml(metadata_path)
+        finally:
+            os.remove(metadata_path)
+
+    def test_parse_simple_yaml_rejects_duplicate_keys(self):
+        module = load_validator_module()
+
+        with tempfile.NamedTemporaryFile("w", suffix=".yml", delete=False) as handle:
+            handle.write("name: first\nname: second\n")
+            metadata_path = Path(handle.name)
+
+        try:
+            with self.assertRaisesRegex(ValueError, "Duplicate key 'name'"):
+                module._parse_simple_yaml(metadata_path)
+        finally:
+            os.remove(metadata_path)
 
     def test_load_metadata_uses_yaml_safe_load_when_available(self):
         module = load_validator_module()
@@ -268,12 +304,7 @@ class HelperFunctionTests(unittest.TestCase):
         module = load_validator_module()
 
         with tempfile.NamedTemporaryFile("w", suffix=".yml", delete=False) as handle:
-            handle.write(
-                """
-                name: demo-plugin
-                version: \"0.2.3\"
-                """
-            )
+            handle.write('name: demo-plugin\nversion: "0.2.3"\n')
             metadata_path = Path(handle.name)
 
         yaml_backup = getattr(module, "yaml", None)
@@ -286,6 +317,22 @@ class HelperFunctionTests(unittest.TestCase):
 
         self.assertEqual(metadata.get("name"), "demo-plugin")
         self.assertEqual(metadata.get("version"), "0.2.3")
+
+    def test_load_metadata_wraps_fallback_parse_errors(self):
+        module = load_validator_module()
+
+        with tempfile.NamedTemporaryFile("w", suffix=".yml", delete=False) as handle:
+            handle.write("name: demo\n  nested: nope\n")
+            metadata_path = Path(handle.name)
+
+        yaml_backup = getattr(module, "yaml", None)
+        try:
+            module.yaml = None
+            with self.assertRaisesRegex(module.MetadataLoadError, "Unsupported YAML indentation"):
+                module.load_metadata(metadata_path)
+        finally:
+            module.yaml = yaml_backup
+            os.remove(metadata_path)
 
     def test_load_plugins_index_accepts_valid_object(self):
         module = load_validator_module()
@@ -332,7 +379,7 @@ class HelperFunctionTests(unittest.TestCase):
             index_path = Path(handle.name)
 
         try:
-            with self.assertRaisesRegex(ValueError, "plugins.json values must be objects/dicts"):
+            with self.assertRaisesRegex(ValueError, "plugins.json entry 'not-a-dict'.*must be a JSON object"):
                 module.load_plugins_index(index_path)
         finally:
             os.remove(index_path)

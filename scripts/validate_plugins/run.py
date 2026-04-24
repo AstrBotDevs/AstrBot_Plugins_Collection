@@ -16,6 +16,11 @@ import traceback
 from pathlib import Path
 from urllib.parse import urlparse
 
+if __package__ in {None, ""}:
+    sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
+
+from scripts.validate_plugins.plugins_map import load_plugins_map_file
+
 try:
     import yaml
 except ImportError:  # pragma: no cover - optional in local unit tests
@@ -98,6 +103,15 @@ def select_plugins(
 
 
 def _parse_simple_yaml(path: Path) -> dict:
+    """Very small YAML subset parser used as a fallback when PyYAML is unavailable.
+
+    Supported format:
+    - Flat mapping of `key: value` pairs
+    - No indentation (no nested objects or multiline continuations)
+    - No lists (`- item` syntax)
+    - `#` starts a comment when preceded by whitespace (or at line start)
+    """
+
     def parse_value(raw_value: str) -> str:
         value = raw_value.strip()
         if not value:
@@ -112,13 +126,36 @@ def _parse_simple_yaml(path: Path) -> dict:
         value = re.split(r"\s+#", value, maxsplit=1)[0].rstrip()
         return value.strip("\"'")
 
-    result = {}
-    for raw_line in path.read_text(encoding="utf-8").splitlines():
-        line = raw_line.strip()
-        if not line or line.startswith("#") or ":" not in line:
+    result: dict[str, str] = {}
+    for lineno, raw_line in enumerate(path.read_text(encoding="utf-8").splitlines(), start=1):
+        stripped = raw_line.strip()
+        if not stripped:
             continue
+        if stripped.startswith("#"):
+            continue
+        if raw_line[0].isspace():
+            raise ValueError(
+                f"Unsupported YAML indentation in {path} at line {lineno}: {raw_line!r}"
+            )
+
+        line = stripped
+        if line.startswith("-"):
+            raise ValueError(
+                f"Unsupported YAML list syntax in {path} at line {lineno}: {raw_line!r}"
+            )
+        if ":" not in line:
+            raise ValueError(
+                f"Unsupported YAML content (expected 'key: value') in {path} at line {lineno}: {raw_line!r}"
+            )
+
         key, value = line.split(":", 1)
-        result[key.strip()] = parse_value(value)
+        key = key.strip()
+        if not key:
+            raise ValueError(f"Empty key is not allowed in {path} at line {lineno}: {raw_line!r}")
+        if key in result:
+            raise ValueError(f"Duplicate key '{key}' in {path} at line {lineno}")
+
+        result[key] = parse_value(value)
     return result
 
 
@@ -139,7 +176,11 @@ def load_metadata(path: Path) -> dict:
         if not isinstance(loaded, dict):
             raise MetadataLoadError("metadata.yaml must contain a mapping at the top level")
         return loaded
-    return _parse_simple_yaml(path)
+
+    try:
+        return _parse_simple_yaml(path)
+    except ValueError as exc:
+        raise MetadataLoadError(str(exc)) from exc
 
 
 def precheck_plugin_directory(plugin_dir: Path) -> dict:
@@ -232,20 +273,7 @@ def build_report(results: list[dict]) -> dict:
 
 
 def load_plugins_index(path: Path) -> dict[str, dict]:
-    data = json.loads(path.read_text(encoding="utf-8"))
-    if not isinstance(data, dict):
-        raise ValueError("plugins.json must contain a JSON object")
-
-    for key, value in data.items():
-        if not isinstance(key, str):
-            raise ValueError(
-                f"plugins.json keys must be strings, got {type(key).__name__!r}: {key!r}"
-            )
-        if not isinstance(value, dict):
-            raise ValueError(
-                f"plugins.json values must be objects/dicts; key {key!r} has {type(value).__name__!r}"
-            )
-    return data
+    return load_plugins_map_file(path, source_name="plugins.json")
 
 
 def combine_requested_names(

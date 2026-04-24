@@ -8,20 +8,18 @@ import subprocess
 import sys
 from pathlib import Path
 
+if __package__ in {None, ""}:
+    sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
+
+from scripts.validate_plugins.plugins_map import load_plugins_map_text
+
 
 DEFAULT_ASTRBOT_REF = "master"
 ASTRBOT_REMOTE_URL = "https://github.com/AstrBotDevs/AstrBot"
 
 
 def load_plugins_map(text: str, *, source_name: str) -> dict[str, dict]:
-    try:
-        data = json.loads(text)
-    except json.JSONDecodeError as exc:
-        raise ValueError(f"plugins.json is invalid on the {source_name}: {exc}") from exc
-
-    if not isinstance(data, dict):
-        raise ValueError("plugins.json must contain a JSON object")
-    return data
+    return load_plugins_map_text(text, source_name=source_name)
 
 
 def detect_changed_plugin_names(*, base: dict[str, dict], head: dict[str, dict]) -> list[str]:

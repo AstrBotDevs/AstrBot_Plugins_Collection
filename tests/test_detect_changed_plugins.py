@@ -36,6 +36,12 @@ class LoadPluginsMapTests(unittest.TestCase):
 
         self.assertEqual(plugins, {"plugin-a": {"repo": "https://github.com/example/a"}})
 
+    def test_load_plugins_map_rejects_non_dict_entries(self):
+        module = load_detection_module()
+
+        with self.assertRaisesRegex(ValueError, "plugins.json entry 'plugin-a' on the PR head must be a JSON object"):
+            module.load_plugins_map('{"plugin-a": "bad"}', source_name="PR head")
+
 
 class ChangedPluginDetectionTests(unittest.TestCase):
     def test_detect_changed_plugin_names_returns_only_modified_entries(self):
