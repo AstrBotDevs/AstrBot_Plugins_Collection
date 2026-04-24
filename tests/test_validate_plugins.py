@@ -749,6 +749,37 @@ class WorkerLoadCheckTests(unittest.IsolatedAsyncioTestCase):
 
 
 class RunWorkerIsolationTests(unittest.TestCase):
+    def test_configure_worker_install_target_deduplicates_process_paths(self):
+        module = load_validator_module()
+        original_sys_path = list(sys.path)
+
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            temp_root = Path(tmp_dir)
+            site_packages = (temp_root / "site-packages").resolve()
+            extra_path = (temp_root / "extra-path").resolve()
+            extra_path.mkdir()
+            observed = {}
+
+            sys.path[:0] = [str(site_packages), str(site_packages)]
+            with mock.patch.dict(
+                os.environ,
+                {"PYTHONPATH": os.pathsep.join([str(site_packages), str(extra_path)])},
+                clear=True,
+            ):
+                module.configure_worker_install_target(temp_root=temp_root)
+                module.configure_worker_install_target(temp_root=temp_root)
+
+                observed["pip_target"] = os.environ["PIP_TARGET"]
+                observed["pythonpath_entries"] = os.environ["PYTHONPATH"].split(os.pathsep)
+                observed["sys_path_count"] = sys.path.count(str(site_packages))
+
+            self.assertEqual(observed["pip_target"], str(site_packages))
+            self.assertEqual(observed["pythonpath_entries"].count(str(site_packages)), 1)
+            self.assertEqual(observed["sys_path_count"], 1)
+            self.assertIn(str(extra_path), observed["pythonpath_entries"])
+
+        sys.path[:] = original_sys_path
+
     def test_run_worker_isolates_plugin_installs_under_temp_root(self):
         module = load_validator_module()
         observed = {}

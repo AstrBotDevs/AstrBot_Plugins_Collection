@@ -283,20 +283,26 @@ def build_worker_sys_path(*, astrbot_root: Path, astrbot_path: Path) -> list[str
 
 
 def configure_worker_install_target(*, temp_root: Path) -> Path:
+    """Configure process-global install/import state for a validator worker.
+
+    This mutates ``os.environ`` and ``sys.path`` for the lifetime of the worker
+    process so plugin dependency installs stay isolated under ``temp_root``.
+    """
+
     site_packages = (temp_root / "site-packages").resolve()
     site_packages.mkdir(parents=True, exist_ok=True)
+    site_packages_str = str(site_packages)
 
-    os.environ["PIP_TARGET"] = str(site_packages)
-    existing_pythonpath = os.environ.get("PYTHONPATH")
-    os.environ["PYTHONPATH"] = (
-        str(site_packages)
-        if not existing_pythonpath
-        else os.pathsep.join([str(site_packages), existing_pythonpath])
-    )
+    os.environ["PIP_TARGET"] = site_packages_str
+    existing_pythonpath = [
+        entry
+        for entry in os.environ.get("PYTHONPATH", "").split(os.pathsep)
+        if entry and entry != site_packages_str
+    ]
+    os.environ["PYTHONPATH"] = os.pathsep.join([site_packages_str, *existing_pythonpath])
 
-    if str(site_packages) in sys.path:
-        sys.path.remove(str(site_packages))
-    sys.path.insert(0, str(site_packages))
+    sys.path[:] = [entry for entry in sys.path if entry != site_packages_str]
+    sys.path.insert(0, site_packages_str)
     return site_packages
 
 
