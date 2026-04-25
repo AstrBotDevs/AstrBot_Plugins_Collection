@@ -1915,9 +1915,9 @@
       "数据查询"
     ],
     "category": "entertainment",
-    "stars": 39,
+    "stars": 40,
     "version": "2.7.0",
-    "updated_at": "2026-04-24T15:28:04Z",
+    "updated_at": "2026-04-25T06:32:35Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -5136,8 +5136,8 @@
     "social_link": "https://github.com/Li-shi-ling",
     "category": "entertainment",
     "stars": 5,
-    "version": "v1.2.1",
-    "updated_at": "2026-04-07T12:24:48Z"
+    "version": "v1.2.2",
+    "updated_at": "2026-04-25T06:32:42Z"
   },
   "astrbot_plugin_help_typst": {
     "display_name": "插件菜单(typst 实现)",
@@ -10359,9 +10359,9 @@
     ],
     "social_link": "https://github.com/SodaSizzle",
     "category": "entertainment",
-    "stars": 66,
+    "stars": 67,
     "version": "v2.1",
-    "updated_at": "2026-04-25T03:39:51Z",
+    "updated_at": "2026-04-25T05:59:31Z",
     "logo": "https://raw.githubusercontent.com/SodaSizzle/astrbot_plugin_meme_generator/master/logo.png"
   },
   "astrbot_plugin_baiduocr": {
@@ -11187,8 +11187,8 @@
     ],
     "category": "entertainment",
     "stars": 8,
-    "version": "v1.4",
-    "updated_at": "2026-04-25T05:12:23Z",
+    "version": "v1.5",
+    "updated_at": "2026-04-25T05:14:47Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_deer_check/master/logo.png"
   },
   "astrbot_plugin_pet": {
