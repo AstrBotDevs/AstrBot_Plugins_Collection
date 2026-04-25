@@ -630,6 +630,21 @@ class NullStub:
 
         return _return_self().__await__()
 
+    async def __aenter__(self) -> "NullStub":
+        return self
+
+    async def __aexit__(self, exc_type, exc, tb) -> bool:
+        del exc_type, exc, tb
+        return False
+
+    def get(self, key=None, default=None):
+        del key
+        return default
+
+    def pop(self, key=None, default=None):
+        del key
+        return default
+
     def __iter__(self):
         return iter(())
 
@@ -637,9 +652,47 @@ class NullStub:
         return False
 
 
+class DummyConfig(dict):
+    def __init__(self, initial=None) -> None:
+        super().__init__(initial or {})
+
+    def __missing__(self, key):
+        del key
+        return NullStub()
+
+    def __getattr__(self, name: str):
+        return self[name]
+
+
 class DummyContext:
     def __init__(self) -> None:
         self._star_manager = None
+        self._astrbot_root = Path(os.environ.get("ASTRBOT_ROOT", Path.cwd())).resolve()
+        self._data_root = self._astrbot_root / "data"
+        self._plugin_data_dir = self._data_root / "plugin_data"
+        self._config = DummyConfig(
+            {
+                "wake_prefix": [],
+                "dashboard": DummyConfig(),
+                "admins_id": [],
+                "admin_ids": [],
+                "platform_settings": DummyConfig(
+                    {
+                    "aiocqhttp": {},
+                    "qqofficial": {},
+                    "telegram": {},
+                    "gewechat": {},
+                    "wechatpadpro": {},
+                    }
+                ),
+                "data_dir": str(self._data_root),
+            }
+        )
+        self.config = self._config
+
+    def _ensure_plugin_data_dir(self) -> Path:
+        self._plugin_data_dir.mkdir(parents=True, exist_ok=True)
+        return self._plugin_data_dir
 
     def get_all_stars(self):
         try:
@@ -668,6 +721,16 @@ class DummyContext:
 
     def unregister_llm_tool(self, name: str) -> None:
         del name
+
+    def get_config(self, umo: str | None = None):
+        del umo
+        return self._config
+
+    def get_context_config(self):
+        return self.get_config()
+
+    def get_data_dir(self) -> str:
+        return str(self._ensure_plugin_data_dir())
 
     def __getattr__(self, name: str) -> NullStub:
         del name

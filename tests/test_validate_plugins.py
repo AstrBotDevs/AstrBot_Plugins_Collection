@@ -385,6 +385,72 @@ class HelperFunctionTests(unittest.TestCase):
             os.remove(index_path)
 
 
+class DummyContextStubTests(unittest.IsolatedAsyncioTestCase):
+    def test_dummy_context_defers_plugin_data_dir_creation_until_requested(self):
+        module = load_validator_module()
+
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            astrbot_root = Path(tmp_dir) / "astrbot-root"
+            plugin_data_dir = astrbot_root / "data" / "plugin_data"
+
+            with mock.patch.dict(os.environ, {"ASTRBOT_ROOT": str(astrbot_root)}, clear=True):
+                context = module.DummyContext()
+                dir_exists_before = plugin_data_dir.exists()
+                created_dir = Path(context.get_data_dir())
+                dir_exists_after = plugin_data_dir.is_dir()
+
+        self.assertFalse(dir_exists_before)
+        self.assertEqual(created_dir.resolve(), plugin_data_dir.resolve())
+        self.assertTrue(dir_exists_after)
+
+    def test_dummy_context_returns_worker_data_dir_for_plugin_storage(self):
+        module = load_validator_module()
+
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            astrbot_root = Path(tmp_dir) / "astrbot-root"
+            with mock.patch.dict(os.environ, {"ASTRBOT_ROOT": str(astrbot_root)}, clear=True):
+                data_dir = Path(module.DummyContext().get_data_dir())
+                data_dir_exists = data_dir.is_dir()
+
+        self.assertEqual(data_dir.resolve(), (astrbot_root / "data" / "plugin_data").resolve())
+        self.assertTrue(data_dir_exists)
+
+    async def test_null_stub_supports_async_database_context_pattern(self):
+        module = load_validator_module()
+
+        db = module.DummyContext().get_db()
+
+        async with db.get_db() as session:
+            self.assertIsInstance(session, module.NullStub)
+            async with session.begin() as transaction:
+                self.assertIs(transaction, session)
+            result = await session.execute("SELECT 1")
+
+        self.assertIs(result, session)
+
+    async def test_null_stub_returns_defaults_for_restart_style_config_access(self):
+        module = load_validator_module()
+
+        with mock.patch.dict(os.environ, {}, clear=True):
+            dashboard_config = module.DummyContext().get_config().get("dashboard", {})
+
+            self.assertEqual(dashboard_config.get("host", "127.0.0.1"), "127.0.0.1")
+            self.assertEqual(
+                int(os.environ.get("DASHBOARD_PORT", dashboard_config.get("port", 6185))),
+                6185,
+            )
+
+    def test_dummy_context_exposes_dict_like_config_defaults(self):
+        module = load_validator_module()
+
+        with mock.patch.dict(os.environ, {}, clear=True):
+            context = module.DummyContext()
+
+        self.assertEqual(context.get_config()["wake_prefix"], [])
+        self.assertEqual(context.get_config()["dashboard"].get("port", 6185), 6185)
+        self.assertEqual(context._config.get("expire_seconds", 300), 300)
+
+
 class ValidationProgressTests(unittest.TestCase):
     def test_build_parser_defaults_max_workers_to_sixteen(self):
         module = load_validator_module()
