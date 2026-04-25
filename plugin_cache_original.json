@@ -7,8 +7,8 @@
     "tags": [],
     "social_link": "",
     "stars": 41,
-    "version": "2.5.3",
-    "updated_at": "2026-04-25T12:21:30Z",
+    "version": "2.6.0",
+    "updated_at": "2026-04-25T13:24:51Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -11001,8 +11001,8 @@
     ],
     "category": "utilities",
     "stars": 41,
-    "version": "v2.0.1",
-    "updated_at": "2026-04-24T12:58:55Z",
+    "version": "v2.1.0",
+    "updated_at": "2026-04-25T14:04:19Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -12288,7 +12288,7 @@
     "category": "entertainment",
     "stars": 25,
     "version": "v0.1",
-    "updated_at": "2026-04-02T06:12:00Z"
+    "updated_at": "2026-04-25T13:25:45Z"
   },
   "astrbot_plugin_music": {
     "display_name": "点歌插件",
