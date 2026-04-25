@@ -221,7 +221,7 @@
     "social_link": "https://github.com/FlanChanXwO",
     "stars": 17,
     "version": "v1.0.20",
-    "updated_at": "2026-04-25T11:02:18Z",
+    "updated_at": "2026-04-25T18:17:42Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_rsshub/master/logo.png"
   },
   "astrbot_plugin_scriptor": {
@@ -236,9 +236,9 @@
       "跨平台身份管理",
       "数据库查询"
     ],
-    "stars": 8,
+    "stars": 7,
     "version": "1.0.0",
-    "updated_at": "2026-04-25T15:27:37Z",
+    "updated_at": "2026-04-25T18:30:16Z",
     "logo": "https://raw.githubusercontent.com/ysf7762-dev/astrbot_plugin_scriptor/main/logo.png"
   },
   "astrbot_plugin_actions": {
@@ -512,7 +512,7 @@
     "social_link": "https://github.com/Care0721",
     "stars": 2,
     "version": "v1.8.0",
-    "updated_at": "2026-04-25T09:58:21Z"
+    "updated_at": "2026-04-25T17:45:11Z"
   },
   "astrbot-plugin-morning-news": {
     "display_name": "飞书每日晨报",
