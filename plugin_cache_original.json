@@ -236,9 +236,9 @@
       "跨平台身份管理",
       "数据库查询"
     ],
-    "stars": 7,
+    "stars": 8,
     "version": "1.0.0",
-    "updated_at": "2026-04-24T15:45:29Z",
+    "updated_at": "2026-04-25T15:27:37Z",
     "logo": "https://raw.githubusercontent.com/ysf7762-dev/astrbot_plugin_scriptor/main/logo.png"
   },
   "astrbot_plugin_actions": {
@@ -1489,9 +1489,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 317,
+    "stars": 318,
     "version": "v4.10.2",
-    "updated_at": "2026-04-25T04:35:29Z",
+    "updated_at": "2026-04-25T15:10:37Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1859,9 +1859,9 @@
     ],
     "social_link": "https://github.com/FlanChanXwO",
     "category": "utilities",
-    "stars": 13,
+    "stars": 14,
     "version": "v1.0.3",
-    "updated_at": "2026-04-24T02:38:15Z",
+    "updated_at": "2026-04-25T15:33:22Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_status/master/logo.png"
   },
   "astrbot-plugin-adsb-monitor": {
@@ -1915,9 +1915,9 @@
       "数据查询"
     ],
     "category": "entertainment",
-    "stars": 40,
+    "stars": 41,
     "version": "2.7.0",
-    "updated_at": "2026-04-25T06:32:35Z",
+    "updated_at": "2026-04-25T14:57:46Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -2307,9 +2307,9 @@
     ],
     "social_link": "https://github.com/RichardLiuda",
     "category": "utilities",
-    "stars": 23,
+    "stars": 24,
     "version": "v2.2.2",
-    "updated_at": "2026-04-24T11:18:21Z",
+    "updated_at": "2026-04-25T15:33:19Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -4470,9 +4470,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 317,
+    "stars": 318,
     "version": "v4.10.2",
-    "updated_at": "2026-04-25T04:35:29Z",
+    "updated_at": "2026-04-25T15:10:37Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -9622,8 +9622,8 @@
     ],
     "category": "utilities",
     "stars": 10,
-    "version": "v1.3.0",
-    "updated_at": "2026-04-25T07:28:42Z",
+    "version": "v1.3.1",
+    "updated_at": "2026-04-25T14:49:15Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_anti_revoke/master/logo.png"
   },
   "input_state_by_napcat": {
@@ -13958,9 +13958,9 @@
       "QQ群管"
     ],
     "category": "utilities",
-    "stars": 130,
+    "stars": 131,
     "version": "v3.2.7",
-    "updated_at": "2026-04-22T14:26:19Z",
+    "updated_at": "2026-04-25T15:21:51Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
