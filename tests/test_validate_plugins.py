@@ -386,6 +386,23 @@ class HelperFunctionTests(unittest.TestCase):
 
 
 class DummyContextStubTests(unittest.IsolatedAsyncioTestCase):
+    def test_dummy_context_defers_plugin_data_dir_creation_until_requested(self):
+        module = load_validator_module()
+
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            astrbot_root = Path(tmp_dir) / "astrbot-root"
+            plugin_data_dir = astrbot_root / "data" / "plugin_data"
+
+            with mock.patch.dict(os.environ, {"ASTRBOT_ROOT": str(astrbot_root)}, clear=True):
+                context = module.DummyContext()
+                dir_exists_before = plugin_data_dir.exists()
+                created_dir = Path(context.get_data_dir())
+                dir_exists_after = plugin_data_dir.is_dir()
+
+        self.assertFalse(dir_exists_before)
+        self.assertEqual(created_dir.resolve(), plugin_data_dir.resolve())
+        self.assertTrue(dir_exists_after)
+
     def test_dummy_context_returns_worker_data_dir_for_plugin_storage(self):
         module = load_validator_module()
 

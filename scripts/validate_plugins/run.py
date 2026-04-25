@@ -654,27 +654,14 @@ class NullStub:
 
 class DummyConfig(dict):
     def __init__(self, initial=None) -> None:
-        super().__init__()
-        if initial:
-            for key, value in initial.items():
-                self[key] = value
+        super().__init__(initial or {})
 
-    @staticmethod
-    def _wrap(value):
-        if isinstance(value, dict) and not isinstance(value, DummyConfig):
-            return DummyConfig(value)
-        return value
-
-    def __setitem__(self, key, value) -> None:
-        super().__setitem__(key, self._wrap(value))
-
-    def __getitem__(self, key):
-        if key in self:
-            return super().__getitem__(key)
+    def __missing__(self, key):
+        del key
         return NullStub()
 
     def __getattr__(self, name: str):
-        return self.get(name)
+        return self[name]
 
 
 class DummyContext:
@@ -683,24 +670,29 @@ class DummyContext:
         self._astrbot_root = Path(os.environ.get("ASTRBOT_ROOT", Path.cwd())).resolve()
         self._data_root = self._astrbot_root / "data"
         self._plugin_data_dir = self._data_root / "plugin_data"
-        self._plugin_data_dir.mkdir(parents=True, exist_ok=True)
         self._config = DummyConfig(
             {
                 "wake_prefix": [],
-                "dashboard": {},
+                "dashboard": DummyConfig(),
                 "admins_id": [],
                 "admin_ids": [],
-                "platform_settings": {
+                "platform_settings": DummyConfig(
+                    {
                     "aiocqhttp": {},
                     "qqofficial": {},
                     "telegram": {},
                     "gewechat": {},
                     "wechatpadpro": {},
-                },
+                    }
+                ),
                 "data_dir": str(self._data_root),
             }
         )
         self.config = self._config
+
+    def _ensure_plugin_data_dir(self) -> Path:
+        self._plugin_data_dir.mkdir(parents=True, exist_ok=True)
+        return self._plugin_data_dir
 
     def get_all_stars(self):
         try:
@@ -735,11 +727,10 @@ class DummyContext:
         return self._config
 
     def get_context_config(self):
-        return self._config
+        return self.get_config()
 
     def get_data_dir(self) -> str:
-        self._plugin_data_dir.mkdir(parents=True, exist_ok=True)
-        return str(self._plugin_data_dir)
+        return str(self._ensure_plugin_data_dir())
 
     def __getattr__(self, name: str) -> NullStub:
         del name
