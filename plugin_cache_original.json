@@ -6,9 +6,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 40,
+    "stars": 41,
     "version": "2.5.3",
-    "updated_at": "2026-04-25T10:36:05Z",
+    "updated_at": "2026-04-25T12:21:30Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -2105,9 +2105,9 @@
     ],
     "social_link": "https://github.com/olozhika/",
     "category": "ai_tools",
-    "stars": 25,
+    "stars": 26,
     "version": "v1.3.1",
-    "updated_at": "2026-04-24T14:00:49Z",
+    "updated_at": "2026-04-25T11:39:51Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
