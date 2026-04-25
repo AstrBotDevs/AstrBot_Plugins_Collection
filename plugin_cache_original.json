@@ -6,9 +6,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 41,
+    "stars": 42,
     "version": "2.6.0",
-    "updated_at": "2026-04-25T13:24:51Z",
+    "updated_at": "2026-04-25T15:51:52Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -1915,9 +1915,9 @@
       "数据查询"
     ],
     "category": "entertainment",
-    "stars": 41,
+    "stars": 42,
     "version": "2.7.0",
-    "updated_at": "2026-04-25T14:57:46Z",
+    "updated_at": "2026-04-25T15:47:48Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -2105,9 +2105,9 @@
     ],
     "social_link": "https://github.com/olozhika/",
     "category": "ai_tools",
-    "stars": 26,
+    "stars": 27,
     "version": "v1.3.1",
-    "updated_at": "2026-04-25T11:39:51Z",
+    "updated_at": "2026-04-25T16:36:16Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
