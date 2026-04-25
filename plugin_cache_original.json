@@ -31,9 +31,9 @@
     "author": "middcom,dream,deepseek",
     "repo": "https://github.com/middcom/astrbot_plugin_affection",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "v1.2",
-    "updated_at": "2026-04-25T01:47:04Z"
+    "updated_at": "2026-04-25T08:33:22Z"
   },
   "astrbot_plugin_media_wiki": {
     "display_name": "MediaWiki 通用查询",
@@ -9622,8 +9622,8 @@
     ],
     "category": "utilities",
     "stars": 10,
-    "version": "v1.2.5",
-    "updated_at": "2026-04-21T03:05:54Z",
+    "version": "v1.3.0",
+    "updated_at": "2026-04-25T07:28:42Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_anti_revoke/master/logo.png"
   },
   "input_state_by_napcat": {
@@ -11270,7 +11270,7 @@
     "category": "integrations",
     "stars": 6,
     "version": "v1.1.0",
-    "updated_at": "2026-03-02T09:22:55Z"
+    "updated_at": "2026-04-25T08:33:28Z"
   },
   "astrbot_plugin_RecallGuard": {
     "name": "astrbot_plugin_RecallGuard",
@@ -12866,9 +12866,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 72,
+    "stars": 73,
     "version": "v2.1.0",
-    "updated_at": "2026-04-22T14:26:00Z",
+    "updated_at": "2026-04-25T08:19:08Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_pokepro/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
@@ -13525,9 +13525,9 @@
     "repo": "https://github.com/1113-yangfanou/astrbot_plugin_hello-bye",
     "category": "utilities",
     "tags": [],
-    "stars": 16,
+    "stars": 17,
     "version": "v1.11",
-    "updated_at": "2026-04-06T07:58:06Z",
+    "updated_at": "2026-04-25T08:13:17Z",
     "logo": "https://raw.githubusercontent.com/1113-yangfanou/astrbot_plugin_hello-bye/master/logo.png"
   },
   "astrbot_plugin_pexels": {
