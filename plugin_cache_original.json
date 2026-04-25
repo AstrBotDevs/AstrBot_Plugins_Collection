@@ -219,9 +219,9 @@
       "推送"
     ],
     "social_link": "https://github.com/FlanChanXwO",
-    "stars": 16,
+    "stars": 17,
     "version": "v1.0.20",
-    "updated_at": "2026-04-24T09:15:44Z",
+    "updated_at": "2026-04-25T11:02:18Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_rsshub/master/logo.png"
   },
   "astrbot_plugin_scriptor": {
@@ -2031,8 +2031,8 @@
     "social_link": "",
     "category": "utilities",
     "stars": 10,
-    "version": "v2.0.1",
-    "updated_at": "2026-04-24T22:51:27Z",
+    "version": "v2.0.2",
+    "updated_at": "2026-04-25T11:16:39Z",
     "logo": "https://raw.githubusercontent.com/Waterwzy/astrbot_plugin_firefly_filter/master/logo.png"
   },
   "astrbot-plugin-cet6": {
@@ -6306,9 +6306,9 @@
       "迫害群友"
     ],
     "category": "entertainment",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.2.9",
-    "updated_at": "2026-03-25T08:38:11Z"
+    "updated_at": "2026-04-25T11:25:55Z"
   },
   "astrbot_plugin_parser": {
     "display_name": "万能解析器",
