@@ -2477,8 +2477,8 @@
     ],
     "category": "integrations",
     "stars": 1,
-    "version": "1.1.1",
-    "updated_at": "2026-03-01T14:03:40Z",
+    "version": "2.0.0",
+    "updated_at": "2026-04-25T17:08:06Z",
     "logo": "https://raw.githubusercontent.com/Soffd/astrbot_plugin_yunhuAdapter/main/logo.png"
   },
   "astrbot-plugin-manbo-tts": {
@@ -6432,7 +6432,7 @@
     "category": "entertainment",
     "stars": 21,
     "version": "v2.2.7",
-    "updated_at": "2026-04-16T18:51:58Z",
+    "updated_at": "2026-04-25T16:56:21Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_life_scheduler/main/logo.png"
   },
   "astrbot_plugin_stealer": {
@@ -6824,8 +6824,8 @@
     ],
     "category": "entertainment",
     "stars": 1,
-    "version": "v1.4.3",
-    "updated_at": "2026-04-06T05:39:15Z",
+    "version": "v1.4.4",
+    "updated_at": "2026-04-25T17:06:32Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_CloudImg/master/logo.png"
   },
   "astrbot_plugin_aicu_analysis": {
