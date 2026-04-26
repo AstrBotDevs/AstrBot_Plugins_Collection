@@ -15,9 +15,9 @@
       "提示词优化"
     ],
     "social_link": "",
-    "stars": 1,
+    "stars": 2,
     "version": "0.6.1",
-    "updated_at": "2026-04-26T14:33:54Z",
+    "updated_at": "2026-04-26T17:09:00Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -124,9 +124,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 45,
+    "stars": 46,
     "version": "2.7.0",
-    "updated_at": "2026-04-26T16:28:48Z",
+    "updated_at": "2026-04-26T16:50:38Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -2457,8 +2457,8 @@
     "social_link": "https://github.com/menglimi",
     "category": "ai_tools",
     "stars": 38,
-    "version": "2.9.9",
-    "updated_at": "2026-04-22T16:54:11Z",
+    "version": "3.0.0",
+    "updated_at": "2026-04-26T17:26:21Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -5609,7 +5609,7 @@
     "category": "ai_tools",
     "stars": 57,
     "version": "v1.1",
-    "updated_at": "2026-04-23T03:57:06Z"
+    "updated_at": "2026-04-26T17:30:08Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -8931,7 +8931,7 @@
     "category": "utilities",
     "stars": 1,
     "version": "v2.0.2",
-    "updated_at": "2026-04-11T06:26:11Z",
+    "updated_at": "2026-04-26T16:46:42Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_file_checker/master/logo.png"
   },
   "astrbot_plugin_tg_button": {
@@ -12984,9 +12984,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 74,
+    "stars": 75,
     "version": "v2.1.0",
-    "updated_at": "2026-04-25T10:05:27Z",
+    "updated_at": "2026-04-26T17:02:03Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_pokepro/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
