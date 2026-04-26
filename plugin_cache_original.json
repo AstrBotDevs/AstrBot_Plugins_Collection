@@ -1,4 +1,73 @@
 {
+  "astrbot-plugin-omnidraw": {
+    "display_name": "万象画卷",
+    "desc": "占用低、速度快、配置简洁、质量高的生图插件。支持文生图与图生图、人设自拍；兼容openai；支持 LLM 工具自然调用、指令直接出图、使用权限管理（QQ）。新增视频生成，采用静默幽灵式获取。拥有强大的副脑（提示词优化）功能",
+    "author": "雪碧bir",
+    "repo": "https://github.com/diaomin66/astrbot_plugin_omnidraw/",
+    "tags": [
+      "生图",
+      "视频",
+      "文生图",
+      "图生图",
+      "异步视频",
+      "人设自拍",
+      "模型热切换",
+      "提示词优化"
+    ],
+    "social_link": "",
+    "stars": 1,
+    "version": "0.6.0",
+    "updated_at": "2026-04-26T12:37:25Z",
+    "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
+  },
+  "astrbot-plugin-essentials": {
+    "display_name": "Essentials",
+    "desc": "一款集成权限、经济、安全、管理功能的 AstrBot 基础插件。",
+    "author": "季楠",
+    "repo": "https://github.com/CPJiNan/astrbot_plugin_essentials",
+    "tags": [
+      "权限",
+      "经济",
+      "安全",
+      "管理"
+    ],
+    "social_link": "https://github.com/CPJiNan",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-04-26T12:47:57Z",
+    "logo": "https://raw.githubusercontent.com/CPJiNan/astrbot_plugin_essentials/main/logo.png"
+  },
+  "astrbot-plugin-hardworking": {
+    "display_name": "防摸鱼水群",
+    "desc": "一个可以让bot在你想水群的时候提醒你不要水群的插件",
+    "author": "Waterwzy",
+    "repo": "https://github.com/Waterwzy/astrbot_plugin_hardworking",
+    "tags": [
+      "自律",
+      "努力"
+    ],
+    "social_link": "",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-04-05T10:14:14Z",
+    "logo": "https://raw.githubusercontent.com/Waterwzy/astrbot_plugin_hardworking/master/logo.png"
+  },
+  "astrbot-plugin-skills-mcp-manager": {
+    "display_name": "Skills & MCP 管理器",
+    "desc": "为astrbot提供函数工具和指令来管理 AstrBot Skills 和 MCP 服务器。",
+    "author": "piexian",
+    "repo": "https://github.com/piexian/astrbot_plugin_skills_mcp_manager",
+    "tags": [
+      "工具",
+      "管理",
+      "mcp",
+      "skills"
+    ],
+    "social_link": "https://github.com/piexian",
+    "stars": 5,
+    "version": "0.1.7",
+    "updated_at": "2026-03-31T14:38:59Z"
+  },
   "astrbot_plugin_Astronomy_Picture_of_the_Day": {
     "display_name": "NASA 每日一图",
     "desc": "NASA 每日一图，使用指定的指令获取 NASA 的每日天文图片，支持语言模型翻译图片解释。",
@@ -152,9 +221,9 @@
       "游戏",
       "“解析"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "1.1.0",
-    "updated_at": "2026-04-26T11:17:49Z",
+    "updated_at": "2026-04-26T12:15:51Z",
     "logo": "https://raw.githubusercontent.com/timetetng/astrbot_plugin_osu_dl/main/logo.png"
   },
   "astrbot_plugin_majsoul": {
@@ -269,8 +338,8 @@
     ],
     "social_link": "https://github.com/FlanChanXwO",
     "stars": 17,
-    "version": "v1.1.1",
-    "updated_at": "2026-04-26T10:11:18Z",
+    "version": "v1.1.2",
+    "updated_at": "2026-04-26T12:08:37Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_rsshub/master/logo.png"
   },
   "astrbot_plugin_scriptor": {
@@ -664,9 +733,9 @@
       "股票"
     ],
     "social_link": "https://github.com/YYY7C",
-    "stars": 12,
+    "stars": 13,
     "version": "1.2.0",
-    "updated_at": "2026-04-24T05:16:32Z",
+    "updated_at": "2026-04-26T13:07:13Z",
     "logo": "https://raw.githubusercontent.com/YYY7C/TradingAgents-AstrBot/main/logo.png"
   },
   "astrbot-plugin-sts2-data": {
@@ -5048,8 +5117,8 @@
     "social_link": "https://www.misakanet.site",
     "category": "ai_tools",
     "stars": 4,
-    "version": "v1.0.2",
-    "updated_at": "2026-04-26T09:37:41Z",
+    "version": "v1.0.3",
+    "updated_at": "2026-04-26T11:53:03Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_image_generation/master/logo.png"
   },
   "astrbot_plugin_group_geetest_verfy": {
@@ -7044,7 +7113,7 @@
     "category": "ai_tools",
     "stars": 11,
     "version": "v1.3.1",
-    "updated_at": "2026-04-19T06:16:33Z",
+    "updated_at": "2026-04-26T12:05:27Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_gemini_image/master/logo.png"
   },
   "astrbot_plugin_gemini_image_generation": {
@@ -7130,9 +7199,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "utilities",
-    "stars": 127,
+    "stars": 128,
     "version": "v2.3.0",
-    "updated_at": "2026-04-17T18:07:13Z",
+    "updated_at": "2026-04-26T12:29:34Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -7582,7 +7651,7 @@
     "category": "utilities",
     "stars": 39,
     "version": "v6.0.0",
-    "updated_at": "2026-04-24T10:31:25Z",
+    "updated_at": "2026-04-26T13:10:20Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -8770,9 +8839,9 @@
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
     "category": "entertainment",
-    "stars": 24,
+    "stars": 25,
     "version": "v3.1.6",
-    "updated_at": "2026-04-14T17:45:02Z",
+    "updated_at": "2026-04-26T12:34:10Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_Favour_Ultra/main/logo.png"
   },
   "astrbot_plugin_owcx": {
@@ -14618,9 +14687,9 @@
       "消息推送"
     ],
     "category": "integrations",
-    "stars": 13,
+    "stars": 14,
     "version": "v0.2.2",
-    "updated_at": "2026-03-12T03:14:54Z"
+    "updated_at": "2026-04-26T12:00:16Z"
   },
   "astrbot_plugin_hello77": {
     "author": "hello七七",
