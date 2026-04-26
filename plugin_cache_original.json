@@ -180,7 +180,7 @@
     "tags": [],
     "stars": 7,
     "version": "v0.0.1",
-    "updated_at": "2026-04-19T05:57:37Z"
+    "updated_at": "2026-04-26T01:31:43Z"
   },
   "astrbot_plugin_btw": {
     "display_name": "ByTheWay 快捷问题",
@@ -270,7 +270,7 @@
     "social_link": "https://github.com/FlanChanXwO",
     "stars": 4,
     "version": "v1.0.3",
-    "updated_at": "2026-04-16T13:42:52Z",
+    "updated_at": "2026-04-26T01:33:11Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_imgexploration/master/logo.png"
   },
   "astrbot_plugin_eggSearch": {
@@ -587,9 +587,9 @@
       "更多主动功能"
     ],
     "social_link": "www.wyccotccy.cn",
-    "stars": 19,
+    "stars": 20,
     "version": "3.0.1",
-    "updated_at": "2026-04-23T11:35:59Z",
+    "updated_at": "2026-04-26T01:35:44Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -2073,9 +2073,9 @@
     "social_link": "https://github.com/Renyus",
     "category": "ai_tools",
     "tags": [],
-    "stars": 56,
+    "stars": 57,
     "version": "Ver 5.3.0",
-    "updated_at": "2026-04-23T13:49:47Z"
+    "updated_at": "2026-04-26T01:25:14Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -4915,7 +4915,7 @@
     "category": "entertainment",
     "stars": 14,
     "version": "v2.2.1",
-    "updated_at": "2026-04-15T05:49:32Z",
+    "updated_at": "2026-04-26T01:09:31Z",
     "logo": "https://raw.githubusercontent.com/kennylimz/astrbot_plugin_mudae_qq/main/logo.png"
   },
   "BUGJI/astrbot_plugin_balance": {
@@ -7011,7 +7011,7 @@
     "category": "ai_tools",
     "stars": 39,
     "version": "v1.9.14",
-    "updated_at": "2026-04-24T17:24:40Z",
+    "updated_at": "2026-04-26T02:01:31Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -8265,9 +8265,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 210,
+    "stars": 211,
     "version": "v1.2.2",
-    "updated_at": "2026-04-25T03:36:08Z",
+    "updated_at": "2026-04-26T02:13:34Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -11270,7 +11270,7 @@
     "category": "integrations",
     "stars": 6,
     "version": "v1.1.1",
-    "updated_at": "2026-04-25T10:05:39Z"
+    "updated_at": "2026-04-26T02:46:00Z"
   },
   "astrbot_plugin_RecallGuard": {
     "name": "astrbot_plugin_RecallGuard",
