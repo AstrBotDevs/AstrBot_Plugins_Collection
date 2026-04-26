@@ -1,4 +1,21 @@
 {
+  "astrbot-plugin-omnidraw": {
+    "display_name": "万象画卷",
+    "desc": "占用低、速度快、配置简洁、质量高的生图插件。支持文生图与图生图、人设自拍；兼容openai；支持 LLM 工具自然调用、指令直接出图、使用权限管理（QQ）。新增视频生成，采用静默幽灵式获取。拥有强大的副脑（提示词优化）功能",
+    "author": "雪碧bir",
+    "repo": "https://github.com/diaomin66/astrbot_plugin_omnidraw/",
+    "tags": [
+      "生图",
+      "视频",
+      "文生图",
+      "图生图",
+      "异步视频",
+      "人设自拍",
+      "模型热切换",
+      "提示词优化"
+    ],
+    "social_link": ""
+  },
   "astrbot-plugin-essentials": {
     "display_name": "Essentials",
     "desc": "一款集成权限、经济、安全、管理功能的 AstrBot 基础插件。",
