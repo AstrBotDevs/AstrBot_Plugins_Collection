@@ -16,8 +16,8 @@
     ],
     "social_link": "",
     "stars": 1,
-    "version": "0.6.0",
-    "updated_at": "2026-04-26T12:37:25Z",
+    "version": "0.6.1",
+    "updated_at": "2026-04-26T14:33:54Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -32,9 +32,9 @@
       "管理"
     ],
     "social_link": "https://github.com/CPJiNan",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-04-26T12:47:57Z",
+    "updated_at": "2026-04-26T14:36:22Z",
     "logo": "https://raw.githubusercontent.com/CPJiNan/astrbot_plugin_essentials/main/logo.png"
   },
   "astrbot-plugin-hardworking": {
@@ -1607,9 +1607,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 318,
+    "stars": 319,
     "version": "v4.10.3",
-    "updated_at": "2026-04-26T06:41:21Z",
+    "updated_at": "2026-04-26T14:24:02Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -4588,9 +4588,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 318,
+    "stars": 319,
     "version": "v4.10.3",
-    "updated_at": "2026-04-26T06:41:21Z",
+    "updated_at": "2026-04-26T14:24:02Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -5116,9 +5116,9 @@
     ],
     "social_link": "https://www.misakanet.site",
     "category": "ai_tools",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0.3",
-    "updated_at": "2026-04-26T11:53:03Z",
+    "updated_at": "2026-04-26T14:44:43Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_image_generation/master/logo.png"
   },
   "astrbot_plugin_group_geetest_verfy": {
@@ -10763,9 +10763,9 @@
     ],
     "social_link": "https://github.com/xiewoc",
     "category": "ai_tools",
-    "stars": 0,
+    "stars": 1,
     "version": "v0.0.1",
-    "updated_at": "2025-08-13T13:12:09Z"
+    "updated_at": "2026-04-26T14:16:47Z"
   },
   "astrbot_plugin_provider_ark": {
     "desc": "将可应用上下文缓存API的火山方舟(Volcengine Ark) 注册为 AstrBot 的对话服务提供商(Provider)(支持 /provider 切换)",
@@ -14655,8 +14655,8 @@
     ],
     "category": "utilities",
     "stars": 42,
-    "version": "v3.0.2",
-    "updated_at": "2026-04-22T14:26:31Z",
+    "version": "v3.0.3",
+    "updated_at": "2026-04-26T14:31:09Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
@@ -15179,9 +15179,9 @@
     ],
     "pinned": true,
     "category": "entertainment",
-    "stars": 248,
+    "stars": 249,
     "version": "v3.20",
-    "updated_at": "2026-04-24T04:11:11Z"
+    "updated_at": "2026-04-26T13:28:18Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
