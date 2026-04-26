@@ -1,4 +1,41 @@
 {
+  "astrbot_plugin_Astronomy_Picture_of_the_Day": {
+    "display_name": "NASA 每日一图",
+    "desc": "NASA 每日一图，使用指定的指令获取 NASA 的每日天文图片，支持语言模型翻译图片解释。",
+    "author": "Cysheper",
+    "repo": "https://github.com/Cysheper/astrbot_plugin_Astronomy_Picture_of_the_Day-APOD",
+    "tags": [
+      "NASA",
+      "apod",
+      "天文",
+      "星空",
+      "图片",
+      "每日一图"
+    ],
+    "social_link": "https://github.com/Cysheper"
+  },
+  "astrbot_plugin_twitter": {
+    "display_name": "Twitter 推文转发",
+    "desc": "基于 Nitter 镜像站的 Twitter 推文转发插件，支持多会话独立订阅、定时推送、链接识别、合并转发与推文翻译。",
+    "author": "Ars1027",
+    "repo": "https://github.com/Ars1027/astrbot_plugin_twitter",
+    "tags": [
+      "订阅",
+      "推送",
+      "Twitter",
+      "X",
+      "推特"
+    ]
+  },
+  "astrbot_plugin_course": {
+    "display_name": "早安课表",
+    "desc": "绑定后可查看今日、明日、本周及下周的课表，并支持课前提醒、每日定时发送课表。",
+    "version": "1.7.0",
+    "author": "NimYA",
+    "repo": "https://github.com/PolysaCHride/astrbot_plugin_course",
+    "astrbot_version": ">=4.19.4",
+    "support_platforms": "aiocqhttp"
+  },
   "astrbot-plugin-rocom": {
     "display_name": "洛克王国数据查询",
     "desc": "基于熵增项目组API的洛克王国数据查询插件，支持远行商人 个人信息 精灵查询 交换大厅 图鉴 配队攻略等查询渲染。",
