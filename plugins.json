@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-hardworking": {
+    "display_name": "防摸鱼水群",
+    "desc": "一个可以让bot在你想水群的时候提醒你不要水群的插件",
+    "author": "Waterwzy",
+    "repo": "https://github.com/Waterwzy/astrbot_plugin_hardworking",
+    "tags": [
+      "自律",
+      "努力"
+    ],
+    "social_link": ""
+  },
   "astrbot-plugin-skills-mcp-manager": {
     "display_name": "Skills & MCP 管理器",
     "desc": "为astrbot提供函数工具和指令来管理 AstrBot Skills 和 MCP 服务器。",
