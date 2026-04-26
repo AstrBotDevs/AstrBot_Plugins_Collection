@@ -3667,9 +3667,9 @@
       "codegen"
     ],
     "category": "ai_tools",
-    "stars": 50,
+    "stars": 51,
     "version": "1.3.9",
-    "updated_at": "2026-04-25T10:43:06Z",
+    "updated_at": "2026-04-26T17:46:38Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -7663,8 +7663,8 @@
     "category": "utilities",
     "tags": [],
     "stars": 1,
-    "version": "v1.1.0",
-    "updated_at": "2026-04-07T06:52:48Z"
+    "version": "v1.2.0",
+    "updated_at": "2026-04-26T18:25:37Z"
   },
   "astrbot_plugin_newapi_checkin": {
     "display_name": "New-API 签到抽奖插件",
