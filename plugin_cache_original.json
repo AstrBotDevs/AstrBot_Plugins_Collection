@@ -1,4 +1,53 @@
 {
+  "astrbot_plugin_Astronomy_Picture_of_the_Day": {
+    "display_name": "NASA 每日一图",
+    "desc": "NASA 每日一图，使用指定的指令获取 NASA 的每日天文图片，支持语言模型翻译图片解释。",
+    "author": "Cysheper",
+    "repo": "https://github.com/Cysheper/astrbot_plugin_Astronomy_Picture_of_the_Day-APOD",
+    "tags": [
+      "NASA",
+      "apod",
+      "天文",
+      "星空",
+      "图片",
+      "每日一图"
+    ],
+    "social_link": "https://github.com/Cysheper",
+    "stars": 1,
+    "version": "v0.0.1",
+    "updated_at": "2026-04-24T05:21:46Z",
+    "logo": "https://raw.githubusercontent.com/Cysheper/astrbot_plugin_Astronomy_Picture_of_the_Day-APOD/master/logo.png"
+  },
+  "astrbot_plugin_twitter": {
+    "display_name": "Twitter 推文转发",
+    "desc": "基于 Nitter 镜像站的 Twitter 推文转发插件，支持多会话独立订阅、定时推送、链接识别、合并转发与推文翻译。",
+    "author": "Ars1027",
+    "repo": "https://github.com/Ars1027/astrbot_plugin_twitter",
+    "tags": [
+      "订阅",
+      "推送",
+      "Twitter",
+      "X",
+      "推特"
+    ],
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-04-25T07:23:29Z",
+    "logo": "https://raw.githubusercontent.com/Ars1027/astrbot_plugin_twitter/master/logo.png"
+  },
+  "astrbot_plugin_course": {
+    "display_name": "早安课表",
+    "desc": "绑定后可查看今日、明日、本周及下周的课表，并支持课前提醒、每日定时发送课表。",
+    "version": "1.7.0",
+    "author": "NimYA",
+    "repo": "https://github.com/PolysaCHride/astrbot_plugin_course",
+    "astrbot_version": ">=4.19.4",
+    "support_platforms": "aiocqhttp",
+    "tags": [],
+    "stars": 3,
+    "updated_at": "2026-04-25T08:39:32Z",
+    "logo": "https://raw.githubusercontent.com/PolysaCHride/astrbot_plugin_course/main/logo.png"
+  },
   "astrbot-plugin-rocom": {
     "display_name": "洛克王国数据查询",
     "desc": "基于熵增项目组API的洛克王国数据查询插件，支持远行商人 个人信息 精灵查询 交换大厅 图鉴 配队攻略等查询渲染。",
@@ -220,8 +269,8 @@
     ],
     "social_link": "https://github.com/FlanChanXwO",
     "stars": 17,
-    "version": "v1.0.20",
-    "updated_at": "2026-04-25T18:17:42Z",
+    "version": "v1.1.0",
+    "updated_at": "2026-04-26T05:27:59Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_rsshub/master/logo.png"
   },
   "astrbot_plugin_scriptor": {
@@ -1886,8 +1935,8 @@
     "category": "integrations",
     "tags": [],
     "stars": 24,
-    "version": "v7.2.0",
-    "updated_at": "2026-04-25T04:16:28Z",
+    "version": "v7.2.1",
+    "updated_at": "2026-04-26T04:24:42Z",
     "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_mihome/main/logo.png"
   },
   "astrbot-plugin-nai-brush": {
@@ -1916,8 +1965,8 @@
     ],
     "category": "entertainment",
     "stars": 42,
-    "version": "2.7.0",
-    "updated_at": "2026-04-25T15:47:48Z",
+    "version": "2.8.0",
+    "updated_at": "2026-04-26T03:33:30Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -6547,9 +6596,9 @@
     "repo": "https://github.com/onniemi/astrbot_plugin_1panel",
     "category": "integrations",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.3",
-    "updated_at": "2026-04-10T21:44:26Z"
+    "updated_at": "2026-04-26T03:32:36Z"
   },
   "astrbot_plugin_gif_vision_helper": {
     "display_name": "GIF Vision Helper",
