@@ -1,4 +1,17 @@
 {
+  "astrbot-plugin-skills-mcp-manager": {
+    "display_name": "Skills & MCP 管理器",
+    "desc": "为astrbot提供函数工具和指令来管理 AstrBot Skills 和 MCP 服务器。",
+    "author": "piexian",
+    "repo": "https://github.com/piexian/astrbot_plugin_skills_mcp_manager",
+    "tags": [
+      "工具",
+      "管理",
+      "mcp",
+      "skills"
+    ],
+    "social_link": "https://github.com/piexian"
+  },
   "astrbot_plugin_Astronomy_Picture_of_the_Day": {
     "display_name": "NASA 每日一图",
     "desc": "NASA 每日一图，使用指定的指令获取 NASA 的每日天文图片，支持语言模型翻译图片解释。",
