@@ -124,9 +124,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 44,
+    "stars": 45,
     "version": "2.7.0",
-    "updated_at": "2026-04-26T15:38:08Z",
+    "updated_at": "2026-04-26T16:28:48Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -6439,9 +6439,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 106,
+    "stars": 107,
     "version": "v1.5.1",
-    "updated_at": "2026-04-22T14:25:49Z",
+    "updated_at": "2026-04-26T16:41:42Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -9878,9 +9878,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 153,
+    "stars": 154,
     "version": "2.2.9",
-    "updated_at": "2026-04-26T06:17:41Z",
+    "updated_at": "2026-04-26T16:21:58Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
