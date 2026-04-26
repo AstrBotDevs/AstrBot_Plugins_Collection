@@ -125,8 +125,8 @@
     "tags": [],
     "social_link": "",
     "stars": 44,
-    "version": "2.6.0",
-    "updated_at": "2026-04-26T09:52:46Z",
+    "version": "2.7.0",
+    "updated_at": "2026-04-26T15:38:08Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -386,9 +386,9 @@
       "图片来源"
     ],
     "social_link": "https://github.com/FlanChanXwO",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0.3",
-    "updated_at": "2026-04-26T01:33:11Z",
+    "updated_at": "2026-04-26T15:24:48Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_imgexploration/master/logo.png"
   },
   "astrbot_plugin_eggSearch": {
@@ -2721,8 +2721,8 @@
     ],
     "category": "ai_tools",
     "stars": 38,
-    "version": "v0.3.6",
-    "updated_at": "2026-04-19T11:00:15Z"
+    "version": "v0.3.7",
+    "updated_at": "2026-04-26T14:58:43Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -7128,8 +7128,8 @@
     "social_link": "https://github.com/piexian",
     "category": "ai_tools",
     "stars": 39,
-    "version": "v1.10.0",
-    "updated_at": "2026-04-26T10:13:17Z",
+    "version": "v1.10.1",
+    "updated_at": "2026-04-26T15:39:16Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -7651,7 +7651,7 @@
     "category": "utilities",
     "stars": 39,
     "version": "v6.0.0",
-    "updated_at": "2026-04-26T13:10:20Z",
+    "updated_at": "2026-04-26T15:25:08Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -8134,7 +8134,7 @@
     "category": "entertainment",
     "stars": 10,
     "version": "v2.0",
-    "updated_at": "2026-04-25T10:08:42Z"
+    "updated_at": "2026-04-26T14:51:54Z"
   },
   "astrbot_plugin_weibo_hot": {
     "desc": "自动抓取微博热榜。",
@@ -10708,9 +10708,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "integrations",
-    "stars": 114,
+    "stars": 115,
     "version": "v3.0.4",
-    "updated_at": "2026-04-24T08:10:40Z",
+    "updated_at": "2026-04-26T15:34:29Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
