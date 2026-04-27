@@ -1,4 +1,25 @@
 {
+  "astrbot-plugin-robomaster-assistant": {
+    "display_name": "RoboMaster赛事助手",
+    "desc": "提供 RoboMaster 规则手册检索、RM 官网公告监控和 RoboMaster 赛事状态通知。",
+    "author": "EmberLuo",
+    "repo": "https://github.com/CUBOT-robomaster/astrbot_plugin_robomaster_assistant",
+    "tags": [
+      "RoboMaster"
+    ],
+    "stars": 1,
+    "version": "0.5.0",
+    "updated_at": "2026-04-26T03:31:32Z"
+  },
+  "astrbot-plugin-api-rate-limiter": {
+    "desc": "多功能API调用管理插件，包含调用间隔限制、次数限制加冷却重开、安静时段定时切断三大功能",
+    "author": "小红蛋",
+    "repo": "https://github.com/xiaohondan/astrbot_plugin_api_rate_limiter",
+    "version": "1.0.0",
+    "tags": [],
+    "stars": 0,
+    "updated_at": "2026-04-27T04:28:17Z"
+  },
   "astrbot-plugin-history": {
     "display_name": "聊天记录备份",
     "desc": "在本地极速实时追加备份所有私聊与群聊记录，有效防范数据丢失。内置 WebUI 可视化面板随时浏览。最新版深度双向兼容 AstrBot 史前及最新 API 框架。",
@@ -31,9 +52,9 @@
       "提示词优化"
     ],
     "social_link": "",
-    "stars": 3,
+    "stars": 4,
     "version": "0.7.0",
-    "updated_at": "2026-04-27T01:40:44Z",
+    "updated_at": "2026-04-27T07:53:55Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -80,9 +101,9 @@
       "skills"
     ],
     "social_link": "https://github.com/piexian",
-    "stars": 5,
+    "stars": 6,
     "version": "0.1.7",
-    "updated_at": "2026-03-31T14:38:59Z"
+    "updated_at": "2026-04-27T07:40:39Z"
   },
   "astrbot_plugin_Astronomy_Picture_of_the_Day": {
     "display_name": "NASA 每日一图",
@@ -1791,8 +1812,8 @@
     "social_link": "https://github.com/jiantoucn",
     "category": "integrations",
     "stars": 8,
-    "version": "v1.12.2",
-    "updated_at": "2026-04-27T05:10:03Z",
+    "version": "v1.12.4",
+    "updated_at": "2026-04-27T06:47:19Z",
     "logo": "https://raw.githubusercontent.com/jiantoucn/astrbot_plugin_weibo_monitor/main/logo.png"
   },
   "astrbot-plugin-content-safety-guard": {
@@ -1965,9 +1986,9 @@
       "监控"
     ],
     "category": "productivity",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.3.2",
-    "updated_at": "2026-04-10T13:07:00Z",
+    "updated_at": "2026-04-27T06:34:01Z",
     "logo": "https://raw.githubusercontent.com/gangcaiyoule/astrbot_plugin_mail_notify/master/logo.png"
   },
   "astrbot-plugin-Xagent-searcher": {
@@ -6380,8 +6401,8 @@
     "social_link": "https://github.com/huizhiLLL",
     "category": "entertainment",
     "stars": 3,
-    "version": "v1.1.5",
-    "updated_at": "2026-04-27T05:34:10Z",
+    "version": "v1.1.6",
+    "updated_at": "2026-04-27T06:57:49Z",
     "logo": "https://raw.githubusercontent.com/huizhiLLL/astrbot_plugin_wca/master/logo.png"
   },
   "astrbot_plugin_memos_integrator": {
@@ -7667,7 +7688,7 @@
     "category": "utilities",
     "stars": 39,
     "version": "v6.0.0",
-    "updated_at": "2026-04-27T04:21:58Z",
+    "updated_at": "2026-04-27T08:29:28Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -9896,7 +9917,7 @@
     "category": "ai_tools",
     "stars": 155,
     "version": "2.2.9",
-    "updated_at": "2026-04-27T05:07:16Z",
+    "updated_at": "2026-04-27T08:02:03Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -12410,7 +12431,7 @@
     "category": "utilities",
     "stars": 9,
     "version": "V2.5.0",
-    "updated_at": "2026-04-20T05:45:44Z"
+    "updated_at": "2026-04-27T06:05:43Z"
   },
   "astrbot_dg_lab_plugin": {
     "author": "RC-CHN",
@@ -14819,9 +14840,9 @@
     ],
     "social_link": "https://github.com/miaoxutao123/",
     "category": "utilities",
-    "stars": 76,
+    "stars": 75,
     "version": "0.3.0",
-    "updated_at": "2026-04-20T11:24:22Z"
+    "updated_at": "2026-04-27T07:53:12Z"
   },
   "astrbot_plugin_sjzb": {
     "desc": "随机生成《绝地潜兵2》游戏中一组 4 个战备配置",
@@ -15445,9 +15466,9 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "category": "integrations",
     "tags": [],
-    "stars": 60,
+    "stars": 59,
     "version": "v1.5.8",
-    "updated_at": "2026-04-22T18:45:55Z",
+    "updated_at": "2026-04-27T07:53:12Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
