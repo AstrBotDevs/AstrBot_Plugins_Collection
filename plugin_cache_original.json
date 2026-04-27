@@ -1,4 +1,20 @@
 {
+  "astrbot-plugin-history": {
+    "display_name": "聊天记录备份",
+    "desc": "在本地极速实时追加备份所有私聊与群聊记录，有效防范数据丢失。内置 WebUI 可视化面板随时浏览。最新版深度双向兼容 AstrBot 史前及最新 API 框架。",
+    "author": "OmniTopia",
+    "repo": "https://github.com/Omnitopia/astrbot_plugin_history",
+    "tags": [
+      "聊天记录",
+      "备份",
+      "工具"
+    ],
+    "social_link": "https://github.com/Omnitopia",
+    "stars": 0,
+    "version": "v0.2.0",
+    "updated_at": "2026-04-20T13:29:21Z",
+    "logo": "https://raw.githubusercontent.com/Omnitopia/astrbot_plugin_history/main/logo.png"
+  },
   "astrbot-plugin-omnidraw": {
     "display_name": "万象画卷",
     "desc": "占用低、速度快、配置简洁、质量高的生图插件。支持文生图与图生图、人设自拍；兼容openai；支持 LLM 工具自然调用、指令直接出图、使用权限管理（QQ）。新增视频生成，采用静默幽灵式获取。拥有强大的副脑（提示词优化）功能",
@@ -15,9 +31,9 @@
       "提示词优化"
     ],
     "social_link": "",
-    "stars": 2,
-    "version": "0.6.1",
-    "updated_at": "2026-04-26T23:32:21Z",
+    "stars": 3,
+    "version": "0.7.0",
+    "updated_at": "2026-04-27T01:40:44Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -9416,7 +9432,7 @@
     "category": "integrations",
     "stars": 4,
     "version": "v1.0.3",
-    "updated_at": "2026-04-13T11:27:03Z"
+    "updated_at": "2026-04-27T02:29:24Z"
   },
   "astrbot_plugin_admin_emoji_reply": {
     "desc": "自动为指定的用户回复表情消息，支持开关和自定义速度",
