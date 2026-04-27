@@ -375,8 +375,8 @@
     ],
     "social_link": "https://github.com/FlanChanXwO",
     "stars": 17,
-    "version": "v1.1.2",
-    "updated_at": "2026-04-26T12:08:37Z",
+    "version": "v1.1.3",
+    "updated_at": "2026-04-27T18:29:05Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_rsshub/master/logo.png"
   },
   "astrbot_plugin_scriptor": {
@@ -7687,8 +7687,8 @@
     ],
     "category": "utilities",
     "stars": 39,
-    "version": "v6.0.0",
-    "updated_at": "2026-04-27T08:29:28Z",
+    "version": "v6.1.0",
+    "updated_at": "2026-04-27T18:39:40Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -10584,9 +10584,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
-    "stars": 49,
+    "stars": 50,
     "version": "v2.2.0",
-    "updated_at": "2026-04-24T07:52:45Z",
+    "updated_at": "2026-04-27T18:07:47Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wakepro/main/logo.png"
   },
   "astrbot_plugin_memora_connect": {
