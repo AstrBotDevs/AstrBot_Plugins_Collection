@@ -1,4 +1,13 @@
 {
+  "astrbot-plugin-robomaster-assistant": {
+    "display_name": "RoboMaster赛事助手",
+    "desc": "提供 RoboMaster 规则手册检索、RM 官网公告监控和 RoboMaster 赛事状态通知。",
+    "author": "EmberLuo",
+    "repo": "https://github.com/CUBOT-robomaster/astrbot_plugin_robomaster_assistant",
+    "tags": [
+      "RoboMaster"
+    ]
+  },
   "astrbot-plugin-api-rate-limiter": {
     "desc": "多功能API调用管理插件，包含调用间隔限制、次数限制加冷却重开、安静时段定时切断三大功能",
     "author": "小红蛋",
