@@ -161,9 +161,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 47,
+    "stars": 48,
     "version": "2.7.0",
-    "updated_at": "2026-04-27T15:37:58Z",
+    "updated_at": "2026-04-27T16:29:32Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -4345,9 +4345,9 @@
       "骰娘"
     ],
     "category": "entertainment",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.2.0",
-    "updated_at": "2026-04-16T08:01:35Z"
+    "updated_at": "2026-04-27T16:16:49Z"
   },
   "astrbot_plugin_bestdori_tools": {
     "display_name": "BanG！Dream！Bestdori工具箱",
@@ -6476,9 +6476,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 107,
+    "stars": 108,
     "version": "v1.5.1",
-    "updated_at": "2026-04-26T16:41:42Z",
+    "updated_at": "2026-04-27T15:54:00Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -7699,9 +7699,9 @@
     "social_link": "https://github.com/Butterblok233/",
     "category": "utilities",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.2.0",
-    "updated_at": "2026-04-26T18:25:37Z"
+    "updated_at": "2026-04-27T15:55:28Z"
   },
   "astrbot_plugin_newapi_checkin": {
     "display_name": "New-API 签到抽奖插件",
