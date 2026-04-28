@@ -2041,9 +2041,9 @@
     "repo": "https://github.com/674537331/astrbot_plugin_mihome",
     "category": "integrations",
     "tags": [],
-    "stars": 24,
+    "stars": 25,
     "version": "v7.2.1",
-    "updated_at": "2026-04-26T04:24:42Z",
+    "updated_at": "2026-04-28T21:51:29Z",
     "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_mihome/main/logo.png"
   },
   "astrbot-plugin-nai-brush": {
@@ -8994,9 +8994,9 @@
     ],
     "social_link": "https://zhxwu.com",
     "category": "ai_tools",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.0.0",
-    "updated_at": "2026-03-17T11:56:00Z"
+    "updated_at": "2026-04-28T21:04:05Z"
   },
   "astrbot_plugin_auto_approve_all": {
     "desc": "自动同意所有的群邀请和好友申请",
