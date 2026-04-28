@@ -139,7 +139,7 @@
     ],
     "stars": 2,
     "version": "v1.1.0",
-    "updated_at": "2026-04-28T16:34:51Z",
+    "updated_at": "2026-04-28T16:55:30Z",
     "logo": "https://raw.githubusercontent.com/Ars1027/astrbot_plugin_twitter/master/logo.png"
   },
   "astrbot_plugin_course": {
@@ -8490,7 +8490,7 @@
     "category": "entertainment",
     "stars": 3,
     "version": "v1.3.0",
-    "updated_at": "2026-03-13T17:29:31Z",
+    "updated_at": "2026-04-28T17:36:36Z",
     "logo": "https://raw.githubusercontent.com/furry520-source/astrbot_plugin_furry_zan/astrbot_plugin_furry_zan/logo.png"
   },
   "zhiyu-astrbot-business": {
@@ -13539,9 +13539,9 @@
     ],
     "social_link": "https://github.com/vmoranv-reborn",
     "category": "entertainment",
-    "stars": 29,
+    "stars": 30,
     "version": "1.7.3",
-    "updated_at": "2026-04-27T23:50:05Z",
+    "updated_at": "2026-04-28T17:02:27Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
