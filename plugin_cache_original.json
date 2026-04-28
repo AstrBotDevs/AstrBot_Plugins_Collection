@@ -52,9 +52,9 @@
       "提示词优化"
     ],
     "social_link": "",
-    "stars": 5,
-    "version": "0.8.0",
-    "updated_at": "2026-04-27T23:52:51Z",
+    "stars": 6,
+    "version": "0.9.0",
+    "updated_at": "2026-04-28T02:28:36Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -161,9 +161,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 48,
+    "stars": 49,
     "version": "2.7.0",
-    "updated_at": "2026-04-27T16:29:32Z",
+    "updated_at": "2026-04-28T00:49:43Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -374,9 +374,9 @@
       "推送"
     ],
     "social_link": "https://github.com/FlanChanXwO",
-    "stars": 17,
+    "stars": 18,
     "version": "v1.1.3",
-    "updated_at": "2026-04-27T18:29:05Z",
+    "updated_at": "2026-04-28T02:27:39Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_rsshub/master/logo.png"
   },
   "astrbot_plugin_scriptor": {
@@ -1644,9 +1644,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 320,
+    "stars": 321,
     "version": "v4.10.4",
-    "updated_at": "2026-04-27T09:12:44Z",
+    "updated_at": "2026-04-28T02:37:29Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -3941,9 +3941,9 @@
     ],
     "social_link": "https://github.com/piexian",
     "category": "ai_tools",
-    "stars": 15,
+    "stars": 17,
     "version": "v1.3.1",
-    "updated_at": "2026-04-12T09:34:06Z",
+    "updated_at": "2026-04-28T02:41:07Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_grok_web_search/master/logo.png"
   },
   "astrbot_plugin_fake_ai_watermark": {
@@ -4156,8 +4156,8 @@
     "social_link": "https://github.com/Heximiao",
     "category": "entertainment",
     "stars": 22,
-    "version": "v3.1.6",
-    "updated_at": "2026-04-27T10:58:34Z",
+    "version": "v3.1.8",
+    "updated_at": "2026-04-28T00:49:35Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
@@ -4625,9 +4625,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 320,
+    "stars": 321,
     "version": "v4.10.4",
-    "updated_at": "2026-04-27T09:12:44Z",
+    "updated_at": "2026-04-28T02:37:29Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -4733,9 +4733,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "entertainment",
-    "stars": 29,
+    "stars": 30,
     "version": "v1.0.16",
-    "updated_at": "2026-04-08T21:52:28Z",
+    "updated_at": "2026-04-28T02:37:18Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_love_formula/master/logo.png"
   },
   "astrbot_plugin_pjsk": {
@@ -5153,9 +5153,9 @@
     ],
     "social_link": "https://www.misakanet.site",
     "category": "ai_tools",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.0.3",
-    "updated_at": "2026-04-26T14:44:43Z",
+    "updated_at": "2026-04-28T02:37:31Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_image_generation/master/logo.png"
   },
   "astrbot_plugin_group_geetest_verfy": {
@@ -5878,9 +5878,9 @@
     ],
     "social_link": "https://github.com/Dayanshifu/",
     "category": "integrations",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.1.4",
-    "updated_at": "2026-04-22T14:28:18Z",
+    "updated_at": "2026-04-28T02:01:52Z",
     "logo": "https://raw.githubusercontent.com/Dayanshifu/astrbot_plugin_bilibili_livemonitor/main/logo.png"
   },
   "astrbot_plugin_hangout": {
@@ -7488,9 +7488,9 @@
     ],
     "social_link": "https://github.com/piexian",
     "category": "entertainment",
-    "stars": 10,
+    "stars": 11,
     "version": "1.2.6",
-    "updated_at": "2026-04-08T13:01:38Z",
+    "updated_at": "2026-04-28T02:37:39Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_rg2/master/logo.png"
   },
   "astrbot_plugin_maimaidx": {
@@ -7686,9 +7686,9 @@
       "推特"
     ],
     "category": "utilities",
-    "stars": 39,
+    "stars": 40,
     "version": "v6.1.0",
-    "updated_at": "2026-04-27T18:39:40Z",
+    "updated_at": "2026-04-28T00:39:07Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -8472,9 +8472,9 @@
     "social_link": "https://github.com/miaoxutao123",
     "category": "ai_tools",
     "tags": [],
-    "stars": 18,
+    "stars": 19,
     "version": "v1.2.0",
-    "updated_at": "2026-04-25T03:34:23Z"
+    "updated_at": "2026-04-28T02:19:57Z"
   },
   "astrbot_plugin_furry_zan": {
     "display_name": "爱点赞",
@@ -9316,9 +9316,9 @@
       "fishing"
     ],
     "category": "entertainment",
-    "stars": 37,
+    "stars": 38,
     "version": "2.4.7",
-    "updated_at": "2026-04-16T03:44:09Z",
+    "updated_at": "2026-04-28T02:44:14Z",
     "logo": "https://raw.githubusercontent.com/xxlemon-io/astrbot_plugin_fishing/main/logo.png"
   },
   "astrbot_plugin_astrmetry": {
@@ -9916,8 +9916,8 @@
     ],
     "category": "ai_tools",
     "stars": 155,
-    "version": "2.2.9",
-    "updated_at": "2026-04-27T08:02:03Z",
+    "version": "2.2.10",
+    "updated_at": "2026-04-28T03:05:53Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -11241,9 +11241,9 @@
       "监控"
     ],
     "category": "utilities",
-    "stars": 6,
+    "stars": 7,
     "version": "v2.0",
-    "updated_at": "2026-04-23T01:52:20Z"
+    "updated_at": "2026-04-28T03:22:40Z"
   },
   "astrbot_plugin_scheduler": {
     "desc": "功能强大的通用定时任务调度插件，支持 Cron 表达式、间隔执行、条件执行等多种调度方式。提供可视化配置界面和任务创建向导。",
