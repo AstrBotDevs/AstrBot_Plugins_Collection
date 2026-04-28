@@ -7,9 +7,10 @@
     "tags": [
       "RoboMaster"
     ],
-    "stars": 1,
-    "version": "0.5.1",
-    "updated_at": "2026-04-28T05:47:17Z"
+    "stars": 2,
+    "version": "0.5.3",
+    "updated_at": "2026-04-28T08:55:01Z",
+    "logo": "https://raw.githubusercontent.com/CUBOT-robomaster/astrbot_plugin_robomaster_assistant/main/logo.png"
   },
   "astrbot-plugin-api-rate-limiter": {
     "desc": "多功能API调用管理插件，包含调用间隔限制、次数限制加冷却重开、安静时段定时切断三大功能",
@@ -137,8 +138,8 @@
       "推特"
     ],
     "stars": 1,
-    "version": "v1.0.3",
-    "updated_at": "2026-04-28T05:10:01Z",
+    "version": "v1.1.0",
+    "updated_at": "2026-04-28T06:48:23Z",
     "logo": "https://raw.githubusercontent.com/Ars1027/astrbot_plugin_twitter/master/logo.png"
   },
   "astrbot_plugin_course": {
@@ -161,9 +162,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 51,
+    "stars": 53,
     "version": "2.7.0",
-    "updated_at": "2026-04-28T04:50:37Z",
+    "updated_at": "2026-04-28T09:17:13Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -665,9 +666,9 @@
       "今日老婆"
     ],
     "social_link": "https://github.com/Care0721",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.8.0",
-    "updated_at": "2026-04-25T17:45:11Z"
+    "updated_at": "2026-04-28T07:42:41Z"
   },
   "astrbot-plugin-morning-news": {
     "display_name": "飞书每日晨报",
@@ -742,9 +743,9 @@
       "更多主动功能"
     ],
     "social_link": "www.wyccotccy.cn",
-    "stars": 21,
+    "stars": 22,
     "version": "3.0.1",
-    "updated_at": "2026-04-27T14:13:52Z",
+    "updated_at": "2026-04-28T07:28:14Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -1644,9 +1645,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 323,
+    "stars": 324,
     "version": "v4.10.4",
-    "updated_at": "2026-04-28T06:07:29Z",
+    "updated_at": "2026-04-28T08:48:12Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1812,8 +1813,8 @@
     "social_link": "https://github.com/jiantoucn",
     "category": "integrations",
     "stars": 8,
-    "version": "v1.12.4",
-    "updated_at": "2026-04-27T06:47:19Z",
+    "version": "v1.12.5",
+    "updated_at": "2026-04-28T07:11:56Z",
     "logo": "https://raw.githubusercontent.com/jiantoucn/astrbot_plugin_weibo_monitor/main/logo.png"
   },
   "astrbot-plugin-content-safety-guard": {
@@ -4156,8 +4157,8 @@
     "social_link": "https://github.com/Heximiao",
     "category": "entertainment",
     "stars": 22,
-    "version": "v3.1.8",
-    "updated_at": "2026-04-28T00:49:35Z",
+    "version": "v3.1.9",
+    "updated_at": "2026-04-28T09:03:06Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
@@ -4625,9 +4626,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 323,
+    "stars": 324,
     "version": "v4.10.4",
-    "updated_at": "2026-04-28T06:07:29Z",
+    "updated_at": "2026-04-28T08:48:12Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -5275,9 +5276,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 278,
+    "stars": 279,
     "version": "Next-2.1.0",
-    "updated_at": "2026-04-27T11:33:40Z",
+    "updated_at": "2026-04-28T06:54:55Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -5956,9 +5957,9 @@
     ],
     "social_link": "https://github.com/MegSopern",
     "category": "entertainment",
-    "stars": 30,
+    "stars": 31,
     "version": "1.2.0",
-    "updated_at": "2026-04-09T09:58:04Z",
+    "updated_at": "2026-04-28T06:51:04Z",
     "logo": "https://raw.githubusercontent.com/MegSopern/astrbot_plugin_rollpig/main/logo.png"
   },
   "astrbot_plugin_big_banana": {
@@ -8420,9 +8421,9 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 213,
+    "stars": 214,
     "version": "v1.2.2",
-    "updated_at": "2026-04-27T14:26:17Z",
+    "updated_at": "2026-04-28T08:00:15Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -9146,7 +9147,7 @@
     "category": "utilities",
     "stars": 5,
     "version": "v1.3.1",
-    "updated_at": "2026-04-23T16:13:17Z",
+    "updated_at": "2026-04-28T07:44:52Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_GroupFS/master/logo.png"
   },
   "group_notice_manager": {
@@ -9915,9 +9916,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 155,
+    "stars": 156,
     "version": "2.2.10",
-    "updated_at": "2026-04-28T03:05:53Z",
+    "updated_at": "2026-04-28T07:55:08Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -10452,7 +10453,7 @@
     "tags": [],
     "stars": 0,
     "version": "v1.0.0",
-    "updated_at": "2026-04-11T18:16:25Z",
+    "updated_at": "2026-04-28T08:49:54Z",
     "logo": "https://raw.githubusercontent.com/L1ke40oz/astrbot_plugin_tts_modify/master/logo.png"
   },
   "astrbot_plugin_keyword_monitor": {
@@ -14113,9 +14114,9 @@
       "QQ群管"
     ],
     "category": "utilities",
-    "stars": 132,
+    "stars": 133,
     "version": "v3.2.7",
-    "updated_at": "2026-04-27T13:44:26Z",
+    "updated_at": "2026-04-28T09:03:23Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
