@@ -8,8 +8,8 @@
       "RoboMaster"
     ],
     "stars": 1,
-    "version": "0.5.0",
-    "updated_at": "2026-04-26T03:31:32Z"
+    "version": "0.5.1",
+    "updated_at": "2026-04-28T05:47:17Z"
   },
   "astrbot-plugin-api-rate-limiter": {
     "desc": "多功能API调用管理插件，包含调用间隔限制、次数限制加冷却重开、安静时段定时切断三大功能",
@@ -101,9 +101,9 @@
       "skills"
     ],
     "social_link": "https://github.com/piexian",
-    "stars": 6,
+    "stars": 7,
     "version": "0.1.7",
-    "updated_at": "2026-04-27T07:40:39Z"
+    "updated_at": "2026-04-28T03:31:50Z"
   },
   "astrbot_plugin_Astronomy_Picture_of_the_Day": {
     "display_name": "NASA 每日一图",
@@ -136,9 +136,9 @@
       "X",
       "推特"
     ],
-    "stars": 0,
-    "version": "v1.0.2",
-    "updated_at": "2026-04-27T12:40:56Z",
+    "stars": 1,
+    "version": "v1.0.3",
+    "updated_at": "2026-04-28T05:10:01Z",
     "logo": "https://raw.githubusercontent.com/Ars1027/astrbot_plugin_twitter/master/logo.png"
   },
   "astrbot_plugin_course": {
@@ -161,9 +161,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 49,
+    "stars": 51,
     "version": "2.7.0",
-    "updated_at": "2026-04-28T00:49:43Z",
+    "updated_at": "2026-04-28T04:50:37Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -232,7 +232,7 @@
     "social_link": "https://github.com/xianyuOvO0",
     "stars": 3,
     "version": "1.0.1",
-    "updated_at": "2026-04-25T10:22:01Z",
+    "updated_at": "2026-04-28T03:47:08Z",
     "logo": "https://raw.githubusercontent.com/xianyuOvO0/astrbot_plugin_osu_downloader/main/logo.png"
   },
   "astrbot_plugin_minecraft_multy_monitor": {
@@ -637,9 +637,9 @@
       "QQ"
     ],
     "social_link": "https://github.com/Ryan7t",
-    "stars": 3,
+    "stars": 4,
     "version": "v0.1.0",
-    "updated_at": "2026-04-19T09:22:27Z"
+    "updated_at": "2026-04-28T03:35:05Z"
   },
   "astrbot-plugin-lark-access-control": {
     "display_name": "飞书权限控制",
@@ -1130,9 +1130,9 @@
       "训练计划"
     ],
     "social_link": "",
-    "stars": 3,
+    "stars": 4,
     "version": "2.0.8",
-    "updated_at": "2026-03-24T10:11:29Z"
+    "updated_at": "2026-04-28T05:05:24Z"
   },
   "astrbot-plugin-minimax-alert": {
     "display_name": "MiniMax 用量查询",
@@ -1644,9 +1644,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 321,
+    "stars": 323,
     "version": "v4.10.4",
-    "updated_at": "2026-04-28T02:37:29Z",
+    "updated_at": "2026-04-28T06:07:29Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1986,9 +1986,9 @@
       "监控"
     ],
     "category": "productivity",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.3.2",
-    "updated_at": "2026-04-27T06:34:01Z",
+    "updated_at": "2026-04-28T05:01:29Z",
     "logo": "https://raw.githubusercontent.com/gangcaiyoule/astrbot_plugin_mail_notify/master/logo.png"
   },
   "astrbot-plugin-Xagent-searcher": {
@@ -3452,9 +3452,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 121,
+    "stars": 122,
     "version": "v2.0.7",
-    "updated_at": "2026-04-24T04:06:03Z",
+    "updated_at": "2026-04-28T04:44:14Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -4625,9 +4625,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 321,
+    "stars": 323,
     "version": "v4.10.4",
-    "updated_at": "2026-04-28T02:37:29Z",
+    "updated_at": "2026-04-28T06:07:29Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -5027,9 +5027,9 @@
     ],
     "social_link": "https://github.com/lxfight",
     "category": "utilities",
-    "stars": 9,
+    "stars": 10,
     "version": "1.2.0",
-    "updated_at": "2026-03-29T08:33:16Z"
+    "updated_at": "2026-04-28T03:30:24Z"
   },
   "astrbot_plugin_context_aware": {
     "display_name": "上下文场景感知增强",
@@ -5155,7 +5155,7 @@
     "category": "ai_tools",
     "stars": 6,
     "version": "v1.0.3",
-    "updated_at": "2026-04-28T02:37:31Z",
+    "updated_at": "2026-04-28T06:09:35Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_image_generation/master/logo.png"
   },
   "astrbot_plugin_group_geetest_verfy": {
@@ -5259,9 +5259,9 @@
     "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
     "category": "ai_tools",
     "tags": [],
-    "stars": 20,
+    "stars": 21,
     "version": "v4.6.2",
-    "updated_at": "2026-04-14T11:56:34Z",
+    "updated_at": "2026-04-28T03:30:44Z",
     "logo": "https://raw.githubusercontent.com/xiaoxi68/astrbot_zssm_explain/main/logo.png"
   },
   "astrbot_plugin_self_learning": {
@@ -7164,9 +7164,9 @@
     ],
     "social_link": "https://github.com/piexian",
     "category": "ai_tools",
-    "stars": 39,
+    "stars": 40,
     "version": "v1.10.1",
-    "updated_at": "2026-04-26T15:39:16Z",
+    "updated_at": "2026-04-28T04:19:54Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -14576,9 +14576,9 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "category": "entertainment",
-    "stars": 104,
+    "stars": 105,
     "version": "v3.0.3",
-    "updated_at": "2026-04-27T08:49:03Z",
+    "updated_at": "2026-04-28T06:07:41Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
@@ -14724,9 +14724,9 @@
       "消息推送"
     ],
     "category": "integrations",
-    "stars": 14,
+    "stars": 15,
     "version": "v0.2.2",
-    "updated_at": "2026-04-26T12:00:16Z"
+    "updated_at": "2026-04-28T03:31:58Z"
   },
   "astrbot_plugin_hello77": {
     "author": "hello七七",
