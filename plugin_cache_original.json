@@ -53,9 +53,9 @@
       "提示词优化"
     ],
     "social_link": "",
-    "stars": 7,
+    "stars": 8,
     "version": "0.9.0",
-    "updated_at": "2026-04-28T11:38:06Z",
+    "updated_at": "2026-04-29T13:34:40Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -70,9 +70,9 @@
       "管理"
     ],
     "social_link": "https://github.com/CPJiNan",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.1",
-    "updated_at": "2026-04-29T04:15:28Z",
+    "updated_at": "2026-04-29T13:00:08Z",
     "logo": "https://raw.githubusercontent.com/CPJiNan/astrbot_plugin_essentials/main/logo.png"
   },
   "astrbot-plugin-hardworking": {
@@ -162,9 +162,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 55,
+    "stars": 56,
     "version": "2.7.0",
-    "updated_at": "2026-04-29T03:25:54Z",
+    "updated_at": "2026-04-29T13:38:29Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -1647,7 +1647,7 @@
     "category": "productivity",
     "stars": 326,
     "version": "v4.10.4",
-    "updated_at": "2026-04-29T03:46:26Z",
+    "updated_at": "2026-04-29T12:52:12Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -1721,7 +1721,7 @@
     "category": "entertainment",
     "stars": 1,
     "version": "1.0.1",
-    "updated_at": "2026-03-26T06:24:45Z",
+    "updated_at": "2026-04-29T13:03:53Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_xbox/main/logo.png"
   },
   "astrbot-plugin-rss-forwarder": {
@@ -2229,9 +2229,9 @@
     "social_link": "https://github.com/Renyus",
     "category": "ai_tools",
     "tags": [],
-    "stars": 57,
+    "stars": 58,
     "version": "Ver 5.3.0",
-    "updated_at": "2026-04-29T03:39:00Z"
+    "updated_at": "2026-04-29T12:43:23Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -4628,7 +4628,7 @@
     "category": "utilities",
     "stars": 326,
     "version": "v4.10.4",
-    "updated_at": "2026-04-29T03:46:26Z",
+    "updated_at": "2026-04-29T12:52:12Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -4672,7 +4672,7 @@
     "category": "entertainment",
     "stars": 2,
     "version": "v1.0",
-    "updated_at": "2026-04-06T06:34:25Z",
+    "updated_at": "2026-04-29T11:44:57Z",
     "logo": "https://raw.githubusercontent.com/Ruafafa/astrbot_plugin_ww_gacha_sim/master/logo.png"
   },
   "astrbot_plugin_mysql": {
@@ -5231,9 +5231,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "utilities",
-    "stars": 48,
+    "stars": 49,
     "version": "1.1.1",
-    "updated_at": "2026-04-27T15:47:36Z"
+    "updated_at": "2026-04-29T13:27:04Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -5276,9 +5276,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 279,
+    "stars": 281,
     "version": "Next-2.1.0",
-    "updated_at": "2026-04-29T05:26:58Z",
+    "updated_at": "2026-04-29T13:46:06Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -8123,9 +8123,9 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "ai_tools",
-    "stars": 88,
+    "stars": 89,
     "version": "v1.2.1-(hotfix-重推)",
-    "updated_at": "2026-04-28T10:12:56Z",
+    "updated_at": "2026-04-29T12:17:06Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -8143,7 +8143,7 @@
     "category": "utilities",
     "stars": 15,
     "version": "1.7.8",
-    "updated_at": "2026-04-29T10:15:06Z",
+    "updated_at": "2026-04-29T13:01:53Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
@@ -9916,9 +9916,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 157,
+    "stars": 158,
     "version": "2.2.10",
-    "updated_at": "2026-04-28T16:12:26Z",
+    "updated_at": "2026-04-29T11:44:15Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
