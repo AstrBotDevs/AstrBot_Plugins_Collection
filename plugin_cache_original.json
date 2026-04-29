@@ -19,7 +19,7 @@
     "version": "2.2.0",
     "tags": [],
     "stars": 0,
-    "updated_at": "2026-04-29T06:14:21Z"
+    "updated_at": "2026-04-29T10:14:39Z"
   },
   "astrbot-plugin-history": {
     "display_name": "聊天记录备份",
@@ -393,8 +393,8 @@
       "数据库查询"
     ],
     "stars": 9,
-    "version": "1.0.1",
-    "updated_at": "2026-04-29T09:03:40Z",
+    "version": "1.0.2",
+    "updated_at": "2026-04-29T11:22:06Z",
     "logo": "https://raw.githubusercontent.com/ysf7762-dev/astrbot_plugin_scriptor/main/logo.png"
   },
   "astrbot_plugin_actions": {
@@ -890,7 +890,7 @@
     ],
     "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-04-04T14:41:21Z",
+    "updated_at": "2026-04-29T09:42:05Z",
     "logo": "https://raw.githubusercontent.com/hanhanpig3/astrbot_plugin_stardewvalleywiki/main/logo.png"
   },
   "astrbot-plugin-lark-richpost": {
@@ -1689,8 +1689,8 @@
     "social_link": "https://github.com/Lumivers/Lumi-Hub",
     "category": "ai_tools",
     "stars": 2,
-    "version": "0.9.0",
-    "updated_at": "2026-04-18T10:37:59Z"
+    "version": "1.0.0",
+    "updated_at": "2026-04-29T09:25:50Z"
   },
   "astrbot-plugin-arknights": {
     "display_name": "基于森空岛（Skland）公开API的明日方舟玩家数据查询AstrBot插件",
@@ -2073,7 +2073,7 @@
     "category": "entertainment",
     "stars": 44,
     "version": "2.8.0",
-    "updated_at": "2026-04-29T07:06:16Z",
+    "updated_at": "2026-04-29T11:18:42Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -6063,9 +6063,9 @@
       "群聊优化"
     ],
     "category": "ai_tools",
-    "stars": 82,
+    "stars": 83,
     "version": "0.8.25",
-    "updated_at": "2026-04-29T06:05:12Z",
+    "updated_at": "2026-04-29T09:53:47Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -8142,8 +8142,8 @@
     ],
     "category": "utilities",
     "stars": 15,
-    "version": "1.7.7",
-    "updated_at": "2026-04-08T19:55:05Z",
+    "version": "1.7.8",
+    "updated_at": "2026-04-29T10:15:06Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
@@ -9965,7 +9965,7 @@
     "category": "ai_tools",
     "stars": 16,
     "version": "v2.1.0",
-    "updated_at": "2026-04-29T09:01:50Z",
+    "updated_at": "2026-04-29T09:13:20Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_recall_cancel/main/logo.png"
   },
   "astrbot_plugin_multimsg": {
@@ -10426,9 +10426,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
-    "stars": 67,
+    "stars": 68,
     "version": "3.1.5",
-    "updated_at": "2026-04-20T06:45:17Z",
+    "updated_at": "2026-04-29T09:35:27Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "findx010197/astrbot_plugin_reminder": {
@@ -10451,9 +10451,9 @@
     "social_link": "https://github.com/L1ke40oz",
     "category": "utilities",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-04-28T08:49:54Z",
+    "updated_at": "2026-04-29T09:54:59Z",
     "logo": "https://raw.githubusercontent.com/L1ke40oz/astrbot_plugin_tts_modify/master/logo.png"
   },
   "astrbot_plugin_keyword_monitor": {
@@ -12456,9 +12456,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 148,
+    "stars": 149,
     "version": "v2.1.0",
-    "updated_at": "2026-04-27T03:58:14Z",
+    "updated_at": "2026-04-29T10:53:11Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
