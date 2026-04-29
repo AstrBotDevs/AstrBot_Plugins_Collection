@@ -8,8 +8,8 @@
       "RoboMaster"
     ],
     "stars": 2,
-    "version": "0.7.1",
-    "updated_at": "2026-04-29T18:02:49Z",
+    "version": "0.7.2",
+    "updated_at": "2026-04-29T18:17:54Z",
     "logo": "https://raw.githubusercontent.com/CUBOT-robomaster/astrbot_plugin_robomaster_assistant/main/logo.png"
   },
   "astrbot-plugin-api-rate-limiter": {
@@ -53,9 +53,9 @@
       "提示词优化"
     ],
     "social_link": "",
-    "stars": 8,
+    "stars": 9,
     "version": "0.9.0",
-    "updated_at": "2026-04-29T14:22:56Z",
+    "updated_at": "2026-04-29T18:55:52Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -452,9 +452,9 @@
       "esi"
     ],
     "social_link": "https://github.com/LZQ123PKQ",
-    "stars": 1,
+    "stars": 2,
     "version": "v2.1.3",
-    "updated_at": "2026-04-19T03:51:22Z",
+    "updated_at": "2026-04-29T18:21:43Z",
     "logo": "https://raw.githubusercontent.com/LZQ123PKQ/astrbot_plugin_eve_esi/main/logo.png"
   },
   "astrbot_plugin_gamdl": {
@@ -6064,8 +6064,8 @@
     ],
     "category": "ai_tools",
     "stars": 83,
-    "version": "0.8.25",
-    "updated_at": "2026-04-29T09:53:47Z",
+    "version": "0.8.28",
+    "updated_at": "2026-04-29T19:51:49Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -9146,8 +9146,8 @@
     ],
     "category": "utilities",
     "stars": 5,
-    "version": "v1.3.1",
-    "updated_at": "2026-04-28T07:44:52Z",
+    "version": "v1.3.2",
+    "updated_at": "2026-04-29T18:39:55Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_GroupFS/master/logo.png"
   },
   "group_notice_manager": {
@@ -10746,9 +10746,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "integrations",
-    "stars": 118,
+    "stars": 119,
     "version": "v3.0.4",
-    "updated_at": "2026-04-29T15:00:12Z",
+    "updated_at": "2026-04-29T18:41:09Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -12593,9 +12593,9 @@
     "repo": "https://github.com/VincenttHo/astrbot_plugin_dzmm",
     "category": "entertainment",
     "tags": [],
-    "stars": 22,
+    "stars": 23,
     "version": "v1.1.1",
-    "updated_at": "2026-04-20T11:16:18Z"
+    "updated_at": "2026-04-29T18:39:09Z"
   },
   "astrbot_plugin_text2image": {
     "author": "wuyan1003",
