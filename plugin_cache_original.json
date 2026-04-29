@@ -9,7 +9,7 @@
     ],
     "stars": 2,
     "version": "0.6.1",
-    "updated_at": "2026-04-28T16:45:13Z",
+    "updated_at": "2026-04-29T02:35:21Z",
     "logo": "https://raw.githubusercontent.com/CUBOT-robomaster/astrbot_plugin_robomaster_assistant/main/logo.png"
   },
   "astrbot-plugin-api-rate-limiter": {
@@ -743,9 +743,9 @@
       "更多主动功能"
     ],
     "social_link": "www.wyccotccy.cn",
-    "stars": 22,
+    "stars": 21,
     "version": "3.0.1",
-    "updated_at": "2026-04-28T07:28:14Z",
+    "updated_at": "2026-04-29T00:07:27Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -1813,8 +1813,8 @@
     "social_link": "https://github.com/jiantoucn",
     "category": "integrations",
     "stars": 8,
-    "version": "v1.12.5",
-    "updated_at": "2026-04-28T07:11:56Z",
+    "version": "v1.12.6",
+    "updated_at": "2026-04-29T02:42:30Z",
     "logo": "https://raw.githubusercontent.com/jiantoucn/astrbot_plugin_weibo_monitor/main/logo.png"
   },
   "astrbot-plugin-content-safety-guard": {
@@ -3690,8 +3690,8 @@
     ],
     "category": "integrations",
     "stars": 5,
-    "version": "v1.2.8",
-    "updated_at": "2026-03-19T15:53:29Z",
+    "version": "v1.2.9",
+    "updated_at": "2026-04-29T03:07:38Z",
     "logo": "https://raw.githubusercontent.com/DearCrazyLeaf/astrbot_plugin_steam_updates/master/logo.png"
   },
   "astrbot_plugin_codemage": {
@@ -4202,9 +4202,9 @@
       "图片"
     ],
     "category": "utilities",
-    "stars": 3,
+    "stars": 2,
     "version": "v1.1.5",
-    "updated_at": "2026-04-04T04:04:08Z"
+    "updated_at": "2026-04-29T00:07:28Z"
   },
   "astrbot_plugin_at_ignore": {
     "display_name": "忽略@消息",
@@ -4270,9 +4270,9 @@
       "QQ"
     ],
     "category": "utilities",
-    "stars": 8,
+    "stars": 7,
     "version": "v0.2.1",
-    "updated_at": "2026-04-16T05:20:38Z"
+    "updated_at": "2026-04-29T00:07:31Z"
   },
   "astrbot_plugin_skland": {
     "display_name": "森空岛签到",
@@ -4818,9 +4818,9 @@
     "repo": "https://github.com/2529huang/astrbot_plugin_fund_analyzer",
     "category": "productivity",
     "tags": [],
-    "stars": 14,
+    "stars": 15,
     "version": "2.0.0",
-    "updated_at": "2026-04-24T05:32:02Z",
+    "updated_at": "2026-04-29T02:37:57Z",
     "logo": "https://raw.githubusercontent.com/2529huang/astrbot_plugin_fund_analyzer/master/logo.png"
   },
   "astrbot_plugin_CNKD_Admin": {
@@ -5419,9 +5419,9 @@
     "repo": "https://github.com/TenmaGabriel0721/astrbot_plugin_llm_executor",
     "category": "ai_tools",
     "tags": [],
-    "stars": 7,
+    "stars": 8,
     "version": "1.1.0",
-    "updated_at": "2026-04-24T07:52:40Z"
+    "updated_at": "2026-04-29T01:42:46Z"
   },
   "astrbot_plugin_command_query": {
     "display_name": "指令查询工具",
@@ -5490,9 +5490,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 11,
+    "stars": 10,
     "version": "v1.0.1",
-    "updated_at": "2026-04-26T07:32:14Z",
+    "updated_at": "2026-04-29T00:07:23Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_extract/main/logo.png"
   },
   "astrbot_plugin_realistic_persona": {
@@ -9254,9 +9254,9 @@
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
     "category": "utilities",
-    "stars": 14,
+    "stars": 13,
     "version": "v0.1.0",
-    "updated_at": "2026-04-04T04:57:15Z"
+    "updated_at": "2026-04-29T00:07:25Z"
   },
   "qftp": {
     "desc": "一个基于 astrbot 的文件管理插件，支持文件下载、搜索等功能。只在napcat+linux下尝试",
@@ -10188,9 +10188,9 @@
     ],
     "social_link": "https://github.com/kjqwer",
     "category": "ai_tools",
-    "stars": 11,
+    "stars": 10,
     "version": "v1.1.0",
-    "updated_at": "2026-04-13T06:17:49Z"
+    "updated_at": "2026-04-29T00:07:19Z"
   },
   "astrbot_plugin_lark_send_patcher": {
     "desc": "通过猴子补丁的方式，优化了飞书Lark适配器下，机器人发送的消息引用太频繁的问题。现在飞书下所有的机器人回复从引用消息变更为直接发送。插件可能会随着astrbot本体版本更新，涉及到lark_adapter和lark_event重大更新时失效。",
@@ -10641,9 +10641,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 53,
+    "stars": 54,
     "version": "v2.2.2",
-    "updated_at": "2026-04-18T15:39:57Z",
+    "updated_at": "2026-04-29T02:58:19Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -15217,9 +15217,9 @@
     ],
     "pinned": true,
     "category": "entertainment",
-    "stars": 253,
+    "stars": 254,
     "version": "v3.20",
-    "updated_at": "2026-04-28T10:23:56Z"
+    "updated_at": "2026-04-29T03:00:40Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
