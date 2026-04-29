@@ -8,8 +8,8 @@
       "RoboMaster"
     ],
     "stars": 2,
-    "version": "0.7.0",
-    "updated_at": "2026-04-29T16:08:21Z",
+    "version": "0.7.1",
+    "updated_at": "2026-04-29T18:02:49Z",
     "logo": "https://raw.githubusercontent.com/CUBOT-robomaster/astrbot_plugin_robomaster_assistant/main/logo.png"
   },
   "astrbot-plugin-api-rate-limiter": {
@@ -72,7 +72,7 @@
     "social_link": "https://github.com/CPJiNan",
     "stars": 3,
     "version": "v1.0.1",
-    "updated_at": "2026-04-29T16:17:34Z",
+    "updated_at": "2026-04-29T16:41:08Z",
     "logo": "https://raw.githubusercontent.com/CPJiNan/astrbot_plugin_essentials/main/logo.png"
   },
   "astrbot-plugin-hardworking": {
@@ -1645,9 +1645,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 327,
+    "stars": 328,
     "version": "v4.10.4",
-    "updated_at": "2026-04-29T14:50:05Z",
+    "updated_at": "2026-04-29T18:00:07Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -2758,9 +2758,9 @@
       "人物画像"
     ],
     "category": "ai_tools",
-    "stars": 38,
+    "stars": 39,
     "version": "v0.3.7",
-    "updated_at": "2026-04-29T03:59:20Z"
+    "updated_at": "2026-04-29T17:55:57Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -2858,9 +2858,9 @@
     ],
     "social_link": "https://github.com/leafliber",
     "category": "ai_tools",
-    "stars": 27,
+    "stars": 28,
     "version": "v1.11.2",
-    "updated_at": "2026-04-26T21:39:22Z",
+    "updated_at": "2026-04-29T17:57:51Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -4626,9 +4626,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 327,
+    "stars": 328,
     "version": "v4.10.4",
-    "updated_at": "2026-04-29T14:50:05Z",
+    "updated_at": "2026-04-29T18:00:07Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -4670,9 +4670,9 @@
     ],
     "social_link": "https://github.com/Ruafafa",
     "category": "entertainment",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0",
-    "updated_at": "2026-04-29T11:44:57Z",
+    "updated_at": "2026-04-29T16:29:24Z",
     "logo": "https://raw.githubusercontent.com/Ruafafa/astrbot_plugin_ww_gacha_sim/master/logo.png"
   },
   "astrbot_plugin_mysql": {
@@ -4846,9 +4846,9 @@
     ],
     "social_link": "https://github.com/KonmaKanSinPack",
     "category": "ai_tools",
-    "stars": 13,
+    "stars": 14,
     "version": "v1.3.1",
-    "updated_at": "2026-04-19T09:22:25Z"
+    "updated_at": "2026-04-29T16:54:15Z"
   },
   "astrbot_plugin_engram": {
     "display_name": "仿生双轨记忆系统",
@@ -7166,8 +7166,8 @@
     "social_link": "https://github.com/piexian",
     "category": "ai_tools",
     "stars": 40,
-    "version": "v1.10.1",
-    "updated_at": "2026-04-28T04:19:54Z",
+    "version": "v1.10.2",
+    "updated_at": "2026-04-29T17:07:10Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -13278,7 +13278,7 @@
     "tags": [],
     "stars": 0,
     "version": "v1.0.0",
-    "updated_at": "2025-09-04T13:09:05Z"
+    "updated_at": "2026-04-29T16:31:37Z"
   },
   "astrbot_plugin_nvda": {
     "author": "LHaiC",
