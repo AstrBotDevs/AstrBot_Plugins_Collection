@@ -182,6 +182,8 @@ jq -r 'to_entries[] | .value.repo // empty' original_plugins.json | while read -
     stars=0
     updated_at=""
     version=""
+    astrbot_version=""
+    support_platforms=""
     logo=""
     status="unknown"
 
@@ -225,6 +227,21 @@ jq -r 'to_entries[] | .value.repo // empty' original_plugins.json | while read -
                   cleaned_version=$(echo "$parsed_version" | sed -E 's/[#].*$//' | sed -E 's/\r$//' | xargs)
                   if [ ! -z "$cleaned_version" ]; then
                     version="$cleaned_version"
+                  fi
+
+                  parsed_astrbot_version=$(echo "$metadata_content" | grep -E "^astrbot_version:\s*['\"]?([^'\"]+)['\"]?" | sed -E "s/astrbot_version:\s*['\"]?([^'\"]+)['\"]?/\1/" || echo "")
+                  cleaned_astrbot_version=$(echo "$parsed_astrbot_version" | sed -E 's/[#].*$//' | sed -E 's/\r$//' | xargs)
+                  if [ ! -z "$cleaned_astrbot_version" ]; then
+                    astrbot_version="$cleaned_astrbot_version"
+                  fi
+
+                  parsed_support_platforms=$(echo "$metadata_content" | grep -E "^support_platforms:\s*['\"]?([^'\"]+)['\"]?" | sed -E "s/support_platforms:\s*['\"]?([^'\"]+)['\"]?/\1/" || echo "")
+                  cleaned_support_platforms=$(echo "$parsed_support_platforms" | sed -E 's/[#].*$//' | sed -E 's/\r$//' | xargs)
+                  if [ ! -z "$cleaned_support_platforms" ]; then
+                    support_platforms="$cleaned_support_platforms"
+                  fi
+
+                  if [ ! -z "$version" ] || [ ! -z "$astrbot_version" ] || [ ! -z "$support_platforms" ]; then
                     break
                   fi
                 fi
@@ -273,12 +290,14 @@ jq -r 'to_entries[] | .value.repo // empty' original_plugins.json | while read -
 
     # 如果失败，尝试使用缓存数据
     if [ "$status" != "success" ] && [ "$HAS_EXISTING_CACHE" = "true" ]; then
-      cached_data=$(jq -r --arg url "$repo_url" '.data // {} | to_entries[] | select(.value.repo == $url) | .value | {stars: .stars, updated_at: .updated_at, version: .version, logo: .logo}' existing_cache.json 2>/dev/null || echo "{}")
+      cached_data=$(jq -r --arg url "$repo_url" '.data // {} | to_entries[] | select(.value.repo == $url) | .value | {stars: .stars, updated_at: .updated_at, version: .version, astrbot_version: .astrbot_version, support_platforms: .support_platforms, logo: .logo}' existing_cache.json 2>/dev/null || echo "{}")
 
       if [ "$cached_data" != "{}" ] && [ "$cached_data" != "" ]; then
         cached_stars=$(echo "$cached_data" | jq -r '.stars // 0')
         cached_updated=$(echo "$cached_data" | jq -r '.updated_at // ""')
         cached_version=$(echo "$cached_data" | jq -r '.version // ""')
+        cached_astrbot_version=$(echo "$cached_data" | jq -r '.astrbot_version // ""')
+        cached_support_platforms=$(echo "$cached_data" | jq -r '.support_platforms // ""')
         cached_logo=$(echo "$cached_data" | jq -r '.logo // ""')
 
         if [ "$cached_stars" != "0" ] || [ "$cached_updated" != "" ]; then
@@ -286,6 +305,8 @@ jq -r 'to_entries[] | .value.repo // empty' original_plugins.json | while read -
           stars="$cached_stars"
           updated_at="$cached_updated"
           version="$cached_version"
+          astrbot_version="$cached_astrbot_version"
+          support_platforms="$cached_support_platforms"
           logo="$cached_logo"
           status="cached"
         fi
@@ -297,9 +318,11 @@ jq -r 'to_entries[] | .value.repo // empty' original_plugins.json | while read -
        --arg stars "$stars" \
        --arg updated "$updated_at" \
        --arg version "$version" \
+       --arg astrbot_version "$astrbot_version" \
+       --arg support_platforms "$support_platforms" \
        --arg logo "$logo" \
        --arg status "$status" \
-       '. + {($url): {stars: ($stars | tonumber), updated_at: $updated, version: $version, logo: $logo, status: $status}}' \
+       '. + {($url): {stars: ($stars | tonumber), updated_at: $updated, version: $version, astrbot_version: $astrbot_version, support_platforms: $support_platforms, logo: $logo, status: $status}}' \
        repo_info.json > temp_repo_info.json && mv temp_repo_info.json repo_info.json
 
     # 添加基础延迟避免API限制
@@ -321,5 +344,4 @@ if [ $total_repos -gt 0 ]; then
 fi
 
 echo "✅ 仓库信息获取完成"
-
 

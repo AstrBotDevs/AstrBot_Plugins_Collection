@@ -36,6 +36,12 @@ map(
   else
   ($repo_entry | if . then .version else "" end) as $repo_version |
   ($cache_entry.version // "") as $cache_version |
+  ($repo_entry | if . then (.astrbot_version // "") else "" end) as $repo_astrbot_version |
+  ($cache_entry.astrbot_version // "") as $cache_astrbot_version |
+  ($plugin.value.astrbot_version // "") as $plugin_astrbot_version |
+  ($repo_entry | if . then (.support_platforms // null) else null end) as $repo_support_platforms |
+  ($cache_entry.support_platforms // null) as $cache_support_platforms |
+  ($plugin.value.support_platforms // null) as $plugin_support_platforms |
   ($repo_entry | if . then .stars else null end) as $repo_stars |
   ($cache_entry.stars // 0) as $cache_stars |
   ($repo_entry | if . then .updated_at else "" end) as $repo_updated |
@@ -46,6 +52,19 @@ map(
    elif ($cache_version // "") != "" then $cache_version
    else "1.0.0"
    end) as $final_version |
+  (if ($repo_astrbot_version // "") != "" then $repo_astrbot_version
+   elif ($cache_astrbot_version // "") != "" then $cache_astrbot_version
+   else $plugin_astrbot_version
+   end) as $final_astrbot_version |
+  (def nonempty:
+     if type == "string" then . != ""
+     elif type == "array" then length > 0
+     else . != null
+     end;
+   if ($repo_support_platforms | nonempty) then $repo_support_platforms
+   elif ($cache_support_platforms | nonempty) then $cache_support_platforms
+   else $plugin_support_platforms
+   end) as $final_support_platforms |
   (if ($repo_status == "success") and ($repo_stars != null) then $repo_stars else $cache_stars end) as $final_stars |
   (if ($repo_updated // "") != "" then $repo_updated
    elif ($cache_updated // "") != "" then $cache_updated
@@ -71,6 +90,8 @@ map(
           stars: ($final_stars // 0),
           version: $final_version
         }
+        + (if ($final_astrbot_version // "") != "" then { astrbot_version: $final_astrbot_version } else {} end)
+        + (if ((if ($final_support_platforms | type) == "string" then $final_support_platforms != "" elif ($final_support_platforms | type) == "array" then ($final_support_platforms | length) > 0 else $final_support_platforms != null end)) then { support_platforms: $final_support_platforms } else {} end)
         + (if ($final_updated // "") != "" then { updated_at: $final_updated } else {} end)
         + (if ($final_logo // "") != "" then { logo: $final_logo } else {} end)
       )
@@ -131,5 +152,4 @@ if [ "$redirected_repos" -gt 0 ]; then
   echo "🔄 发生重定向的仓库列表（已保留）:"
   jq -r 'to_entries[] | select(.value.status == "redirected") | "  - " + .key' repo_info.json
 fi
-
 

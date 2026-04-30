@@ -18,6 +18,7 @@ from typing import Any, Dict, Optional, Tuple
 
 REPO_URL_RE = re.compile(r"^https://github\.com/([^/]+)/([^/]+?)(?:\.git)?/?$")
 VERSION_RE = re.compile(r"^\s*version\s*:\s*['\"]?([^'\"\r\n#]+)", re.MULTILINE)
+METADATA_FIELD_RE = re.compile(r"^(\s*)(version|astrbot_version|support_platforms)\s*:\s*(.*)$")
 
 MAX_RETRIES = int(os.getenv("MAX_RETRIES", "5"))
 BASE_DELAY = float(os.getenv("BASE_DELAY", "2"))
@@ -157,6 +158,8 @@ def build_cache_by_repo(cache_data: Dict[str, Any]) -> Dict[str, Dict[str, Any]]
             "stars": int(value.get("stars") or 0),
             "updated_at": value.get("updated_at") or "",
             "version": value.get("version") or "",
+            "astrbot_version": value.get("astrbot_version") or "",
+            "support_platforms": value.get("support_platforms") or "",
             "logo": value.get("logo") or "",
         }
     return result
@@ -194,7 +197,100 @@ def fetch_repo(owner: str, repo: str) -> Tuple[Optional[Dict[str, Any]], str]:
     return None, "network_error"
 
 
-def extract_version(owner: str, repo: str) -> str:
+def strip_yaml_comment(value: str) -> str:
+    in_single = False
+    in_double = False
+    escaped = False
+    for index, char in enumerate(value):
+        if escaped:
+            escaped = False
+            continue
+        if char == "\\" and in_double:
+            escaped = True
+            continue
+        if char == "'" and not in_double:
+            in_single = not in_single
+            continue
+        if char == '"' and not in_single:
+            in_double = not in_double
+            continue
+        if char == "#" and not in_single and not in_double:
+            return value[:index].rstrip()
+    return value.strip()
+
+
+def parse_yaml_scalar(value: str) -> Any:
+    value = strip_yaml_comment(value).strip()
+    if not value:
+        return ""
+    if (value.startswith('"') and value.endswith('"')) or (value.startswith("'") and value.endswith("'")):
+        return value[1:-1]
+    if value.startswith("[") and value.endswith("]"):
+        items = []
+        for item in value[1:-1].split(","):
+            parsed = parse_yaml_scalar(item)
+            if parsed != "":
+                items.append(parsed)
+        return items
+    return value
+
+
+def is_present(value: Any) -> bool:
+    if isinstance(value, str):
+        return bool(value.strip())
+    if isinstance(value, list):
+        return bool(value)
+    return value is not None
+
+
+def parse_metadata_text(metadata_text: str) -> Dict[str, Any]:
+    fields: Dict[str, Any] = {}
+    lines = metadata_text.splitlines()
+    index = 0
+    while index < len(lines):
+        line = lines[index]
+        stripped = line.strip()
+        if not stripped or stripped.startswith("#"):
+            index += 1
+            continue
+
+        match = METADATA_FIELD_RE.match(line)
+        if not match:
+            index += 1
+            continue
+
+        indent, key, raw_value = match.groups()
+        value = parse_yaml_scalar(raw_value)
+        if value == "" and key == "support_platforms":
+            items = []
+            item_index = index + 1
+            while item_index < len(lines):
+                item_line = lines[item_index]
+                if item_line.strip() == "":
+                    item_index += 1
+                    continue
+                item_indent = len(item_line) - len(item_line.lstrip(" "))
+                if item_indent <= len(indent):
+                    break
+                item_stripped = item_line.strip()
+                if item_stripped.startswith("- "):
+                    item_value = parse_yaml_scalar(item_stripped[2:])
+                    if item_value != "":
+                        items.append(item_value)
+                    item_index += 1
+                    continue
+                break
+            if items:
+                value = items
+                index = item_index - 1
+
+        if is_present(value):
+            fields[key] = value
+        index += 1
+    return fields
+
+
+def extract_metadata_fields(owner: str, repo: str) -> Dict[str, Any]:
     for metadata_file in ("metadata.yml", "metadata.yaml"):
         url = f"https://api.github.com/repos/{owner}/{repo}/contents/{metadata_file}"
         payload, status = http_get_json(url, timeout=10)
@@ -207,10 +303,15 @@ def extract_version(owner: str, repo: str) -> str:
             metadata_text = base64.b64decode(content).decode("utf-8", errors="replace")
         except Exception:
             continue
-        match = VERSION_RE.search(metadata_text)
-        if match:
-            return match.group(1).strip()
-    return ""
+        fields = parse_metadata_text(metadata_text)
+        if fields:
+            return fields
+    return {}
+
+
+def extract_version(owner: str, repo: str) -> str:
+    version = extract_metadata_fields(owner, repo).get("version", "")
+    return str(version) if version else ""
 
 
 def extract_logo(owner: str, repo: str, default_branch: str) -> str:
@@ -225,6 +326,8 @@ def process_repo(repo_url: str, cache_by_repo: Dict[str, Dict[str, Any]], has_ex
     stars = 0
     updated_at = ""
     version = ""
+    astrbot_version: Any = ""
+    support_platforms: Any = ""
     logo = ""
     status = "unknown"
 
@@ -234,6 +337,8 @@ def process_repo(repo_url: str, cache_by_repo: Dict[str, Dict[str, Any]], has_ex
             "stars": stars,
             "updated_at": updated_at,
             "version": version,
+            "astrbot_version": astrbot_version,
+            "support_platforms": support_platforms,
             "logo": logo,
             "status": "invalid_repo_url",
         }
@@ -247,7 +352,10 @@ def process_repo(repo_url: str, cache_by_repo: Dict[str, Dict[str, Any]], has_ex
         stars = int(repo_payload.get("stargazers_count") or 0)
         updated_at = repo_payload.get("updated_at") or ""
         default_branch = repo_payload.get("default_branch") or "main"
-        version = extract_version(owner, repo)
+        metadata_fields = extract_metadata_fields(owner, repo)
+        version = str(metadata_fields.get("version") or "")
+        astrbot_version = metadata_fields.get("astrbot_version") or ""
+        support_platforms = metadata_fields.get("support_platforms") or ""
         logo = extract_logo(owner, repo, default_branch)
         print(f"  ✅ 成功 - Stars: {stars}, 更新时间: {updated_at}", flush=True)
         if logo:
@@ -259,6 +367,8 @@ def process_repo(repo_url: str, cache_by_repo: Dict[str, Dict[str, Any]], has_ex
                 stars = int(cached.get("stars", 0))
                 updated_at = str(cached.get("updated_at", ""))
                 version = str(cached.get("version", ""))
+                astrbot_version = cached.get("astrbot_version", "") or ""
+                support_platforms = cached.get("support_platforms", "") or ""
                 logo = str(cached.get("logo", ""))
                 status = "cached"
                 print(f"  🔄 使用缓存数据: Stars: {stars}", flush=True)
@@ -276,6 +386,8 @@ def process_repo(repo_url: str, cache_by_repo: Dict[str, Dict[str, Any]], has_ex
         "stars": stars,
         "updated_at": updated_at,
         "version": version,
+        "astrbot_version": astrbot_version,
+        "support_platforms": support_platforms,
         "logo": logo,
         "status": status,
     }
@@ -356,6 +468,12 @@ def transform_plugin_data(original_plugins: Dict[str, Any], repo_info: Dict[str,
 
         repo_version = (repo_entry.get("version") if isinstance(repo_entry, dict) else "") or ""
         cache_version = cache_entry.get("version", "") or ""
+        repo_astrbot_version = (repo_entry.get("astrbot_version") if isinstance(repo_entry, dict) else "") or ""
+        cache_astrbot_version = cache_entry.get("astrbot_version", "") or ""
+        plugin_astrbot_version = plugin.get("astrbot_version", "") or ""
+        repo_support_platforms = (repo_entry.get("support_platforms") if isinstance(repo_entry, dict) else "") or ""
+        cache_support_platforms = cache_entry.get("support_platforms", "") or ""
+        plugin_support_platforms = plugin.get("support_platforms", "") or ""
         repo_stars = repo_entry.get("stars") if isinstance(repo_entry, dict) else None
         cache_stars = cache_entry.get("stars", 0) or 0
         repo_updated = (repo_entry.get("updated_at") if isinstance(repo_entry, dict) else "") or ""
@@ -364,6 +482,8 @@ def transform_plugin_data(original_plugins: Dict[str, Any], repo_info: Dict[str,
         cache_logo = cache_entry.get("logo", "") or ""
 
         final_version = repo_version or cache_version or "1.0.0"
+        final_astrbot_version = repo_astrbot_version or cache_astrbot_version or plugin_astrbot_version
+        final_support_platforms = repo_support_platforms or cache_support_platforms or plugin_support_platforms
         final_stars = int(repo_stars) if repo_status == "success" and repo_stars is not None else int(cache_stars)
         final_updated = repo_updated or cache_updated or ""
         final_logo = repo_logo or cache_logo or ""
@@ -375,6 +495,14 @@ def transform_plugin_data(original_plugins: Dict[str, Any], repo_info: Dict[str,
         new_plugin["tags"] = plugin.get("tags", [])
         new_plugin["stars"] = final_stars
         new_plugin["version"] = final_version
+        if is_present(final_astrbot_version):
+            new_plugin["astrbot_version"] = final_astrbot_version
+        else:
+            new_plugin.pop("astrbot_version", None)
+        if is_present(final_support_platforms):
+            new_plugin["support_platforms"] = final_support_platforms
+        else:
+            new_plugin.pop("support_platforms", None)
         if "social_link" in plugin:
             new_plugin["social_link"] = plugin.get("social_link")
         if final_updated:
