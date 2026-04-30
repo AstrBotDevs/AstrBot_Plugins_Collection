@@ -54,9 +54,9 @@
       "提示词优化"
     ],
     "social_link": "",
-    "stars": 9,
+    "stars": 11,
     "version": "0.9.0",
-    "updated_at": "2026-04-29T18:55:52Z",
+    "updated_at": "2026-04-30T15:10:13Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -2242,9 +2242,9 @@
     "social_link": "QQ群：1071693895",
     "category": "productivity",
     "tags": [],
-    "stars": 8,
+    "stars": 9,
     "version": "2.4.0",
-    "updated_at": "2026-04-12T05:34:13Z"
+    "updated_at": "2026-04-30T14:53:09Z"
   },
   "astrbot-plugin-local-reminiscence": {
     "display_name": "本地回忆[APLR]",
@@ -2262,9 +2262,9 @@
     ],
     "social_link": "https://github.com/olozhika/",
     "category": "ai_tools",
-    "stars": 27,
+    "stars": 28,
     "version": "v1.3.2",
-    "updated_at": "2026-04-28T18:57:40Z",
+    "updated_at": "2026-04-30T15:06:37Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
@@ -2297,7 +2297,7 @@
     "category": "ai_tools",
     "stars": 15,
     "version": "v1.2.0",
-    "updated_at": "2026-04-30T13:28:34Z"
+    "updated_at": "2026-04-30T14:45:28Z"
   },
   "astrbot-plugin-memory": {
     "display_name": "astrbot_plugin_memory",
@@ -2633,9 +2633,9 @@
       "平台适配器"
     ],
     "category": "integrations",
-    "stars": 1,
+    "stars": 2,
     "version": "2.0.0",
-    "updated_at": "2026-04-25T17:08:06Z",
+    "updated_at": "2026-04-30T14:51:58Z",
     "logo": "https://raw.githubusercontent.com/Soffd/astrbot_plugin_yunhuAdapter/main/logo.png"
   },
   "astrbot-plugin-manbo-tts": {
@@ -4960,7 +4960,7 @@
     "category": "utilities",
     "stars": 6,
     "version": "v1.3.1",
-    "updated_at": "2026-04-05T14:07:25Z",
+    "updated_at": "2026-04-30T14:17:46Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_keywords_reply/master/logo.png"
   },
   "astrbot_plugin_text2img": {
@@ -7168,7 +7168,7 @@
     "category": "ai_tools",
     "stars": 40,
     "version": "v1.10.2",
-    "updated_at": "2026-04-29T17:07:10Z",
+    "updated_at": "2026-04-30T15:02:26Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -9919,7 +9919,7 @@
     "category": "ai_tools",
     "stars": 159,
     "version": "2.2.10",
-    "updated_at": "2026-04-30T07:39:16Z",
+    "updated_at": "2026-04-30T14:21:48Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -12945,9 +12945,9 @@
     "repo": "https://github.com/Raven95676/astrbot_plugin_bilibili_live",
     "category": "integrations",
     "tags": [],
-    "stars": 5,
+    "stars": 4,
     "version": "0.2.1",
-    "updated_at": "2026-04-30T07:51:39Z"
+    "updated_at": "2026-04-30T14:32:45Z"
   },
   "astrbot_plugin_bo": {
     "author": "anchor",
