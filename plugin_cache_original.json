@@ -227,11 +227,11 @@
       "推特"
     ],
     "stars": 7,
-    "version": "v1.1.0",
+    "version": "v1.2.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-04-30T05:45:10Z",
+    "updated_at": "2026-04-30T18:46:04Z",
     "logo": "https://raw.githubusercontent.com/Ars1027/astrbot_plugin_twitter/master/logo.png"
   },
   "astrbot_plugin_course": {
@@ -5675,9 +5675,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 282,
+    "stars": 283,
     "version": "Next-2.1.0",
-    "updated_at": "2026-04-30T09:27:07Z",
+    "updated_at": "2026-04-30T18:02:31Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -8100,8 +8100,8 @@
     ],
     "category": "entertainment",
     "stars": 2,
-    "version": "v1.0.5",
-    "updated_at": "2026-03-04T10:41:33Z"
+    "version": "v1.1.0",
+    "updated_at": "2026-04-30T17:49:34Z"
   },
   "astrbot_plugin_werewolf": {
     "display_name": "狼人杀游戏",
