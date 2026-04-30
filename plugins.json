@@ -1,4 +1,57 @@
 {
+  "astrbot_plugin_fund": {
+    "display_name": "个人基金投资分析助手",
+    "desc": "基于 AstrBot 的个人基金查询、持仓分析、风险提示与报告生成插件。",
+    "author": "fxquarter",
+    "repo": "https://github.com/fxquarter/astrbot_plugin_fund#",
+    "social_link": "https://github.com/fxquarter"
+  },
+  "astrbot_plugin_paperrag": {
+    "display_name": "PaperRAG",
+    "desc": "本地论文库RAG检索，为 AstrBot 提供智能的论文检索和问答能力（支持多模态 VLM 问答），并可通过研究想法生成功能自动创建含方法图的飞书周报。",
+    "author": "HUSTcyf",
+    "repo": "https://github.com/HUSTcyf/astrbot_plugin_paperrag.git",
+    "tags": [
+      "llamaindex",
+      "milvus"
+    ]
+  },
+  "astrbot_plugin_life_assistant": {
+    "display_name": "生活助手",
+    "desc": "一句话记账、一键写日记、自动追基金、智能管日程。对话即生活记录，支持 Obsidian 同步。",
+    "author": "白树",
+    "repo": "https://github.com/1fan-Song/astrbot_plugin_life_assistant.git",
+    "tags": [
+      "功能",
+      "生活",
+      "记录"
+    ],
+    "social_link": "https://github.com/1fan-Song"
+  },
+  "astrbot_plugin_daily_card": {
+    "display_name": "每日卡片 (Daily Card)",
+    "desc": "LLM驱动的每日卡片图片生成插件。19款模板、400×300纯黑白、自带中文字体，全部功能通过与 AI 对话驱动。图片生成后可由 LLM 调用 极趣AI便利贴(Zectrix Todo)",
+    "author": "zhangkai542322",
+    "repo": "https://github.com/zhangkai542322/astrbot_plugin_daily_card",
+    "tags": [
+      "图片生成",
+      "墨水屏",
+      "每日卡片",
+      "Zectrix",
+      "Ai便利贴"
+    ],
+    "social_link": "https://github.com/zhangkai542322"
+  },
+  "astrbot_plugin_model_connectivity": {
+    "display_name": "模型连通性状态图插件",
+    "desc": "这个插件会枚举当前 AstrBot WebUI 中已打开的聊天模型，并检测这些模型的连通性，最后发送一张类似状态页的看板图片",
+    "author": "blueraina",
+    "repo": "https://github.com/blueraina/astrbot_plugin_model_connectivity",
+    "tags": [
+      "连通性检测",
+      "模型检测"
+    ]
+  },
   "astrbot-plugin-robomaster-assistant": {
     "display_name": "RoboMaster赛事助手",
     "desc": "提供 RoboMaster 规则手册检索、RM 官网公告监控和 RoboMaster 赛事状态通知。",
