@@ -16,10 +16,10 @@
     "desc": "多功能API调用管理插件，包含调用间隔限制、次数限制加冷却重开、安静时段定时切断三大功能",
     "author": "小红蛋",
     "repo": "https://github.com/xiaohondan/astrbot_plugin_api_rate_limiter",
-    "version": "2.2.0",
+    "version": "2.4.2",
     "tags": [],
     "stars": 1,
-    "updated_at": "2026-04-30T11:03:00Z",
+    "updated_at": "2026-04-30T13:11:33Z",
     "logo": "https://raw.githubusercontent.com/xiaohondan/astrbot_plugin_api_rate_limiter/master/logo.png"
   },
   "astrbot-plugin-history": {
@@ -667,9 +667,9 @@
       "今日老婆"
     ],
     "social_link": "https://github.com/Care0721",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.8.0",
-    "updated_at": "2026-04-28T07:42:41Z"
+    "updated_at": "2026-04-30T12:34:07Z"
   },
   "astrbot-plugin-morning-news": {
     "display_name": "飞书每日晨报",
@@ -1553,9 +1553,9 @@
     "tags": [],
     "social_link": "",
     "category": "ai_tools",
-    "stars": 32,
+    "stars": 33,
     "version": "1.1.1",
-    "updated_at": "2026-04-28T18:27:30Z",
+    "updated_at": "2026-04-30T13:04:23Z",
     "logo": "https://raw.githubusercontent.com/Kalospacer/astrbot_plugin_maid_agent/master/logo.png"
   },
   "astrbot-plugin-stoprushingiamtyping": {
@@ -2074,7 +2074,7 @@
     "category": "entertainment",
     "stars": 44,
     "version": "2.8.0",
-    "updated_at": "2026-04-29T11:18:42Z",
+    "updated_at": "2026-04-30T12:49:13Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -2296,8 +2296,8 @@
     ],
     "category": "ai_tools",
     "stars": 15,
-    "version": "v1.1.0",
-    "updated_at": "2026-04-26T09:13:15Z"
+    "version": "v1.2.0",
+    "updated_at": "2026-04-30T13:28:34Z"
   },
   "astrbot-plugin-memory": {
     "display_name": "astrbot_plugin_memory",
@@ -5293,8 +5293,8 @@
     "social_link": "https://github.com/Li-shi-ling",
     "category": "entertainment",
     "stars": 5,
-    "version": "v1.2.3",
-    "updated_at": "2026-04-30T04:46:47Z"
+    "version": "v1.2.4",
+    "updated_at": "2026-04-30T13:25:36Z"
   },
   "astrbot_plugin_help_typst": {
     "display_name": "插件菜单(typst 实现)",
@@ -7690,7 +7690,7 @@
     "category": "utilities",
     "stars": 40,
     "version": "v6.1.1",
-    "updated_at": "2026-04-29T14:40:35Z",
+    "updated_at": "2026-04-30T13:48:08Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -13081,9 +13081,9 @@
     ],
     "social_link": "https://github.com/QiChenSn",
     "category": "entertainment",
-    "stars": 13,
+    "stars": 12,
     "version": "v1.6.0",
-    "updated_at": "2026-04-28T16:17:48Z"
+    "updated_at": "2026-04-30T13:22:22Z"
   },
   "astrbot_plugin_yinlish": {
     "author": "vmoranv",
@@ -14828,9 +14828,9 @@
     "repo": "https://github.com/yanfd/astrbot_plugin_server",
     "category": "utilities",
     "tags": [],
-    "stars": 4,
+    "stars": 3,
     "version": "v1.1",
-    "updated_at": "2026-04-12T10:09:19Z"
+    "updated_at": "2026-04-30T13:22:25Z"
   },
   "astrbot_plugin_videos_analysis": {
     "desc": "聚合视频分享链接解析（仅测试过napcat）",
@@ -15218,9 +15218,9 @@
     ],
     "pinned": true,
     "category": "entertainment",
-    "stars": 253,
+    "stars": 254,
     "version": "v3.20",
-    "updated_at": "2026-04-29T05:27:38Z"
+    "updated_at": "2026-04-30T12:59:13Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
