@@ -8,8 +8,8 @@
       "RoboMaster"
     ],
     "stars": 2,
-    "version": "0.7.2",
-    "updated_at": "2026-04-29T18:17:54Z",
+    "version": "0.7.3",
+    "updated_at": "2026-04-30T09:50:53Z",
     "logo": "https://raw.githubusercontent.com/CUBOT-robomaster/astrbot_plugin_robomaster_assistant/main/logo.png"
   },
   "astrbot-plugin-api-rate-limiter": {
@@ -19,7 +19,7 @@
     "version": "2.2.0",
     "tags": [],
     "stars": 1,
-    "updated_at": "2026-04-30T05:49:52Z",
+    "updated_at": "2026-04-30T11:03:00Z",
     "logo": "https://raw.githubusercontent.com/xiaohondan/astrbot_plugin_api_rate_limiter/master/logo.png"
   },
   "astrbot-plugin-history": {
@@ -509,9 +509,9 @@
       "uapi"
     ],
     "social_link": "https://github.com/lingyun14beta",
-    "stars": 5,
+    "stars": 6,
     "version": "2.1.2",
-    "updated_at": "2026-04-27T05:07:09Z",
+    "updated_at": "2026-04-30T10:00:30Z",
     "logo": "https://raw.githubusercontent.com/lingyun14beta/astrbot_plugin_uapipro_toolbox/main/logo.png"
   },
   "astrbot-plugin-mailer": {
@@ -993,9 +993,9 @@
       "入群欢迎"
     ],
     "social_link": "https://github.com/oujunhaoyueling",
-    "stars": 1,
+    "stars": 2,
     "version": "2.5.4",
-    "updated_at": "2026-04-10T12:40:24Z"
+    "updated_at": "2026-04-30T11:30:22Z"
   },
   "astrbot-plugin-central-intelligence": {
     "display_name": "Central Intelligence 记忆服务",
@@ -5277,9 +5277,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 281,
+    "stars": 282,
     "version": "Next-2.1.0",
-    "updated_at": "2026-04-29T13:46:06Z",
+    "updated_at": "2026-04-30T09:27:07Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -6619,9 +6619,9 @@
     ],
     "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
     "category": "utilities",
-    "stars": 30,
+    "stars": 31,
     "version": "v1.3.8",
-    "updated_at": "2026-04-29T09:01:58Z",
+    "updated_at": "2026-04-30T11:09:07Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -9239,9 +9239,9 @@
     "repo": "https://github.com/oldPeter616/astrbot_plugin_friberg",
     "category": "entertainment",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.6.0",
-    "updated_at": "2025-11-14T07:24:35Z"
+    "updated_at": "2026-04-30T09:15:41Z"
   },
   "群成员查询": {
     "desc": "[仅aiocqhttp]群成员查询工具，用于获取群成员的群昵称、QQ名称、QQ号、群内身份，返回给LLM的工具",
@@ -10943,9 +10943,9 @@
       "弗一把"
     ],
     "category": "entertainment",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.6.0",
-    "updated_at": "2025-11-14T07:24:35Z"
+    "updated_at": "2026-04-30T09:15:41Z"
   },
   "astrbot_plugin_better_markdown_to_image": {
     "desc": "更好的 Markdown 转图片，支持自动转换来自 LLM 的回复的 Markdown 内容和指令直接转换",
@@ -12013,9 +12013,9 @@
     ],
     "social_link": "https://github.com/oyxning",
     "category": "ai_tools",
-    "stars": 63,
+    "stars": 64,
     "version": "v3.5.1",
-    "updated_at": "2026-04-23T05:42:25Z",
+    "updated_at": "2026-04-30T11:26:41Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_antipromptinjector/master/logo.png"
   },
   "astrbot_plugin_alistfile": {
@@ -13351,9 +13351,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "entertainment",
-    "stars": 229,
+    "stars": 230,
     "version": "v3.0.3",
-    "updated_at": "2026-04-29T03:46:33Z",
+    "updated_at": "2026-04-30T11:26:34Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
