@@ -163,9 +163,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 62,
+    "stars": 63,
     "version": "2.7.0",
-    "updated_at": "2026-04-30T06:18:28Z",
+    "updated_at": "2026-04-30T08:26:00Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -1646,9 +1646,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 329,
+    "stars": 331,
     "version": "v4.10.4",
-    "updated_at": "2026-04-30T04:24:05Z",
+    "updated_at": "2026-04-30T07:26:09Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -4627,9 +4627,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 329,
+    "stars": 331,
     "version": "v4.10.4",
-    "updated_at": "2026-04-30T04:24:05Z",
+    "updated_at": "2026-04-30T07:26:09Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -5232,9 +5232,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "utilities",
-    "stars": 49,
+    "stars": 50,
     "version": "1.1.1",
-    "updated_at": "2026-04-29T13:27:04Z"
+    "updated_at": "2026-04-30T08:29:42Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -6049,8 +6049,8 @@
     ],
     "category": "ai_tools",
     "stars": 115,
-    "version": "1.3.10",
-    "updated_at": "2026-04-30T03:39:29Z",
+    "version": "1.3.11",
+    "updated_at": "2026-04-30T08:29:29Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -9454,8 +9454,8 @@
     ],
     "category": "integrations",
     "stars": 4,
-    "version": "v1.0.3",
-    "updated_at": "2026-04-27T02:29:24Z"
+    "version": "v1.1.1",
+    "updated_at": "2026-04-30T07:06:35Z"
   },
   "astrbot_plugin_admin_emoji_reply": {
     "desc": "自动为指定的用户回复表情消息，支持开关和自定义速度",
@@ -9917,9 +9917,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 158,
+    "stars": 159,
     "version": "2.2.10",
-    "updated_at": "2026-04-29T11:44:15Z",
+    "updated_at": "2026-04-30T07:39:16Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -12815,9 +12815,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
-    "stars": 78,
+    "stars": 79,
     "version": "v1.1.3",
-    "updated_at": "2026-04-18T15:50:00Z",
+    "updated_at": "2026-04-30T07:45:50Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
@@ -12945,9 +12945,9 @@
     "repo": "https://github.com/Raven95676/astrbot_plugin_bilibili_live",
     "category": "integrations",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "0.2.1",
-    "updated_at": "2025-10-04T13:59:39Z"
+    "updated_at": "2026-04-30T07:51:39Z"
   },
   "astrbot_plugin_bo": {
     "author": "anchor",
