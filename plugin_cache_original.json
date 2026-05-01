@@ -243,8 +243,8 @@
     "astrbot_version": ">=4.19.4",
     "support_platforms": "aiocqhttp",
     "tags": [],
-    "stars": 5,
-    "updated_at": "2026-04-27T10:00:16Z",
+    "stars": 6,
+    "updated_at": "2026-05-01T16:36:05Z",
     "logo": "https://raw.githubusercontent.com/PolysaCHride/astrbot_plugin_course/main/logo.png"
   },
   "astrbot-plugin-rocom": {
@@ -431,9 +431,9 @@
     "repo": "https://github.com/AstrBotDevs/builtin_commands_extension",
     "social_link": "https://docs.astrbot.app/use/command.html",
     "tags": [],
-    "stars": 7,
+    "stars": 8,
     "version": "v0.0.1",
-    "updated_at": "2026-04-26T01:31:43Z"
+    "updated_at": "2026-05-01T16:36:47Z"
   },
   "astrbot_plugin_btw": {
     "display_name": "ByTheWay 快捷问题",
@@ -5692,11 +5692,11 @@
     "social_link": "https://github.com/Li-shi-ling",
     "category": "entertainment",
     "stars": 5,
-    "version": "v1.2.4",
+    "version": "v1.2.12",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-04-30T13:25:36Z"
+    "updated_at": "2026-05-01T17:50:09Z"
   },
   "astrbot_plugin_help_typst": {
     "display_name": "插件菜单(typst 实现)",
@@ -9358,7 +9358,7 @@
     "tags": [],
     "stars": 5,
     "version": "v1.2.1",
-    "updated_at": "2026-04-16T06:52:03Z"
+    "updated_at": "2026-05-01T16:26:44Z"
   },
   "astrbot_plugin_hapemxg_Inspect": {
     "desc": "LLM 内容审查插件，集成了正则表达式与 AI 模型双重审查机制。当回复不合规时，能自动重试并智能引导模型修正，确保内容安全合规。",
@@ -11262,12 +11262,12 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 17,
+    "stars": 18,
     "version": "v1.0.2",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-04-13T01:55:07Z",
+    "updated_at": "2026-05-01T16:29:12Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_recall/main/logo.png"
   },
   "astrbot_plugin_record_converter": {
@@ -15994,10 +15994,10 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "category": "integrations",
     "tags": [],
-    "stars": 61,
+    "stars": 62,
     "version": "v1.5.8",
     "astrbot_version": ">=4.5.2",
-    "updated_at": "2026-04-27T15:44:11Z",
+    "updated_at": "2026-05-01T16:29:53Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
