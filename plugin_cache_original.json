@@ -254,9 +254,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 64,
+    "stars": 65,
     "version": "2.7.0",
-    "updated_at": "2026-05-01T03:27:35Z",
+    "updated_at": "2026-05-01T13:56:20Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -1375,9 +1375,9 @@
       "私聊",
       "群聊"
     ],
-    "stars": 8,
+    "stars": 9,
     "version": "v1.0.0",
-    "updated_at": "2026-05-01T03:43:09Z"
+    "updated_at": "2026-05-01T13:48:19Z"
   },
   "astrbot-plugin-dida365": {
     "display_name": "滴答清单连接器",
@@ -2036,9 +2036,9 @@
     ],
     "social_link": "https://github.com/RhoninSeiei",
     "category": "productivity",
-    "stars": 4,
+    "stars": 5,
     "version": "v0.4.3",
-    "updated_at": "2026-04-27T15:49:31Z"
+    "updated_at": "2026-05-01T13:44:32Z"
   },
   "astrbot-plugin-lyria": {
     "display_name": "Lyria音乐生成",
@@ -2903,9 +2903,9 @@
     ],
     "social_link": "https://github.com/LinJohn8",
     "category": "utilities",
-    "stars": 17,
+    "stars": 18,
     "version": "1.0.0",
-    "updated_at": "2026-04-29T04:41:54Z",
+    "updated_at": "2026-05-01T14:19:16Z",
     "logo": "https://raw.githubusercontent.com/LinJohn8/astrbot_plugin_custome_segment_reply/main/logo.png"
   },
   "astrbot-plugin-alteration-notifier": {
@@ -2937,7 +2937,8 @@
     "category": "entertainment",
     "stars": 2,
     "version": "v1.0.3",
-    "updated_at": "2026-04-25T01:51:39Z"
+    "updated_at": "2026-05-01T14:26:08Z",
+    "logo": "https://raw.githubusercontent.com/DNTOF/astrbot_plugin_sl_query/main/logo.png"
   },
   "astrbot-plugin-sky": {
     "display_name": "sky光遇助手",
@@ -3586,10 +3587,10 @@
     "social_link": "www.chuyel.cn",
     "category": "entertainment",
     "tags": [],
-    "stars": 15,
+    "stars": 16,
     "version": "v1.1.0",
     "astrbot_version": ">=4.17.6",
-    "updated_at": "2026-04-22T04:39:46Z",
+    "updated_at": "2026-05-01T13:58:25Z",
     "logo": "https://raw.githubusercontent.com/chuyegzs/astrbot_plugin_meting/main/logo.png"
   },
   "astrbot-plugin-comfyui": {
@@ -7538,8 +7539,8 @@
     ],
     "category": "ai_tools",
     "stars": 14,
-    "version": "3.6.1",
-    "updated_at": "2026-05-01T13:02:45Z"
+    "version": "3.6.2",
+    "updated_at": "2026-05-01T13:28:41Z"
   },
   "astrbot_plugin_timeprogress": {
     "display_name": "时间可视化",
