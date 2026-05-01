@@ -137,9 +137,9 @@
       "提示词优化"
     ],
     "social_link": "",
-    "stars": 11,
+    "stars": 12,
     "version": "0.9.0",
-    "updated_at": "2026-04-30T15:10:13Z",
+    "updated_at": "2026-05-01T09:23:00Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -155,8 +155,8 @@
     ],
     "social_link": "https://github.com/CPJiNan",
     "stars": 4,
-    "version": "v1.0.2",
-    "updated_at": "2026-05-01T05:27:31Z",
+    "version": "v1.0.3",
+    "updated_at": "2026-05-01T10:43:09Z",
     "logo": "https://raw.githubusercontent.com/CPJiNan/astrbot_plugin_essentials/main/logo.png"
   },
   "astrbot-plugin-hardworking": {
@@ -1930,8 +1930,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 331,
-    "version": "v4.10.4",
+    "stars": 332,
+    "version": "v4.10.5",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
       "aiocqhttp",
@@ -1939,7 +1939,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-04-30T07:26:09Z",
+    "updated_at": "2026-05-01T10:37:57Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -3824,9 +3824,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 123,
+    "stars": 124,
     "version": "v2.0.7",
-    "updated_at": "2026-05-01T03:14:18Z",
+    "updated_at": "2026-05-01T09:12:13Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -5011,8 +5011,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 331,
-    "version": "v4.10.4",
+    "stars": 332,
+    "version": "v4.10.5",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
       "aiocqhttp",
@@ -5020,7 +5020,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-04-30T07:26:09Z",
+    "updated_at": "2026-05-01T10:37:57Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -5766,13 +5766,13 @@
     "social_link": "https://github.com/Clhikari",
     "category": "productivity",
     "stars": 24,
-    "version": "v1.6.3-beta",
+    "version": "v1.7.0-preview",
     "support_platforms": [
       "aiocqhttp",
       "telegram",
       "discord"
     ],
-    "updated_at": "2026-05-01T08:52:56Z",
+    "updated_at": "2026-05-01T10:37:50Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -7676,9 +7676,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "utilities",
-    "stars": 130,
+    "stars": 131,
     "version": "v2.3.0",
-    "updated_at": "2026-04-30T04:55:21Z",
+    "updated_at": "2026-05-01T10:19:43Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -8875,7 +8875,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 219,
+    "stars": 220,
     "version": "v1.2.2",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -8887,7 +8887,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-04-30T15:54:24Z",
+    "updated_at": "2026-05-01T09:43:22Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -14842,9 +14842,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
     "category": "integrations",
-    "stars": 80,
+    "stars": 81,
     "version": "v3.1.0",
-    "updated_at": "2026-04-22T01:14:45Z",
+    "updated_at": "2026-05-01T09:29:09Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
