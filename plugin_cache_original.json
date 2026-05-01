@@ -72,7 +72,7 @@
     "stars": 0,
     "version": "v1.4.2",
     "astrbot_version": ">=4.9.2",
-    "updated_at": "2026-04-29T16:29:07Z",
+    "updated_at": "2026-05-01T05:59:55Z",
     "logo": "https://raw.githubusercontent.com/blueraina/astrbot_plugin_model_connectivity/main/logo.png"
   },
   "astrbot-plugin-robomaster-assistant": {
@@ -98,11 +98,11 @@
     "desc": "多功能API调用管理插件，包含调用间隔限制、次数限制加冷却重开、安静时段定时切断三大功能",
     "author": "小红蛋",
     "repo": "https://github.com/xiaohondan/astrbot_plugin_api_rate_limiter",
-    "version": "2.4.2",
+    "version": "2.4.5",
     "tags": [],
     "stars": 1,
     "astrbot_version": ">=4.16,<5",
-    "updated_at": "2026-04-30T13:11:33Z",
+    "updated_at": "2026-05-01T06:13:18Z",
     "logo": "https://raw.githubusercontent.com/xiaohondan/astrbot_plugin_api_rate_limiter/master/logo.png"
   },
   "astrbot-plugin-history": {
@@ -154,9 +154,9 @@
       "管理"
     ],
     "social_link": "https://github.com/CPJiNan",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.2",
-    "updated_at": "2026-05-01T03:29:05Z",
+    "updated_at": "2026-05-01T05:27:31Z",
     "logo": "https://raw.githubusercontent.com/CPJiNan/astrbot_plugin_essentials/main/logo.png"
   },
   "astrbot-plugin-hardworking": {
@@ -186,10 +186,10 @@
       "skills"
     ],
     "social_link": "https://github.com/piexian",
-    "stars": 7,
+    "stars": 8,
     "version": "0.1.7",
     "astrbot_version": ">=4.13.2",
-    "updated_at": "2026-04-28T03:31:50Z"
+    "updated_at": "2026-05-01T03:34:15Z"
   },
   "astrbot_plugin_Astronomy_Picture_of_the_Day": {
     "display_name": "NASA 每日一图",
@@ -1375,9 +1375,9 @@
       "私聊",
       "群聊"
     ],
-    "stars": 7,
+    "stars": 8,
     "version": "v1.0.0",
-    "updated_at": "2026-04-19T09:21:25Z"
+    "updated_at": "2026-05-01T03:43:09Z"
   },
   "astrbot-plugin-dida365": {
     "display_name": "滴答清单连接器",
@@ -2634,8 +2634,8 @@
     ],
     "category": "ai_tools",
     "stars": 15,
-    "version": "v1.2.0",
-    "updated_at": "2026-04-30T14:45:28Z"
+    "version": "v1.2.1",
+    "updated_at": "2026-05-01T06:25:13Z"
   },
   "astrbot-plugin-memory": {
     "display_name": "astrbot_plugin_memory",
@@ -5063,8 +5063,8 @@
     "social_link": "https://github.com/Ruafafa",
     "category": "entertainment",
     "stars": 3,
-    "version": "v1.0",
-    "updated_at": "2026-04-29T16:29:24Z",
+    "version": "v1.0.2",
+    "updated_at": "2026-05-01T05:38:17Z",
     "logo": "https://raw.githubusercontent.com/Ruafafa/astrbot_plugin_ww_gacha_sim/master/logo.png"
   },
   "astrbot_plugin_mysql": {
@@ -5772,7 +5772,7 @@
       "telegram",
       "discord"
     ],
-    "updated_at": "2026-04-21T08:29:15Z",
+    "updated_at": "2026-05-01T06:15:11Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -6464,9 +6464,9 @@
       "人格"
     ],
     "category": "ai_tools",
-    "stars": 116,
+    "stars": 117,
     "version": "1.3.11",
-    "updated_at": "2026-05-01T01:21:30Z",
+    "updated_at": "2026-05-01T03:42:24Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -8100,8 +8100,8 @@
     ],
     "category": "entertainment",
     "stars": 2,
-    "version": "v1.1.0",
-    "updated_at": "2026-04-30T17:49:34Z"
+    "version": "v1.1.5",
+    "updated_at": "2026-05-01T06:27:49Z"
   },
   "astrbot_plugin_werewolf": {
     "display_name": "狼人杀游戏",
@@ -10396,9 +10396,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 159,
+    "stars": 160,
     "version": "2.2.10",
-    "updated_at": "2026-04-30T14:21:48Z",
+    "updated_at": "2026-05-01T05:10:38Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -16397,9 +16397,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "ai_tools",
     "tags": [],
-    "stars": 235,
+    "stars": 236,
     "version": "v2.1.4",
-    "updated_at": "2026-04-30T00:54:41Z"
+    "updated_at": "2026-05-01T04:46:02Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
