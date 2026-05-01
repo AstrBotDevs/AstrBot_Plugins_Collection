@@ -5692,11 +5692,11 @@
     "social_link": "https://github.com/Li-shi-ling",
     "category": "entertainment",
     "stars": 5,
-    "version": "v1.2.12",
+    "version": "v1.2.15",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-01T17:50:09Z"
+    "updated_at": "2026-05-01T19:09:36Z"
   },
   "astrbot_plugin_help_typst": {
     "display_name": "插件菜单(typst 实现)",
