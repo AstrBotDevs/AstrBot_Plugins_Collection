@@ -1489,13 +1489,13 @@
     ],
     "social_link": "https://github.com/zzzwannasleep",
     "category": "productivity",
-    "stars": 1,
+    "stars": 2,
     "version": "0.1.0",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "telegram"
     ],
-    "updated_at": "2026-04-11T23:04:17Z"
+    "updated_at": "2026-05-02T02:28:29Z"
   },
   "astrbot-plugin-pjsk-guess-card": {
     "display_name": "PJSK猜卡面插件",
@@ -2515,8 +2515,8 @@
     "social_link": "",
     "category": "utilities",
     "stars": 10,
-    "version": "v2.1.1",
-    "updated_at": "2026-04-28T11:30:34Z",
+    "version": "v2.2.0",
+    "updated_at": "2026-05-02T02:00:11Z",
     "logo": "https://raw.githubusercontent.com/Waterwzy/astrbot_plugin_firefly_filter/master/logo.png"
   },
   "astrbot-plugin-cet6": {
@@ -3825,9 +3825,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 124,
+    "stars": 125,
     "version": "v2.0.7",
-    "updated_at": "2026-05-01T09:12:13Z",
+    "updated_at": "2026-05-02T00:07:25Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -5477,9 +5477,9 @@
       "余额"
     ],
     "category": "ai_tools",
-    "stars": 4,
+    "stars": 3,
     "version": "v1.2.0",
-    "updated_at": "2026-04-03T22:55:29Z"
+    "updated_at": "2026-05-02T02:00:21Z"
   },
   "astrbot_plugin_PersonaFlow": {
     "display_name": "astrbot_plugin_PersonaFlow",
@@ -5631,9 +5631,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "utilities",
-    "stars": 50,
+    "stars": 51,
     "version": "1.1.1",
-    "updated_at": "2026-04-30T08:29:42Z"
+    "updated_at": "2026-05-02T02:19:34Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -9117,9 +9117,9 @@
       "实用"
     ],
     "category": "utilities",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0",
-    "updated_at": "2025-10-16T03:46:45Z"
+    "updated_at": "2026-05-02T02:19:20Z"
   },
   "astrbot_plugin_nobrowser_markdown_to_pic": {
     "desc": "无浏览器实现 Markdown 转图片，基于 pillowmd 实现，支持指令和 LLM 自动转换",
