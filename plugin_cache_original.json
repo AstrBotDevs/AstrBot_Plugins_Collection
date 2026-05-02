@@ -187,9 +187,10 @@
     ],
     "social_link": "https://github.com/piexian",
     "stars": 8,
-    "version": "0.1.7",
+    "version": "0.1.8",
     "astrbot_version": ">=4.13.2",
-    "updated_at": "2026-05-01T03:34:15Z"
+    "updated_at": "2026-05-02T07:14:51Z",
+    "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_skills_mcp_manager/master/logo.png"
   },
   "astrbot_plugin_Astronomy_Picture_of_the_Day": {
     "display_name": "NASA 每日一图",
@@ -226,12 +227,12 @@
       "X",
       "推特"
     ],
-    "stars": 7,
+    "stars": 8,
     "version": "v1.2.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-04-30T18:46:04Z",
+    "updated_at": "2026-05-02T07:35:23Z",
     "logo": "https://raw.githubusercontent.com/Ars1027/astrbot_plugin_twitter/master/logo.png"
   },
   "astrbot_plugin_course": {
@@ -254,9 +255,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 65,
+    "stars": 66,
     "version": "2.7.0",
-    "updated_at": "2026-05-01T13:56:20Z",
+    "updated_at": "2026-05-02T07:32:52Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -5311,9 +5312,9 @@
     ],
     "social_link": "https://github.com/DITF16",
     "category": "ai_tools",
-    "stars": 60,
+    "stars": 61,
     "version": "1.1.1",
-    "updated_at": "2026-04-15T19:41:56Z",
+    "updated_at": "2026-05-02T06:50:53Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_groupGuard": {
@@ -6466,8 +6467,8 @@
     ],
     "category": "ai_tools",
     "stars": 117,
-    "version": "1.3.11",
-    "updated_at": "2026-05-01T03:42:24Z",
+    "version": "1.3.14",
+    "updated_at": "2026-05-02T06:08:56Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -7175,13 +7176,13 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
-    "stars": 69,
+    "stars": 70,
     "version": "v4.3.0",
     "astrbot_version": ">=4.16.0,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-04-26T11:33:47Z",
+    "updated_at": "2026-05-02T05:48:30Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -9380,8 +9381,8 @@
     "category": "entertainment",
     "tags": [],
     "stars": 3,
-    "version": "v2.3.0",
-    "updated_at": "2026-04-19T16:59:29Z"
+    "version": "v2.5.0",
+    "updated_at": "2026-05-02T06:23:18Z"
   },
   "astrbot-plugin-tmp-bot": {
     "desc": "欧洲卡车模拟2 TMP查询机器人 - 支持玩家信息查询、位置查询、服务器状态查询、里程排行榜等功能",
