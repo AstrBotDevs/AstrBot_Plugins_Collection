@@ -255,9 +255,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 66,
+    "stars": 67,
     "version": "2.7.0",
-    "updated_at": "2026-05-02T07:32:52Z",
+    "updated_at": "2026-05-02T10:16:39Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -5677,9 +5677,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 285,
+    "stars": 286,
     "version": "Next-2.1.0",
-    "updated_at": "2026-05-01T11:27:54Z",
+    "updated_at": "2026-05-02T10:44:49Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -5693,11 +5693,11 @@
     "social_link": "https://github.com/Li-shi-ling",
     "category": "entertainment",
     "stars": 5,
-    "version": "v1.2.15",
+    "version": "v1.2.19",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-01T19:09:36Z"
+    "updated_at": "2026-05-02T09:27:34Z"
   },
   "astrbot_plugin_help_typst": {
     "display_name": "插件菜单(typst 实现)",
@@ -6498,9 +6498,9 @@
       "聊天记录"
     ],
     "category": "ai_tools",
-    "stars": 19,
+    "stars": 20,
     "version": "1.0.6",
-    "updated_at": "2026-03-23T08:23:24Z",
+    "updated_at": "2026-05-02T10:41:26Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_eye/master/logo.png"
   },
   "lumingya/astrbot_plugin_regex_filter": {
@@ -8877,7 +8877,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 221,
+    "stars": 222,
     "version": "v1.2.2",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -8889,7 +8889,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-05-01T11:30:12Z",
+    "updated_at": "2026-05-02T09:14:20Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
