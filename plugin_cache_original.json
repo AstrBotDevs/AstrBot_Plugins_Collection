@@ -34,14 +34,14 @@
       "记录"
     ],
     "social_link": "https://github.com/1fan-Song",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.1.0",
     "astrbot_version": ">=4.17.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-04-29T10:03:42Z"
+    "updated_at": "2026-05-02T11:53:21Z"
   },
   "astrbot_plugin_daily_card": {
     "display_name": "每日卡片 (Daily Card)",
@@ -2824,9 +2824,9 @@
       "游戏"
     ],
     "category": "entertainment",
-    "stars": 2,
+    "stars": 3,
     "version": "2.1.5",
-    "updated_at": "2026-03-14T15:36:09Z"
+    "updated_at": "2026-05-02T12:34:50Z"
   },
   "astrbot-plugin-screen-companion": {
     "display_name": "我会一直看着你",
@@ -8545,9 +8545,9 @@
     ],
     "social_link": "https://github.com/Luna-channel",
     "category": "ai_tools",
-    "stars": 24,
+    "stars": 25,
     "version": "2.0.1",
-    "updated_at": "2026-05-02T11:12:37Z",
+    "updated_at": "2026-05-02T12:21:30Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_Conversa/main/logo.png"
   },
   "astrbot_plugin_shutdown": {
@@ -8593,8 +8593,8 @@
     ],
     "category": "utilities",
     "stars": 15,
-    "version": "1.7.9",
-    "updated_at": "2026-05-01T12:45:48Z",
+    "version": "1.8.0",
+    "updated_at": "2026-05-02T12:01:34Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
@@ -15745,9 +15745,9 @@
     ],
     "pinned": true,
     "category": "entertainment",
-    "stars": 256,
+    "stars": 257,
     "version": "v3.20",
-    "updated_at": "2026-05-01T08:59:46Z"
+    "updated_at": "2026-05-02T12:14:33Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
@@ -16088,8 +16088,8 @@
     "category": "entertainment",
     "tags": [],
     "stars": 7,
-    "version": "v1.2.0",
-    "updated_at": "2026-02-27T15:56:14Z",
+    "version": "v1.3",
+    "updated_at": "2026-05-02T12:28:16Z",
     "logo": "https://raw.githubusercontent.com/Last-emo-boy/astrbot_plugin_cr4zyThursday/master/logo.png"
   },
   "astrbot_plugin_buckshot_roulette": {
