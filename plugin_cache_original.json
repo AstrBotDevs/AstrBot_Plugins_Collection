@@ -116,9 +116,9 @@
       "工具"
     ],
     "social_link": "https://github.com/Omnitopia",
-    "stars": 0,
+    "stars": 1,
     "version": "v0.2.0",
-    "updated_at": "2026-04-20T13:29:21Z",
+    "updated_at": "2026-05-02T11:19:32Z",
     "logo": "https://raw.githubusercontent.com/Omnitopia/astrbot_plugin_history/main/logo.png"
   },
   "astrbot-plugin-omnidraw": {
@@ -2017,10 +2017,10 @@
     ],
     "social_link": "https://github.com/xiaoruange39",
     "category": "entertainment",
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.1",
     "astrbot_version": ">=4.16",
-    "updated_at": "2026-04-30T03:03:22Z",
+    "updated_at": "2026-05-02T11:11:06Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_xbox/main/logo.png"
   },
   "astrbot-plugin-rss-forwarder": {
@@ -7023,13 +7023,13 @@
     ],
     "category": "entertainment",
     "stars": 41,
-    "version": "2.5.7",
+    "version": "2.5.8",
     "astrbot_version": ">=4.10.4",
     "support_platforms": [
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-04-28T10:13:12Z",
+    "updated_at": "2026-05-02T11:00:00Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -8305,9 +8305,9 @@
       "指令"
     ],
     "category": "productivity",
-    "stars": 12,
+    "stars": 13,
     "version": "1.1.3",
-    "updated_at": "2026-03-13T16:12:47Z",
+    "updated_at": "2026-05-02T10:59:09Z",
     "logo": "https://raw.githubusercontent.com/TenmaGabriel0721/astrbot_plugin_permission-manager/main/logo.png"
   },
   "astrbot_plugin_whatslinkInfo": {
@@ -8545,9 +8545,9 @@
     ],
     "social_link": "https://github.com/Luna-channel",
     "category": "ai_tools",
-    "stars": 25,
+    "stars": 24,
     "version": "2.0.1",
-    "updated_at": "2026-05-01T08:53:02Z",
+    "updated_at": "2026-05-02T11:12:37Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_Conversa/main/logo.png"
   },
   "astrbot_plugin_shutdown": {
@@ -10398,9 +10398,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 161,
+    "stars": 160,
     "version": "2.2.10",
-    "updated_at": "2026-05-02T08:10:23Z",
+    "updated_at": "2026-05-02T11:12:40Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -13861,9 +13861,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "entertainment",
-    "stars": 232,
+    "stars": 233,
     "version": "v3.0.3",
-    "updated_at": "2026-05-02T08:27:27Z",
+    "updated_at": "2026-05-02T11:04:38Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
