@@ -187,9 +187,9 @@
     ],
     "social_link": "https://github.com/piexian",
     "stars": 8,
-    "version": "0.1.8",
-    "astrbot_version": ">=4.13.2",
-    "updated_at": "2026-05-02T07:14:51Z",
+    "version": "0.1.9",
+    "astrbot_version": ">=4.23.6",
+    "updated_at": "2026-05-02T18:02:14Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_skills_mcp_manager/master/logo.png"
   },
   "astrbot_plugin_Astronomy_Picture_of_the_Day": {
@@ -5514,9 +5514,9 @@
     ],
     "social_link": "https://github.com/WALKERKILLER",
     "category": "integrations",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2025-12-26T15:27:58Z",
+    "updated_at": "2026-05-02T18:45:50Z",
     "logo": "https://raw.githubusercontent.com/WALKERKILLER/astrbot_plugin_cloudmailapi/main/logo.png"
   },
   "astrbot_plugin_smart_quote": {
@@ -8573,10 +8573,10 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "ai_tools",
-    "stars": 90,
+    "stars": 91,
     "version": "v1.2.1-(hotfix-重推)",
     "astrbot_version": ">=4.11.0",
-    "updated_at": "2026-05-01T22:44:35Z",
+    "updated_at": "2026-05-02T18:29:53Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
