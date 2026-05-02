@@ -19,9 +19,9 @@
       "llamaindex",
       "milvus"
     ],
-    "stars": 3,
+    "stars": 4,
     "version": "1.12.3",
-    "updated_at": "2026-05-02T08:46:11Z"
+    "updated_at": "2026-05-02T17:04:57Z"
   },
   "astrbot_plugin_life_assistant": {
     "display_name": "生活助手",
@@ -83,7 +83,7 @@
     "tags": [
       "RoboMaster"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "0.7.3",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
@@ -91,7 +91,7 @@
       "qq_official",
       "lark"
     ],
-    "updated_at": "2026-04-30T09:50:53Z",
+    "updated_at": "2026-05-02T17:11:39Z",
     "logo": "https://raw.githubusercontent.com/CUBOT-robomaster/astrbot_plugin_robomaster_assistant/main/logo.png"
   },
   "astrbot-plugin-api-rate-limiter": {
@@ -860,13 +860,13 @@
       "更多主动功能"
     ],
     "social_link": "www.wyccotccy.cn",
-    "stars": 20,
+    "stars": 21,
     "version": "3.0.1",
     "astrbot_version": ">=4.20.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-02T15:19:47Z",
+    "updated_at": "2026-05-02T17:25:05Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -1541,13 +1541,13 @@
     ],
     "social_link": "https://github.com/NayukiChiba",
     "category": "productivity",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.0.1",
     "astrbot_version": ">=4.16",
     "support_platforms": [
       "aiocqhttp(OneBot v11)"
     ],
-    "updated_at": "2026-04-25T10:02:52Z",
+    "updated_at": "2026-05-02T17:30:53Z",
     "logo": "https://raw.githubusercontent.com/NayukiChiba/astrbot_plugin_arxiv/master/logo.png"
   },
   "astrbot-plugin-cve-warning": {
@@ -2601,9 +2601,9 @@
     ],
     "social_link": "https://github.com/olozhika/",
     "category": "ai_tools",
-    "stars": 28,
+    "stars": 29,
     "version": "v1.3.3",
-    "updated_at": "2026-05-02T13:52:09Z",
+    "updated_at": "2026-05-02T17:38:11Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
@@ -2825,8 +2825,8 @@
     ],
     "category": "entertainment",
     "stars": 3,
-    "version": "3.1.1",
-    "updated_at": "2026-05-02T16:24:06Z"
+    "version": "2.1.5",
+    "updated_at": "2026-05-02T17:08:01Z"
   },
   "astrbot-plugin-screen-companion": {
     "display_name": "我会一直看着你",
@@ -3826,9 +3826,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 125,
+    "stars": 126,
     "version": "v2.0.7",
-    "updated_at": "2026-05-02T00:07:25Z",
+    "updated_at": "2026-05-02T16:54:53Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -15631,9 +15631,9 @@
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
     "category": "ai_tools",
-    "stars": 119,
+    "stars": 120,
     "version": "v2.1.11",
-    "updated_at": "2026-05-01T07:24:20Z"
+    "updated_at": "2026-05-02T15:24:42Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
