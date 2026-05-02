@@ -866,7 +866,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-04-29T09:01:40Z",
+    "updated_at": "2026-05-02T15:19:47Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -2825,8 +2825,8 @@
     ],
     "category": "entertainment",
     "stars": 3,
-    "version": "3.0.0",
-    "updated_at": "2026-05-02T14:38:23Z"
+    "version": "3.1.1",
+    "updated_at": "2026-05-02T15:45:22Z"
   },
   "astrbot-plugin-screen-companion": {
     "display_name": "我会一直看着你",
@@ -3443,9 +3443,9 @@
     ],
     "social_link": "https://github.com/Radiant303",
     "category": "ai_tools",
-    "stars": 28,
+    "stars": 29,
     "version": "v2.3.1",
-    "updated_at": "2026-04-29T15:16:21Z",
+    "updated_at": "2026-05-02T15:09:09Z",
     "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_clonetts/master/logo.png"
   },
   "astrbot-plugin-ssh": {
@@ -4474,14 +4474,14 @@
     "social_link": "https://www.cnmsb.xin",
     "category": "entertainment",
     "stars": 2,
-    "version": "v1.9.0",
+    "version": "v1.9.1",
     "astrbot_version": ">=4.10.6,<5",
     "support_platforms": [
       "aiocqhttp",
       "telegram",
       "discord"
     ],
-    "updated_at": "2026-05-02T14:15:18Z",
+    "updated_at": "2026-05-02T14:50:04Z",
     "logo": "https://raw.githubusercontent.com/NyaNyagulugulu/astrbot_NekoMusic/main/logo.png"
   },
   "astrbot_plugin_mooncell_finder": {
@@ -7147,7 +7147,7 @@
     "category": "utilities",
     "stars": 2,
     "version": "0.6.1",
-    "updated_at": "2026-04-02T06:35:30Z"
+    "updated_at": "2026-05-02T14:54:03Z"
   },
   "astrbot_plugin_imgtool": {
     "display_name": "astrbot_plugin_imgtool",
@@ -9490,7 +9490,7 @@
     "category": "entertainment",
     "stars": 9,
     "version": "1.3.2",
-    "updated_at": "2026-05-02T14:20:37Z"
+    "updated_at": "2026-05-02T15:30:55Z"
   },
   "astrbot_plugin_sha_fork": {
     "desc": "基于原仓库 IGCrystal-NEO/astrbot_plugin_sha 的fork版本",
