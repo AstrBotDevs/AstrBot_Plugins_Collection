@@ -102,7 +102,7 @@
     "tags": [],
     "stars": 1,
     "astrbot_version": ">=4.16,<5",
-    "updated_at": "2026-05-01T15:38:50Z",
+    "updated_at": "2026-05-02T04:06:08Z",
     "logo": "https://raw.githubusercontent.com/xiaohondan/astrbot_plugin_api_rate_limiter/master/logo.png"
   },
   "astrbot-plugin-history": {
@@ -139,7 +139,7 @@
     "social_link": "",
     "stars": 12,
     "version": "0.9.0",
-    "updated_at": "2026-05-01T09:23:00Z",
+    "updated_at": "2026-05-02T04:50:48Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -156,7 +156,7 @@
     "social_link": "https://github.com/CPJiNan",
     "stars": 4,
     "version": "v1.0.4",
-    "updated_at": "2026-05-01T13:12:02Z",
+    "updated_at": "2026-05-02T03:43:25Z",
     "logo": "https://raw.githubusercontent.com/CPJiNan/astrbot_plugin_essentials/main/logo.png"
   },
   "astrbot-plugin-hardworking": {
@@ -11132,9 +11132,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 54,
+    "stars": 55,
     "version": "v2.2.2",
-    "updated_at": "2026-04-29T02:58:19Z",
+    "updated_at": "2026-05-02T03:08:34Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -11237,9 +11237,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "integrations",
-    "stars": 119,
+    "stars": 120,
     "version": "v3.0.4",
-    "updated_at": "2026-04-29T18:41:09Z",
+    "updated_at": "2026-05-02T05:37:59Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -13528,13 +13528,13 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 75,
+    "stars": 76,
     "version": "v2.1.0",
     "astrbot_version": ">=4.13.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-04-26T17:02:03Z",
+    "updated_at": "2026-05-02T03:00:14Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_pokepro/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
@@ -15995,9 +15995,9 @@
     "category": "integrations",
     "tags": [],
     "stars": 62,
-    "version": "v1.5.8",
+    "version": "v1.6.0",
     "astrbot_version": ">=4.5.2",
-    "updated_at": "2026-05-01T16:29:53Z",
+    "updated_at": "2026-05-02T03:06:37Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
