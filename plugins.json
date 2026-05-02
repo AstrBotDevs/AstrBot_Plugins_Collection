@@ -11811,5 +11811,17 @@
     "desc": "过滤消息段中的think",
     "repo": "https://github.com/zgojin/astrbot_plugin_thinkTags",
     "category": "utilities"
+  },
+  "astrbot_plugin_image2_gen": {
+    "display_name": "Image-2 生图",
+    "desc": "调用 OpenAI 兼容 Images API（默认 gpt-image-2）生成或编辑图片并发送，支持 /image2 指令与 LLM 工具后台派发。",
+    "author": "SGSxingchen",
+    "repo": "https://github.com/SGSxingchen/astrbot_plugin_image2_gen",
+    "tags": [
+      "image",
+      "image-generation",
+      "gpt-image-2",
+      "openai"
+    ]
   }
 }
