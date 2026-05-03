@@ -156,7 +156,7 @@
     "social_link": "https://github.com/CPJiNan",
     "stars": 6,
     "version": "v1.0.6",
-    "updated_at": "2026-05-03T14:14:27Z",
+    "updated_at": "2026-05-03T15:39:43Z",
     "logo": "https://raw.githubusercontent.com/CPJiNan/astrbot_plugin_essentials/main/logo.png"
   },
   "astrbot-plugin-hardworking": {
@@ -1547,7 +1547,7 @@
     "support_platforms": [
       "aiocqhttp(OneBot v11)"
     ],
-    "updated_at": "2026-05-03T14:20:23Z",
+    "updated_at": "2026-05-03T15:06:27Z",
     "logo": "https://raw.githubusercontent.com/NayukiChiba/astrbot_plugin_arxiv/master/logo.png"
   },
   "astrbot-plugin-cve-warning": {
@@ -5913,8 +5913,8 @@
     "category": "ai_tools",
     "tags": [],
     "stars": 3,
-    "version": "1.19.1",
-    "updated_at": "2026-05-03T14:44:16Z"
+    "version": "1.19.3",
+    "updated_at": "2026-05-03T15:31:54Z"
   },
   "astrbot_plugin_seedream_image": {
     "display_name": "火山方舟生图",
@@ -6821,8 +6821,8 @@
     "social_link": "https://github.com/huizhiLLL",
     "category": "entertainment",
     "stars": 3,
-    "version": "v1.1.10",
-    "updated_at": "2026-05-03T14:44:28Z",
+    "version": "v1.1.11",
+    "updated_at": "2026-05-03T15:25:55Z",
     "logo": "https://raw.githubusercontent.com/huizhiLLL/astrbot_plugin_wca/master/logo.png"
   },
   "astrbot_plugin_memos_integrator": {
