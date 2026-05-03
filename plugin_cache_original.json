@@ -19,9 +19,9 @@
       "llamaindex",
       "milvus"
     ],
-    "stars": 4,
+    "stars": 5,
     "version": "1.12.4",
-    "updated_at": "2026-05-02T19:21:45Z"
+    "updated_at": "2026-05-03T11:24:08Z"
   },
   "astrbot_plugin_life_assistant": {
     "display_name": "生活助手",
@@ -154,9 +154,9 @@
       "管理"
     ],
     "social_link": "https://github.com/CPJiNan",
-    "stars": 5,
-    "version": "v1.0.5",
-    "updated_at": "2026-05-03T09:57:57Z",
+    "stars": 6,
+    "version": "v1.0.6",
+    "updated_at": "2026-05-03T11:36:27Z",
     "logo": "https://raw.githubusercontent.com/CPJiNan/astrbot_plugin_essentials/main/logo.png"
   },
   "astrbot-plugin-hardworking": {
@@ -1931,7 +1931,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 333,
+    "stars": 332,
     "version": "v4.10.5",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -1940,7 +1940,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-05-03T04:44:25Z",
+    "updated_at": "2026-05-03T10:09:57Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -3175,9 +3175,9 @@
     ],
     "social_link": "https://axi404.top",
     "category": "ai_tools",
-    "stars": 22,
+    "stars": 23,
     "version": "0.2.4",
-    "updated_at": "2026-05-03T02:24:19Z"
+    "updated_at": "2026-05-03T11:37:39Z"
   },
   "astrbot-plugin-biliVideo": {
     "display_name": "哔哩哔哩视频总结",
@@ -5013,7 +5013,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 333,
+    "stars": 332,
     "version": "v4.10.5",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -5022,7 +5022,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-05-03T04:44:25Z",
+    "updated_at": "2026-05-03T10:09:57Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -5677,9 +5677,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 287,
+    "stars": 286,
     "version": "Next-2.1.0",
-    "updated_at": "2026-05-03T08:12:22Z",
+    "updated_at": "2026-05-03T10:09:59Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -5913,8 +5913,8 @@
     "category": "ai_tools",
     "tags": [],
     "stars": 3,
-    "version": "1.12.0",
-    "updated_at": "2026-05-03T09:41:53Z"
+    "version": "1.14.0",
+    "updated_at": "2026-05-03T11:38:48Z"
   },
   "astrbot_plugin_seedream_image": {
     "display_name": "火山方舟生图",
@@ -8883,7 +8883,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 224,
+    "stars": 223,
     "version": "v1.2.2",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -8895,7 +8895,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-05-03T05:01:49Z",
+    "updated_at": "2026-05-03T10:10:01Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -10557,9 +10557,9 @@
     ],
     "social_link": "blog.isla.ltd",
     "category": "integrations",
-    "stars": 24,
+    "stars": 25,
     "version": "1.2.0",
-    "updated_at": "2026-04-22T01:43:24Z"
+    "updated_at": "2026-05-03T11:29:38Z"
   },
   "astrbot_plugin_AnimeMagnet": {
     "desc": "这是一个动漫磁链查询插件，可以获取动漫磁链",
@@ -15705,9 +15705,9 @@
       "搬史"
     ],
     "category": "utilities",
-    "stars": 559,
+    "stars": 560,
     "version": "v0.916",
-    "updated_at": "2026-05-01T11:24:38Z"
+    "updated_at": "2026-05-03T09:31:36Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
@@ -15753,7 +15753,7 @@
     "category": "entertainment",
     "stars": 260,
     "version": "v3.20",
-    "updated_at": "2026-05-03T06:12:06Z"
+    "updated_at": "2026-05-03T10:29:05Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
