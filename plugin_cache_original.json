@@ -156,7 +156,7 @@
     "social_link": "https://github.com/CPJiNan",
     "stars": 6,
     "version": "v1.0.6",
-    "updated_at": "2026-05-03T11:36:27Z",
+    "updated_at": "2026-05-03T11:59:46Z",
     "logo": "https://raw.githubusercontent.com/CPJiNan/astrbot_plugin_essentials/main/logo.png"
   },
   "astrbot-plugin-hardworking": {
@@ -1139,10 +1139,10 @@
       "面板"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 17,
+    "stars": 18,
     "version": "v1.0.0",
     "astrbot_version": ">=4.11.2",
-    "updated_at": "2026-04-27T19:53:11Z",
+    "updated_at": "2026-05-03T12:27:10Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_live_dashboard/main/logo.png"
   },
   "astrbot-plugin-wol-miko": {
@@ -5913,8 +5913,8 @@
     "category": "ai_tools",
     "tags": [],
     "stars": 3,
-    "version": "1.14.0",
-    "updated_at": "2026-05-03T11:38:48Z"
+    "version": "1.17.0",
+    "updated_at": "2026-05-03T13:07:46Z"
   },
   "astrbot_plugin_seedream_image": {
     "display_name": "火山方舟生图",
@@ -8593,14 +8593,14 @@
     ],
     "category": "utilities",
     "stars": 15,
-    "version": "1.8.3",
+    "version": "1.8.4",
     "support_platforms": [
       "aiocqhttp",
       "telegram",
       "discord",
       "lark"
     ],
-    "updated_at": "2026-05-03T09:28:08Z",
+    "updated_at": "2026-05-03T12:53:28Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
@@ -10947,8 +10947,8 @@
     "category": "utilities",
     "tags": [],
     "stars": 1,
-    "version": "v1.0.0",
-    "updated_at": "2026-04-29T09:54:59Z",
+    "version": "v1.1.0",
+    "updated_at": "2026-05-03T12:37:29Z",
     "logo": "https://raw.githubusercontent.com/L1ke40oz/astrbot_plugin_tts_modify/master/logo.png"
   },
   "astrbot_plugin_keyword_monitor": {
