@@ -861,12 +861,12 @@
     ],
     "social_link": "www.wyccotccy.cn",
     "stars": 21,
-    "version": "3.0.1",
-    "astrbot_version": ">=4.20.0",
+    "version": "3.5.1",
+    "astrbot_version": ">=4.24.2",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-02T17:25:05Z",
+    "updated_at": "2026-05-03T22:22:38Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
