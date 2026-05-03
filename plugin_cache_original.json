@@ -392,7 +392,7 @@
     "social_link": "https://space.bilibili.com/20407488;https://github.com/ZHwash",
     "stars": 9,
     "version": "v2.10.0",
-    "updated_at": "2026-04-25T09:52:08Z",
+    "updated_at": "2026-05-03T02:09:42Z",
     "logo": "https://raw.githubusercontent.com/ZHwash/astrbot_plugin_roco_world_wiki_search/main/logo.png"
   },
   "astrbot_plugin_currency": {
@@ -1106,10 +1106,10 @@
     "tags": [
       "vrchat"
     ],
-    "stars": 6,
+    "stars": 7,
     "version": "0.2.0",
     "astrbot_version": ">=4.16,<5",
-    "updated_at": "2026-04-25T10:01:03Z"
+    "updated_at": "2026-05-03T01:40:32Z"
   },
   "astrbot-plugin-lyubishchev": {
     "display_name": "柳比歇夫时间管理插件",
@@ -2825,8 +2825,8 @@
     ],
     "category": "entertainment",
     "stars": 3,
-    "version": "2.1.5",
-    "updated_at": "2026-05-02T17:08:01Z"
+    "version": "v3.2.0",
+    "updated_at": "2026-05-03T03:21:25Z"
   },
   "astrbot-plugin-screen-companion": {
     "display_name": "我会一直看着你",
@@ -3175,9 +3175,9 @@
     ],
     "social_link": "https://axi404.top",
     "category": "ai_tools",
-    "stars": 21,
+    "stars": 22,
     "version": "0.2.4",
-    "updated_at": "2026-04-29T05:27:30Z"
+    "updated_at": "2026-05-03T02:24:19Z"
   },
   "astrbot-plugin-biliVideo": {
     "display_name": "哔哩哔哩视频总结",
@@ -3588,10 +3588,10 @@
     "social_link": "www.chuyel.cn",
     "category": "entertainment",
     "tags": [],
-    "stars": 16,
+    "stars": 17,
     "version": "v1.1.0",
     "astrbot_version": ">=4.17.6",
-    "updated_at": "2026-05-01T13:58:25Z",
+    "updated_at": "2026-05-03T00:15:17Z",
     "logo": "https://raw.githubusercontent.com/chuyegzs/astrbot_plugin_meting/main/logo.png"
   },
   "astrbot-plugin-comfyui": {
@@ -4911,11 +4911,11 @@
     "social_link": "https://github.com/siciyuanweilai",
     "category": "entertainment",
     "stars": 31,
-    "version": "5.1.7",
+    "version": "5.1.8",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-04-17T14:02:37Z",
+    "updated_at": "2026-05-03T03:22:07Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -6467,8 +6467,8 @@
     ],
     "category": "ai_tools",
     "stars": 117,
-    "version": "1.3.14",
-    "updated_at": "2026-05-02T06:08:56Z",
+    "version": "1.3.28",
+    "updated_at": "2026-05-03T02:31:00Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -8593,8 +8593,14 @@
     ],
     "category": "utilities",
     "stars": 15,
-    "version": "1.8.0",
-    "updated_at": "2026-05-02T12:01:34Z",
+    "version": "1.8.2",
+    "support_platforms": [
+      "aiocqhttp",
+      "telegram",
+      "discord",
+      "lark"
+    ],
+    "updated_at": "2026-05-03T03:11:59Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
@@ -16359,9 +16365,9 @@
     "repo": "https://github.com/zouyonghe/astrbot_plugin_web_searcher_pro",
     "category": "integrations",
     "tags": [],
-    "stars": 17,
+    "stars": 18,
     "version": "v1.1.4",
-    "updated_at": "2026-05-01T08:42:02Z"
+    "updated_at": "2026-05-02T17:17:45Z"
   },
   "astrbot_plugin_memeify": {
     "desc": "一个AstrBot的插件，用于LLM回复表情包的实现",
