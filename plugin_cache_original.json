@@ -156,7 +156,7 @@
     "social_link": "https://github.com/CPJiNan",
     "stars": 6,
     "version": "v1.0.6",
-    "updated_at": "2026-05-03T15:39:43Z",
+    "updated_at": "2026-05-03T16:49:16Z",
     "logo": "https://raw.githubusercontent.com/CPJiNan/astrbot_plugin_essentials/main/logo.png"
   },
   "astrbot-plugin-hardworking": {
@@ -1542,12 +1542,12 @@
     "social_link": "https://github.com/NayukiChiba",
     "category": "productivity",
     "stars": 8,
-    "version": "v1.0.1",
+    "version": "v1.0.2",
     "astrbot_version": ">=4.16",
     "support_platforms": [
       "aiocqhttp(OneBot v11)"
     ],
-    "updated_at": "2026-05-03T15:06:27Z",
+    "updated_at": "2026-05-03T16:37:03Z",
     "logo": "https://raw.githubusercontent.com/NayukiChiba/astrbot_plugin_arxiv/master/logo.png"
   },
   "astrbot-plugin-cve-warning": {
@@ -2839,9 +2839,9 @@
     ],
     "social_link": "https://github.com/menglimi",
     "category": "ai_tools",
-    "stars": 39,
+    "stars": 40,
     "version": "3.0.0",
-    "updated_at": "2026-05-01T08:39:56Z",
+    "updated_at": "2026-05-03T15:57:10Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -5312,9 +5312,9 @@
     ],
     "social_link": "https://github.com/DITF16",
     "category": "ai_tools",
-    "stars": 61,
+    "stars": 62,
     "version": "1.1.1",
-    "updated_at": "2026-05-02T06:50:53Z",
+    "updated_at": "2026-05-03T16:18:31Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_groupGuard": {
@@ -5549,10 +5549,10 @@
     ],
     "social_link": "https://www.misakanet.site",
     "category": "ai_tools",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.0.3",
     "astrbot_version": ">=4.10.4",
-    "updated_at": "2026-04-28T06:09:35Z",
+    "updated_at": "2026-05-03T16:21:09Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_image_generation/master/logo.png"
   },
   "astrbot_plugin_group_geetest_verfy": {
@@ -7045,9 +7045,9 @@
     ],
     "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
     "category": "utilities",
-    "stars": 32,
+    "stars": 33,
     "version": "v1.3.8",
-    "updated_at": "2026-05-02T08:31:26Z",
+    "updated_at": "2026-05-03T16:18:04Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -8593,14 +8593,14 @@
     ],
     "category": "utilities",
     "stars": 15,
-    "version": "1.8.5",
+    "version": "1.8.6",
     "support_platforms": [
       "aiocqhttp",
       "telegram",
       "discord",
       "lark"
     ],
-    "updated_at": "2026-05-03T14:30:12Z",
+    "updated_at": "2026-05-03T16:39:08Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
@@ -8883,7 +8883,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 223,
+    "stars": 224,
     "version": "v1.2.2",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -8895,7 +8895,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-05-03T10:10:01Z",
+    "updated_at": "2026-05-03T15:52:14Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -10404,9 +10404,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 161,
+    "stars": 162,
     "version": "2.2.10",
-    "updated_at": "2026-05-03T13:39:29Z",
+    "updated_at": "2026-05-03T16:17:42Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -11139,9 +11139,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 56,
+    "stars": 57,
     "version": "v2.2.2",
-    "updated_at": "2026-05-02T08:34:43Z",
+    "updated_at": "2026-05-03T16:17:54Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -15679,9 +15679,9 @@
       "功能"
     ],
     "category": "integrations",
-    "stars": 28,
+    "stars": 27,
     "version": "1.1.0",
-    "updated_at": "2026-04-09T12:24:16Z"
+    "updated_at": "2026-05-03T15:54:26Z"
   },
   "astrbot_plugin_moyuren": {
     "desc": "每天定时推送摸鱼人日历",
