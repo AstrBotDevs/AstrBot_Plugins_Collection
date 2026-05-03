@@ -866,7 +866,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-03T22:22:38Z",
+    "updated_at": "2026-05-03T22:57:20Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -3445,7 +3445,7 @@
     "category": "ai_tools",
     "stars": 28,
     "version": "v2.3.1",
-    "updated_at": "2026-05-03T09:16:07Z",
+    "updated_at": "2026-05-03T23:31:49Z",
     "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_clonetts/master/logo.png"
   },
   "astrbot-plugin-ssh": {
