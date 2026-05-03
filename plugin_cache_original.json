@@ -156,7 +156,7 @@
     "social_link": "https://github.com/CPJiNan",
     "stars": 6,
     "version": "v1.0.6",
-    "updated_at": "2026-05-03T11:59:46Z",
+    "updated_at": "2026-05-03T14:14:27Z",
     "logo": "https://raw.githubusercontent.com/CPJiNan/astrbot_plugin_essentials/main/logo.png"
   },
   "astrbot-plugin-hardworking": {
@@ -255,9 +255,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 68,
+    "stars": 69,
     "version": "2.7.0",
-    "updated_at": "2026-05-03T07:03:59Z",
+    "updated_at": "2026-05-03T14:05:32Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -493,9 +493,9 @@
       "数据库查询"
     ],
     "stars": 9,
-    "version": "1.0.3",
+    "version": "1.0.4",
     "astrbot_version": ">=4.5.0",
-    "updated_at": "2026-04-30T05:24:44Z",
+    "updated_at": "2026-05-03T13:19:04Z",
     "logo": "https://raw.githubusercontent.com/ysf7762-dev/astrbot_plugin_scriptor/main/logo.png"
   },
   "astrbot_plugin_actions": {
@@ -1547,7 +1547,7 @@
     "support_platforms": [
       "aiocqhttp(OneBot v11)"
     ],
-    "updated_at": "2026-05-02T17:30:53Z",
+    "updated_at": "2026-05-03T14:20:23Z",
     "logo": "https://raw.githubusercontent.com/NayukiChiba/astrbot_plugin_arxiv/master/logo.png"
   },
   "astrbot-plugin-cve-warning": {
@@ -5913,8 +5913,8 @@
     "category": "ai_tools",
     "tags": [],
     "stars": 3,
-    "version": "1.17.0",
-    "updated_at": "2026-05-03T13:07:46Z"
+    "version": "1.19.1",
+    "updated_at": "2026-05-03T14:44:16Z"
   },
   "astrbot_plugin_seedream_image": {
     "display_name": "火山方舟生图",
@@ -6821,8 +6821,8 @@
     "social_link": "https://github.com/huizhiLLL",
     "category": "entertainment",
     "stars": 3,
-    "version": "v1.1.6",
-    "updated_at": "2026-04-27T12:45:34Z",
+    "version": "v1.1.10",
+    "updated_at": "2026-05-03T14:44:28Z",
     "logo": "https://raw.githubusercontent.com/huizhiLLL/astrbot_plugin_wca/master/logo.png"
   },
   "astrbot_plugin_memos_integrator": {
@@ -8087,9 +8087,9 @@
     ],
     "social_link": "https://github.com/SinkAbyss",
     "category": "ai_tools",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.1.6",
-    "updated_at": "2026-04-16T08:21:05Z"
+    "updated_at": "2026-05-03T13:58:23Z"
   },
   "astrbot_plugin_Furimg_Cloud": {
     "display_name": "兽云祭(兽兽图片/图鉴)",
@@ -8593,14 +8593,14 @@
     ],
     "category": "utilities",
     "stars": 15,
-    "version": "1.8.4",
+    "version": "1.8.5",
     "support_platforms": [
       "aiocqhttp",
       "telegram",
       "discord",
       "lark"
     ],
-    "updated_at": "2026-05-03T12:53:28Z",
+    "updated_at": "2026-05-03T14:30:12Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
@@ -9101,9 +9101,9 @@
       "训练"
     ],
     "category": "productivity",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0",
-    "updated_at": "2026-04-18T15:24:08Z"
+    "updated_at": "2026-05-03T14:02:22Z"
   },
   "astrbot_plugin_chat_queue": {
     "desc": "让并发消息按照队列依次执行",
@@ -10085,9 +10085,9 @@
       "https://github.com/qa296/"
     ],
     "category": "ai_tools",
-    "stars": 5,
+    "stars": 6,
     "version": "1.2.0",
-    "updated_at": "2026-04-05T12:08:45Z"
+    "updated_at": "2026-05-03T14:09:21Z"
   },
   "wallabag": {
     "desc": "自动监听消息中的 URL 并保存到 Wallabag",
@@ -10404,9 +10404,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 160,
+    "stars": 161,
     "version": "2.2.10",
-    "updated_at": "2026-05-02T11:12:40Z",
+    "updated_at": "2026-05-03T13:39:29Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
