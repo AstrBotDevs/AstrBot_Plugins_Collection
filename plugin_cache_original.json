@@ -6060,9 +6060,9 @@
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
     "category": "ai_tools",
-    "stars": 57,
+    "stars": 58,
     "version": "v1.1",
-    "updated_at": "2026-04-26T17:30:08Z"
+    "updated_at": "2026-05-04T18:42:54Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -7679,9 +7679,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "utilities",
-    "stars": 133,
+    "stars": 134,
     "version": "v2.3.0",
-    "updated_at": "2026-05-04T13:42:58Z",
+    "updated_at": "2026-05-04T18:45:00Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
