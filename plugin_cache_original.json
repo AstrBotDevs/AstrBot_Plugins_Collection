@@ -20,8 +20,8 @@
       "milvus"
     ],
     "stars": 5,
-    "version": "1.12.4",
-    "updated_at": "2026-05-03T11:24:08Z"
+    "version": "1.12.5",
+    "updated_at": "2026-05-04T09:51:24Z"
   },
   "astrbot_plugin_life_assistant": {
     "display_name": "生活助手",
@@ -137,9 +137,9 @@
       "提示词优化"
     ],
     "social_link": "",
-    "stars": 15,
+    "stars": 16,
     "version": "1.1.0",
-    "updated_at": "2026-05-04T09:19:07Z",
+    "updated_at": "2026-05-04T11:48:09Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -170,8 +170,8 @@
     ],
     "social_link": "",
     "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-04-05T10:14:14Z",
+    "version": "v1.0.1",
+    "updated_at": "2026-05-04T10:29:50Z",
     "logo": "https://raw.githubusercontent.com/Waterwzy/astrbot_plugin_hardworking/master/logo.png"
   },
   "astrbot-plugin-skills-mcp-manager": {
@@ -280,9 +280,9 @@
     "author": "middcom,dream,deepseek",
     "repo": "https://github.com/middcom/astrbot_plugin_affection",
     "tags": [],
-    "stars": 9,
+    "stars": 10,
     "version": "v1.2",
-    "updated_at": "2026-05-04T08:00:30Z"
+    "updated_at": "2026-05-04T09:29:06Z"
   },
   "astrbot_plugin_media_wiki": {
     "display_name": "MediaWiki 通用查询",
@@ -730,9 +730,9 @@
     "author": "lumingya",
     "repo": "https://github.com/lumingya/astrbot_plugin_context_undo",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "2.1.1",
-    "updated_at": "2026-05-03T06:03:50Z"
+    "updated_at": "2026-05-04T10:19:11Z"
   },
   "astrbot-plugin-qq-restapi": {
     "display_name": "QQ REST API 适配器",
@@ -2516,8 +2516,8 @@
     "social_link": "",
     "category": "utilities",
     "stars": 10,
-    "version": "v2.2.0",
-    "updated_at": "2026-05-02T02:00:11Z",
+    "version": "v2.2.1",
+    "updated_at": "2026-05-04T10:01:13Z",
     "logo": "https://raw.githubusercontent.com/Waterwzy/astrbot_plugin_firefly_filter/master/logo.png"
   },
   "astrbot-plugin-cet6": {
@@ -3485,9 +3485,9 @@
     "repo": "https://github.com/danielsunrise/astrbot_plugin_halo_manager",
     "category": "integrations",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "1.2.1",
-    "updated_at": "2026-04-12T06:43:25Z"
+    "updated_at": "2026-05-04T10:20:17Z"
   },
   "astrbot-plugin-niji": {
     "display_name": "Niji Diary Sync",
@@ -3826,9 +3826,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 126,
+    "stars": 129,
     "version": "v2.0.7",
-    "updated_at": "2026-05-02T16:54:53Z",
+    "updated_at": "2026-05-04T11:07:04Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -4714,8 +4714,9 @@
     ],
     "category": "productivity",
     "stars": 8,
-    "version": "v1.2.5",
-    "updated_at": "2026-05-04T08:13:10Z"
+    "version": "v1.2.9",
+    "updated_at": "2026-05-04T11:07:52Z",
+    "logo": "https://raw.githubusercontent.com/xunxiing/astrbot_dailynews_agent/main/logo.png"
   },
   "astrbot_plugin_trpgdice_rerolled": {
     "display_name": "星星骰娘-重骰版！",
@@ -4957,9 +4958,9 @@
       "数据搜刮"
     ],
     "category": "entertainment",
-    "stars": 14,
+    "stars": 15,
     "version": "v1.5.4",
-    "updated_at": "2026-05-01T00:57:46Z",
+    "updated_at": "2026-05-04T09:55:46Z",
     "logo": "https://raw.githubusercontent.com/zhoufan47/astrbot_plugin_bbt_daily_news/master/logo.png"
   },
   "astrbot_plugin_fflogs": {
@@ -7344,9 +7345,9 @@
     ],
     "social_link": "https://space.bilibili.com/702922307",
     "category": "utilities",
-    "stars": 8,
+    "stars": 9,
     "version": "0.0.6",
-    "updated_at": "2026-04-13T20:08:54Z"
+    "updated_at": "2026-05-04T11:35:35Z"
   },
   "astrbot_plugin_fox_status": {
     "display_name": "Fox 状态监控",
@@ -7678,9 +7679,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "utilities",
-    "stars": 131,
+    "stars": 132,
     "version": "v2.3.0",
-    "updated_at": "2026-05-01T10:19:43Z",
+    "updated_at": "2026-05-04T09:43:29Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -10404,9 +10405,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 163,
+    "stars": 164,
     "version": "2.2.10",
-    "updated_at": "2026-05-04T04:34:04Z",
+    "updated_at": "2026-05-04T10:03:47Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -13068,9 +13069,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.0.3",
-    "updated_at": "2026-03-23T12:00:19Z",
+    "updated_at": "2026-05-04T10:55:02Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_deepwiki/main/logo.png"
   },
   "astrbot_plugin_delete_and_block_filter": {
@@ -14644,7 +14645,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-02T14:27:12Z",
+    "updated_at": "2026-05-04T11:42:25Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -15310,8 +15311,8 @@
     ],
     "category": "entertainment",
     "stars": 3,
-    "version": "1.5.2",
-    "updated_at": "2025-12-23T01:00:06Z"
+    "version": "1.6.0",
+    "updated_at": "2026-05-04T10:32:04Z"
   },
   "astrbot_plugin_wordle_2_msg": {
     "desc": "Wordle 猜单词游戏。基于 Raven95676 的版本加入了一些新功能。",
@@ -15751,9 +15752,9 @@
     ],
     "pinned": true,
     "category": "entertainment",
-    "stars": 260,
+    "stars": 261,
     "version": "v3.20",
-    "updated_at": "2026-05-03T10:29:05Z"
+    "updated_at": "2026-05-04T11:45:52Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
