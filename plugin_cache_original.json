@@ -21,7 +21,7 @@
     ],
     "stars": 5,
     "version": "1.12.5",
-    "updated_at": "2026-05-04T09:51:24Z"
+    "updated_at": "2026-05-04T13:32:17Z"
   },
   "astrbot_plugin_life_assistant": {
     "display_name": "生活助手",
@@ -137,9 +137,9 @@
       "提示词优化"
     ],
     "social_link": "",
-    "stars": 16,
-    "version": "1.1.0",
-    "updated_at": "2026-05-04T11:48:09Z",
+    "stars": 17,
+    "version": "1.1.1",
+    "updated_at": "2026-05-04T13:20:31Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -255,9 +255,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 69,
+    "stars": 70,
     "version": "2.7.0",
-    "updated_at": "2026-05-03T14:05:32Z",
+    "updated_at": "2026-05-04T13:05:28Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -5355,7 +5355,7 @@
     "category": "utilities",
     "stars": 6,
     "version": "v1.3.1",
-    "updated_at": "2026-04-30T14:17:46Z",
+    "updated_at": "2026-05-04T14:04:42Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_keywords_reply/master/logo.png"
   },
   "astrbot_plugin_text2img": {
@@ -5381,7 +5381,7 @@
     "category": "ai_tools",
     "tags": [],
     "stars": 7,
-    "version": "v1.12",
+    "version": "v1.13",
     "updated_at": "2026-04-29T05:07:05Z"
   },
   "astrbot_plugin_music_pro": {
@@ -5832,7 +5832,7 @@
     "tags": [],
     "stars": 8,
     "version": "1.1.0",
-    "updated_at": "2026-04-29T01:42:46Z"
+    "updated_at": "2026-05-04T12:29:32Z"
   },
   "astrbot_plugin_command_query": {
     "display_name": "指令查询工具",
@@ -6900,9 +6900,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 108,
+    "stars": 109,
     "version": "v1.5.1",
-    "updated_at": "2026-04-30T20:25:21Z",
+    "updated_at": "2026-05-04T13:43:38Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -7679,9 +7679,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "utilities",
-    "stars": 132,
+    "stars": 133,
     "version": "v2.3.0",
-    "updated_at": "2026-05-04T09:43:29Z",
+    "updated_at": "2026-05-04T13:42:58Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -13868,9 +13868,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "entertainment",
-    "stars": 235,
+    "stars": 236,
     "version": "v3.0.3",
-    "updated_at": "2026-05-03T08:14:20Z",
+    "updated_at": "2026-05-04T13:15:59Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -14640,12 +14640,12 @@
       "QQ群管"
     ],
     "category": "utilities",
-    "stars": 134,
+    "stars": 135,
     "version": "v3.2.7",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-04T11:42:25Z",
+    "updated_at": "2026-05-04T11:54:02Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -14809,9 +14809,9 @@
       "世界书"
     ],
     "category": "ai_tools",
-    "stars": 15,
+    "stars": 16,
     "version": "v0.1.9",
-    "updated_at": "2026-04-12T14:43:26Z"
+    "updated_at": "2026-05-04T12:39:19Z"
   },
   "daily_limit": {
     "desc": "限制成员每日访问AI次数的插件，支持为不同用户和群组设置不同的调用限制(支持的astrbot最低版本为3.5.1)",
