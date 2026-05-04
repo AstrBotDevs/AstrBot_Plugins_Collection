@@ -137,9 +137,9 @@
       "提示词优化"
     ],
     "social_link": "",
-    "stars": 12,
-    "version": "0.9.0",
-    "updated_at": "2026-05-02T04:50:48Z",
+    "stars": 13,
+    "version": "1.0.0",
+    "updated_at": "2026-05-04T02:03:34Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -156,7 +156,7 @@
     "social_link": "https://github.com/CPJiNan",
     "stars": 6,
     "version": "v1.0.6",
-    "updated_at": "2026-05-03T16:49:16Z",
+    "updated_at": "2026-05-04T03:00:56Z",
     "logo": "https://raw.githubusercontent.com/CPJiNan/astrbot_plugin_essentials/main/logo.png"
   },
   "astrbot-plugin-hardworking": {
@@ -187,9 +187,9 @@
     ],
     "social_link": "https://github.com/piexian",
     "stars": 8,
-    "version": "0.1.9",
+    "version": "0.1.10",
     "astrbot_version": ">=4.23.6",
-    "updated_at": "2026-05-02T18:02:14Z",
+    "updated_at": "2026-05-04T02:23:53Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_skills_mcp_manager/master/logo.png"
   },
   "astrbot_plugin_Astronomy_Picture_of_the_Day": {
@@ -492,10 +492,10 @@
       "跨平台身份管理",
       "数据库查询"
     ],
-    "stars": 9,
+    "stars": 10,
     "version": "1.0.4",
     "astrbot_version": ">=4.5.0",
-    "updated_at": "2026-05-03T13:19:04Z",
+    "updated_at": "2026-05-04T00:34:47Z",
     "logo": "https://raw.githubusercontent.com/ysf7762-dev/astrbot_plugin_scriptor/main/logo.png"
   },
   "astrbot_plugin_actions": {
@@ -860,13 +860,13 @@
       "更多主动功能"
     ],
     "social_link": "www.wyccotccy.cn",
-    "stars": 21,
+    "stars": 22,
     "version": "3.5.1",
     "astrbot_version": ">=4.24.2",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-03T22:57:20Z",
+    "updated_at": "2026-05-04T00:33:03Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -1547,7 +1547,7 @@
     "support_platforms": [
       "aiocqhttp(OneBot v11)"
     ],
-    "updated_at": "2026-05-03T16:37:03Z",
+    "updated_at": "2026-05-04T00:42:15Z",
     "logo": "https://raw.githubusercontent.com/NayukiChiba/astrbot_plugin_arxiv/master/logo.png"
   },
   "astrbot-plugin-cve-warning": {
@@ -5913,8 +5913,8 @@
     "category": "ai_tools",
     "tags": [],
     "stars": 3,
-    "version": "1.19.3",
-    "updated_at": "2026-05-03T15:31:54Z"
+    "version": "1.20.3",
+    "updated_at": "2026-05-04T01:12:05Z"
   },
   "astrbot_plugin_seedream_image": {
     "display_name": "火山方舟生图",
@@ -7045,9 +7045,9 @@
     ],
     "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
     "category": "utilities",
-    "stars": 33,
+    "stars": 34,
     "version": "v1.3.8",
-    "updated_at": "2026-05-03T16:18:04Z",
+    "updated_at": "2026-05-04T01:34:29Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -8883,7 +8883,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 225,
+    "stars": 226,
     "version": "v1.2.2",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -8895,7 +8895,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-05-03T17:58:21Z",
+    "updated_at": "2026-05-04T03:20:20Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
