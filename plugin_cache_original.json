@@ -137,9 +137,9 @@
       "提示词优化"
     ],
     "social_link": "",
-    "stars": 14,
-    "version": "1.0.0",
-    "updated_at": "2026-05-04T06:34:50Z",
+    "stars": 15,
+    "version": "1.1.0",
+    "updated_at": "2026-05-04T09:19:07Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -280,9 +280,9 @@
     "author": "middcom,dream,deepseek",
     "repo": "https://github.com/middcom/astrbot_plugin_affection",
     "tags": [],
-    "stars": 8,
+    "stars": 9,
     "version": "v1.2",
-    "updated_at": "2026-04-27T15:50:36Z"
+    "updated_at": "2026-05-04T08:00:30Z"
   },
   "astrbot_plugin_media_wiki": {
     "display_name": "MediaWiki 通用查询",
@@ -1547,7 +1547,7 @@
     "support_platforms": [
       "aiocqhttp(OneBot v11)"
     ],
-    "updated_at": "2026-05-04T05:10:01Z",
+    "updated_at": "2026-05-04T07:46:31Z",
     "logo": "https://raw.githubusercontent.com/NayukiChiba/astrbot_plugin_arxiv/master/logo.png"
   },
   "astrbot-plugin-cve-warning": {
@@ -4714,8 +4714,8 @@
     ],
     "category": "productivity",
     "stars": 8,
-    "version": "v1.2.0",
-    "updated_at": "2026-04-21T03:03:09Z"
+    "version": "v1.2.5",
+    "updated_at": "2026-05-04T08:13:10Z"
   },
   "astrbot_plugin_trpgdice_rerolled": {
     "display_name": "星星骰娘-重骰版！",
@@ -6437,7 +6437,7 @@
     "category": "utilities",
     "stars": 2,
     "version": "v1.1.1",
-    "updated_at": "2026-02-20T09:56:24Z",
+    "updated_at": "2026-05-04T06:44:50Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_webnovel_info/master/logo.png"
   },
   "astrbot_plugin_desktop_assistant": {
@@ -7526,7 +7526,7 @@
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-05-02T08:36:41Z",
+    "updated_at": "2026-05-04T07:51:15Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/main/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -8883,7 +8883,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 227,
+    "stars": 226,
     "version": "v1.2.2",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -8895,7 +8895,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-05-04T04:43:40Z",
+    "updated_at": "2026-05-04T09:06:00Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -10974,9 +10974,9 @@
     ],
     "social_link": "https://github.com/Futureppo",
     "category": "integrations",
-    "stars": 14,
+    "stars": 13,
     "version": "v1.0.3",
-    "updated_at": "2026-05-01T06:54:13Z",
+    "updated_at": "2026-05-04T08:56:21Z",
     "logo": "https://raw.githubusercontent.com/Futureppo/astrbot_plugin_Xiaomi_BandProMax/main/logo.png"
   },
   "astrbot_plugin_immersive_control": {
@@ -11809,9 +11809,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "ai_tools",
-    "stars": 76,
+    "stars": 77,
     "version": "2.1.1",
-    "updated_at": "2026-04-19T13:37:04Z"
+    "updated_at": "2026-05-04T06:58:48Z"
   },
   "cngal_search": {
     "desc": "CnGal查询",
@@ -12001,9 +12001,9 @@
     ],
     "category": "ai_tools",
     "author": null,
-    "stars": 42,
+    "stars": 43,
     "version": "2.6.0",
-    "updated_at": "2026-04-22T15:37:53Z"
+    "updated_at": "2026-05-04T08:26:53Z"
   },
   "astrbot_plugin_group_sign": {
     "name": "group_sign",
@@ -16001,10 +16001,10 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "category": "integrations",
     "tags": [],
-    "stars": 62,
+    "stars": 61,
     "version": "v1.6.0",
     "astrbot_version": ">=4.5.2",
-    "updated_at": "2026-05-02T03:06:37Z",
+    "updated_at": "2026-05-04T07:40:51Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
