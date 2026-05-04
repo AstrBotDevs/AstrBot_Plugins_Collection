@@ -139,7 +139,7 @@
     "social_link": "",
     "stars": 17,
     "version": "1.1.1",
-    "updated_at": "2026-05-04T14:31:22Z",
+    "updated_at": "2026-05-04T23:53:40Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -2038,8 +2038,8 @@
     "social_link": "https://github.com/RhoninSeiei",
     "category": "productivity",
     "stars": 5,
-    "version": "v0.4.3",
-    "updated_at": "2026-05-01T13:44:32Z"
+    "version": "v0.5.0",
+    "updated_at": "2026-05-04T23:03:48Z"
   },
   "astrbot-plugin-lyria": {
     "display_name": "Lyria音乐生成",
@@ -6407,9 +6407,9 @@
       "磁力"
     ],
     "category": "utilities",
-    "stars": 14,
+    "stars": 15,
     "version": "v1.2.1",
-    "updated_at": "2026-04-18T02:53:50Z",
+    "updated_at": "2026-05-04T23:22:43Z",
     "logo": "https://raw.githubusercontent.com/NightDust981989/astrbot_plugin_BitTorrent/master/logo.png"
   },
   "astrbot_plugin_custom_menu_1": {
