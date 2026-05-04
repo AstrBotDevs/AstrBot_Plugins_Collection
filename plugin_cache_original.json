@@ -19,9 +19,9 @@
       "llamaindex",
       "milvus"
     ],
-    "stars": 5,
+    "stars": 6,
     "version": "1.12.5",
-    "updated_at": "2026-05-04T13:32:17Z"
+    "updated_at": "2026-05-04T16:57:29Z"
   },
   "astrbot_plugin_life_assistant": {
     "display_name": "生活助手",
@@ -837,7 +837,7 @@
     "social_link": "https://github.com/SodaCodeSave",
     "stars": 16,
     "version": "v1.2.0",
-    "updated_at": "2026-04-20T10:52:23Z",
+    "updated_at": "2026-05-04T16:56:44Z",
     "logo": "https://raw.githubusercontent.com/SodaCodeSave/astrbot_plugin_biliread/master/logo.png"
   },
   "astrbot-plugin-DUT-Notices": {
@@ -3187,9 +3187,9 @@
     "social_link": "https://github.com/storyAura",
     "category": "entertainment",
     "tags": [],
-    "stars": 22,
+    "stars": 23,
     "version": "v1.0.2",
-    "updated_at": "2026-04-14T05:06:53Z",
+    "updated_at": "2026-05-04T17:38:32Z",
     "logo": "https://raw.githubusercontent.com/storyAura/astrbot_plugin_biliVideo/main/logo.png"
   },
   "astrbot-plugin-opencode-client": {
@@ -3443,9 +3443,9 @@
     ],
     "social_link": "https://github.com/Radiant303",
     "category": "ai_tools",
-    "stars": 28,
+    "stars": 29,
     "version": "v2.3.1",
-    "updated_at": "2026-05-03T23:31:49Z",
+    "updated_at": "2026-05-04T17:21:53Z",
     "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_clonetts/master/logo.png"
   },
   "astrbot-plugin-ssh": {
@@ -5163,9 +5163,9 @@
     ],
     "social_link": "https://qwq.pyuramazo.online",
     "category": "entertainment",
-    "stars": 22,
+    "stars": 23,
     "version": "v1.11.0",
-    "updated_at": "2026-04-29T14:48:39Z",
+    "updated_at": "2026-05-04T17:31:34Z",
     "logo": "https://raw.githubusercontent.com/PyuraMazo/astrbot_plugin_galgame_box/master/logo.png"
   },
   "astrbot_plugin_anitabi": {
@@ -5768,14 +5768,14 @@
     ],
     "social_link": "https://github.com/Clhikari",
     "category": "productivity",
-    "stars": 24,
+    "stars": 25,
     "version": "v1.7.0-preview",
     "support_platforms": [
       "aiocqhttp",
       "telegram",
       "discord"
     ],
-    "updated_at": "2026-05-01T10:37:50Z",
+    "updated_at": "2026-05-04T17:22:54Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -6106,7 +6106,7 @@
     "stars": 0,
     "version": "v1.3.1",
     "astrbot_version": ">=4.10.4",
-    "updated_at": "2026-04-21T16:21:57Z",
+    "updated_at": "2026-05-04T17:18:54Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_multi_execute/master/logo.png"
   },
   "astrbot_plugin_recall_xz": {
@@ -8016,9 +8016,9 @@
     ],
     "social_link": "https://github.com/NekoiMeiov",
     "category": "utilities",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.0.1",
-    "updated_at": "2026-04-27T15:52:40Z"
+    "updated_at": "2026-05-04T16:49:04Z"
   },
   "astrbot_plugin_mc_update": {
     "display_name": "Minecraft 基岩版更新日志提醒插件",
@@ -8884,7 +8884,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 226,
+    "stars": 228,
     "version": "v1.2.2",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -8896,7 +8896,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-05-04T09:06:00Z",
+    "updated_at": "2026-05-04T17:39:36Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
