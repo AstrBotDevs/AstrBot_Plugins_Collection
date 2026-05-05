@@ -8884,7 +8884,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 229,
+    "stars": 231,
     "version": "v1.2.2",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -8896,7 +8896,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-05-05T06:33:52Z",
+    "updated_at": "2026-05-05T11:53:41Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -9541,9 +9541,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "productivity",
-    "stars": 20,
+    "stars": 21,
     "version": "1.1.5",
-    "updated_at": "2026-05-02T08:37:19Z"
+    "updated_at": "2026-05-05T11:37:16Z"
   },
   "bmtxt2img": {
     "desc": "通过/bmimg指令调用智谱文生图模型",
@@ -11854,8 +11854,8 @@
     ],
     "category": "entertainment",
     "stars": 10,
-    "version": "v1.5",
-    "updated_at": "2026-05-04T15:00:13Z",
+    "version": "v1.5.1",
+    "updated_at": "2026-05-05T11:17:53Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_deer_check/master/logo.png"
   },
   "astrbot_plugin_pet": {
@@ -12640,9 +12640,9 @@
     "desc": "[仅aiocqhttp]让bot 转人工/转人机，真人客服 接入对话/结束对话",
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 33,
+    "stars": 32,
     "version": "v1.7.3",
-    "updated_at": "2026-05-04T15:12:31Z",
+    "updated_at": "2026-05-05T11:40:34Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_human_service/main/logo.png"
   },
   "astrbot_plugin_reimage": {
@@ -12967,9 +12967,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 150,
+    "stars": 151,
     "version": "v2.1.0",
-    "updated_at": "2026-05-01T07:00:34Z",
+    "updated_at": "2026-05-05T11:38:41Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -14283,9 +14283,9 @@
     "desc": "大锅里炖（小游戏等等超 25 个功能！）",
     "category": "entertainment",
     "tags": [],
-    "stars": 10,
+    "stars": 9,
     "version": "v2.0.1",
-    "updated_at": "2026-02-28T17:34:07Z"
+    "updated_at": "2026-05-05T11:40:47Z"
   },
   "astrbot_plugin_openweaponscase": {
     "author": "luooka",
@@ -15376,9 +15376,9 @@
     ],
     "social_link": "https://github.com/miaoxutao123/",
     "category": "utilities",
-    "stars": 76,
+    "stars": 75,
     "version": "0.3.0",
-    "updated_at": "2026-04-28T13:13:26Z"
+    "updated_at": "2026-05-05T11:40:38Z"
   },
   "astrbot_plugin_sjzb": {
     "desc": "随机生成《绝地潜兵2》游戏中一组 4 个战备配置",
