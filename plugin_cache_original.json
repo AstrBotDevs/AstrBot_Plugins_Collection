@@ -5678,9 +5678,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 286,
+    "stars": 287,
     "version": "Next-2.1.0",
-    "updated_at": "2026-05-03T10:09:59Z",
+    "updated_at": "2026-05-05T19:27:16Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -5856,9 +5856,9 @@
     ],
     "social_link": "https://github.com/Hakuin123",
     "category": "integrations",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.1.3",
-    "updated_at": "2026-04-19T12:44:44Z",
+    "updated_at": "2026-05-05T20:52:08Z",
     "logo": "https://raw.githubusercontent.com/Hakuin123/astrbot_plugin_maa/main/logo.png"
   },
   "astrbot_plugin_queue_system": {
@@ -10405,9 +10405,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 166,
+    "stars": 167,
     "version": "2.2.10",
-    "updated_at": "2026-05-05T09:06:28Z",
+    "updated_at": "2026-05-05T20:32:06Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -11416,9 +11416,9 @@
       "海龟汤"
     ],
     "category": "entertainment",
-    "stars": 22,
+    "stars": 23,
     "version": "v1.0.3",
-    "updated_at": "2026-04-05T16:44:14Z"
+    "updated_at": "2026-05-05T20:40:02Z"
   },
   "astrbot_plugin_typst_render": {
     "name": "astrbot_plugin_typst_render",
