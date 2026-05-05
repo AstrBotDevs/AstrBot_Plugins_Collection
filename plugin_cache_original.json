@@ -6,9 +6,9 @@
     "repo": "https://github.com/fxquarter/astrbot_plugin_fund#",
     "social_link": "https://github.com/fxquarter",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "1.0.0",
-    "updated_at": "2026-04-29T08:49:12Z"
+    "updated_at": "2026-05-05T03:35:15Z"
   },
   "astrbot_plugin_paperrag": {
     "display_name": "PaperRAG",
@@ -34,14 +34,14 @@
       "记录"
     ],
     "social_link": "https://github.com/1fan-Song",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.1.0",
     "astrbot_version": ">=4.17.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-05-02T11:53:21Z"
+    "updated_at": "2026-05-05T03:44:31Z"
   },
   "astrbot_plugin_daily_card": {
     "display_name": "每日卡片 (Daily Card)",
@@ -138,8 +138,8 @@
     ],
     "social_link": "",
     "stars": 17,
-    "version": "1.1.1",
-    "updated_at": "2026-05-05T00:44:18Z",
+    "version": "1.1.2",
+    "updated_at": "2026-05-05T05:41:07Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -1931,7 +1931,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 332,
+    "stars": 333,
     "version": "v4.10.5",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -1940,7 +1940,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-05-03T10:09:57Z",
+    "updated_at": "2026-05-05T03:11:14Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -5014,7 +5014,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 332,
+    "stars": 333,
     "version": "v4.10.5",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -5023,7 +5023,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-05-03T10:09:57Z",
+    "updated_at": "2026-05-05T03:11:14Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -14063,7 +14063,7 @@
     "category": "entertainment",
     "stars": 31,
     "version": "1.7.3",
-    "updated_at": "2026-05-02T19:44:51Z",
+    "updated_at": "2026-05-05T05:15:25Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
