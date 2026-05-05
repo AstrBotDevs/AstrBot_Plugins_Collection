@@ -139,7 +139,7 @@
     "social_link": "",
     "stars": 17,
     "version": "1.1.1",
-    "updated_at": "2026-05-04T23:53:40Z",
+    "updated_at": "2026-05-05T00:44:18Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -186,10 +186,10 @@
       "skills"
     ],
     "social_link": "https://github.com/piexian",
-    "stars": 8,
+    "stars": 9,
     "version": "0.1.10",
     "astrbot_version": ">=4.23.6",
-    "updated_at": "2026-05-04T02:23:53Z",
+    "updated_at": "2026-05-05T02:40:59Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_skills_mcp_manager/master/logo.png"
   },
   "astrbot_plugin_Astronomy_Picture_of_the_Day": {
@@ -492,10 +492,10 @@
       "跨平台身份管理",
       "数据库查询"
     ],
-    "stars": 10,
+    "stars": 11,
     "version": "1.0.4",
     "astrbot_version": ">=4.5.0",
-    "updated_at": "2026-05-04T00:34:47Z",
+    "updated_at": "2026-05-05T00:31:37Z",
     "logo": "https://raw.githubusercontent.com/ysf7762-dev/astrbot_plugin_scriptor/main/logo.png"
   },
   "astrbot_plugin_actions": {
@@ -720,9 +720,9 @@
       "forwarder"
     ],
     "social_link": "",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-04-03T02:11:15Z"
+    "updated_at": "2026-05-05T01:30:03Z"
   },
   "astrbot-plugin-context-undo": {
     "display_name": "上下文撤回",
@@ -2038,8 +2038,8 @@
     "social_link": "https://github.com/RhoninSeiei",
     "category": "productivity",
     "stars": 5,
-    "version": "v0.5.0",
-    "updated_at": "2026-05-04T23:03:48Z"
+    "version": "v0.5.1",
+    "updated_at": "2026-05-05T01:27:21Z"
   },
   "astrbot-plugin-lyria": {
     "display_name": "Lyria音乐生成",
@@ -2372,13 +2372,13 @@
       "NovalAI"
     ],
     "category": "ai_tools",
-    "stars": 3,
+    "stars": 4,
     "version": "1.0.0",
     "astrbot_version": ">=4.11,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-04T04:38:03Z"
+    "updated_at": "2026-05-05T01:52:18Z"
   },
   "astrbot-plugin-endfield": {
     "display_name": "终末地协议终端",
@@ -2558,9 +2558,9 @@
     "social_link": "https://github.com/Renyus",
     "category": "ai_tools",
     "tags": [],
-    "stars": 58,
+    "stars": 57,
     "version": "Ver 5.3.0",
-    "updated_at": "2026-04-29T12:43:23Z"
+    "updated_at": "2026-05-05T00:55:17Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -2839,9 +2839,9 @@
     ],
     "social_link": "https://github.com/menglimi",
     "category": "ai_tools",
-    "stars": 40,
+    "stars": 41,
     "version": "3.0.0",
-    "updated_at": "2026-05-03T15:57:10Z",
+    "updated_at": "2026-05-05T00:09:20Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -5915,7 +5915,7 @@
     "tags": [],
     "stars": 3,
     "version": "1.20.3",
-    "updated_at": "2026-05-04T01:12:05Z"
+    "updated_at": "2026-05-05T00:57:44Z"
   },
   "astrbot_plugin_seedream_image": {
     "display_name": "火山方舟生图",
@@ -7663,9 +7663,9 @@
     ],
     "social_link": "https://github.com/Siaospeed",
     "category": "utilities",
-    "stars": 12,
+    "stars": 13,
     "version": "v0.1.0",
-    "updated_at": "2026-04-30T17:02:33Z",
+    "updated_at": "2026-05-05T01:26:57Z",
     "logo": "https://raw.githubusercontent.com/Siaospeed/astrbot_plugin_msg_transfer/main/logo.png"
   },
   "astrbot_plugin_chuanhuatong": {
@@ -8594,14 +8594,14 @@
     ],
     "category": "utilities",
     "stars": 15,
-    "version": "1.8.7",
+    "version": "1.9.0",
     "support_platforms": [
       "aiocqhttp",
       "telegram",
       "discord",
       "lark"
     ],
-    "updated_at": "2026-05-04T04:53:52Z",
+    "updated_at": "2026-05-05T02:13:46Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
@@ -9695,10 +9695,10 @@
       "合并消息分析与回复"
     ],
     "category": "ai_tools",
-    "stars": 7,
+    "stars": 8,
     "version": "2.0.0",
     "astrbot_version": ">=3.4.0",
-    "updated_at": "2026-03-12T11:09:34Z"
+    "updated_at": "2026-05-05T01:25:33Z"
   },
   "zhiyu-astrbot-qqquery": {
     "desc": "一款查询QQ空间 QQ音乐 QQ基本信息的AstrBot插件",
@@ -13868,9 +13868,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "entertainment",
-    "stars": 236,
+    "stars": 237,
     "version": "v3.0.3",
-    "updated_at": "2026-05-04T13:15:59Z",
+    "updated_at": "2026-05-05T02:13:02Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
