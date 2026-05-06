@@ -1926,7 +1926,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 334,
+    "stars": 335,
     "version": "v4.10.5",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -1935,7 +1935,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-05-06T17:45:10Z",
+    "updated_at": "2026-05-06T22:10:30Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -5009,7 +5009,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 334,
+    "stars": 335,
     "version": "v4.10.5",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -5018,7 +5018,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-05-06T17:45:10Z",
+    "updated_at": "2026-05-06T22:10:30Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
