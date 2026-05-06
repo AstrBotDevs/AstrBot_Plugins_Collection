@@ -6101,7 +6101,7 @@
     "stars": 0,
     "version": "v1.3.1",
     "astrbot_version": ">=4.10.4",
-    "updated_at": "2026-05-04T17:18:54Z",
+    "updated_at": "2026-05-06T18:21:02Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_multi_execute/master/logo.png"
   },
   "astrbot_plugin_recall_xz": {
@@ -9259,7 +9259,7 @@
     "category": "utilities",
     "stars": 2,
     "version": "v1.5",
-    "updated_at": "2026-01-30T17:04:49Z",
+    "updated_at": "2026-05-06T18:22:26Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_youshusearch/master/logo.png"
   },
   "astrbot_plugin_persona_plus": {
