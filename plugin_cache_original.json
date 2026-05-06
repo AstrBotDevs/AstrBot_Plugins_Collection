@@ -69,10 +69,10 @@
       "连通性检测",
       "模型检测"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.4.2",
     "astrbot_version": ">=4.9.2",
-    "updated_at": "2026-05-01T05:59:55Z",
+    "updated_at": "2026-05-06T13:34:59Z",
     "logo": "https://raw.githubusercontent.com/blueraina/astrbot_plugin_model_connectivity/main/logo.png"
   },
   "astrbot-plugin-robomaster-assistant": {
@@ -138,8 +138,8 @@
     ],
     "social_link": "",
     "stars": 17,
-    "version": "3.3.1",
-    "updated_at": "2026-05-05T14:34:24Z",
+    "version": "3.3.4",
+    "updated_at": "2026-05-06T13:57:02Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -256,8 +256,8 @@
     "tags": [],
     "social_link": "",
     "stars": 72,
-    "version": "2.7.0",
-    "updated_at": "2026-05-06T09:39:15Z",
+    "version": "3.0.0",
+    "updated_at": "2026-05-06T13:07:03Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -420,9 +420,9 @@
       "总结",
       "知乎"
     ],
-    "stars": 2,
+    "stars": 1,
     "version": "v1.1.0",
-    "updated_at": "2026-05-06T08:01:16Z",
+    "updated_at": "2026-05-06T13:21:19Z",
     "logo": "https://raw.githubusercontent.com/MillionDreamQAQ/astrbot_plugin_zhihuSummary/main/logo.png"
   },
   "builtin_commands_extension": {
@@ -3578,7 +3578,7 @@
     "category": "integrations",
     "stars": 37,
     "version": "2.6.2",
-    "updated_at": "2026-04-13T02:52:53Z"
+    "updated_at": "2026-05-06T12:35:36Z"
   },
   "astrbot-plugin-meting": {
     "display_name": "初叶🍂MetingAPI 点歌",
@@ -7603,13 +7603,13 @@
     ],
     "social_link": "https://github.com/piexian",
     "category": "ai_tools",
-    "stars": 40,
+    "stars": 41,
     "version": "v1.10.5",
     "astrbot_version": ">=4.10.4",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-05T21:16:43Z",
+    "updated_at": "2026-05-06T12:26:39Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -12869,9 +12869,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 74,
+    "stars": 73,
     "version": "2.2.0",
-    "updated_at": "2026-04-29T16:06:12Z",
+    "updated_at": "2026-05-06T14:01:43Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -15109,9 +15109,9 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "category": "entertainment",
-    "stars": 105,
+    "stars": 104,
     "version": "v3.0.3",
-    "updated_at": "2026-04-28T06:07:41Z",
+    "updated_at": "2026-05-06T13:19:25Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
