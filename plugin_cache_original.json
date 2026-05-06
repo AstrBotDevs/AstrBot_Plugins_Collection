@@ -5107,9 +5107,9 @@
       "抖音"
     ],
     "category": "utilities",
-    "stars": 18,
+    "stars": 19,
     "version": "v1.0.9",
-    "updated_at": "2026-04-28T19:12:26Z"
+    "updated_at": "2026-05-06T23:36:37Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -6178,9 +6178,9 @@
     "repo": "https://github.com/204343414/astrbot_plugin_yt-dlp",
     "category": "utilities",
     "tags": [],
-    "stars": 8,
+    "stars": 9,
     "version": "1.0.1",
-    "updated_at": "2026-03-21T12:16:55Z",
+    "updated_at": "2026-05-06T23:36:04Z",
     "logo": "https://raw.githubusercontent.com/204343414/astrbot_plugin_yt-dlp/master/logo.png"
   },
   "astrbot_plugin_yotts": {
