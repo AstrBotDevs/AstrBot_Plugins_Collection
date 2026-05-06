@@ -139,7 +139,7 @@
     "social_link": "",
     "stars": 17,
     "version": "3.3.4",
-    "updated_at": "2026-05-06T13:57:02Z",
+    "updated_at": "2026-05-06T14:39:20Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -227,12 +227,12 @@
       "X",
       "推特"
     ],
-    "stars": 11,
+    "stars": 12,
     "version": "v1.3.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-06T03:47:46Z",
+    "updated_at": "2026-05-06T15:38:39Z",
     "logo": "https://raw.githubusercontent.com/Ars1027/astrbot_plugin_twitter/master/logo.png"
   },
   "astrbot_plugin_course": {
@@ -4456,7 +4456,7 @@
     "category": "integrations",
     "stars": 22,
     "version": "0.7.0",
-    "updated_at": "2026-05-05T14:06:18Z",
+    "updated_at": "2026-05-06T15:13:17Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -4870,9 +4870,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
-    "stars": 34,
+    "stars": 36,
     "version": "v2.2.5",
-    "updated_at": "2026-04-17T14:18:58Z",
+    "updated_at": "2026-05-06T14:45:18Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_worldbook/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -5617,9 +5617,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.2.1",
-    "updated_at": "2026-03-17T06:07:38Z",
+    "updated_at": "2026-05-06T15:05:34Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_minesweeper/main/logo.png"
   },
   "astrbot_plugin_debounce": {
@@ -5901,9 +5901,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.0.1",
-    "updated_at": "2026-04-29T00:07:23Z",
+    "updated_at": "2026-05-06T15:05:43Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_extract/main/logo.png"
   },
   "astrbot_plugin_realistic_persona": {
@@ -6900,9 +6900,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 110,
+    "stars": 111,
     "version": "v1.5.1",
-    "updated_at": "2026-05-05T05:53:30Z",
+    "updated_at": "2026-05-06T15:05:21Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -7679,9 +7679,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "utilities",
-    "stars": 134,
+    "stars": 135,
     "version": "v2.3.0",
-    "updated_at": "2026-05-04T18:45:00Z",
+    "updated_at": "2026-05-06T15:49:57Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -9899,9 +9899,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.0.2",
-    "updated_at": "2026-03-16T09:24:21Z",
+    "updated_at": "2026-05-06T15:05:58Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_msg_search/main/logo.png"
   },
   "scheduled_reply": {
@@ -10005,9 +10005,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.0.4",
-    "updated_at": "2026-02-17T07:21:35Z",
+    "updated_at": "2026-05-06T15:05:40Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_lottery/main/logo.png"
   },
   "astrbot_plugin_touchgal": {
@@ -10058,9 +10058,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 20,
+    "stars": 21,
     "version": "v1.0.5",
-    "updated_at": "2026-03-24T15:32:19Z",
+    "updated_at": "2026-05-06T15:05:38Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_restart/main/logo.png"
   },
   "astrbot_plugin_tts_llm": {
@@ -10405,9 +10405,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 170,
+    "stars": 171,
     "version": "2.2.11",
-    "updated_at": "2026-05-06T10:30:24Z",
+    "updated_at": "2026-05-06T16:40:50Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -10471,9 +10471,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.0.5",
-    "updated_at": "2026-03-15T13:51:00Z",
+    "updated_at": "2026-05-06T15:05:33Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_multimsg/main/logo.png"
   },
   "astrbot_plugin_keywordsreply": {
@@ -10609,12 +10609,12 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 17,
+    "stars": 18,
     "version": "v1.1.4",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-04-21T07:54:07Z",
+    "updated_at": "2026-05-06T15:05:15Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qun_album/main/logo.png"
   },
   "astrbot_plugin_favourpro": {
@@ -10829,9 +10829,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
-    "stars": 164,
+    "stars": 165,
     "version": "v2.1.3",
-    "updated_at": "2026-04-07T12:50:44Z",
+    "updated_at": "2026-05-06T15:05:56Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_lmarena/main/logo.png"
   },
   "astrbot_plugin_Mirecraft_motd": {
@@ -11084,9 +11084,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
-    "stars": 50,
+    "stars": 51,
     "version": "v2.2.0",
-    "updated_at": "2026-04-27T18:07:47Z",
+    "updated_at": "2026-05-06T15:05:29Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wakepro/main/logo.png"
   },
   "astrbot_plugin_memora_connect": {
@@ -11140,9 +11140,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 57,
+    "stars": 58,
     "version": "v2.2.2",
-    "updated_at": "2026-05-03T16:17:54Z",
+    "updated_at": "2026-05-06T15:05:17Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -11155,9 +11155,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.0.4",
-    "updated_at": "2026-03-21T16:06:46Z",
+    "updated_at": "2026-05-06T15:05:59Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_image_summary/main/logo.png"
   },
   "astrbot_plugin_voice_to_text": {
@@ -11270,12 +11270,12 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 18,
+    "stars": 19,
     "version": "v1.0.2",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-02T08:34:34Z",
+    "updated_at": "2026-05-06T15:05:27Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_recall/main/logo.png"
   },
   "astrbot_plugin_record_converter": {
@@ -11288,9 +11288,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 20,
+    "stars": 21,
     "version": "v1.0.3",
-    "updated_at": "2026-04-17T03:36:50Z",
+    "updated_at": "2026-05-06T15:05:25Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_record_converter/main/logo.png"
   },
   "astrbot_plugin_spark_tts": {
@@ -11485,9 +11485,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 13,
+    "stars": 14,
     "version": "v1.1.2",
-    "updated_at": "2026-05-01T08:39:58Z",
+    "updated_at": "2026-05-06T15:05:18Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_screenctrl/main/logo.png"
   },
   "astrbot_plugin_error_pro": {
@@ -12193,9 +12193,9 @@
     "social_link": "https://github.com/Zhalslar",
     "author": "Zhalslar",
     "category": "utilities",
-    "stars": 13,
+    "stars": 14,
     "version": "v1.0.3",
-    "updated_at": "2026-03-16T13:26:12Z",
+    "updated_at": "2026-05-06T15:05:40Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_monitor/main/logo.png"
   },
   "astrbot_plugin_decision_roulette": {
@@ -12496,9 +12496,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "integrations",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.1.0",
-    "updated_at": "2026-03-22T05:42:33Z",
+    "updated_at": "2026-05-06T15:05:31Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_afdian/main/logo.png"
   },
   "astrbot_plugin_runes": {
@@ -12599,9 +12599,9 @@
     "social_link": "https://github.com/Zhalslar",
     "desc": "动态词库，自定义回复词",
     "category": "entertainment",
-    "stars": 14,
+    "stars": 15,
     "version": "v1.1.0",
-    "updated_at": "2026-03-01T15:49:42Z",
+    "updated_at": "2026-05-06T15:05:32Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wbank/main/logo.png"
   },
   "astrbot_plugin_lyricnext": {
@@ -12640,9 +12640,9 @@
     "desc": "[仅aiocqhttp]让bot 转人工/转人机，真人客服 接入对话/结束对话",
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 33,
+    "stars": 34,
     "version": "v1.7.3",
-    "updated_at": "2026-05-06T10:31:17Z",
+    "updated_at": "2026-05-06T15:06:01Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_human_service/main/logo.png"
   },
   "astrbot_plugin_reimage": {
@@ -12705,9 +12705,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.0.2",
-    "updated_at": "2026-02-06T02:10:17Z",
+    "updated_at": "2026-05-06T15:05:44Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_cube/main/logo.png"
   },
   "astrbot_plugin_constellation": {
@@ -12967,9 +12967,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 151,
+    "stars": 152,
     "version": "v2.1.0",
-    "updated_at": "2026-05-05T11:38:41Z",
+    "updated_at": "2026-05-06T15:05:18Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -13069,9 +13069,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
-    "stars": 11,
+    "stars": 12,
     "version": "v1.0.3",
-    "updated_at": "2026-05-04T10:55:02Z",
+    "updated_at": "2026-05-06T15:05:44Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_deepwiki/main/logo.png"
   },
   "astrbot_plugin_delete_and_block_filter": {
@@ -13294,9 +13294,9 @@
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
     "tags": [],
-    "stars": 49,
+    "stars": 50,
     "version": "v1.3.0",
-    "updated_at": "2026-04-23T08:09:12Z",
+    "updated_at": "2026-05-06T15:05:16Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_search_video/main/logo.png"
   },
   "astrbot_plugin_zt": {
@@ -13309,9 +13309,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 15,
+    "stars": 16,
     "version": "v1.1.0",
-    "updated_at": "2026-04-12T10:08:59Z",
+    "updated_at": "2026-05-06T15:05:24Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_zt/main/logo.png"
   },
   "astrbot_plugin_portrayal": {
@@ -13325,9 +13325,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
-    "stars": 79,
+    "stars": 80,
     "version": "v1.1.3",
-    "updated_at": "2026-04-30T07:45:50Z",
+    "updated_at": "2026-05-06T15:05:22Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
@@ -13521,9 +13521,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 12,
+    "stars": 13,
     "version": "v1.0.2",
-    "updated_at": "2026-03-15T12:29:08Z",
+    "updated_at": "2026-05-06T15:06:00Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_notice/main/logo.png"
   },
   "astrbot_plugin_pokepro": {
@@ -13536,13 +13536,13 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 76,
+    "stars": 77,
     "version": "v2.1.0",
     "astrbot_version": ">=4.13.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-02T03:00:14Z",
+    "updated_at": "2026-05-06T15:05:30Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_pokepro/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
@@ -13567,9 +13567,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 14,
+    "stars": 15,
     "version": "v1.1.1",
-    "updated_at": "2026-04-22T14:27:00Z",
+    "updated_at": "2026-05-06T15:05:35Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_broadcast/main/logo.png"
   },
   "astrbot_plugin_nobot": {
@@ -13582,9 +13582,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_nobot",
     "category": "utilities",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.0.4",
-    "updated_at": "2026-02-17T07:22:15Z",
+    "updated_at": "2026-05-06T15:05:39Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_nobot/main/logo.png"
   },
   "astrbot_plugin_mcgetter": {
@@ -13663,9 +13663,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "productivity",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.0.3",
-    "updated_at": "2026-03-31T09:32:22Z",
+    "updated_at": "2026-05-06T15:05:54Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_supervisor/main/logo.png"
   },
   "astrbot_plugin_primermath": {
@@ -13868,9 +13868,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "entertainment",
-    "stars": 238,
+    "stars": 239,
     "version": "v3.0.3",
-    "updated_at": "2026-05-05T09:02:34Z",
+    "updated_at": "2026-05-06T15:05:36Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -14258,9 +14258,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_password",
     "category": "utilities",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.0.1",
-    "updated_at": "2026-01-04T16:06:13Z",
+    "updated_at": "2026-05-06T15:05:56Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_password/main/logo.png"
   },
   "astrbot_plugin_douyin_bot": {
@@ -14311,9 +14311,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_gallery",
     "category": "utilities",
-    "stars": 28,
+    "stars": 29,
     "version": "v2.1.0",
-    "updated_at": "2026-04-09T10:03:32Z",
+    "updated_at": "2026-05-06T15:05:42Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_gallery/main/logo.png"
   },
   "astrbot_plugin_sensoji_pro": {
@@ -14521,9 +14521,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_reread",
     "category": "entertainment",
-    "stars": 36,
+    "stars": 37,
     "version": "v2.0.0",
-    "updated_at": "2026-04-20T11:05:52Z",
+    "updated_at": "2026-05-06T15:05:37Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_reread/main/logo.png"
   },
   "astrbot_plugin_csbaoyan": {
@@ -14625,9 +14625,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
     "category": "ai_tools",
-    "stars": 48,
+    "stars": 49,
     "version": "v2.0.0",
-    "updated_at": "2026-04-20T22:31:03Z",
+    "updated_at": "2026-05-06T15:05:21Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_browser/main/logo.png"
   },
   "astrbot_plugin_qqadmin": {
@@ -14640,12 +14640,12 @@
       "QQ群管"
     ],
     "category": "utilities",
-    "stars": 136,
+    "stars": 137,
     "version": "v3.2.7",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-06T07:35:51Z",
+    "updated_at": "2026-05-06T15:02:49Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -14777,12 +14777,12 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 12,
+    "stars": 13,
     "version": "v1.1.3",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-04-20T14:21:15Z",
+    "updated_at": "2026-05-06T15:05:29Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqprofile/main/logo.png"
   },
   "astrbot_plugin_mcping": {
@@ -14795,9 +14795,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_mcping",
     "category": "integrations",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.0.3",
-    "updated_at": "2026-03-28T02:08:25Z",
+    "updated_at": "2026-05-06T15:05:55Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_mcping/main/logo.png"
   },
   "astrbot_plugin_lorebook_lite": {
@@ -14851,9 +14851,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
     "category": "integrations",
-    "stars": 82,
+    "stars": 83,
     "version": "v3.1.0",
-    "updated_at": "2026-05-06T09:18:37Z",
+    "updated_at": "2026-05-06T15:05:33Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
@@ -15084,9 +15084,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_history_day",
     "category": "utilities",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0.8",
-    "updated_at": "2025-12-18T09:33:04Z",
+    "updated_at": "2026-05-06T15:05:59Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_history_day/main/logo.png"
   },
   "astrbot_plugin_PockAttack": {
@@ -15109,9 +15109,9 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "category": "entertainment",
-    "stars": 104,
+    "stars": 105,
     "version": "v3.0.3",
-    "updated_at": "2026-05-06T13:19:25Z",
+    "updated_at": "2026-05-06T15:05:20Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
