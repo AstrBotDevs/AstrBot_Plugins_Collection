@@ -255,9 +255,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 71,
+    "stars": 72,
     "version": "2.7.0",
-    "updated_at": "2026-05-06T07:22:48Z",
+    "updated_at": "2026-05-06T09:39:15Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -595,10 +595,10 @@
       "适配器"
     ],
     "social_link": "https://github.com/starlight02",
-    "stars": 2,
+    "stars": 3,
     "version": "v0.6.0",
     "astrbot_version": ">=4.0",
-    "updated_at": "2026-04-15T15:38:50Z"
+    "updated_at": "2026-05-06T09:58:02Z"
   },
   "astrbot-plugin-uapipro-toolbox": {
     "display_name": "UApiPro 工具箱",
@@ -1462,9 +1462,9 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "category": "entertainment",
-    "stars": 24,
+    "stars": 25,
     "version": "v2.5.7",
-    "updated_at": "2026-05-06T02:06:41Z",
+    "updated_at": "2026-05-06T11:29:37Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot_plugin_atrifeed/main/logo.png"
   },
   "astrbot-plugin-self-open-llm-vtuber": {
@@ -2559,8 +2559,8 @@
     "category": "ai_tools",
     "tags": [],
     "stars": 57,
-    "version": "Ver 5.3.0",
-    "updated_at": "2026-05-05T00:55:17Z"
+    "version": "Ver 5.4.0",
+    "updated_at": "2026-05-06T11:39:20Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -2887,9 +2887,9 @@
     ],
     "social_link": "https://github.com/w2902171175",
     "category": "ai_tools",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.7.1",
-    "updated_at": "2026-04-19T11:55:42Z"
+    "updated_at": "2026-05-06T09:58:54Z"
   },
   "astrbot-plugin-custome-segment-reply": {
     "display_name": "自定义断句回复插件",
@@ -2904,9 +2904,9 @@
     ],
     "social_link": "https://github.com/LinJohn8",
     "category": "utilities",
-    "stars": 19,
+    "stars": 20,
     "version": "1.0.0",
-    "updated_at": "2026-05-03T08:19:44Z",
+    "updated_at": "2026-05-06T10:52:59Z",
     "logo": "https://raw.githubusercontent.com/LinJohn8/astrbot_plugin_custome_segment_reply/main/logo.png"
   },
   "astrbot-plugin-alteration-notifier": {
@@ -3128,9 +3128,9 @@
     "repo": "https://github.com/w2902171175/astrbot_plugin_GPT-SoVITS",
     "category": "ai_tools",
     "tags": [],
-    "stars": 10,
+    "stars": 11,
     "version": "v1.7.1",
-    "updated_at": "2026-04-19T11:55:42Z"
+    "updated_at": "2026-05-06T09:58:54Z"
   },
   "astrbot-plugin-topic-starter": {
     "display_name": "topic_starter",
@@ -7521,13 +7521,13 @@
     ],
     "social_link": "https://box.firefly520.top/",
     "category": "ai_tools",
-    "stars": 31,
+    "stars": 32,
     "version": "1.6.3",
     "support_platforms": [
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-05-05T13:45:04Z",
+    "updated_at": "2026-05-06T09:29:39Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/main/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -10405,9 +10405,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 168,
+    "stars": 170,
     "version": "2.2.11",
-    "updated_at": "2026-05-06T09:02:05Z",
+    "updated_at": "2026-05-06T10:30:24Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -12640,9 +12640,9 @@
     "desc": "[仅aiocqhttp]让bot 转人工/转人机，真人客服 接入对话/结束对话",
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 32,
+    "stars": 33,
     "version": "v1.7.3",
-    "updated_at": "2026-05-05T11:40:34Z",
+    "updated_at": "2026-05-06T10:31:17Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_human_service/main/logo.png"
   },
   "astrbot_plugin_reimage": {
