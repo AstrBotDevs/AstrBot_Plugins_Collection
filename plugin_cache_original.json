@@ -228,11 +228,11 @@
       "推特"
     ],
     "stars": 11,
-    "version": "v1.2.0",
+    "version": "v1.3.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-05T13:00:31Z",
+    "updated_at": "2026-05-06T03:47:46Z",
     "logo": "https://raw.githubusercontent.com/Ars1027/astrbot_plugin_twitter/master/logo.png"
   },
   "astrbot_plugin_course": {
@@ -1139,10 +1139,10 @@
       "面板"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 19,
+    "stars": 20,
     "version": "v1.0.0",
     "astrbot_version": ">=4.11.2",
-    "updated_at": "2026-05-05T13:48:56Z",
+    "updated_at": "2026-05-06T05:26:14Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_live_dashboard/main/logo.png"
   },
   "astrbot-plugin-wol-miko": {
@@ -1377,8 +1377,8 @@
       "群聊"
     ],
     "stars": 9,
-    "version": "v1.0.0",
-    "updated_at": "2026-05-05T14:26:55Z"
+    "version": "v1.0.1",
+    "updated_at": "2026-05-06T04:00:02Z"
   },
   "astrbot-plugin-dida365": {
     "display_name": "滴答清单连接器",
@@ -2115,8 +2115,8 @@
     "social_link": "https://github.com/jiantoucn",
     "category": "integrations",
     "stars": 8,
-    "version": "v1.14.2",
-    "updated_at": "2026-05-06T02:47:17Z",
+    "version": "v1.14.3",
+    "updated_at": "2026-05-06T03:33:33Z",
     "logo": "https://raw.githubusercontent.com/jiantoucn/astrbot_plugin_weibo_monitor/main/logo.png"
   },
   "astrbot-plugin-content-safety-guard": {
@@ -4958,9 +4958,9 @@
       "数据搜刮"
     ],
     "category": "entertainment",
-    "stars": 15,
+    "stars": 16,
     "version": "v1.5.4",
-    "updated_at": "2026-05-04T09:55:46Z",
+    "updated_at": "2026-05-06T02:59:36Z",
     "logo": "https://raw.githubusercontent.com/zhoufan47/astrbot_plugin_bbt_daily_news/master/logo.png"
   },
   "astrbot_plugin_fflogs": {
@@ -5501,9 +5501,9 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_safety",
     "category": "utilities",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.8",
-    "updated_at": "2026-01-26T22:37:07Z"
+    "updated_at": "2026-05-06T04:05:00Z"
   },
   "astrbot_plugin_cloudmailapi": {
     "display_name": "CloudMail 邮箱 API 工具",
@@ -6419,9 +6419,9 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_custom_menu",
     "category": "utilities",
     "tags": [],
-    "stars": 18,
+    "stars": 19,
     "version": "1.9.1",
-    "updated_at": "2026-05-04T04:40:06Z",
+    "updated_at": "2026-05-06T04:04:58Z",
     "logo": "https://raw.githubusercontent.com/shskjw/astrbot_plugin_custom_menu/master/logo.png"
   },
   "astrbot_plugin_webnovel_info": {
@@ -7383,9 +7383,9 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_gifcaijian",
     "category": "utilities",
     "tags": [],
-    "stars": 8,
+    "stars": 9,
     "version": "v1.4.2",
-    "updated_at": "2026-01-26T22:37:07Z"
+    "updated_at": "2026-05-06T04:04:59Z"
   },
   "astrbot_plugin_AtTool": {
     "display_name": "@工具（艾特工具）",
@@ -7458,8 +7458,8 @@
     ],
     "category": "utilities",
     "stars": 4,
-    "version": "v1.3.4",
-    "updated_at": "2026-04-10T09:35:30Z",
+    "version": "v1.4.0",
+    "updated_at": "2026-05-06T05:53:56Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_video_analysis/master/logo.png"
   },
   "astrbot_plugin_image_generation": {
@@ -8330,9 +8330,9 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_siliconflow-shouban",
     "category": "ai_tools",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "v1.3.5",
-    "updated_at": "2026-03-24T05:49:35Z"
+    "updated_at": "2026-05-06T04:05:04Z"
   },
   "astrbot_plugin_eatdrink": {
     "display_name": "吃喝什么呢？",
@@ -8373,9 +8373,9 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_vangonography",
     "category": "utilities",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.2",
-    "updated_at": "2026-01-26T22:37:07Z"
+    "updated_at": "2026-05-06T04:05:06Z"
   },
   "astrbot_plugin_bolatuship": {
     "desc": "使用柏拉图API接口和Sora 2等模型生成视频。",
@@ -8383,9 +8383,9 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_bolatuship",
     "category": "ai_tools",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "2.0.3",
-    "updated_at": "2026-03-10T02:16:55Z"
+    "updated_at": "2026-05-06T04:04:57Z"
   },
   "astrbot_plugin_NetEaseCloud_Music": {
     "display_name": "网易云点歌",
@@ -8884,7 +8884,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 233,
+    "stars": 234,
     "version": "v1.2.3",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -8896,7 +8896,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-05-06T00:47:40Z",
+    "updated_at": "2026-05-06T04:53:54Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -9517,9 +9517,9 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_guijishiping",
     "category": "ai_tools",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "v1.1.0",
-    "updated_at": "2026-01-26T22:37:07Z"
+    "updated_at": "2026-05-06T04:05:07Z"
   },
   "astrbot_plugin_user_inject": {
     "desc": "根据用户id动态注入system_prompt",
@@ -10237,9 +10237,9 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "category": "entertainment",
     "tags": [],
-    "stars": 57,
+    "stars": 58,
     "version": "v2.8.5",
-    "updated_at": "2026-05-05T14:58:29Z"
+    "updated_at": "2026-05-06T04:04:55Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -10405,9 +10405,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 167,
+    "stars": 168,
     "version": "2.2.10",
-    "updated_at": "2026-05-05T20:32:06Z",
+    "updated_at": "2026-05-06T05:52:30Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -13418,12 +13418,12 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 31,
+    "stars": 32,
     "version": "v2.0.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-04-25T10:33:34Z",
+    "updated_at": "2026-05-06T04:01:16Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_emoji_like/main/logo.png"
   },
   "astrbot_plugin_lanraragi": {
