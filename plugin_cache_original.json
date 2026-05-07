@@ -9271,9 +9271,9 @@
     ],
     "social_link": "https://www.misakanet.site",
     "category": "utilities",
-    "stars": 11,
+    "stars": 12,
     "version": "v1.3.6",
-    "updated_at": "2026-05-07T12:49:35Z",
+    "updated_at": "2026-05-07T19:47:47Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_persona_plus/master/logo.png"
   },
   "astrbot_plugin_sticker": {
@@ -10400,9 +10400,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 172,
+    "stars": 173,
     "version": "2.2.11",
-    "updated_at": "2026-05-07T10:16:47Z",
+    "updated_at": "2026-05-07T19:27:10Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -12363,8 +12363,8 @@
     "category": "utilities",
     "tags": [],
     "stars": 8,
-    "version": "v1.6.1",
-    "updated_at": "2026-05-07T16:02:51Z",
+    "version": "v1.6.3",
+    "updated_at": "2026-05-07T18:36:22Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_shutup/master/logo.png"
   },
   "astrbot_plugin_check-dst-room": {
