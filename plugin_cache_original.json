@@ -5107,9 +5107,9 @@
       "抖音"
     ],
     "category": "utilities",
-    "stars": 19,
+    "stars": 20,
     "version": "v1.0.9",
-    "updated_at": "2026-05-06T23:36:37Z"
+    "updated_at": "2026-05-07T21:10:36Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -5565,13 +5565,13 @@
     "social_link": "https://github.com/VanillaNahida/",
     "category": "utilities",
     "stars": 28,
-    "version": "v1.2.7",
+    "version": "v1.2.8",
     "astrbot_version": ">=4.10.6,<5",
     "support_platforms": [
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-04-11T17:41:48Z",
+    "updated_at": "2026-05-07T20:18:23Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_geetest_verify/master/logo.png"
   },
   "astrbot_plugin_cliproxy_stats": {
