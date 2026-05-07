@@ -139,7 +139,7 @@
     "social_link": "",
     "stars": 18,
     "version": "3.3.4",
-    "updated_at": "2026-05-07T01:54:16Z",
+    "updated_at": "2026-05-07T08:52:11Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -255,9 +255,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 76,
+    "stars": 77,
     "version": "3.0.0",
-    "updated_at": "2026-05-07T05:52:55Z",
+    "updated_at": "2026-05-07T07:27:05Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -2386,9 +2386,9 @@
       "数据查询"
     ],
     "category": "entertainment",
-    "stars": 45,
+    "stars": 46,
     "version": "2.8.0",
-    "updated_at": "2026-05-06T06:34:52Z",
+    "updated_at": "2026-05-07T08:44:21Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -4451,7 +4451,7 @@
     "category": "integrations",
     "stars": 22,
     "version": "0.7.0",
-    "updated_at": "2026-05-06T15:13:17Z",
+    "updated_at": "2026-05-07T09:24:20Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -8129,9 +8129,9 @@
       "推特"
     ],
     "category": "utilities",
-    "stars": 41,
+    "stars": 42,
     "version": "v6.1.1",
-    "updated_at": "2026-05-03T05:08:02Z",
+    "updated_at": "2026-05-07T07:59:18Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -8879,7 +8879,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 235,
+    "stars": 236,
     "version": "v1.2.3",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -8891,7 +8891,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-05-06T06:34:01Z",
+    "updated_at": "2026-05-07T06:40:32Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -14723,9 +14723,9 @@
     "repo": "https://github.com/lm379/astrbot_plugin_quarksave",
     "category": "integrations",
     "tags": [],
-    "stars": 16,
+    "stars": 17,
     "version": "v1.0.5",
-    "updated_at": "2026-04-16T16:27:40Z"
+    "updated_at": "2026-05-07T08:32:16Z"
   },
   "astrbot_plugins_ConvetPicture": {
     "desc": "[仅aiocqhttp]把QQ里面不可保存的表情转化为可以保存的图片，包括GIF",
