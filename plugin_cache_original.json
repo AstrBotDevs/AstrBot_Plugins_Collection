@@ -138,8 +138,8 @@
     ],
     "social_link": "",
     "stars": 18,
-    "version": "3.3.8",
-    "updated_at": "2026-05-07T11:40:53Z",
+    "version": "3.3.9",
+    "updated_at": "2026-05-07T12:46:45Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -255,9 +255,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 77,
+    "stars": 78,
     "version": "3.0.0",
-    "updated_at": "2026-05-07T07:27:05Z",
+    "updated_at": "2026-05-07T13:00:12Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -2786,8 +2786,8 @@
     "social_link": "https://github.com/xiaoruange39",
     "category": "entertainment",
     "stars": 7,
-    "version": "v1.0.7",
-    "updated_at": "2026-05-04T16:28:28Z",
+    "version": "v1.0.8",
+    "updated_at": "2026-05-07T14:10:02Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_epic_freegame/main/logo.png"
   },
   "astrbot-plugin-goofish-catcher": {
@@ -4907,11 +4907,11 @@
     "social_link": "https://github.com/siciyuanweilai",
     "category": "entertainment",
     "stars": 31,
-    "version": "5.1.9",
+    "version": "5.2.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-03T07:34:29Z",
+    "updated_at": "2026-05-07T12:37:10Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -5718,9 +5718,9 @@
       "故障转移"
     ],
     "category": "utilities",
-    "stars": 5,
+    "stars": 6,
     "version": "1.2.0",
-    "updated_at": "2026-05-05T07:29:13Z",
+    "updated_at": "2026-05-07T13:36:06Z",
     "logo": "https://raw.githubusercontent.com/fluidcat/astrbot_plugin_lb_provider/master/logo.png"
   },
   "astrbot_plugin_steam_status": {
@@ -6167,9 +6167,9 @@
       "心理委员"
     ],
     "category": "entertainment",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.0.0",
-    "updated_at": "2026-03-18T06:19:30Z"
+    "updated_at": "2026-05-07T12:04:19Z"
   },
   "astrbot_plugin_yt-dlp": {
     "display_name": "yt-dlp网页视频下载",
@@ -8879,7 +8879,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 236,
+    "stars": 237,
     "version": "v1.2.3",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -8891,7 +8891,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-05-07T06:40:32Z",
+    "updated_at": "2026-05-07T11:58:52Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -9272,8 +9272,8 @@
     "social_link": "https://www.misakanet.site",
     "category": "utilities",
     "stars": 11,
-    "version": "v1.3.5",
-    "updated_at": "2026-05-05T14:39:44Z",
+    "version": "v1.3.6",
+    "updated_at": "2026-05-07T12:49:35Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_persona_plus/master/logo.png"
   },
   "astrbot_plugin_sticker": {
@@ -10258,12 +10258,12 @@
       "撤回"
     ],
     "category": "utilities",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.3.1",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-04-25T14:49:15Z",
+    "updated_at": "2026-05-07T12:11:48Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_anti_revoke/master/logo.png"
   },
   "input_state_by_napcat": {
@@ -12363,8 +12363,8 @@
     "category": "utilities",
     "tags": [],
     "stars": 8,
-    "version": "v1.5.0",
-    "updated_at": "2026-05-05T14:44:30Z",
+    "version": "v1.5.3",
+    "updated_at": "2026-05-07T13:06:59Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_shutup/master/logo.png"
   },
   "astrbot_plugin_check-dst-room": {
@@ -14489,9 +14489,9 @@
     "social_link": "https://github.com/Futureppo",
     "repo": "https://github.com/Futureppo/astrbot_plugin_zanwo",
     "category": "utilities",
-    "stars": 25,
+    "stars": 26,
     "version": "v1.0.9",
-    "updated_at": "2026-04-16T15:20:33Z",
+    "updated_at": "2026-05-07T12:47:25Z",
     "logo": "https://raw.githubusercontent.com/Futureppo/astrbot_plugin_zanwo/master/logo.png"
   },
   "astrbot_plugin_ehentai_bot": {
@@ -15305,9 +15305,9 @@
       "游戏"
     ],
     "category": "entertainment",
-    "stars": 3,
+    "stars": 4,
     "version": "1.6.0",
-    "updated_at": "2026-05-04T10:32:04Z"
+    "updated_at": "2026-05-07T12:28:09Z"
   },
   "astrbot_plugin_wordle_2_msg": {
     "desc": "Wordle 猜单词游戏。基于 Raven95676 的版本加入了一些新功能。",
