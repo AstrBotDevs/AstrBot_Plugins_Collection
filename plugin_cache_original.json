@@ -137,9 +137,9 @@
       "提示词优化"
     ],
     "social_link": "",
-    "stars": 17,
+    "stars": 18,
     "version": "3.3.4",
-    "updated_at": "2026-05-06T14:39:20Z",
+    "updated_at": "2026-05-07T01:54:16Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -186,10 +186,10 @@
       "skills"
     ],
     "social_link": "https://github.com/piexian",
-    "stars": 9,
+    "stars": 10,
     "version": "0.1.10",
     "astrbot_version": ">=4.23.6",
-    "updated_at": "2026-05-05T02:40:59Z",
+    "updated_at": "2026-05-07T00:59:18Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_skills_mcp_manager/master/logo.png"
   },
   "astrbot_plugin_Astronomy_Picture_of_the_Day": {
@@ -255,9 +255,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 72,
+    "stars": 74,
     "version": "3.0.0",
-    "updated_at": "2026-05-06T13:07:03Z",
+    "updated_at": "2026-05-07T03:49:45Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -310,10 +310,10 @@
       "状态"
     ],
     "social_link": "https://github.com/Blueteemo",
-    "stars": 3,
+    "stars": 4,
     "version": "1.0.1",
     "astrbot_version": ">=4.16.0",
-    "updated_at": "2026-04-22T14:31:06Z",
+    "updated_at": "2026-05-07T00:59:12Z",
     "logo": "https://raw.githubusercontent.com/Blueteemo/astrbot_plugin_awmc_maimaidx_status/master/logo.png"
   },
   "astrbot_plugin_osu_downloader": {
@@ -6816,9 +6816,9 @@
     ],
     "social_link": "https://github.com/huizhiLLL",
     "category": "entertainment",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.1.12",
-    "updated_at": "2026-05-05T12:52:23Z",
+    "updated_at": "2026-05-07T03:29:24Z",
     "logo": "https://raw.githubusercontent.com/huizhiLLL/astrbot_plugin_wca/master/logo.png"
   },
   "astrbot_plugin_memos_integrator": {
@@ -7082,7 +7082,7 @@
     "stars": 55,
     "version": "v1.4.5",
     "astrbot_version": ">=4.11.2",
-    "updated_at": "2026-04-28T14:50:35Z",
+    "updated_at": "2026-05-07T01:12:23Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -8589,14 +8589,14 @@
     ],
     "category": "utilities",
     "stars": 15,
-    "version": "1.9.0",
+    "version": "1.9.3",
     "support_platforms": [
       "aiocqhttp",
       "telegram",
       "discord",
       "lark"
     ],
-    "updated_at": "2026-05-06T01:23:18Z",
+    "updated_at": "2026-05-07T03:49:29Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
@@ -10026,9 +10026,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "utilities",
-    "stars": 10,
+    "stars": 9,
     "version": "1.0.1",
-    "updated_at": "2026-04-16T19:25:12Z"
+    "updated_at": "2026-05-07T01:12:07Z"
   },
   "astrbot_plugin_personal_selfupdate": {
     "desc": "一个用于自更新人格数据的插件。",
@@ -11790,9 +11790,9 @@
     ],
     "social_link": "https://github.com/zhewang448",
     "category": "integrations",
-    "stars": 17,
+    "stars": 16,
     "version": "v1.1.5",
-    "updated_at": "2026-04-21T05:19:05Z",
+    "updated_at": "2026-05-07T01:11:59Z",
     "logo": "https://raw.githubusercontent.com/zhewang448/astrbot_plugin_SteamSaleTracker/main/logo.png"
   },
   "astrbot_plugin_Heartflow": {
