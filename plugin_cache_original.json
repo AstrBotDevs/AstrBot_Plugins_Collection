@@ -12368,8 +12368,8 @@
     "category": "utilities",
     "tags": [],
     "stars": 8,
-    "version": "v1.6.4",
-    "updated_at": "2026-05-08T10:35:36Z",
+    "version": "v1.7.0",
+    "updated_at": "2026-05-08T19:28:14Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_shutup/master/logo.png"
   },
   "astrbot_plugin_check-dst-room": {
