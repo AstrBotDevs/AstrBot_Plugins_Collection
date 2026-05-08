@@ -897,7 +897,7 @@
       "股票"
     ],
     "social_link": "https://github.com/YYY7C",
-    "stars": 14,
+    "stars": 15,
     "version": "1.2.0",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
@@ -905,7 +905,7 @@
       "telegram",
       "discord"
     ],
-    "updated_at": "2026-04-30T03:49:13Z",
+    "updated_at": "2026-05-08T00:10:48Z",
     "logo": "https://raw.githubusercontent.com/YYY7C/TradingAgents-AstrBot/main/logo.png"
   },
   "astrbot-plugin-sts2-data": {
@@ -1457,9 +1457,9 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "category": "entertainment",
-    "stars": 25,
+    "stars": 26,
     "version": "v2.5.7",
-    "updated_at": "2026-05-06T11:29:37Z",
+    "updated_at": "2026-05-08T00:09:23Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot_plugin_atrifeed/main/logo.png"
   },
   "astrbot-plugin-self-open-llm-vtuber": {
@@ -3512,8 +3512,8 @@
     "social_link": "https://github.com/1-20182",
     "category": "entertainment",
     "stars": 9,
-    "version": "v1.9.6",
-    "updated_at": "2026-04-11T12:30:58Z"
+    "version": "v1.9.8",
+    "updated_at": "2026-05-08T01:32:52Z"
   },
   "astrbot-plugin-Gemini-STT": {
     "display_name": "Gemini_STT",
@@ -13628,9 +13628,9 @@
     ],
     "repo": "https://github.com/zhewang448/astrbot_plugin_mrfz",
     "category": "entertainment",
-    "stars": 8,
+    "stars": 9,
     "version": "v3.4.1",
-    "updated_at": "2026-03-30T14:54:09Z",
+    "updated_at": "2026-05-08T03:00:57Z",
     "logo": "https://raw.githubusercontent.com/zhewang448/astrbot_plugin_mrfz/main/logo.png"
   },
   "astrbot_plugin_napdog_cleaner": {
