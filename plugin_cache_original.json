@@ -16392,9 +16392,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "ai_tools",
     "tags": [],
-    "stars": 238,
+    "stars": 239,
     "version": "v2.1.4",
-    "updated_at": "2026-05-06T17:08:24Z"
+    "updated_at": "2026-05-08T21:36:51Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
