@@ -9879,17 +9879,6 @@
     ],
     "category": "utilities"
   },
-  "astrbot_plugin_OriginiumSeal-pro": {
-    "author": "bushikq",
-    "desc": "[仅 aiocqhttp] 源石封印插件(将原本的戳一戳条件改成了在用户发送制作源石头像时执行)",
-    "repo": "https://github.com/zhewang448/astrbot_plugin_OriginiumSeal-pro",
-    "tags": [
-      "明日方舟",
-      "游戏"
-    ],
-    "social_link": "https://github.com/zhewang448",
-    "category": "entertainment"
-  },
   "astrBot_plugin_0721anime": {
     "author": "明日香奈",
     "desc": "在群里输入【/查番 动漫名称】即可查询内置动漫网站相对应的动漫名和链接",
