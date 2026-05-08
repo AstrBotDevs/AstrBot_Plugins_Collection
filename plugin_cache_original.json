@@ -20,8 +20,8 @@
       "milvus"
     ],
     "stars": 6,
-    "version": "2.0.0",
-    "updated_at": "2026-05-07T04:57:28Z"
+    "version": "2.0.1",
+    "updated_at": "2026-05-08T08:55:59Z"
   },
   "astrbot_plugin_life_assistant": {
     "display_name": "生活助手",
@@ -672,8 +672,8 @@
       "bilibili"
     ],
     "stars": 1,
-    "version": "3.0.0",
-    "updated_at": "2026-04-24T09:19:02Z"
+    "version": "3.1.0",
+    "updated_at": "2026-05-08T08:04:41Z"
   },
   "astrbot-plugin-touhou-kb": {
     "display_name": "东方知识库",
@@ -1663,12 +1663,12 @@
     "social_link": "https://github.com/moeneri",
     "category": "utilities",
     "stars": 2,
-    "version": "1.0.3",
+    "version": "1.0.4",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-04-22T15:11:54Z"
+    "updated_at": "2026-05-08T07:57:17Z"
   },
   "astrbot-plugin-group-mate": {
     "display_name": "星洛智萌_群友眷属",
@@ -2122,10 +2122,10 @@
     "social_link": "https://github.com/Kalospacer",
     "category": "ai_tools",
     "tags": [],
-    "stars": 7,
+    "stars": 8,
     "version": "1.2.6",
     "astrbot_version": ">=4.18.0",
-    "updated_at": "2026-05-06T08:13:59Z"
+    "updated_at": "2026-05-08T09:15:11Z"
   },
   "astrbot-plugin-pairit": {
     "display_name": "PairIt",
@@ -2289,7 +2289,7 @@
     "stars": 10,
     "version": "v1.3.2",
     "astrbot_version": ">=4.10.4",
-    "updated_at": "2026-04-28T05:01:29Z",
+    "updated_at": "2026-05-08T09:18:47Z",
     "logo": "https://raw.githubusercontent.com/gangcaiyoule/astrbot_plugin_mail_notify/master/logo.png"
   },
   "astrbot-plugin-Xagent-searcher": {
@@ -2553,9 +2553,9 @@
     "social_link": "https://github.com/Renyus",
     "category": "ai_tools",
     "tags": [],
-    "stars": 57,
+    "stars": 58,
     "version": "Ver 5.4.0",
-    "updated_at": "2026-05-06T11:39:20Z"
+    "updated_at": "2026-05-08T08:28:00Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -5955,9 +5955,9 @@
     "social_link": "https://github.com/xiaomizhoubaobei",
     "category": "ai_tools",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "v0.0.6",
-    "updated_at": "2026-03-21T09:39:48Z",
+    "updated_at": "2026-05-08T08:42:05Z",
     "logo": "https://raw.githubusercontent.com/xiaomizhoubaobei/astrbot_plugin_models_ai/main/logo.png"
   },
   "astrbot_plugin_monixiuxian2": {
@@ -6447,8 +6447,8 @@
     "social_link": "https://github.com/muyouzhi6",
     "category": "utilities",
     "stars": 69,
-    "version": "1.1.4",
-    "updated_at": "2026-05-08T07:49:30Z",
+    "version": "1.1.5",
+    "updated_at": "2026-05-08T09:13:11Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
@@ -10232,9 +10232,9 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "category": "entertainment",
     "tags": [],
-    "stars": 58,
+    "stars": 60,
     "version": "v2.8.6",
-    "updated_at": "2026-05-07T15:05:51Z"
+    "updated_at": "2026-05-08T09:14:28Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -10400,9 +10400,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 173,
+    "stars": 174,
     "version": "2.2.11",
-    "updated_at": "2026-05-07T19:27:10Z",
+    "updated_at": "2026-05-08T09:09:17Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -11240,9 +11240,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "integrations",
-    "stars": 121,
+    "stars": 122,
     "version": "v3.0.4",
-    "updated_at": "2026-05-05T12:06:01Z",
+    "updated_at": "2026-05-08T08:09:02Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
