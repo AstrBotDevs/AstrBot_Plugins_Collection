@@ -257,7 +257,7 @@
     "social_link": "",
     "stars": 81,
     "version": "3.0.0",
-    "updated_at": "2026-05-09T15:08:56Z",
+    "updated_at": "2026-05-09T17:42:48Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -8016,9 +8016,9 @@
     ],
     "social_link": "https://github.com/NekoiMeiov",
     "category": "utilities",
-    "stars": 12,
+    "stars": 13,
     "version": "v1.1.0",
-    "updated_at": "2026-05-09T15:45:30Z"
+    "updated_at": "2026-05-09T17:42:34Z"
   },
   "astrbot_plugin_mc_update": {
     "display_name": "Minecraft 基岩版更新日志提醒插件",
@@ -10923,9 +10923,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
-    "stars": 69,
+    "stars": 70,
     "version": "3.1.5",
-    "updated_at": "2026-04-29T16:07:02Z",
+    "updated_at": "2026-05-09T17:43:53Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "findx010197/astrbot_plugin_reminder": {
