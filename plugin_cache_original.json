@@ -138,8 +138,8 @@
     ],
     "social_link": "",
     "stars": 20,
-    "version": "3.3.10",
-    "updated_at": "2026-05-09T22:46:12Z",
+    "version": "3.3.11",
+    "updated_at": "2026-05-09T23:10:50Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -227,12 +227,12 @@
       "X",
       "推特"
     ],
-    "stars": 13,
+    "stars": 14,
     "version": "v1.4.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-09T04:01:01Z",
+    "updated_at": "2026-05-09T23:04:08Z",
     "logo": "https://raw.githubusercontent.com/Ars1027/astrbot_plugin_twitter/master/logo.png"
   },
   "astrbot_plugin_course": {
@@ -3826,9 +3826,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 133,
+    "stars": 134,
     "version": "v2.1.1",
-    "updated_at": "2026-05-09T07:52:35Z",
+    "updated_at": "2026-05-09T22:59:16Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
