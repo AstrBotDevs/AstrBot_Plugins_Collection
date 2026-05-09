@@ -432,9 +432,9 @@
     "repo": "https://github.com/AstrBotDevs/builtin_commands_extension",
     "social_link": "https://docs.astrbot.app/use/command.html",
     "tags": [],
-    "stars": 8,
+    "stars": 9,
     "version": "v0.0.1",
-    "updated_at": "2026-05-01T16:36:47Z"
+    "updated_at": "2026-05-09T09:56:26Z"
   },
   "astrbot_plugin_btw": {
     "display_name": "ByTheWay 快捷问题",
@@ -8792,9 +8792,9 @@
       "修仙"
     ],
     "category": "entertainment",
-    "stars": 11,
+    "stars": 12,
     "version": "v0.9.0",
-    "updated_at": "2026-04-16T02:11:01Z",
+    "updated_at": "2026-05-09T09:37:06Z",
     "logo": "https://raw.githubusercontent.com/linjianyan0229/astrbot_plugin_monixiuxian/main/logo.png"
   },
   "astrbot_plugin_invitecount": {
