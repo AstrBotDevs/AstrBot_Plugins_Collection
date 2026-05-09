@@ -137,9 +137,9 @@
       "提示词优化"
     ],
     "social_link": "",
-    "stars": 19,
+    "stars": 20,
     "version": "3.3.9",
-    "updated_at": "2026-05-09T10:47:51Z",
+    "updated_at": "2026-05-09T12:57:26Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -280,9 +280,9 @@
     "author": "middcom,dream,deepseek",
     "repo": "https://github.com/middcom/astrbot_plugin_affection",
     "tags": [],
-    "stars": 11,
+    "stars": 12,
     "version": "v1.2",
-    "updated_at": "2026-05-07T15:43:12Z"
+    "updated_at": "2026-05-09T13:16:05Z"
   },
   "astrbot_plugin_media_wiki": {
     "display_name": "MediaWiki 通用查询",
@@ -918,9 +918,9 @@
       "查询工具"
     ],
     "social_link": "https://github.com/YuWan886",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.3.2",
-    "updated_at": "2026-04-25T10:00:16Z"
+    "updated_at": "2026-05-09T12:03:39Z"
   },
   "astrbot-plugin-zhuaxiaba": {
     "display_name": "贴吧抓虾吧插件",
@@ -1940,7 +1940,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-05-09T05:25:02Z",
+    "updated_at": "2026-05-09T12:21:00Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -5023,7 +5023,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-05-09T05:25:02Z",
+    "updated_at": "2026-05-09T12:21:00Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -8885,7 +8885,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 242,
+    "stars": 243,
     "version": "v1.2.3",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -8897,7 +8897,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-05-09T05:25:02Z",
+    "updated_at": "2026-05-09T13:20:07Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -10406,9 +10406,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 175,
+    "stars": 176,
     "version": "2.2.11",
-    "updated_at": "2026-05-09T07:29:16Z",
+    "updated_at": "2026-05-09T12:37:57Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -12954,9 +12954,9 @@
       "玩具"
     ],
     "category": "entertainment",
-    "stars": 27,
+    "stars": 28,
     "version": "v0.1",
-    "updated_at": "2026-05-02T08:39:17Z"
+    "updated_at": "2026-05-09T12:19:44Z"
   },
   "astrbot_plugin_music": {
     "display_name": "点歌插件",
@@ -16393,9 +16393,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "ai_tools",
     "tags": [],
-    "stars": 239,
+    "stars": 240,
     "version": "v2.1.4",
-    "updated_at": "2026-05-08T21:36:51Z"
+    "updated_at": "2026-05-09T12:41:50Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
