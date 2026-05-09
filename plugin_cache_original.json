@@ -137,9 +137,9 @@
       "提示词优化"
     ],
     "social_link": "",
-    "stars": 18,
+    "stars": 19,
     "version": "3.3.9",
-    "updated_at": "2026-05-07T12:46:45Z",
+    "updated_at": "2026-05-09T10:47:51Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -3187,9 +3187,9 @@
     "social_link": "https://github.com/storyAura",
     "category": "entertainment",
     "tags": [],
-    "stars": 23,
+    "stars": 22,
     "version": "v1.0.2",
-    "updated_at": "2026-05-04T17:38:32Z",
+    "updated_at": "2026-05-09T11:37:49Z",
     "logo": "https://raw.githubusercontent.com/storyAura/astrbot_plugin_biliVideo/main/logo.png"
   },
   "astrbot-plugin-opencode-client": {
@@ -8594,7 +8594,7 @@
     ],
     "category": "utilities",
     "stars": 15,
-    "version": "1.9.4",
+    "version": "1.9.5",
     "astrbot_version": ">=4.16",
     "support_platforms": [
       "aiocqhttp",
@@ -8602,7 +8602,7 @@
       "discord",
       "lark"
     ],
-    "updated_at": "2026-05-09T00:59:58Z",
+    "updated_at": "2026-05-09T10:25:28Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
