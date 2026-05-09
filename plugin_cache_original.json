@@ -1234,7 +1234,7 @@
     ],
     "social_link": "https://github.com/moeneri",
     "stars": 0,
-    "version": "2.1.3",
+    "version": "2.1.4",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp",
@@ -1244,7 +1244,7 @@
       "discord",
       "kook"
     ],
-    "updated_at": "2026-05-08T14:21:05Z",
+    "updated_at": "2026-05-09T14:06:55Z",
     "logo": "https://raw.githubusercontent.com/moeneri/astrbot_plugin_apexrankwatch/main/logo.png"
   },
   "astrbot-plugin-ipcam": {
@@ -2887,9 +2887,9 @@
     ],
     "social_link": "https://github.com/w2902171175",
     "category": "ai_tools",
-    "stars": 12,
+    "stars": 13,
     "version": "v1.7.1",
-    "updated_at": "2026-05-08T15:32:55Z"
+    "updated_at": "2026-05-09T13:34:17Z"
   },
   "astrbot-plugin-custome-segment-reply": {
     "display_name": "自定义断句回复插件",
@@ -3128,9 +3128,9 @@
     "repo": "https://github.com/w2902171175/astrbot_plugin_GPT-SoVITS",
     "category": "ai_tools",
     "tags": [],
-    "stars": 12,
+    "stars": 13,
     "version": "v1.7.1",
-    "updated_at": "2026-05-08T15:32:55Z"
+    "updated_at": "2026-05-09T13:34:17Z"
   },
   "astrbot-plugin-topic-starter": {
     "display_name": "topic_starter",
@@ -5678,9 +5678,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 289,
+    "stars": 290,
     "version": "Next-2.1.0",
-    "updated_at": "2026-05-09T04:38:45Z",
+    "updated_at": "2026-05-09T14:08:03Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -7084,10 +7084,10 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "utilities",
-    "stars": 55,
+    "stars": 56,
     "version": "v1.4.5",
     "astrbot_version": ">=4.11.2",
-    "updated_at": "2026-05-07T01:12:23Z",
+    "updated_at": "2026-05-09T14:25:59Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -8594,7 +8594,7 @@
     ],
     "category": "utilities",
     "stars": 15,
-    "version": "1.9.5",
+    "version": "1.9.6",
     "astrbot_version": ">=4.16",
     "support_platforms": [
       "aiocqhttp",
@@ -8602,7 +8602,7 @@
       "discord",
       "lark"
     ],
-    "updated_at": "2026-05-09T10:25:28Z",
+    "updated_at": "2026-05-09T14:29:52Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
@@ -9294,9 +9294,9 @@
       "chiikawa"
     ],
     "category": "entertainment",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.1.3",
-    "updated_at": "2026-03-20T06:49:18Z"
+    "updated_at": "2026-05-09T13:25:55Z"
   },
   "astrbot_mcmod_card": {
     "desc": "MC 百科卡片解析",
@@ -10367,9 +10367,9 @@
       "音乐"
     ],
     "category": "entertainment",
-    "stars": 9,
+    "stars": 10,
     "version": "2.1.1",
-    "updated_at": "2026-01-31T15:09:29Z"
+    "updated_at": "2026-05-09T14:06:56Z"
   },
   "astrbot_plugin_slg": {
     "desc": "用astrbot玩slg",
