@@ -8398,13 +8398,13 @@
     ],
     "social_link": "https://github.com/SatenShiroya",
     "category": "entertainment",
-    "stars": 13,
+    "stars": 14,
     "version": "V2.1.0",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-04-27T10:44:43Z",
+    "updated_at": "2026-05-09T16:42:44Z",
     "logo": "https://raw.githubusercontent.com/SatenShiroya/astrbot_plugin_neteasecloud_music/master/logo.png"
   },
   "astrbot_plugin_dailyacmfortune": {
@@ -9864,7 +9864,7 @@
     "category": "entertainment",
     "stars": 13,
     "version": "v2.2.0",
-    "updated_at": "2026-04-06T12:19:20Z"
+    "updated_at": "2026-05-09T16:41:42Z"
   },
   "astrbot_plugin_xiuxian": {
     "desc": "基于astrbot框架的文字修仙游戏",
@@ -10949,8 +10949,8 @@
     "category": "utilities",
     "tags": [],
     "stars": 1,
-    "version": "v1.1.0",
-    "updated_at": "2026-05-03T12:37:29Z",
+    "version": "v1.1.1",
+    "updated_at": "2026-05-09T16:46:54Z",
     "logo": "https://raw.githubusercontent.com/L1ke40oz/astrbot_plugin_tts_modify/master/logo.png"
   },
   "astrbot_plugin_keyword_monitor": {
