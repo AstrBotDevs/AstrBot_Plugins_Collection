@@ -390,9 +390,9 @@
       "roco"
     ],
     "social_link": "https://space.bilibili.com/20407488;https://github.com/ZHwash",
-    "stars": 9,
+    "stars": 10,
     "version": "v2.11.0",
-    "updated_at": "2026-05-08T17:56:01Z",
+    "updated_at": "2026-05-09T07:27:19Z",
     "logo": "https://raw.githubusercontent.com/ZHwash/astrbot_plugin_roco_world_wiki_search/main/logo.png"
   },
   "astrbot_plugin_currency": {
@@ -3460,9 +3460,9 @@
     ],
     "social_link": "https://github.com/HSOS6",
     "category": "utilities",
-    "stars": 18,
+    "stars": 19,
     "version": "v1.4.0",
-    "updated_at": "2026-04-16T08:57:07Z",
+    "updated_at": "2026-05-09T07:45:35Z",
     "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_ssh/main/logo.png"
   },
   "astrbot-plugin-httpadapter": {
@@ -3826,9 +3826,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 132,
+    "stars": 133,
     "version": "v2.1.1",
-    "updated_at": "2026-05-08T06:36:10Z",
+    "updated_at": "2026-05-09T07:52:35Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -6883,11 +6883,11 @@
     ],
     "category": "entertainment",
     "stars": 5,
-    "version": "v1.2.9",
+    "version": "v1.3.5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-04-25T11:25:55Z"
+    "updated_at": "2026-05-09T07:17:15Z"
   },
   "astrbot_plugin_parser": {
     "display_name": "万能解析器",
@@ -7969,9 +7969,9 @@
     ],
     "social_link": "https://github.com/HSOS6",
     "category": "integrations",
-    "stars": 2,
+    "stars": 3,
     "version": "2.0.25.12.WNMCNXM",
-    "updated_at": "2026-02-06T17:43:57Z",
+    "updated_at": "2026-05-09T07:01:32Z",
     "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_mcsmanager/main/logo.png"
   },
   "astrbot_plugin_minecraft_adapter": {
@@ -9279,7 +9279,7 @@
     "category": "utilities",
     "stars": 12,
     "version": "v1.3.6",
-    "updated_at": "2026-05-07T19:47:47Z",
+    "updated_at": "2026-05-09T07:12:07Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_persona_plus/master/logo.png"
   },
   "astrbot_plugin_sticker": {
@@ -9938,8 +9938,8 @@
     ],
     "category": "integrations",
     "stars": 4,
-    "version": "v1.2.1",
-    "updated_at": "2026-05-08T07:38:19Z"
+    "version": "v1.3.0",
+    "updated_at": "2026-05-09T06:55:07Z"
   },
   "astrbot_plugin_admin_emoji_reply": {
     "desc": "自动为指定的用户回复表情消息，支持开关和自定义速度",
@@ -10406,9 +10406,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 174,
+    "stars": 175,
     "version": "2.2.11",
-    "updated_at": "2026-05-08T09:09:17Z",
+    "updated_at": "2026-05-09T07:29:16Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -12369,8 +12369,8 @@
     "category": "utilities",
     "tags": [],
     "stars": 8,
-    "version": "v1.7.0",
-    "updated_at": "2026-05-08T19:28:14Z",
+    "version": "v1.7.1",
+    "updated_at": "2026-05-09T07:20:29Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_shutup/master/logo.png"
   },
   "astrbot_plugin_check-dst-room": {
@@ -15285,8 +15285,8 @@
     ],
     "category": "entertainment",
     "stars": 1,
-    "version": "v1.1.0",
-    "updated_at": "2026-03-23T13:30:20Z"
+    "version": "v1.1.5",
+    "updated_at": "2026-05-09T07:20:55Z"
   },
   "astrbot_plugin_majsoul-master": {
     "desc": "一个雀魂多功能插件",
@@ -16154,7 +16154,7 @@
     "tags": [],
     "stars": 13,
     "version": "v3.2",
-    "updated_at": "2026-03-16T10:14:25Z",
+    "updated_at": "2026-05-09T08:13:06Z",
     "logo": "https://raw.githubusercontent.com/LunarMeal/astrbot_plugin_memes/master/logo.png"
   },
   "astrbot_plugin_ignore_at": {
@@ -16383,9 +16383,9 @@
     "repo": "https://github.com/zgojin/astrbot_plugin_AW",
     "category": "entertainment",
     "tags": [],
-    "stars": 16,
+    "stars": 17,
     "version": "v1.5.3",
-    "updated_at": "2026-03-11T06:53:30Z"
+    "updated_at": "2026-05-09T06:39:20Z"
   },
   "astrbot_plugin_mnemosyne": {
     "desc": "一个长期记忆插件，基于milvus数据库实现，详情请见README.md",
