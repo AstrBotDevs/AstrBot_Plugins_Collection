@@ -255,9 +255,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 80,
+    "stars": 81,
     "version": "3.0.0",
-    "updated_at": "2026-05-09T00:34:55Z",
+    "updated_at": "2026-05-09T15:08:56Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -3388,9 +3388,9 @@
     "social_link": "https://github.com/sssn-tech",
     "category": "utilities",
     "tags": [],
-    "stars": 14,
+    "stars": 15,
     "version": "v0.1.0",
-    "updated_at": "2026-03-27T05:43:32Z",
+    "updated_at": "2026-05-09T15:39:06Z",
     "logo": "https://raw.githubusercontent.com/sssn-tech/astrbot_plugin_iamthinking/master/logo.png"
   },
   "astrbot-plugin-gbif-search": {
@@ -6377,9 +6377,9 @@
     ],
     "social_link": "https://github.com/MegSopern",
     "category": "entertainment",
-    "stars": 32,
+    "stars": 33,
     "version": "1.2.0",
-    "updated_at": "2026-05-08T03:21:03Z",
+    "updated_at": "2026-05-09T14:59:47Z",
     "logo": "https://raw.githubusercontent.com/MegSopern/astrbot_plugin_rollpig/main/logo.png"
   },
   "astrbot_plugin_big_banana": {
@@ -8016,9 +8016,9 @@
     ],
     "social_link": "https://github.com/NekoiMeiov",
     "category": "utilities",
-    "stars": 11,
+    "stars": 12,
     "version": "v1.1.0",
-    "updated_at": "2026-05-06T16:58:27Z"
+    "updated_at": "2026-05-09T15:45:30Z"
   },
   "astrbot_plugin_mc_update": {
     "display_name": "Minecraft 基岩版更新日志提醒插件",
@@ -10238,9 +10238,9 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "category": "entertainment",
     "tags": [],
-    "stars": 60,
+    "stars": 61,
     "version": "v2.8.6",
-    "updated_at": "2026-05-08T09:14:28Z"
+    "updated_at": "2026-05-09T15:43:26Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
