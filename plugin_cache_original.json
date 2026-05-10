@@ -58,7 +58,7 @@
     "social_link": "https://github.com/zhangkai542322",
     "stars": 0,
     "version": "v1.6.1",
-    "updated_at": "2026-04-15T03:34:41Z"
+    "updated_at": "2026-05-10T02:09:49Z"
   },
   "astrbot_plugin_model_connectivity": {
     "display_name": "模型连通性状态图插件",
@@ -137,9 +137,9 @@
       "提示词优化"
     ],
     "social_link": "",
-    "stars": 20,
+    "stars": 21,
     "version": "3.3.11",
-    "updated_at": "2026-05-09T23:10:50Z",
+    "updated_at": "2026-05-10T01:14:50Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -255,9 +255,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 81,
+    "stars": 83,
     "version": "3.0.0",
-    "updated_at": "2026-05-09T17:42:48Z",
+    "updated_at": "2026-05-10T03:10:42Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -1931,7 +1931,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 338,
+    "stars": 339,
     "version": "v4.10.5",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -1940,7 +1940,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-05-09T12:21:00Z",
+    "updated_at": "2026-05-10T03:18:42Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -2517,7 +2517,7 @@
     "category": "utilities",
     "stars": 10,
     "version": "v2.2.1",
-    "updated_at": "2026-05-08T14:36:01Z",
+    "updated_at": "2026-05-10T00:22:29Z",
     "logo": "https://raw.githubusercontent.com/Waterwzy/astrbot_plugin_firefly_filter/master/logo.png"
   },
   "astrbot-plugin-cet6": {
@@ -4916,7 +4916,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-07T12:37:10Z",
+    "updated_at": "2026-05-10T02:40:41Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -5014,7 +5014,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 338,
+    "stars": 339,
     "version": "v4.10.5",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -5023,7 +5023,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-05-09T12:21:00Z",
+    "updated_at": "2026-05-10T03:18:42Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -5531,9 +5531,9 @@
     ],
     "social_link": "https://github.com/NickWoluff",
     "category": "utilities",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0.0",
-    "updated_at": "2026-03-23T17:19:03Z",
+    "updated_at": "2026-05-09T23:59:08Z",
     "logo": "https://raw.githubusercontent.com/NickWoluff/astrbot_plugin_smart_quote/master/logo.png"
   },
   "Railgun19457/astrbot_plugin_image_generation": {
@@ -8574,10 +8574,10 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "ai_tools",
-    "stars": 93,
+    "stars": 94,
     "version": "v1.2.1-(hotfix-重推)",
     "astrbot_version": ">=4.11.0",
-    "updated_at": "2026-05-05T15:16:38Z",
+    "updated_at": "2026-05-10T03:18:29Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -8594,7 +8594,7 @@
     ],
     "category": "utilities",
     "stars": 15,
-    "version": "1.9.6",
+    "version": "1.9.7",
     "astrbot_version": ">=4.16",
     "support_platforms": [
       "aiocqhttp",
@@ -8602,7 +8602,7 @@
       "discord",
       "lark"
     ],
-    "updated_at": "2026-05-09T14:29:52Z",
+    "updated_at": "2026-05-10T02:58:44Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
@@ -10406,9 +10406,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 176,
+    "stars": 177,
     "version": "2.2.11",
-    "updated_at": "2026-05-09T12:37:57Z",
+    "updated_at": "2026-05-10T03:17:24Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -10948,9 +10948,9 @@
     "social_link": "https://github.com/L1ke40oz",
     "category": "utilities",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.1.1",
-    "updated_at": "2026-05-09T16:46:54Z",
+    "updated_at": "2026-05-10T03:16:41Z",
     "logo": "https://raw.githubusercontent.com/L1ke40oz/astrbot_plugin_tts_modify/master/logo.png"
   },
   "astrbot_plugin_keyword_monitor": {
@@ -11811,9 +11811,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "ai_tools",
-    "stars": 77,
+    "stars": 76,
     "version": "2.1.1",
-    "updated_at": "2026-05-04T06:58:48Z"
+    "updated_at": "2026-05-10T02:55:40Z"
   },
   "cngal_search": {
     "desc": "CnGal查询",
@@ -11854,9 +11854,9 @@
       "娱乐"
     ],
     "category": "entertainment",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.5.1",
-    "updated_at": "2026-05-05T11:17:53Z",
+    "updated_at": "2026-05-10T03:17:37Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_deer_check/master/logo.png"
   },
   "astrbot_plugin_pet": {
@@ -14508,9 +14508,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_reread",
     "category": "entertainment",
-    "stars": 37,
+    "stars": 38,
     "version": "v2.0.0",
-    "updated_at": "2026-05-06T15:05:37Z",
+    "updated_at": "2026-05-10T03:17:07Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_reread/main/logo.png"
   },
   "astrbot_plugin_csbaoyan": {
@@ -15739,9 +15739,9 @@
     ],
     "pinned": true,
     "category": "entertainment",
-    "stars": 268,
+    "stars": 269,
     "version": "v3.20",
-    "updated_at": "2026-05-09T05:24:59Z"
+    "updated_at": "2026-05-10T03:19:08Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
