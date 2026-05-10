@@ -1107,9 +1107,12 @@
       "vrchat"
     ],
     "stars": 7,
-    "version": "0.2.0",
+    "version": "0.2.2",
     "astrbot_version": ">=4.16,<5",
-    "updated_at": "2026-05-03T01:40:32Z"
+    "support_platforms": [
+      "aiocqhttp"
+    ],
+    "updated_at": "2026-05-10T14:21:44Z"
   },
   "astrbot-plugin-lyubishchev": {
     "display_name": "柳比歇夫时间管理插件",
@@ -2321,9 +2324,9 @@
     ],
     "social_link": "https://github.com/FlanChanXwO",
     "category": "utilities",
-    "stars": 15,
+    "stars": 16,
     "version": "v1.0.3",
-    "updated_at": "2026-04-28T16:51:07Z",
+    "updated_at": "2026-05-10T14:06:20Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_status/master/logo.png"
   },
   "astrbot-plugin-adsb-monitor": {
@@ -3826,9 +3829,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 135,
+    "stars": 136,
     "version": "v2.1.1",
-    "updated_at": "2026-05-10T05:13:17Z",
+    "updated_at": "2026-05-10T14:46:47Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -7009,9 +7012,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "entertainment",
-    "stars": 21,
+    "stars": 22,
     "version": "v2.2.7",
-    "updated_at": "2026-04-25T16:56:21Z",
+    "updated_at": "2026-05-10T13:35:23Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_life_scheduler/main/logo.png"
   },
   "astrbot_plugin_stealer": {
@@ -7853,9 +7856,9 @@
     "social_link": "https://github.com/wuxinTLH",
     "category": "utilities",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v0.0.8",
-    "updated_at": "2026-04-26T09:50:29Z"
+    "updated_at": "2026-05-10T13:35:13Z"
   },
   "astrbot_plugin_command2llm": {
     "display_name": "Command2LLM",
@@ -8594,7 +8597,7 @@
     ],
     "category": "utilities",
     "stars": 16,
-    "version": "1.9.7",
+    "version": "1.9.8",
     "astrbot_version": ">=4.16",
     "support_platforms": [
       "aiocqhttp",
@@ -8602,7 +8605,7 @@
       "discord",
       "lark"
     ],
-    "updated_at": "2026-05-10T03:31:25Z",
+    "updated_at": "2026-05-10T13:43:36Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
@@ -9278,8 +9281,8 @@
     "social_link": "https://www.misakanet.site",
     "category": "utilities",
     "stars": 12,
-    "version": "v1.4.2",
-    "updated_at": "2026-05-10T12:55:28Z",
+    "version": "v1.4.3",
+    "updated_at": "2026-05-10T14:20:39Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_persona_plus/master/logo.png"
   },
   "astrbot_plugin_sticker": {
@@ -11246,9 +11249,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "integrations",
-    "stars": 123,
+    "stars": 124,
     "version": "v3.0.4",
-    "updated_at": "2026-05-08T14:12:57Z",
+    "updated_at": "2026-05-10T13:30:48Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
