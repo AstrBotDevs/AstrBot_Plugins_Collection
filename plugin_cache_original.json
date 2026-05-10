@@ -20,8 +20,8 @@
       "milvus"
     ],
     "stars": 6,
-    "version": "2.0.1",
-    "updated_at": "2026-05-08T08:55:59Z"
+    "version": "2.0.2",
+    "updated_at": "2026-05-10T19:51:54Z"
   },
   "astrbot_plugin_life_assistant": {
     "display_name": "生活助手",
@@ -255,9 +255,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 85,
+    "stars": 86,
     "version": "3.1.1",
-    "updated_at": "2026-05-10T15:02:22Z",
+    "updated_at": "2026-05-10T20:44:26Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
