@@ -475,9 +475,9 @@
       "推送"
     ],
     "social_link": "https://github.com/FlanChanXwO",
-    "stars": 18,
+    "stars": 19,
     "version": "v1.1.3",
-    "updated_at": "2026-04-28T02:27:39Z",
+    "updated_at": "2026-05-10T17:40:08Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_rsshub/master/logo.png"
   },
   "astrbot_plugin_scriptor": {
@@ -4690,7 +4690,7 @@
     "category": "entertainment",
     "stars": 4,
     "version": "v0.3.0",
-    "updated_at": "2026-03-05T14:21:12Z"
+    "updated_at": "2026-05-10T17:14:36Z"
   },
   "astrbot_plugin_odoo": {
     "display_name": "AstrBot Odoo 连接器",
@@ -7027,13 +7027,13 @@
     ],
     "category": "entertainment",
     "stars": 43,
-    "version": "2.6.0",
+    "version": "2.6.1",
     "astrbot_version": ">=4.10.4",
     "support_platforms": [
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-05-10T09:07:05Z",
+    "updated_at": "2026-05-10T17:17:38Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
