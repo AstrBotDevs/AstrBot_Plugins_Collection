@@ -7027,13 +7027,13 @@
     ],
     "category": "entertainment",
     "stars": 43,
-    "version": "2.6.1",
+    "version": "2.6.2",
     "astrbot_version": ">=4.10.4",
     "support_platforms": [
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-05-10T17:17:38Z",
+    "updated_at": "2026-05-10T19:12:50Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
