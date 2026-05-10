@@ -256,8 +256,8 @@
     "tags": [],
     "social_link": "",
     "stars": 85,
-    "version": "3.1.0",
-    "updated_at": "2026-05-10T10:00:31Z",
+    "version": "3.1.1",
+    "updated_at": "2026-05-10T15:02:22Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -9281,8 +9281,8 @@
     "social_link": "https://www.misakanet.site",
     "category": "utilities",
     "stars": 12,
-    "version": "v1.4.3",
-    "updated_at": "2026-05-10T14:20:39Z",
+    "version": "v1.4.4",
+    "updated_at": "2026-05-10T15:47:55Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_persona_plus/master/logo.png"
   },
   "astrbot_plugin_sticker": {
