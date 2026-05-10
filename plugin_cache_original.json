@@ -255,9 +255,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 84,
+    "stars": 85,
     "version": "3.0.0",
-    "updated_at": "2026-05-10T03:59:31Z",
+    "updated_at": "2026-05-10T08:19:06Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -1234,7 +1234,7 @@
     ],
     "social_link": "https://github.com/moeneri",
     "stars": 0,
-    "version": "2.1.4",
+    "version": "2.1.6",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp",
@@ -1244,7 +1244,7 @@
       "discord",
       "kook"
     ],
-    "updated_at": "2026-05-09T14:06:55Z",
+    "updated_at": "2026-05-10T08:52:42Z",
     "logo": "https://raw.githubusercontent.com/moeneri/astrbot_plugin_apexrankwatch/main/logo.png"
   },
   "astrbot-plugin-ipcam": {
@@ -3443,9 +3443,9 @@
     ],
     "social_link": "https://github.com/Radiant303",
     "category": "ai_tools",
-    "stars": 31,
+    "stars": 32,
     "version": "v2.3.1",
-    "updated_at": "2026-05-08T19:15:42Z",
+    "updated_at": "2026-05-10T07:08:39Z",
     "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_clonetts/master/logo.png"
   },
   "astrbot-plugin-ssh": {
@@ -3576,9 +3576,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "integrations",
-    "stars": 37,
+    "stars": 38,
     "version": "2.7.2",
-    "updated_at": "2026-05-06T17:17:06Z"
+    "updated_at": "2026-05-10T06:48:36Z"
   },
   "astrbot-plugin-meting": {
     "display_name": "初叶🍂MetingAPI 点歌",
@@ -4082,9 +4082,9 @@
       "codegen"
     ],
     "category": "ai_tools",
-    "stars": 52,
+    "stars": 53,
     "version": "1.3.9",
-    "updated_at": "2026-05-02T08:31:48Z",
+    "updated_at": "2026-05-10T06:53:26Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -5313,9 +5313,9 @@
     ],
     "social_link": "https://github.com/DITF16",
     "category": "ai_tools",
-    "stars": 63,
+    "stars": 64,
     "version": "1.1.1",
-    "updated_at": "2026-05-07T15:48:05Z",
+    "updated_at": "2026-05-10T06:53:30Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_groupGuard": {
@@ -5465,9 +5465,9 @@
     ],
     "social_link": "https://github.com/kennylimz",
     "category": "entertainment",
-    "stars": 14,
+    "stars": 15,
     "version": "v2.2.1",
-    "updated_at": "2026-04-26T01:09:31Z",
+    "updated_at": "2026-05-10T07:21:24Z",
     "logo": "https://raw.githubusercontent.com/kennylimz/astrbot_plugin_mudae_qq/main/logo.png"
   },
   "BUGJI/astrbot_plugin_balance": {
@@ -11474,7 +11474,7 @@
     "category": "entertainment",
     "stars": 10,
     "version": "v1.1.3",
-    "updated_at": "2026-02-28T20:08:32Z"
+    "updated_at": "2026-05-10T08:09:40Z"
   },
   "astrbot_plugin_screenctrl": {
     "display_name": "截屏助手",
@@ -14824,9 +14824,9 @@
     ],
     "social_link": "https://m.bilibili.com/space/172230783",
     "category": "entertainment",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.4",
-    "updated_at": "2026-04-28T13:09:33Z"
+    "updated_at": "2026-05-10T07:04:22Z"
   },
   "astrbot_plugin_GPT_SoVITS": {
     "display_name": "GPT SoVITS",
