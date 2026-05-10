@@ -9941,8 +9941,8 @@
     ],
     "category": "integrations",
     "stars": 4,
-    "version": "v1.3.0",
-    "updated_at": "2026-05-09T06:55:07Z"
+    "version": "v1.3.1",
+    "updated_at": "2026-05-10T16:22:22Z"
   },
   "astrbot_plugin_admin_emoji_reply": {
     "desc": "自动为指定的用户回复表情消息，支持开关和自定义速度",
@@ -12973,7 +12973,7 @@
     "category": "entertainment",
     "stars": 153,
     "version": "v2.1.0",
-    "updated_at": "2026-05-08T12:50:33Z",
+    "updated_at": "2026-05-10T16:57:33Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
