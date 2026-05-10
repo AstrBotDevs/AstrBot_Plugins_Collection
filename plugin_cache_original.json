@@ -137,9 +137,9 @@
       "提示词优化"
     ],
     "social_link": "",
-    "stars": 21,
+    "stars": 22,
     "version": "3.3.11",
-    "updated_at": "2026-05-10T05:20:45Z",
+    "updated_at": "2026-05-10T09:22:48Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -256,8 +256,8 @@
     "tags": [],
     "social_link": "",
     "stars": 85,
-    "version": "3.0.0",
-    "updated_at": "2026-05-10T08:19:06Z",
+    "version": "3.1.0",
+    "updated_at": "2026-05-10T10:00:31Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -1244,7 +1244,7 @@
       "discord",
       "kook"
     ],
-    "updated_at": "2026-05-10T08:52:42Z",
+    "updated_at": "2026-05-10T09:37:44Z",
     "logo": "https://raw.githubusercontent.com/moeneri/astrbot_plugin_apexrankwatch/main/logo.png"
   },
   "astrbot-plugin-ipcam": {
@@ -4149,9 +4149,9 @@
     ],
     "social_link": "https://github.com/R1ddle1337",
     "category": "entertainment",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-02-05T12:41:05Z"
+    "updated_at": "2026-05-10T10:16:28Z"
   },
   "astrbot_plugin_xinsanguo_voice": {
     "display_name": "新三国语音梗插件",
@@ -4944,9 +4944,9 @@
     "social_link": "https://github.com/HEI1491",
     "category": "ai_tools",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "1.4.6",
-    "updated_at": "2026-02-22T21:48:22Z"
+    "updated_at": "2026-05-10T09:05:49Z"
   },
   "astrbot_plugin_bbt_daily_news": {
     "display_name": "棒棒糖的每日晨报",
@@ -4997,9 +4997,9 @@
     "social_link": "https://github.com/GCHkongcheng",
     "category": "ai_tools",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-03-02T04:24:59Z"
+    "updated_at": "2026-05-10T09:05:02Z"
   },
   "astrbot_plugin_qq_group_daily_analysis": {
     "display_name": "QQ群分析总结插件",
@@ -6392,9 +6392,9 @@
       "vertex_ai"
     ],
     "category": "ai_tools",
-    "stars": 24,
+    "stars": 25,
     "version": "v0.1.15",
-    "updated_at": "2026-05-07T14:31:27Z",
+    "updated_at": "2026-05-10T09:20:47Z",
     "logo": "https://raw.githubusercontent.com/sukafon/astrbot_plugin_big_banana/main/logo.png"
   },
   "astrbot_plugin_BitTorrent": {
@@ -7023,14 +7023,14 @@
       "表情"
     ],
     "category": "entertainment",
-    "stars": 42,
+    "stars": 43,
     "version": "2.6.0",
     "astrbot_version": ">=4.10.4",
     "support_platforms": [
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-05-09T18:52:59Z",
+    "updated_at": "2026-05-10T09:07:05Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -9278,8 +9278,8 @@
     "social_link": "https://www.misakanet.site",
     "category": "utilities",
     "stars": 12,
-    "version": "v1.3.6",
-    "updated_at": "2026-05-09T07:12:07Z",
+    "version": "v1.4.0",
+    "updated_at": "2026-05-10T09:32:17Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_persona_plus/master/logo.png"
   },
   "astrbot_plugin_sticker": {
@@ -15693,9 +15693,9 @@
       "搬史"
     ],
     "category": "utilities",
-    "stars": 561,
+    "stars": 562,
     "version": "v0.916",
-    "updated_at": "2026-05-04T06:27:27Z"
+    "updated_at": "2026-05-10T09:44:20Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
