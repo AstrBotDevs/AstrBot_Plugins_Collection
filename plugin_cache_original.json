@@ -257,7 +257,7 @@
     "social_link": "",
     "stars": 90,
     "version": "3.1.1",
-    "updated_at": "2026-05-11T14:15:17Z",
+    "updated_at": "2026-05-11T15:59:41Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -2041,8 +2041,9 @@
     "social_link": "https://github.com/RhoninSeiei",
     "category": "productivity",
     "stars": 5,
-    "version": "v0.5.2",
-    "updated_at": "2026-05-07T16:57:20Z"
+    "version": "v0.6.0",
+    "updated_at": "2026-05-11T16:17:10Z",
+    "logo": "https://raw.githubusercontent.com/RhoninSeiei/astrbot_plugin_rss_forwarder/master/logo.png"
   },
   "astrbot-plugin-lyria": {
     "display_name": "Lyria音乐生成",
@@ -2727,9 +2728,9 @@
     ],
     "social_link": "https://github.com/united-pooh",
     "category": "entertainment",
-    "stars": 11,
+    "stars": 12,
     "version": "v1.1.1",
-    "updated_at": "2026-04-16T07:17:40Z",
+    "updated_at": "2026-05-11T15:06:30Z",
     "logo": "https://raw.githubusercontent.com/united-pooh/astrbot_plugin_bangumi/main/logo.png"
   },
   "astrbot-plugin-three-body-wiki": {
@@ -3579,9 +3580,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "integrations",
-    "stars": 38,
+    "stars": 39,
     "version": "2.7.2",
-    "updated_at": "2026-05-10T06:48:36Z"
+    "updated_at": "2026-05-11T16:41:58Z"
   },
   "astrbot-plugin-meting": {
     "display_name": "初叶🍂MetingAPI 点歌",
@@ -4462,7 +4463,7 @@
     "category": "integrations",
     "stars": 22,
     "version": "0.7.0",
-    "updated_at": "2026-05-07T09:24:20Z",
+    "updated_at": "2026-05-11T16:57:32Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -8891,7 +8892,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 243,
+    "stars": 244,
     "version": "v1.2.3",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -8903,7 +8904,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-05-09T13:20:07Z",
+    "updated_at": "2026-05-11T16:46:43Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -15631,9 +15632,9 @@
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
     "category": "ai_tools",
-    "stars": 122,
+    "stars": 123,
     "version": "v2.1.11",
-    "updated_at": "2026-05-11T11:04:05Z"
+    "updated_at": "2026-05-11T15:22:11Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
