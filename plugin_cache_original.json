@@ -255,9 +255,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 86,
+    "stars": 88,
     "version": "3.1.1",
-    "updated_at": "2026-05-10T20:44:26Z",
+    "updated_at": "2026-05-11T02:40:07Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -671,9 +671,9 @@
     "tags": [
       "bilibili"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "3.1.2",
-    "updated_at": "2026-05-10T11:29:39Z"
+    "updated_at": "2026-05-11T01:53:40Z"
   },
   "astrbot-plugin-touhou-kb": {
     "display_name": "东方知识库",
@@ -1237,7 +1237,7 @@
     ],
     "social_link": "https://github.com/moeneri",
     "stars": 0,
-    "version": "2.1.6",
+    "version": "2.1.9",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp",
@@ -1247,7 +1247,7 @@
       "discord",
       "kook"
     ],
-    "updated_at": "2026-05-10T09:37:44Z",
+    "updated_at": "2026-05-11T02:58:22Z",
     "logo": "https://raw.githubusercontent.com/moeneri/astrbot_plugin_apexrankwatch/main/logo.png"
   },
   "astrbot-plugin-ipcam": {
@@ -4657,9 +4657,9 @@
       "QQ"
     ],
     "category": "utilities",
-    "stars": 7,
+    "stars": 8,
     "version": "v0.2.1",
-    "updated_at": "2026-04-29T00:07:31Z"
+    "updated_at": "2026-05-11T02:12:26Z"
   },
   "astrbot_plugin_skland": {
     "display_name": "森空岛签到",
@@ -5771,14 +5771,14 @@
     ],
     "social_link": "https://github.com/Clhikari",
     "category": "productivity",
-    "stars": 28,
+    "stars": 29,
     "version": "v1.7.0-preview",
     "support_platforms": [
       "aiocqhttp",
       "telegram",
       "discord"
     ],
-    "updated_at": "2026-05-10T11:51:24Z",
+    "updated_at": "2026-05-11T03:16:47Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -5888,9 +5888,9 @@
     ],
     "social_link": "https://github.com/h4rm00n",
     "category": "utilities",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.1.1",
-    "updated_at": "2026-03-13T17:29:08Z"
+    "updated_at": "2026-05-11T02:40:35Z"
   },
   "astrbot_plugin_extract": {
     "display_name": "元数据解析",
@@ -7333,9 +7333,9 @@
     ],
     "social_link": "https://github.com/asakiyoshi",
     "category": "ai_tools",
-    "stars": 6,
+    "stars": 7,
     "version": "v4.0.0",
-    "updated_at": "2026-03-21T09:58:54Z"
+    "updated_at": "2026-05-11T02:30:02Z"
   },
   "astrbot_plugin_markdown_killer": {
     "display_name": "Markdown 杀手",
@@ -10475,9 +10475,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.0.5",
-    "updated_at": "2026-05-06T15:05:33Z",
+    "updated_at": "2026-05-11T03:09:08Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_multimsg/main/logo.png"
   },
   "astrbot_plugin_keywordsreply": {
@@ -15508,7 +15508,7 @@
     "tags": [],
     "stars": 2,
     "version": "v1.1",
-    "updated_at": "2025-11-21T03:50:08Z"
+    "updated_at": "2026-05-11T02:46:26Z"
   },
   "astrbot_plugin_beautiful_giri": {
     "desc": "合集",
