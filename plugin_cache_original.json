@@ -244,8 +244,8 @@
     "astrbot_version": ">=4.19.4",
     "support_platforms": "aiocqhttp",
     "tags": [],
-    "stars": 7,
-    "updated_at": "2026-05-05T18:30:51Z",
+    "stars": 8,
+    "updated_at": "2026-05-11T14:26:10Z",
     "logo": "https://raw.githubusercontent.com/PolysaCHride/astrbot_plugin_course/main/logo.png"
   },
   "astrbot-plugin-rocom": {
@@ -255,9 +255,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 88,
+    "stars": 90,
     "version": "3.1.1",
-    "updated_at": "2026-05-11T02:40:07Z",
+    "updated_at": "2026-05-11T14:15:17Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -280,9 +280,9 @@
     "author": "middcom,dream,deepseek",
     "repo": "https://github.com/middcom/astrbot_plugin_affection",
     "tags": [],
-    "stars": 12,
+    "stars": 13,
     "version": "v1.2",
-    "updated_at": "2026-05-09T13:16:05Z"
+    "updated_at": "2026-05-11T12:41:52Z"
   },
   "astrbot_plugin_media_wiki": {
     "display_name": "MediaWiki 通用查询",
@@ -1106,13 +1106,13 @@
     "tags": [
       "vrchat"
     ],
-    "stars": 7,
+    "stars": 12,
     "version": "0.2.3",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-11T10:52:09Z"
+    "updated_at": "2026-05-11T14:35:07Z"
   },
   "astrbot-plugin-lyubishchev": {
     "display_name": "柳比歇夫时间管理插件",
@@ -1477,9 +1477,9 @@
     "repo": "https://github.com/murphys7017/astrbot_plugin_self_open_llm_vtuber",
     "category": "integrations",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "1.0.0",
-    "updated_at": "2026-04-13T12:43:18Z",
+    "updated_at": "2026-05-11T13:50:46Z",
     "logo": "https://raw.githubusercontent.com/murphys7017/astrbot_plugin_self_open_llm_vtuber/main/logo.png"
   },
   "astrbot-plugin-daliy": {
@@ -2117,9 +2117,9 @@
     ],
     "social_link": "https://github.com/jiantoucn",
     "category": "integrations",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.15.0",
-    "updated_at": "2026-05-10T04:19:51Z",
+    "updated_at": "2026-05-11T12:32:10Z",
     "logo": "https://raw.githubusercontent.com/jiantoucn/astrbot_plugin_weibo_monitor/main/logo.png"
   },
   "astrbot-plugin-content-safety-guard": {
@@ -6425,9 +6425,9 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_custom_menu",
     "category": "utilities",
     "tags": [],
-    "stars": 19,
+    "stars": 20,
     "version": "1.9.1",
-    "updated_at": "2026-05-06T04:04:58Z",
+    "updated_at": "2026-05-11T12:47:04Z",
     "logo": "https://raw.githubusercontent.com/shskjw/astrbot_plugin_custom_menu/master/logo.png"
   },
   "astrbot_plugin_webnovel_info": {
@@ -6457,9 +6457,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "utilities",
-    "stars": 69,
+    "stars": 71,
     "version": "1.1.5",
-    "updated_at": "2026-05-08T09:13:11Z",
+    "updated_at": "2026-05-11T14:02:53Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
@@ -6473,9 +6473,9 @@
       "人格"
     ],
     "category": "ai_tools",
-    "stars": 124,
+    "stars": 125,
     "version": "1.3.35",
-    "updated_at": "2026-05-09T04:51:16Z",
+    "updated_at": "2026-05-11T14:12:30Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -6906,9 +6906,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 111,
+    "stars": 112,
     "version": "v1.5.1",
-    "updated_at": "2026-05-06T15:05:21Z",
+    "updated_at": "2026-05-11T11:55:50Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -7030,13 +7030,13 @@
     ],
     "category": "entertainment",
     "stars": 43,
-    "version": "2.6.2",
+    "version": "2.6.3",
     "astrbot_version": ">=4.10.4",
     "support_platforms": [
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-05-10T19:12:50Z",
+    "updated_at": "2026-05-11T14:25:57Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -10929,9 +10929,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
-    "stars": 70,
+    "stars": 71,
     "version": "3.1.5",
-    "updated_at": "2026-05-09T17:43:53Z",
+    "updated_at": "2026-05-11T12:07:01Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "findx010197/astrbot_plugin_reminder": {
@@ -13543,13 +13543,13 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 77,
+    "stars": 78,
     "version": "v2.1.0",
     "astrbot_version": ">=4.13.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-06T15:05:30Z",
+    "updated_at": "2026-05-11T12:48:02Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_pokepro/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
@@ -15745,9 +15745,9 @@
     ],
     "pinned": true,
     "category": "entertainment",
-    "stars": 270,
+    "stars": 271,
     "version": "v3.20",
-    "updated_at": "2026-05-10T05:34:50Z"
+    "updated_at": "2026-05-11T13:49:22Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
@@ -15925,9 +15925,9 @@
     "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
     "category": "productivity",
     "tags": [],
-    "stars": 34,
+    "stars": 35,
     "version": "v1.4.3",
-    "updated_at": "2026-04-09T08:58:46Z"
+    "updated_at": "2026-05-11T13:49:37Z"
   },
   "ai_memory": {
     "desc": "一个AI记忆管理插件，可以让ai记住重要的事，记忆读取是ai自己调用的，有时候呆呆的ai不会自己调用，可以多问几次或者人格加上特定提示词,输入 /mem_help 查看记忆管理帮助",
