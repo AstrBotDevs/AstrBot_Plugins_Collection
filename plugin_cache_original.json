@@ -20,8 +20,8 @@
       "milvus"
     ],
     "stars": 6,
-    "version": "2.0.4",
-    "updated_at": "2026-05-11T09:59:18Z"
+    "version": "2.1.0",
+    "updated_at": "2026-05-12T17:32:42Z"
   },
   "astrbot_plugin_life_assistant": {
     "display_name": "生活助手",
@@ -2042,7 +2042,7 @@
     "category": "productivity",
     "stars": 5,
     "version": "v0.6.0",
-    "updated_at": "2026-05-11T17:47:15Z",
+    "updated_at": "2026-05-12T18:11:48Z",
     "logo": "https://raw.githubusercontent.com/RhoninSeiei/astrbot_plugin_rss_forwarder/master/logo.png"
   },
   "astrbot-plugin-lyria": {
@@ -4877,9 +4877,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
-    "stars": 37,
+    "stars": 38,
     "version": "v2.2.5",
-    "updated_at": "2026-05-10T11:25:48Z",
+    "updated_at": "2026-05-12T18:54:24Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_worldbook/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -7579,7 +7579,7 @@
     "category": "integrations",
     "stars": 2,
     "version": "v1.2.3",
-    "updated_at": "2026-04-20T14:30:01Z",
+    "updated_at": "2026-05-12T18:47:51Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_openlistfile/master/logo.png"
   },
   "astrbot_plugin_gemini_image": {
