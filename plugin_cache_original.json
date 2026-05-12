@@ -244,8 +244,8 @@
     "astrbot_version": ">=4.19.4",
     "support_platforms": "aiocqhttp",
     "tags": [],
-    "stars": 8,
-    "updated_at": "2026-05-11T14:26:10Z",
+    "stars": 9,
+    "updated_at": "2026-05-12T00:39:45Z",
     "logo": "https://raw.githubusercontent.com/PolysaCHride/astrbot_plugin_course/main/logo.png"
   },
   "astrbot-plugin-rocom": {
@@ -3521,8 +3521,8 @@
     "social_link": "https://github.com/1-20182",
     "category": "entertainment",
     "stars": 9,
-    "version": "v1.9.8",
-    "updated_at": "2026-05-08T01:32:52Z"
+    "version": "v1.9.9",
+    "updated_at": "2026-05-12T02:00:38Z"
   },
   "astrbot-plugin-Gemini-STT": {
     "display_name": "Gemini_STT",
@@ -4547,9 +4547,9 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "category": "entertainment",
-    "stars": 22,
+    "stars": 23,
     "version": "v3.1.9",
-    "updated_at": "2026-04-28T09:03:06Z",
+    "updated_at": "2026-05-12T02:43:38Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
@@ -5687,7 +5687,7 @@
     "category": "ai_tools",
     "stars": 291,
     "version": "Next-2.1.0",
-    "updated_at": "2026-05-11T05:03:27Z",
+    "updated_at": "2026-05-12T01:00:19Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -5837,9 +5837,9 @@
     "repo": "https://github.com/TenmaGabriel0721/astrbot_plugin_llm_executor",
     "category": "ai_tools",
     "tags": [],
-    "stars": 8,
+    "stars": 9,
     "version": "1.1.0",
-    "updated_at": "2026-05-04T12:29:32Z"
+    "updated_at": "2026-05-12T01:54:43Z"
   },
   "astrbot_plugin_command_query": {
     "display_name": "指令查询工具",
@@ -8892,7 +8892,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 244,
+    "stars": 245,
     "version": "v1.2.3",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -8904,7 +8904,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-05-11T16:46:43Z",
+    "updated_at": "2026-05-12T03:21:52Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -8954,9 +8954,9 @@
     "social_link": "https://github.com/miaoxutao123",
     "category": "ai_tools",
     "tags": [],
-    "stars": 19,
+    "stars": 20,
     "version": "v1.2.0",
-    "updated_at": "2026-04-28T02:19:57Z"
+    "updated_at": "2026-05-12T00:39:57Z"
   },
   "astrbot_plugin_furry_zan": {
     "display_name": "爱点赞",
@@ -10245,9 +10245,9 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "category": "entertainment",
     "tags": [],
-    "stars": 61,
+    "stars": 62,
     "version": "v2.8.6",
-    "updated_at": "2026-05-09T15:43:26Z"
+    "updated_at": "2026-05-12T03:43:17Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -10955,9 +10955,9 @@
     "social_link": "https://github.com/L1ke40oz",
     "category": "utilities",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.1.1",
-    "updated_at": "2026-05-10T03:16:41Z",
+    "updated_at": "2026-05-12T00:39:25Z",
     "logo": "https://raw.githubusercontent.com/L1ke40oz/astrbot_plugin_tts_modify/master/logo.png"
   },
   "astrbot_plugin_keyword_monitor": {
@@ -15746,9 +15746,9 @@
     ],
     "pinned": true,
     "category": "entertainment",
-    "stars": 271,
+    "stars": 272,
     "version": "v3.20",
-    "updated_at": "2026-05-11T13:49:22Z"
+    "updated_at": "2026-05-12T00:40:26Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
