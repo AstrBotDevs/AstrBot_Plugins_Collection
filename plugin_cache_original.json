@@ -139,7 +139,7 @@
     "social_link": "",
     "stars": 22,
     "version": "3.3.11",
-    "updated_at": "2026-05-10T09:22:48Z",
+    "updated_at": "2026-05-12T10:55:18Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -860,13 +860,13 @@
       "更多主动功能"
     ],
     "social_link": "www.wyccotccy.cn",
-    "stars": 23,
+    "stars": 24,
     "version": "3.5.1",
     "astrbot_version": ">=4.24.2",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-11T09:55:36Z",
+    "updated_at": "2026-05-12T10:56:10Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -1798,8 +1798,8 @@
     ],
     "category": "integrations",
     "stars": 1,
-    "version": "v1.2.0",
-    "updated_at": "2026-04-18T14:23:13Z"
+    "version": "v1.3.0",
+    "updated_at": "2026-05-12T11:54:55Z"
   },
   "astrbot-plugin-tarkovboss": {
     "display_name": "塔科夫Boss刷率",
@@ -5388,8 +5388,8 @@
     "category": "ai_tools",
     "tags": [],
     "stars": 7,
-    "version": "v1.4",
-    "updated_at": "2026-05-11T21:24:26Z"
+    "version": "v1.4.4",
+    "updated_at": "2026-05-12T11:35:41Z"
   },
   "astrbot_plugin_music_pro": {
     "display_name": "高级点歌",
@@ -5685,9 +5685,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 292,
+    "stars": 293,
     "version": "Next-2.1.0",
-    "updated_at": "2026-05-12T08:02:19Z",
+    "updated_at": "2026-05-12T11:41:27Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -6490,9 +6490,9 @@
       "群聊优化"
     ],
     "category": "ai_tools",
-    "stars": 91,
+    "stars": 92,
     "version": "0.8.31",
-    "updated_at": "2026-05-12T07:13:10Z",
+    "updated_at": "2026-05-12T11:02:06Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -10413,9 +10413,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 179,
+    "stars": 180,
     "version": "2.2.12",
-    "updated_at": "2026-05-12T07:53:39Z",
+    "updated_at": "2026-05-12T10:46:35Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -12975,9 +12975,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 154,
+    "stars": 155,
     "version": "v2.1.0",
-    "updated_at": "2026-05-11T09:40:03Z",
+    "updated_at": "2026-05-12T10:50:19Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -15746,9 +15746,9 @@
     ],
     "pinned": true,
     "category": "entertainment",
-    "stars": 272,
+    "stars": 274,
     "version": "v3.20",
-    "updated_at": "2026-05-12T00:40:26Z"
+    "updated_at": "2026-05-12T11:03:57Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
