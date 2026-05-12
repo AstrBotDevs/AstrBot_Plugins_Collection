@@ -3192,8 +3192,8 @@
     "category": "entertainment",
     "tags": [],
     "stars": 23,
-    "version": "v1.0.2",
-    "updated_at": "2026-05-11T04:11:54Z",
+    "version": "v1.0.3",
+    "updated_at": "2026-05-12T05:55:58Z",
     "logo": "https://raw.githubusercontent.com/storyAura/astrbot_plugin_biliVideo/main/logo.png"
   },
   "astrbot-plugin-opencode-client": {
@@ -5687,7 +5687,7 @@
     "category": "ai_tools",
     "stars": 291,
     "version": "Next-2.1.0",
-    "updated_at": "2026-05-12T01:00:19Z",
+    "updated_at": "2026-05-12T06:03:48Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -6907,9 +6907,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 112,
+    "stars": 113,
     "version": "v1.5.1",
-    "updated_at": "2026-05-11T11:55:50Z",
+    "updated_at": "2026-05-12T06:30:45Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -8142,8 +8142,8 @@
     ],
     "category": "utilities",
     "stars": 43,
-    "version": "v6.1.1",
-    "updated_at": "2026-05-11T06:12:38Z",
+    "version": "v6.1.2",
+    "updated_at": "2026-05-12T06:00:48Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -8708,14 +8708,14 @@
     "repo": "https://github.com/SatenShiroya/astrbot_plugin_llm_qqgroupTools",
     "category": "ai_tools",
     "tags": [],
-    "stars": 19,
+    "stars": 20,
     "version": "V2.3.0",
     "astrbot_version": ">=4.12.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-04-29T15:29:24Z",
+    "updated_at": "2026-05-12T06:23:27Z",
     "logo": "https://raw.githubusercontent.com/SatenShiroya/astrbot_plugin_llm_qqgroupTools/master/logo.png"
   },
   "astrbot_plugin_cs_skins": {
