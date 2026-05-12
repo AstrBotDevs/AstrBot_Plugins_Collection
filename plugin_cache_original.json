@@ -3832,7 +3832,7 @@
     "category": "integrations",
     "stars": 136,
     "version": "v2.1.1",
-    "updated_at": "2026-05-10T14:46:47Z",
+    "updated_at": "2026-05-12T14:18:15Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -5209,9 +5209,9 @@
     "repo": "https://github.com/dafeiwu666/astrbot_plugin_persona_manager",
     "category": "ai_tools",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "0.0.2",
-    "updated_at": "2026-04-29T04:54:21Z"
+    "updated_at": "2026-05-12T14:25:54Z"
   },
   "astrbot_plugin_fund_analyzer": {
     "display_name": "基金分析",
@@ -5387,9 +5387,9 @@
     "repo": "https://github.com/dafeiwu666/astrbot_plugin_ppnai",
     "category": "ai_tools",
     "tags": [],
-    "stars": 7,
-    "version": "v1.4.4",
-    "updated_at": "2026-05-12T11:35:41Z"
+    "stars": 9,
+    "version": "v1.5.0",
+    "updated_at": "2026-05-12T14:25:39Z"
   },
   "astrbot_plugin_music_pro": {
     "display_name": "高级点歌",
@@ -5685,9 +5685,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 293,
+    "stars": 294,
     "version": "Next-2.1.0",
-    "updated_at": "2026-05-12T11:41:27Z",
+    "updated_at": "2026-05-12T12:36:49Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -6907,9 +6907,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 113,
+    "stars": 114,
     "version": "v1.5.1",
-    "updated_at": "2026-05-12T06:30:45Z",
+    "updated_at": "2026-05-12T13:59:43Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -7184,13 +7184,13 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
-    "stars": 72,
+    "stars": 73,
     "version": "v4.3.0",
     "astrbot_version": ">=4.16.0,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-11T11:20:53Z",
+    "updated_at": "2026-05-12T14:37:03Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -7352,9 +7352,9 @@
     ],
     "social_link": "https://space.bilibili.com/702922307",
     "category": "utilities",
-    "stars": 9,
+    "stars": 10,
     "version": "0.0.6",
-    "updated_at": "2026-05-04T11:35:35Z"
+    "updated_at": "2026-05-12T12:09:52Z"
   },
   "astrbot_plugin_fox_status": {
     "display_name": "Fox 状态监控",
@@ -11253,9 +11253,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "integrations",
-    "stars": 124,
+    "stars": 125,
     "version": "v3.0.4",
-    "updated_at": "2026-05-10T13:30:48Z",
+    "updated_at": "2026-05-12T14:39:44Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -14161,9 +14161,9 @@
       "ccb"
     ],
     "category": "entertainment",
-    "stars": 9,
+    "stars": 10,
     "version": "v0.1.0",
-    "updated_at": "2026-05-10T04:57:01Z"
+    "updated_at": "2026-05-12T14:13:57Z"
   },
   "astrbot-gold-plugin": {
     "repo": "https://github.com/RC-CHN/astrbot-gold-plugin",
@@ -14634,12 +14634,12 @@
       "QQ群管"
     ],
     "category": "utilities",
-    "stars": 137,
+    "stars": 139,
     "version": "v3.2.7",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-06T15:02:49Z",
+    "updated_at": "2026-05-12T12:22:31Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -15996,10 +15996,10 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "category": "integrations",
     "tags": [],
-    "stars": 62,
+    "stars": 63,
     "version": "v1.6.0",
     "astrbot_version": ">=4.5.2",
-    "updated_at": "2026-05-06T17:54:41Z",
+    "updated_at": "2026-05-12T13:42:53Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
