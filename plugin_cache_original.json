@@ -83,7 +83,7 @@
     "tags": [
       "RoboMaster"
     ],
-    "stars": 4,
+    "stars": 5,
     "version": "0.7.4",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
@@ -91,7 +91,7 @@
       "qq_official",
       "lark"
     ],
-    "updated_at": "2026-05-09T05:12:52Z",
+    "updated_at": "2026-05-13T04:37:55Z",
     "logo": "https://raw.githubusercontent.com/CUBOT-robomaster/astrbot_plugin_robomaster_assistant/main/logo.png"
   },
   "astrbot-plugin-api-rate-limiter": {
@@ -137,9 +137,9 @@
       "提示词优化"
     ],
     "social_link": "",
-    "stars": 22,
+    "stars": 23,
     "version": "3.3.11",
-    "updated_at": "2026-05-12T14:53:54Z",
+    "updated_at": "2026-05-13T05:57:23Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -2956,14 +2956,14 @@
       "sky"
     ],
     "category": "entertainment",
-    "stars": 9,
+    "stars": 10,
     "version": "2.5.3",
     "support_platforms": [
       "aiocqhttp",
       "wecom",
       "telegram"
     ],
-    "updated_at": "2026-05-10T05:06:45Z",
+    "updated_at": "2026-05-13T05:32:28Z",
     "logo": "https://raw.githubusercontent.com/wzq10314/astrbot_plugin_sky/main/logo.png"
   },
   "astrbot-plugin-animatedemoji": {
@@ -3636,13 +3636,13 @@
       "数据查询"
     ],
     "category": "entertainment",
-    "stars": 7,
+    "stars": 8,
     "version": "v2.3",
     "astrbot_version": ">=4.11.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-02T07:58:46Z",
+    "updated_at": "2026-05-13T06:46:07Z",
     "logo": "https://raw.githubusercontent.com/qsc20001102/astrbot_plugin_jx3/main/logo.png"
   },
   "astrbot-plugin-zirunbi": {
@@ -3830,9 +3830,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 137,
+    "stars": 138,
     "version": "v2.1.2",
-    "updated_at": "2026-05-12T16:44:51Z",
+    "updated_at": "2026-05-13T06:25:59Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -4169,9 +4169,9 @@
       "娱乐"
     ],
     "category": "entertainment",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.0.0",
-    "updated_at": "2026-03-23T03:45:49Z"
+    "updated_at": "2026-05-13T06:45:58Z"
   },
   "astrbot_plugin_elves_world": {
     "display_name": "精灵世界",
@@ -5576,14 +5576,14 @@
     ],
     "social_link": "https://github.com/VanillaNahida/",
     "category": "utilities",
-    "stars": 28,
+    "stars": 29,
     "version": "v1.2.8",
     "astrbot_version": ">=4.10.6,<5",
     "support_platforms": [
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-05-07T20:18:23Z",
+    "updated_at": "2026-05-13T04:51:42Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_geetest_verify/master/logo.png"
   },
   "astrbot_plugin_cliproxy_stats": {
@@ -5685,9 +5685,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 294,
+    "stars": 295,
     "version": "Next-2.1.0",
-    "updated_at": "2026-05-12T12:36:49Z",
+    "updated_at": "2026-05-13T05:40:34Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -5782,7 +5782,7 @@
       "telegram",
       "discord"
     ],
-    "updated_at": "2026-05-12T06:47:14Z",
+    "updated_at": "2026-05-13T05:23:07Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -6148,9 +6148,9 @@
     "social_link": "https://github.com/NachoCrazy",
     "category": "entertainment",
     "tags": [],
-    "stars": 9,
+    "stars": 10,
     "version": "1.2.0",
-    "updated_at": "2026-04-20T06:43:13Z"
+    "updated_at": "2026-05-13T05:14:43Z"
   },
   "astrbot_plugin_batchrecall": {
     "display_name": "批量撤回",
@@ -8892,7 +8892,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 246,
+    "stars": 248,
     "version": "v1.2.3",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -8904,7 +8904,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-05-12T07:21:17Z",
+    "updated_at": "2026-05-13T06:25:49Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -9730,9 +9730,9 @@
     "repo": "https://github.com/oldPeter616/astrbot_plugin_friberg",
     "category": "entertainment",
     "tags": [],
-    "stars": 5,
+    "stars": 4,
     "version": "v1.6.0",
-    "updated_at": "2026-05-09T02:21:59Z"
+    "updated_at": "2026-05-13T05:38:48Z"
   },
   "群成员查询": {
     "desc": "[仅aiocqhttp]群成员查询工具，用于获取群成员的群昵称、QQ名称、QQ号、群内身份，返回给LLM的工具",
@@ -9945,8 +9945,8 @@
     ],
     "category": "integrations",
     "stars": 4,
-    "version": "v1.4.0",
-    "updated_at": "2026-05-13T03:15:54Z"
+    "version": "v1.4.1",
+    "updated_at": "2026-05-13T03:46:34Z"
   },
   "astrbot_plugin_admin_emoji_reply": {
     "desc": "自动为指定的用户回复表情消息，支持开关和自定义速度",
@@ -11452,9 +11452,9 @@
       "弗一把"
     ],
     "category": "entertainment",
-    "stars": 5,
+    "stars": 4,
     "version": "v1.6.0",
-    "updated_at": "2026-05-09T02:21:59Z"
+    "updated_at": "2026-05-13T05:38:48Z"
   },
   "astrbot_plugin_better_markdown_to_image": {
     "desc": "更好的 Markdown 转图片，支持自动转换来自 LLM 的回复的 Markdown 内容和指令直接转换",
