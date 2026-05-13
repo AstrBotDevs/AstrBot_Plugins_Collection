@@ -160,7 +160,7 @@
     "stars": 1,
     "version": "2.3.19",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-05-13T18:08:59Z",
+    "updated_at": "2026-05-13T22:07:45Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -197,9 +197,9 @@
     ],
     "social_link": "https://github.com/piexian",
     "stars": 5,
-    "version": "v0.3.1",
+    "version": "v0.3.2",
     "astrbot_version": ">=4.17",
-    "updated_at": "2026-05-04T04:09:43Z"
+    "updated_at": "2026-05-13T22:10:02Z"
   },
   "astrbot_plugin_fund": {
     "display_name": "个人基金投资分析助手",
