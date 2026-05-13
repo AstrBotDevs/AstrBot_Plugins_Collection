@@ -255,9 +255,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 92,
+    "stars": 93,
     "version": "3.1.1",
-    "updated_at": "2026-05-12T15:27:19Z",
+    "updated_at": "2026-05-13T03:27:56Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -359,7 +359,7 @@
     ],
     "stars": 2,
     "version": "1.1.0",
-    "updated_at": "2026-04-26T12:15:51Z",
+    "updated_at": "2026-05-12T23:17:26Z",
     "logo": "https://raw.githubusercontent.com/timetetng/astrbot_plugin_osu_dl/main/logo.png"
   },
   "astrbot_plugin_majsoul": {
@@ -1237,7 +1237,7 @@
     ],
     "social_link": "https://github.com/moeneri",
     "stars": 0,
-    "version": "2.1.9",
+    "version": "2.1.12",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp",
@@ -1247,7 +1247,7 @@
       "discord",
       "kook"
     ],
-    "updated_at": "2026-05-11T02:58:22Z",
+    "updated_at": "2026-05-13T01:37:16Z",
     "logo": "https://raw.githubusercontent.com/moeneri/astrbot_plugin_apexrankwatch/main/logo.png"
   },
   "astrbot-plugin-ipcam": {
@@ -2395,9 +2395,9 @@
       "数据查询"
     ],
     "category": "entertainment",
-    "stars": 48,
+    "stars": 49,
     "version": "2.8.0",
-    "updated_at": "2026-05-12T09:13:37Z",
+    "updated_at": "2026-05-12T23:33:34Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -5388,8 +5388,8 @@
     "category": "ai_tools",
     "tags": [],
     "stars": 9,
-    "version": "v1.5.0",
-    "updated_at": "2026-05-12T14:25:39Z"
+    "version": "v1.5.5",
+    "updated_at": "2026-05-13T01:28:05Z"
   },
   "astrbot_plugin_music_pro": {
     "display_name": "高级点歌",
@@ -7495,9 +7495,9 @@
     ],
     "social_link": "https://github.com/Loping151/ScoreEcho",
     "category": "entertainment",
-    "stars": 7,
+    "stars": 6,
     "version": "3.1.5",
-    "updated_at": "2026-03-20T19:01:27Z",
+    "updated_at": "2026-05-12T23:41:11Z",
     "logo": "https://raw.githubusercontent.com/timetetng/astrbot_plugin_echoscore/main/logo.png"
   },
   "astrbot_plugin_vocabularycard": {
@@ -9945,8 +9945,8 @@
     ],
     "category": "integrations",
     "stars": 4,
-    "version": "v1.3.1",
-    "updated_at": "2026-05-10T16:22:22Z"
+    "version": "v1.4.0",
+    "updated_at": "2026-05-13T03:15:54Z"
   },
   "astrbot_plugin_admin_emoji_reply": {
     "desc": "自动为指定的用户回复表情消息，支持开关和自定义速度",
@@ -13862,9 +13862,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "entertainment",
-    "stars": 239,
+    "stars": 240,
     "version": "v3.0.3",
-    "updated_at": "2026-05-06T15:05:36Z",
+    "updated_at": "2026-05-13T03:18:08Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -15500,9 +15500,9 @@
       "bilibili"
     ],
     "category": "entertainment",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.0",
-    "updated_at": "2026-03-13T09:01:20Z"
+    "updated_at": "2026-05-13T02:31:16Z"
   },
   "astrBot_PGR_Dialogue": {
     "desc": "检测到部分战双角色的名称(或别称)时，有概率发送一条语音文本",
@@ -15700,9 +15700,9 @@
       "搬史"
     ],
     "category": "utilities",
-    "stars": 563,
+    "stars": 562,
     "version": "v0.916",
-    "updated_at": "2026-05-12T16:22:09Z"
+    "updated_at": "2026-05-13T00:31:14Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
