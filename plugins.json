@@ -1,4 +1,17 @@
 {
+  "astrbot_plugin_tts_speak": {
+    "display_name": "TTS Speak 语音合成",
+    "desc": "让LLM能够自主调用TTS合成语音并发送语音消息的插件。注册了 tts_speak 工具函数，使AI可以主动使用语音回复。",
+    "author": "小炎 & 柠枺",
+    "repo": "https://github.com/leemwood/astrbot_plugin_tts_speak",
+    "tags": [
+      "tts",
+      "语音",
+      "语音合成",
+      "speak"
+    ],
+    "social_link": "https://github.com/leemwood"
+  },
   "astrbot_plugin_kimi_web_search": {
     "display_name": "Kimi 联网搜索（WebSearch）",
     "desc": "使用 Kimi coding plan 的 /coding/v1/search 和 /coding/v1/fetch 为 AstrBot Agent 提供互联网搜索和网页读取能力",
