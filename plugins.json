@@ -1,10 +1,77 @@
 {
-  "astrbot_plugin_fund": {
-    "display_name": "个人基金投资分析助手",
-    "desc": "基于 AstrBot 的个人基金查询、持仓分析、风险提示与报告生成插件。",
-    "author": "fxquarter",
-    "repo": "https://github.com/fxquarter/astrbot_plugin_fund#",
-    "social_link": "https://github.com/fxquarter"
+  "astrbot_plugin_kimi_web_search": {
+    "display_name": "Kimi 联网搜索（WebSearch）",
+    "desc": "使用 Kimi coding plan 的 /coding/v1/search 和 /coding/v1/fetch 为 AstrBot Agent 提供互联网搜索和网页读取能力",
+    "author": "Tsukumi233",
+    "repo": "https://github.com/Tsukumi233/astrbot_plugin_kimi_web_search",
+    "tags": [
+      "kimi",
+      "search",
+      "fetch"
+    ],
+    "social_link": "https://github.com/Tsukumi233"
+  },
+  "astrbot_plugin_group_context_flow": {
+    "display_name": "群聊上下文 Flow",
+    "desc": "用于替代内置的群聊上下文感知功能，将滑动窗口改为对前缀缓存和长上下文 agent 友好的消息记录。将群聊非触发消息持久化为符合 QQ 群消息真实顺序的连续 flow，并在 LLM 请求前按 conversation 增量注入，兼容 AstrBot 上下文保存与 LLM 压缩。",
+    "author": "Tsukumi233",
+    "repo": "https://github.com/Tsukumi233/astrbot_plugin_group_context_flow",
+    "tags": [
+      "context",
+      "群聊",
+      "上下文感知"
+    ],
+    "social_link": "https://github.com/Tsukumi233"
+  },
+  "astrbot_plugin_obsidian_sync": {
+    "name": "",
+    "display_name": "Obsidian 知识库同步",
+    "desc": "定时监听本地 Obsidian 目录，自动增量同步 Markdown 笔记到 AstrBot 知识库。支持每日定时和定时间隔两种模式，可在 WebUI 配置面板设置",
+    "author": "牧濑红莉栖",
+    "repo": "https://github.com/x1051445024/astrbot_plugin_obsidian_sync",
+    "tags": [
+      "obsidian",
+      "知识库",
+      "同步",
+      "FAISS"
+    ],
+    "social_link": "https://github.com/x1051445024"
+  },
+  "astrbot_plugin_wave_memory": {
+    "display_name": "Wave Memory",
+    "desc": "基于 VCP TagMemo 浪潮算法的高性能记忆插件。查询路径零 LLM 调用，本地计算 < 2ms，支持通用数据源导入。",
+    "author": "vivy1024",
+    "repo": "https://github.com/vivy1024/astrbot_plugin_wave_memory",
+    "social_link": "https://github.com/lioensky/VCPChat | https://github.com/lioensky/VCPToolBox"
+  },
+  "astrbot_plugin_maimai_updater": {
+    "display_name": "舞萌 B50 更新",
+    "desc": "让用户可以通过简单的 绑定水鱼 后，直接通过二维码获得的SGID快速更新B50",
+    "author": "XiaoLan9999",
+    "repo": "https://github.com/XiaoLan9999/astrbot_plugin_maimai_updater",
+    "tags": [
+      "舞萌",
+      "b50",
+      "maimai",
+      "maimaidx"
+    ],
+    "social_link": "XiaoLan9999.net"
+  },
+  "astrbot_plugin_indextts": {
+    "display_name": "IndexTTS",
+    "desc": "基于本地 IndexTTS 的文本转语音插件，支持音色克隆与 LLM 回复自动转语音。",
+    "author": "Moonlit Sapling",
+    "repo": "https://github.com/zhou-error/astrbot_plugin_indextts",
+    "tags": [
+      "IndexTTS"
+    ],
+    "social_link": "https://moonlitsapling.pages.dev/"
+  },
+  "astrbot_plugin_mail": {
+    "display_name": "邮件处理插件",
+    "desc": "监控处理发送 IMAP/SMTP 邮箱。",
+    "author": "neo",
+    "repo": "https://github.com/Neo-tang283/astrbot_plugin_mail"
   },
   "astrbot_plugin_paperrag": {
     "display_name": "PaperRAG",
@@ -15,6 +82,59 @@
       "llamaindex",
       "milvus"
     ]
+  },
+  "astrbot_plugin_mcsmanager_function": {
+    "display_name": "MCSManager Function",
+    "desc": "提供一系列 MCSManager 面板的 LLM 工具。",
+    "author": "venti1112",
+    "repo": "https://github.com/venti1112/astrbot_plugin_mcsmanager_function",
+    "tags": [
+      "MCSM",
+      "MCSManager",
+      "Tool",
+      "Tools"
+    ],
+    "social_link": "https://github.com/venti1112/"
+  },
+  "astrbot_plugin_sylanne": {
+    "display_name": "Sylanne",
+    "desc": "让不同人格的 Bot 在长期对话中形成可解释、可持续、可被记录的计算性情绪轨迹，并让 Bot 依此作出更贴近生活的反应。",
+    "author": "Aylovelle",
+    "repo": "https://github.com/Ayleovelle/astrbot_plugin_sylanne",
+    "social_link": "https://github.com/Ayleovelle"
+  },
+  "astrbot_plugin_hapi_discord_connector": {
+    "display_name": "HAPI Discord Connector",
+    "desc": "为 Discord 优化的 HAPI coding session 管理插件，支持 Discord 的按钮等组件。",
+    "author": "SGSxingchen",
+    "repo": "https://github.com/SGSxingchen/astrbot_plugin_hapi_discord_connector",
+    "tags": [
+      "hapi",
+      "discord",
+      "vibe-coding",
+      "claudecode",
+      "codex",
+      "geminicli",
+      "opencode"
+    ]
+  },
+  "astrbot_plugin_simple_long_memory": {
+    "display_name": "简单长期记忆",
+    "desc": "为 AstrBot 提供长期记忆能力，基于内置知识库实现用户偏好、历史交互和重要事实的记忆存储与召回",
+    "author": "piexian",
+    "repo": "https://github.com/piexian/astrbot_plugin_simple_long_memory",
+    "tags": [
+      "长期记忆",
+      "记忆"
+    ],
+    "social_link": "https://github.com/piexian"
+  },
+  "astrbot_plugin_fund": {
+    "display_name": "个人基金投资分析助手",
+    "desc": "基于 AstrBot 的个人基金查询、持仓分析、风险提示与报告生成插件。",
+    "author": "fxquarter",
+    "repo": "https://github.com/fxquarter/astrbot_plugin_fund#",
+    "social_link": "https://github.com/fxquarter"
   },
   "astrbot_plugin_life_assistant": {
     "display_name": "生活助手",
