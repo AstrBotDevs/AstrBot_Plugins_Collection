@@ -24,7 +24,6 @@
     "social_link": "https://github.com/Tsukumi233"
   },
   "astrbot_plugin_obsidian_sync": {
-    "name": "",
     "display_name": "Obsidian 知识库同步",
     "desc": "定时监听本地 Obsidian 目录，自动增量同步 Markdown 笔记到 AstrBot 知识库。支持每日定时和定时间隔两种模式，可在 WebUI 配置面板设置",
     "author": "牧濑红莉栖",
@@ -11674,12 +11673,6 @@
     "author": "LuffyLSX",
     "repo": "https://github.com/LuffyLSX/astrbot_plugin_error_filter",
     "category": "utilities"
-  },
-  "astrbot_plugin_niuniu": {
-    "desc": "牛牛插件，一个污污的小游戏插件，默认关闭，发送牛牛菜单获取帮助",
-    "author": "长安某",
-    "repo": "https://github.com/zgojin/astrbot_plugin_niuniu",
-    "category": "entertainment"
   },
   "astrbot_plugin_mohoyo_cos": {
     "desc": "获取米游社社区cos插件，支持LLM自识别",
