@@ -1237,7 +1237,7 @@
     ],
     "social_link": "https://github.com/moeneri",
     "stars": 0,
-    "version": "2.1.12",
+    "version": "2.1.14",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp",
@@ -1247,7 +1247,7 @@
       "discord",
       "kook"
     ],
-    "updated_at": "2026-05-13T01:37:16Z",
+    "updated_at": "2026-05-13T09:27:36Z",
     "logo": "https://raw.githubusercontent.com/moeneri/astrbot_plugin_apexrankwatch/main/logo.png"
   },
   "astrbot-plugin-ipcam": {
@@ -2295,10 +2295,10 @@
       "监控"
     ],
     "category": "productivity",
-    "stars": 11,
+    "stars": 12,
     "version": "v1.3.2",
     "astrbot_version": ">=4.10.4",
-    "updated_at": "2026-05-12T22:08:44Z",
+    "updated_at": "2026-05-13T08:06:08Z",
     "logo": "https://raw.githubusercontent.com/gangcaiyoule/astrbot_plugin_mail_notify/master/logo.png"
   },
   "astrbot-plugin-Xagent-searcher": {
@@ -3192,8 +3192,8 @@
     "category": "entertainment",
     "tags": [],
     "stars": 23,
-    "version": "v1.0.3",
-    "updated_at": "2026-05-12T05:55:58Z",
+    "version": "v1.0.4",
+    "updated_at": "2026-05-13T07:24:41Z",
     "logo": "https://raw.githubusercontent.com/storyAura/astrbot_plugin_biliVideo/main/logo.png"
   },
   "astrbot-plugin-opencode-client": {
@@ -4918,12 +4918,12 @@
     ],
     "social_link": "https://github.com/siciyuanweilai",
     "category": "entertainment",
-    "stars": 31,
+    "stars": 32,
     "version": "5.2.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-10T02:40:41Z",
+    "updated_at": "2026-05-13T07:34:37Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -5685,9 +5685,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 295,
+    "stars": 296,
     "version": "Next-2.1.0",
-    "updated_at": "2026-05-13T05:40:34Z",
+    "updated_at": "2026-05-13T07:09:45Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -5776,13 +5776,13 @@
     "social_link": "https://github.com/Clhikari",
     "category": "productivity",
     "stars": 30,
-    "version": "v1.7.0-preview",
+    "version": "v1.7.1-preview",
     "support_platforms": [
       "aiocqhttp",
       "telegram",
       "discord"
     ],
-    "updated_at": "2026-05-13T05:23:07Z",
+    "updated_at": "2026-05-13T07:50:21Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -8120,9 +8120,9 @@
     "repo": "https://github.com/libin99527/astrbot_plugin_werewolf",
     "category": "entertainment",
     "tags": [],
-    "stars": 9,
+    "stars": 10,
     "version": "v3.0.2",
-    "updated_at": "2026-01-05T04:52:59Z",
+    "updated_at": "2026-05-13T09:05:48Z",
     "logo": "https://raw.githubusercontent.com/libin99527/astrbot_plugin_werewolf/main/logo.png"
   },
   "astrbot_plugin_media_parser": {
@@ -12127,7 +12127,7 @@
     "category": "utilities",
     "stars": 3,
     "version": "v1.0",
-    "updated_at": "2026-03-12T05:38:30Z",
+    "updated_at": "2026-05-13T08:24:44Z",
     "logo": "https://raw.githubusercontent.com/satori5555/astrbot_plugin_bw_monitor/master/logo.png"
   },
   "astrbot_plugin_78animesearch": {
@@ -12450,9 +12450,9 @@
       "文字游戏"
     ],
     "category": "entertainment",
-    "stars": 16,
+    "stars": 17,
     "version": "v1.0.0",
-    "updated_at": "2026-03-09T16:07:15Z",
+    "updated_at": "2026-05-13T08:28:47Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_textadventure/master/logo.png"
   },
   "astrbot_plugin_llmAtTool": {
@@ -12531,9 +12531,9 @@
     ],
     "social_link": "https://github.com/oyxning",
     "category": "ai_tools",
-    "stars": 64,
+    "stars": 65,
     "version": "v3.5.1",
-    "updated_at": "2026-04-30T11:26:41Z",
+    "updated_at": "2026-05-13T08:13:08Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_antipromptinjector/master/logo.png"
   },
   "astrbot_plugin_alistfile": {
@@ -13862,9 +13862,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "entertainment",
-    "stars": 240,
+    "stars": 241,
     "version": "v3.0.3",
-    "updated_at": "2026-05-13T03:18:08Z",
+    "updated_at": "2026-05-13T07:52:37Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
