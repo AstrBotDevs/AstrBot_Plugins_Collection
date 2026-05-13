@@ -158,9 +158,9 @@
     "social_link": "https://github.com/Ayleovelle",
     "tags": [],
     "stars": 1,
-    "version": "2.3.17",
+    "version": "2.3.19",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-05-13T17:38:03Z",
+    "updated_at": "2026-05-13T18:08:59Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -326,9 +326,9 @@
       "提示词优化"
     ],
     "social_link": "",
-    "stars": 23,
+    "stars": 24,
     "version": "3.3.11",
-    "updated_at": "2026-05-13T05:57:23Z",
+    "updated_at": "2026-05-13T19:03:42Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -1049,13 +1049,13 @@
       "更多主动功能"
     ],
     "social_link": "www.wyccotccy.cn",
-    "stars": 25,
+    "stars": 26,
     "version": "3.5.1",
     "astrbot_version": ">=4.24.2",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-12T15:09:08Z",
+    "updated_at": "2026-05-13T20:00:11Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -3080,9 +3080,9 @@
     ],
     "social_link": "https://github.com/w2902171175",
     "category": "ai_tools",
-    "stars": 13,
+    "stars": 12,
     "version": "v1.7.1",
-    "updated_at": "2026-05-09T13:34:17Z"
+    "updated_at": "2026-05-13T18:04:00Z"
   },
   "astrbot-plugin-custome-segment-reply": {
     "display_name": "自定义断句回复插件",
@@ -3321,9 +3321,9 @@
     "repo": "https://github.com/w2902171175/astrbot_plugin_GPT-SoVITS",
     "category": "ai_tools",
     "tags": [],
-    "stars": 13,
+    "stars": 12,
     "version": "v1.7.1",
-    "updated_at": "2026-05-09T13:34:17Z"
+    "updated_at": "2026-05-13T18:04:00Z"
   },
   "astrbot-plugin-topic-starter": {
     "display_name": "topic_starter",
@@ -11558,9 +11558,9 @@
       "增强"
     ],
     "category": "ai_tools",
-    "stars": 20,
+    "stars": 19,
     "version": "3.0.2",
-    "updated_at": "2026-05-13T12:25:25Z",
+    "updated_at": "2026-05-13T19:37:45Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrabot_plugin_retry/main/logo.png"
   },
   "astrbot_plugin_Group-Verification_PRO": {
