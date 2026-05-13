@@ -1,14 +1,124 @@
 {
-  "astrbot_plugin_fund": {
-    "display_name": "个人基金投资分析助手",
-    "desc": "基于 AstrBot 的个人基金查询、持仓分析、风险提示与报告生成插件。",
-    "author": "fxquarter",
-    "repo": "https://github.com/fxquarter/astrbot_plugin_fund#",
-    "social_link": "https://github.com/fxquarter",
+  "astrbot_plugin_kimi_web_search": {
+    "display_name": "Kimi 联网搜索（WebSearch）",
+    "desc": "使用 Kimi coding plan 的 /coding/v1/search 和 /coding/v1/fetch 为 AstrBot Agent 提供互联网搜索和网页读取能力",
+    "author": "Tsukumi233",
+    "repo": "https://github.com/Tsukumi233/astrbot_plugin_kimi_web_search",
+    "tags": [
+      "kimi",
+      "search",
+      "fetch"
+    ],
+    "social_link": "https://github.com/Tsukumi233",
+    "stars": 1,
+    "version": "v0.5.0",
+    "astrbot_version": ">=4.9.2",
+    "updated_at": "2026-05-10T03:41:16Z"
+  },
+  "astrbot_plugin_group_context_flow": {
+    "display_name": "群聊上下文 Flow",
+    "desc": "用于替代内置的群聊上下文感知功能，将滑动窗口改为对前缀缓存和长上下文 agent 友好的消息记录。将群聊非触发消息持久化为符合 QQ 群消息真实顺序的连续 flow，并在 LLM 请求前按 conversation 增量注入，兼容 AstrBot 上下文保存与 LLM 压缩。",
+    "author": "Tsukumi233",
+    "repo": "https://github.com/Tsukumi233/astrbot_plugin_group_context_flow",
+    "tags": [
+      "context",
+      "群聊",
+      "上下文感知"
+    ],
+    "social_link": "https://github.com/Tsukumi233",
+    "stars": 3,
+    "version": "v0.2.2",
+    "astrbot_version": ">=4.9.2",
+    "support_platforms": [
+      "aiocqhttp",
+      "qq_official",
+      "telegram",
+      "discord",
+      "slack",
+      "kook",
+      "lark",
+      "satori",
+      "misskey",
+      "line"
+    ],
+    "updated_at": "2026-05-13T10:49:49Z"
+  },
+  "astrbot_plugin_obsidian_sync": {
+    "display_name": "Obsidian 知识库同步",
+    "desc": "定时监听本地 Obsidian 目录，自动增量同步 Markdown 笔记到 AstrBot 知识库。支持每日定时和定时间隔两种模式，可在 WebUI 配置面板设置",
+    "author": "牧濑红莉栖",
+    "repo": "https://github.com/x1051445024/astrbot_plugin_obsidian_sync",
+    "tags": [
+      "obsidian",
+      "知识库",
+      "同步",
+      "FAISS"
+    ],
+    "social_link": "https://github.com/x1051445024",
+    "stars": 0,
+    "version": "0.8.1",
+    "astrbot_version": ">=4.5,<5",
+    "updated_at": "2026-05-12T04:01:22Z"
+  },
+  "astrbot_plugin_wave_memory": {
+    "display_name": "Wave Memory",
+    "desc": "基于 VCP TagMemo 浪潮算法的高性能记忆插件。查询路径零 LLM 调用，本地计算 < 2ms，支持通用数据源导入。",
+    "author": "vivy1024",
+    "repo": "https://github.com/vivy1024/astrbot_plugin_wave_memory",
+    "social_link": "https://github.com/lioensky/VCPChat | https://github.com/lioensky/VCPToolBox",
     "tags": [],
-    "stars": 4,
-    "version": "1.0.0",
-    "updated_at": "2026-05-08T15:04:47Z"
+    "stars": 0,
+    "version": "v0.5.0",
+    "astrbot_version": ">=4.14.0",
+    "support_platforms": [
+      "aiocqhttp"
+    ],
+    "updated_at": "2026-05-12T21:58:27Z",
+    "logo": "https://raw.githubusercontent.com/vivy1024/astrbot_plugin_wave_memory/master/logo.png"
+  },
+  "astrbot_plugin_maimai_updater": {
+    "display_name": "舞萌 B50 更新",
+    "desc": "让用户可以通过简单的 绑定水鱼 后，直接通过二维码获得的SGID快速更新B50",
+    "author": "XiaoLan9999",
+    "repo": "https://github.com/XiaoLan9999/astrbot_plugin_maimai_updater",
+    "tags": [
+      "舞萌",
+      "b50",
+      "maimai",
+      "maimaidx"
+    ],
+    "social_link": "XiaoLan9999.net",
+    "stars": 2,
+    "version": "v0.3.3",
+    "astrbot_version": ">=4.5.2",
+    "updated_at": "2026-05-11T19:34:34Z"
+  },
+  "astrbot_plugin_indextts": {
+    "display_name": "IndexTTS",
+    "desc": "基于本地 IndexTTS 的文本转语音插件，支持音色克隆与 LLM 回复自动转语音。",
+    "author": "Moonlit Sapling",
+    "repo": "https://github.com/zhou-error/astrbot_plugin_indextts",
+    "tags": [
+      "IndexTTS"
+    ],
+    "social_link": "https://moonlitsapling.pages.dev/",
+    "stars": 1,
+    "version": "1.1.0",
+    "astrbot_version": ">=4.16,<5",
+    "updated_at": "2026-05-08T05:43:55Z",
+    "logo": "https://raw.githubusercontent.com/zhou-error/astrbot_plugin_indextts/main/logo.png"
+  },
+  "astrbot_plugin_mail": {
+    "display_name": "邮件处理插件",
+    "desc": "监控处理发送 IMAP/SMTP 邮箱。",
+    "author": "neo",
+    "repo": "https://github.com/Neo-tang283/astrbot_plugin_mail",
+    "tags": [],
+    "stars": 0,
+    "version": "v1.0.0",
+    "astrbot_version": ">=4.10.4",
+    "updated_at": "2026-05-07T03:13:30Z",
+    "logo": "https://raw.githubusercontent.com/Neo-tang283/astrbot_plugin_mail/main/logo.png"
   },
   "astrbot_plugin_paperrag": {
     "display_name": "PaperRAG",
@@ -22,6 +132,85 @@
     "stars": 6,
     "version": "2.1.0",
     "updated_at": "2026-05-12T22:30:50Z"
+  },
+  "astrbot_plugin_mcsmanager_function": {
+    "display_name": "MCSManager Function",
+    "desc": "提供一系列 MCSManager 面板的 LLM 工具。",
+    "author": "venti1112",
+    "repo": "https://github.com/venti1112/astrbot_plugin_mcsmanager_function",
+    "tags": [
+      "MCSM",
+      "MCSManager",
+      "Tool",
+      "Tools"
+    ],
+    "social_link": "https://github.com/venti1112/",
+    "stars": 1,
+    "version": "v1.0.0",
+    "updated_at": "2026-05-05T07:35:20Z",
+    "logo": "https://raw.githubusercontent.com/venti1112/astrbot_plugin_mcsmanager_function/master/logo.png"
+  },
+  "astrbot_plugin_sylanne": {
+    "display_name": "Sylanne",
+    "desc": "让不同人格的 Bot 在长期对话中形成可解释、可持续、可被记录的计算性情绪轨迹，并让 Bot 依此作出更贴近生活的反应。",
+    "author": "Aylovelle",
+    "repo": "https://github.com/Ayleovelle/astrbot_plugin_sylanne",
+    "social_link": "https://github.com/Ayleovelle",
+    "tags": [],
+    "stars": 1,
+    "version": "2.3.16",
+    "astrbot_version": ">=4.9.2,<5.0.0",
+    "updated_at": "2026-05-13T12:51:15Z",
+    "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
+  },
+  "astrbot_plugin_hapi_discord_connector": {
+    "display_name": "HAPI Discord Connector",
+    "desc": "为 Discord 优化的 HAPI coding session 管理插件，支持 Discord 的按钮等组件。",
+    "author": "SGSxingchen",
+    "repo": "https://github.com/SGSxingchen/astrbot_plugin_hapi_discord_connector",
+    "tags": [
+      "hapi",
+      "discord",
+      "vibe-coding",
+      "claudecode",
+      "codex",
+      "geminicli",
+      "opencode"
+    ],
+    "stars": 2,
+    "version": "v1.3.3",
+    "astrbot_version": ">=3.4.0",
+    "support_platforms": [
+      "discord"
+    ],
+    "updated_at": "2026-05-07T00:06:45Z",
+    "logo": "https://raw.githubusercontent.com/SGSxingchen/astrbot_plugin_hapi_discord_connector/main/logo.png"
+  },
+  "astrbot_plugin_simple_long_memory": {
+    "display_name": "简单长期记忆",
+    "desc": "为 AstrBot 提供长期记忆能力，基于内置知识库实现用户偏好、历史交互和重要事实的记忆存储与召回",
+    "author": "piexian",
+    "repo": "https://github.com/piexian/astrbot_plugin_simple_long_memory",
+    "tags": [
+      "长期记忆",
+      "记忆"
+    ],
+    "social_link": "https://github.com/piexian",
+    "stars": 5,
+    "version": "v0.3.1",
+    "astrbot_version": ">=4.17",
+    "updated_at": "2026-05-04T04:09:43Z"
+  },
+  "astrbot_plugin_fund": {
+    "display_name": "个人基金投资分析助手",
+    "desc": "基于 AstrBot 的个人基金查询、持仓分析、风险提示与报告生成插件。",
+    "author": "fxquarter",
+    "repo": "https://github.com/fxquarter/astrbot_plugin_fund#",
+    "social_link": "https://github.com/fxquarter",
+    "tags": [],
+    "stars": 4,
+    "version": "1.0.0",
+    "updated_at": "2026-05-08T15:04:47Z"
   },
   "astrbot_plugin_life_assistant": {
     "display_name": "生活助手",
@@ -91,7 +280,7 @@
       "qq_official",
       "lark"
     ],
-    "updated_at": "2026-05-13T04:37:55Z",
+    "updated_at": "2026-05-13T15:02:50Z",
     "logo": "https://raw.githubusercontent.com/CUBOT-robomaster/astrbot_plugin_robomaster_assistant/main/logo.png"
   },
   "astrbot-plugin-api-rate-limiter": {
@@ -5152,9 +5341,9 @@
     ],
     "social_link": "https://github.com/camera-2018",
     "category": "entertainment",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.0",
-    "updated_at": "2026-03-17T08:34:39Z"
+    "updated_at": "2026-05-13T14:54:07Z"
   },
   "astrbot_plugin_galgame_box": {
     "display_name": "Galgame 百宝盒",
@@ -5388,8 +5577,8 @@
     "category": "ai_tools",
     "tags": [],
     "stars": 9,
-    "version": "v1.5.5",
-    "updated_at": "2026-05-13T01:28:05Z"
+    "version": "v1.5.6",
+    "updated_at": "2026-05-13T14:57:24Z"
   },
   "astrbot_plugin_music_pro": {
     "display_name": "高级点歌",
@@ -5474,7 +5663,7 @@
     "category": "entertainment",
     "stars": 15,
     "version": "v2.2.1",
-    "updated_at": "2026-05-10T07:21:24Z",
+    "updated_at": "2026-05-13T15:42:56Z",
     "logo": "https://raw.githubusercontent.com/kennylimz/astrbot_plugin_mudae_qq/main/logo.png"
   },
   "BUGJI/astrbot_plugin_balance": {
@@ -8584,7 +8773,7 @@
     "stars": 94,
     "version": "v1.2.1-(hotfix-重推)",
     "astrbot_version": ">=4.11.0",
-    "updated_at": "2026-05-10T03:18:29Z",
+    "updated_at": "2026-05-13T12:41:01Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -10245,9 +10434,9 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "category": "entertainment",
     "tags": [],
-    "stars": 63,
+    "stars": 64,
     "version": "v2.8.6",
-    "updated_at": "2026-05-12T16:10:08Z"
+    "updated_at": "2026-05-13T12:19:07Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -10413,9 +10602,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 180,
+    "stars": 182,
     "version": "2.2.12",
-    "updated_at": "2026-05-12T10:46:35Z",
+    "updated_at": "2026-05-13T15:14:12Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -11019,9 +11208,9 @@
     ],
     "social_link": "https://github.com/SodaSizzle",
     "category": "entertainment",
-    "stars": 66,
+    "stars": 67,
     "version": "v2.1",
-    "updated_at": "2026-05-04T05:19:39Z",
+    "updated_at": "2026-05-13T12:24:27Z",
     "logo": "https://raw.githubusercontent.com/SodaSizzle/astrbot_plugin_meme_generator/master/logo.png"
   },
   "astrbot_plugin_baiduocr": {
@@ -11369,9 +11558,9 @@
       "增强"
     ],
     "category": "ai_tools",
-    "stars": 19,
+    "stars": 20,
     "version": "3.0.2",
-    "updated_at": "2026-03-19T14:35:17Z",
+    "updated_at": "2026-05-13T12:25:25Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrabot_plugin_retry/main/logo.png"
   },
   "astrbot_plugin_Group-Verification_PRO": {
@@ -11479,9 +11668,9 @@
       "初音未来 缤纷舞台"
     ],
     "category": "entertainment",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.1.3",
-    "updated_at": "2026-05-10T08:09:40Z"
+    "updated_at": "2026-05-13T14:47:22Z"
   },
   "astrbot_plugin_screenctrl": {
     "display_name": "截屏助手",
@@ -16188,16 +16377,6 @@
     "stars": 4,
     "version": "v1.0",
     "updated_at": "2025-12-26T07:16:16Z"
-  },
-  "astrbot_plugin_niuniu": {
-    "desc": "牛牛插件，一个污污的小游戏插件，默认关闭，发送牛牛菜单获取帮助",
-    "author": "长安某",
-    "repo": "https://github.com/zgojin/astrbot_plugin_niuniu",
-    "category": "entertainment",
-    "tags": [],
-    "stars": 15,
-    "version": "v4.7.2",
-    "updated_at": "2026-05-06T08:02:03Z"
   },
   "astrbot_plugin_mohoyo_cos": {
     "desc": "获取米游社社区cos插件，支持LLM自识别",
