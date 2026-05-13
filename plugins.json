@@ -10,7 +10,9 @@
       "语音合成",
       "speak"
     ],
-    "social_link": "https://github.com/leemwood"
+    "social_link": "https://github.com/leemwood",
+    "category": "ai_tools",
+    "version": "1.0.0"
   },
   "astrbot_plugin_kimi_web_search": {
     "display_name": "Kimi 联网搜索（WebSearch）",
