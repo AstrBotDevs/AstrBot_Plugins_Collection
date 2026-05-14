@@ -160,7 +160,7 @@
     "stars": 1,
     "version": "2.3.19",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-05-13T22:07:45Z",
+    "updated_at": "2026-05-13T22:39:38Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -10755,9 +10755,9 @@
     ],
     "social_link": "blog.isla.ltd",
     "category": "integrations",
-    "stars": 25,
+    "stars": 26,
     "version": "1.2.0",
-    "updated_at": "2026-05-03T11:29:38Z"
+    "updated_at": "2026-05-13T23:25:29Z"
   },
   "astrbot_plugin_AnimeMagnet": {
     "desc": "这是一个动漫磁链查询插件，可以获取动漫磁链",
