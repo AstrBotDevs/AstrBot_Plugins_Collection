@@ -88,10 +88,10 @@
       "maimaidx"
     ],
     "social_link": "XiaoLan9999.net",
-    "stars": 2,
+    "stars": 3,
     "version": "v0.3.3",
     "astrbot_version": ">=4.5.2",
-    "updated_at": "2026-05-11T19:34:34Z"
+    "updated_at": "2026-05-14T07:02:26Z"
   },
   "astrbot_plugin_indextts": {
     "display_name": "IndexTTS",
@@ -157,10 +157,10 @@
     "repo": "https://github.com/Ayleovelle/astrbot_plugin_sylanne",
     "social_link": "https://github.com/Ayleovelle",
     "tags": [],
-    "stars": 1,
-    "version": "2.4.2",
+    "stars": 2,
+    "version": "2.5.0",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-05-14T03:54:21Z",
+    "updated_at": "2026-05-14T07:34:39Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -245,9 +245,9 @@
       "Ai便利贴"
     ],
     "social_link": "https://github.com/zhangkai542322",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.6.1",
-    "updated_at": "2026-05-10T02:09:49Z"
+    "updated_at": "2026-05-14T06:41:51Z"
   },
   "astrbot_plugin_model_connectivity": {
     "display_name": "模型连通性状态图插件",
@@ -258,10 +258,10 @@
       "连通性检测",
       "模型检测"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.4.2",
     "astrbot_version": ">=4.9.2",
-    "updated_at": "2026-05-06T13:34:59Z",
+    "updated_at": "2026-05-14T07:24:19Z",
     "logo": "https://raw.githubusercontent.com/blueraina/astrbot_plugin_model_connectivity/main/logo.png"
   },
   "astrbot-plugin-robomaster-assistant": {
@@ -2102,9 +2102,9 @@
     "repo": "https://github.com/Yuuu0109/astrbot_plugin_exchangerate_ICBC",
     "category": "productivity",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.4.3",
-    "updated_at": "2026-04-05T02:53:23Z"
+    "updated_at": "2026-05-14T06:41:48Z"
   },
   "astrbot-plugin-qq-group-daily-analysis": {
     "display_name": "群分析总结插件",
@@ -2584,9 +2584,9 @@
       "数据查询"
     ],
     "category": "entertainment",
-    "stars": 49,
+    "stars": 50,
     "version": "2.8.0",
-    "updated_at": "2026-05-12T23:33:34Z",
+    "updated_at": "2026-05-14T07:21:13Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -3381,8 +3381,8 @@
     "category": "entertainment",
     "tags": [],
     "stars": 24,
-    "version": "v1.0.4b",
-    "updated_at": "2026-05-13T16:26:43Z",
+    "version": "v1.0.5a",
+    "updated_at": "2026-05-14T07:24:51Z",
     "logo": "https://raw.githubusercontent.com/storyAura/astrbot_plugin_biliVideo/main/logo.png"
   },
   "astrbot-plugin-opencode-client": {
@@ -4374,9 +4374,9 @@
     ],
     "social_link": "https://github.com/DITF16",
     "category": "entertainment",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.0.2",
-    "updated_at": "2026-03-06T06:17:47Z",
+    "updated_at": "2026-05-14T05:33:16Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_elves_world/master/logo.png"
   },
   "astrbot_plugin_simple_injections": {
@@ -4866,9 +4866,9 @@
     ],
     "social_link": "https://github.com/Azincc/",
     "category": "utilities",
-    "stars": 18,
+    "stars": 19,
     "version": "v1.3.0",
-    "updated_at": "2026-04-02T06:35:41Z"
+    "updated_at": "2026-05-14T07:13:05Z"
   },
   "astrbot_plugin_tomin": {
     "display_name": "Tomin - 少女乐队游戏",
@@ -7064,9 +7064,9 @@
     ],
     "social_link": "https://github.com/Xbodwf",
     "category": "entertainment",
-    "stars": 6,
+    "stars": 7,
     "version": "2.0.1",
-    "updated_at": "2026-05-05T15:23:29Z"
+    "updated_at": "2026-05-14T07:22:50Z"
   },
   "astrbot_plugin_QQbox": {
     "display_name": "QQbox",
@@ -7970,9 +7970,9 @@
       "AI"
     ],
     "category": "productivity",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.4",
-    "updated_at": "2026-03-18T02:01:15Z",
+    "updated_at": "2026-05-14T05:09:05Z",
     "logo": "https://raw.githubusercontent.com/ningyou8023/astrbot_plugin_nyscheduler/main/logo.png"
   },
   "astrbot_plugin_api_fetcher": {
@@ -9561,9 +9561,9 @@
     "social_link": "https://space.bilibili.com/1482890426?spm_id_from=333.1007.0.0",
     "category": "entertainment",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "v1.2.1",
-    "updated_at": "2026-05-01T16:26:44Z"
+    "updated_at": "2026-05-14T05:01:08Z"
   },
   "astrbot_plugin_hapemxg_Inspect": {
     "desc": "LLM 内容审查插件，集成了正则表达式与 AI 模型双重审查机制。当回复不合规时，能自动重试并智能引导模型修正，确保内容安全合规。",
@@ -10434,9 +10434,9 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "category": "entertainment",
     "tags": [],
-    "stars": 64,
+    "stars": 65,
     "version": "v2.8.6",
-    "updated_at": "2026-05-13T12:19:07Z"
+    "updated_at": "2026-05-14T06:41:52Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -11208,9 +11208,9 @@
     ],
     "social_link": "https://github.com/SodaSizzle",
     "category": "entertainment",
-    "stars": 67,
+    "stars": 68,
     "version": "v2.1",
-    "updated_at": "2026-05-13T12:24:27Z",
+    "updated_at": "2026-05-14T07:20:33Z",
     "logo": "https://raw.githubusercontent.com/SodaSizzle/astrbot_plugin_meme_generator/master/logo.png"
   },
   "astrbot_plugin_baiduocr": {
