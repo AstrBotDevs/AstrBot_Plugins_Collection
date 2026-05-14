@@ -158,9 +158,9 @@
     "social_link": "https://github.com/Ayleovelle",
     "tags": [],
     "stars": 3,
-    "version": "2.5.0",
+    "version": "2.5.1",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-05-14T20:48:16Z",
+    "updated_at": "2026-05-14T21:52:22Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -273,14 +273,14 @@
       "RoboMaster"
     ],
     "stars": 5,
-    "version": "0.8.0",
+    "version": "0.9.0",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp",
       "qq_official",
       "lark"
     ],
-    "updated_at": "2026-05-13T16:13:07Z",
+    "updated_at": "2026-05-14T21:27:16Z",
     "logo": "https://raw.githubusercontent.com/CUBOT-robomaster/astrbot_plugin_robomaster_assistant/main/logo.png"
   },
   "astrbot-plugin-api-rate-limiter": {
