@@ -160,7 +160,7 @@
     "stars": 3,
     "version": "2.5.0",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-05-14T14:25:15Z",
+    "updated_at": "2026-05-14T20:48:16Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -799,12 +799,12 @@
       "uapi"
     ],
     "social_link": "https://github.com/lingyun14beta",
-    "stars": 7,
+    "stars": 8,
     "version": "2.2.1",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-07T09:57:18Z",
+    "updated_at": "2026-05-14T20:15:14Z",
     "logo": "https://raw.githubusercontent.com/lingyun14beta/astrbot_plugin_uapipro_toolbox/main/logo.png"
   },
   "astrbot-plugin-mailer": {
@@ -2230,8 +2230,8 @@
     "social_link": "https://github.com/RhoninSeiei",
     "category": "productivity",
     "stars": 5,
-    "version": "v0.6.2",
-    "updated_at": "2026-05-14T16:18:19Z",
+    "version": "v0.6.3",
+    "updated_at": "2026-05-14T19:48:59Z",
     "logo": "https://raw.githubusercontent.com/RhoninSeiei/astrbot_plugin_rss_forwarder/master/logo.png"
   },
   "astrbot-plugin-lyria": {
@@ -9165,9 +9165,9 @@
     "social_link": "https://github.com/miaoxutao123",
     "category": "ai_tools",
     "tags": [],
-    "stars": 20,
+    "stars": 21,
     "version": "v1.2.0",
-    "updated_at": "2026-05-12T00:39:57Z"
+    "updated_at": "2026-05-14T19:49:25Z"
   },
   "astrbot_plugin_furry_zan": {
     "display_name": "爱点赞",
