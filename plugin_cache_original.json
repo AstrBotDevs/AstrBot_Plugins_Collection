@@ -26,7 +26,7 @@
       "上下文感知"
     ],
     "social_link": "https://github.com/Tsukumi233",
-    "stars": 5,
+    "stars": 6,
     "version": "v0.2.2",
     "astrbot_version": ">=4.9.2",
     "support_platforms": [
@@ -41,7 +41,7 @@
       "misskey",
       "line"
     ],
-    "updated_at": "2026-05-14T17:40:25Z"
+    "updated_at": "2026-05-14T19:19:19Z"
   },
   "astrbot_plugin_obsidian_sync": {
     "display_name": "Obsidian 知识库同步",
@@ -67,13 +67,13 @@
     "repo": "https://github.com/vivy1024/astrbot_plugin_wave_memory",
     "social_link": "https://github.com/lioensky/VCPChat | https://github.com/lioensky/VCPToolBox",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v0.5.0",
     "astrbot_version": ">=4.14.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-14T17:40:10Z",
+    "updated_at": "2026-05-14T18:23:27Z",
     "logo": "https://raw.githubusercontent.com/vivy1024/astrbot_plugin_wave_memory/master/logo.png"
   },
   "astrbot_plugin_maimai_updater": {
@@ -4019,9 +4019,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 139,
+    "stars": 140,
     "version": "v2.1.2",
-    "updated_at": "2026-05-13T10:50:57Z",
+    "updated_at": "2026-05-14T19:31:47Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -15581,9 +15581,9 @@
     ],
     "social_link": "https://github.com/miaoxutao123/",
     "category": "utilities",
-    "stars": 75,
+    "stars": 76,
     "version": "0.3.0",
-    "updated_at": "2026-05-05T11:40:38Z"
+    "updated_at": "2026-05-14T19:24:04Z"
   },
   "astrbot_plugin_sjzb": {
     "desc": "随机生成《绝地潜兵2》游戏中一组 4 个战备配置",
@@ -16206,7 +16206,7 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "category": "integrations",
     "tags": [],
-    "stars": 63,
+    "stars": 64,
     "version": "v1.6.1",
     "astrbot_version": ">=4.5.2",
     "support_platforms": [
@@ -16214,7 +16214,7 @@
       "telegram",
       "weixin_oc"
     ],
-    "updated_at": "2026-05-13T09:48:13Z",
+    "updated_at": "2026-05-14T19:24:09Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
