@@ -158,9 +158,9 @@
     "social_link": "https://github.com/Ayleovelle",
     "tags": [],
     "stars": 1,
-    "version": "2.3.19",
+    "version": "2.4.2",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-05-13T22:39:38Z",
+    "updated_at": "2026-05-14T03:54:21Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -5066,9 +5066,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
-    "stars": 38,
+    "stars": 39,
     "version": "v2.2.5",
-    "updated_at": "2026-05-12T18:54:24Z",
+    "updated_at": "2026-05-14T03:28:06Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_worldbook/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -11184,9 +11184,9 @@
     "social_link": "https://github.com/muyouzhi6",
     "category": "entertainment",
     "tags": [],
-    "stars": 10,
+    "stars": 11,
     "version": "2.3.1",
-    "updated_at": "2026-04-19T15:56:12Z",
+    "updated_at": "2026-05-14T03:28:24Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_immersive_control/main/logo.png"
   },
   "astrbot_plugin_provider_ark_ResponsesAPI": {
@@ -11442,9 +11442,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "integrations",
-    "stars": 125,
+    "stars": 126,
     "version": "v3.0.4",
-    "updated_at": "2026-05-12T14:39:44Z",
+    "updated_at": "2026-05-14T04:40:49Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -14823,12 +14823,12 @@
       "QQ群管"
     ],
     "category": "utilities",
-    "stars": 139,
+    "stars": 140,
     "version": "v3.2.7",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-12T12:22:31Z",
+    "updated_at": "2026-05-14T03:48:48Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -15889,9 +15889,9 @@
       "搬史"
     ],
     "category": "utilities",
-    "stars": 563,
+    "stars": 564,
     "version": "v0.916",
-    "updated_at": "2026-05-13T16:14:05Z"
+    "updated_at": "2026-05-14T01:43:50Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
@@ -15933,7 +15933,6 @@
       "webui",
       "图床"
     ],
-    "pinned": true,
     "category": "entertainment",
     "stars": 275,
     "version": "v3.20",
