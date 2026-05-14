@@ -5971,7 +5971,7 @@
       "telegram",
       "discord"
     ],
-    "updated_at": "2026-05-14T10:04:18Z",
+    "updated_at": "2026-05-14T10:43:11Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -6256,9 +6256,9 @@
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
     "category": "ai_tools",
-    "stars": 59,
+    "stars": 60,
     "version": "v1.1",
-    "updated_at": "2026-05-07T10:24:08Z"
+    "updated_at": "2026-05-14T11:17:31Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -8709,9 +8709,9 @@
     ],
     "social_link": "https://github.com/vmoranv",
     "category": "entertainment",
-    "stars": 4,
+    "stars": 5,
     "version": "v2.0.0",
-    "updated_at": "2025-12-20T06:38:49Z",
+    "updated_at": "2026-05-14T10:31:29Z",
     "logo": "https://raw.githubusercontent.com/vmoranv/astrbot_plugin_cryptocurrency/master/logo.png"
   },
   "astrbot_plugin_qqgal": {
@@ -10434,9 +10434,9 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "category": "entertainment",
     "tags": [],
-    "stars": 65,
+    "stars": 66,
     "version": "v2.8.6",
-    "updated_at": "2026-05-14T06:41:52Z"
+    "updated_at": "2026-05-14T10:55:08Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -11442,9 +11442,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "integrations",
-    "stars": 126,
+    "stars": 127,
     "version": "v3.0.4",
-    "updated_at": "2026-05-14T04:40:49Z",
+    "updated_at": "2026-05-14T11:57:34Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -14730,9 +14730,9 @@
       "DeepSeek"
     ],
     "category": "ai_tools",
-    "stars": 13,
+    "stars": 14,
     "version": "v0.1",
-    "updated_at": "2026-04-16T11:55:18Z"
+    "updated_at": "2026-05-14T10:21:44Z"
   },
   "astrbot_plugin_doro_ending": {
     "desc": "[QQ]doro互动故事",
