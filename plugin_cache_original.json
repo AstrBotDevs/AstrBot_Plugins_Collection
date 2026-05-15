@@ -26,7 +26,7 @@
       "上下文感知"
     ],
     "social_link": "https://github.com/Tsukumi233",
-    "stars": 7,
+    "stars": 8,
     "version": "v0.2.2",
     "astrbot_version": ">=4.9.2",
     "support_platforms": [
@@ -41,7 +41,7 @@
       "misskey",
       "line"
     ],
-    "updated_at": "2026-05-15T00:30:27Z"
+    "updated_at": "2026-05-15T18:04:46Z"
   },
   "astrbot_plugin_obsidian_sync": {
     "display_name": "Obsidian 知识库同步",
@@ -469,9 +469,9 @@
     "author": "middcom,dream,deepseek",
     "repo": "https://github.com/middcom/astrbot_plugin_affection",
     "tags": [],
-    "stars": 13,
+    "stars": 14,
     "version": "v1.2",
-    "updated_at": "2026-05-11T12:41:52Z"
+    "updated_at": "2026-05-15T19:06:26Z"
   },
   "astrbot_plugin_media_wiki": {
     "display_name": "MediaWiki 通用查询",
@@ -1914,9 +1914,9 @@
       "vibe coding"
     ],
     "category": "entertainment",
-    "stars": 2,
+    "stars": 3,
     "version": "v0.0.4",
-    "updated_at": "2026-04-08T07:52:49Z",
+    "updated_at": "2026-05-15T19:15:52Z",
     "logo": "https://raw.githubusercontent.com/MomijiOXO/astrbot_plugin_HD2_daily_report/master/logo.png"
   },
   "astrbot-plugin-splatoon3": {
@@ -2230,8 +2230,8 @@
     "social_link": "https://github.com/RhoninSeiei",
     "category": "productivity",
     "stars": 5,
-    "version": "v0.6.3",
-    "updated_at": "2026-05-14T19:48:59Z",
+    "version": "v0.6.4",
+    "updated_at": "2026-05-15T18:40:40Z",
     "logo": "https://raw.githubusercontent.com/RhoninSeiei/astrbot_plugin_rss_forwarder/master/logo.png"
   },
   "astrbot-plugin-lyria": {
@@ -4019,9 +4019,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 141,
+    "stars": 142,
     "version": "v2.1.2",
-    "updated_at": "2026-05-15T13:11:56Z",
+    "updated_at": "2026-05-15T18:30:33Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -9125,7 +9125,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 250,
+    "stars": 251,
     "version": "v1.2.3",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -9137,7 +9137,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-05-15T06:52:53Z",
+    "updated_at": "2026-05-15T18:05:46Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
