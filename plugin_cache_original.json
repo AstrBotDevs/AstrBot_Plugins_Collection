@@ -160,7 +160,7 @@
     "stars": 4,
     "version": "2.5.4",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-05-15T14:48:02Z",
+    "updated_at": "2026-05-15T20:36:29Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -2123,7 +2123,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 344,
+    "stars": 345,
     "version": "v4.10.5",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -2132,7 +2132,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-05-15T16:13:24Z",
+    "updated_at": "2026-05-15T19:43:41Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -5210,7 +5210,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 344,
+    "stars": 345,
     "version": "v4.10.5",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -5219,7 +5219,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-05-15T16:13:24Z",
+    "updated_at": "2026-05-15T19:43:41Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -15865,9 +15865,9 @@
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
     "category": "ai_tools",
-    "stars": 123,
+    "stars": 124,
     "version": "v2.1.11",
-    "updated_at": "2026-05-11T15:22:11Z"
+    "updated_at": "2026-05-15T19:57:06Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
