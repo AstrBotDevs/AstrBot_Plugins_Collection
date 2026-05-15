@@ -158,9 +158,9 @@
     "social_link": "https://github.com/Ayleovelle",
     "tags": [],
     "stars": 3,
-    "version": "2.5.3",
+    "version": "2.5.4",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-05-15T04:42:25Z",
+    "updated_at": "2026-05-15T11:03:25Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -1296,12 +1296,12 @@
       "vrchat"
     ],
     "stars": 12,
-    "version": "0.2.3",
+    "version": "0.2.4",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-11T14:35:07Z"
+    "updated_at": "2026-05-15T12:47:59Z"
   },
   "astrbot-plugin-lyubishchev": {
     "display_name": "柳比歇夫时间管理插件",
@@ -1987,8 +1987,8 @@
     ],
     "category": "integrations",
     "stars": 1,
-    "version": "v1.3.7",
-    "updated_at": "2026-05-15T07:42:09Z"
+    "version": "v1.4.0",
+    "updated_at": "2026-05-15T12:40:12Z"
   },
   "astrbot-plugin-tarkovboss": {
     "display_name": "塔科夫Boss刷率",
@@ -7140,9 +7140,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 114,
+    "stars": 115,
     "version": "v1.5.1",
-    "updated_at": "2026-05-12T13:59:43Z",
+    "updated_at": "2026-05-15T10:43:27Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -7767,7 +7767,7 @@
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-05-15T05:30:43Z",
+    "updated_at": "2026-05-15T10:26:45Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/main/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -9109,9 +9109,9 @@
     "repo": "https://github.com/RC-CHN/astrbot_plugin_ragflow_adapter",
     "category": "ai_tools",
     "tags": [],
-    "stars": 10,
+    "stars": 11,
     "version": "v0.3",
-    "updated_at": "2026-03-06T21:56:48Z"
+    "updated_at": "2026-05-15T11:29:15Z"
   },
   "astrbot_plugin_proactive_chat": {
     "display_name": "主动消息 (Proactive Chat)",
@@ -14852,9 +14852,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
     "category": "ai_tools",
-    "stars": 50,
+    "stars": 51,
     "version": "v2.0.0",
-    "updated_at": "2026-05-08T06:09:02Z",
+    "updated_at": "2026-05-15T11:20:13Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_browser/main/logo.png"
   },
   "astrbot_plugin_qqadmin": {
