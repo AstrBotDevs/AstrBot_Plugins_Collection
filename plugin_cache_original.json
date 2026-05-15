@@ -130,8 +130,8 @@
       "milvus"
     ],
     "stars": 6,
-    "version": "2.1.0",
-    "updated_at": "2026-05-12T22:30:50Z"
+    "version": "2.1.1",
+    "updated_at": "2026-05-15T13:49:49Z"
   },
   "astrbot_plugin_mcsmanager_function": {
     "display_name": "MCSManager Function",
@@ -157,10 +157,10 @@
     "repo": "https://github.com/Ayleovelle/astrbot_plugin_sylanne",
     "social_link": "https://github.com/Ayleovelle",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "2.5.4",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-05-15T11:03:25Z",
+    "updated_at": "2026-05-15T14:48:02Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -2827,9 +2827,9 @@
       "全局记忆"
     ],
     "category": "ai_tools",
-    "stars": 15,
+    "stars": 16,
     "version": "v1.2.1",
-    "updated_at": "2026-05-01T06:25:13Z"
+    "updated_at": "2026-05-15T13:02:15Z"
   },
   "astrbot-plugin-memory": {
     "display_name": "astrbot_plugin_memory",
@@ -4019,9 +4019,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 140,
+    "stars": 141,
     "version": "v2.1.2",
-    "updated_at": "2026-05-14T19:31:47Z",
+    "updated_at": "2026-05-15T13:11:56Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -4652,7 +4652,7 @@
     "category": "integrations",
     "stars": 22,
     "version": "0.7.0",
-    "updated_at": "2026-05-11T16:57:32Z",
+    "updated_at": "2026-05-15T14:18:35Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -12205,7 +12205,7 @@
     "category": "ai_tools",
     "stars": 22,
     "version": "1.4.6",
-    "updated_at": "2026-04-11T09:12:44Z"
+    "updated_at": "2026-05-15T13:53:37Z"
   },
   "astrbot_plugin_choulaopo": {
     "name": "抽老婆",
@@ -14290,7 +14290,7 @@
     "category": "entertainment",
     "stars": 32,
     "version": "1.7.3",
-    "updated_at": "2026-05-15T09:07:46Z",
+    "updated_at": "2026-05-15T13:14:03Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
