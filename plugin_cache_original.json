@@ -2123,7 +2123,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 343,
+    "stars": 344,
     "version": "v4.10.5",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -2132,7 +2132,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-05-15T04:52:47Z",
+    "updated_at": "2026-05-15T16:13:24Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -3368,9 +3368,9 @@
     ],
     "social_link": "https://axi404.top",
     "category": "ai_tools",
-    "stars": 23,
+    "stars": 24,
     "version": "0.2.4",
-    "updated_at": "2026-05-03T11:37:39Z"
+    "updated_at": "2026-05-15T16:30:58Z"
   },
   "astrbot-plugin-biliVideo": {
     "display_name": "哔哩哔哩视频总结",
@@ -4927,9 +4927,9 @@
       "骰娘"
     ],
     "category": "entertainment",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.2.0",
-    "updated_at": "2026-05-06T17:17:31Z"
+    "updated_at": "2026-05-15T15:55:44Z"
   },
   "astrbot_plugin_bestdori_tools": {
     "display_name": "BanG！Dream！Bestdori工具箱",
@@ -5210,7 +5210,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 343,
+    "stars": 344,
     "version": "v4.10.5",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -5219,7 +5219,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-05-15T04:52:47Z",
+    "updated_at": "2026-05-15T16:13:24Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -15978,9 +15978,9 @@
       "图床"
     ],
     "category": "entertainment",
-    "stars": 276,
+    "stars": 277,
     "version": "v3.20",
-    "updated_at": "2026-05-14T15:36:39Z"
+    "updated_at": "2026-05-15T16:40:00Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
