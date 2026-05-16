@@ -158,9 +158,9 @@
     "social_link": "https://github.com/Ayleovelle",
     "tags": [],
     "stars": 4,
-    "version": "2.5.5",
+    "version": "2.5.6",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-05-16T00:01:16Z",
+    "updated_at": "2026-05-16T10:12:00Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -2751,9 +2751,9 @@
     "social_link": "https://github.com/Renyus",
     "category": "ai_tools",
     "tags": [],
-    "stars": 60,
+    "stars": 61,
     "version": "Ver 5.4.0",
-    "updated_at": "2026-05-13T17:04:27Z"
+    "updated_at": "2026-05-16T09:10:45Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -3781,10 +3781,10 @@
     "social_link": "www.chuyel.cn",
     "category": "entertainment",
     "tags": [],
-    "stars": 18,
+    "stars": 19,
     "version": "v1.1.0",
     "astrbot_version": ">=4.17.6",
-    "updated_at": "2026-05-03T06:28:46Z",
+    "updated_at": "2026-05-16T09:52:38Z",
     "logo": "https://raw.githubusercontent.com/chuyegzs/astrbot_plugin_meting/main/logo.png"
   },
   "astrbot-plugin-comfyui": {
@@ -9125,7 +9125,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 251,
+    "stars": 252,
     "version": "v1.2.3",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -9137,7 +9137,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-05-15T18:05:46Z",
+    "updated_at": "2026-05-16T09:32:06Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -11486,9 +11486,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "integrations",
-    "stars": 127,
+    "stars": 128,
     "version": "v3.0.4",
-    "updated_at": "2026-05-14T11:57:34Z",
+    "updated_at": "2026-05-16T08:53:24Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -15978,9 +15978,9 @@
       "图床"
     ],
     "category": "entertainment",
-    "stars": 277,
+    "stars": 278,
     "version": "v3.20",
-    "updated_at": "2026-05-15T16:40:00Z"
+    "updated_at": "2026-05-16T09:32:12Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
