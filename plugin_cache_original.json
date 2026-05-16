@@ -2123,7 +2123,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 347,
+    "stars": 348,
     "version": "v4.10.5",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -2132,7 +2132,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-05-16T10:32:44Z",
+    "updated_at": "2026-05-16T18:47:18Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -5210,7 +5210,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 347,
+    "stars": 348,
     "version": "v4.10.5",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -5219,7 +5219,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-05-16T10:32:44Z",
+    "updated_at": "2026-05-16T18:47:18Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -5813,9 +5813,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.2.1",
-    "updated_at": "2026-05-06T15:05:34Z",
+    "updated_at": "2026-05-16T18:52:15Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_minesweeper/main/logo.png"
   },
   "astrbot_plugin_debounce": {
@@ -5874,9 +5874,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 297,
+    "stars": 298,
     "version": "Next-2.1.0",
-    "updated_at": "2026-05-16T14:45:38Z",
+    "updated_at": "2026-05-16T18:51:50Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -12018,12 +12018,12 @@
     ],
     "category": "integrations",
     "stars": 13,
-    "version": "v2.1.6",
+    "version": "v2.1.7",
     "astrbot_version": ">=3.4",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-03-29T05:49:17Z",
+    "updated_at": "2026-05-16T18:54:56Z",
     "logo": "https://raw.githubusercontent.com/SHOOTING-STAR-C/astrbot_plugin_battlefield_tool/master/logo.png"
   },
   "astrbot_plugin_SteamSaleTracker": {
@@ -13208,9 +13208,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 157,
+    "stars": 158,
     "version": "v2.1.0",
-    "updated_at": "2026-05-16T08:40:02Z",
+    "updated_at": "2026-05-16T18:59:58Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
