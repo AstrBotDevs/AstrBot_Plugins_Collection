@@ -160,7 +160,7 @@
     "stars": 5,
     "version": "2.5.6",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-05-16T13:40:07Z",
+    "updated_at": "2026-05-16T20:08:15Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -5747,9 +5747,9 @@
     "social_link": "https://www.misakanet.site",
     "category": "ai_tools",
     "stars": 10,
-    "version": "v1.0.3",
+    "version": "v1.0.4",
     "astrbot_version": ">=4.10.4",
-    "updated_at": "2026-05-06T09:00:02Z",
+    "updated_at": "2026-05-16T19:14:43Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_image_generation/master/logo.png"
   },
   "astrbot_plugin_group_geetest_verfy": {
