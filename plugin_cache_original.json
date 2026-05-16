@@ -158,9 +158,9 @@
     "social_link": "https://github.com/Ayleovelle",
     "tags": [],
     "stars": 4,
-    "version": "2.5.4",
+    "version": "2.5.5",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-05-15T20:36:29Z",
+    "updated_at": "2026-05-16T00:01:16Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -3711,7 +3711,7 @@
     "category": "entertainment",
     "stars": 9,
     "version": "v1.9.9",
-    "updated_at": "2026-05-12T02:00:38Z"
+    "updated_at": "2026-05-16T01:20:51Z"
   },
   "astrbot-plugin-Gemini-STT": {
     "display_name": "Gemini_STT",
@@ -15451,12 +15451,12 @@
       "实用工具"
     ],
     "category": "utilities",
-    "stars": 43,
+    "stars": 44,
     "version": "v3.0.3",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-04-28T10:47:41Z",
+    "updated_at": "2026-05-16T03:25:32Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
