@@ -416,12 +416,12 @@
       "X",
       "推特"
     ],
-    "stars": 15,
+    "stars": 16,
     "version": "v1.4.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-14T12:44:06Z",
+    "updated_at": "2026-05-16T14:58:09Z",
     "logo": "https://raw.githubusercontent.com/Ars1027/astrbot_plugin_twitter/master/logo.png"
   },
   "astrbot_plugin_course": {
@@ -785,9 +785,9 @@
     ],
     "social_link": "https://github.com/starlight02",
     "stars": 3,
-    "version": "v0.6.3",
+    "version": "v0.7.0",
     "astrbot_version": ">=4.0",
-    "updated_at": "2026-05-16T14:42:22Z"
+    "updated_at": "2026-05-16T15:26:25Z"
   },
   "astrbot-plugin-uapipro-toolbox": {
     "display_name": "UApiPro 工具箱",
@@ -2144,13 +2144,13 @@
       "群欢迎"
     ],
     "category": "utilities",
-    "stars": 2,
+    "stars": 3,
     "version": "2.1.0",
     "astrbot_version": ">=v4.12.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-04-19T09:39:36Z",
+    "updated_at": "2026-05-16T15:47:15Z",
     "logo": "https://raw.githubusercontent.com/lingyun14beta/astrbot_plugin_group_welcome/main/logo.png"
   },
   "astrbot-plugin-atrelay": {
