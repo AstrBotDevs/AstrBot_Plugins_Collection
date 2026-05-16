@@ -160,7 +160,7 @@
     "stars": 4,
     "version": "2.5.6",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-05-16T10:12:00Z",
+    "updated_at": "2026-05-16T12:17:58Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -2948,9 +2948,9 @@
     "social_link": "https://github.com/aliveriver",
     "category": "integrations",
     "stars": 6,
-    "version": "v1.0.1",
+    "version": "v1.1.0",
     "astrbot_version": ">=4.9.2",
-    "updated_at": "2026-05-13T17:02:06Z",
+    "updated_at": "2026-05-16T11:57:38Z",
     "logo": "https://raw.githubusercontent.com/aliveriver/astrbot_plugin_listen_github/master/logo.png"
   },
   "astrbot-plugin-bazaar": {
@@ -5874,9 +5874,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 296,
+    "stars": 297,
     "version": "Next-2.1.0",
-    "updated_at": "2026-05-15T03:19:31Z",
+    "updated_at": "2026-05-16T12:04:27Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -8799,8 +8799,8 @@
     "category": "utilities",
     "tags": [],
     "stars": 2,
-    "version": "v1.0.7",
-    "updated_at": "2026-03-16T08:06:19Z"
+    "version": "v1.2.0",
+    "updated_at": "2026-05-16T12:44:57Z"
   },
   "astrbot_plugin_group_chat_plus": {
     "display_name": "chat_plus",
@@ -14095,9 +14095,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "entertainment",
-    "stars": 241,
+    "stars": 242,
     "version": "v3.0.3",
-    "updated_at": "2026-05-13T07:52:37Z",
+    "updated_at": "2026-05-16T13:22:11Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -14867,12 +14867,12 @@
       "QQ群管"
     ],
     "category": "utilities",
-    "stars": 141,
+    "stars": 142,
     "version": "v3.2.7",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-16T06:51:23Z",
+    "updated_at": "2026-05-16T13:18:24Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -16627,9 +16627,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "ai_tools",
     "tags": [],
-    "stars": 240,
+    "stars": 241,
     "version": "v2.1.5",
-    "updated_at": "2026-05-15T07:48:30Z"
+    "updated_at": "2026-05-16T12:02:43Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
