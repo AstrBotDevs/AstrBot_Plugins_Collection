@@ -2025,10 +2025,10 @@
     "tags": [],
     "social_link": "",
     "category": "ai_tools",
-    "stars": 35,
+    "stars": 36,
     "version": "1.1.1",
     "astrbot_version": ">=4.20.0",
-    "updated_at": "2026-05-15T07:35:05Z",
+    "updated_at": "2026-05-16T10:55:12Z",
     "logo": "https://raw.githubusercontent.com/Kalospacer/astrbot_plugin_maid_agent/master/logo.png"
   },
   "astrbot-plugin-stoprushingiamtyping": {
@@ -2123,7 +2123,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 346,
+    "stars": 347,
     "version": "v4.10.5",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -2132,7 +2132,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-05-16T06:30:06Z",
+    "updated_at": "2026-05-16T10:32:44Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -2395,9 +2395,9 @@
     "social_link": "https://www.xiaohongshu.com/user/profile/6986d59f0000000024012e78",
     "category": "ai_tools",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "0.3.0",
-    "updated_at": "2026-05-05T06:52:50Z"
+    "updated_at": "2026-05-16T11:04:42Z"
   },
   "astrbot-plugin-steam-friend-monitor": {
     "display_name": "Steam 玩家状态监控",
@@ -2709,8 +2709,8 @@
     "social_link": "",
     "category": "utilities",
     "stars": 10,
-    "version": "v2.2.1",
-    "updated_at": "2026-05-10T00:22:29Z",
+    "version": "v2.2.2",
+    "updated_at": "2026-05-16T11:19:47Z",
     "logo": "https://raw.githubusercontent.com/Waterwzy/astrbot_plugin_firefly_filter/master/logo.png"
   },
   "astrbot-plugin-cet6": {
@@ -4019,9 +4019,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 143,
+    "stars": 144,
     "version": "v2.1.2",
-    "updated_at": "2026-05-16T03:39:55Z",
+    "updated_at": "2026-05-16T10:49:51Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -5210,7 +5210,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 346,
+    "stars": 347,
     "version": "v4.10.5",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -5219,7 +5219,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-05-16T06:30:06Z",
+    "updated_at": "2026-05-16T10:32:44Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
