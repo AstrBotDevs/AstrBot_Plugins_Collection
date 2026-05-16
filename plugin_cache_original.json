@@ -2829,7 +2829,7 @@
     "category": "ai_tools",
     "stars": 16,
     "version": "v1.2.1",
-    "updated_at": "2026-05-15T13:02:15Z"
+    "updated_at": "2026-05-16T22:39:22Z"
   },
   "astrbot-plugin-memory": {
     "display_name": "astrbot_plugin_memory",
@@ -5438,8 +5438,8 @@
     "social_link": "https://github.com/KonmaKanSinPack",
     "category": "ai_tools",
     "stars": 14,
-    "version": "v1.3.1",
-    "updated_at": "2026-04-29T16:54:15Z"
+    "version": "v1.3.2",
+    "updated_at": "2026-05-16T22:31:14Z"
   },
   "astrbot_plugin_engram": {
     "display_name": "仿生双轨记忆系统",
