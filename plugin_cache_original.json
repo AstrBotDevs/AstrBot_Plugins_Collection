@@ -158,9 +158,9 @@
     "social_link": "https://github.com/Ayleovelle",
     "tags": [],
     "stars": 5,
-    "version": "2.5.6",
+    "version": "2.6.1",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-05-16T20:08:15Z",
+    "updated_at": "2026-05-17T05:22:37Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -326,9 +326,9 @@
       "提示词优化"
     ],
     "social_link": "",
-    "stars": 25,
+    "stars": 26,
     "version": "3.3.11",
-    "updated_at": "2026-05-15T09:41:16Z",
+    "updated_at": "2026-05-17T06:37:41Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -3304,7 +3304,7 @@
       "人物画像"
     ],
     "category": "ai_tools",
-    "stars": 43,
+    "stars": 44,
     "version": "v0.3.7",
     "astrbot_version": ">=4.16",
     "support_platforms": [
@@ -3312,7 +3312,7 @@
       "telegram",
       "discord"
     ],
-    "updated_at": "2026-05-09T00:17:06Z"
+    "updated_at": "2026-05-17T04:05:51Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -4019,9 +4019,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 145,
+    "stars": 146,
     "version": "v2.1.2",
-    "updated_at": "2026-05-16T17:30:23Z",
+    "updated_at": "2026-05-17T04:35:17Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -5874,9 +5874,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 298,
+    "stars": 299,
     "version": "Next-2.1.0",
-    "updated_at": "2026-05-16T18:51:50Z",
+    "updated_at": "2026-05-17T06:06:18Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -6669,9 +6669,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "utilities",
-    "stars": 72,
+    "stars": 73,
     "version": "1.1.5",
-    "updated_at": "2026-05-11T18:08:02Z",
+    "updated_at": "2026-05-17T04:42:41Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
@@ -7541,9 +7541,9 @@
       "comfyui"
     ],
     "category": "ai_tools",
-    "stars": 9,
+    "stars": 10,
     "version": "2.3",
-    "updated_at": "2026-05-04T14:42:17Z"
+    "updated_at": "2026-05-17T04:00:36Z"
   },
   "astrbot_plugin_customized_active_reply_prompt": {
     "display_name": "自定义主动回复提示词",
@@ -8814,10 +8814,10 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "ai_tools",
-    "stars": 97,
-    "version": "v1.2.1-(hotfix-重推)",
+    "stars": 96,
+    "version": "v1.2.2",
     "astrbot_version": ">=4.11.0",
-    "updated_at": "2026-05-16T08:26:24Z",
+    "updated_at": "2026-05-17T06:28:22Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -11252,9 +11252,9 @@
     ],
     "social_link": "https://github.com/SodaSizzle",
     "category": "entertainment",
-    "stars": 68,
+    "stars": 69,
     "version": "v2.1",
-    "updated_at": "2026-05-14T07:20:33Z",
+    "updated_at": "2026-05-17T06:26:56Z",
     "logo": "https://raw.githubusercontent.com/SodaSizzle/astrbot_plugin_meme_generator/master/logo.png"
   },
   "astrbot_plugin_baiduocr": {
@@ -12189,7 +12189,7 @@
     "tags": [],
     "stars": 3,
     "version": "v2.0",
-    "updated_at": "2026-03-08T14:26:09Z"
+    "updated_at": "2026-05-17T05:39:59Z"
   },
   "astrbot_plugin_reply_directly": {
     "name": "astrbot_plugin_reply_directly",
