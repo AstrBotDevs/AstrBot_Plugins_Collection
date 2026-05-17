@@ -160,7 +160,7 @@
     "stars": 7,
     "version": "3.0.0",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-05-17T19:06:07Z",
+    "updated_at": "2026-05-17T20:11:02Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -5678,7 +5678,7 @@
     "category": "ai_tools",
     "stars": 4,
     "version": "v1.2.0",
-    "updated_at": "2026-05-12T16:36:18Z"
+    "updated_at": "2026-05-17T19:56:10Z"
   },
   "astrbot_plugin_PersonaFlow": {
     "display_name": "astrbot_plugin_PersonaFlow",
@@ -5748,9 +5748,9 @@
     "social_link": "https://www.misakanet.site",
     "category": "ai_tools",
     "stars": 10,
-    "version": "v1.0.5",
+    "version": "v1.0.6",
     "astrbot_version": ">=4.10.4",
-    "updated_at": "2026-05-17T18:53:51Z",
+    "updated_at": "2026-05-17T19:27:36Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_image_generation/master/logo.png"
   },
   "astrbot_plugin_group_geetest_verfy": {
@@ -7699,8 +7699,8 @@
     ],
     "category": "utilities",
     "stars": 4,
-    "version": "v1.4.0",
-    "updated_at": "2026-05-06T05:53:56Z",
+    "version": "v1.4.1",
+    "updated_at": "2026-05-17T19:30:47Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_video_analysis/master/logo.png"
   },
   "astrbot_plugin_image_generation": {
@@ -8816,9 +8816,9 @@
     "social_link": "https://github.com/Him666233",
     "category": "ai_tools",
     "stars": 99,
-    "version": "v1.2.2",
+    "version": "v1.2.2-hotfix.1",
     "astrbot_version": ">=4.11.0",
-    "updated_at": "2026-05-17T15:58:28Z",
+    "updated_at": "2026-05-17T20:47:27Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
