@@ -326,9 +326,9 @@
       "提示词优化"
     ],
     "social_link": "",
-    "stars": 28,
+    "stars": 29,
     "version": "3.3.11",
-    "updated_at": "2026-05-17T09:43:10Z",
+    "updated_at": "2026-05-17T12:15:22Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -2145,12 +2145,12 @@
     ],
     "category": "utilities",
     "stars": 3,
-    "version": "2.1.0",
+    "version": "2.2.0",
     "astrbot_version": ">=v4.12.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-16T15:47:15Z",
+    "updated_at": "2026-05-17T13:04:19Z",
     "logo": "https://raw.githubusercontent.com/lingyun14beta/astrbot_plugin_group_welcome/main/logo.png"
   },
   "astrbot-plugin-atrelay": {
@@ -2584,9 +2584,9 @@
       "数据查询"
     ],
     "category": "entertainment",
-    "stars": 50,
+    "stars": 51,
     "version": "2.8.0",
-    "updated_at": "2026-05-14T07:21:13Z",
+    "updated_at": "2026-05-17T12:21:03Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -2708,9 +2708,9 @@
     "tags": [],
     "social_link": "",
     "category": "utilities",
-    "stars": 10,
+    "stars": 11,
     "version": "v2.2.2",
-    "updated_at": "2026-05-16T11:19:47Z",
+    "updated_at": "2026-05-17T12:40:56Z",
     "logo": "https://raw.githubusercontent.com/Waterwzy/astrbot_plugin_firefly_filter/master/logo.png"
   },
   "astrbot-plugin-cet6": {
@@ -6589,9 +6589,9 @@
       "vertex_ai"
     ],
     "category": "ai_tools",
-    "stars": 26,
+    "stars": 27,
     "version": "v0.1.15",
-    "updated_at": "2026-05-11T10:30:02Z",
+    "updated_at": "2026-05-17T11:17:14Z",
     "logo": "https://raw.githubusercontent.com/sukafon/astrbot_plugin_big_banana/main/logo.png"
   },
   "astrbot_plugin_BitTorrent": {
@@ -6747,8 +6747,8 @@
     "social_link": "3268514224",
     "category": "utilities",
     "stars": 3,
-    "version": "1.6.6",
-    "updated_at": "2026-04-29T15:36:48Z"
+    "version": "1.7.3",
+    "updated_at": "2026-05-17T13:21:28Z"
   },
   "astrbot_plugin_file_reader_pro": {
     "display_name": "文件读取插件（File Reader Pro）",
@@ -8815,10 +8815,10 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "ai_tools",
-    "stars": 97,
+    "stars": 98,
     "version": "v1.2.2",
     "astrbot_version": ">=4.11.0",
-    "updated_at": "2026-05-17T09:46:38Z",
+    "updated_at": "2026-05-17T11:35:32Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -10647,9 +10647,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 189,
+    "stars": 190,
     "version": "2.2.12",
-    "updated_at": "2026-05-16T03:47:22Z",
+    "updated_at": "2026-05-17T11:11:21Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -11071,9 +11071,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
-    "stars": 165,
+    "stars": 166,
     "version": "v2.1.3",
-    "updated_at": "2026-05-06T15:05:56Z",
+    "updated_at": "2026-05-17T11:12:29Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_lmarena/main/logo.png"
   },
   "astrbot_plugin_Mirecraft_motd": {
