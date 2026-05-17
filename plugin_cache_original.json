@@ -160,7 +160,7 @@
     "stars": 6,
     "version": "2.8.0-exp",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-05-17T14:53:28Z",
+    "updated_at": "2026-05-17T15:07:07Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -8815,10 +8815,10 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "ai_tools",
-    "stars": 98,
+    "stars": 99,
     "version": "v1.2.2",
     "astrbot_version": ">=4.11.0",
-    "updated_at": "2026-05-17T11:35:32Z",
+    "updated_at": "2026-05-17T15:58:28Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -14622,9 +14622,9 @@
     ],
     "social_link": "https://docs.sayu-bot.com/",
     "category": "integrations",
-    "stars": 40,
+    "stars": 41,
     "version": "v0.4.7",
-    "updated_at": "2026-05-09T03:55:18Z"
+    "updated_at": "2026-05-17T15:01:54Z"
   },
   "astrbot_plugin_xyzw": {
     "author": "四郎",
