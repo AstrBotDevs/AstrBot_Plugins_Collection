@@ -158,9 +158,9 @@
     "social_link": "https://github.com/Ayleovelle",
     "tags": [],
     "stars": 7,
-    "version": "3.0.0-exp4",
+    "version": "3.0.0",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-05-17T17:52:47Z",
+    "updated_at": "2026-05-17T19:06:07Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -1898,9 +1898,9 @@
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
     "category": "entertainment",
-    "stars": 14,
+    "stars": 15,
     "version": "1.3.0_beta1",
-    "updated_at": "2026-05-17T14:10:10Z",
+    "updated_at": "2026-05-17T18:20:27Z",
     "logo": "https://raw.githubusercontent.com/Sisyphbaous-DT-Project/astrbot_plugin_what_to_eat/main/logo.png"
   },
   "astrbot-plugin-HD2-daily-report": {
@@ -5750,7 +5750,7 @@
     "stars": 10,
     "version": "v1.0.5",
     "astrbot_version": ">=4.10.4",
-    "updated_at": "2026-05-17T17:20:03Z",
+    "updated_at": "2026-05-17T18:53:51Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_image_generation/master/logo.png"
   },
   "astrbot_plugin_group_geetest_verfy": {
@@ -7325,10 +7325,10 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "utilities",
-    "stars": 59,
+    "stars": 60,
     "version": "v1.4.5",
     "astrbot_version": ">=4.11.2",
-    "updated_at": "2026-05-17T16:42:50Z",
+    "updated_at": "2026-05-17T18:15:30Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
