@@ -158,9 +158,9 @@
     "social_link": "https://github.com/Ayleovelle",
     "tags": [],
     "stars": 5,
-    "version": "2.6.1",
+    "version": "2.6.2",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-05-17T05:22:37Z",
+    "updated_at": "2026-05-17T09:31:29Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -326,9 +326,9 @@
       "提示词优化"
     ],
     "social_link": "",
-    "stars": 26,
+    "stars": 28,
     "version": "3.3.11",
-    "updated_at": "2026-05-17T06:37:41Z",
+    "updated_at": "2026-05-17T09:43:10Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -2918,8 +2918,9 @@
     "social_link": "https://github.com/united-pooh",
     "category": "entertainment",
     "stars": 12,
-    "version": "v1.1.1",
-    "updated_at": "2026-05-11T15:06:30Z",
+    "version": "v1.2.0",
+    "astrbot_version": ">=4.16,<5",
+    "updated_at": "2026-05-17T09:36:49Z",
     "logo": "https://raw.githubusercontent.com/united-pooh/astrbot_plugin_bangumi/main/logo.png"
   },
   "astrbot-plugin-three-body-wiki": {
@@ -4970,9 +4971,9 @@
     ],
     "social_link": "https://github.com/VanillaNahida",
     "category": "utilities",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.2",
-    "updated_at": "2026-05-11T23:36:08Z",
+    "updated_at": "2026-05-17T09:13:37Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_aip_review/master/logo.png"
   },
   "astrbot_plugin_goons": {
@@ -8374,9 +8375,9 @@
       "推特"
     ],
     "category": "utilities",
-    "stars": 43,
+    "stars": 44,
     "version": "v6.1.2",
-    "updated_at": "2026-05-12T06:00:48Z",
+    "updated_at": "2026-05-17T09:46:42Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -8817,7 +8818,7 @@
     "stars": 97,
     "version": "v1.2.2",
     "astrbot_version": ">=4.11.0",
-    "updated_at": "2026-05-17T08:43:29Z",
+    "updated_at": "2026-05-17T09:46:38Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -12670,9 +12671,9 @@
     ],
     "social_link": "https://github.com/lxfight",
     "category": "ai_tools",
-    "stars": 32,
+    "stars": 33,
     "version": "0.1.0",
-    "updated_at": "2026-04-12T01:32:52Z"
+    "updated_at": "2026-05-17T10:49:04Z"
   },
   "astrbot_plugin_textadventure": {
     "author": "LumineStory",
@@ -13208,9 +13209,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 158,
+    "stars": 159,
     "version": "v2.1.0",
-    "updated_at": "2026-05-16T18:59:58Z",
+    "updated_at": "2026-05-17T09:44:29Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -16707,9 +16708,9 @@
     "repo": "https://github.com/zouyonghe/astrbot_plugin_ebooks",
     "category": "utilities",
     "tags": [],
-    "stars": 23,
+    "stars": 24,
     "version": "v2.0.0",
-    "updated_at": "2026-05-15T03:41:19Z"
+    "updated_at": "2026-05-17T10:07:56Z"
   },
   "astrbot_plugin_AIQTalk": {
     "desc": "基于QQ的AI声聊完成的（伪）TTS转语音",
