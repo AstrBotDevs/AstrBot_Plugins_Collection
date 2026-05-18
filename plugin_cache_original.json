@@ -174,7 +174,7 @@
     "stars": 8,
     "version": "3.0.4",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-05-18T13:09:48Z",
+    "updated_at": "2026-05-18T20:48:45Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -6732,9 +6732,9 @@
       "聊天记录"
     ],
     "category": "ai_tools",
-    "stars": 19,
+    "stars": 20,
     "version": "1.0.6",
-    "updated_at": "2026-05-14T12:50:14Z",
+    "updated_at": "2026-05-18T20:39:24Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_eye/master/logo.png"
   },
   "lumingya/astrbot_plugin_regex_filter": {
