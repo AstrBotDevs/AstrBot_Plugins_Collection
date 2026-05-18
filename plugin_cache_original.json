@@ -1,4 +1,18 @@
 {
+  "astrbot_plugin_agentmemory": {
+    "display_name": "AgentMemory 长期记忆",
+    "desc": "Connect AstrBot to agentmemory for sender-scoped long-term memory search, capture, and deletion.",
+    "author": "buding",
+    "repo": "https://github.com/zouyonghe/astrbot_plugin_agentmemory",
+    "tags": [
+      "memory",
+      "agentmemory",
+      "long-term-memory"
+    ],
+    "stars": 0,
+    "version": "0.1.0",
+    "updated_at": "2026-05-18T02:25:31Z"
+  },
   "astrbot_plugin_kimi_web_search": {
     "display_name": "Kimi 联网搜索（WebSearch）",
     "desc": "使用 Kimi coding plan 的 /coding/v1/search 和 /coding/v1/fetch 为 AstrBot Agent 提供互联网搜索和网页读取能力",
@@ -157,10 +171,10 @@
     "repo": "https://github.com/Ayleovelle/astrbot_plugin_sylanne",
     "social_link": "https://github.com/Ayleovelle",
     "tags": [],
-    "stars": 7,
+    "stars": 8,
     "version": "3.0.0",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-05-17T20:11:02Z",
+    "updated_at": "2026-05-18T01:51:26Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -444,9 +458,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 97,
+    "stars": 98,
     "version": "3.1.1",
-    "updated_at": "2026-05-16T07:44:05Z",
+    "updated_at": "2026-05-18T03:21:55Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -2123,7 +2137,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 348,
+    "stars": 349,
     "version": "v4.10.5",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -2132,7 +2146,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-05-16T18:47:18Z",
+    "updated_at": "2026-05-18T01:50:38Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -2544,7 +2558,7 @@
     "repo": "https://github.com/674537331/astrbot_plugin_mihome",
     "category": "integrations",
     "tags": [],
-    "stars": 25,
+    "stars": 26,
     "version": "v7.2.1",
     "astrbot_version": ">=4.0.0",
     "support_platforms": [
@@ -2552,7 +2566,7 @@
       "qq_official",
       "gewechat"
     ],
-    "updated_at": "2026-04-28T21:51:29Z",
+    "updated_at": "2026-05-18T02:57:40Z",
     "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_mihome/main/logo.png"
   },
   "astrbot-plugin-nai-brush": {
@@ -3146,14 +3160,14 @@
       "sky"
     ],
     "category": "entertainment",
-    "stars": 10,
+    "stars": 11,
     "version": "2.5.3",
     "support_platforms": [
       "aiocqhttp",
       "wecom",
       "telegram"
     ],
-    "updated_at": "2026-05-13T05:32:28Z",
+    "updated_at": "2026-05-18T03:07:29Z",
     "logo": "https://raw.githubusercontent.com/wzq10314/astrbot_plugin_sky/main/logo.png"
   },
   "astrbot-plugin-animatedemoji": {
@@ -5108,12 +5122,12 @@
     ],
     "social_link": "https://github.com/siciyuanweilai",
     "category": "entertainment",
-    "stars": 32,
+    "stars": 33,
     "version": "5.2.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-13T07:34:37Z",
+    "updated_at": "2026-05-18T04:41:00Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -5211,7 +5225,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 348,
+    "stars": 349,
     "version": "v4.10.5",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -5220,7 +5234,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-05-16T18:47:18Z",
+    "updated_at": "2026-05-18T01:50:38Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -5467,9 +5481,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "integrations",
-    "stars": 13,
+    "stars": 14,
     "version": "1.0.0",
-    "updated_at": "2026-04-07T02:25:18Z"
+    "updated_at": "2026-05-18T04:02:48Z"
   },
   "astrbot_plugin_chatmaster": {
     "display_name": "死了么 | 一款检测群聊活跃度的插件",
@@ -6005,7 +6019,7 @@
     "stars": 16,
     "version": "0.3.6",
     "astrbot_version": ">=4.16.0",
-    "updated_at": "2026-04-15T04:54:41Z",
+    "updated_at": "2026-05-18T03:26:46Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_url_image_auto": {
@@ -7325,10 +7339,10 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "utilities",
-    "stars": 60,
+    "stars": 61,
     "version": "v1.4.5",
     "astrbot_version": ">=4.11.2",
-    "updated_at": "2026-05-17T18:15:30Z",
+    "updated_at": "2026-05-18T01:20:19Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -9033,9 +9047,9 @@
       "修仙"
     ],
     "category": "entertainment",
-    "stars": 12,
+    "stars": 13,
     "version": "v0.9.0",
-    "updated_at": "2026-05-12T16:22:02Z",
+    "updated_at": "2026-05-18T02:27:38Z",
     "logo": "https://raw.githubusercontent.com/linjianyan0229/astrbot_plugin_monixiuxian/main/logo.png"
   },
   "astrbot_plugin_invitecount": {
@@ -11034,9 +11048,9 @@
       "股市"
     ],
     "category": "entertainment",
-    "stars": 11,
+    "stars": 12,
     "version": "v1.0.4",
-    "updated_at": "2026-03-10T04:32:01Z"
+    "updated_at": "2026-05-18T04:12:12Z"
   },
   "astrbot_plugin_figurine_workshop": {
     "desc": "基于gemini生图的手办化,不再需要本地部署。",
@@ -16229,7 +16243,7 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "category": "integrations",
     "tags": [],
-    "stars": 65,
+    "stars": 66,
     "version": "v1.6.1",
     "astrbot_version": ">=4.5.2",
     "support_platforms": [
@@ -16237,7 +16251,7 @@
       "telegram",
       "weixin_oc"
     ],
-    "updated_at": "2026-05-15T09:30:39Z",
+    "updated_at": "2026-05-18T04:31:09Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
