@@ -4,7 +4,7 @@
     "desc": "Connect AstrBot to agentmemory for sender-scoped long-term memory search, capture, and deletion.",
     "author": "buding",
     "repo": "https://github.com/zouyonghe/astrbot_plugin_agentmemory",
-    "tags": ["memory", "agentmemory", "long-term-memory"],
+    "tags": ["memory", "agentmemory", "long-term-memory"]
   },
   "astrbot_plugin_kimi_web_search": {
     "display_name": "Kimi 联网搜索（WebSearch）",
