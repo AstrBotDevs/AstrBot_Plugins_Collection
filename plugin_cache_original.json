@@ -3617,9 +3617,9 @@
     ],
     "social_link": "https://github.com/CecilyGao",
     "category": "utilities",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-03-18T12:17:53Z",
+    "updated_at": "2026-05-18T18:29:28Z",
     "logo": "https://raw.githubusercontent.com/CecilyGao/astrbot_plugin_gbif_search/master/logo.png"
   },
   "astrbot-plugin-novel": {
@@ -3968,9 +3968,9 @@
       "转链"
     ],
     "category": "utilities",
-    "stars": 14,
+    "stars": 15,
     "version": "1.0.3",
-    "updated_at": "2026-05-02T19:36:49Z",
+    "updated_at": "2026-05-18T18:15:41Z",
     "logo": "https://raw.githubusercontent.com/chufeng/astrbot_plugin_bili_resolver/main/logo.png"
   },
   "astrbot-plugin-inkfusion": {
@@ -4865,9 +4865,9 @@
       "QQ"
     ],
     "category": "utilities",
-    "stars": 9,
+    "stars": 10,
     "version": "v0.2.1",
-    "updated_at": "2026-05-14T16:26:10Z"
+    "updated_at": "2026-05-18T17:59:58Z"
   },
   "astrbot_plugin_skland": {
     "display_name": "森空岛签到",
