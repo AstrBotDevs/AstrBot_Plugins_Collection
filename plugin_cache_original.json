@@ -7859,12 +7859,12 @@
     "social_link": "https://github.com/piexian",
     "category": "ai_tools",
     "stars": 43,
-    "version": "v1.10.5",
+    "version": "v1.10.6",
     "astrbot_version": ">=4.10.4",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-16T06:48:52Z",
+    "updated_at": "2026-05-18T22:55:26Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
