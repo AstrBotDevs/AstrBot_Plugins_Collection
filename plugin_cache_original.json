@@ -77,10 +77,10 @@
       "安全"
     ],
     "social_link": "https://space.bilibili.com/702922307",
-    "stars": 0,
+    "stars": 1,
     "version": "1.0.0",
     "astrbot_version": ">=4.9.2",
-    "updated_at": "2026-05-08T11:56:47Z"
+    "updated_at": "2026-05-19T22:02:06Z"
   },
   "astrbot-plugin-chat-archive": {
     "display_name": "Chat Archive",
@@ -275,7 +275,7 @@
     "stars": 9,
     "version": "3.0.6",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-05-19T16:29:39Z",
+    "updated_at": "2026-05-19T20:53:20Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -12997,9 +12997,9 @@
     "desc": "[仅aiocqhttp]让bot 转人工/转人机，真人客服 接入对话/结束对话",
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 35,
+    "stars": 36,
     "version": "v1.7.3",
-    "updated_at": "2026-05-13T16:53:06Z",
+    "updated_at": "2026-05-19T22:05:05Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_human_service/main/logo.png"
   },
   "astrbot_plugin_reimage": {
