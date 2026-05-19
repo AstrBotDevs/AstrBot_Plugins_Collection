@@ -1,4 +1,55 @@
 {
+  "astrbot-plugin-qzone-ultra": {
+    "display_name": "QQ空间Ultra",
+    "desc": "QQ空间Ultra，更稳定的QQ空间插件，支持自动绑定QQ空间，采用独立进程：占用极低、稳定性极高，支持看/评/赞/发/写/删说说、回评、投稿审核、自动发评和 LLM tools。",
+    "author": "雪碧bir",
+    "repo": "https://github.com/diaomin66/astrbot_plugin_qzone_ultra",
+    "tags": [
+      "QQ空间"
+    ],
+    "social_link": "",
+    "stars": 4,
+    "version": "0.2.0",
+    "astrbot_version": ">=4.16,<5",
+    "support_platforms": [
+      "aiocqhttp"
+    ],
+    "updated_at": "2026-05-19T14:29:55Z",
+    "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_qzone_ultra/main/logo.png"
+  },
+  "telethon-bot-adapter": {
+    "display_name": "Telegram Bot Adapter",
+    "desc": "Telethon-based Telegram Bot adapter / 基于 Telethon 的 Telegram Bot 适配器",
+    "author": "outlook84",
+    "repo": "https://github.com/outlook84/astrbot_plugin_telethon_bot_adapter",
+    "tags": [
+      "telegram",
+      "telethon",
+      "adapter",
+      "bot"
+    ],
+    "social_link": "",
+    "stars": 0,
+    "version": "0.5.0",
+    "support_platforms": [
+      "telethon_bot"
+    ],
+    "updated_at": "2026-03-20T11:25:35Z",
+    "logo": "https://raw.githubusercontent.com/outlook84/astrbot_plugin_telethon_bot_adapter/main/logo.png"
+  },
+  "astrbot-plugin-subagent-worktogether": {
+    "display_name": "更好的Agent间通信",
+    "desc": "能够支持子Agent之间直接通信，可以控制互相通信的深度和次数，可以输出Agent互相通信的完整链路",
+    "author": "ScarletAugus",
+    "repo": "https://github.com/ScarletAugus/astrbot_plugin_subagent_worktogether",
+    "tags": [
+      "Agent",
+      "SubAgent"
+    ],
+    "stars": 0,
+    "version": "v1.1.0",
+    "updated_at": "2026-03-20T09:26:15Z"
+  },
   "astrbot-plugin-qcm": {
     "display_name": "QQ Connect Minecraft 群服互联",
     "desc": "定时监听指定群的消息并发送到MC服务器，同时接收MC服务器的消息并转发到群。",
@@ -46,7 +97,7 @@
     "social_link": "https://github.com/YukiNo420",
     "stars": 0,
     "version": "1.0.0",
-    "updated_at": "2026-05-19T11:14:51Z",
+    "updated_at": "2026-05-19T11:39:51Z",
     "logo": "https://raw.githubusercontent.com/YukiNo420/astrbot_plugin_chat_archive/main/logo.png"
   },
   "astrbot_plugin_agentmemory": {
@@ -119,10 +170,10 @@
       "FAISS"
     ],
     "social_link": "https://github.com/x1051445024",
-    "stars": 5,
+    "stars": 6,
     "version": "0.8.1",
     "astrbot_version": ">=4.5,<5",
-    "updated_at": "2026-05-19T08:07:28Z"
+    "updated_at": "2026-05-19T13:29:08Z"
   },
   "astrbot_plugin_wave_memory": {
     "display_name": "Wave Memory",
@@ -221,10 +272,10 @@
     "repo": "https://github.com/Ayleovelle/astrbot_plugin_sylanne",
     "social_link": "https://github.com/Ayleovelle",
     "tags": [],
-    "stars": 8,
+    "stars": 9,
     "version": "3.0.5",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-05-19T07:18:47Z",
+    "updated_at": "2026-05-19T11:40:51Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -508,9 +559,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 101,
+    "stars": 102,
     "version": "3.1.1",
-    "updated_at": "2026-05-19T09:14:50Z",
+    "updated_at": "2026-05-19T14:40:42Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -745,10 +796,10 @@
       "跨平台身份管理",
       "数据库查询"
     ],
-    "stars": 12,
+    "stars": 13,
     "version": "1.0.6",
     "astrbot_version": ">=4.5.0",
-    "updated_at": "2026-05-14T10:13:44Z",
+    "updated_at": "2026-05-19T12:13:21Z",
     "logo": "https://raw.githubusercontent.com/ysf7762-dev/astrbot_plugin_scriptor/main/logo.png"
   },
   "astrbot_plugin_actions": {
@@ -2051,8 +2102,8 @@
     ],
     "category": "integrations",
     "stars": 1,
-    "version": "v1.4.1",
-    "updated_at": "2026-05-18T16:53:22Z"
+    "version": "v1.4.2",
+    "updated_at": "2026-05-19T14:53:28Z"
   },
   "astrbot-plugin-tarkovboss": {
     "display_name": "塔科夫Boss刷率",
@@ -2187,7 +2238,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 350,
+    "stars": 351,
     "version": "v4.10.5",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -2196,7 +2247,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-05-18T12:11:58Z",
+    "updated_at": "2026-05-19T15:15:54Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -2564,7 +2615,7 @@
     "stars": 7,
     "version": "v0.0.4",
     "astrbot_version": ">=4.0.0",
-    "updated_at": "2026-04-03T05:18:26Z",
+    "updated_at": "2026-05-19T13:46:28Z",
     "logo": "https://raw.githubusercontent.com/NorNeko/astrbot_plugin_Xagent_searcher/main/logo.png"
   },
   "astrbot-plugin-status": {
@@ -2982,9 +3033,9 @@
     "social_link": "https://github.com/united-pooh",
     "category": "entertainment",
     "stars": 12,
-    "version": "v1.2.0",
+    "version": "v1.3.0",
     "astrbot_version": ">=4.16,<5",
-    "updated_at": "2026-05-17T09:36:49Z",
+    "updated_at": "2026-05-19T15:25:44Z",
     "logo": "https://raw.githubusercontent.com/united-pooh/astrbot_plugin_bangumi/main/logo.png"
   },
   "astrbot-plugin-three-body-wiki": {
@@ -5275,7 +5326,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 350,
+    "stars": 351,
     "version": "v4.10.5",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -5284,7 +5335,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-05-18T12:11:58Z",
+    "updated_at": "2026-05-19T15:15:54Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -6653,9 +6704,9 @@
       "vertex_ai"
     ],
     "category": "ai_tools",
-    "stars": 27,
+    "stars": 28,
     "version": "v0.1.15",
-    "updated_at": "2026-05-17T11:17:14Z",
+    "updated_at": "2026-05-19T12:17:01Z",
     "logo": "https://raw.githubusercontent.com/sukafon/astrbot_plugin_big_banana/main/logo.png"
   },
   "astrbot_plugin_BitTorrent": {
@@ -8048,7 +8099,7 @@
     "category": "utilities",
     "stars": 0,
     "version": "V6.3",
-    "updated_at": "2026-02-26T12:53:10Z",
+    "updated_at": "2026-05-19T15:09:35Z",
     "logo": "https://raw.githubusercontent.com/by-029/zxs60s/main/logo.png"
   },
   "astrbot_plugin_slave_market": {
@@ -9099,7 +9150,7 @@
     "category": "entertainment",
     "stars": 13,
     "version": "v0.9.0",
-    "updated_at": "2026-05-18T02:27:38Z",
+    "updated_at": "2026-05-19T11:56:39Z",
     "logo": "https://raw.githubusercontent.com/linjianyan0229/astrbot_plugin_monixiuxian/main/logo.png"
   },
   "astrbot_plugin_invitecount": {
@@ -14120,9 +14171,9 @@
     "repo": "https://github.com/LKarxa/astrbot_plugin_regex_filter",
     "category": "ai_tools",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "1.3.0",
-    "updated_at": "2026-03-07T14:01:51Z"
+    "updated_at": "2026-05-19T15:23:37Z"
   },
   "prompt_tools": {
     "author": "LKarxa",
@@ -14133,9 +14184,9 @@
       "prompt"
     ],
     "category": "ai_tools",
-    "stars": 6,
+    "stars": 7,
     "version": "1.3.0",
-    "updated_at": "2026-04-24T07:39:43Z"
+    "updated_at": "2026-05-19T15:22:52Z"
   },
   "astrbot_plugin_MsgDistributor": {
     "author": "Dinggg",
@@ -14461,7 +14512,7 @@
     "category": "entertainment",
     "stars": 10,
     "version": "v0.1.0",
-    "updated_at": "2026-05-12T14:13:57Z"
+    "updated_at": "2026-05-19T13:36:03Z"
   },
   "astrbot-gold-plugin": {
     "repo": "https://github.com/RC-CHN/astrbot-gold-plugin",
@@ -15352,8 +15403,8 @@
     "repo": "https://github.com/xco2/astrbot_plugin_anime_gacha",
     "category": "entertainment",
     "stars": 13,
-    "version": "v1.1.3",
-    "updated_at": "2026-04-18T09:35:28Z"
+    "version": "v1.1.4",
+    "updated_at": "2026-05-19T14:37:30Z"
   },
   "astrbot_plugin_nachoneko": {
     "desc": "一款获取甘城猫猫图片的插件",
@@ -15503,8 +15554,8 @@
     "repo": "https://github.com/zengweis/astrbot_plugin_Translation",
     "category": "utilities",
     "stars": 0,
-    "version": "v1.0.1",
-    "updated_at": "2025-03-29T11:07:57Z"
+    "version": "v1.0.2",
+    "updated_at": "2026-05-19T15:01:37Z"
   },
   "astrbot_plugin_relationship": {
     "display_name": "人际关系管理器",
