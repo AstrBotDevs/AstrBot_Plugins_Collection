@@ -9,9 +9,9 @@
       "agentmemory",
       "long-term-memory"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "0.1.0",
-    "updated_at": "2026-05-18T07:59:24Z"
+    "updated_at": "2026-05-18T23:29:10Z"
   },
   "astrbot_plugin_kimi_web_search": {
     "display_name": "Kimi 联网搜索（WebSearch）",
@@ -259,9 +259,9 @@
       "Ai便利贴"
     ],
     "social_link": "https://github.com/zhangkai542322",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.6.1",
-    "updated_at": "2026-05-14T09:56:56Z"
+    "updated_at": "2026-05-19T01:20:16Z"
   },
   "astrbot_plugin_model_connectivity": {
     "display_name": "模型连通性状态图插件",
@@ -6271,9 +6271,9 @@
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
     "category": "ai_tools",
-    "stars": 61,
+    "stars": 60,
     "version": "v1.1",
-    "updated_at": "2026-05-17T16:32:28Z"
+    "updated_at": "2026-05-19T00:28:08Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -7339,10 +7339,10 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "utilities",
-    "stars": 61,
+    "stars": 62,
     "version": "v1.4.5",
     "astrbot_version": ">=4.11.2",
-    "updated_at": "2026-05-18T01:20:19Z",
+    "updated_at": "2026-05-19T03:25:24Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -11672,9 +11672,9 @@
       "海龟汤"
     ],
     "category": "entertainment",
-    "stars": 24,
+    "stars": 23,
     "version": "v1.0.3",
-    "updated_at": "2026-05-13T16:55:29Z"
+    "updated_at": "2026-05-19T02:14:37Z"
   },
   "astrbot_plugin_typst_render": {
     "name": "astrbot_plugin_typst_render",
