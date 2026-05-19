@@ -1,4 +1,17 @@
 {
+  "astrbot-plugin-qcm": {
+    "display_name": "QQ Connect Minecraft 群服互联",
+    "desc": "定时监听指定群的消息并发送到MC服务器，同时接收MC服务器的消息并转发到群。",
+    "author": "Huntersxy",
+    "repo": "https://github.com/huntersxy/astrbot_plugin_qcm",
+    "tags": [
+      "互联",
+      "群",
+      "我的世界",
+      "minecraft"
+    ],
+    "social_link": "https://github.com/huntersxy"
+  },
   "astrbot-plugin-user-terms": {
     "display_name": "用户条款签署控制",
     "desc": "用户条款签署控制插件，为指定用户 SID 或群组 SID 要求单独同意用户条款后才允许继续使用机器人",
