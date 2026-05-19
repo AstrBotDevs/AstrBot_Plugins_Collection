@@ -1,4 +1,54 @@
 {
+  "astrbot-plugin-qcm": {
+    "display_name": "QQ Connect Minecraft 群服互联",
+    "desc": "定时监听指定群的消息并发送到MC服务器，同时接收MC服务器的消息并转发到群。",
+    "author": "Huntersxy",
+    "repo": "https://github.com/huntersxy/astrbot_plugin_qcm",
+    "tags": [
+      "互联",
+      "群",
+      "我的世界",
+      "minecraft"
+    ],
+    "social_link": "https://github.com/huntersxy",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-21T03:50:13Z"
+  },
+  "astrbot-plugin-user-terms": {
+    "display_name": "用户条款签署控制",
+    "desc": "用户条款签署控制插件，为指定用户 SID 或群组 SID 要求单独同意用户条款后才允许继续使用机器人",
+    "author": "AlanBacker",
+    "repo": "https://github.com/AlanBacker/astrbot_plugin_user_terms",
+    "tags": [
+      "用户条款",
+      "功能",
+      "安全"
+    ],
+    "social_link": "https://space.bilibili.com/702922307",
+    "stars": 0,
+    "version": "1.0.0",
+    "astrbot_version": ">=4.9.2",
+    "updated_at": "2026-05-08T11:56:47Z"
+  },
+  "astrbot-plugin-chat-archive": {
+    "display_name": "Chat Archive",
+    "desc": "一款为 AstrBot 打造的高性能、无感知的聊天记录存档 Web 可视化管理面板插件。",
+    "author": "YukiNo420",
+    "repo": "https://github.com/YukiNo420/astrbot_plugin_chat_archive",
+    "tags": [
+      "tools",
+      "admin",
+      "web",
+      "database",
+      "archive"
+    ],
+    "social_link": "https://github.com/YukiNo420",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-05-19T11:14:51Z",
+    "logo": "https://raw.githubusercontent.com/YukiNo420/astrbot_plugin_chat_archive/main/logo.png"
+  },
   "astrbot_plugin_agentmemory": {
     "display_name": "AgentMemory 长期记忆",
     "desc": "Connect AstrBot to agentmemory for sender-scoped long-term memory search, capture, and deletion.",
@@ -69,10 +119,10 @@
       "FAISS"
     ],
     "social_link": "https://github.com/x1051445024",
-    "stars": 4,
+    "stars": 5,
     "version": "0.8.1",
     "astrbot_version": ">=4.5,<5",
-    "updated_at": "2026-05-18T15:54:01Z"
+    "updated_at": "2026-05-19T08:07:28Z"
   },
   "astrbot_plugin_wave_memory": {
     "display_name": "Wave Memory",
@@ -447,8 +497,8 @@
     "astrbot_version": ">=4.19.4",
     "support_platforms": "aiocqhttp",
     "tags": [],
-    "stars": 10,
-    "updated_at": "2026-05-12T15:01:35Z",
+    "stars": 9,
+    "updated_at": "2026-05-19T09:11:58Z",
     "logo": "https://raw.githubusercontent.com/PolysaCHride/astrbot_plugin_course/main/logo.png"
   },
   "astrbot-plugin-rocom": {
@@ -458,9 +508,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 100,
+    "stars": 101,
     "version": "3.1.1",
-    "updated_at": "2026-05-18T14:09:13Z",
+    "updated_at": "2026-05-19T09:14:50Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -3047,9 +3097,9 @@
     ],
     "social_link": "https://github.com/menglimi",
     "category": "ai_tools",
-    "stars": 42,
+    "stars": 43,
     "version": "3.0.0",
-    "updated_at": "2026-05-05T10:38:24Z",
+    "updated_at": "2026-05-19T07:48:32Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -5761,10 +5811,10 @@
     ],
     "social_link": "https://www.misakanet.site",
     "category": "ai_tools",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.0.7",
     "astrbot_version": ">=4.10.4",
-    "updated_at": "2026-05-19T07:42:51Z",
+    "updated_at": "2026-05-19T10:35:55Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_image_generation/master/logo.png"
   },
   "astrbot_plugin_group_geetest_verfy": {
@@ -7155,9 +7205,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 115,
+    "stars": 116,
     "version": "v1.5.1",
-    "updated_at": "2026-05-16T07:50:47Z",
+    "updated_at": "2026-05-19T09:29:20Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -12032,13 +12082,13 @@
       "战地风云"
     ],
     "category": "integrations",
-    "stars": 13,
+    "stars": 12,
     "version": "v2.1.7",
     "astrbot_version": ">=3.4",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-16T18:54:56Z",
+    "updated_at": "2026-05-19T08:50:28Z",
     "logo": "https://raw.githubusercontent.com/SHOOTING-STAR-C/astrbot_plugin_battlefield_tool/master/logo.png"
   },
   "astrbot_plugin_SteamSaleTracker": {
@@ -16644,7 +16694,7 @@
     "tags": [],
     "stars": 242,
     "version": "v2.1.5",
-    "updated_at": "2026-05-18T05:30:26Z"
+    "updated_at": "2026-05-19T09:52:04Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
