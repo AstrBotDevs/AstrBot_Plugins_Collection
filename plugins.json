@@ -1,4 +1,14 @@
 {
+  "astrbot-plugin-subagent-worktogether": {
+    "display_name": "更好的Agent间通信",
+    "desc": "能够支持子Agent之间直接通信，可以控制互相通信的深度和次数，可以输出Agent互相通信的完整链路",
+    "author": "ScarletAugus",
+    "repo": "https://github.com/ScarletAugus/astrbot_plugin_subagent_worktogether",
+    "tags": [
+      "Agent",
+      "SubAgent"
+    ]
+  },
   "astrbot-plugin-qcm": {
     "display_name": "QQ Connect Minecraft 群服互联",
     "desc": "定时监听指定群的消息并发送到MC服务器，同时接收MC服务器的消息并转发到群。",
