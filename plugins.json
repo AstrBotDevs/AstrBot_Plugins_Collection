@@ -1,4 +1,14 @@
 {
+  "astrbot-plugin-qzone-ultra": {
+    "display_name": "QQ空间Ultra",
+    "desc": "QQ空间Ultra，更稳定的QQ空间插件，支持自动绑定QQ空间，采用独立进程：占用极低、稳定性极高，支持看/评/赞/发/写/删说说、回评、投稿审核、自动发评和 LLM tools。",
+    "author": "雪碧bir",
+    "repo": "https://github.com/diaomin66/astrbot_plugin_qzone_ultra",
+    "tags": [
+      "QQ空间"
+    ],
+    "social_link": ""
+  },
   "telethon-bot-adapter": {
     "display_name": "Telegram Bot Adapter",
     "desc": "Telethon-based Telegram Bot adapter / 基于 Telethon 的 Telegram Bot 适配器",
