@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-user-terms": {
+    "display_name": "用户条款签署控制",
+    "desc": "用户条款签署控制插件，为指定用户 SID 或群组 SID 要求单独同意用户条款后才允许继续使用机器人",
+    "author": "AlanBacker",
+    "repo": "https://github.com/AlanBacker/astrbot_plugin_user_terms",
+    "tags": [
+      "用户条款",
+      "功能",
+      "安全"
+    ],
+    "social_link": "https://space.bilibili.com/702922307"
+  },
   "astrbot-plugin-chat-archive": {
     "display_name": "Chat Archive",
     "desc": "一款为 AstrBot 打造的高性能、无感知的聊天记录存档 Web 可视化管理面板插件。",
