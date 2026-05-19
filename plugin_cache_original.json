@@ -172,9 +172,9 @@
     "social_link": "https://github.com/Ayleovelle",
     "tags": [],
     "stars": 8,
-    "version": "3.0.4",
+    "version": "3.0.5",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-05-18T20:48:45Z",
+    "updated_at": "2026-05-19T07:18:47Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -2598,9 +2598,9 @@
       "数据查询"
     ],
     "category": "entertainment",
-    "stars": 52,
+    "stars": 53,
     "version": "2.9.0",
-    "updated_at": "2026-05-18T14:09:11Z",
+    "updated_at": "2026-05-19T06:40:31Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -3651,9 +3651,9 @@
     ],
     "social_link": "https://github.com/Radiant303",
     "category": "ai_tools",
-    "stars": 32,
+    "stars": 33,
     "version": "v2.3.1",
-    "updated_at": "2026-05-10T07:08:39Z",
+    "updated_at": "2026-05-19T07:08:40Z",
     "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_clonetts/master/logo.png"
   },
   "astrbot-plugin-ssh": {
@@ -4944,7 +4944,7 @@
     "category": "entertainment",
     "stars": 6,
     "version": "v1.2.0",
-    "updated_at": "2026-05-15T15:55:44Z"
+    "updated_at": "2026-05-19T07:21:15Z"
   },
   "astrbot_plugin_bestdori_tools": {
     "display_name": "BanG！Dream！Bestdori工具箱",
@@ -5762,9 +5762,9 @@
     "social_link": "https://www.misakanet.site",
     "category": "ai_tools",
     "stars": 10,
-    "version": "v1.0.6",
+    "version": "v1.0.7",
     "astrbot_version": ">=4.10.4",
-    "updated_at": "2026-05-18T15:03:20Z",
+    "updated_at": "2026-05-19T07:42:51Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_image_generation/master/logo.png"
   },
   "astrbot_plugin_group_geetest_verfy": {
@@ -5979,14 +5979,14 @@
     ],
     "social_link": "https://github.com/Clhikari",
     "category": "productivity",
-    "stars": 31,
+    "stars": 32,
     "version": "v1.8.0",
     "support_platforms": [
       "aiocqhttp",
       "telegram",
       "discord"
     ],
-    "updated_at": "2026-05-18T11:18:03Z",
+    "updated_at": "2026-05-19T06:58:20Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -7339,10 +7339,10 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "utilities",
-    "stars": 62,
+    "stars": 63,
     "version": "v1.4.5",
     "astrbot_version": ">=4.11.2",
-    "updated_at": "2026-05-19T03:25:24Z",
+    "updated_at": "2026-05-19T05:20:37Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -10800,9 +10800,9 @@
       "表情包"
     ],
     "category": "entertainment",
-    "stars": 14,
+    "stars": 15,
     "version": "v1.0.1",
-    "updated_at": "2026-04-23T09:09:56Z"
+    "updated_at": "2026-05-19T04:02:21Z"
   },
   "wxauto_repost": {
     "desc": "微信消息转发框架插件 - 基于 wxauto 库和 OneBotV11 协议，支持微信消息与 OneBotV11 协议的双向转发",
@@ -11267,9 +11267,9 @@
     ],
     "social_link": "https://github.com/SodaSizzle",
     "category": "entertainment",
-    "stars": 70,
+    "stars": 71,
     "version": "v2.1",
-    "updated_at": "2026-05-17T16:39:55Z",
+    "updated_at": "2026-05-19T04:02:23Z",
     "logo": "https://raw.githubusercontent.com/SodaSizzle/astrbot_plugin_meme_generator/master/logo.png"
   },
   "astrbot_plugin_baiduocr": {
@@ -15351,9 +15351,9 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "category": "entertainment",
-    "stars": 108,
+    "stars": 109,
     "version": "v3.0.3",
-    "updated_at": "2026-05-16T07:51:01Z",
+    "updated_at": "2026-05-19T05:08:08Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
