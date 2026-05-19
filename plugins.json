@@ -1,4 +1,17 @@
 {
+  "telethon-bot-adapter": {
+    "display_name": "Telegram Bot Adapter",
+    "desc": "Telethon-based Telegram Bot adapter / 基于 Telethon 的 Telegram Bot 适配器",
+    "author": "outlook84",
+    "repo": "https://github.com/outlook84/astrbot_plugin_telethon_bot_adapter",
+    "tags": [
+      "telegram",
+      "telethon",
+      "adapter",
+      "bot"
+    ],
+    "social_link": ""
+  },
   "astrbot-plugin-subagent-worktogether": {
     "display_name": "更好的Agent间通信",
     "desc": "能够支持子Agent之间直接通信，可以控制互相通信的深度和次数，可以输出Agent互相通信的完整链路",
