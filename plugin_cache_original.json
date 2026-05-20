@@ -2659,7 +2659,7 @@
     "repo": "https://github.com/674537331/astrbot_plugin_mihome",
     "category": "integrations",
     "tags": [],
-    "stars": 27,
+    "stars": 28,
     "version": "v7.2.1",
     "astrbot_version": ">=4.0.0",
     "support_platforms": [
@@ -2667,7 +2667,7 @@
       "qq_official",
       "gewechat"
     ],
-    "updated_at": "2026-05-18T09:34:26Z",
+    "updated_at": "2026-05-20T00:00:28Z",
     "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_mihome/main/logo.png"
   },
   "astrbot-plugin-nai-brush": {
