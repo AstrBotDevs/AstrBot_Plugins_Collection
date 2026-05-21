@@ -8,13 +8,13 @@
       "QQ空间"
     ],
     "social_link": "",
-    "stars": 5,
+    "stars": 6,
     "version": "0.2.0",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-20T15:08:23Z",
+    "updated_at": "2026-05-21T07:51:19Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_qzone_ultra/main/logo.png"
   },
   "telethon-bot-adapter": {
@@ -273,9 +273,9 @@
     "social_link": "https://github.com/Ayleovelle",
     "tags": [],
     "stars": 10,
-    "version": "3.0.6",
+    "version": "3.0.9",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-05-20T21:15:55Z",
+    "updated_at": "2026-05-21T07:22:50Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -559,9 +559,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 102,
+    "stars": 103,
     "version": "3.1.1",
-    "updated_at": "2026-05-19T14:40:42Z",
+    "updated_at": "2026-05-21T04:28:00Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -1246,7 +1246,7 @@
       "查询工具",
       "彩虹六号"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.0",
     "astrbot_version": ">=4.0.0",
     "support_platforms": [
@@ -1254,7 +1254,7 @@
       "qq_official",
       "telegram"
     ],
-    "updated_at": "2026-03-30T00:57:16Z",
+    "updated_at": "2026-05-21T04:28:50Z",
     "logo": "https://raw.githubusercontent.com/Diekeng/astrbot_plugin_r6states/master/logo.png"
   },
   "astrbot-plugin-HonorOfKings": {
@@ -3148,9 +3148,9 @@
     ],
     "social_link": "https://github.com/menglimi",
     "category": "ai_tools",
-    "stars": 43,
+    "stars": 44,
     "version": "3.0.0",
-    "updated_at": "2026-05-19T07:48:32Z",
+    "updated_at": "2026-05-21T06:39:20Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -6004,9 +6004,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 303,
+    "stars": 304,
     "version": "Next-2.1.0",
-    "updated_at": "2026-05-21T00:11:15Z",
+    "updated_at": "2026-05-21T07:32:11Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -6095,13 +6095,13 @@
     "social_link": "https://github.com/Clhikari",
     "category": "productivity",
     "stars": 33,
-    "version": "v1.8.0",
+    "version": "v1.9.0-beta",
     "support_platforms": [
       "aiocqhttp",
       "telegram",
       "discord"
     ],
-    "updated_at": "2026-05-20T00:28:46Z",
+    "updated_at": "2026-05-21T07:55:16Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -7547,13 +7547,13 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
-    "stars": 74,
+    "stars": 75,
     "version": "v4.3.0",
     "astrbot_version": ">=4.16.0,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-16T06:07:37Z",
+    "updated_at": "2026-05-21T04:55:09Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -8504,9 +8504,9 @@
       "推特"
     ],
     "category": "utilities",
-    "stars": 45,
+    "stars": 46,
     "version": "v6.1.2",
-    "updated_at": "2026-05-21T03:00:18Z",
+    "updated_at": "2026-05-21T07:40:53Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -16063,9 +16063,9 @@
       "搬史"
     ],
     "category": "utilities",
-    "stars": 565,
+    "stars": 566,
     "version": "v0.916",
-    "updated_at": "2026-05-20T03:43:26Z"
+    "updated_at": "2026-05-21T05:20:31Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
