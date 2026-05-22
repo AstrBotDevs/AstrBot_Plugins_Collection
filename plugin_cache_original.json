@@ -387,7 +387,7 @@
     "tags": [
       "RoboMaster"
     ],
-    "stars": 5,
+    "stars": 6,
     "version": "0.9.0",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
@@ -395,7 +395,7 @@
       "qq_official",
       "lark"
     ],
-    "updated_at": "2026-05-14T21:27:16Z",
+    "updated_at": "2026-05-22T04:37:38Z",
     "logo": "https://raw.githubusercontent.com/CUBOT-robomaster/astrbot_plugin_robomaster_assistant/main/logo.png"
   },
   "astrbot-plugin-api-rate-limiter": {
@@ -584,9 +584,9 @@
     "author": "middcom,dream,deepseek",
     "repo": "https://github.com/middcom/astrbot_plugin_affection",
     "tags": [],
-    "stars": 16,
+    "stars": 17,
     "version": "v1.2",
-    "updated_at": "2026-05-18T06:31:39Z"
+    "updated_at": "2026-05-22T04:40:39Z"
   },
   "astrbot_plugin_media_wiki": {
     "display_name": "MediaWiki 通用查询",
@@ -1781,9 +1781,9 @@
     "repo": "https://github.com/murphys7017/astrbot_plugin_self_open_llm_vtuber",
     "category": "integrations",
     "tags": [],
-    "stars": 7,
+    "stars": 8,
     "version": "1.0.0",
-    "updated_at": "2026-05-11T13:50:46Z",
+    "updated_at": "2026-05-22T03:37:35Z",
     "logo": "https://raw.githubusercontent.com/murphys7017/astrbot_plugin_self_open_llm_vtuber/main/logo.png"
   },
   "astrbot-plugin-daliy": {
@@ -2680,13 +2680,13 @@
       "NovalAI"
     ],
     "category": "ai_tools",
-    "stars": 3,
+    "stars": 4,
     "version": "1.0.0",
     "astrbot_version": ">=4.11,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-10T06:29:52Z"
+    "updated_at": "2026-05-22T04:28:43Z"
   },
   "astrbot-plugin-endfield": {
     "display_name": "终末地协议终端",
@@ -5582,9 +5582,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "integrations",
-    "stars": 14,
+    "stars": 15,
     "version": "1.0.0",
-    "updated_at": "2026-05-18T04:02:48Z"
+    "updated_at": "2026-05-22T03:16:54Z"
   },
   "astrbot_plugin_chatmaster": {
     "display_name": "死了么 | 一款检测群聊活跃度的插件",
@@ -6004,9 +6004,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 304,
+    "stars": 305,
     "version": "3.0.0",
-    "updated_at": "2026-05-21T17:31:59Z",
+    "updated_at": "2026-05-22T02:24:38Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -7891,13 +7891,13 @@
     ],
     "social_link": "https://box.firefly520.top/",
     "category": "ai_tools",
-    "stars": 33,
+    "stars": 34,
     "version": "1.6.3",
     "support_platforms": [
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-05-18T16:51:09Z",
+    "updated_at": "2026-05-22T01:50:54Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/main/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -8964,7 +8964,7 @@
     ],
     "category": "utilities",
     "stars": 18,
-    "version": "2.0.2",
+    "version": "2.0.3",
     "astrbot_version": ">=4.16",
     "support_platforms": [
       "aiocqhttp",
@@ -8972,7 +8972,7 @@
       "discord",
       "lark"
     ],
-    "updated_at": "2026-05-21T10:37:59Z",
+    "updated_at": "2026-05-22T00:20:56Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
@@ -10776,9 +10776,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 193,
+    "stars": 194,
     "version": "2.2.12",
-    "updated_at": "2026-05-21T09:38:40Z",
+    "updated_at": "2026-05-22T03:57:14Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -12406,9 +12406,9 @@
     "repo": "https://github.com/Chris95743/astrbot_plugin_balance",
     "category": "utilities",
     "tags": [],
-    "stars": 15,
+    "stars": 16,
     "version": "v1.5.0",
-    "updated_at": "2026-03-17T16:48:30Z"
+    "updated_at": "2026-05-22T04:57:58Z"
   },
   "astrbot_plugin_mp": {
     "desc": "一个适用于最新版本moviepilot的小工具，支持搜索、订阅、消息转发等功能",
@@ -13240,9 +13240,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 73,
+    "stars": 74,
     "version": "2.2.0",
-    "updated_at": "2026-05-06T14:01:43Z",
+    "updated_at": "2026-05-22T01:53:43Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -16037,9 +16037,9 @@
       "功能"
     ],
     "category": "integrations",
-    "stars": 27,
+    "stars": 28,
     "version": "1.1.0",
-    "updated_at": "2026-05-03T15:54:26Z"
+    "updated_at": "2026-05-22T01:29:26Z"
   },
   "astrbot_plugin_moyuren": {
     "desc": "每天定时推送摸鱼人日历",
