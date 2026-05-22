@@ -8,13 +8,13 @@
       "QQ空间"
     ],
     "social_link": "",
-    "stars": 6,
+    "stars": 7,
     "version": "0.2.0",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-21T22:36:55Z",
+    "updated_at": "2026-05-22T09:51:18Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_qzone_ultra/main/logo.png"
   },
   "telethon-bot-adapter": {
@@ -276,7 +276,7 @@
     "stars": 14,
     "version": "Embodiment-1.1.2",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-05-22T09:24:42Z",
+    "updated_at": "2026-05-22T12:06:20Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -560,9 +560,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 102,
+    "stars": 103,
     "version": "3.1.1",
-    "updated_at": "2026-05-21T11:23:35Z",
+    "updated_at": "2026-05-22T11:44:33Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -6005,9 +6005,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 305,
+    "stars": 306,
     "version": "3.0.0",
-    "updated_at": "2026-05-22T06:36:13Z",
+    "updated_at": "2026-05-22T10:21:08Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -14226,9 +14226,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "entertainment",
-    "stars": 245,
+    "stars": 244,
     "version": "v3.0.3",
-    "updated_at": "2026-05-20T15:08:29Z",
+    "updated_at": "2026-05-22T11:47:27Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -14538,9 +14538,9 @@
       "理财"
     ],
     "category": "utilities",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0",
-    "updated_at": "2026-03-06T23:58:17Z"
+    "updated_at": "2026-05-22T11:51:45Z"
   },
   "astrbot_plugin_gotify": {
     "repo": "https://github.com/BetaCatX/astrbot_plugin_gotify",
