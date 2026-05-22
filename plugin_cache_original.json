@@ -443,9 +443,9 @@
     ],
     "social_link": "",
     "stars": 30,
-    "version": "3.3.12",
+    "version": "3.3.13",
     "astrbot_version": ">=4.16,<5",
-    "updated_at": "2026-05-22T14:27:02Z",
+    "updated_at": "2026-05-22T22:45:24Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
