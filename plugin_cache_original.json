@@ -14,7 +14,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-21T13:37:51Z",
+    "updated_at": "2026-05-21T22:36:55Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_qzone_ultra/main/logo.png"
   },
   "telethon-bot-adapter": {
