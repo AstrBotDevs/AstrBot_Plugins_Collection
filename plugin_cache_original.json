@@ -276,7 +276,7 @@
     "stars": 17,
     "version": "Embodiment-1.1.5",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-05-23T18:08:02Z",
+    "updated_at": "2026-05-23T20:12:28Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -781,9 +781,9 @@
       "推送"
     ],
     "social_link": "https://github.com/FlanChanXwO",
-    "stars": 21,
+    "stars": 22,
     "version": "v2.0.2",
-    "updated_at": "2026-05-23T15:03:03Z",
+    "updated_at": "2026-05-23T20:20:50Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_rsshub/master/logo.png"
   },
   "astrbot_plugin_scriptor": {
@@ -10653,9 +10653,9 @@
       "napcat"
     ],
     "category": "utilities",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.2",
-    "updated_at": "2026-05-07T10:10:25Z"
+    "updated_at": "2026-05-23T20:20:17Z"
   },
   "model_mcp_bridge": {
     "desc": "用于为不支持tool_use的模型提供一个调用MCP的途径的插件。",
@@ -13544,9 +13544,9 @@
       "知识库"
     ],
     "category": "ai_tools",
-    "stars": 91,
+    "stars": 92,
     "version": "v0.5.9",
-    "updated_at": "2026-05-05T17:01:11Z"
+    "updated_at": "2026-05-23T20:20:00Z"
   },
   "astrbot_uptime_kuma_webhook_plugin": {
     "author": "RC-CHN",
@@ -13927,9 +13927,9 @@
       "主动回复"
     ],
     "category": "utilities",
-    "stars": 18,
+    "stars": 19,
     "version": "v1.3",
-    "updated_at": "2026-05-21T10:47:38Z"
+    "updated_at": "2026-05-23T20:15:51Z"
   },
   "astrbot_plugin_broadcast": {
     "display_name": "广播助手",
