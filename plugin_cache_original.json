@@ -9,12 +9,12 @@
     ],
     "social_link": "",
     "stars": 8,
-    "version": "0.4",
+    "version": "0.4.2",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-23T04:22:13Z",
+    "updated_at": "2026-05-23T06:28:42Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_qzone_ultra/main/logo.png"
   },
   "telethon-bot-adapter": {
@@ -246,8 +246,8 @@
       "milvus"
     ],
     "stars": 6,
-    "version": "2.1.1",
-    "updated_at": "2026-05-15T13:49:49Z"
+    "version": "2.1.2",
+    "updated_at": "2026-05-23T05:43:24Z"
   },
   "astrbot_plugin_mcsmanager_function": {
     "display_name": "MCSManager Function",
@@ -273,10 +273,10 @@
     "repo": "https://github.com/Ayleovelle/astrbot_plugin_sylanne",
     "social_link": "https://github.com/Ayleovelle",
     "tags": [],
-    "stars": 17,
+    "stars": 16,
     "version": "Embodiment-1.1.5",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-05-23T03:50:27Z",
+    "updated_at": "2026-05-23T07:10:32Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -374,10 +374,10 @@
       "连通性检测",
       "模型检测"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.4.2",
     "astrbot_version": ">=4.9.2",
-    "updated_at": "2026-05-14T07:24:19Z",
+    "updated_at": "2026-05-23T07:31:04Z",
     "logo": "https://raw.githubusercontent.com/blueraina/astrbot_plugin_model_connectivity/main/logo.png"
   },
   "astrbot-plugin-robomaster-assistant": {
@@ -5001,7 +5001,7 @@
     "category": "entertainment",
     "stars": 4,
     "version": "v0.3.0",
-    "updated_at": "2026-05-10T17:14:36Z"
+    "updated_at": "2026-05-23T04:55:42Z"
   },
   "astrbot_plugin_odoo": {
     "display_name": "AstrBot Odoo 连接器",
@@ -6801,9 +6801,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "utilities",
-    "stars": 75,
+    "stars": 76,
     "version": "1.1.5",
-    "updated_at": "2026-05-18T16:44:36Z",
+    "updated_at": "2026-05-23T07:09:09Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
@@ -8966,7 +8966,7 @@
     ],
     "category": "utilities",
     "stars": 18,
-    "version": "2.0.3",
+    "version": "2.0.4",
     "astrbot_version": ">=4.16",
     "support_platforms": [
       "aiocqhttp",
@@ -8974,7 +8974,7 @@
       "discord",
       "lark"
     ],
-    "updated_at": "2026-05-22T14:23:50Z",
+    "updated_at": "2026-05-23T07:25:16Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
@@ -10235,8 +10235,8 @@
     ],
     "category": "entertainment",
     "stars": 13,
-    "version": "v2.2.0",
-    "updated_at": "2026-05-09T16:41:42Z"
+    "version": "v2.2.4",
+    "updated_at": "2026-05-23T07:24:04Z"
   },
   "astrbot_plugin_xiuxian": {
     "desc": "基于astrbot框架的文字修仙游戏",
@@ -10826,12 +10826,12 @@
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
     "stars": 17,
-    "version": "v2.1.0",
+    "version": "v2.1.3",
     "astrbot_version": ">=4.20,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-13T11:47:42Z",
+    "updated_at": "2026-05-23T07:21:20Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_recall_cancel/main/logo.png"
   },
   "astrbot_plugin_multimsg": {
@@ -11166,8 +11166,8 @@
     ],
     "category": "entertainment",
     "stars": 12,
-    "version": "v1.0.4",
-    "updated_at": "2026-05-18T04:12:12Z"
+    "version": "v1.0.5",
+    "updated_at": "2026-05-23T05:58:39Z"
   },
   "astrbot_plugin_figurine_workshop": {
     "desc": "基于gemini生图的手办化,不再需要本地部署。",
@@ -13340,9 +13340,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 162,
+    "stars": 163,
     "version": "v2.1.0",
-    "updated_at": "2026-05-22T08:44:55Z",
+    "updated_at": "2026-05-23T06:45:18Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
