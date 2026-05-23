@@ -8,13 +8,13 @@
       "QQ空间"
     ],
     "social_link": "",
-    "stars": 9,
+    "stars": 10,
     "version": "0.4.2",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-23T08:03:13Z",
+    "updated_at": "2026-05-23T17:18:28Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_qzone_ultra/main/logo.png"
   },
   "telethon-bot-adapter": {
@@ -276,7 +276,7 @@
     "stars": 17,
     "version": "Embodiment-1.1.5",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-05-23T16:59:38Z",
+    "updated_at": "2026-05-23T18:08:02Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -562,8 +562,8 @@
     "tags": [],
     "social_link": "",
     "stars": 103,
-    "version": "3.1.1",
-    "updated_at": "2026-05-23T16:09:41Z",
+    "version": "3.2.0",
+    "updated_at": "2026-05-23T18:24:07Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -5184,9 +5184,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
-    "stars": 39,
+    "stars": 40,
     "version": "v2.2.5",
-    "updated_at": "2026-05-14T03:28:06Z",
+    "updated_at": "2026-05-23T18:32:53Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_worldbook/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -5231,7 +5231,7 @@
       "aiocqhttp",
       "weixin_oc"
     ],
-    "updated_at": "2026-05-23T16:44:29Z",
+    "updated_at": "2026-05-23T17:23:07Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -5628,9 +5628,9 @@
     ],
     "social_link": "https://github.com/DITF16",
     "category": "ai_tools",
-    "stars": 65,
+    "stars": 66,
     "version": "1.1.1",
-    "updated_at": "2026-05-15T07:34:55Z",
+    "updated_at": "2026-05-23T17:15:56Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_groupGuard": {
@@ -7273,9 +7273,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 118,
+    "stars": 119,
     "version": "v1.5.1",
-    "updated_at": "2026-05-21T11:32:34Z",
+    "updated_at": "2026-05-23T17:43:40Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -7674,9 +7674,9 @@
       "comfyui"
     ],
     "category": "ai_tools",
-    "stars": 10,
+    "stars": 11,
     "version": "2.3",
-    "updated_at": "2026-05-17T04:00:36Z"
+    "updated_at": "2026-05-23T17:12:31Z"
   },
   "astrbot_plugin_customized_active_reply_prompt": {
     "display_name": "自定义主动回复提示词",
@@ -15000,12 +15000,12 @@
       "QQ群管"
     ],
     "category": "utilities",
-    "stars": 143,
+    "stars": 144,
     "version": "v3.2.7",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-20T04:52:21Z",
+    "updated_at": "2026-05-23T17:41:03Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -16720,9 +16720,9 @@
     "repo": "https://github.com/zouyonghe/astrbot_plugin_web_searcher_pro",
     "category": "integrations",
     "tags": [],
-    "stars": 17,
+    "stars": 18,
     "version": "v1.1.4",
-    "updated_at": "2026-05-17T03:02:47Z"
+    "updated_at": "2026-05-23T18:11:13Z"
   },
   "astrbot_plugin_memeify": {
     "desc": "一个AstrBot的插件，用于LLM回复表情包的实现",
