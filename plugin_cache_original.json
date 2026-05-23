@@ -8,13 +8,13 @@
       "QQ空间"
     ],
     "social_link": "",
-    "stars": 7,
-    "version": "0.3.0",
+    "stars": 8,
+    "version": "0.4",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-22T23:43:13Z",
+    "updated_at": "2026-05-23T04:22:13Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_qzone_ultra/main/logo.png"
   },
   "telethon-bot-adapter": {
@@ -273,10 +273,10 @@
     "repo": "https://github.com/Ayleovelle/astrbot_plugin_sylanne",
     "social_link": "https://github.com/Ayleovelle",
     "tags": [],
-    "stars": 15,
+    "stars": 17,
     "version": "Embodiment-1.1.5",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-05-22T20:49:54Z",
+    "updated_at": "2026-05-23T03:50:27Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -2701,9 +2701,9 @@
       "数据查询"
     ],
     "category": "entertainment",
-    "stars": 54,
+    "stars": 55,
     "version": "2.9.0",
-    "updated_at": "2026-05-21T15:24:14Z",
+    "updated_at": "2026-05-23T00:22:42Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -3151,8 +3151,8 @@
     "social_link": "https://github.com/menglimi",
     "category": "ai_tools",
     "stars": 44,
-    "version": "3.0.0",
-    "updated_at": "2026-05-21T06:39:20Z",
+    "version": "3.1.0",
+    "updated_at": "2026-05-23T03:38:50Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -3603,7 +3603,7 @@
     "category": "entertainment",
     "stars": 4,
     "version": "v1.0",
-    "updated_at": "2026-03-07T10:08:41Z"
+    "updated_at": "2026-05-23T03:32:12Z"
   },
   "astrbot-plugin-sentinel": {
     "display_name": "QQ 群哨兵",
@@ -5897,14 +5897,14 @@
     ],
     "social_link": "https://github.com/VanillaNahida/",
     "category": "utilities",
-    "stars": 28,
+    "stars": 29,
     "version": "v1.2.8",
     "astrbot_version": ">=4.10.6,<5",
     "support_platforms": [
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-05-20T14:40:14Z",
+    "updated_at": "2026-05-23T03:07:55Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_geetest_verify/master/logo.png"
   },
   "astrbot_plugin_cliproxy_stats": {
@@ -6513,7 +6513,7 @@
     "tags": [],
     "stars": 8,
     "version": "1.0.1",
-    "updated_at": "2026-05-16T06:27:14Z",
+    "updated_at": "2026-05-23T04:22:56Z",
     "logo": "https://raw.githubusercontent.com/204343414/astrbot_plugin_yt-dlp/master/logo.png"
   },
   "astrbot_plugin_yotts": {
@@ -7518,9 +7518,9 @@
       "优化"
     ],
     "category": "utilities",
-    "stars": 2,
+    "stars": 3,
     "version": "0.6.1",
-    "updated_at": "2026-05-02T14:54:03Z"
+    "updated_at": "2026-05-23T00:45:58Z"
   },
   "astrbot_plugin_imgtool": {
     "display_name": "astrbot_plugin_imgtool",
@@ -10778,9 +10778,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 196,
+    "stars": 197,
     "version": "2.2.12",
-    "updated_at": "2026-05-22T17:18:38Z",
+    "updated_at": "2026-05-23T02:38:10Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -12438,9 +12438,9 @@
     ],
     "social_link": "https://blog.jojo.host/",
     "category": "utilities",
-    "stars": 8,
+    "stars": 9,
     "version": "v0.0.6",
-    "updated_at": "2026-03-11T04:15:23Z"
+    "updated_at": "2026-05-23T01:51:54Z"
   },
   "astrbot_plugin_ip_proxy": {
     "desc": "一个将HTTP代理API转换为本地代理的AstrBot插件",
@@ -15619,9 +15619,9 @@
       "消息推送"
     ],
     "category": "integrations",
-    "stars": 15,
+    "stars": 14,
     "version": "v0.2.2",
-    "updated_at": "2026-04-28T03:31:58Z"
+    "updated_at": "2026-05-23T02:06:29Z"
   },
   "astrbot_plugin_hello77": {
     "author": "hello七七",
