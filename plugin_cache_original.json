@@ -9258,7 +9258,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 258,
+    "stars": 259,
     "version": "v1.2.3",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -9270,7 +9270,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-05-23T07:50:59Z",
+    "updated_at": "2026-05-23T22:53:53Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
