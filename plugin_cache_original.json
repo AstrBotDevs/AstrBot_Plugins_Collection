@@ -443,9 +443,9 @@
     ],
     "social_link": "",
     "stars": 30,
-    "version": "3.3.13",
+    "version": "3.3.16",
     "astrbot_version": ">=4.16,<5",
-    "updated_at": "2026-05-22T22:45:24Z",
+    "updated_at": "2026-05-23T10:37:24Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -4768,9 +4768,9 @@
     ],
     "social_link": "https://meilunova.pages.dev/",
     "category": "integrations",
-    "stars": 22,
+    "stars": 23,
     "version": "0.7.0",
-    "updated_at": "2026-05-15T14:18:35Z",
+    "updated_at": "2026-05-23T10:28:28Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -5570,8 +5570,8 @@
     ],
     "category": "ai_tools",
     "stars": 10,
-    "version": "1.6.9",
-    "updated_at": "2026-04-15T16:55:35Z"
+    "version": "1.7.6",
+    "updated_at": "2026-05-23T10:26:16Z"
   },
   "astrbot_plugin_mc_manager": {
     "display_name": "astrbot_plugin_mc_manager",
@@ -10931,9 +10931,9 @@
     ],
     "social_link": "blog.isla.ltd",
     "category": "integrations",
-    "stars": 26,
+    "stars": 27,
     "version": "1.2.0",
-    "updated_at": "2026-05-13T23:25:29Z"
+    "updated_at": "2026-05-23T10:41:20Z"
   },
   "astrbot_plugin_AnimeMagnet": {
     "desc": "这是一个动漫磁链查询插件，可以获取动漫磁链",
@@ -11789,9 +11789,9 @@
       "海龟汤"
     ],
     "category": "entertainment",
-    "stars": 24,
+    "stars": 25,
     "version": "v1.0.3",
-    "updated_at": "2026-05-21T03:06:12Z"
+    "updated_at": "2026-05-23T10:27:30Z"
   },
   "astrbot_plugin_typst_render": {
     "name": "astrbot_plugin_typst_render",
