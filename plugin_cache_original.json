@@ -46,9 +46,9 @@
       "Agent",
       "SubAgent"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.1.0",
-    "updated_at": "2026-05-21T14:19:12Z"
+    "updated_at": "2026-05-23T16:05:23Z"
   },
   "astrbot-plugin-qcm": {
     "display_name": "QQ Connect Minecraft 群服互联",
@@ -95,9 +95,9 @@
       "archive"
     ],
     "social_link": "https://github.com/YukiNo420",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.2.1",
-    "updated_at": "2026-05-22T07:22:41Z",
+    "updated_at": "2026-05-23T16:05:53Z",
     "logo": "https://raw.githubusercontent.com/YukiNo420/astrbot_plugin_chat_archive/main/logo.png"
   },
   "astrbot_plugin_agentmemory": {
@@ -110,9 +110,9 @@
       "agentmemory",
       "long-term-memory"
     ],
-    "stars": 3,
+    "stars": 4,
     "version": "0.1.0",
-    "updated_at": "2026-05-18T23:29:10Z"
+    "updated_at": "2026-05-23T16:06:52Z"
   },
   "astrbot_plugin_kimi_web_search": {
     "display_name": "Kimi 联网搜索（WebSearch）",
@@ -170,10 +170,10 @@
       "FAISS"
     ],
     "social_link": "https://github.com/x1051445024",
-    "stars": 6,
-    "version": "0.9.0",
+    "stars": 7,
+    "version": "0.9.1",
     "astrbot_version": ">=4.5,<5",
-    "updated_at": "2026-05-20T04:09:54Z"
+    "updated_at": "2026-05-23T16:23:34Z"
   },
   "astrbot_plugin_wave_memory": {
     "display_name": "Wave Memory",
@@ -230,10 +230,10 @@
     "author": "neo",
     "repo": "https://github.com/Neo-tang283/astrbot_plugin_mail",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
     "astrbot_version": ">=4.10.4",
-    "updated_at": "2026-05-07T03:13:30Z",
+    "updated_at": "2026-05-23T15:46:41Z",
     "logo": "https://raw.githubusercontent.com/Neo-tang283/astrbot_plugin_mail/main/logo.png"
   },
   "astrbot_plugin_paperrag": {
@@ -273,10 +273,10 @@
     "repo": "https://github.com/Ayleovelle/astrbot_plugin_sylanne",
     "social_link": "https://github.com/Ayleovelle",
     "tags": [],
-    "stars": 16,
+    "stars": 17,
     "version": "Embodiment-1.1.5",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-05-23T07:10:32Z",
+    "updated_at": "2026-05-23T16:59:38Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -324,9 +324,9 @@
     "repo": "https://github.com/fxquarter/astrbot_plugin_fund#",
     "social_link": "https://github.com/fxquarter",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "1.0.0",
-    "updated_at": "2026-05-21T15:47:18Z"
+    "updated_at": "2026-05-23T16:10:50Z"
   },
   "astrbot_plugin_life_assistant": {
     "display_name": "生活助手",
@@ -563,7 +563,7 @@
     "social_link": "",
     "stars": 103,
     "version": "3.1.1",
-    "updated_at": "2026-05-22T11:44:33Z",
+    "updated_at": "2026-05-23T16:09:41Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -576,9 +576,9 @@
       "查成分"
     ],
     "social_link": "https://github.com/largefox/",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.1",
-    "updated_at": "2026-05-11T18:15:46Z"
+    "updated_at": "2026-05-23T15:32:44Z"
   },
   "astrbot_plugin_affection": {
     "display_name": "情绪管理",
@@ -782,8 +782,8 @@
     ],
     "social_link": "https://github.com/FlanChanXwO",
     "stars": 21,
-    "version": "v2.0.1",
-    "updated_at": "2026-05-22T19:04:53Z",
+    "version": "v2.0.2",
+    "updated_at": "2026-05-23T15:03:03Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_rsshub/master/logo.png"
   },
   "astrbot_plugin_scriptor": {
@@ -953,8 +953,8 @@
       "金融"
     ],
     "social_link": "https://github.com/Interstellar1217",
-    "stars": 6,
-    "updated_at": "2026-05-21T09:08:37Z"
+    "stars": 7,
+    "updated_at": "2026-05-23T16:13:23Z"
   },
   "astrbot-plugin-anime1-list": {
     "display_name": "anime1动画追番",
@@ -1050,10 +1050,10 @@
       "QQ"
     ],
     "social_link": "https://github.com/Ryan7t",
-    "stars": 4,
+    "stars": 5,
     "version": "v0.1.0",
     "astrbot_version": ">=4.22.0",
-    "updated_at": "2026-04-28T03:35:05Z"
+    "updated_at": "2026-05-23T15:35:17Z"
   },
   "astrbot-plugin-lark-access-control": {
     "display_name": "飞书权限控制",
@@ -3601,9 +3601,9 @@
     ],
     "social_link": "https://github.com/Eager2024",
     "category": "entertainment",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0",
-    "updated_at": "2026-05-23T03:32:12Z"
+    "updated_at": "2026-05-23T15:22:32Z"
   },
   "astrbot-plugin-sentinel": {
     "display_name": "QQ 群哨兵",
@@ -4138,8 +4138,8 @@
     "pinned": true,
     "category": "integrations",
     "stars": 152,
-    "version": "v2.1.3",
-    "updated_at": "2026-05-22T07:53:37Z",
+    "version": "v2.1.4",
+    "updated_at": "2026-05-23T16:31:11Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -5226,11 +5226,12 @@
     "social_link": "https://github.com/siciyuanweilai",
     "category": "entertainment",
     "stars": 35,
-    "version": "5.2.0",
+    "version": "5.2.1",
     "support_platforms": [
-      "aiocqhttp"
+      "aiocqhttp",
+      "weixin_oc"
     ],
-    "updated_at": "2026-05-20T06:36:26Z",
+    "updated_at": "2026-05-23T16:44:29Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -5881,7 +5882,7 @@
     "stars": 12,
     "version": "v1.1.4",
     "astrbot_version": ">=4.10.4",
-    "updated_at": "2026-05-23T13:21:36Z",
+    "updated_at": "2026-05-23T15:27:09Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_image_generation/master/logo.png"
   },
   "astrbot_plugin_group_geetest_verfy": {
@@ -10319,9 +10320,9 @@
     "repo": "https://github.com/EraAsh/astrbot_plugin_admin_emoji_reply",
     "category": "utilities",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.7.0",
-    "updated_at": "2026-04-03T09:32:49Z"
+    "updated_at": "2026-05-23T15:41:39Z"
   },
   "astrbot_plugin_dpcq_game": {
     "desc": "一个文字修仙游戏，基于经典小说《斗破苍穹》设定，包含境界突破、炼丹系统、副本挑战等丰富玩法",
@@ -10778,9 +10779,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 197,
+    "stars": 198,
     "version": "2.2.12",
-    "updated_at": "2026-05-23T02:38:10Z",
+    "updated_at": "2026-05-23T16:07:31Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -12896,9 +12897,9 @@
     ],
     "social_link": "https://github.com/oyxning",
     "category": "ai_tools",
-    "stars": 67,
+    "stars": 68,
     "version": "v3.5.1",
-    "updated_at": "2026-05-21T00:05:23Z",
+    "updated_at": "2026-05-23T16:55:03Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_antipromptinjector/master/logo.png"
   },
   "astrbot_plugin_alistfile": {
