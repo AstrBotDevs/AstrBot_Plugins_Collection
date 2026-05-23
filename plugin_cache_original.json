@@ -445,7 +445,7 @@
     "stars": 30,
     "version": "3.3.16",
     "astrbot_version": ">=4.16,<5",
-    "updated_at": "2026-05-23T10:37:24Z",
+    "updated_at": "2026-05-23T14:54:53Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -4854,9 +4854,9 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "category": "entertainment",
-    "stars": 24,
+    "stars": 25,
     "version": "v3.1.9",
-    "updated_at": "2026-05-16T07:42:54Z",
+    "updated_at": "2026-05-23T14:49:38Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
@@ -5478,8 +5478,8 @@
     "social_link": "https://qwq.pyuramazo.online",
     "category": "entertainment",
     "stars": 26,
-    "version": "v1.12.1",
-    "updated_at": "2026-05-23T12:27:43Z",
+    "version": "v1.12.2",
+    "updated_at": "2026-05-23T13:40:24Z",
     "logo": "https://raw.githubusercontent.com/PyuraMazo/astrbot_plugin_galgame_box/master/logo.png"
   },
   "astrbot_plugin_anitabi": {
@@ -8966,7 +8966,7 @@
     ],
     "category": "utilities",
     "stars": 18,
-    "version": "2.0.5",
+    "version": "2.0.6",
     "astrbot_version": ">=4.16",
     "support_platforms": [
       "aiocqhttp",
@@ -8974,7 +8974,7 @@
       "discord",
       "lark"
     ],
-    "updated_at": "2026-05-23T08:55:50Z",
+    "updated_at": "2026-05-23T14:45:07Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
@@ -16457,9 +16457,9 @@
     "repo": "https://github.com/Last-emo-boy/astrbot_plugin_cr4zyThursday",
     "category": "entertainment",
     "tags": [],
-    "stars": 7,
+    "stars": 8,
     "version": "v1.3",
-    "updated_at": "2026-05-02T12:28:16Z",
+    "updated_at": "2026-05-23T14:43:11Z",
     "logo": "https://raw.githubusercontent.com/Last-emo-boy/astrbot_plugin_cr4zyThursday/master/logo.png"
   },
   "astrbot_plugin_buckshot_roulette": {
