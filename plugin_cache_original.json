@@ -96,8 +96,8 @@
     ],
     "social_link": "https://github.com/YukiNo420",
     "stars": 3,
-    "version": "v1.2.1",
-    "updated_at": "2026-05-23T16:05:53Z",
+    "version": "v1.2.2",
+    "updated_at": "2026-05-23T23:58:40Z",
     "logo": "https://raw.githubusercontent.com/YukiNo420/astrbot_plugin_chat_archive/main/logo.png"
   },
   "astrbot_plugin_agentmemory": {
@@ -6008,8 +6008,8 @@
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
     "stars": 306,
-    "version": "3.0.0",
-    "updated_at": "2026-05-22T10:21:08Z",
+    "version": "3.0.3",
+    "updated_at": "2026-05-23T23:47:16Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -7382,9 +7382,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "entertainment",
-    "stars": 23,
+    "stars": 24,
     "version": "v2.4.0",
-    "updated_at": "2026-05-20T07:00:03Z",
+    "updated_at": "2026-05-23T23:48:17Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_life_scheduler/main/logo.png"
   },
   "astrbot_plugin_stealer": {
@@ -16111,9 +16111,9 @@
       "图床"
     ],
     "category": "entertainment",
-    "stars": 283,
+    "stars": 284,
     "version": "v3.20",
-    "updated_at": "2026-05-22T08:43:40Z"
+    "updated_at": "2026-05-23T23:22:02Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
