@@ -1,4 +1,39 @@
 {
+  "astrbot_plugin_openviking_memory": {
+    "display_name": "OpenViking Memory",
+    "desc": "集成 OpenViking 长期记忆能力。支持自动捕获对话、语义召回，以及跨对话空间记忆，且隔离规则可自定义配置。",
+    "author": "tosaki",
+    "repo": "https://github.com/t0saki/astrbot_plugin_openviking_memory",
+    "tags": [
+      "agent memory",
+      "记忆",
+      "知识图谱"
+    ],
+    "social_link": "t0saki.com"
+  },
+  "astrbot_plugin_opencode_tool": {
+    "display_name": "OpenCode",
+    "desc": "集成 OpenCode",
+    "author": "苍岛",
+    "repo": "https://github.com/cang-dot/astrbot_plugin_opencode_tool",
+    "tags": [
+      "编程",
+      "OpenCode"
+    ]
+  },
+  "astrbot_plugin_whatsapp_adapter": {
+    "display_name": "WhatsApp",
+    "desc": "AstrBot WhatsApp 适配器",
+    "author": "casama233",
+    "repo": "https://github.com/casama233/astrbot_plugin_whatsapp_adapter",
+    "tags": [
+      "whatsapp",
+      "平台",
+      "适配器",
+      "消息"
+    ],
+    "social_link": "https://github.com/casama233"
+  },
   "astrbot-plugin-qzone-ultra": {
     "display_name": "QQ空间Ultra",
     "desc": "QQ空间Ultra，更稳定的QQ空间插件，支持自动绑定QQ空间，采用独立进程：占用极低、稳定性极高，支持看/评/赞/发/写/删说说、回评、投稿审核、自动发评和 LLM tools。",
@@ -6,8 +41,7 @@
     "repo": "https://github.com/diaomin66/astrbot_plugin_qzone_ultra",
     "tags": [
       "QQ空间"
-    ],
-    "social_link": ""
+    ]
   },
   "telethon-bot-adapter": {
     "display_name": "Telegram Bot Adapter",
@@ -19,8 +53,7 @@
       "telethon",
       "adapter",
       "bot"
-    ],
-    "social_link": ""
+    ]
   },
   "astrbot-plugin-subagent-worktogether": {
     "display_name": "更好的Agent间通信",
