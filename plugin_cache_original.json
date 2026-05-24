@@ -146,9 +146,9 @@
       "archive"
     ],
     "social_link": "https://github.com/YukiNo420",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.3.0",
-    "updated_at": "2026-05-24T11:28:43Z",
+    "updated_at": "2026-05-24T17:29:05Z",
     "logo": "https://raw.githubusercontent.com/YukiNo420/astrbot_plugin_chat_archive/main/logo.png"
   },
   "astrbot_plugin_agentmemory": {
@@ -327,7 +327,7 @@
     "stars": 18,
     "version": "Embodiment-1.1.5",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-05-24T16:53:05Z",
+    "updated_at": "2026-05-24T18:39:23Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -5931,9 +5931,9 @@
     "social_link": "https://www.misakanet.site",
     "category": "ai_tools",
     "stars": 12,
-    "version": "v1.1.5",
+    "version": "v1.1.6",
     "astrbot_version": ">=4.10.4",
-    "updated_at": "2026-05-24T09:07:31Z",
+    "updated_at": "2026-05-24T18:48:14Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_image_generation/master/logo.png"
   },
   "astrbot_plugin_group_geetest_verfy": {
@@ -10663,8 +10663,8 @@
     "category": "entertainment",
     "tags": [],
     "stars": 67,
-    "version": "v2.8.7",
-    "updated_at": "2026-05-22T07:50:57Z"
+    "version": "v2.8.8",
+    "updated_at": "2026-05-24T17:20:13Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -12793,8 +12793,8 @@
     "category": "utilities",
     "tags": [],
     "stars": 8,
-    "version": "v1.7.3",
-    "updated_at": "2026-05-24T12:17:02Z",
+    "version": "v1.7.4",
+    "updated_at": "2026-05-24T18:09:56Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_shutup/master/logo.png"
   },
   "astrbot_plugin_check-dst-room": {
