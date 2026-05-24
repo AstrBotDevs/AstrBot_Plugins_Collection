@@ -13,7 +13,7 @@
     "stars": 2,
     "version": "0.1.0",
     "astrbot_version": ">=4.23.1",
-    "updated_at": "2026-05-24T10:02:06Z",
+    "updated_at": "2026-05-24T11:20:43Z",
     "logo": "https://raw.githubusercontent.com/t0saki/astrbot_plugin_openviking_memory/main/logo.png"
   },
   "astrbot_plugin_opencode_tool": {
@@ -49,7 +49,7 @@
     "support_platforms": [
       "whatsapp"
     ],
-    "updated_at": "2026-05-24T08:20:42Z",
+    "updated_at": "2026-05-24T13:36:12Z",
     "logo": "https://raw.githubusercontent.com/casama233/astrbot_plugin_whatsapp_adapter/main/logo.png"
   },
   "astrbot-plugin-qzone-ultra": {
@@ -97,9 +97,9 @@
       "Agent",
       "SubAgent"
     ],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.1.0",
-    "updated_at": "2026-05-23T16:05:23Z"
+    "updated_at": "2026-05-24T12:12:54Z"
   },
   "astrbot-plugin-qcm": {
     "display_name": "QQ Connect Minecraft 群服互联",
@@ -147,8 +147,8 @@
     ],
     "social_link": "https://github.com/YukiNo420",
     "stars": 3,
-    "version": "v1.2.2",
-    "updated_at": "2026-05-24T00:06:04Z",
+    "version": "v1.3.0",
+    "updated_at": "2026-05-24T11:28:43Z",
     "logo": "https://raw.githubusercontent.com/YukiNo420/astrbot_plugin_chat_archive/main/logo.png"
   },
   "astrbot_plugin_agentmemory": {
@@ -2536,8 +2536,8 @@
     ],
     "category": "entertainment",
     "stars": 10,
-    "version": "v2.3",
-    "updated_at": "2026-04-21T22:27:35Z",
+    "version": "v2.4",
+    "updated_at": "2026-05-24T13:07:39Z",
     "logo": "https://raw.githubusercontent.com/Lidure/astrbot_plugin_airi_voice/master/logo.png"
   },
   "astrbot-plugin-tk-tracker": {
@@ -3481,7 +3481,7 @@
       "telegram",
       "discord"
     ],
-    "updated_at": "2026-05-24T11:12:50Z"
+    "updated_at": "2026-05-24T12:43:49Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -4188,9 +4188,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 152,
+    "stars": 153,
     "version": "v2.1.4",
-    "updated_at": "2026-05-23T16:31:11Z",
+    "updated_at": "2026-05-24T12:22:29Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -5139,9 +5139,9 @@
     ],
     "social_link": "https://github.com/VanillaNahida",
     "category": "utilities",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0.2",
-    "updated_at": "2026-05-17T09:13:37Z",
+    "updated_at": "2026-05-24T11:22:05Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_aip_review/master/logo.png"
   },
   "astrbot_plugin_goons": {
@@ -6060,7 +6060,7 @@
     "category": "ai_tools",
     "stars": 309,
     "version": "3.0.3",
-    "updated_at": "2026-05-24T06:44:41Z",
+    "updated_at": "2026-05-24T12:21:51Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -7509,9 +7509,9 @@
     "social_link": "https://github.com/DBJD-CR",
     "category": "utilities",
     "stars": 65,
-    "version": "v1.4.5",
+    "version": "v1.5.0",
     "astrbot_version": ">=4.11.2",
-    "updated_at": "2026-05-21T03:00:35Z",
+    "updated_at": "2026-05-24T12:28:10Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -8103,9 +8103,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "utilities",
-    "stars": 139,
+    "stars": 140,
     "version": "v2.3.0",
-    "updated_at": "2026-05-22T18:43:14Z",
+    "updated_at": "2026-05-24T12:19:25Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -12793,8 +12793,8 @@
     "category": "utilities",
     "tags": [],
     "stars": 8,
-    "version": "v1.7.2",
-    "updated_at": "2026-05-21T00:04:25Z",
+    "version": "v1.7.3",
+    "updated_at": "2026-05-24T12:17:02Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_shutup/master/logo.png"
   },
   "astrbot_plugin_check-dst-room": {
