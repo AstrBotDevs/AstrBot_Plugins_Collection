@@ -1,4 +1,57 @@
 {
+  "astrbot_plugin_openviking_memory": {
+    "display_name": "OpenViking Memory",
+    "desc": "集成 OpenViking 长期记忆能力。支持自动捕获对话、语义召回，以及跨对话空间记忆，且隔离规则可自定义配置。",
+    "author": "tosaki",
+    "repo": "https://github.com/t0saki/astrbot_plugin_openviking_memory",
+    "tags": [
+      "agent memory",
+      "记忆",
+      "知识图谱"
+    ],
+    "social_link": "t0saki.com",
+    "stars": 1,
+    "version": "0.1.0",
+    "astrbot_version": ">=4.23.1",
+    "updated_at": "2026-05-24T08:42:54Z",
+    "logo": "https://raw.githubusercontent.com/t0saki/astrbot_plugin_openviking_memory/main/logo.png"
+  },
+  "astrbot_plugin_opencode_tool": {
+    "display_name": "OpenCode",
+    "desc": "集成 OpenCode",
+    "author": "苍岛",
+    "repo": "https://github.com/cang-dot/astrbot_plugin_opencode_tool",
+    "tags": [
+      "编程",
+      "OpenCode"
+    ],
+    "stars": 0,
+    "version": "1.0.0",
+    "astrbot_version": ">=4.16",
+    "updated_at": "2026-05-24T07:37:56Z",
+    "logo": "https://raw.githubusercontent.com/cang-dot/astrbot_plugin_opencode_tool/main/logo.png"
+  },
+  "astrbot_plugin_whatsapp_adapter": {
+    "display_name": "WhatsApp",
+    "desc": "AstrBot WhatsApp 适配器",
+    "author": "casama233",
+    "repo": "https://github.com/casama233/astrbot_plugin_whatsapp_adapter",
+    "tags": [
+      "whatsapp",
+      "平台",
+      "适配器",
+      "消息"
+    ],
+    "social_link": "https://github.com/casama233",
+    "stars": 0,
+    "version": "0.2.6",
+    "astrbot_version": ">=4.13.0",
+    "support_platforms": [
+      "whatsapp"
+    ],
+    "updated_at": "2026-05-24T08:20:42Z",
+    "logo": "https://raw.githubusercontent.com/casama233/astrbot_plugin_whatsapp_adapter/main/logo.png"
+  },
   "astrbot-plugin-qzone-ultra": {
     "display_name": "QQ空间Ultra",
     "desc": "QQ空间Ultra，更稳定的QQ空间插件，支持自动绑定QQ空间，采用独立进程：占用极低、稳定性极高，支持看/评/赞/发/写/删说说、回评、投稿审核、自动发评和 LLM tools。",
@@ -7,14 +60,13 @@
     "tags": [
       "QQ空间"
     ],
-    "social_link": "",
-    "stars": 10,
+    "stars": 11,
     "version": "0.4.2",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-23T17:18:28Z",
+    "updated_at": "2026-05-24T08:48:08Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_qzone_ultra/main/logo.png"
   },
   "telethon-bot-adapter": {
@@ -28,7 +80,6 @@
       "adapter",
       "bot"
     ],
-    "social_link": "",
     "stars": 0,
     "version": "0.5.0",
     "support_platforms": [
@@ -247,7 +298,7 @@
     ],
     "stars": 6,
     "version": "2.1.2",
-    "updated_at": "2026-05-23T05:43:24Z"
+    "updated_at": "2026-05-24T08:12:17Z"
   },
   "astrbot_plugin_mcsmanager_function": {
     "display_name": "MCSManager Function",
@@ -1976,13 +2027,13 @@
     ],
     "social_link": "https://github.com/moeneri",
     "category": "utilities",
-    "stars": 2,
+    "stars": 3,
     "version": "1.0.4",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-08T07:57:17Z"
+    "updated_at": "2026-05-24T08:33:55Z"
   },
   "astrbot-plugin-group-mate": {
     "display_name": "星洛智萌_群友眷属",
@@ -3423,14 +3474,14 @@
     ],
     "category": "ai_tools",
     "stars": 45,
-    "version": "v0.3.7",
+    "version": "v0.5.0",
     "astrbot_version": ">=4.16",
     "support_platforms": [
       "aiocqhttp",
       "telegram",
       "discord"
     ],
-    "updated_at": "2026-05-20T14:27:29Z"
+    "updated_at": "2026-05-24T09:39:15Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -5528,9 +5579,9 @@
     "repo": "https://github.com/2529huang/astrbot_plugin_fund_analyzer",
     "category": "productivity",
     "tags": [],
-    "stars": 19,
+    "stars": 20,
     "version": "2.0.0",
-    "updated_at": "2026-05-23T13:10:51Z",
+    "updated_at": "2026-05-24T09:36:44Z",
     "logo": "https://raw.githubusercontent.com/2529huang/astrbot_plugin_fund_analyzer/master/logo.png"
   },
   "astrbot_plugin_CNKD_Admin": {
@@ -5880,9 +5931,9 @@
     "social_link": "https://www.misakanet.site",
     "category": "ai_tools",
     "stars": 12,
-    "version": "v1.1.4",
+    "version": "v1.1.5",
     "astrbot_version": ">=4.10.4",
-    "updated_at": "2026-05-23T15:27:09Z",
+    "updated_at": "2026-05-24T09:07:31Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_image_generation/master/logo.png"
   },
   "astrbot_plugin_group_geetest_verfy": {
@@ -6242,9 +6293,9 @@
     "repo": "https://github.com/LMG-arch/astrbot-plugin-realistic-persona.git",
     "category": "ai_tools",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "1.20.3",
-    "updated_at": "2026-05-05T00:57:44Z"
+    "updated_at": "2026-05-24T09:20:04Z"
   },
   "astrbot_plugin_seedream_image": {
     "display_name": "火山方舟生图",
@@ -8358,10 +8409,10 @@
     ],
     "social_link": "https://www.misakanet.site",
     "category": "integrations",
-    "stars": 10,
+    "stars": 11,
     "version": "2.0.2",
     "astrbot_version": ">=4.10.4",
-    "updated_at": "2026-05-05T13:25:32Z",
+    "updated_at": "2026-05-24T08:44:01Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_minecraft_adapter/master/logo.png"
   },
   "astrbot_plugin_temp-email": {
@@ -9915,9 +9966,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "productivity",
-    "stars": 20,
+    "stars": 21,
     "version": "1.1.5",
-    "updated_at": "2026-05-24T07:29:35Z"
+    "updated_at": "2026-05-24T09:27:35Z"
   },
   "bmtxt2img": {
     "desc": "通过/bmimg指令调用智谱文生图模型",
