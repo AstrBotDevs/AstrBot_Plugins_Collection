@@ -10,10 +10,10 @@
       "知识图谱"
     ],
     "social_link": "t0saki.com",
-    "stars": 1,
+    "stars": 2,
     "version": "0.1.0",
     "astrbot_version": ">=4.23.1",
-    "updated_at": "2026-05-24T08:42:54Z",
+    "updated_at": "2026-05-24T10:02:06Z",
     "logo": "https://raw.githubusercontent.com/t0saki/astrbot_plugin_openviking_memory/main/logo.png"
   },
   "astrbot_plugin_opencode_tool": {
@@ -3481,7 +3481,7 @@
       "telegram",
       "discord"
     ],
-    "updated_at": "2026-05-24T09:39:15Z"
+    "updated_at": "2026-05-24T11:12:50Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -8558,9 +8558,9 @@
       "推特"
     ],
     "category": "utilities",
-    "stars": 46,
+    "stars": 47,
     "version": "v6.2.1",
-    "updated_at": "2026-05-22T08:42:27Z",
+    "updated_at": "2026-05-24T11:11:10Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -9282,9 +9282,9 @@
       "实用"
     ],
     "category": "integrations",
-    "stars": 5,
+    "stars": 7,
     "version": "1.2.5",
-    "updated_at": "2026-03-03T06:57:13Z",
+    "updated_at": "2026-05-24T11:07:47Z",
     "logo": "https://raw.githubusercontent.com/1592363624/astrbot_plugin_github_monitor_shell/master/logo.png"
   },
   "astrbot_plugin_ragflow_adapter": {
