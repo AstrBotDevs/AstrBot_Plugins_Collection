@@ -369,7 +369,7 @@
     "stars": 20,
     "version": "Embodiment-1.2.5",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-05-25T17:37:32Z",
+    "updated_at": "2026-05-25T18:02:33Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -1636,7 +1636,7 @@
     ],
     "social_link": "https://github.com/moeneri",
     "stars": 0,
-    "version": "2.2.1",
+    "version": "2.2.2",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp",
@@ -1646,7 +1646,7 @@
       "discord",
       "kook"
     ],
-    "updated_at": "2026-05-13T10:53:50Z",
+    "updated_at": "2026-05-25T18:15:41Z",
     "logo": "https://raw.githubusercontent.com/moeneri/astrbot_plugin_apexrankwatch/main/logo.png"
   },
   "astrbot-plugin-ipcam": {
@@ -2517,9 +2517,9 @@
     ],
     "social_link": "https://github.com/jiantoucn",
     "category": "integrations",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.15.0",
-    "updated_at": "2026-05-11T12:32:10Z",
+    "updated_at": "2026-05-25T17:50:25Z",
     "logo": "https://raw.githubusercontent.com/jiantoucn/astrbot_plugin_weibo_monitor/main/logo.png"
   },
   "astrbot-plugin-content-safety-guard": {
@@ -3527,7 +3527,7 @@
       "telegram",
       "discord"
     ],
-    "updated_at": "2026-05-25T15:52:48Z"
+    "updated_at": "2026-05-25T18:44:58Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
