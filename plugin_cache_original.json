@@ -5891,8 +5891,8 @@
     "social_link": "https://github.com/kennylimz",
     "category": "entertainment",
     "stars": 15,
-    "version": "v2.2.1",
-    "updated_at": "2026-05-13T15:42:56Z",
+    "version": "v2.2.2",
+    "updated_at": "2026-05-25T22:04:14Z",
     "logo": "https://raw.githubusercontent.com/kennylimz/astrbot_plugin_mudae_qq/main/logo.png"
   },
   "BUGJI/astrbot_plugin_balance": {
@@ -8542,9 +8542,9 @@
       "私聊"
     ],
     "category": "ai_tools",
-    "stars": 31,
+    "stars": 32,
     "version": "2.4.0",
-    "updated_at": "2026-05-25T11:17:21Z",
+    "updated_at": "2026-05-25T22:48:47Z",
     "logo": "https://raw.githubusercontent.com/aliveriver/astrbot_plugin_continuous_message/master/logo.png"
   },
   "astrbot_plugin_llm_amnesia": {
