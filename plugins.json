@@ -10,6 +10,20 @@
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project"
   },
+  "astrbot_plugin_tsugu_bangdream": {
+    "display_name": "Tsugu BanGDream Bot",
+    "desc": "移植了tsugu bot的前端功能到astrbot上，基于nonebot-plugin-tsugu-bangdream-bot项目开发",
+    "author": "Ars1027",
+    "repo": "https://github.com/Ars1027/astrbot_plugin_tsugu_bangdream",
+    "tags": [
+      "BanGDream",
+      "邦多利",
+      "邦邦",
+      "Tsugu",
+      "茨菇"
+    ],
+    "social_link": "https://github.com/Ars1027"
+  },
   "astrbot_plugin_openviking_memory": {
     "display_name": "OpenViking Memory",
     "desc": "集成 OpenViking 长期记忆能力。支持自动捕获对话、语义召回，以及跨对话空间记忆，且隔离规则可自定义配置。",
