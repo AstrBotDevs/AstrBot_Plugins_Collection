@@ -1,4 +1,15 @@
 {
+  "astrbot_plugin_video_reference_vision": {
+    "display_name": "引用视频理解",
+    "desc": "解析消息所引用的视频。支持视频回查、转述与抽帧。",
+    "author": " C₂₂H₂₅NO₆",
+    "repo": "https://github.com/Sisyphbaous-DT-Project/astrbot-plugin-video-reference-vision",
+    "tags": [
+      "视频理解",
+      "全模态"
+    ],
+    "social_link": "https://github.com/Sisyphbaous-DT-Project"
+  },
   "astrbot_plugin_openviking_memory": {
     "display_name": "OpenViking Memory",
     "desc": "集成 OpenViking 长期记忆能力。支持自动捕获对话、语义召回，以及跨对话空间记忆，且隔离规则可自定义配置。",
