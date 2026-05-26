@@ -5977,9 +5977,9 @@
     "social_link": "https://www.misakanet.site",
     "category": "ai_tools",
     "stars": 14,
-    "version": "v1.2.0",
+    "version": "v1.2.1",
     "astrbot_version": ">=4.10.4",
-    "updated_at": "2026-05-26T18:21:39Z",
+    "updated_at": "2026-05-26T19:33:55Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_image_generation/master/logo.png"
   },
   "astrbot_plugin_group_geetest_verfy": {
@@ -7044,9 +7044,9 @@
       "v1.0.0"
     ],
     "category": "ai_tools",
-    "stars": 7,
+    "stars": 6,
     "version": "v1.4.0",
-    "updated_at": "2026-04-29T09:01:43Z"
+    "updated_at": "2026-05-26T19:57:43Z"
   },
   "astrbot_plugin_web_analysis": {
     "display_name": "网页解析",
@@ -13771,9 +13771,9 @@
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
     "tags": [],
-    "stars": 51,
+    "stars": 50,
     "version": "v1.3.0",
-    "updated_at": "2026-05-24T04:34:12Z",
+    "updated_at": "2026-05-26T19:57:43Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_search_video/main/logo.png"
   },
   "astrbot_plugin_zt": {
@@ -15314,9 +15314,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
     "category": "integrations",
-    "stars": 84,
+    "stars": 83,
     "version": "v3.1.0",
-    "updated_at": "2026-05-26T02:28:18Z",
+    "updated_at": "2026-05-26T19:57:43Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
@@ -16215,8 +16215,8 @@
     ],
     "category": "entertainment",
     "stars": 294,
-    "version": "v3.20",
-    "updated_at": "2026-05-26T15:34:32Z"
+    "version": "v3.21",
+    "updated_at": "2026-05-26T20:18:54Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
@@ -16464,7 +16464,7 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "category": "integrations",
     "tags": [],
-    "stars": 70,
+    "stars": 71,
     "version": "v1.6.1",
     "astrbot_version": ">=4.5.2",
     "support_platforms": [
@@ -16472,7 +16472,7 @@
       "telegram",
       "weixin_oc"
     ],
-    "updated_at": "2026-05-25T08:26:27Z",
+    "updated_at": "2026-05-26T18:53:54Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
