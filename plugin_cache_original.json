@@ -86,12 +86,12 @@
     ],
     "social_link": "https://github.com/casama233",
     "stars": 0,
-    "version": "0.2.7",
+    "version": "0.2.8",
     "astrbot_version": ">=4.13.0",
     "support_platforms": [
       "whatsapp"
     ],
-    "updated_at": "2026-05-24T15:14:45Z",
+    "updated_at": "2026-05-27T15:08:27Z",
     "logo": "https://raw.githubusercontent.com/casama233/astrbot_plugin_whatsapp_adapter/main/logo.png"
   },
   "astrbot-plugin-qzone-ultra": {
@@ -366,10 +366,10 @@
     "repo": "https://github.com/Ayleovelle/astrbot_plugin_sylanne",
     "social_link": "https://github.com/Ayleovelle",
     "tags": [],
-    "stars": 26,
+    "stars": 27,
     "version": "Embodiment-1.2.5",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-05-27T12:40:15Z",
+    "updated_at": "2026-05-27T16:01:22Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -1010,11 +1010,11 @@
     ],
     "social_link": "https://github.com/lingyun14beta",
     "stars": 11,
-    "version": "2.2.1",
+    "version": "2.3.1",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-27T00:34:47Z",
+    "updated_at": "2026-05-27T16:06:42Z",
     "logo": "https://raw.githubusercontent.com/lingyun14beta/astrbot_plugin_uapipro_toolbox/main/logo.png"
   },
   "astrbot-plugin-mailer": {
@@ -1993,9 +1993,9 @@
     ],
     "social_link": "https://space.bilibili.com/662600708",
     "category": "integrations",
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.0",
-    "updated_at": "2026-04-20T09:29:27Z",
+    "updated_at": "2026-05-27T14:09:56Z",
     "logo": "https://raw.githubusercontent.com/2350047329f-art/astrbot_plugin_MQTTCloudIoT/master/logo.png"
   },
   "astrbot-plugin-shit-detector-plus": {
@@ -2333,7 +2333,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 357,
+    "stars": 358,
     "version": "v4.10.6",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -2342,7 +2342,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-05-27T07:24:13Z",
+    "updated_at": "2026-05-27T15:11:16Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -3527,7 +3527,7 @@
       "telegram",
       "discord"
     ],
-    "updated_at": "2026-05-26T17:11:03Z"
+    "updated_at": "2026-05-27T16:36:27Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -5323,12 +5323,12 @@
     "social_link": "https://github.com/siciyuanweilai",
     "category": "entertainment",
     "stars": 36,
-    "version": "5.3.1",
+    "version": "5.3.5",
     "support_platforms": [
       "aiocqhttp",
       "weixin_oc"
     ],
-    "updated_at": "2026-05-26T16:08:18Z",
+    "updated_at": "2026-05-27T15:42:44Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -5426,7 +5426,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 357,
+    "stars": 358,
     "version": "v4.10.6",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -5435,7 +5435,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-05-27T07:24:13Z",
+    "updated_at": "2026-05-27T15:11:16Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -6104,9 +6104,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 313,
-    "version": "3.0.11",
-    "updated_at": "2026-05-27T05:49:13Z",
+    "stars": 312,
+    "version": "3.0.12",
+    "updated_at": "2026-05-27T13:46:31Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -6915,9 +6915,9 @@
       "人格"
     ],
     "category": "ai_tools",
-    "stars": 136,
-    "version": "1.3.36",
-    "updated_at": "2026-05-27T07:04:18Z",
+    "stars": 137,
+    "version": "1.3.37",
+    "updated_at": "2026-05-27T15:06:51Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -6932,8 +6932,8 @@
     ],
     "category": "ai_tools",
     "stars": 96,
-    "version": "0.8.32",
-    "updated_at": "2026-05-27T11:32:17Z",
+    "version": "0.8.33",
+    "updated_at": "2026-05-27T13:58:30Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -7993,12 +7993,12 @@
     "social_link": "https://box.firefly520.top/",
     "category": "ai_tools",
     "stars": 34,
-    "version": "1.6.3",
+    "version": "1.6.4",
     "support_platforms": [
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-05-25T07:42:21Z",
+    "updated_at": "2026-05-27T14:56:48Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/main/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -9356,7 +9356,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 271,
+    "stars": 272,
     "version": "v1.2.3",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -9368,7 +9368,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-05-27T07:26:14Z",
+    "updated_at": "2026-05-27T14:46:24Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -10491,8 +10491,8 @@
     ],
     "category": "entertainment",
     "stars": 9,
-    "version": "v1.4",
-    "updated_at": "2026-04-21T06:04:30Z"
+    "version": "v1.5",
+    "updated_at": "2026-05-27T14:18:04Z"
   },
   "astrbot_plugins_steam_shop_price": {
     "desc": "用于查询 Steam 游戏的国区价格、史低信息，并支持与其他区服价格对比。支持识别游戏中文名。",
@@ -10544,9 +10544,9 @@
       "TTS"
     ],
     "category": "ai_tools",
-    "stars": 12,
+    "stars": 13,
     "version": "1.3.7",
-    "updated_at": "2026-05-21T09:57:23Z"
+    "updated_at": "2026-05-27T13:56:30Z"
   },
   "astrbot_plugin_pollinations_images": {
     "desc": "使用 Pollinations AI生成图片。无需注册，开箱即用！",
@@ -11855,7 +11855,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-26T16:26:43Z"
+    "updated_at": "2026-05-27T14:15:15Z"
   },
   "pokemon_fusion": {
     "desc": "宝可梦融合插件，支持指定宝可梦融合和随机融合。",
