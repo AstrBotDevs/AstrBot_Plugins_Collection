@@ -5977,9 +5977,9 @@
     "social_link": "https://www.misakanet.site",
     "category": "ai_tools",
     "stars": 14,
-    "version": "v1.2.2",
+    "version": "v1.2.3",
     "astrbot_version": ">=4.10.4",
-    "updated_at": "2026-05-27T19:02:50Z",
+    "updated_at": "2026-05-27T19:26:02Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_image_generation/master/logo.png"
   },
   "astrbot_plugin_group_geetest_verfy": {
