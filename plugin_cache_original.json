@@ -9,7 +9,7 @@
       "全模态"
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
-    "stars": 2,
+    "stars": 3,
     "version": "v0.122",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -18,7 +18,7 @@
       "discord",
       "slack"
     ],
-    "updated_at": "2026-05-26T10:29:15Z"
+    "updated_at": "2026-05-27T12:52:39Z"
   },
   "astrbot_plugin_tsugu_bangdream": {
     "display_name": "Tsugu BanGDream Bot",
@@ -366,10 +366,10 @@
     "repo": "https://github.com/Ayleovelle/astrbot_plugin_sylanne",
     "social_link": "https://github.com/Ayleovelle",
     "tags": [],
-    "stars": 22,
+    "stars": 26,
     "version": "Embodiment-1.2.5",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-05-26T07:48:22Z",
+    "updated_at": "2026-05-27T12:40:15Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -432,14 +432,14 @@
       "记录"
     ],
     "social_link": "https://github.com/1fan-Song",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.1.0",
     "astrbot_version": ">=4.17.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-05-20T21:11:29Z"
+    "updated_at": "2026-05-27T10:46:30Z"
   },
   "astrbot_plugin_daily_card": {
     "display_name": "每日卡片 (Daily Card)",
@@ -536,7 +536,7 @@
     ],
     "social_link": "",
     "stars": 35,
-    "version": "3.3.16",
+    "version": "3.3.17",
     "astrbot_version": ">=4.16,<5",
     "updated_at": "2026-05-27T05:11:48Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
@@ -626,12 +626,12 @@
       "X",
       "推特"
     ],
-    "stars": 17,
+    "stars": 18,
     "version": "v1.4.1",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-21T11:40:49Z",
+    "updated_at": "2026-05-27T09:54:27Z",
     "logo": "https://raw.githubusercontent.com/Ars1027/astrbot_plugin_twitter/master/logo.png"
   },
   "astrbot_plugin_course": {
@@ -1570,13 +1570,13 @@
       "入群欢迎"
     ],
     "social_link": "https://github.com/oujunhaoyueling",
-    "stars": 2,
+    "stars": 3,
     "version": "2.7.0",
     "astrbot_version": ">=4.16",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-27T02:29:13Z"
+    "updated_at": "2026-05-27T11:26:03Z"
   },
   "astrbot-plugin-central-intelligence": {
     "display_name": "Central Intelligence 记忆服务",
@@ -1792,10 +1792,10 @@
       "定时",
       "提醒"
     ],
-    "stars": 6,
+    "stars": 7,
     "version": "v1.0.1",
     "astrbot_version": ">=4.0.0",
-    "updated_at": "2026-05-26T09:40:57Z"
+    "updated_at": "2026-05-27T11:22:14Z"
   },
   "astrbot-plugin-wwkudie": {
     "display_name": "尽孝",
@@ -4984,7 +4984,7 @@
     "category": "integrations",
     "stars": 3,
     "version": "v2.1",
-    "updated_at": "2026-04-14T06:05:37Z"
+    "updated_at": "2026-05-27T11:22:41Z"
   },
   "astrbot_plugin_image_url_base64_to_mcp": {
     "display_name": "图片_url_base64_传递至_mcp",
@@ -6932,8 +6932,8 @@
     ],
     "category": "ai_tools",
     "stars": 96,
-    "version": "0.8.31",
-    "updated_at": "2026-05-27T06:36:57Z",
+    "version": "0.8.32",
+    "updated_at": "2026-05-27T11:32:17Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -11718,9 +11718,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "integrations",
-    "stars": 131,
+    "stars": 132,
     "version": "v3.0.4",
-    "updated_at": "2026-05-25T15:57:15Z",
+    "updated_at": "2026-05-27T10:43:53Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -15109,7 +15109,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-27T09:38:17Z",
+    "updated_at": "2026-05-27T10:41:54Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
