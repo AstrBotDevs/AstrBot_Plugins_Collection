@@ -1087,9 +1087,9 @@
       "人格绑定"
     ],
     "social_link": "",
-    "stars": 7,
+    "stars": 8,
     "version": "0.3.1",
-    "updated_at": "2026-05-18T07:42:21Z"
+    "updated_at": "2026-05-27T00:02:48Z"
   },
   "astrbot-plugin-terraria-server-manager": {
     "display_name": "泰拉服务器管理",
@@ -3583,9 +3583,9 @@
     ],
     "social_link": "https://axi404.top",
     "category": "ai_tools",
-    "stars": 25,
+    "stars": 26,
     "version": "0.2.4",
-    "updated_at": "2026-05-23T11:38:58Z"
+    "updated_at": "2026-05-26T23:41:50Z"
   },
   "astrbot-plugin-biliVideo": {
     "display_name": "哔哩哔哩视频总结",
@@ -6043,9 +6043,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.2.1",
-    "updated_at": "2026-05-26T04:15:58Z",
+    "updated_at": "2026-05-26T23:56:01Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_minesweeper/main/logo.png"
   },
   "astrbot_plugin_debounce": {
@@ -6106,7 +6106,7 @@
     "category": "ai_tools",
     "stars": 313,
     "version": "3.0.8",
-    "updated_at": "2026-05-26T16:06:58Z",
+    "updated_at": "2026-05-26T23:31:22Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -8402,13 +8402,13 @@
     ],
     "social_link": "https://github.com/piexian",
     "category": "entertainment",
-    "stars": 10,
+    "stars": 11,
     "version": "1.2.7",
     "astrbot_version": ">=3.5.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-01T02:56:40Z",
+    "updated_at": "2026-05-26T23:57:57Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_rg2/master/logo.png"
   },
   "astrbot_plugin_maimaidx": {
@@ -13771,9 +13771,9 @@
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
     "tags": [],
-    "stars": 50,
+    "stars": 51,
     "version": "v1.3.0",
-    "updated_at": "2026-05-26T19:57:43Z",
+    "updated_at": "2026-05-26T23:54:37Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_search_video/main/logo.png"
   },
   "astrbot_plugin_zt": {
@@ -14237,9 +14237,9 @@
     "desc": "电子钓鱼的小游戏",
     "category": "entertainment",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "1.0.0",
-    "updated_at": "2026-03-17T10:49:07Z"
+    "updated_at": "2026-05-27T00:00:15Z"
   },
   "astrbot_plugin_SillyTavern_card": {
     "author": "LKarxa",
