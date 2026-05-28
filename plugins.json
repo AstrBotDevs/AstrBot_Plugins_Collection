@@ -1,4 +1,41 @@
 {
+  {
+    "name": "astrbot_plugin_mmx_cli_tool",
+    "display_name": "MiniMax 多模态工具",
+    "desc": "接入 mmx-cli，提供 MiniMax 的文本、图片、视频、音乐、纯音乐、语音、视觉理解和搜索能力。",
+    "author": "piexian",
+    "repo": "https://github.com/piexian/astrbot_plugin_mmx_cli_tool",
+    "tags": [
+      "视频生成",
+      "图像生成",
+      "视觉理解",
+      "联网搜索",
+      "minimax",
+      "音乐生成",
+      "歌词生成",
+      "token plan"
+    ],
+    "social_link": "https://github.com/piexian"
+  },
+  "astrbot_plugin_MiniMax_CLI": {
+    "display_name": "MiniMax CLI",
+    "desc": "接入 mmx-cli，提供 MiniMax 的文本、图片、视频、音乐、纯音乐、语音、视觉理解和搜索能力。",
+    "author": "唐格天",
+    "repo": "https://github.com/tanggetian/astrbot_plugin_MiniMax_CLI",
+    "social_link": "https://github.com/tanggetian"
+  },
+  {
+    "name": "astrbot_plugin_mem0_memory",
+    "display_name": "mem0",
+    "desc": "接入 mem0 托管长期记忆。",
+    "author": "Yuk1you",
+    "repo": "https://github.com/Yuk1you/astrbot_plugin_mem0_memory",
+    "tags": [
+      "memory",
+      "mem0"
+    ],
+    "social_link": "https://github.com/Yuk1you/"
+  },
   "astrbot_plugin_video_reference_vision": {
     "display_name": "引用视频理解",
     "desc": "解析消息所引用的视频。支持视频回查、转述与抽帧。",
