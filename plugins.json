@@ -1,4 +1,16 @@
 {
+  "astrbot_plugin_openlist_bot": {
+    "display_name": "Openlist助手（RE.）",
+    "desc": "由原本的Openlist助手插件重构优化而来",
+    "author": "Volundio",
+    "repo": "https://github.com/Volundio/astrbot_plugin_openlist_bot",
+    "tags": [
+      "Openlist",
+      "文件管理",
+      "自动备份",
+      "网盘管理"
+    ]
+  },
   "astrbot-plugin-notion-bridge": {
     "display_name": "Notion Bridge 🔗",
     "desc": "桥接 Notion 与 AstrBot 的双向文档管理工具。支持递归读取、关键词搜索、知识库同步、LLM 查询，以及完整的文档增删改查（页面/块/数据库/用户/评论）。内置 Notion API 3 req/s 速率限制器，可靠管理大量文档。",
