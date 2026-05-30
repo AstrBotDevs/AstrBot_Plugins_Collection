@@ -1,4 +1,15 @@
 {
+  "astrbot_plugin_dynamic_subagent": {
+    "display_name": "dynamic_subagent",
+    "desc": "让 AI 可以通过 tool call 动态创建和管理子 Agent",
+    "author": "maomaosamaqwq",
+    "repo": "https://github.com/maomaosamaqwq/astrbot_plugin_dynamic_subagent",
+    "tags": [
+      "子agent",
+      "agent"
+    ],
+    "social_link": "https://github.com/maomaosamaqwq"
+  },
   "astrbot-plugin-count-loc": {
     "display_name": "代码统计 (CountLOC)",
     "desc": "一个可以分析 GitHub/GitLab 公开仓库代码行数、文件数和注释行数的 AstrBot 插件喵。支持多分支选择、自定义忽略项过滤和 LLM 函数工具调用喵！",
@@ -12,6 +23,29 @@
       "code-analysis"
     ],
     "social_link": "https://github.com/DBJD-CR"
+  },
+  "astrbot_plugin_not_enough_crash": {
+    "display_name": "Not Enough Crash",
+    "desc": "在配置的群聊中自动、静默地分析 Minecraft/PCL 崩溃报告文件。",
+    "author": "mmyddd",
+    "repo": "https://github.com/mmyddd/astrbot_plugin_not_enough_crash",
+    "tags": [
+      "Minecraft",
+      "崩溃日志"
+    ],
+    "social_link": "https://github.com/mmyddd"
+  },
+  "astrbot_plugin_esjzone_downloader": {
+    "display_name": "ESJZone 小说下载器",
+    "desc": "ESJZone 小说 EPUB/TXT 下载器。",
+    "author": "Rentz",
+    "repo": "https://github.com/Rentz412/astrbot_plugin_esjzone_downloader",
+    "tags": [
+      "小说",
+      "下载",
+      "ESJZone"
+    ],
+    "social_link": "https://github.com/Rentz412"
   },
   "astrbot_plugin_mmx_cli_tool": {
     "display_name": "MiniMax 多模态工具",
