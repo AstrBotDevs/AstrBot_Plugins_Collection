@@ -1,4 +1,24 @@
 {
+  "astrbot-plugin-notion-bridge": {
+    "display_name": "Notion Bridge 🔗",
+    "desc": "桥接 Notion 与 AstrBot 的双向文档管理工具。支持递归读取、关键词搜索、知识库同步、LLM 查询，以及完整的文档增删改查（页面/块/数据库/用户/评论）。内置 Notion API 3 req/s 速率限制器，可靠管理大量文档。",
+    "short_desc": "双向控制 Notion：读取、写入、搜索、管理一站式",
+    "version": "2.0.0",
+    "author": "Masumeiki",
+    "repo": "https://github.com/Masumeiki/astrbot_plugin_notion_bridge",
+    "tags": [
+      "notion",
+      "文档管理",
+      "知识库",
+      "双向同步",
+      "API"
+    ],
+    "social_link": "",
+    "stars": 0,
+    "astrbot_version": ">=4.16",
+    "updated_at": "2026-05-30T08:53:39Z",
+    "logo": "https://raw.githubusercontent.com/Masumeiki/astrbot_plugin_notion_bridge/main/logo.png"
+  },
   "astrbot_plugin_dynamic_subagent": {
     "display_name": "dynamic_subagent",
     "desc": "让 AI 可以通过 tool call 动态创建和管理子 Agent",
@@ -258,13 +278,13 @@
     "tags": [
       "QQ空间"
     ],
-    "stars": 17,
+    "stars": 18,
     "version": "0.5.1",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-30T09:48:12Z",
+    "updated_at": "2026-05-30T11:47:20Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_qzone_ultra/main/logo.png"
   },
   "telethon-bot-adapter": {
@@ -436,13 +456,13 @@
     "repo": "https://github.com/vivy1024/astrbot_plugin_wave_memory",
     "social_link": "https://github.com/lioensky/VCPChat | https://github.com/lioensky/VCPToolBox",
     "tags": [],
-    "stars": 6,
+    "stars": 5,
     "version": "v0.5.0",
     "astrbot_version": ">=4.14.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-26T08:21:13Z",
+    "updated_at": "2026-05-30T12:10:53Z",
     "logo": "https://raw.githubusercontent.com/vivy1024/astrbot_plugin_wave_memory/master/logo.png"
   },
   "astrbot_plugin_maimai_updater": {
@@ -1457,7 +1477,7 @@
       "股票"
     ],
     "social_link": "https://github.com/YYY7C",
-    "stars": 17,
+    "stars": 18,
     "version": "1.2.0",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
@@ -1465,7 +1485,7 @@
       "telegram",
       "discord"
     ],
-    "updated_at": "2026-05-28T07:40:47Z",
+    "updated_at": "2026-05-30T11:59:56Z",
     "logo": "https://raw.githubusercontent.com/YYY7C/TradingAgents-AstrBot/main/logo.png"
   },
   "astrbot-plugin-sts2-data": {
@@ -1939,9 +1959,9 @@
       "私聊",
       "群聊"
     ],
-    "stars": 10,
+    "stars": 11,
     "version": "v1.0.1",
-    "updated_at": "2026-05-18T14:35:05Z"
+    "updated_at": "2026-05-30T13:05:46Z"
   },
   "astrbot-plugin-dida365": {
     "display_name": "滴答清单连接器",
@@ -2383,9 +2403,9 @@
     "repo": "https://github.com/lurukapro/astrbot_plugin_azurlane_assistant",
     "category": "entertainment",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.0",
-    "updated_at": "2026-03-14T17:27:34Z",
+    "updated_at": "2026-05-30T11:55:29Z",
     "logo": "https://raw.githubusercontent.com/lurukapro/astrbot_plugin_azurlane_assistant/main/logo.png"
   },
   "astrbot-plugin-maid-agent": {
@@ -3080,8 +3100,8 @@
     "social_link": "",
     "category": "utilities",
     "stars": 11,
-    "version": "v2.4.0",
-    "updated_at": "2026-05-30T09:41:24Z",
+    "version": "v2.4.1",
+    "updated_at": "2026-05-30T12:41:24Z",
     "logo": "https://raw.githubusercontent.com/Waterwzy/astrbot_plugin_firefly_filter/master/logo.png"
   },
   "astrbot-plugin-cet6": {
@@ -3756,9 +3776,9 @@
     "social_link": "https://github.com/storyAura",
     "category": "entertainment",
     "tags": [],
-    "stars": 29,
+    "stars": 30,
     "version": "v1.0.5a",
-    "updated_at": "2026-05-30T09:16:14Z",
+    "updated_at": "2026-05-30T12:00:06Z",
     "logo": "https://raw.githubusercontent.com/storyAura/astrbot_plugin_biliVideo/main/logo.png"
   },
   "astrbot-plugin-opencode-client": {
@@ -4176,9 +4196,9 @@
     ],
     "social_link": "https://github.com/cjxzdzh",
     "category": "ai_tools",
-    "stars": 8,
+    "stars": 9,
     "version": "1.0.1",
-    "updated_at": "2026-04-07T15:11:07Z"
+    "updated_at": "2026-05-30T12:00:22Z"
   },
   "astrbot-plugin-payqr": {
     "display_name": "智能收款码",
@@ -7325,7 +7345,7 @@
     "category": "entertainment",
     "stars": 7,
     "version": "v2.3.9",
-    "updated_at": "2026-05-22T08:34:25Z",
+    "updated_at": "2026-05-30T12:31:43Z",
     "logo": "https://raw.githubusercontent.com/wangyingxuan383-ai/astrbot_plugin_pet_market/main/logo.png"
   },
   "astrbot_plugin_anuneko": {
@@ -9209,7 +9229,7 @@
     "stars": 104,
     "version": "V1.2.3.hotfix.2",
     "astrbot_version": ">=4.11.0",
-    "updated_at": "2026-05-30T09:35:29Z",
+    "updated_at": "2026-05-30T11:57:25Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -11556,9 +11576,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
-    "stars": 75,
+    "stars": 76,
     "version": "3.1.5",
-    "updated_at": "2026-05-28T20:14:18Z",
+    "updated_at": "2026-05-30T12:18:47Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "findx010197/astrbot_plugin_reminder": {
@@ -11879,9 +11899,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "integrations",
-    "stars": 136,
+    "stars": 137,
     "version": "v3.0.4",
-    "updated_at": "2026-05-30T08:30:42Z",
+    "updated_at": "2026-05-30T13:23:49Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -14056,12 +14076,12 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 35,
+    "stars": 36,
     "version": "v2.0.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-26T10:32:57Z",
+    "updated_at": "2026-05-30T13:29:13Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_emoji_like/main/logo.png"
   },
   "astrbot_plugin_lanraragi": {
