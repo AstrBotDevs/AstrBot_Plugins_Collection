@@ -23,8 +23,7 @@
     "repo": "https://github.com/tanggetian/astrbot_plugin_MiniMax_CLI",
     "social_link": "https://github.com/tanggetian"
   },
-  {
-    "name": "astrbot_plugin_mem0_memory",
+  "astrbot_plugin_mem0_memory": {
     "display_name": "mem0",
     "desc": "接入 mem0 托管长期记忆。",
     "author": "Yuk1you",
