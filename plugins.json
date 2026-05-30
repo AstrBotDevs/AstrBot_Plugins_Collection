@@ -35,6 +35,13 @@
     ],
     "social_link": "https://github.com/mmyddd"
   },
+  "astrbot_plugin_irmia_devkit": {
+    "display_name": "弥亚开发工具箱",
+    "desc": "为 Agent 提供实用且安全的开发工具 — 备份/语法检查/回滚，63 工具 + 1 Skill",
+    "author": "伊尔弥亚",
+    "repo": "https://github.com/irmia2026/irmia_devkit_open",
+    "tags": ["开发工具", "代码审查", "Git", "安全编辑", "文件处理"]
+  },
   "astrbot_plugin_esjzone_downloader": {
     "display_name": "ESJZone 小说下载器",
     "desc": "ESJZone 小说 EPUB/TXT 下载器。",
