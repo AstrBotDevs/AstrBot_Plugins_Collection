@@ -111,14 +111,14 @@
       "文件处理"
     ],
     "stars": 14,
-    "version": "2.2.0",
+    "version": "2.3.0",
     "astrbot_version": ">=4.16",
     "support_platforms": [
       "aiocqhttp",
       "qq_official",
       "telegram"
     ],
-    "updated_at": "2026-05-30T17:29:33Z",
+    "updated_at": "2026-05-30T19:33:12Z",
     "logo": "https://raw.githubusercontent.com/irmia2026/irmia_devkit_open/main/logo.png"
   },
   "astrbot_plugin_esjzone_downloader": {
@@ -4955,9 +4955,9 @@
     "repo": "https://github.com/lumingya/astrbot_plugin_html_render",
     "category": "utilities",
     "tags": [],
-    "stars": 4,
+    "stars": 3,
     "version": "1.5.0",
-    "updated_at": "2026-05-18T05:12:48Z"
+    "updated_at": "2026-05-30T20:02:15Z"
   },
   "astrbot_plugin_opencode": {
     "display_name": "OpenCode Bridge",
@@ -7751,10 +7751,10 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "utilities",
-    "stars": 66,
+    "stars": 65,
     "version": "v1.5.0",
     "astrbot_version": ">=4.11.2",
-    "updated_at": "2026-05-29T17:36:22Z",
+    "updated_at": "2026-05-30T20:02:55Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -9553,7 +9553,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 281,
+    "stars": 282,
     "version": "v1.2.4",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -9565,7 +9565,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-05-30T15:12:44Z",
+    "updated_at": "2026-05-30T19:36:45Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -9808,9 +9808,9 @@
       "nobroswer"
     ],
     "category": "utilities",
-    "stars": 25,
+    "stars": 24,
     "version": "v1.4.0",
-    "updated_at": "2026-04-09T07:24:24Z"
+    "updated_at": "2026-05-30T20:02:08Z"
   },
   "astrbot_plugin_fetch_summary": {
     "desc": "根据 URL 获取网站摘要",
@@ -11293,9 +11293,9 @@
     "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
     "category": "ai_tools",
     "tags": [],
-    "stars": 48,
+    "stars": 47,
     "version": "v1.0.4",
-    "updated_at": "2026-05-22T18:43:19Z"
+    "updated_at": "2026-05-30T20:03:03Z"
   },
   "astrbot_plugin_vtb_adapter": {
     "desc": "用于连接 AstrBot 与 Open LLM Vtuber，除安装插件外还需要修改 Open LLM Vtuber 中的相关文件",
@@ -12484,9 +12484,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "ai_tools",
-    "stars": 78,
+    "stars": 77,
     "version": "2.1.1",
-    "updated_at": "2026-05-26T01:11:29Z"
+    "updated_at": "2026-05-30T20:02:12Z"
   },
   "cngal_search": {
     "desc": "CnGal查询",
@@ -12636,9 +12636,9 @@
       "沉浸式"
     ],
     "category": "ai_tools",
-    "stars": 22,
+    "stars": 21,
     "version": "1.4.6",
-    "updated_at": "2026-05-15T13:53:37Z"
+    "updated_at": "2026-05-30T20:02:50Z"
   },
   "astrbot_plugin_choulaopo": {
     "name": "抽老婆",
@@ -14528,9 +14528,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "entertainment",
-    "stars": 246,
+    "stars": 245,
     "version": "v3.0.3",
-    "updated_at": "2026-05-30T09:28:22Z",
+    "updated_at": "2026-05-30T20:02:18Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -15300,13 +15300,13 @@
       "QQ群管"
     ],
     "category": "utilities",
-    "stars": 148,
+    "stars": 147,
     "version": "v3.3.0",
     "astrbot_version": ">=4.24.2",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-29T12:23:17Z",
+    "updated_at": "2026-05-30T20:03:06Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
