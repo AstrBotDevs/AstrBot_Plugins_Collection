@@ -1,4 +1,20 @@
 {
+  "astrbot-plugin-notion-bridge": {
+    "display_name": "Notion Bridge 🔗",
+    "desc": "桥接 Notion 与 AstrBot 的双向文档管理工具。支持递归读取、关键词搜索、知识库同步、LLM 查询，以及完整的文档增删改查（页面/块/数据库/用户/评论）。内置 Notion API 3 req/s 速率限制器，可靠管理大量文档。",
+    "short_desc": "双向控制 Notion：读取、写入、搜索、管理一站式",
+    "version": "v2.0.0",
+    "author": "Masumeiki",
+    "repo": "https://github.com/Masumeiki/astrbot_plugin_notion_bridge",
+    "tags": [
+      "notion",
+      "文档管理",
+      "知识库",
+      "双向同步",
+      "API"
+    ],
+    "social_link": ""
+  },
   "astrbot_plugin_dynamic_subagent": {
     "display_name": "dynamic_subagent",
     "desc": "让 AI 可以通过 tool call 动态创建和管理子 Agent",
@@ -40,7 +56,13 @@
     "desc": "为 Agent 提供实用且安全的开发工具 — 备份/语法检查/回滚，63 工具 + 1 Skill",
     "author": "伊尔弥亚",
     "repo": "https://github.com/irmia2026/irmia_devkit_open",
-    "tags": ["开发工具", "代码审查", "Git", "安全编辑", "文件处理"]
+    "tags": [
+      "开发工具",
+      "代码审查",
+      "Git",
+      "安全编辑",
+      "文件处理"
+    ]
   },
   "astrbot_plugin_esjzone_downloader": {
     "display_name": "ESJZone 小说下载器",
