@@ -1,4 +1,18 @@
 {
+  "astrbot-plugin-count-loc": {
+    "display_name": "代码统计 (CountLOC)",
+    "desc": "一个可以分析 GitHub/GitLab 公开仓库代码行数、文件数和注释行数的 AstrBot 插件喵。支持多分支选择、自定义忽略项过滤和 LLM 函数工具调用喵！",
+    "author": "DBJD-CR & Gemini",
+    "repo": "https://github.com/DBJD-CR/astrbot_plugin_count_loc",
+    "tags": [
+      "GitHub",
+      "GitLab",
+      "代码统计",
+      "代码分析",
+      "code-analysis"
+    ],
+    "social_link": "https://github.com/DBJD-CR"
+  },
   "astrbot_plugin_mmx_cli_tool": {
     "display_name": "MiniMax 多模态工具",
     "desc": "接入 mmx-cli，提供 MiniMax 的文本、图片、视频、音乐、纯音乐、语音、视觉理解和搜索能力。",
