@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_openlist_bot": {
+    "display_name": "Openlist助手（RE.）",
+    "desc": "由原本的Openlist助手插件重构优化而来",
+    "author": "Volundio",
+    "repo": "https://github.com/Volundio/astrbot_plugin_openlist_bot",
+    "tags": [
+      "Openlist",
+      "文件管理",
+      "自动备份",
+      "网盘管理"
+    ],
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-05-25T08:08:01Z",
+    "logo": "https://raw.githubusercontent.com/Volundio/astrbot_plugin_openlist_bot/main/logo.png"
+  },
   "astrbot-plugin-notion-bridge": {
     "display_name": "Notion Bridge 🔗",
     "desc": "桥接 Notion 与 AstrBot 的双向文档管理工具。支持递归读取、关键词搜索、知识库同步、LLM 查询，以及完整的文档增删改查（页面/块/数据库/用户/评论）。内置 Notion API 3 req/s 速率限制器，可靠管理大量文档。",
@@ -102,7 +118,7 @@
       "qq_official",
       "telegram"
     ],
-    "updated_at": "2026-05-28T15:22:30Z",
+    "updated_at": "2026-05-30T14:53:43Z",
     "logo": "https://raw.githubusercontent.com/irmia2026/irmia_devkit_open/main/logo.png"
   },
   "astrbot_plugin_esjzone_downloader": {
@@ -2270,13 +2286,13 @@
     ],
     "social_link": "https://github.com/WinBSOD",
     "category": "entertainment",
-    "stars": 1,
+    "stars": 2,
     "version": "1.5",
     "astrbot_version": ">=4.19.5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-03-20T03:29:30Z",
+    "updated_at": "2026-05-30T15:04:12Z",
     "logo": "https://raw.githubusercontent.com/WinBSOD/astrbot_plugin_group_mate/master/logo.png"
   },
   "astrbot-plugin-what-to-eat": {
@@ -4415,9 +4431,9 @@
     ],
     "pinned": true,
     "category": "integrations",
-    "stars": 157,
+    "stars": 158,
     "version": "v2.1.4",
-    "updated_at": "2026-05-29T09:18:41Z",
+    "updated_at": "2026-05-30T14:47:38Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -5991,7 +6007,7 @@
     "category": "entertainment",
     "stars": 4,
     "version": "1.0.3",
-    "updated_at": "2026-05-29T00:33:03Z",
+    "updated_at": "2026-05-30T14:21:22Z",
     "logo": "https://raw.githubusercontent.com/Dayanshifu/astrbot_plugin_music_pro/main/logo.png"
   },
   "astrbot_plugin_online_status": {
@@ -6285,9 +6301,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 317,
-    "version": "3.0.14",
-    "updated_at": "2026-05-30T09:31:58Z",
+    "stars": 318,
+    "version": "3.0.15",
+    "updated_at": "2026-05-30T14:46:43Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -11061,7 +11077,7 @@
     "category": "ai_tools",
     "stars": 214,
     "version": "2.3.1",
-    "updated_at": "2026-05-30T09:32:15Z",
+    "updated_at": "2026-05-30T14:53:10Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
