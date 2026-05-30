@@ -1,6 +1,5 @@
 {
-  {
-    "name": "astrbot_plugin_mmx_cli_tool",
+  "astrbot_plugin_mmx_cli_tool": {
     "display_name": "MiniMax 多模态工具",
     "desc": "接入 mmx-cli，提供 MiniMax 的文本、图片、视频、音乐、纯音乐、语音、视觉理解和搜索能力。",
     "author": "piexian",
