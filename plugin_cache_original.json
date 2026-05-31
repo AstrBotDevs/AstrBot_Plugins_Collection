@@ -851,9 +851,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 115,
+    "stars": 116,
     "version": "3.3.0",
-    "updated_at": "2026-05-31T08:26:14Z",
+    "updated_at": "2026-05-31T11:40:32Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -4237,13 +4237,13 @@
       "数据查询"
     ],
     "category": "entertainment",
-    "stars": 7,
+    "stars": 8,
     "version": "v2.3",
     "astrbot_version": ">=4.11.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-20T03:09:48Z",
+    "updated_at": "2026-05-31T11:47:10Z",
     "logo": "https://raw.githubusercontent.com/qsc20001102/astrbot_plugin_jx3/main/logo.png"
   },
   "astrbot-plugin-zirunbi": {
@@ -4770,9 +4770,9 @@
       "娱乐"
     ],
     "category": "entertainment",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.0.0",
-    "updated_at": "2026-05-20T02:50:28Z"
+    "updated_at": "2026-05-31T11:47:21Z"
   },
   "astrbot_plugin_elves_world": {
     "display_name": "精灵世界",
@@ -10494,9 +10494,9 @@
     "social_link": "https://voice.gbkgov.cn",
     "category": "ai_tools",
     "tags": [],
-    "stars": 23,
+    "stars": 24,
     "version": "v1.9.0",
-    "updated_at": "2026-05-08T05:03:59Z"
+    "updated_at": "2026-05-31T12:07:51Z"
   },
   "astrbot_plugin_blacklist_tools": {
     "desc": "允许管理员和 LLM 将用户添加到黑名单中，阻止他们的消息，自动拉黑！",
@@ -11075,9 +11075,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 214,
+    "stars": 215,
     "version": "2.3.1",
-    "updated_at": "2026-05-30T14:53:10Z",
+    "updated_at": "2026-05-31T12:03:26Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
