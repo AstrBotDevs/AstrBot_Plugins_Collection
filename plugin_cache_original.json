@@ -157,9 +157,9 @@
       "token plan"
     ],
     "social_link": "https://github.com/piexian",
-    "stars": 1,
+    "stars": 2,
     "version": "0.2.1",
-    "updated_at": "2026-05-29T21:18:00Z",
+    "updated_at": "2026-05-31T09:52:01Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_mmx_cli_tool/master/logo.png"
   },
   "astrbot_plugin_MiniMax_CLI": {
@@ -2891,10 +2891,10 @@
       "监控"
     ],
     "category": "productivity",
-    "stars": 14,
+    "stars": 15,
     "version": "v1.3.2",
     "astrbot_version": ">=4.10.4",
-    "updated_at": "2026-05-16T05:11:51Z",
+    "updated_at": "2026-05-31T09:27:17Z",
     "logo": "https://raw.githubusercontent.com/gangcaiyoule/astrbot_plugin_mail_notify/master/logo.png"
   },
   "astrbot-plugin-Xagent-searcher": {
@@ -3649,9 +3649,9 @@
     ],
     "social_link": "https://github.com/cxyfer",
     "category": "entertainment",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.1.7",
-    "updated_at": "2026-04-16T09:19:44Z",
+    "updated_at": "2026-05-31T09:41:53Z",
     "logo": "https://raw.githubusercontent.com/cxyfer/astrbot_plugin_livepulse/master/logo.png"
   },
   "astrbot-plugin-bookkeeper": {
@@ -5773,8 +5773,8 @@
     "social_link": "https://qwq.pyuramazo.online",
     "category": "entertainment",
     "stars": 26,
-    "version": "v1.12.2",
-    "updated_at": "2026-05-24T04:44:28Z",
+    "version": "v1.12.3",
+    "updated_at": "2026-05-31T09:34:14Z",
     "logo": "https://raw.githubusercontent.com/PyuraMazo/astrbot_plugin_galgame_box/master/logo.png"
   },
   "astrbot_plugin_anitabi": {
@@ -7569,7 +7569,7 @@
     "category": "utilities",
     "stars": 124,
     "version": "v1.5.1",
-    "updated_at": "2026-05-31T04:15:20Z",
+    "updated_at": "2026-05-31T08:51:34Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -12333,9 +12333,9 @@
     ],
     "category": "utilities",
     "stars": 43,
-    "version": "v2.1.0",
+    "version": "v2.2.0",
     "astrbot_version": ">=4.24.0",
-    "updated_at": "2026-05-31T06:59:12Z",
+    "updated_at": "2026-05-31T09:39:06Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -16037,9 +16037,9 @@
     ],
     "social_link": "https://github.com/miaoxutao123/",
     "category": "utilities",
-    "stars": 75,
+    "stars": 76,
     "version": "0.3.0",
-    "updated_at": "2026-05-24T07:29:33Z"
+    "updated_at": "2026-05-31T09:07:47Z"
   },
   "astrbot_plugin_sjzb": {
     "desc": "随机生成《绝地潜兵2》游戏中一组 4 个战备配置",
