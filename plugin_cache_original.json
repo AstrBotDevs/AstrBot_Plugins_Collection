@@ -6808,7 +6808,7 @@
     "tags": [],
     "stars": 8,
     "version": "1.0.1",
-    "updated_at": "2026-05-30T06:04:56Z",
+    "updated_at": "2026-05-31T19:54:08Z",
     "logo": "https://raw.githubusercontent.com/204343414/astrbot_plugin_yt-dlp/master/logo.png"
   },
   "astrbot_plugin_yotts": {
@@ -7694,13 +7694,13 @@
     ],
     "category": "entertainment",
     "stars": 50,
-    "version": "2.6.4",
+    "version": "2.6.5",
     "astrbot_version": ">=4.24.1",
     "support_platforms": [
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-05-31T13:31:17Z",
+    "updated_at": "2026-05-31T19:22:53Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
