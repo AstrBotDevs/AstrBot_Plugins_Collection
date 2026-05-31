@@ -169,13 +169,13 @@
     "repo": "https://github.com/tanggetian/astrbot_plugin_MiniMax_CLI",
     "social_link": "https://github.com/tanggetian",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "1.2.0",
     "astrbot_version": ">=4.0.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-27T18:23:10Z"
+    "updated_at": "2026-05-31T15:14:49Z"
   },
   "astrbot_plugin_mem0_memory": {
     "display_name": "mem0",
@@ -2530,7 +2530,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 365,
+    "stars": 366,
     "version": "v4.10.6",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -2539,7 +2539,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-05-31T05:54:34Z",
+    "updated_at": "2026-05-31T15:04:09Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -5623,7 +5623,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 365,
+    "stars": 366,
     "version": "v4.10.6",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -5632,7 +5632,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-05-31T05:54:34Z",
+    "updated_at": "2026-05-31T15:04:09Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -6966,8 +6966,11 @@
     ],
     "category": "productivity",
     "stars": 0,
-    "version": "v1.0.1",
-    "updated_at": "2026-03-14T16:29:58Z",
+    "version": "v1.1",
+    "support_platforms": [
+      "aiocqhttp"
+    ],
+    "updated_at": "2026-05-31T16:06:27Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_group_signin/master/logo.png"
   },
   "astrbot_plugin_furry_maopao": {
@@ -7112,9 +7115,9 @@
       "人格"
     ],
     "category": "ai_tools",
-    "stars": 142,
+    "stars": 143,
     "version": "1.4.9",
-    "updated_at": "2026-05-30T15:21:54Z",
+    "updated_at": "2026-05-31T15:32:37Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -7502,9 +7505,9 @@
       "memory"
     ],
     "category": "ai_tools",
-    "stars": 19,
+    "stars": 20,
     "version": "v3.0.1",
-    "updated_at": "2026-04-25T02:56:18Z"
+    "updated_at": "2026-05-31T15:11:00Z"
   },
   "astrbot_plugin_echo": {
     "display_name": "echo",
@@ -10907,9 +10910,9 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "category": "entertainment",
     "tags": [],
-    "stars": 68,
+    "stars": 69,
     "version": "v2.8.9",
-    "updated_at": "2026-05-30T01:18:17Z"
+    "updated_at": "2026-05-31T15:22:27Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -12335,7 +12338,7 @@
     "stars": 43,
     "version": "v2.2.0",
     "astrbot_version": ">=4.24.0",
-    "updated_at": "2026-05-31T14:32:12Z",
+    "updated_at": "2026-05-31T16:00:48Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
