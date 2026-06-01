@@ -158,8 +158,8 @@
     ],
     "social_link": "https://github.com/piexian",
     "stars": 3,
-    "version": "0.2.2",
-    "updated_at": "2026-06-01T01:10:52Z",
+    "version": "0.2.4",
+    "updated_at": "2026-06-01T19:58:08Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_mmx_cli_tool/master/logo.png"
   },
   "astrbot_plugin_MiniMax_CLI": {
@@ -851,9 +851,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 114,
+    "stars": 115,
     "version": "3.3.0",
-    "updated_at": "2026-06-01T08:20:39Z",
+    "updated_at": "2026-06-01T19:50:41Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -16304,9 +16304,9 @@
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
     "category": "ai_tools",
-    "stars": 124,
+    "stars": 126,
     "version": "v2.1.12",
-    "updated_at": "2026-06-01T05:52:08Z"
+    "updated_at": "2026-06-01T21:43:04Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
