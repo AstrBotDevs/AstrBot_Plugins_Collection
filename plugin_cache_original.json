@@ -295,12 +295,12 @@
       "QQ空间"
     ],
     "stars": 20,
-    "version": "0.5.1",
+    "version": "0.6.0",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-31T07:30:34Z",
+    "updated_at": "2026-05-31T22:51:00Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_qzone_ultra/main/logo.png"
   },
   "telethon-bot-adapter": {
@@ -1072,8 +1072,9 @@
     ],
     "social_link": "https://github.com/FlanChanXwO",
     "stars": 25,
-    "version": "v2.0.2",
-    "updated_at": "2026-05-30T18:21:45Z",
+    "version": "v2.0.3",
+    "astrbot_version": ">=4.24.0",
+    "updated_at": "2026-05-31T22:56:15Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_rsshub/master/logo.png"
   },
   "astrbot_plugin_scriptor": {
