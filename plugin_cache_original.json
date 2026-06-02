@@ -563,10 +563,10 @@
     "repo": "https://github.com/Ayleovelle/astrbot_plugin_sylanne",
     "social_link": "https://github.com/Ayleovelle",
     "tags": [],
-    "stars": 32,
+    "stars": 33,
     "version": "1.4.5",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-06-02T02:43:27Z",
+    "updated_at": "2026-06-02T21:59:17Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -4740,9 +4740,9 @@
     ],
     "social_link": "https://github.com/4869-yinxu",
     "category": "integrations",
-    "stars": 13,
+    "stars": 12,
     "version": "1.0.0",
-    "updated_at": "2026-05-20T05:20:29Z"
+    "updated_at": "2026-06-02T22:38:11Z"
   },
   "astrbot_plugin_riddlegame": {
     "display_name": "qq群棋类游戏",
@@ -15656,9 +15656,9 @@
       "游戏"
     ],
     "category": "entertainment",
-    "stars": 1,
+    "stars": 0,
     "version": "v1.1.0",
-    "updated_at": "2025-04-17T05:21:25Z"
+    "updated_at": "2026-06-02T22:38:08Z"
   },
   "astrbot_plugin_membercontrast": {
     "desc": " [仅 Gewechat] 实现微信历史群组群员与当前群员对比的功能",
@@ -16990,9 +16990,9 @@
     "repo": "https://github.com/zgojin/astrbot_plugin_botName",
     "category": "utilities",
     "tags": [],
-    "stars": 7,
+    "stars": 6,
     "version": "v2.0",
-    "updated_at": "2026-04-16T04:35:49Z"
+    "updated_at": "2026-06-02T22:38:08Z"
   },
   "astrbot_plugin_tts_Cosyvoice2": {
     "desc": "Astrbot的tts功能补充（使用Cosyvoice2-0.5b本地模型）",
@@ -17000,9 +17000,9 @@
     "repo": "https://github.com/xiewoc/astrbot_plugin_tts_Cosyvoice2",
     "category": "utilities",
     "tags": [],
-    "stars": 11,
+    "stars": 10,
     "version": "v1.1.1",
-    "updated_at": "2026-03-18T15:58:30Z"
+    "updated_at": "2026-06-02T22:38:08Z"
   },
   "astrbot_plugin_sign": {
     "desc": "一个(有点简陋)的签到插件，支持每日签到、查询签到信息、排行榜等功能。",
@@ -17160,9 +17160,9 @@
     "repo": "https://github.com/zgojin/astrbot_plugin_AIQTalk",
     "category": "ai_tools",
     "tags": [],
-    "stars": 9,
+    "stars": 8,
     "version": "v2.2",
-    "updated_at": "2026-05-18T06:33:39Z"
+    "updated_at": "2026-06-02T22:38:08Z"
   },
   "astrbot_plugin_KeyReply": {
     "desc": "关键词回复插件",
