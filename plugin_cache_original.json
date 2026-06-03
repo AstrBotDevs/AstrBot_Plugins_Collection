@@ -11,8 +11,8 @@
       "网盘管理"
     ],
     "stars": 0,
-    "version": "v1.0.2",
-    "updated_at": "2026-06-03T13:45:02Z",
+    "version": "v1.0.4",
+    "updated_at": "2026-06-03T18:34:23Z",
     "logo": "https://raw.githubusercontent.com/Volundio/astrbot_plugin_openlist_bot/main/logo.png"
   },
   "astrbot-plugin-notion-bridge": {
@@ -118,7 +118,7 @@
       "qq_official",
       "telegram"
     ],
-    "updated_at": "2026-06-03T09:49:54Z",
+    "updated_at": "2026-06-03T16:27:06Z",
     "logo": "https://raw.githubusercontent.com/irmia2026/irmia_devkit_open/main/logo.png"
   },
   "astrbot_plugin_esjzone_downloader": {
@@ -260,9 +260,9 @@
       "OpenCode"
     ],
     "stars": 2,
-    "version": "2.0.0",
+    "version": "2.0.1",
     "astrbot_version": ">=4.16",
-    "updated_at": "2026-06-03T03:04:10Z",
+    "updated_at": "2026-06-03T15:18:25Z",
     "logo": "https://raw.githubusercontent.com/cang-dot/astrbot_plugin_opencode_tool/main/logo.png"
   },
   "astrbot_plugin_whatsapp_adapter": {
@@ -563,10 +563,10 @@
     "repo": "https://github.com/Ayleovelle/astrbot_plugin_sylanne",
     "social_link": "https://github.com/Ayleovelle",
     "tags": [],
-    "stars": 34,
-    "version": "1.4.5",
+    "stars": 36,
+    "version": "1.4.6",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-06-03T01:46:12Z",
+    "updated_at": "2026-06-03T17:45:40Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -2992,9 +2992,9 @@
       "数据查询"
     ],
     "category": "entertainment",
-    "stars": 56,
+    "stars": 57,
     "version": "2.9.0",
-    "updated_at": "2026-06-02T07:29:42Z",
+    "updated_at": "2026-06-03T16:31:45Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -6303,8 +6303,8 @@
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
     "stars": 322,
-    "version": "3.1.1",
-    "updated_at": "2026-06-03T11:59:27Z",
+    "version": "3.1.2",
+    "updated_at": "2026-06-03T16:16:41Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -6728,9 +6728,9 @@
     ],
     "category": "utilities",
     "stars": 1,
-    "version": "v1.3.1",
+    "version": "v1.3.2",
     "astrbot_version": ">=4.10.4",
-    "updated_at": "2026-05-14T07:58:54Z",
+    "updated_at": "2026-06-03T16:07:15Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_multi_execute/master/logo.png"
   },
   "astrbot_plugin_recall_xz": {
@@ -8806,9 +8806,9 @@
       "推特"
     ],
     "category": "utilities",
-    "stars": 48,
+    "stars": 49,
     "version": "v6.2.1",
-    "updated_at": "2026-05-27T04:02:06Z",
+    "updated_at": "2026-06-03T14:46:41Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -11073,7 +11073,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-02T17:27:50Z"
+    "updated_at": "2026-06-03T14:49:40Z"
   },
   "astrbot_plugin_livingmemory": {
     "desc": "为 AstrBot 打造的、拥有完整记忆生命周期的智能长期记忆插件。",
@@ -12345,7 +12345,7 @@
     "stars": 43,
     "version": "v2.2.0",
     "astrbot_version": ">=4.24.0",
-    "updated_at": "2026-06-02T15:03:10Z",
+    "updated_at": "2026-06-03T15:21:51Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
