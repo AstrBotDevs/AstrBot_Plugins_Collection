@@ -12,7 +12,7 @@
     ],
     "stars": 0,
     "version": "v1.0.4",
-    "updated_at": "2026-06-03T18:34:23Z",
+    "updated_at": "2026-06-03T18:52:53Z",
     "logo": "https://raw.githubusercontent.com/Volundio/astrbot_plugin_openlist_bot/main/logo.png"
   },
   "astrbot-plugin-notion-bridge": {
@@ -732,10 +732,10 @@
       "提示词优化"
     ],
     "social_link": "",
-    "stars": 39,
+    "stars": 40,
     "version": "3.3.17",
     "astrbot_version": ">=4.16,<5",
-    "updated_at": "2026-06-02T14:58:52Z",
+    "updated_at": "2026-06-03T19:18:52Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -3464,7 +3464,7 @@
     "category": "entertainment",
     "stars": 7,
     "version": "2.6.0",
-    "updated_at": "2026-04-03T19:12:16Z",
+    "updated_at": "2026-06-03T20:32:08Z",
     "logo": "https://raw.githubusercontent.com/Akiyo-dayo/astrbot_plugin_fishing/main/logo.png"
   },
   "astrbot-plugin-deobfuscation": {
@@ -5866,8 +5866,8 @@
     ],
     "category": "ai_tools",
     "stars": 11,
-    "version": "1.8.0",
-    "updated_at": "2026-06-03T13:38:39Z"
+    "version": "1.8.2",
+    "updated_at": "2026-06-03T18:57:12Z"
   },
   "astrbot_plugin_mc_manager": {
     "display_name": "astrbot_plugin_mc_manager",
@@ -7695,13 +7695,13 @@
     ],
     "category": "entertainment",
     "stars": 52,
-    "version": "2.6.5",
+    "version": "2.6.6",
     "astrbot_version": ">=4.24.1",
     "support_platforms": [
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-06-03T03:36:29Z",
+    "updated_at": "2026-06-03T20:42:23Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -8193,13 +8193,13 @@
     ],
     "social_link": "https://box.firefly520.top/",
     "category": "ai_tools",
-    "stars": 36,
+    "stars": 37,
     "version": "1.6.6",
     "support_platforms": [
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-06-02T11:44:43Z",
+    "updated_at": "2026-06-03T20:55:35Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/main/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
