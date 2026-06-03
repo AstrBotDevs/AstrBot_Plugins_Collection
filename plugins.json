@@ -8528,15 +8528,18 @@
     "category": "utilities"
   },
   "intelligent_retry": {
-    "desc": "当LLM回复为空或包含特定错误关键词时，自动进行多次重试，提高交互稳定性。",
+    "desc": "【已弃用，请勿安装】此插件已不适配当前 AstrBot，继续使用可能导致回复流程异常、人格/上下文丢失或与其他插件冲突。请卸载本插件，不要从插件市场继续安装。",
     "author": "木有知 & 长安某",
-    "repo": "https://github.com/muyouzhi6/astrabot_plugin_retry",
+    "repo": "https://github.com/muyouzhi6/astrbot_plugin_retry",
     "tags": [
-      "LLM",
-      "工具",
-      "增强"
+      "deprecated",
+      "请勿安装",
+      "已弃用"
     ],
-    "category": "ai_tools"
+    "category": "ai_tools",
+    "display_name": "【已弃用】Intelligent Retry",
+    "short_desc": "此插件已不适配当前 AstrBot，请勿安装或继续使用。",
+    "astrbot_version": "<4.0.0"
   },
   "astrbot_plugin_Group-Verification_PRO": {
     "desc": "一个强大的 QQ 群成员入群验证插件。新成员需回答动态生成的 100 以内加减法问题方可入群。支持完全自定义的提示消息（成功、失败、超时警告、踢出等）和时间控制（验证超时、警告时机、踢出延迟）。当用户回答错误时，会自动生成新题目并重置验证时间，有效防止机器人账号。",
