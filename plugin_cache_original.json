@@ -37,9 +37,9 @@
     "repo": "https://github.com/shitianyaa/astrbot_plugin_nitter_tweets",
     "social_link": "https://github.com/shitianyaa",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "0.6.0",
-    "updated_at": "2026-06-01T08:34:34Z"
+    "updated_at": "2026-06-04T09:50:27Z"
   },
   "astrbot_plugin_comfyui_hub": {
     "display_name": "ComfyUI 枢纽",
@@ -234,7 +234,7 @@
       "qq_official",
       "telegram"
     ],
-    "updated_at": "2026-06-03T16:27:06Z",
+    "updated_at": "2026-06-04T11:11:25Z",
     "logo": "https://raw.githubusercontent.com/irmia2026/irmia_devkit_open/main/logo.png"
   },
   "astrbot_plugin_esjzone_downloader": {
@@ -589,12 +589,12 @@
     "social_link": "https://github.com/lioensky/VCPChat | https://github.com/lioensky/VCPToolBox",
     "tags": [],
     "stars": 5,
-    "version": "v0.5.0",
+    "version": "v0.6.0",
     "astrbot_version": ">=4.14.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-30T12:10:53Z",
+    "updated_at": "2026-06-04T08:57:47Z",
     "logo": "https://raw.githubusercontent.com/vivy1024/astrbot_plugin_wave_memory/master/logo.png"
   },
   "astrbot_plugin_maimai_updater": {
@@ -3262,9 +3262,9 @@
     ],
     "social_link": "www.maredevi.moe",
     "category": "entertainment",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.1.3",
-    "updated_at": "2026-05-29T01:46:17Z",
+    "updated_at": "2026-06-04T11:47:48Z",
     "logo": "https://raw.githubusercontent.com/MareDevi/astrbot_plugin_f1_notifier/master/logo.png"
   },
   "astrbot-plugin-self-evolution": {
@@ -4182,9 +4182,9 @@
     ],
     "social_link": "https://github.com/HSOS6",
     "category": "utilities",
-    "stars": 19,
+    "stars": 20,
     "version": "v1.4.0",
-    "updated_at": "2026-05-09T07:45:35Z",
+    "updated_at": "2026-06-04T11:04:19Z",
     "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_ssh/main/logo.png"
   },
   "astrbot-plugin-httpadapter": {
@@ -5636,13 +5636,13 @@
     ],
     "social_link": "https://github.com/siciyuanweilai",
     "category": "entertainment",
-    "stars": 41,
+    "stars": 42,
     "version": "5.4.5",
     "support_platforms": [
       "aiocqhttp",
       "weixin_oc"
     ],
-    "updated_at": "2026-06-03T06:12:38Z",
+    "updated_at": "2026-06-04T10:29:30Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -6420,7 +6420,7 @@
     "category": "ai_tools",
     "stars": 322,
     "version": "3.1.3",
-    "updated_at": "2026-06-04T07:09:22Z",
+    "updated_at": "2026-06-04T11:16:24Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -7687,9 +7687,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 125,
+    "stars": 126,
     "version": "v1.5.1",
-    "updated_at": "2026-06-02T14:27:22Z",
+    "updated_at": "2026-06-04T11:16:18Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -9673,7 +9673,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 287,
+    "stars": 288,
     "version": "v1.2.4",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -9685,7 +9685,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-06-04T01:51:38Z",
+    "updated_at": "2026-06-04T11:48:24Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -11200,9 +11200,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 223,
+    "stars": 224,
     "version": "2.3.4",
-    "updated_at": "2026-06-04T04:01:43Z",
+    "updated_at": "2026-06-04T11:10:09Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
