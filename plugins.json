@@ -1,4 +1,80 @@
 {
+  "astrbot_plugin_smart_segmentation": {
+    "display_name": "智能分段",
+    "desc": "使用 LLM 将 AstrBot 主回复自然拆分为多条聊天消息，并异步补发剩余段。",
+    "author": "薄暝",
+    "repo": "https://github.com/exynos967/astrbot_plugin_smart_segmentation",
+    "tags": [
+      "llm",
+      "分段",
+      "回复"
+    ]
+  },
+  "astrbot_plugin_newapi_model_status": {
+    "display_name": "NewAPI 模型健康度",
+    "desc": "使用 new_api_tools 的公开 embed 接口，生成并发送模型健康度图卡。",
+    "author": "薄暝",
+    "repo": "https://github.com/exynos967/astrbot_plugin_newapi_model_status",
+    "tags": [
+      "newapi"
+    ]
+  },
+  "astrbot_plugin_nitter_tweets": {
+    "display_name": "Nitter 推文记录",
+    "desc": "获取 X/Twitter 用户公开推文，支持媒体发送、定时推送和自动翻译。",
+    "author": "shitianyaa",
+    "repo": "https://github.com/shitianyaa/astrbot_plugin_nitter_tweets",
+    "social_link": "https://github.com/shitianyaa"
+  },
+  "astrbot_plugin_comfyui_hub": {
+    "display_name": "ComfyUI 枢纽",
+    "desc": "将 ComfyUI 的强大能力集成到 AstrBot，支持文生图、图生图、自动标签识别、智能审查、队列管理等功能。",
+    "author": "ReallyChooseC",
+    "repo": "https://github.com/ReallyChooseC/astrbot_plugin_comfyui_hub",
+    "tags": [
+      "ComfyUI"
+    ],
+    "social_link": "https://github.com/ReallyChooseC"
+  },
+  "astrbot_plugin_anysearch": {
+    "display_name": "Anysearch 实时联网搜索",
+    "desc": "调用 Anysearch API 实现联网搜索。支持通用网页搜索、新闻与文档检索、批量查询和网页正文提取，适合让 Bot 在回答中获取更及时、更可靠、更稳定的外部信息。",
+    "author": "AgIzT",
+    "repo": "https://github.com/AgIzT/astrbot_plugin_anysearch",
+    "tags": [
+      "网络搜索",
+      "联网",
+      "anysearch"
+    ]
+  },
+  "astrbot_plugin_e2b_code": {
+    "display_name": "☁️ E2B 云端沙箱",
+    "desc": "基于 E2B 安全云端沙箱的云端代码运行指令插件。支持群聊或私聊中通过显式指令运行代码，自动捕获标准输出（Stdout）、标准错误（Stderr）、返回结果（Result），并且支持将绘图结果（如 Matplotlib 等）自动提取并发回聊天中。沙箱内置对 Python, JavaScript, TypeScript, R, Java, Bash 等环境的支持。",
+    "author": "Rat0323",
+    "repo": "https://github.com/Rat0323/astrbot_plugin_e2b_code",
+    "tags": [
+      "工具",
+      "沙箱",
+      "代码",
+      "开发"
+    ]
+  },
+  "astrbot_plugin_Robomaster_Information": {
+    "display_name": "RoboMaster 论坛 AI 推送",
+    "desc": "RoboMaster 官方论坛里经常会出现开源项目、技术资料、规则讨论和赛季通知。为了更方便地获取论坛的近实时消息，本插件通过 AstrBot 定时监控论坛文章页，在发现新文章后自动抓取详情页正文，调用 AstrBot 当前配置的大模型生成技术摘要，并推送到指定 QQ 会话。",
+    "author": "asterShining",
+    "repo": "https://github.com/asterShining/astrbot_plugin_Robomaster_Information",
+    "tags": [
+      "robomaster"
+    ],
+    "social_link": "https://github.com/asterShining"
+  },
+  "astrbot_plugin_xnbot": {
+    "display_name": "XNBot",
+    "desc": "XNBot 移植插件。自带聊天流，Agent 记忆管理，Kuzu 图结构数据库，以及可编辑设定的配置文件，独立 WebUI，提供高质量且有趣的对话，支持长期记忆，模拟遗忘曲线，生活作息等。",
+    "author": "kurame123",
+    "repo": "https://github.com/kurame123/astrbot_plugin_xnbot"
+  },
   "astrbot_plugin_openlist_bot": {
     "display_name": "Openlist助手（RE.）",
     "desc": "由原本的Openlist助手插件重构优化而来",
