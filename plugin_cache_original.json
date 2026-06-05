@@ -2687,7 +2687,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 369,
+    "stars": 368,
     "version": "v4.10.6",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -2696,7 +2696,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-06-04T02:04:28Z",
+    "updated_at": "2026-06-05T21:21:01Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -3570,9 +3570,9 @@
     ],
     "social_link": "https://github.com/RichardLiuda",
     "category": "utilities",
-    "stars": 26,
+    "stars": 25,
     "version": "v2.2.3",
-    "updated_at": "2026-05-29T18:04:03Z",
+    "updated_at": "2026-06-05T21:21:07Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -5780,7 +5780,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 369,
+    "stars": 368,
     "version": "v4.10.6",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -5789,7 +5789,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-06-04T02:04:28Z",
+    "updated_at": "2026-06-05T21:21:01Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
