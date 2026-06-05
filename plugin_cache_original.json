@@ -434,12 +434,12 @@
     ],
     "social_link": "https://github.com/casama233",
     "stars": 0,
-    "version": "0.2.8",
+    "version": "0.2.10",
     "astrbot_version": ">=4.13.0",
     "support_platforms": [
       "whatsapp"
     ],
-    "updated_at": "2026-05-27T15:08:27Z",
+    "updated_at": "2026-06-05T19:55:50Z",
     "logo": "https://raw.githubusercontent.com/casama233/astrbot_plugin_whatsapp_adapter/main/logo.png"
   },
   "astrbot-plugin-qzone-ultra": {
@@ -10106,8 +10106,8 @@
     "social_link": "https://www.misakanet.site",
     "category": "utilities",
     "stars": 12,
-    "version": "v1.4.5",
-    "updated_at": "2026-05-21T16:49:26Z",
+    "version": "v1.4.7",
+    "updated_at": "2026-06-05T18:46:06Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_persona_plus/master/logo.png"
   },
   "astrbot_plugin_sticker": {
@@ -10767,8 +10767,8 @@
     ],
     "category": "integrations",
     "stars": 4,
-    "version": "v1.4.1",
-    "updated_at": "2026-05-13T03:46:34Z"
+    "version": "v1.4.2",
+    "updated_at": "2026-06-05T19:32:25Z"
   },
   "astrbot_plugin_admin_emoji_reply": {
     "desc": "自动为指定的用户回复表情消息，支持开关和自定义速度",
@@ -16553,9 +16553,9 @@
     "repo": "https://github.com/anka-afk/astrbot_plugin_humanlike",
     "category": "ai_tools",
     "tags": [],
-    "stars": 35,
+    "stars": 36,
     "version": "v0.2.2",
-    "updated_at": "2026-04-07T10:55:49Z"
+    "updated_at": "2026-06-05T19:26:04Z"
   },
   "astrbot_plugin_blue_archive": {
     "desc": "蔚蓝档案攻略查询 - 指令格式：攻略查询 <攻略名称>",
