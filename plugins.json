@@ -1,4 +1,17 @@
 {
+  "astrbot-plugin-math-plotter": {
+    "display_name": "数学函数绘图器",
+    "desc": "AI 辅导学习时自动调用，将数学方程、函数公式绘制为图像。支持一元函数、多函数对比、隐式方程、三维曲面、极坐标、参数方程、球坐标曲面、矢量场、隐式3D曲面等 11 种坐标系/绘图模式。",
+    "author": "D1ff1cult",
+    "repo": "https://github.com/D1ff1culTT/astrbot_plugin_math_plotter",
+    "tags": [
+      "学习辅导",
+      "ai增强",
+      "函数图像",
+      "数学函数"
+    ],
+    "social_link": "https://github.com/D1ff1culTT?tab=repositories"
+  },
   "astrbot_plugin_smart_segmentation": {
     "display_name": "智能分段",
     "desc": "使用 LLM 将 AstrBot 主回复自然拆分为多条聊天消息，并异步补发剩余段。",
