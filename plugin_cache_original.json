@@ -1,4 +1,24 @@
 {
+  "astrbot-plugin-tataru": {
+    "display_name": "塔塔露",
+    "desc": "最终幻想14 TataruBot2 的 AstrBot 插件迁移版本，支持活动日历、招募板、物价、logs、物品信息等功能一篮子查询。",
+    "author": "jawwe",
+    "repo": "https://github.com/jawwe/astrbot_plugin_tataru",
+    "tags": [
+      "最终幻想14",
+      "FFXIV",
+      "塔塔露机器人"
+    ],
+    "social_link": "https://github.com/jawwe",
+    "stars": 0,
+    "version": "v1.0.5",
+    "support_platforms": [
+      "aiocqhttp",
+      "qq_official"
+    ],
+    "updated_at": "2026-06-05T10:35:47Z",
+    "logo": "https://raw.githubusercontent.com/jawwe/astrbot_plugin_tataru/main/logo.png"
+  },
   "astrbot-plugin-math-plotter": {
     "display_name": "数学函数绘图器",
     "desc": "AI 辅导学习时自动调用，将数学方程、函数公式绘制为图像。支持一元函数、多函数对比、隐式方程、三维曲面、极坐标、参数方程、球坐标曲面、矢量场、隐式3D曲面等 11 种坐标系/绘图模式。",
@@ -55,7 +75,7 @@
     "tags": [],
     "stars": 2,
     "version": "0.6.1",
-    "updated_at": "2026-06-05T14:22:29Z"
+    "updated_at": "2026-06-05T16:28:54Z"
   },
   "astrbot_plugin_comfyui_hub": {
     "display_name": "ComfyUI 枢纽",
@@ -614,7 +634,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-05T14:54:29Z",
+    "updated_at": "2026-06-05T17:12:58Z",
     "logo": "https://raw.githubusercontent.com/vivy1024/astrbot_plugin_wave_memory/master/logo.png"
   },
   "astrbot_plugin_maimai_updater": {
@@ -987,9 +1007,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 115,
+    "stars": 116,
     "version": "3.3.0",
-    "updated_at": "2026-06-04T07:15:50Z",
+    "updated_at": "2026-06-05T16:26:27Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -1012,9 +1032,9 @@
     "author": "middcom,dream,deepseek",
     "repo": "https://github.com/middcom/astrbot_plugin_affection",
     "tags": [],
-    "stars": 18,
+    "stars": 19,
     "version": "v1.2",
-    "updated_at": "2026-06-03T11:42:41Z"
+    "updated_at": "2026-06-05T16:26:27Z"
   },
   "astrbot_plugin_media_wiki": {
     "display_name": "MediaWiki 通用查询",
@@ -5401,7 +5421,7 @@
     "category": "utilities",
     "stars": 10,
     "version": "v0.2.1",
-    "updated_at": "2026-05-18T17:59:58Z"
+    "updated_at": "2026-06-05T15:59:17Z"
   },
   "astrbot_plugin_skland": {
     "display_name": "森空岛签到",
@@ -6311,9 +6331,9 @@
     "social_link": "https://www.misakanet.site",
     "category": "ai_tools",
     "stars": 17,
-    "version": "v1.2.8",
-    "astrbot_version": ">=4.10.4",
-    "updated_at": "2026-06-04T13:54:40Z",
+    "version": "v1.2.9",
+    "astrbot_version": ">=4.25.3",
+    "updated_at": "2026-06-05T17:43:04Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_image_generation/master/logo.png"
   },
   "astrbot_plugin_group_geetest_verfy": {
@@ -6763,9 +6783,9 @@
       "manga"
     ],
     "category": "entertainment",
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.0",
-    "updated_at": "2026-03-17T10:04:53Z",
+    "updated_at": "2026-06-05T16:50:02Z",
     "logo": "https://raw.githubusercontent.com/xuedu/astrbot-plugin-copymanga/master/logo.png"
   },
   "astrbot_plugin_random_post_in_e621": {
@@ -10828,9 +10848,9 @@
       "galgame"
     ],
     "category": "entertainment",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.5",
-    "updated_at": "2026-06-05T13:28:19Z"
+    "updated_at": "2026-06-05T17:33:52Z"
   },
   "astrbot_plugins_steam_shop_price": {
     "desc": "用于查询 Steam 游戏的国区价格、史低信息，并支持与其他区服价格对比。支持识别游戏中文名。",
@@ -11220,9 +11240,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 226,
+    "stars": 227,
     "version": "2.3.4",
-    "updated_at": "2026-06-05T14:35:26Z",
+    "updated_at": "2026-06-05T17:09:07Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
