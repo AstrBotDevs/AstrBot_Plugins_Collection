@@ -7655,9 +7655,9 @@
     ],
     "social_link": "https://github.com/Xbodwf",
     "category": "entertainment",
-    "stars": 8,
+    "stars": 9,
     "version": "2.0.1",
-    "updated_at": "2026-05-27T02:42:18Z"
+    "updated_at": "2026-06-04T23:48:29Z"
   },
   "astrbot_plugin_QQbox": {
     "display_name": "QQbox",
@@ -11200,9 +11200,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 224,
+    "stars": 225,
     "version": "2.3.4",
-    "updated_at": "2026-06-04T11:10:09Z",
+    "updated_at": "2026-06-04T23:34:56Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
