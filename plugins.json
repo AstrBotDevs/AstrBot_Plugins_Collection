@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-tataru": {
+    "display_name": "塔塔露",
+    "desc": "最终幻想14 TataruBot2 的 AstrBot 插件迁移版本，支持活动日历、招募板、物价、logs、物品信息等功能一篮子查询。",
+    "author": "jawwe",
+    "repo": "https://github.com/jawwe/astrbot_plugin_tataru",
+    "tags": [
+      "最终幻想14",
+      "FFXIV",
+      "塔塔露机器人"
+    ],
+    "social_link": "https://github.com/jawwe"
+  },
   "astrbot-plugin-math-plotter": {
     "display_name": "数学函数绘图器",
     "desc": "AI 辅导学习时自动调用，将数学方程、函数公式绘制为图像。支持一元函数、多函数对比、隐式方程、三维曲面、极坐标、参数方程、球坐标曲面、矢量场、隐式3D曲面等 11 种坐标系/绘图模式。",
