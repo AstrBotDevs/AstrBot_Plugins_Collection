@@ -33,7 +33,7 @@
     "social_link": "https://github.com/D1ff1culTT?tab=repositories",
     "stars": 0,
     "version": "v1.0.0",
-    "updated_at": "2026-06-05T12:06:49Z"
+    "updated_at": "2026-06-06T09:25:15Z"
   },
   "astrbot_plugin_smart_segmentation": {
     "display_name": "智能分段",
@@ -6413,9 +6413,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "utilities",
-    "stars": 57,
+    "stars": 58,
     "version": "1.1.1",
-    "updated_at": "2026-06-01T01:50:56Z"
+    "updated_at": "2026-06-06T08:49:18Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -8432,12 +8432,12 @@
     "social_link": "https://github.com/piexian",
     "category": "ai_tools",
     "stars": 46,
-    "version": "v1.10.6",
+    "version": "v2.0.0",
     "astrbot_version": ">=4.10.4",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-28T02:25:51Z",
+    "updated_at": "2026-06-06T07:52:47Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -9713,7 +9713,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 289,
+    "stars": 290,
     "version": "v1.2.4",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -9725,7 +9725,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-06-05T13:11:25Z",
+    "updated_at": "2026-06-06T08:09:07Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -11846,9 +11846,9 @@
     ],
     "social_link": "https://github.com/SodaSizzle",
     "category": "entertainment",
-    "stars": 61,
+    "stars": 62,
     "version": "v2.1",
-    "updated_at": "2026-06-04T06:21:13Z",
+    "updated_at": "2026-06-06T09:05:48Z",
     "logo": "https://raw.githubusercontent.com/SodaSizzle/astrbot_plugin_meme_generator/master/logo.png"
   },
   "astrbot_plugin_baiduocr": {
@@ -12842,9 +12842,9 @@
     ],
     "category": "ai_tools",
     "author": null,
-    "stars": 45,
+    "stars": 44,
     "version": "2.6.0",
-    "updated_at": "2026-05-25T07:39:15Z"
+    "updated_at": "2026-06-06T09:14:59Z"
   },
   "astrbot_plugin_group_sign": {
     "name": "group_sign",
@@ -17127,9 +17127,9 @@
     "repo": "https://github.com/yuan199696/astrbot_plugin_comfyui",
     "category": "integrations",
     "tags": [],
-    "stars": 8,
+    "stars": 9,
     "version": "v1.0.0",
-    "updated_at": "2026-03-12T03:36:26Z"
+    "updated_at": "2026-06-06T08:58:40Z"
   },
   "astrbot_plugin_for_sd_webui": {
     "desc": "使用/draw调用本地（127.0.0.1）的stable diffusion进行文生图",
