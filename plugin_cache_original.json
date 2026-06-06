@@ -32,8 +32,8 @@
     ],
     "social_link": "https://github.com/D1ff1culTT?tab=repositories",
     "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-06-06T09:25:15Z"
+    "version": "v1.1.0",
+    "updated_at": "2026-06-06T10:08:36Z"
   },
   "astrbot_plugin_smart_segmentation": {
     "display_name": "智能分段",
@@ -720,9 +720,9 @@
     "social_link": "https://github.com/Ayleovelle",
     "tags": [],
     "stars": 40,
-    "version": "1.4.6",
+    "version": "1.4.7",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-06-05T09:56:28Z",
+    "updated_at": "2026-06-06T10:20:35Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -2218,9 +2218,9 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "category": "entertainment",
-    "stars": 31,
+    "stars": 32,
     "version": "v2.5.7",
-    "updated_at": "2026-05-31T08:30:06Z",
+    "updated_at": "2026-06-06T11:24:07Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot_plugin_atrifeed/main/logo.png"
   },
   "astrbot-plugin-self-open-llm-vtuber": {
@@ -3602,8 +3602,8 @@
     "social_link": "https://github.com/menglimi",
     "category": "ai_tools",
     "stars": 49,
-    "version": "3.1.0",
-    "updated_at": "2026-06-05T09:54:25Z",
+    "version": "3.1.1",
+    "updated_at": "2026-06-06T10:34:10Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -4205,9 +4205,9 @@
     ],
     "social_link": "https://github.com/Radiant303",
     "category": "ai_tools",
-    "stars": 37,
+    "stars": 38,
     "version": "v2.3.1",
-    "updated_at": "2026-06-05T11:33:30Z",
+    "updated_at": "2026-06-06T10:04:01Z",
     "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_clonetts/master/logo.png"
   },
   "astrbot-plugin-ssh": {
@@ -9725,7 +9725,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-06-06T08:09:07Z",
+    "updated_at": "2026-06-06T10:00:10Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -11846,9 +11846,9 @@
     ],
     "social_link": "https://github.com/SodaSizzle",
     "category": "entertainment",
-    "stars": 62,
+    "stars": 63,
     "version": "v2.1",
-    "updated_at": "2026-06-06T09:05:48Z",
+    "updated_at": "2026-06-06T11:23:53Z",
     "logo": "https://raw.githubusercontent.com/SodaSizzle/astrbot_plugin_meme_generator/master/logo.png"
   },
   "astrbot_plugin_baiduocr": {
@@ -16533,9 +16533,9 @@
       "搬史"
     ],
     "category": "utilities",
-    "stars": 569,
+    "stars": 570,
     "version": "v0.916",
-    "updated_at": "2026-06-03T03:41:26Z"
+    "updated_at": "2026-06-06T10:55:43Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
