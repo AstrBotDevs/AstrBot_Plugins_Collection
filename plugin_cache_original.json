@@ -74,8 +74,8 @@
     "social_link": "https://github.com/shitianyaa",
     "tags": [],
     "stars": 2,
-    "version": "0.6.1",
-    "updated_at": "2026-06-05T16:28:54Z"
+    "version": "0.6.2",
+    "updated_at": "2026-06-06T01:25:22Z"
   },
   "astrbot_plugin_comfyui_hub": {
     "display_name": "ComfyUI 枢纽",
@@ -634,7 +634,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-05T17:12:58Z",
+    "updated_at": "2026-06-06T02:31:05Z",
     "logo": "https://raw.githubusercontent.com/vivy1024/astrbot_plugin_wave_memory/master/logo.png"
   },
   "astrbot_plugin_maimai_updater": {
@@ -889,9 +889,9 @@
     ],
     "social_link": "",
     "stars": 42,
-    "version": "3.3.17",
+    "version": "3.3.18",
     "astrbot_version": ">=4.16,<5",
-    "updated_at": "2026-06-05T07:44:01Z",
+    "updated_at": "2026-06-06T02:21:34Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -3980,9 +3980,9 @@
     ],
     "social_link": "https://github.com/leafliber",
     "category": "ai_tools",
-    "stars": 27,
+    "stars": 28,
     "version": "v1.11.2",
-    "updated_at": "2026-05-03T06:25:52Z",
+    "updated_at": "2026-06-06T03:12:14Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -6458,9 +6458,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 327,
-    "version": "3.1.4",
-    "updated_at": "2026-06-05T15:17:39Z",
+    "stars": 328,
+    "version": "3.1.5",
+    "updated_at": "2026-06-06T03:01:50Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -11240,9 +11240,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 227,
+    "stars": 228,
     "version": "2.3.4",
-    "updated_at": "2026-06-05T17:09:07Z",
+    "updated_at": "2026-06-06T03:12:09Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -14165,9 +14165,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
-    "stars": 85,
+    "stars": 84,
     "version": "v1.1.4",
-    "updated_at": "2026-06-05T06:51:50Z",
+    "updated_at": "2026-06-06T03:12:05Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
