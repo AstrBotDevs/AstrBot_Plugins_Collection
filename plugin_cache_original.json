@@ -275,7 +275,7 @@
       "qq_official",
       "telegram"
     ],
-    "updated_at": "2026-06-05T12:00:16Z",
+    "updated_at": "2026-06-06T17:30:35Z",
     "logo": "https://raw.githubusercontent.com/irmia2026/irmia_devkit_open/main/logo.png"
   },
   "astrbot_plugin_esjzone_downloader": {
@@ -7257,9 +7257,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "utilities",
-    "stars": 80,
+    "stars": 79,
     "version": "1.1.5",
-    "updated_at": "2026-06-06T06:07:40Z",
+    "updated_at": "2026-06-06T17:22:38Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
@@ -7858,7 +7858,7 @@
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-06-03T20:42:23Z",
+    "updated_at": "2026-06-06T17:28:51Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -9714,7 +9714,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 292,
+    "stars": 293,
     "version": "v1.2.4",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -9726,7 +9726,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-06-06T15:51:45Z",
+    "updated_at": "2026-06-06T17:24:58Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -9916,9 +9916,9 @@
       "实用"
     ],
     "category": "utilities",
-    "stars": 17,
+    "stars": 18,
     "version": "v2.8.7",
-    "updated_at": "2026-05-27T09:24:12Z",
+    "updated_at": "2026-06-06T17:28:05Z",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
   "astrbot_plugin_acm_helper": {
@@ -15452,9 +15452,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
     "category": "ai_tools",
-    "stars": 57,
+    "stars": 58,
     "version": "v2.0.0",
-    "updated_at": "2026-06-03T07:48:13Z",
+    "updated_at": "2026-06-06T17:42:42Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_browser/main/logo.png"
   },
   "astrbot_plugin_qqadmin": {
@@ -15650,9 +15650,9 @@
       "安全"
     ],
     "category": "utilities",
-    "stars": 17,
+    "stars": 18,
     "version": "v2.8.7",
-    "updated_at": "2026-05-27T09:24:12Z",
+    "updated_at": "2026-06-06T17:28:05Z",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
   "astrbot_plugin_quote_collocter": {
