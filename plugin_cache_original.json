@@ -668,7 +668,7 @@
     "stars": 4,
     "version": "1.1.0",
     "astrbot_version": ">=4.16,<5",
-    "updated_at": "2026-05-18T08:34:42Z",
+    "updated_at": "2026-06-06T16:02:39Z",
     "logo": "https://raw.githubusercontent.com/zhou-error/astrbot_plugin_indextts/main/logo.png"
   },
   "astrbot_plugin_mail": {
@@ -720,10 +720,10 @@
     "repo": "https://github.com/Ayleovelle/astrbot_plugin_sylanne",
     "social_link": "https://github.com/Ayleovelle",
     "tags": [],
-    "stars": 40,
+    "stars": 41,
     "version": "1.4.7",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-06-06T10:20:35Z",
+    "updated_at": "2026-06-06T16:20:34Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -1033,9 +1033,9 @@
     "author": "middcom,dream,deepseek",
     "repo": "https://github.com/middcom/astrbot_plugin_affection",
     "tags": [],
-    "stars": 19,
+    "stars": 20,
     "version": "v1.2",
-    "updated_at": "2026-06-05T16:26:27Z"
+    "updated_at": "2026-06-06T16:47:03Z"
   },
   "astrbot_plugin_media_wiki": {
     "display_name": "MediaWiki 通用查询",
@@ -5308,7 +5308,7 @@
     "category": "entertainment",
     "stars": 27,
     "version": "v3.1.9",
-    "updated_at": "2026-05-30T10:29:55Z",
+    "updated_at": "2026-06-06T15:50:46Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
@@ -9714,7 +9714,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 291,
+    "stars": 292,
     "version": "v1.2.4",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -9726,7 +9726,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-06-06T12:00:40Z",
+    "updated_at": "2026-06-06T15:51:45Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -11758,9 +11758,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
-    "stars": 79,
+    "stars": 80,
     "version": "3.1.5",
-    "updated_at": "2026-06-05T14:57:44Z",
+    "updated_at": "2026-06-06T17:13:25Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "findx010197/astrbot_plugin_reminder": {
@@ -15221,9 +15221,9 @@
     ],
     "social_link": "https://docs.sayu-bot.com/",
     "category": "integrations",
-    "stars": 42,
+    "stars": 43,
     "version": "v0.4.7",
-    "updated_at": "2026-06-04T14:47:21Z"
+    "updated_at": "2026-06-06T15:29:21Z"
   },
   "astrbot_plugin_xyzw": {
     "author": "四郎",
@@ -16088,9 +16088,9 @@
       "消息推送"
     ],
     "category": "integrations",
-    "stars": 14,
+    "stars": 15,
     "version": "v0.2.2",
-    "updated_at": "2026-05-23T02:06:29Z"
+    "updated_at": "2026-06-06T16:25:26Z"
   },
   "astrbot_plugin_hello77": {
     "author": "hello七七",
@@ -16579,9 +16579,9 @@
       "图床"
     ],
     "category": "entertainment",
-    "stars": 312,
+    "stars": 313,
     "version": "v3.21",
-    "updated_at": "2026-06-06T12:00:48Z"
+    "updated_at": "2026-06-06T15:32:52Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
