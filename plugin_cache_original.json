@@ -7852,13 +7852,13 @@
     ],
     "category": "entertainment",
     "stars": 52,
-    "version": "2.6.6",
+    "version": "2.6.7",
     "astrbot_version": ">=4.24.1",
     "support_platforms": [
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-06-06T17:28:51Z",
+    "updated_at": "2026-06-06T20:44:22Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -9403,10 +9403,10 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "ai_tools",
-    "stars": 105,
+    "stars": 106,
     "version": "V1.2.3.hotfix.2",
     "astrbot_version": ">=4.11.0",
-    "updated_at": "2026-06-05T14:35:01Z",
+    "updated_at": "2026-06-06T19:39:37Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -12651,9 +12651,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "ai_tools",
-    "stars": 79,
+    "stars": 80,
     "version": "2.1.1",
-    "updated_at": "2026-06-04T13:03:11Z"
+    "updated_at": "2026-06-06T20:40:12Z"
   },
   "cngal_search": {
     "desc": "CnGal查询",
@@ -14259,12 +14259,12 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 36,
+    "stars": 37,
     "version": "v2.0.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-30T13:29:13Z",
+    "updated_at": "2026-06-06T19:59:53Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_emoji_like/main/logo.png"
   },
   "astrbot_plugin_lanraragi": {
