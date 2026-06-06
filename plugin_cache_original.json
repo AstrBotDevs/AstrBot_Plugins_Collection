@@ -252,7 +252,8 @@
     "social_link": "https://github.com/mmyddd",
     "stars": 0,
     "version": "v0.1.0",
-    "updated_at": "2026-05-23T15:49:55Z"
+    "updated_at": "2026-06-06T15:13:07Z",
+    "logo": "https://raw.githubusercontent.com/mmyddd/astrbot_plugin_not_enough_crash/master/logo.png"
   },
   "astrbot_plugin_irmia_devkit": {
     "display_name": "弥亚开发工具箱",
@@ -1613,13 +1614,13 @@
       "更多主动功能"
     ],
     "social_link": "www.wyccotccy.cn",
-    "stars": 29,
+    "stars": 30,
     "version": "5.0.0",
     "astrbot_version": ">=4.24.2",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-06T13:37:32Z",
+    "updated_at": "2026-06-06T14:39:31Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -10180,10 +10181,10 @@
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
     "category": "entertainment",
-    "stars": 25,
+    "stars": 26,
     "version": "v4.1.0",
     "astrbot_version": ">=4.24",
-    "updated_at": "2026-06-04T11:56:54Z",
+    "updated_at": "2026-06-06T14:49:54Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_Favour_Ultra/main/logo.png"
   },
   "astrbot_plugin_owcx": {
@@ -11242,7 +11243,7 @@
     "category": "ai_tools",
     "stars": 229,
     "version": "2.3.4",
-    "updated_at": "2026-06-06T12:00:50Z",
+    "updated_at": "2026-06-06T15:00:00Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
