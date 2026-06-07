@@ -1,4 +1,55 @@
 {
+  "astrbot-plugin-ottohub": {
+    "display_name": "Ottohub Adapter",
+    "desc": "AstrBot 的 OttoHub（ottohub.cn） 平台适配器插件",
+    "author": "wCSnDb",
+    "repo": "https://github.com/wCSnDb/astrbot_plugin_ottohub",
+    "tags": [
+      "适配器",
+      "评论回复",
+      "私信回复"
+    ],
+    "social_link": "https://github.com/wCSnDb",
+    "stars": 1,
+    "version": "0.1.1",
+    "updated_at": "2026-06-05T00:21:32Z",
+    "logo": "https://raw.githubusercontent.com/wCSnDb/astrbot_plugin_ottohub/main/logo.png"
+  },
+  "astrbot-plugin-camera-exif": {
+    "display_name": "相机EXIF分析",
+    "desc": "自动检测接收的图片是否为相机拍摄，提取并分析EXIF数据（快门次数、光圈、ISO、焦距、GPS等），支持所有主流相机厂商RAW格式解析，自动回传元数据至原始聊天渠道。提供19种字段单独查询指令，支持群聊/私聊黑白名单、权限隔离与频率限制。",
+    "author": "昊天兽王",
+    "repo": "https://github.com/haotianshouwang/astrbot_plugin_camera_exif",
+    "tags": [
+      "相机",
+      "摄影",
+      "EXIF",
+      "工具"
+    ],
+    "social_link": "https://昊天兽王.top",
+    "stars": 1,
+    "version": "v1.1.1",
+    "astrbot_version": ">=4.11.2",
+    "support_platforms": [
+      "aiocqhttp"
+    ],
+    "updated_at": "2026-06-05T06:07:42Z",
+    "logo": "https://raw.githubusercontent.com/haotianshouwang/astrbot_plugin_camera_exif/main/logo.png"
+  },
+  "astrbot-plugin-galgame-web": {
+    "display_name": "类Galgame网页端聊天窗口",
+    "desc": "一个 AstrBot 插件，在浏览器中呈现 Galgame 风格的webchat界面",
+    "author": "solitude",
+    "repo": "https://github.com/insolitude610/astrbot_plugin_galgame_web",
+    "tags": [
+      "galgame",
+      "webchat"
+    ],
+    "social_link": "https://github.com/insolitude610",
+    "stars": 0,
+    "version": "0.7.0",
+    "updated_at": "2026-06-07T16:25:46Z"
+  },
   "astrbot-plugin-feishu-todo": {
     "display_name": "飞书待办提醒",
     "desc": "自动识别飞书消息中的任务并创建飞书待办，支持多级 DDL 提醒",
@@ -212,8 +263,8 @@
       "网盘管理"
     ],
     "stars": 0,
-    "version": "v1.0.5",
-    "updated_at": "2026-06-04T13:36:45Z",
+    "version": "v1.0.6",
+    "updated_at": "2026-06-07T16:54:03Z",
     "logo": "https://raw.githubusercontent.com/Volundio/astrbot_plugin_openlist_bot/main/logo.png"
   },
   "astrbot-plugin-notion-bridge": {
@@ -312,7 +363,7 @@
       "安全编辑",
       "文件处理"
     ],
-    "stars": 26,
+    "stars": 27,
     "version": "2.4.0",
     "astrbot_version": ">=4.16",
     "support_platforms": [
@@ -320,7 +371,7 @@
       "qq_official",
       "telegram"
     ],
-    "updated_at": "2026-06-06T17:30:35Z",
+    "updated_at": "2026-06-07T16:45:11Z",
     "logo": "https://raw.githubusercontent.com/irmia2026/irmia_devkit_open/main/logo.png"
   },
   "astrbot_plugin_esjzone_downloader": {
@@ -4893,9 +4944,9 @@
       "codegen"
     ],
     "category": "ai_tools",
-    "stars": 56,
+    "stars": 57,
     "version": "1.4.0",
-    "updated_at": "2026-06-06T04:16:56Z",
+    "updated_at": "2026-06-07T16:37:18Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -9468,7 +9519,7 @@
       "发言统计"
     ],
     "category": "utilities",
-    "stars": 18,
+    "stars": 19,
     "version": "2.1.1",
     "astrbot_version": ">=4.16",
     "support_platforms": [
@@ -9477,7 +9528,7 @@
       "discord",
       "lark"
     ],
-    "updated_at": "2026-06-05T09:39:52Z",
+    "updated_at": "2026-06-07T16:39:32Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
@@ -10152,9 +10203,9 @@
     ],
     "social_link": "https://www.misakanet.site",
     "category": "utilities",
-    "stars": 12,
+    "stars": 13,
     "version": "v1.4.7",
-    "updated_at": "2026-06-05T18:46:06Z",
+    "updated_at": "2026-06-07T16:38:17Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_persona_plus/master/logo.png"
   },
   "astrbot_plugin_sticker": {
@@ -10227,10 +10278,10 @@
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
     "category": "entertainment",
-    "stars": 26,
+    "stars": 27,
     "version": "v4.1.0",
     "astrbot_version": ">=4.24",
-    "updated_at": "2026-06-06T14:49:54Z",
+    "updated_at": "2026-06-07T16:48:48Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_Favour_Ultra/main/logo.png"
   },
   "astrbot_plugin_owcx": {
