@@ -50,6 +50,51 @@ class MetadataParsingTests(unittest.TestCase):
         self.assertEqual(block_metadata["support_platforms"], ["aiocqhttp", "qq"])
 
 
+class GitHubRequestTests(unittest.TestCase):
+    def test_select_github_token_round_robins_tokens(self):
+        module = load_transform_module()
+        module.GITHUB_TOKENS = ["token-a", "token-b"]
+        module._TOKEN_INDEX = 0
+
+        self.assertEqual(module.select_github_token(), "token-a")
+        self.assertEqual(module.select_github_token(), "token-b")
+        self.assertEqual(module.select_github_token(), "token-a")
+
+    def test_calculate_retry_delay_uses_rate_limit_reset(self):
+        module = load_transform_module()
+        original_time = module.time.time
+        original_cap = module.RATE_LIMIT_WAIT_CAP
+        original_padding = module.RATE_LIMIT_WAIT_PADDING
+        try:
+            module.time.time = lambda: 100.0
+            module.RATE_LIMIT_WAIT_CAP = 900
+            module.RATE_LIMIT_WAIT_PADDING = 5
+
+            delay = module.calculate_retry_delay(
+                1,
+                403,
+                {"X-RateLimit-Remaining": "0", "X-RateLimit-Reset": "130"},
+            )
+        finally:
+            module.time.time = original_time
+            module.RATE_LIMIT_WAIT_CAP = original_cap
+            module.RATE_LIMIT_WAIT_PADDING = original_padding
+
+        self.assertEqual(delay, 35)
+
+    def test_calculate_retry_delay_immediately_tries_next_token(self):
+        module = load_transform_module()
+        module.GITHUB_TOKENS = ["token-a", "token-b"]
+
+        delay = module.calculate_retry_delay(
+            1,
+            403,
+            {"X-RateLimit-Remaining": "0", "X-RateLimit-Reset": "130"},
+        )
+
+        self.assertEqual(delay, 0)
+
+
 class TransformPluginDataTests(unittest.TestCase):
     def test_transform_plugin_data_includes_metadata_fields_from_repo_info(self):
         module = load_transform_module()
