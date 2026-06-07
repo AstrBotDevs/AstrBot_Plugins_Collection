@@ -55,13 +55,24 @@ class GitHubRequestTests(unittest.TestCase):
         module = load_transform_module()
         module.GITHUB_TOKENS = ["token-a", "token-b"]
         module._TOKEN_INDEX = 0
+        module._TOKEN_AVAILABLE_AT = {}
 
         self.assertEqual(module.select_github_token(), "token-a")
         self.assertEqual(module.select_github_token(), "token-b")
         self.assertEqual(module.select_github_token(), "token-a")
 
+    def test_select_github_token_skips_rate_limited_token(self):
+        module = load_transform_module()
+        module.GITHUB_TOKENS = ["token-a", "token-b"]
+        module._TOKEN_INDEX = 0
+        module._TOKEN_AVAILABLE_AT = {"token-a": module.time.time() + 60}
+
+        self.assertEqual(module.select_github_token(), "token-b")
+
     def test_calculate_retry_delay_uses_rate_limit_reset(self):
         module = load_transform_module()
+        module.GITHUB_TOKENS = []
+        module._TOKEN_AVAILABLE_AT = {}
         original_time = module.time.time
         original_cap = module.RATE_LIMIT_WAIT_CAP
         original_padding = module.RATE_LIMIT_WAIT_PADDING
@@ -85,6 +96,7 @@ class GitHubRequestTests(unittest.TestCase):
     def test_calculate_retry_delay_immediately_tries_next_token(self):
         module = load_transform_module()
         module.GITHUB_TOKENS = ["token-a", "token-b"]
+        module._TOKEN_AVAILABLE_AT = {}
 
         delay = module.calculate_retry_delay(
             1,
