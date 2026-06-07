@@ -13,6 +13,7 @@ import urllib.error
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
+from threading import Lock
 from typing import Any, Dict, Optional, Tuple
 
 
@@ -24,9 +25,27 @@ MAX_RETRIES = int(os.getenv("MAX_RETRIES", "5"))
 BASE_DELAY = float(os.getenv("BASE_DELAY", "2"))
 MAX_DELAY = float(os.getenv("MAX_DELAY", "30"))
 MAX_WORKERS = int(os.getenv("MAX_WORKERS", "12"))
+RATE_LIMIT_WAIT_PADDING = float(os.getenv("RATE_LIMIT_WAIT_PADDING", "5"))
+RATE_LIMIT_WAIT_CAP = float(os.getenv("RATE_LIMIT_WAIT_CAP", "900"))
 
-PAT_TOKEN = os.getenv("PAT_TOKEN", "").strip()
 GITHUB_URL = "https://raw.githubusercontent.com/AstrBotDevs/AstrBot_Plugins_Collection/main/plugins.json"
+
+GITHUB_TOKENS = []
+_TOKEN_LOCK = Lock()
+_TOKEN_INDEX = 0
+_TOKEN_AVAILABLE_AT: Dict[str, float] = {}
+
+
+def load_github_tokens() -> list[str]:
+    tokens: list[str] = []
+    for env_name in ("PAT_TOKEN", "PAT_TOKEN_2"):
+        token = os.getenv(env_name, "").strip()
+        if token and token not in tokens:
+            tokens.append(token)
+    return tokens
+
+
+GITHUB_TOKENS = load_github_tokens()
 
 
 def run_cmd(args: list[str], check: bool = True) -> subprocess.CompletedProcess[str]:
@@ -50,34 +69,185 @@ def save_json(path: str, data: Any, pretty: bool = False) -> None:
             json.dump(data, f, ensure_ascii=False, separators=(",", ":"))
 
 
-def get_headers(accept: str = "application/vnd.github+json") -> Dict[str, str]:
+def select_github_token() -> str:
+    global _TOKEN_INDEX
+    if not GITHUB_TOKENS:
+        return ""
+    while True:
+        wait_seconds = 0.0
+        with _TOKEN_LOCK:
+            now = time.time()
+            soonest_available_at: Optional[float] = None
+            for offset in range(len(GITHUB_TOKENS)):
+                token_index = (_TOKEN_INDEX + offset) % len(GITHUB_TOKENS)
+                token = GITHUB_TOKENS[token_index]
+                available_at = _TOKEN_AVAILABLE_AT.get(token, 0.0)
+                if available_at <= now:
+                    _TOKEN_INDEX = token_index + 1
+                    return token
+                if soonest_available_at is None or available_at < soonest_available_at:
+                    soonest_available_at = available_at
+
+            if soonest_available_at is not None:
+                wait_seconds = max(soonest_available_at - now, BASE_DELAY)
+
+        wait_seconds = min(wait_seconds or BASE_DELAY, RATE_LIMIT_WAIT_CAP)
+        print(f"    所有 GitHub token 均在限流冷却中，等待 {wait_seconds:.1f}s", flush=True)
+        time.sleep(wait_seconds)
+
+
+def get_headers(
+    accept: str = "application/vnd.github+json",
+    token: Optional[str] = None,
+) -> Dict[str, str]:
     headers = {
         "Accept": accept,
         "User-Agent": "GitHub-Action-Plugin-Transformer",
     }
-    if PAT_TOKEN:
-        headers["Authorization"] = f"token {PAT_TOKEN}"
+    if token:
+        headers["Authorization"] = f"token {token}"
     return headers
 
 
-def http_get_json(url: str, timeout: int = 20) -> Tuple[Optional[Dict[str, Any]], int]:
-    req = urllib.request.Request(url, headers=get_headers())
+def parse_positive_float(value: Optional[str]) -> Optional[float]:
+    if not value:
+        return None
+    try:
+        parsed = float(value)
+    except ValueError:
+        return None
+    return parsed if parsed > 0 else None
+
+
+def calculate_retry_delay(
+    attempt: int,
+    status: int,
+    headers: Any,
+) -> float:
+    retry_after = parse_positive_float(headers.get("Retry-After"))
+    if retry_after is not None:
+        return min(retry_after, RATE_LIMIT_WAIT_CAP)
+
+    remaining = headers.get("X-RateLimit-Remaining")
+    reset_at = parse_positive_float(headers.get("X-RateLimit-Reset"))
+    if status in (403, 429) and remaining == "0" and reset_at is not None:
+        if has_available_github_token():
+            return 0
+        wait_seconds = reset_at - time.time() + RATE_LIMIT_WAIT_PADDING
+        return min(max(wait_seconds, BASE_DELAY), RATE_LIMIT_WAIT_CAP)
+
+    delay = min(BASE_DELAY * (2 ** (attempt - 1)), MAX_DELAY)
+    return delay + random.uniform(0, delay * 0.5)
+
+
+def has_available_github_token() -> bool:
+    if len(GITHUB_TOKENS) <= 1:
+        return False
+    now = time.time()
+    with _TOKEN_LOCK:
+        return any(_TOKEN_AVAILABLE_AT.get(token, 0.0) <= now for token in GITHUB_TOKENS)
+
+
+def calculate_token_available_at(status: int, headers: Any) -> float:
+    retry_after = parse_positive_float(headers.get("Retry-After"))
+    now = time.time()
+    if retry_after is not None:
+        return now + min(retry_after, RATE_LIMIT_WAIT_CAP)
+
+    remaining = headers.get("X-RateLimit-Remaining")
+    reset_at = parse_positive_float(headers.get("X-RateLimit-Reset"))
+    if status in (403, 429) and remaining == "0" and reset_at is not None:
+        return min(reset_at + RATE_LIMIT_WAIT_PADDING, now + RATE_LIMIT_WAIT_CAP)
+
+    return now + BASE_DELAY
+
+
+def mark_github_token_rate_limited(token: str, status: int, headers: Any) -> None:
+    if not token:
+        return
+    available_at = calculate_token_available_at(status, headers)
+    with _TOKEN_LOCK:
+        _TOKEN_AVAILABLE_AT[token] = max(
+            _TOKEN_AVAILABLE_AT.get(token, 0.0),
+            available_at,
+        )
+
+
+def is_rate_limited(payload: Optional[Dict[str, Any]], status: int, headers: Any) -> bool:
+    if status == 429:
+        return True
+    if status != 403:
+        return False
+    if headers.get("X-RateLimit-Remaining") == "0":
+        return True
+    if isinstance(payload, dict):
+        message = str(payload.get("message", "")).lower()
+        return "rate limit" in message or "secondary rate limit" in message
+    return False
+
+
+def should_retry_json_request(
+    payload: Optional[Dict[str, Any]],
+    status: int,
+    headers: Any,
+) -> bool:
+    return status == -1 or status in (500, 502, 503, 504) or is_rate_limited(payload, status, headers)
+
+
+def http_get_json(url: str, timeout: int = 20) -> Tuple[Optional[Dict[str, Any]], int, Any, str]:
+    token = select_github_token()
+    req = urllib.request.Request(url, headers=get_headers(token=token))
     try:
         with urllib.request.urlopen(req, timeout=timeout) as resp:
             status = resp.getcode()
             body = resp.read().decode("utf-8", errors="replace")
             if not body:
-                return {}, status
-            return json.loads(body), status
+                return {}, status, resp.headers, token
+            return json.loads(body), status, resp.headers, token
     except urllib.error.HTTPError as e:
         status = e.code
         try:
             body = e.read().decode("utf-8", errors="replace")
-            return (json.loads(body) if body else {}), status
+            return (json.loads(body) if body else {}), status, e.headers, token
         except Exception:
-            return {}, status
+            return {}, status, e.headers, token
     except Exception:
-        return None, -1
+        return None, -1, {}, token
+
+
+def http_get_json_with_retries(
+    url: str,
+    *,
+    timeout: int = 20,
+    context: str,
+) -> Tuple[Optional[Dict[str, Any]], int, Any]:
+    payload: Optional[Dict[str, Any]] = None
+    status = -1
+    headers: Any = {}
+    for attempt in range(1, MAX_RETRIES + 1):
+        payload, status, headers, token = http_get_json(url, timeout=timeout)
+        if is_rate_limited(payload, status, headers):
+            mark_github_token_rate_limited(token, status, headers)
+
+        if not should_retry_json_request(payload, status, headers):
+            return payload, status, headers
+
+        if attempt >= MAX_RETRIES:
+            break
+
+        delay = calculate_retry_delay(attempt, status, headers)
+        if delay <= 0:
+            print(
+                f"    {context} 请求失败 HTTP {status}，切换 GitHub token 后立即重试 ({attempt}/{MAX_RETRIES})",
+                flush=True,
+            )
+        else:
+            print(
+                f"    {context} 请求失败 HTTP {status}，等待 {delay:.1f}s 后重试 ({attempt}/{MAX_RETRIES})",
+                flush=True,
+            )
+            time.sleep(delay)
+    return payload, status, headers
 
 
 def configure_git() -> None:
@@ -90,7 +260,7 @@ def fetch_original_plugin_data() -> Tuple[bool, Dict[str, Any]]:
     print("开始获取原始插件数据...", flush=True)
     req = urllib.request.Request(
         GITHUB_URL,
-        headers=get_headers(accept="application/json"),
+        headers=get_headers(accept="application/json", token=select_github_token()),
     )
     try:
         with urllib.request.urlopen(req, timeout=30) as resp:
@@ -167,32 +337,21 @@ def build_cache_by_repo(cache_data: Dict[str, Any]) -> Dict[str, Dict[str, Any]]
 
 def fetch_repo(owner: str, repo: str) -> Tuple[Optional[Dict[str, Any]], str]:
     url = f"https://api.github.com/repos/{owner}/{repo}"
-    for attempt in range(1, MAX_RETRIES + 1):
-        if attempt > 1:
-            delay = min(BASE_DELAY * (2 ** (attempt - 2)), MAX_DELAY)
-            delay += random.uniform(0, delay * 0.5)
-            print(f"    第 {attempt} 次尝试 (延迟 {delay:.1f}s)...", flush=True)
-            time.sleep(delay)
-
-        payload, status = http_get_json(url, timeout=20 if attempt > 1 else 15)
-        if payload is None and status == -1:
-            pass
-        elif status == 200 and isinstance(payload, dict) and "stargazers_count" in payload:
-            return payload, "success"
-        elif status in (301, 302):
-            return payload if isinstance(payload, dict) else {}, "redirected"
-        elif status == 404:
-            return payload if isinstance(payload, dict) else {}, "deleted"
-        elif status == 403:
-            return payload if isinstance(payload, dict) else {}, "api_limit"
-        elif status in (429, 502, 503, 504):
-            print(f"    临时错误 HTTP {status}，准备重试", flush=True)
-        else:
-            if status > 0:
-                print(f"    未知HTTP状态码: {status}", flush=True)
-
-        if attempt < MAX_RETRIES:
-            print(f"  尝试 {attempt}/{MAX_RETRIES} 失败，准备重试...", flush=True)
+    payload, status, _ = http_get_json_with_retries(
+        url,
+        timeout=15,
+        context=f"{owner}/{repo}",
+    )
+    if status == 200 and isinstance(payload, dict) and "stargazers_count" in payload:
+        return payload, "success"
+    if status in (301, 302):
+        return payload if isinstance(payload, dict) else {}, "redirected"
+    if status == 404:
+        return payload if isinstance(payload, dict) else {}, "deleted"
+    if status == 403:
+        return payload if isinstance(payload, dict) else {}, "api_limit"
+    if status > 0:
+        print(f"    未知HTTP状态码: {status}", flush=True)
 
     return None, "network_error"
 
@@ -293,7 +452,11 @@ def parse_metadata_text(metadata_text: str) -> Dict[str, Any]:
 def extract_metadata_fields(owner: str, repo: str) -> Dict[str, Any]:
     for metadata_file in ("metadata.yml", "metadata.yaml"):
         url = f"https://api.github.com/repos/{owner}/{repo}/contents/{metadata_file}"
-        payload, status = http_get_json(url, timeout=10)
+        payload, status, _ = http_get_json_with_retries(
+            url,
+            timeout=10,
+            context=f"{owner}/{repo}/{metadata_file}",
+        )
         if status != 200 or not isinstance(payload, dict):
             continue
         content = payload.get("content")
@@ -316,7 +479,11 @@ def extract_version(owner: str, repo: str) -> str:
 
 def extract_logo(owner: str, repo: str, default_branch: str) -> str:
     url = f"https://api.github.com/repos/{owner}/{repo}/contents/logo.png"
-    payload, status = http_get_json(url, timeout=10)
+    payload, status, _ = http_get_json_with_retries(
+        url,
+        timeout=10,
+        context=f"{owner}/{repo}/logo.png",
+    )
     if status == 200 and isinstance(payload, dict) and payload.get("name") == "logo.png":
         return f"https://raw.githubusercontent.com/{owner}/{repo}/{default_branch}/logo.png"
     return ""
