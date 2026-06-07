@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-galgame-web": {
+    "display_name": "类Galgame网页端聊天窗口",
+    "desc": "一个 AstrBot 插件，在浏览器中呈现 Galgame 风格的webchat界面",
+    "author": "solitude",
+    "repo": "https://github.com/insolitude610/astrbot_plugin_galgame_web",
+    "tags": [
+      "galgame",
+      "webchat"
+    ],
+    "social_link": "https://github.com/insolitude610"
+  },
   "astrbot-plugin-feishu-todo": {
     "display_name": "飞书待办提醒",
     "desc": "自动识别飞书消息中的任务并创建飞书待办，支持多级 DDL 提醒",
