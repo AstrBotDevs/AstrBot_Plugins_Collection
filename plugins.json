@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-ottohub": {
+    "display_name": "Ottohub Adapter",
+    "desc": "AstrBot 的 OttoHub（ottohub.cn） 平台适配器插件",
+    "author": "wCSnDb",
+    "repo": "https://github.com/wCSnDb/astrbot_plugin_ottohub",
+    "tags": [
+      "适配器",
+      "评论回复",
+      "私信回复"
+    ],
+    "social_link": "https://github.com/wCSnDb"
+  },
   "astrbot-plugin-camera-exif": {
     "display_name": "相机EXIF分析",
     "desc": "自动检测接收的图片是否为相机拍摄，提取并分析EXIF数据（快门次数、光圈、ISO、焦距、GPS等），支持所有主流相机厂商RAW格式解析，自动回传元数据至原始聊天渠道。提供19种字段单独查询指令，支持群聊/私聊黑白名单、权限隔离与频率限制。",
