@@ -71,7 +71,7 @@
     "social_link": "https://github.com/D1ff1culTT?tab=repositories",
     "stars": 0,
     "version": "v1.1.1",
-    "updated_at": "2026-06-06T13:31:08Z"
+    "updated_at": "2026-06-07T15:25:19Z"
   },
   "astrbot_plugin_smart_segmentation": {
     "display_name": "智能分段",
@@ -112,7 +112,7 @@
     "social_link": "https://github.com/shitianyaa",
     "tags": [],
     "stars": 2,
-    "version": "0.6.3",
+    "version": "0.6.9",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
       "aiocqhttp",
@@ -120,7 +120,7 @@
       "lark",
       "weixin_oc"
     ],
-    "updated_at": "2026-06-07T10:58:09Z"
+    "updated_at": "2026-06-07T15:41:25Z"
   },
   "astrbot_plugin_comfyui_hub": {
     "display_name": "ComfyUI 枢纽",
@@ -335,12 +335,12 @@
     ],
     "social_link": "https://github.com/Rentz412",
     "stars": 3,
-    "version": "v2.0.0",
+    "version": "v2.1.0",
     "astrbot_version": ">=4.16",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-05T04:38:56Z",
+    "updated_at": "2026-06-07T15:40:47Z",
     "logo": "https://raw.githubusercontent.com/Rentz412/astrbot_plugin_esjzone_downloader/main/logo.png"
   },
   "astrbot_plugin_mmx_cli_tool": {
@@ -1218,9 +1218,9 @@
       "总结",
       "知乎"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.1.0",
-    "updated_at": "2026-06-07T10:50:47Z",
+    "updated_at": "2026-06-07T15:36:49Z",
     "logo": "https://raw.githubusercontent.com/MillionDreamQAQ/astrbot_plugin_zhihuSummary/main/logo.png"
   },
   "builtin_commands_extension": {
@@ -6377,9 +6377,9 @@
     "social_link": "https://www.misakanet.site",
     "category": "ai_tools",
     "stars": 17,
-    "version": "v1.3.0",
+    "version": "v1.3.1",
     "astrbot_version": ">=4.25.3",
-    "updated_at": "2026-06-06T13:25:36Z",
+    "updated_at": "2026-06-07T15:36:48Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_image_generation/master/logo.png"
   },
   "astrbot_plugin_group_geetest_verfy": {
@@ -14212,9 +14212,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
-    "stars": 84,
+    "stars": 85,
     "version": "v1.1.4",
-    "updated_at": "2026-06-06T03:12:05Z",
+    "updated_at": "2026-06-07T15:39:01Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
@@ -16875,7 +16875,7 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "category": "integrations",
     "tags": [],
-    "stars": 75,
+    "stars": 76,
     "version": "v1.6.1",
     "astrbot_version": ">=4.5.2",
     "support_platforms": [
@@ -16883,7 +16883,7 @@
       "telegram",
       "weixin_oc"
     ],
-    "updated_at": "2026-06-05T13:36:25Z",
+    "updated_at": "2026-06-07T16:17:08Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
@@ -17355,7 +17355,7 @@
     "category": "utilities",
     "tags": [],
     "stars": 28,
-    "version": "v2.0.0",
+    "version": "v2.0.1",
     "updated_at": "2026-06-07T11:36:24Z"
   },
   "astrbot_plugin_AIQTalk": {
