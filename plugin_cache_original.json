@@ -4034,9 +4034,9 @@
     ],
     "social_link": "https://axi404.top",
     "category": "ai_tools",
-    "stars": 27,
+    "stars": 28,
     "version": "0.2.4",
-    "updated_at": "2026-05-29T03:05:50Z"
+    "updated_at": "2026-06-07T19:29:08Z"
   },
   "astrbot-plugin-biliVideo": {
     "display_name": "哔哩哔哩视频总结",
@@ -6447,13 +6447,13 @@
     "social_link": "https://github.com/VanillaNahida/",
     "category": "utilities",
     "stars": 31,
-    "version": "v1.2.8",
+    "version": "v1.3.0",
     "astrbot_version": ">=4.10.6,<5",
     "support_platforms": [
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-05-31T14:42:32Z",
+    "updated_at": "2026-06-07T19:43:24Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_geetest_verify/master/logo.png"
   },
   "astrbot_plugin_cliproxy_stats": {
