@@ -1,4 +1,25 @@
 {
+  "astrbot-plugin-feishu-todo": {
+    "display_name": "飞书待办提醒",
+    "desc": "自动识别飞书消息中的任务并创建飞书待办，支持多级 DDL 提醒",
+    "author": "Before",
+    "repo": "https://github.com/xBefore/astrbot_plugin_feishu_todo",
+    "tags": [
+      "Lark",
+      "飞书",
+      "待办",
+      "任务",
+      "提醒"
+    ],
+    "social_link": "https://github.com/xBefore",
+    "stars": 1,
+    "version": "v1.0.0",
+    "astrbot_version": ">=4.16",
+    "support_platforms": [
+      "lark"
+    ],
+    "updated_at": "2026-06-04T03:09:00Z"
+  },
   "astrbot-plugin-ow-dashen": {
     "display_name": "守望先锋 数据查询插件",
     "desc": "守望先锋数据查询插件，支持查询玩家资料、战绩、段位、强度分析、总结、英雄选取率、商店、补丁说明等",
@@ -1032,9 +1053,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 117,
+    "stars": 118,
     "version": "3.3.0",
-    "updated_at": "2026-06-06T12:08:25Z",
+    "updated_at": "2026-06-07T15:24:34Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -3691,9 +3712,9 @@
     ],
     "social_link": "https://github.com/LinJohn8",
     "category": "utilities",
-    "stars": 21,
+    "stars": 22,
     "version": "1.0.0",
-    "updated_at": "2026-05-26T16:19:21Z",
+    "updated_at": "2026-06-07T14:31:44Z",
     "logo": "https://raw.githubusercontent.com/LinJohn8/astrbot_plugin_custome_segment_reply/main/logo.png"
   },
   "astrbot-plugin-alteration-notifier": {
@@ -6484,8 +6505,8 @@
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
     "stars": 330,
-    "version": "3.2.0",
-    "updated_at": "2026-06-07T13:28:14Z",
+    "version": "3.2.1",
+    "updated_at": "2026-06-07T15:20:11Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -6595,9 +6616,9 @@
     ],
     "social_link": "https://github.com/Huahuatgc",
     "category": "entertainment",
-    "stars": 19,
+    "stars": 20,
     "version": "1.2.1",
-    "updated_at": "2026-06-06T06:31:55Z"
+    "updated_at": "2026-06-07T14:08:56Z"
   },
   "astrbot_plugin_matrix_adapter": {
     "display_name": "Matrix 协议适配器",
@@ -8987,9 +9008,9 @@
       "推特"
     ],
     "category": "utilities",
-    "stars": 50,
+    "stars": 51,
     "version": "v6.2.1",
-    "updated_at": "2026-06-07T12:00:29Z",
+    "updated_at": "2026-06-07T14:34:31Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -11266,9 +11287,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 230,
+    "stars": 231,
     "version": "2.3.4",
-    "updated_at": "2026-06-07T08:49:34Z",
+    "updated_at": "2026-06-07T14:12:57Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -11927,12 +11948,12 @@
       "运势"
     ],
     "category": "entertainment",
-    "stars": 23,
+    "stars": 24,
     "version": "v1.0.4",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-28T11:07:27Z"
+    "updated_at": "2026-06-07T15:14:32Z"
   },
   "astrbot_plugin_wakepro": {
     "display_name": "唤醒增强",
@@ -17253,9 +17274,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "ai_tools",
     "tags": [],
-    "stars": 249,
+    "stars": 250,
     "version": "v2.1.5",
-    "updated_at": "2026-06-02T15:20:02Z"
+    "updated_at": "2026-06-07T14:13:04Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
