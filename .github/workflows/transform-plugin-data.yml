@@ -25,3 +25,4 @@ jobs:
       run: python3 scripts/transform_plugin_data/run.py
       env:
         PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+        PAT_TOKEN_2: ${{ secrets.PAT_TOKEN_2 }}
