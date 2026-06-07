@@ -3,6 +3,7 @@ import os
 import tempfile
 import unittest
 from pathlib import Path
+from unittest import mock
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -51,6 +52,20 @@ class MetadataParsingTests(unittest.TestCase):
 
 
 class GitHubRequestTests(unittest.TestCase):
+    def test_load_github_tokens_includes_numbered_tokens_in_order(self):
+        with mock.patch.dict(
+            os.environ,
+            {
+                "PAT_TOKEN": "token-a",
+                "PAT_TOKEN_3": "token-c",
+                "PAT_TOKEN_2": "token-b",
+            },
+            clear=True,
+        ):
+            module = load_transform_module()
+
+        self.assertEqual(module.GITHUB_TOKENS, ["token-a", "token-b", "token-c"])
+
     def test_select_github_token_round_robins_tokens(self):
         module = load_transform_module()
         module.GITHUB_TOKENS = ["token-a", "token-b"]
