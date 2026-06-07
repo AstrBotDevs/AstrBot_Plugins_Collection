@@ -33,6 +33,7 @@ GITHUB_URL = "https://raw.githubusercontent.com/AstrBotDevs/AstrBot_Plugins_Coll
 GITHUB_TOKENS = []
 _TOKEN_LOCK = Lock()
 _TOKEN_INDEX = 0
+_TOKEN_AVAILABLE_AT: Dict[str, float] = {}
 
 
 def load_github_tokens() -> list[str]:
@@ -72,10 +73,27 @@ def select_github_token() -> str:
     global _TOKEN_INDEX
     if not GITHUB_TOKENS:
         return ""
-    with _TOKEN_LOCK:
-        token = GITHUB_TOKENS[_TOKEN_INDEX % len(GITHUB_TOKENS)]
-        _TOKEN_INDEX += 1
-    return token
+    while True:
+        wait_seconds = 0.0
+        with _TOKEN_LOCK:
+            now = time.time()
+            soonest_available_at: Optional[float] = None
+            for offset in range(len(GITHUB_TOKENS)):
+                token_index = (_TOKEN_INDEX + offset) % len(GITHUB_TOKENS)
+                token = GITHUB_TOKENS[token_index]
+                available_at = _TOKEN_AVAILABLE_AT.get(token, 0.0)
+                if available_at <= now:
+                    _TOKEN_INDEX = token_index + 1
+                    return token
+                if soonest_available_at is None or available_at < soonest_available_at:
+                    soonest_available_at = available_at
+
+            if soonest_available_at is not None:
+                wait_seconds = max(soonest_available_at - now, BASE_DELAY)
+
+        wait_seconds = min(wait_seconds or BASE_DELAY, RATE_LIMIT_WAIT_CAP)
+        print(f"    所有 GitHub token 均在限流冷却中，等待 {wait_seconds:.1f}s", flush=True)
+        time.sleep(wait_seconds)
 
 
 def get_headers(
@@ -113,13 +131,46 @@ def calculate_retry_delay(
     remaining = headers.get("X-RateLimit-Remaining")
     reset_at = parse_positive_float(headers.get("X-RateLimit-Reset"))
     if status in (403, 429) and remaining == "0" and reset_at is not None:
-        if status == 403 and len(GITHUB_TOKENS) > 1 and attempt < len(GITHUB_TOKENS):
+        if has_available_github_token():
             return 0
         wait_seconds = reset_at - time.time() + RATE_LIMIT_WAIT_PADDING
         return min(max(wait_seconds, BASE_DELAY), RATE_LIMIT_WAIT_CAP)
 
     delay = min(BASE_DELAY * (2 ** (attempt - 1)), MAX_DELAY)
     return delay + random.uniform(0, delay * 0.5)
+
+
+def has_available_github_token() -> bool:
+    if len(GITHUB_TOKENS) <= 1:
+        return False
+    now = time.time()
+    with _TOKEN_LOCK:
+        return any(_TOKEN_AVAILABLE_AT.get(token, 0.0) <= now for token in GITHUB_TOKENS)
+
+
+def calculate_token_available_at(status: int, headers: Any) -> float:
+    retry_after = parse_positive_float(headers.get("Retry-After"))
+    now = time.time()
+    if retry_after is not None:
+        return now + min(retry_after, RATE_LIMIT_WAIT_CAP)
+
+    remaining = headers.get("X-RateLimit-Remaining")
+    reset_at = parse_positive_float(headers.get("X-RateLimit-Reset"))
+    if status in (403, 429) and remaining == "0" and reset_at is not None:
+        return min(reset_at + RATE_LIMIT_WAIT_PADDING, now + RATE_LIMIT_WAIT_CAP)
+
+    return now + BASE_DELAY
+
+
+def mark_github_token_rate_limited(token: str, status: int, headers: Any) -> None:
+    if not token:
+        return
+    available_at = calculate_token_available_at(status, headers)
+    with _TOKEN_LOCK:
+        _TOKEN_AVAILABLE_AT[token] = max(
+            _TOKEN_AVAILABLE_AT.get(token, 0.0),
+            available_at,
+        )
 
 
 def is_rate_limited(payload: Optional[Dict[str, Any]], status: int, headers: Any) -> bool:
@@ -143,7 +194,7 @@ def should_retry_json_request(
     return status == -1 or status in (500, 502, 503, 504) or is_rate_limited(payload, status, headers)
 
 
-def http_get_json(url: str, timeout: int = 20) -> Tuple[Optional[Dict[str, Any]], int, Any]:
+def http_get_json(url: str, timeout: int = 20) -> Tuple[Optional[Dict[str, Any]], int, Any, str]:
     token = select_github_token()
     req = urllib.request.Request(url, headers=get_headers(token=token))
     try:
@@ -151,17 +202,17 @@ def http_get_json(url: str, timeout: int = 20) -> Tuple[Optional[Dict[str, Any]]
             status = resp.getcode()
             body = resp.read().decode("utf-8", errors="replace")
             if not body:
-                return {}, status, resp.headers
-            return json.loads(body), status, resp.headers
+                return {}, status, resp.headers, token
+            return json.loads(body), status, resp.headers, token
     except urllib.error.HTTPError as e:
         status = e.code
         try:
             body = e.read().decode("utf-8", errors="replace")
-            return (json.loads(body) if body else {}), status, e.headers
+            return (json.loads(body) if body else {}), status, e.headers, token
         except Exception:
-            return {}, status, e.headers
+            return {}, status, e.headers, token
     except Exception:
-        return None, -1, {}
+        return None, -1, {}, token
 
 
 def http_get_json_with_retries(
@@ -174,7 +225,10 @@ def http_get_json_with_retries(
     status = -1
     headers: Any = {}
     for attempt in range(1, MAX_RETRIES + 1):
-        payload, status, headers = http_get_json(url, timeout=timeout)
+        payload, status, headers, token = http_get_json(url, timeout=timeout)
+        if is_rate_limited(payload, status, headers):
+            mark_github_token_rate_limited(token, status, headers)
+
         if not should_retry_json_request(payload, status, headers):
             return payload, status, headers
 
@@ -182,11 +236,17 @@ def http_get_json_with_retries(
             break
 
         delay = calculate_retry_delay(attempt, status, headers)
-        print(
-            f"    {context} 请求失败 HTTP {status}，等待 {delay:.1f}s 后重试 ({attempt}/{MAX_RETRIES})",
-            flush=True,
-        )
-        time.sleep(delay)
+        if delay <= 0:
+            print(
+                f"    {context} 请求失败 HTTP {status}，切换 GitHub token 后立即重试 ({attempt}/{MAX_RETRIES})",
+                flush=True,
+            )
+        else:
+            print(
+                f"    {context} 请求失败 HTTP {status}，等待 {delay:.1f}s 后重试 ({attempt}/{MAX_RETRIES})",
+                flush=True,
+            )
+            time.sleep(delay)
     return payload, status, headers
 
 
