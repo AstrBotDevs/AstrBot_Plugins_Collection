@@ -99,13 +99,13 @@
       "塔塔露机器人"
     ],
     "social_link": "https://github.com/jawwe",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.5",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-06-05T10:35:47Z",
+    "updated_at": "2026-06-07T19:17:43Z",
     "logo": "https://raw.githubusercontent.com/jawwe/astrbot_plugin_tataru/main/logo.png"
   },
   "astrbot-plugin-math-plotter": {
@@ -364,14 +364,14 @@
       "文件处理"
     ],
     "stars": 27,
-    "version": "2.4.0",
+    "version": "2.4.5",
     "astrbot_version": ">=4.16",
     "support_platforms": [
       "aiocqhttp",
       "qq_official",
       "telegram"
     ],
-    "updated_at": "2026-06-07T16:45:11Z",
+    "updated_at": "2026-06-07T18:03:29Z",
     "logo": "https://raw.githubusercontent.com/irmia2026/irmia_devkit_open/main/logo.png"
   },
   "astrbot_plugin_esjzone_downloader": {
@@ -731,7 +731,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-06T04:37:48Z",
+    "updated_at": "2026-06-07T19:11:55Z",
     "logo": "https://raw.githubusercontent.com/vivy1024/astrbot_plugin_wave_memory/master/logo.png"
   },
   "astrbot_plugin_maimai_updater": {
@@ -819,7 +819,7 @@
     "stars": 41,
     "version": "1.4.7",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-06-06T16:20:34Z",
+    "updated_at": "2026-06-07T18:40:17Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -6428,9 +6428,9 @@
     "social_link": "https://www.misakanet.site",
     "category": "ai_tools",
     "stars": 17,
-    "version": "v1.3.1",
+    "version": "v1.3.2",
     "astrbot_version": ">=4.25.3",
-    "updated_at": "2026-06-07T15:36:48Z",
+    "updated_at": "2026-06-07T17:54:52Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_image_generation/master/logo.png"
   },
   "astrbot_plugin_group_geetest_verfy": {
