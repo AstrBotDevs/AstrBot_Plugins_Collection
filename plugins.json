@@ -1,4 +1,18 @@
 {
+  "astrbot-plugin-feishu-todo": {
+    "display_name": "飞书待办提醒",
+    "desc": "自动识别飞书消息中的任务并创建飞书待办，支持多级 DDL 提醒",
+    "author": "Before",
+    "repo": "https://github.com/xBefore/astrbot_plugin_feishu_todo",
+    "tags": [
+      "Lark",
+      "飞书",
+      "待办",
+      "任务",
+      "提醒"
+    ],
+    "social_link": "https://github.com/xBefore"
+  },
   "astrbot-plugin-ow-dashen": {
     "display_name": "守望先锋 数据查询插件",
     "desc": "守望先锋数据查询插件，支持查询玩家资料、战绩、段位、强度分析、总结、英雄选取率、商店、补丁说明等",
