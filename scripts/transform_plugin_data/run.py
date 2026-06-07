@@ -38,7 +38,18 @@ _TOKEN_AVAILABLE_AT: Dict[str, float] = {}
 
 def load_github_tokens() -> list[str]:
     tokens: list[str] = []
-    for env_name in ("PAT_TOKEN", "PAT_TOKEN_2"):
+    token_env_names = ["PAT_TOKEN"]
+    numbered_token_env_names = []
+    for env_name in os.environ:
+        match = re.fullmatch(r"PAT_TOKEN_(\d+)", env_name)
+        if match:
+            numbered_token_env_names.append((int(match.group(1)), env_name))
+
+    token_env_names.extend(
+        env_name for _, env_name in sorted(numbered_token_env_names)
+    )
+
+    for env_name in token_env_names:
         token = os.getenv(env_name, "").strip()
         if token and token not in tokens:
             tokens.append(token)
