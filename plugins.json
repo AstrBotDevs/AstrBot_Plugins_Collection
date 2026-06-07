@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-ow-dashen": {
+    "display_name": "守望先锋 数据查询插件",
+    "desc": "守望先锋数据查询插件，支持查询玩家资料、战绩、段位、强度分析、总结、英雄选取率、商店、补丁说明等",
+    "author": "singularity2000",
+    "repo": "https://github.com/singularity2000/astrbot_plugin_ow_dashen",
+    "tags": [
+      "守望先锋",
+      "overwatch",
+      "OW",
+      "网易大神"
+    ]
+  },
   "astrbot-plugin-tataru": {
     "display_name": "塔塔露",
     "desc": "最终幻想14 TataruBot2 的 AstrBot 插件迁移版本，支持活动日历、招募板、物价、logs、物品信息等功能一篮子查询。",
