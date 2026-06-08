@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-hs-rank": {
+    "display_name": "炉石战棋榜",
+    "desc": "炉石传说国服战棋排行榜查询插件，支持双打/单打排行、涨跌榜、排名区间、自动记录和后台配置。",
+    "author": "Scoy507",
+    "repo": "https://github.com/a1030907531/astrbot_plugin_hs_rank",
+    "tags": [
+      "游戏",
+      "炉石传说",
+      "战棋",
+      "排行榜"
+    ]
+  },
   "astrbot-plugin-ottohub": {
     "display_name": "Ottohub Adapter",
     "desc": "AstrBot 的 OttoHub（ottohub.cn） 平台适配器插件",
