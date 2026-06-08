@@ -1,4 +1,11 @@
 {
+  "astrbot-plugin-multimodal-router": {
+    "display_name": "多模态临时路由",
+    "desc": "当用户消息包含图片，且当前 LLM provider 不具备多模态能力时，本插件尝试仅将本次 LLM 请求路由到配置的多模态 provider。",
+    "author": "Rinyin",
+    "repo": "https://github.com/Rinyin/astrbot_plugin_multimodal_router",
+    "social_link": "https://github.com/Rinyin"
+  },
   "astrbot-plugin-pic-toolbox": {
     "display_name": "图片处理工具箱",
     "desc": "QQ平台图片处理工具箱，支持对图片，gif，头像左/右/上/下对称，反色，镜像翻转。支持对gif进行调速（不支持丢帧来进行加速，即加速存在上限）。以及其他的有趣的指令",
