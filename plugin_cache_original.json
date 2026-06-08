@@ -48,7 +48,8 @@
     "social_link": "https://github.com/insolitude610",
     "stars": 0,
     "version": "0.7.0",
-    "updated_at": "2026-06-07T16:25:46Z"
+    "updated_at": "2026-06-08T03:29:24Z",
+    "logo": "https://raw.githubusercontent.com/insolitude610/astrbot_plugin_galgame_web/main/logo.png"
   },
   "astrbot-plugin-feishu-todo": {
     "display_name": "飞书待办提醒",
@@ -82,10 +83,10 @@
       "OW",
       "网易大神"
     ],
-    "stars": 18,
+    "stars": 19,
     "version": "1.2.0",
     "astrbot_version": ">=4.5.7",
-    "updated_at": "2026-06-07T13:20:20Z",
+    "updated_at": "2026-06-08T03:00:19Z",
     "logo": "https://raw.githubusercontent.com/singularity2000/astrbot_plugin_ow_dashen/main/logo.png"
   },
   "astrbot-plugin-tataru": {
@@ -391,7 +392,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-07T15:40:47Z",
+    "updated_at": "2026-06-08T03:24:09Z",
     "logo": "https://raw.githubusercontent.com/Rentz412/astrbot_plugin_esjzone_downloader/main/logo.png"
   },
   "astrbot_plugin_mmx_cli_tool": {
@@ -1726,14 +1727,14 @@
     "repo": "https://github.com/Sloan-YXT/astrbot_plugin_meme_manager_plus",
     "social_link": "https://github.com/Sloan-YXT/",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "v3.8.5",
     "astrbot_version": ">=4.0.0",
     "support_platforms": [
       "aiocqhttp",
       "gewechat"
     ],
-    "updated_at": "2026-05-20T13:22:44Z",
+    "updated_at": "2026-06-08T01:13:35Z",
     "logo": "https://raw.githubusercontent.com/Sloan-YXT/astrbot_plugin_meme_manager_plus/master/logo.png"
   },
   "astrbot-plugin-tradingagents": {
@@ -5404,7 +5405,7 @@
     "category": "entertainment",
     "stars": 27,
     "version": "v3.2.0",
-    "updated_at": "2026-06-07T13:16:43Z",
+    "updated_at": "2026-06-08T02:10:46Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
@@ -6341,9 +6342,9 @@
     ],
     "social_link": "https://github.com/kennylimz",
     "category": "entertainment",
-    "stars": 15,
+    "stars": 16,
     "version": "v2.3.2",
-    "updated_at": "2026-06-05T07:39:17Z",
+    "updated_at": "2026-06-08T03:51:49Z",
     "logo": "https://raw.githubusercontent.com/kennylimz/astrbot_plugin_mudae_qq/main/logo.png"
   },
   "BUGJI/astrbot_plugin_balance": {
@@ -6555,9 +6556,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 330,
-    "version": "3.2.1",
-    "updated_at": "2026-06-07T15:20:11Z",
+    "stars": 331,
+    "version": "3.2.2",
+    "updated_at": "2026-06-08T03:08:00Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -7062,7 +7063,7 @@
     "tags": [],
     "stars": 9,
     "version": "1.0.1",
-    "updated_at": "2026-06-04T03:44:14Z",
+    "updated_at": "2026-06-08T00:47:13Z",
     "logo": "https://raw.githubusercontent.com/204343414/astrbot_plugin_yt-dlp/master/logo.png"
   },
   "astrbot_plugin_yotts": {
@@ -9811,7 +9812,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 293,
+    "stars": 294,
     "version": "v1.2.4",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -9823,7 +9824,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-06-06T17:24:58Z",
+    "updated_at": "2026-06-08T03:43:58Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -10278,10 +10279,10 @@
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
     "category": "entertainment",
-    "stars": 27,
+    "stars": 28,
     "version": "v4.1.0",
     "astrbot_version": ">=4.24",
-    "updated_at": "2026-06-07T16:48:48Z",
+    "updated_at": "2026-06-08T00:58:50Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_Favour_Ultra/main/logo.png"
   },
   "astrbot_plugin_owcx": {
@@ -17407,7 +17408,7 @@
     "tags": [],
     "stars": 28,
     "version": "v2.0.1",
-    "updated_at": "2026-06-07T11:36:24Z"
+    "updated_at": "2026-06-08T01:52:35Z"
   },
   "astrbot_plugin_AIQTalk": {
     "desc": "基于QQ的AI声聊完成的（伪）TTS转语音",
