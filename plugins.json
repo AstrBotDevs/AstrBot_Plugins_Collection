@@ -1,4 +1,11 @@
 {
+  "Wyccotccy/astrbot-plugin-qzone-tools": {
+    "display_name": "更多LLM工具",
+    "desc": "支持机器人发送定时消息，发送QQ空间，发送戳一戳等给群聊或者私聊，以及更多LLM工具（仅支持Napcat version ＞ 4.17.55）",
+    "author": "Wyccotccy",
+    "repo": "https://github.com/Wyccotccy/astrbot_plugin_qzone_tools",
+    "social_link": "www.wyccotccy.cn"
+  },
   "astrbot-plugin-private-companion": {
     "display_name": "我会永远陪着你",
     "desc": "最强拟人主动插件，面向 AstrBot 的人格连续性、关系识别与主动行为编排插件。它把生活状态、日程细化、梦境日记、长期创作、重要日期、私聊关系、群聊观察、QQ 关系网、可选外部动作、模型 Provider 和扩展页管理组织成一套持续陪伴体验。",
