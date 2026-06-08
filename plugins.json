@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-private-companion": {
+    "display_name": "我会永远陪着你",
+    "desc": "最强拟人主动插件，面向 AstrBot 的人格连续性、关系识别与主动行为编排插件。它把生活状态、日程细化、梦境日记、长期创作、重要日期、私聊关系、群聊观察、QQ 关系网、可选外部动作、模型 Provider 和扩展页管理组织成一套持续陪伴体验。",
+    "author": "menglimi",
+    "repo": "https://github.com/menglimi/astrbot_plugin_private_companion",
+    "tags": [
+      "拟人化",
+      "主动能力",
+      "插件整合"
+    ],
+    "social_link": "https://github.com/menglimi"
+  },
   "astrbot-plugin-multimodal-router": {
     "display_name": "多模态临时路由",
     "desc": "当用户消息包含图片，且当前 LLM provider 不具备多模态能力时，本插件尝试仅将本次 LLM 请求路由到配置的多模态 provider。",
