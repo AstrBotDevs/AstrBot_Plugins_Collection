@@ -1037,10 +1037,10 @@
       "提示词优化"
     ],
     "social_link": "",
-    "stars": 42,
+    "stars": 43,
     "version": "3.3.18",
     "astrbot_version": ">=4.16,<5",
-    "updated_at": "2026-06-06T02:21:34Z",
+    "updated_at": "2026-06-08T18:51:07Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -2415,9 +2415,9 @@
     ],
     "social_link": "https://github.com/yonglanws/",
     "category": "entertainment",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.9.0",
-    "updated_at": "2026-06-05T09:12:33Z",
+    "updated_at": "2026-06-08T18:38:53Z",
     "logo": "https://raw.githubusercontent.com/yonglanws/astrbot_plugin_pjsk_guess_card/main/logo.png"
   },
   "astrbot-plugin-arcaea": {
@@ -4354,9 +4354,9 @@
     ],
     "social_link": "https://github.com/Radiant303",
     "category": "ai_tools",
-    "stars": 38,
+    "stars": 39,
     "version": "v2.3.1",
-    "updated_at": "2026-06-06T10:04:01Z",
+    "updated_at": "2026-06-08T20:13:37Z",
     "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_clonetts/master/logo.png"
   },
   "astrbot-plugin-ssh": {
@@ -5846,9 +5846,9 @@
     ],
     "social_link": "https://github.com/VanillaNahida",
     "category": "utilities",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.3",
-    "updated_at": "2026-04-08T19:33:50Z",
+    "updated_at": "2026-06-08T19:53:06Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_auto_clean_member/master/logo.png"
   },
   "astrbot_plugin_judge": {
@@ -15828,9 +15828,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
     "category": "integrations",
-    "stars": 85,
+    "stars": 86,
     "version": "v3.1.0",
-    "updated_at": "2026-06-06T04:56:27Z",
+    "updated_at": "2026-06-08T19:02:20Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
@@ -16683,9 +16683,9 @@
       "搬史"
     ],
     "category": "utilities",
-    "stars": 571,
+    "stars": 572,
     "version": "v0.916",
-    "updated_at": "2026-06-07T13:43:01Z"
+    "updated_at": "2026-06-08T19:08:39Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
