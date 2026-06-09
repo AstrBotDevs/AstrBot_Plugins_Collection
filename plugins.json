@@ -1,4 +1,13 @@
 {
+  "astrbot-plugin-dida-todo": {
+    "display_name": "滴答清单待办插件",
+    "desc": "将滴答清单（TickTick / 滴答清单）无缝集成到 AstrBot 中，支持自然语言创建任务和查询待办。\n利用 AstrBot 的 Function Calling 能力，你只需像对人说话一样：“明天下午3点提醒我开会”，即可自动创建带截止时间的任务。",
+    "author": "neko_null",
+    "repo": "https://github.com/wuhuqif176/astrbot_plugin_dida_todo",
+    "tags": [
+      "工具"
+    ]
+  },
   "Wyccotccy/astrbot-plugin-qzone-tools": {
     "display_name": "更多LLM工具",
     "desc": "支持机器人发送定时消息，发送QQ空间，发送戳一戳等给群聊或者私聊，以及更多LLM工具（仅支持Napcat version ＞ 4.17.55）",
