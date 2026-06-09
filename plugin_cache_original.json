@@ -6858,7 +6858,7 @@
     "tags": [],
     "stars": 9,
     "version": "1.2.0",
-    "updated_at": "2026-05-27T07:46:34Z"
+    "updated_at": "2026-06-09T20:54:56Z"
   },
   "astrbot_plugin_command_query": {
     "display_name": "指令查询工具",
@@ -6869,7 +6869,7 @@
     "tags": [],
     "stars": 14,
     "version": "2.1.0",
-    "updated_at": "2026-06-07T11:49:42Z"
+    "updated_at": "2026-06-09T20:54:34Z"
   },
   "astrbot_plugin_maa": {
     "display_name": "MAA 远程控制",
@@ -9382,7 +9382,7 @@
     "category": "productivity",
     "stars": 14,
     "version": "1.2.1",
-    "updated_at": "2026-06-09T01:45:30Z",
+    "updated_at": "2026-06-09T20:54:07Z",
     "logo": "https://raw.githubusercontent.com/TenmaGabriel0721/astrbot_plugin_permission-manager/main/logo.png"
   },
   "astrbot_plugin_whatslinkInfo": {
@@ -14029,8 +14029,8 @@
     "social_link": "https://github.com/BB0813",
     "category": "utilities",
     "stars": 9,
-    "version": "V2.5.1",
-    "updated_at": "2026-06-08T21:44:59Z"
+    "version": "V2.8.1",
+    "updated_at": "2026-06-09T18:26:43Z"
   },
   "astrbot_dg_lab_plugin": {
     "author": "RC-CHN",
