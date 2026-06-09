@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-Auto-ddl-Detect": {
+    "display_name": "ddl自动检测插件",
+    "desc": "自动检测并整合各种群聊里发布的通知消息，以及ddl提醒。适合事情比较多但来不及看群的人",
+    "author": "FarasMoon",
+    "repo": "https://github.com/FarasMoon/astrbot_plugin_Auto_ddl_Detect",
+    "tags": [
+      "生活",
+      "自动"
+    ],
+    "social_link": "https://github.com/FarasMoon"
+  },
   "astrbot-plugin-dailyhub": {
     "display_name": "每日资讯推送",
     "desc": "一个 [AstrBot](https://github.com/AstrBotDevs/AstrBot) 插件，聚合每日资讯与各平台热榜：\n**60秒读懂世界 / AI 日报 / Epic 免费游戏 / 实时 IT 资讯 / IT 之家热榜 / 黄金价格 / 抖音 / 小红书 / 哔哩哔哩 / 微博**。\n支持「指令手动获取」+「按源订阅定时推送」，每个源的图片/文字输出与推送频率均可独立配置。",
