@@ -230,7 +230,7 @@
     "display_name": "Notion Bridge",
     "desc": "桥接 Notion 与 AstrBot 的双向文档管理工具。支持递归读取、关键词搜索、知识库同步、LLM 查询，以及完整的文档增删改查（页面/块/数据库/用户/评论）。内置 Notion API 3 req/s 速率限制器，可靠管理大量文档。",
     "short_desc": "双向控制 Notion：读取、写入、搜索、管理一站式",
-    "version": "v2.0.1",
+    "version": "2.0.1",
     "author": "Masumeiki",
     "repo": "https://github.com/Masumeiki/astrbot_plugin_notion_bridge",
     "tags": [
