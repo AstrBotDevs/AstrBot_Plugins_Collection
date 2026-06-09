@@ -85,13 +85,13 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 9,
-    "version": "3.1.0",
+    "stars": 10,
+    "version": "3.1.1",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-09T13:58:01Z",
+    "updated_at": "2026-06-09T17:52:53Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -193,8 +193,8 @@
     ],
     "social_link": "https://github.com/insolitude610",
     "stars": 2,
-    "version": "0.7.6",
-    "updated_at": "2026-06-09T12:32:56Z",
+    "version": "0.7.7",
+    "updated_at": "2026-06-09T17:24:37Z",
     "logo": "https://raw.githubusercontent.com/insolitude610/astrbot_plugin_galgame_web/main/logo.png"
   },
   "astrbot-plugin-feishu-todo": {
@@ -872,13 +872,13 @@
     "repo": "https://github.com/vivy1024/astrbot_plugin_wave_memory",
     "social_link": "https://github.com/lioensky/VCPChat | https://github.com/lioensky/VCPToolBox",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "v0.8.0",
     "astrbot_version": ">=4.14.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-09T15:45:17Z",
+    "updated_at": "2026-06-09T17:21:37Z",
     "logo": "https://raw.githubusercontent.com/vivy1024/astrbot_plugin_wave_memory/master/logo.png"
   },
   "astrbot_plugin_maimai_updater": {
@@ -4193,9 +4193,9 @@
     "social_link": "https://github.com/storyAura",
     "category": "entertainment",
     "tags": [],
-    "stars": 33,
+    "stars": 34,
     "version": "v2.0.0",
-    "updated_at": "2026-06-05T13:36:25Z",
+    "updated_at": "2026-06-09T17:34:21Z",
     "logo": "https://raw.githubusercontent.com/storyAura/astrbot_plugin_biliVideo/main/logo.png"
   },
   "astrbot-plugin-opencode-client": {
@@ -6579,7 +6579,7 @@
     "stars": 17,
     "version": "v1.3.3",
     "astrbot_version": ">=4.25.3",
-    "updated_at": "2026-06-07T17:54:52Z",
+    "updated_at": "2026-06-09T16:00:09Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_image_generation/master/logo.png"
   },
   "astrbot_plugin_group_geetest_verify": {
@@ -10702,12 +10702,12 @@
     ],
     "category": "utilities",
     "stars": 5,
-    "version": "v1.3.2",
+    "version": "v1.3.3",
     "astrbot_version": ">=4.10.4",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-04-29T18:39:55Z",
+    "updated_at": "2026-06-09T16:14:06Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_GroupFS/master/logo.png"
   },
   "group_notice_manager": {
@@ -11489,7 +11489,7 @@
     "category": "ai_tools",
     "stars": 232,
     "version": "2.3.4",
-    "updated_at": "2026-06-09T03:45:05Z",
+    "updated_at": "2026-06-09T16:08:45Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
