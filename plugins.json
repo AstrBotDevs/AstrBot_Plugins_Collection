@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-open-notebook": {
+    "display_name": "Open Notebook 集成",
+    "desc": "将 Open Notebook 接入 AstrBot，支持聊天命令和 LLM 工具管理 notebooks、上传/引用文件、查询文档内容、删除 notebook，并支持按 AstrBot provider 序号同步 Open Notebook 默认 chat 模型。",
+    "author": "buding",
+    "repo": "https://github.com/zouyonghe/astrbot_plugin_open_notebook",
+    "tags": [
+      "Open Notebook",
+      "知识库",
+      "文档问答"
+    ]
+  },
   "astrbot-plugin-Auto-ddl-Detect": {
     "display_name": "ddl自动检测插件",
     "desc": "自动检测并整合各种群聊里发布的通知消息，以及ddl提醒。适合事情比较多但来不及看群的人",
