@@ -1,4 +1,40 @@
 {
+  "Wyccotccy/astrbot-plugin-qzone-tools": {
+    "display_name": "更多LLM工具",
+    "desc": "支持机器人发送定时消息，发送QQ空间，发送戳一戳等给群聊或者私聊，以及更多LLM工具（仅支持Napcat version ＞ 4.17.55）",
+    "author": "Wyccotccy",
+    "repo": "https://github.com/Wyccotccy/astrbot_plugin_qzone_tools",
+    "social_link": "www.wyccotccy.cn",
+    "tags": [],
+    "stars": 30,
+    "version": "5.0.1",
+    "astrbot_version": ">=4.24.2",
+    "support_platforms": [
+      "aiocqhttp"
+    ],
+    "updated_at": "2026-06-08T15:44:53Z",
+    "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
+  },
+  "astrbot-plugin-private-companion": {
+    "display_name": "我会永远陪着你",
+    "desc": "最强拟人主动插件，面向 AstrBot 的人格连续性、关系识别与主动行为编排插件。它把生活状态、日程细化、梦境日记、长期创作、重要日期、私聊关系、群聊观察、QQ 关系网、可选外部动作、模型 Provider 和扩展页管理组织成一套持续陪伴体验。",
+    "author": "menglimi",
+    "repo": "https://github.com/menglimi/astrbot_plugin_private_companion",
+    "tags": [
+      "拟人化",
+      "主动能力",
+      "插件整合"
+    ],
+    "social_link": "https://github.com/menglimi",
+    "stars": 2,
+    "version": "3.1.0",
+    "astrbot_version": ">=4.22.0",
+    "support_platforms": [
+      "aiocqhttp"
+    ],
+    "updated_at": "2026-06-08T12:28:56Z",
+    "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
+  },
   "astrbot-plugin-multimodal-router": {
     "display_name": "多模态临时路由",
     "desc": "当用户消息包含图片，且当前 LLM provider 不具备多模态能力时，本插件尝试仅将本次 LLM 请求路由到配置的多模态 provider。",
@@ -3451,9 +3487,9 @@
     ],
     "social_link": "www.maredevi.moe",
     "category": "entertainment",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.1.4",
-    "updated_at": "2026-06-08T09:44:13Z",
+    "updated_at": "2026-06-08T23:54:58Z",
     "logo": "https://raw.githubusercontent.com/MareDevi/astrbot_plugin_f1_notifier/master/logo.png"
   },
   "astrbot-plugin-self-evolution": {
@@ -5689,8 +5725,8 @@
     "social_link": "https://github.com/VanillaNahida",
     "category": "utilities",
     "stars": 6,
-    "version": "v1.0.2",
-    "updated_at": "2026-05-27T09:01:54Z",
+    "version": "v1.1.0",
+    "updated_at": "2026-06-08T23:43:14Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_aip_review/master/logo.png"
   },
   "astrbot_plugin_goons": {
@@ -6609,7 +6645,7 @@
     "category": "ai_tools",
     "stars": 332,
     "version": "3.2.4",
-    "updated_at": "2026-06-08T14:40:54Z",
+    "updated_at": "2026-06-08T23:43:29Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -8154,13 +8190,13 @@
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
     "stars": 78,
-    "version": "v4.3.4",
+    "version": "v4.3.5",
     "astrbot_version": ">=4.16.0,<5",
     "support_platforms": [
       "aiocqhttp",
       "weixin_oc"
     ],
-    "updated_at": "2026-06-08T15:24:49Z",
+    "updated_at": "2026-06-08T22:58:25Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
