@@ -4002,9 +4002,10 @@
     "repo": "https://github.com/VanillaNahida/astrbot_plugin_group_aip_review",
     "tags": [
       "管理",
-      "审查"
+      "审查",
+      "内容安全"
     ],
-    "social_link": "https://github.com/VanillaNahida",
+    "social_link": "https://xcnahida.cn",
     "category": "utilities"
   },
   "astrbot_plugin_goons": {
@@ -4117,7 +4118,7 @@
       "清人",
       "管理"
     ],
-    "social_link": "https://github.com/VanillaNahida",
+    "social_link": "https://xcnahida.cn",
     "category": "utilities"
   },
   "astrbot_plugin_judge": {
@@ -4569,7 +4570,7 @@
     "social_link": "https://www.misakanet.site",
     "category": "ai_tools"
   },
-  "astrbot_plugin_group_geetest_verfy": {
+  "astrbot_plugin_group_geetest_verify": {
     "display_name": "入群网页验证插件",
     "desc": "[OneBot] 群聊入群网页验证插件，使用极验Geetest V4实现入群人机验证。",
     "author": "香草味的纳西妲喵（VanillaNahida）",
