@@ -1,4 +1,18 @@
 {
+  "astrbot-plugin-open-notebook": {
+    "display_name": "Open Notebook 集成",
+    "desc": "将 Open Notebook 接入 AstrBot，支持聊天命令和 LLM 工具管理 notebooks、上传/引用文件、查询文档内容、删除 notebook，并支持按 AstrBot provider 序号同步 Open Notebook 默认 chat 模型。",
+    "author": "buding",
+    "repo": "https://github.com/zouyonghe/astrbot_plugin_open_notebook",
+    "tags": [
+      "Open Notebook",
+      "知识库",
+      "文档问答"
+    ],
+    "stars": 0,
+    "version": "v0.1.0",
+    "updated_at": "2026-06-09T01:56:30Z"
+  },
   "astrbot-plugin-Auto-ddl-Detect": {
     "display_name": "ddl自动检测插件",
     "desc": "自动检测并整合各种群聊里发布的通知消息，以及ddl提醒。适合事情比较多但来不及看群的人",
@@ -71,13 +85,13 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 7,
+    "stars": 9,
     "version": "3.1.0",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-09T12:25:28Z",
+    "updated_at": "2026-06-09T13:58:01Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -123,13 +137,13 @@
       "排行榜"
     ],
     "stars": 0,
-    "version": "v1.7.3",
+    "version": "v1.7.4",
     "support_platforms": [
       "aiocqhttp",
       "qq_official",
       "satori"
     ],
-    "updated_at": "2026-06-08T05:29:52Z"
+    "updated_at": "2026-06-09T15:25:19Z"
   },
   "astrbot-plugin-ottohub": {
     "display_name": "Ottohub Adapter",
@@ -329,7 +343,7 @@
       "联网",
       "anysearch"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v0.1.0",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
@@ -338,7 +352,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-06-04T02:59:58Z",
+    "updated_at": "2026-06-09T15:14:25Z",
     "logo": "https://raw.githubusercontent.com/AgIzT/astrbot_plugin_anysearch/main/logo.png"
   },
   "astrbot_plugin_e2b_code": {
@@ -396,8 +410,8 @@
       "网盘管理"
     ],
     "stars": 0,
-    "version": "v1.0.6",
-    "updated_at": "2026-06-07T16:54:03Z",
+    "version": "v1.0.8",
+    "updated_at": "2026-06-09T14:15:04Z",
     "logo": "https://raw.githubusercontent.com/Volundio/astrbot_plugin_openlist_bot/main/logo.png"
   },
   "astrbot-plugin-notion-bridge": {
@@ -859,12 +873,12 @@
     "social_link": "https://github.com/lioensky/VCPChat | https://github.com/lioensky/VCPToolBox",
     "tags": [],
     "stars": 5,
-    "version": "v0.7.0",
+    "version": "v0.8.0",
     "astrbot_version": ">=4.14.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-09T08:44:15Z",
+    "updated_at": "2026-06-09T15:45:17Z",
     "logo": "https://raw.githubusercontent.com/vivy1024/astrbot_plugin_wave_memory/master/logo.png"
   },
   "astrbot_plugin_maimai_updater": {
@@ -952,7 +966,7 @@
     "stars": 44,
     "version": "2.0.0",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-06-09T12:33:42Z",
+    "updated_at": "2026-06-09T14:29:24Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -1097,9 +1111,9 @@
       "工具"
     ],
     "social_link": "https://github.com/Omnitopia",
-    "stars": 1,
+    "stars": 2,
     "version": "v0.2.0",
-    "updated_at": "2026-05-02T11:19:32Z",
+    "updated_at": "2026-06-09T14:03:32Z",
     "logo": "https://raw.githubusercontent.com/Omnitopia/astrbot_plugin_history/main/logo.png"
   },
   "astrbot-plugin-omnidraw": {
@@ -1118,10 +1132,10 @@
       "提示词优化"
     ],
     "social_link": "",
-    "stars": 44,
+    "stars": 43,
     "version": "3.3.18",
     "astrbot_version": ">=4.16,<5",
-    "updated_at": "2026-06-09T01:51:06Z",
+    "updated_at": "2026-06-09T14:23:08Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -1209,12 +1223,12 @@
       "X",
       "推特"
     ],
-    "stars": 18,
+    "stars": 19,
     "version": "v1.5.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-03T04:45:39Z",
+    "updated_at": "2026-06-09T14:52:15Z",
     "logo": "https://raw.githubusercontent.com/Ars1027/astrbot_plugin_twitter/master/logo.png"
   },
   "astrbot_plugin_course": {
@@ -2634,10 +2648,10 @@
     ],
     "social_link": "https://github.com/gudzpoz/",
     "category": "productivity",
-    "stars": 3,
+    "stars": 2,
     "version": "v0.1.0",
     "astrbot_version": ">=4.14.0,<5",
-    "updated_at": "2026-05-04T15:05:04Z",
+    "updated_at": "2026-06-09T13:47:44Z",
     "logo": "https://raw.githubusercontent.com/gudzpoz/astrbot_plugin_rss_tool/master/logo.png"
   },
   "astrbot-plugin-ts3-tracker": {
@@ -2917,7 +2931,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 370,
+    "stars": 371,
     "version": "v4.10.6",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -2926,7 +2940,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-06-08T14:53:48Z",
+    "updated_at": "2026-06-09T14:46:56Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -3025,7 +3039,7 @@
     "category": "productivity",
     "stars": 5,
     "version": "v0.7.0",
-    "updated_at": "2026-06-01T07:19:55Z",
+    "updated_at": "2026-06-09T13:41:45Z",
     "logo": "https://raw.githubusercontent.com/RhoninSeiei/astrbot_plugin_rss_forwarder/master/logo.png"
   },
   "astrbot-plugin-lyria": {
@@ -5765,9 +5779,10 @@
     "repo": "https://github.com/VanillaNahida/astrbot_plugin_group_aip_review",
     "tags": [
       "管理",
-      "审查"
+      "审查",
+      "内容安全"
     ],
-    "social_link": "https://github.com/VanillaNahida",
+    "social_link": "https://xcnahida.cn",
     "category": "utilities",
     "stars": 6,
     "version": "v1.2.0",
@@ -5926,7 +5941,7 @@
       "清人",
       "管理"
     ],
-    "social_link": "https://github.com/VanillaNahida",
+    "social_link": "https://xcnahida.cn",
     "category": "utilities",
     "stars": 2,
     "version": "v1.0.3",
@@ -6011,7 +6026,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 370,
+    "stars": 371,
     "version": "v4.10.6",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -6020,7 +6035,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-06-08T14:53:48Z",
+    "updated_at": "2026-06-09T14:46:56Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -6562,12 +6577,12 @@
     "social_link": "https://www.misakanet.site",
     "category": "ai_tools",
     "stars": 17,
-    "version": "v1.3.2",
+    "version": "v1.3.3",
     "astrbot_version": ">=4.25.3",
     "updated_at": "2026-06-07T17:54:52Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_image_generation/master/logo.png"
   },
-  "astrbot_plugin_group_geetest_verfy": {
+  "astrbot_plugin_group_geetest_verify": {
     "display_name": "入群网页验证插件",
     "desc": "[OneBot] 群聊入群网页验证插件，使用极验Geetest V4实现入群人机验证。",
     "author": "香草味的纳西妲喵（VanillaNahida）",
@@ -8662,13 +8677,13 @@
     ],
     "social_link": "https://github.com/piexian",
     "category": "ai_tools",
-    "stars": 47,
+    "stars": 48,
     "version": "v2.0.1",
     "astrbot_version": ">=4.10.4",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-09T02:38:05Z",
+    "updated_at": "2026-06-09T14:19:23Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
