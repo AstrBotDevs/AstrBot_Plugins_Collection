@@ -1,4 +1,17 @@
 {
+  "astrbot-plugin-exa-web-search": {
+    "display_name": "Exa联网搜索",
+    "desc": "通过 Exa API 进行联网搜索，支持指令和 LLM Tool 调用。",
+    "author": "piexian",
+    "repo": "https://github.com/piexian/astrbot_plugin_exa_web_search",
+    "tags": [
+      "工具",
+      "联网搜索",
+      "Exa",
+      "llm tool"
+    ],
+    "social_link": "https://github.com/piexian"
+  },
   "astrbot-plugin-openclaw-caller": {
     "display_name": "OpenClaw 任务委派",
     "desc": "将 AstrBot 中的长任务委派给 OpenClaw Gateway Agent 执行，支持手动命令、LLM Tool、后台任务、任务列表与结果读取。",
