@@ -1,4 +1,170 @@
 {
+  "astrbot-plugin-knowledge-repo-sync": {
+    "display_name": "知识库同步插件",
+    "desc": "从远程 Git 仓库同步 Markdown 文档到 AstrBot 知识库，支持自动建库、分支识别、Git 差异检测增量同步、忽略路径、通知和分块参数配置。",
+    "author": "Sakura1618",
+    "repo": "https://github.com/Sakura1618/astrbot_plugin_knowledge_repo_sync",
+    "tags": [
+      "知识库",
+      "功能"
+    ],
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-05-17T14:39:10Z"
+  },
+  "astrbot-plugin-obsidian-kb-sync": {
+    "display_name": "Obsidian 知识库同步",
+    "desc": "通过 Fast Note Sync Service 将 Obsidian 笔记同步到 AstrBot 知识库。",
+    "author": "aimer的猫",
+    "repo": "https://github.com/aimercat1994/astrbot_plugin_obsidian_kb_sync",
+    "tags": [
+      "知识库",
+      "obsidian"
+    ],
+    "social_link": "https://github.com/aimercat1994",
+    "stars": 1,
+    "version": "2.0.0",
+    "updated_at": "2026-06-10T09:30:32Z"
+  },
+  "astrbot-plugin-exa-web-search": {
+    "display_name": "Exa联网搜索",
+    "desc": "通过 Exa API 进行联网搜索，支持指令和 LLM Tool 调用。",
+    "author": "piexian",
+    "repo": "https://github.com/piexian/astrbot_plugin_exa_web_search",
+    "tags": [
+      "工具",
+      "联网搜索",
+      "Exa",
+      "llm tool"
+    ],
+    "social_link": "https://github.com/piexian",
+    "stars": 1,
+    "version": "v1.0.2",
+    "astrbot_version": ">=4.9.2",
+    "updated_at": "2026-06-08T15:07:42Z",
+    "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_exa_web_search/master/logo.png"
+  },
+  "astrbot-plugin-openclaw-caller": {
+    "display_name": "OpenClaw 任务委派",
+    "desc": "将 AstrBot 中的长任务委派给 OpenClaw Gateway Agent 执行，支持手动命令、LLM Tool、后台任务、任务列表与结果读取。",
+    "author": "唐格天",
+    "repo": "https://github.com/tanggetian/astrbot_plugin_openclaw_caller",
+    "social_link": "https://github.com/tanggetian",
+    "tags": [],
+    "stars": 0,
+    "version": "1.1.0",
+    "astrbot_version": ">=4.17.0",
+    "updated_at": "2026-06-09T08:02:07Z"
+  },
+  "astrbot-plugin-garmin-health": {
+    "display_name": "佳明健康看板",
+    "desc": "佳明健康看板 - 为 AstrBot 提供 Garmin 健康数据查询能力。通过 Garmin Connect 官方接口，支持心率、睡眠、步数、活动、跑量等数据的自然语言查询，让 Bot 在对话中快速获取和展示你的运动健康信息。",
+    "author": "Jonathan-614",
+    "repo": "https://github.com/Jonathan-614/astrbot_plugin_garmin_health",
+    "tags": [
+      "健康",
+      "运动",
+      "工具",
+      "Garmin",
+      "佳明"
+    ],
+    "social_link": "https://github.com/Jonathan-614",
+    "stars": 0,
+    "version": "1.0.1",
+    "updated_at": "2026-06-10T08:55:36Z",
+    "logo": "https://raw.githubusercontent.com/Jonathan-614/astrbot_plugin_garmin_health/master/logo.png"
+  },
+  "astrbot-plugin-group-llm-guard": {
+    "display_name": "群聊 AI 聊天控制器",
+    "desc": "单独关闭指定群聊的 LLM 聊天，同时保留 / 指令。",
+    "author": "cgefw",
+    "repo": "https://github.com/cgefw/astrbot_plugin_group_llm_guard",
+    "tags": [
+      "LLM",
+      "黑名单",
+      "白名单",
+      "大模型",
+      "开关"
+    ],
+    "stars": 0,
+    "version": "1.0.0",
+    "astrbot_version": ">=4.16,<5",
+    "support_platforms": [
+      "aiocqhttp",
+      "qq_official",
+      "qq_official_webhook",
+      "telegram",
+      "wecom",
+      "wecom_ai_bot",
+      "lark",
+      "dingtalk",
+      "discord",
+      "slack",
+      "kook",
+      "vocechat",
+      "satori",
+      "misskey",
+      "line",
+      "matrix",
+      "mattermost"
+    ],
+    "updated_at": "2026-06-03T17:37:29Z"
+  },
+  "astrbot-plugin-everos-integration": {
+    "display_name": "EverOS for AstrBot",
+    "desc": "为 AstrBot 接入 EverOS 自进化记忆引擎，让 Agent 拥有跨会话的长期记忆与自我学习能力。",
+    "short_desc": "接入自进化记忆引擎，让 Agent 记住每一次对话",
+    "version": "1.1.0",
+    "author": "Masumeiki",
+    "repo": "https://github.com/Masumeiki/astrbot_plugin_everos_integration",
+    "tags": [
+      "记忆系统",
+      "功能增强",
+      "AI",
+      "LLM"
+    ],
+    "social_link": "",
+    "stars": 0,
+    "updated_at": "2026-06-10T08:33:19Z",
+    "logo": "https://raw.githubusercontent.com/Masumeiki/astrbot_plugin_everos_integration/main/logo.png"
+  },
+  "astrbot-plugin-note-sift": {
+    "display_name": "筛记笔记管理 NoteSift",
+    "desc": "渐进式知识库 — 先 grep 发现，再按需读取。告别 RAG 的\"黑盒检索\"，让 LLM 像人一样：先搜索候选，再精准提取。原生支持 Obsidian vault，兼容标准 Markdown。FTS5 全文索引，5 种读取模式，多库管理。",
+    "author": "OldSun",
+    "repo": "https://github.com/OldSuns/astrbot_plugin_note_sift",
+    "tags": [
+      "obsidian",
+      "知识库",
+      "grep"
+    ],
+    "social_link": "https://github.com/OldSuns",
+    "stars": 0,
+    "version": "v0.1.1",
+    "astrbot_version": ">=4.13.0",
+    "updated_at": "2026-06-10T09:23:55Z",
+    "logo": "https://raw.githubusercontent.com/OldSuns/astrbot_plugin_note_sift/main/logo.png"
+  },
+  "astrbot-plugin-live-stream-companion": {
+    "display_name": "我会直播圈米养你",
+    "desc": "接入 VTube Studio 以及 B 站直播。支持 B 站直播间弹幕读取、LLM 自动回应、VTube Studio 表情动作、TTS 嘴型联动和 OBS 字幕层。让 Bot 不只能聊天，还能坐到直播间里看弹幕、接话、摆表情、动嘴和上字幕。",
+    "author": "menglimi",
+    "repo": "https://github.com/menglimi/astrbot_plugin_live_stream_companion",
+    "tags": [
+      "直播",
+      "live2d",
+      "互动"
+    ],
+    "social_link": "https://github.com/menglimi",
+    "stars": 0,
+    "version": "1.4.4",
+    "astrbot_version": ">=4.16,<5",
+    "support_platforms": [
+      "aiocqhttp"
+    ],
+    "updated_at": "2026-06-09T17:42:13Z",
+    "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_live_stream_companion/main/logo.png"
+  },
   "astrbot-plugin-open-notebook": {
     "display_name": "Open Notebook 集成",
     "desc": "将 Open Notebook 接入 AstrBot，支持聊天命令和 LLM 工具管理 notebooks、上传/引用文件、查询文档内容、删除 notebook，并支持按 AstrBot provider 序号同步 Open Notebook 默认 chat 模型。",
@@ -85,13 +251,13 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 11,
-    "version": "3.1.1",
+    "stars": 13,
+    "version": "3.1.2",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-10T01:49:50Z",
+    "updated_at": "2026-06-10T09:06:33Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -194,7 +360,7 @@
     "social_link": "https://github.com/insolitude610",
     "stars": 2,
     "version": "0.7.7",
-    "updated_at": "2026-06-10T03:26:53Z",
+    "updated_at": "2026-06-10T09:31:36Z",
     "logo": "https://raw.githubusercontent.com/insolitude610/astrbot_plugin_galgame_web/main/logo.png"
   },
   "astrbot-plugin-feishu-todo": {
@@ -229,10 +395,10 @@
       "OW",
       "网易大神"
     ],
-    "stars": 19,
+    "stars": 20,
     "version": "1.2.0",
     "astrbot_version": ">=4.5.7",
-    "updated_at": "2026-06-08T03:00:19Z",
+    "updated_at": "2026-06-10T05:40:34Z",
     "logo": "https://raw.githubusercontent.com/singularity2000/astrbot_plugin_ow_dashen/main/logo.png"
   },
   "astrbot-plugin-tataru": {
@@ -1095,9 +1261,9 @@
     "repo": "https://github.com/xiaohondan/astrbot_plugin_api_rate_limiter",
     "version": "2.4.7",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "astrbot_version": ">=4.16,<5",
-    "updated_at": "2026-05-17T08:09:40Z",
+    "updated_at": "2026-06-10T05:41:34Z",
     "logo": "https://raw.githubusercontent.com/xiaohondan/astrbot_plugin_api_rate_limiter/master/logo.png"
   },
   "astrbot-plugin-history": {
@@ -1132,10 +1298,10 @@
       "提示词优化"
     ],
     "social_link": "",
-    "stars": 43,
+    "stars": 44,
     "version": "3.3.18",
     "astrbot_version": ">=4.16,<5",
-    "updated_at": "2026-06-09T14:23:08Z",
+    "updated_at": "2026-06-10T05:48:08Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -1182,10 +1348,10 @@
       "skills"
     ],
     "social_link": "https://github.com/piexian",
-    "stars": 12,
+    "stars": 13,
     "version": "0.1.10",
     "astrbot_version": ">=4.23.6",
-    "updated_at": "2026-05-13T10:50:51Z",
+    "updated_at": "2026-06-10T05:42:53Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_skills_mcp_manager/master/logo.png"
   },
   "astrbot_plugin_Astronomy_Picture_of_the_Day": {
@@ -1251,9 +1417,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 119,
+    "stars": 120,
     "version": "3.3.0",
-    "updated_at": "2026-06-09T02:11:12Z",
+    "updated_at": "2026-06-10T08:23:42Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -1522,9 +1688,9 @@
       "图片来源"
     ],
     "social_link": "https://github.com/FlanChanXwO",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.0.3",
-    "updated_at": "2026-06-03T03:08:38Z",
+    "updated_at": "2026-06-10T07:51:19Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_imgexploration/master/logo.png"
   },
   "astrbot_plugin_eggSearch": {
@@ -2952,13 +3118,13 @@
       "群欢迎"
     ],
     "category": "utilities",
-    "stars": 4,
+    "stars": 5,
     "version": "2.3.0",
     "astrbot_version": ">=v4.12.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-27T04:51:21Z",
+    "updated_at": "2026-06-10T05:44:41Z",
     "logo": "https://raw.githubusercontent.com/lingyun14beta/astrbot_plugin_group_welcome/main/logo.png"
   },
   "astrbot-plugin-atrelay": {
@@ -3635,9 +3801,9 @@
       "全局记忆"
     ],
     "category": "ai_tools",
-    "stars": 17,
+    "stars": 18,
     "version": "v1.2.1",
-    "updated_at": "2026-06-04T02:41:07Z"
+    "updated_at": "2026-06-10T09:08:13Z"
   },
   "astrbot-plugin-memory": {
     "display_name": "astrbot_plugin_memory",
@@ -5549,9 +5715,9 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "category": "entertainment",
-    "stars": 27,
+    "stars": 28,
     "version": "v3.2.0",
-    "updated_at": "2026-06-08T02:10:46Z",
+    "updated_at": "2026-06-10T06:08:27Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
@@ -6704,9 +6870,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 333,
+    "stars": 335,
     "version": "3.2.7",
-    "updated_at": "2026-06-10T03:53:44Z",
+    "updated_at": "2026-06-10T06:41:33Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -9382,7 +9548,7 @@
     "category": "productivity",
     "stars": 14,
     "version": "1.2.2",
-    "updated_at": "2026-06-10T04:58:25Z",
+    "updated_at": "2026-06-10T05:20:35Z",
     "logo": "https://raw.githubusercontent.com/TenmaGabriel0721/astrbot_plugin_permission-manager/main/logo.png"
   },
   "astrbot_plugin_whatslinkInfo": {
@@ -13610,9 +13776,9 @@
     ],
     "social_link": "https://github.com/oyxning",
     "category": "ai_tools",
-    "stars": 70,
+    "stars": 71,
     "version": "v3.5.1",
-    "updated_at": "2026-06-03T05:17:01Z",
+    "updated_at": "2026-06-10T07:43:35Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_antipromptinjector/master/logo.png"
   },
   "astrbot_plugin_alistfile": {
@@ -14191,9 +14357,9 @@
     "repo": "https://github.com/VincenttHo/astrbot_plugin_dzmm",
     "category": "entertainment",
     "tags": [],
-    "stars": 24,
+    "stars": 23,
     "version": "v1.1.1",
-    "updated_at": "2026-06-08T10:54:02Z"
+    "updated_at": "2026-06-10T05:53:26Z"
   },
   "astrbot_plugin_text2image": {
     "author": "wuyan1003",
