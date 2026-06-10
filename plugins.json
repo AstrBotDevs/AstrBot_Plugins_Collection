@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-note-sift": {
+    "display_name": "筛记笔记管理 NoteSift",
+    "desc": "渐进式知识库 — 先 grep 发现，再按需读取。告别 RAG 的\"黑盒检索\"，让 LLM 像人一样：先搜索候选，再精准提取。原生支持 Obsidian vault，兼容标准 Markdown。FTS5 全文索引，5 种读取模式，多库管理。",
+    "author": "OldSun",
+    "repo": "https://github.com/OldSuns/astrbot_plugin_note_sift",
+    "tags": [
+      "obsidian",
+      "知识库",
+      "grep"
+    ],
+    "social_link": "https://github.com/OldSuns"
+  },
   "astrbot-plugin-live-stream-companion": {
     "display_name": "我会直播圈米养你",
     "desc": "接入 VTube Studio 以及 B 站直播。支持 B 站直播间弹幕读取、LLM 自动回应、VTube Studio 表情动作、TTS 嘴型联动和 OBS 字幕层。让 Bot 不只能聊天，还能坐到直播间里看弹幕、接话、摆表情、动嘴和上字幕。",
