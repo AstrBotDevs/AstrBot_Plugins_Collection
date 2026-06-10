@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-obsidian-kb-sync": {
+    "display_name": "Obsidian 知识库同步",
+    "desc": "通过 Fast Note Sync Service 将 Obsidian 笔记同步到 AstrBot 知识库。",
+    "author": "aimer的猫",
+    "repo": "https://github.com/aimercat1994/astrbot_plugin_obsidian_kb_sync",
+    "tags": [
+      "知识库",
+      "obsidian"
+    ],
+    "social_link": "https://github.com/aimercat1994"
+  },
   "astrbot-plugin-exa-web-search": {
     "display_name": "Exa联网搜索",
     "desc": "通过 Exa API 进行联网搜索，支持指令和 LLM Tool 调用。",
