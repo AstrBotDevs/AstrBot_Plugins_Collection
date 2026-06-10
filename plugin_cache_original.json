@@ -251,13 +251,13 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 15,
-    "version": "3.2.0",
+    "stars": 18,
+    "version": "3.3.0",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-10T14:06:05Z",
+    "updated_at": "2026-06-10T17:22:15Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -723,9 +723,9 @@
       "token plan"
     ],
     "social_link": "https://github.com/piexian",
-    "stars": 6,
+    "stars": 7,
     "version": "0.2.6",
-    "updated_at": "2026-06-07T13:26:09Z",
+    "updated_at": "2026-06-10T15:52:43Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_mmx_cli_tool/master/logo.png"
   },
   "astrbot_plugin_MiniMax_CLI": {
@@ -1171,7 +1171,7 @@
     "stars": 9,
     "version": "v0.3.2",
     "astrbot_version": ">=4.17",
-    "updated_at": "2026-06-02T15:55:56Z"
+    "updated_at": "2026-06-10T15:19:19Z"
   },
   "astrbot_plugin_fund": {
     "display_name": "个人基金投资分析助手",
@@ -1348,10 +1348,10 @@
       "skills"
     ],
     "social_link": "https://github.com/piexian",
-    "stars": 13,
+    "stars": 12,
     "version": "0.1.10",
     "astrbot_version": ">=4.23.6",
-    "updated_at": "2026-06-10T05:42:53Z",
+    "updated_at": "2026-06-10T17:33:56Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_skills_mcp_manager/master/logo.png"
   },
   "astrbot_plugin_Astronomy_Picture_of_the_Day": {
@@ -1394,7 +1394,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-09T14:52:15Z",
+    "updated_at": "2026-06-10T14:27:35Z",
     "logo": "https://raw.githubusercontent.com/Ars1027/astrbot_plugin_twitter/master/logo.png"
   },
   "astrbot_plugin_course": {
@@ -3471,10 +3471,10 @@
     "repo": "https://github.com/NorNeko/astrbot_plugin_Xagent_searcher",
     "category": "integrations",
     "tags": [],
-    "stars": 8,
+    "stars": 9,
     "version": "v0.0.4",
     "astrbot_version": ">=4.0.0",
-    "updated_at": "2026-06-04T03:33:24Z",
+    "updated_at": "2026-06-10T16:05:26Z",
     "logo": "https://raw.githubusercontent.com/NorNeko/astrbot_plugin_Xagent_searcher/main/logo.png"
   },
   "astrbot-plugin-status": {
@@ -6211,9 +6211,9 @@
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
     "tags": [],
-    "stars": 8,
+    "stars": 10,
     "version": "2.2.0",
-    "updated_at": "2026-03-28T17:49:25Z"
+    "updated_at": "2026-06-10T15:45:52Z"
   },
   "astrbot_plugin_balance_get": {
     "display_name": "模型平台余额查询",
@@ -6761,13 +6761,13 @@
     "social_link": "https://github.com/VanillaNahida/",
     "category": "utilities",
     "stars": 31,
-    "version": "v1.3.2",
+    "version": "v1.3.3",
     "astrbot_version": ">=4.24.2",
     "support_platforms": [
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-06-09T01:33:29Z",
+    "updated_at": "2026-06-10T14:48:45Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_geetest_verify/master/logo.png"
   },
   "astrbot_plugin_cliproxy_stats": {
@@ -6871,7 +6871,7 @@
     "category": "ai_tools",
     "stars": 335,
     "version": "3.2.7",
-    "updated_at": "2026-06-10T12:52:46Z",
+    "updated_at": "2026-06-10T17:05:21Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -7251,9 +7251,9 @@
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
     "category": "ai_tools",
-    "stars": 65,
+    "stars": 66,
     "version": "v1.1",
-    "updated_at": "2026-06-10T04:49:38Z"
+    "updated_at": "2026-06-10T16:09:06Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -10125,7 +10125,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 299,
+    "stars": 300,
     "version": "v1.2.4",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -10137,7 +10137,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-06-10T14:09:55Z",
+    "updated_at": "2026-06-10T17:23:35Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -11067,9 +11067,9 @@
     "social_link": "https://voice.gbkgov.cn",
     "category": "ai_tools",
     "tags": [],
-    "stars": 24,
+    "stars": 25,
     "version": "v1.9.0",
-    "updated_at": "2026-05-31T12:07:51Z"
+    "updated_at": "2026-06-10T15:04:49Z"
   },
   "astrbot_plugin_blacklist_tools": {
     "desc": "允许管理员和 LLM 将用户添加到黑名单中，阻止他们的消息，自动拉黑！",
@@ -11652,9 +11652,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 234,
+    "stars": 236,
     "version": "2.3.4",
-    "updated_at": "2026-06-10T03:05:17Z",
+    "updated_at": "2026-06-10T17:06:27Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -12630,7 +12630,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-27T14:15:15Z"
+    "updated_at": "2026-06-10T17:22:13Z"
   },
   "pokemon_fusion": {
     "desc": "宝可梦融合插件，支持指定宝可梦融合和随机融合。",
