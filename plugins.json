@@ -1,4 +1,18 @@
 {
+  "astrbot-plugin-garmin-health": {
+    "display_name": "佳明健康看板",
+    "desc": "佳明健康看板 - 为 AstrBot 提供 Garmin 健康数据查询能力。通过 Garmin Connect 官方接口，支持心率、睡眠、步数、活动、跑量等数据的自然语言查询，让 Bot 在对话中快速获取和展示你的运动健康信息。",
+    "author": "Jonathan-614",
+    "repo": "https://github.com/Jonathan-614/astrbot_plugin_garmin_health",
+    "tags": [
+      "健康",
+      "运动",
+      "工具",
+      "Garmin",
+      "佳明"
+    ],
+    "social_link": "https://github.com/Jonathan-614"
+  },
   "astrbot-plugin-group-llm-guard": {
     "display_name": "群聊 AI 聊天控制器",
     "desc": "单独关闭指定群聊的 LLM 聊天，同时保留 / 指令。",
