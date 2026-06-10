@@ -1,4 +1,17 @@
 {
+  "astrbot-plugin-group-llm-guard": {
+    "display_name": "群聊 AI 聊天控制器",
+    "desc": "单独关闭指定群聊的 LLM 聊天，同时保留 / 指令。",
+    "author": "cgefw",
+    "repo": "https://github.com/cgefw/astrbot_plugin_group_llm_guard",
+    "tags": [
+      "LLM",
+      "黑名单",
+      "白名单",
+      "大模型",
+      "开关"
+    ]
+  },
   "astrbot-plugin-everos-integration": {
     "display_name": "EverOS for AstrBot",
     "desc": "为 AstrBot 接入 EverOS 自进化记忆引擎，让 Agent 拥有跨会话的长期记忆与自我学习能力。",
