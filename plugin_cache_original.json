@@ -844,12 +844,12 @@
     ],
     "social_link": "https://github.com/casama233",
     "stars": 0,
-    "version": "0.2.10",
+    "version": "0.2.12",
     "astrbot_version": ">=4.13.0",
     "support_platforms": [
       "whatsapp"
     ],
-    "updated_at": "2026-06-05T19:55:50Z",
+    "updated_at": "2026-06-10T21:03:57Z",
     "logo": "https://raw.githubusercontent.com/casama233/astrbot_plugin_whatsapp_adapter/main/logo.png"
   },
   "astrbot-plugin-qzone-ultra": {
@@ -5859,9 +5859,9 @@
       "bangdream"
     ],
     "category": "entertainment",
-    "stars": 4,
+    "stars": 5,
     "version": "v0.4.0",
-    "updated_at": "2026-05-23T08:28:06Z"
+    "updated_at": "2026-06-10T22:39:52Z"
   },
   "astrbot_plugin_odoo": {
     "display_name": "AstrBot Odoo 连接器",
