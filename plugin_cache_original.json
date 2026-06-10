@@ -518,7 +518,7 @@
       "qq_official",
       "telegram"
     ],
-    "updated_at": "2026-06-09T05:52:53Z",
+    "updated_at": "2026-06-09T23:11:32Z",
     "logo": "https://raw.githubusercontent.com/irmia2026/irmia_devkit_open/main/logo.png"
   },
   "astrbot_plugin_esjzone_downloader": {
@@ -3517,8 +3517,8 @@
     "social_link": "",
     "category": "utilities",
     "stars": 11,
-    "version": "v2.4.3",
-    "updated_at": "2026-06-05T09:22:04Z",
+    "version": "v2.4.4",
+    "updated_at": "2026-06-09T23:25:56Z",
     "logo": "https://raw.githubusercontent.com/Waterwzy/astrbot_plugin_firefly_filter/master/logo.png"
   },
   "astrbot-plugin-cet6": {
@@ -6705,8 +6705,8 @@
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
     "stars": 333,
-    "version": "3.2.5",
-    "updated_at": "2026-06-09T11:19:47Z",
+    "version": "3.2.6",
+    "updated_at": "2026-06-09T23:50:42Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
