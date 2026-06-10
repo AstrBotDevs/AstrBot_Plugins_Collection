@@ -1,4 +1,11 @@
 {
+  "astrbot-plugin-openclaw-caller": {
+    "display_name": "OpenClaw 任务委派",
+    "desc": "将 AstrBot 中的长任务委派给 OpenClaw Gateway Agent 执行，支持手动命令、LLM Tool、后台任务、任务列表与结果读取。",
+    "author": "唐格天",
+    "repo": "https://github.com/tanggetian/astrbot_plugin_openclaw_caller",
+    "social_link": "https://github.com/tanggetian"
+  },
   "astrbot-plugin-garmin-health": {
     "display_name": "佳明健康看板",
     "desc": "佳明健康看板 - 为 AstrBot 提供 Garmin 健康数据查询能力。通过 Garmin Connect 官方接口，支持心率、睡眠、步数、活动、跑量等数据的自然语言查询，让 Bot 在对话中快速获取和展示你的运动健康信息。",
