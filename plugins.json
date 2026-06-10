@@ -1,4 +1,19 @@
 {
+  "astrbot-plugin-everos-integration": {
+    "display_name": "EverOS for AstrBot",
+    "desc": "为 AstrBot 接入 EverOS 自进化记忆引擎，让 Agent 拥有跨会话的长期记忆与自我学习能力。",
+    "short_desc": "接入自进化记忆引擎，让 Agent 记住每一次对话",
+    "version": "v1.1.0",
+    "author": "Masumeiki",
+    "repo": "https://github.com/Masumeiki/astrbot_plugin_everos_integration",
+    "tags": [
+      "记忆系统",
+      "功能增强",
+      "AI",
+      "LLM"
+    ],
+    "social_link": ""
+  },
   "astrbot-plugin-note-sift": {
     "display_name": "筛记笔记管理 NoteSift",
     "desc": "渐进式知识库 — 先 grep 发现，再按需读取。告别 RAG 的\"黑盒检索\"，让 LLM 像人一样：先搜索候选，再精准提取。原生支持 Obsidian vault，兼容标准 Markdown。FTS5 全文索引，5 种读取模式，多库管理。",
