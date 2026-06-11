@@ -156,13 +156,13 @@
       "互动"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 4,
+    "stars": 5,
     "version": "1.5.0",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-11T09:40:48Z",
+    "updated_at": "2026-06-11T12:25:11Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_live_stream_companion/main/logo.png"
   },
   "astrbot-plugin-open-notebook": {
@@ -208,8 +208,8 @@
       "热榜"
     ],
     "stars": 1,
-    "version": "0.2.0",
-    "updated_at": "2026-06-11T10:26:15Z",
+    "version": "v0.2.0",
+    "updated_at": "2026-06-11T10:33:09Z",
     "logo": "https://raw.githubusercontent.com/AMag1c/astrbot_plugin_dailyhub/master/logo.png"
   },
   "astrbot-plugin-dida-todo": {
@@ -251,13 +251,13 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 21,
+    "stars": 22,
     "version": "3.4.0",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-11T09:57:26Z",
+    "updated_at": "2026-06-11T11:43:00Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -289,7 +289,8 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-09T05:51:19Z"
+    "updated_at": "2026-06-11T12:07:53Z",
+    "logo": "https://raw.githubusercontent.com/lirundong093-glitch/astrbot_plugin_pic_toolbox/master/logo.png"
   },
   "astrbot-plugin-hs-rank": {
     "display_name": "炉石战棋榜",
@@ -495,9 +496,9 @@
       "ComfyUI"
     ],
     "social_link": "https://github.com/ReallyChooseC",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.2.1",
-    "updated_at": "2026-05-27T15:09:11Z"
+    "updated_at": "2026-06-11T14:09:09Z"
   },
   "astrbot_plugin_anysearch": {
     "display_name": "Anysearch 实时联网搜索",
@@ -576,8 +577,8 @@
       "网盘管理"
     ],
     "stars": 0,
-    "version": "v1.0.8",
-    "updated_at": "2026-06-09T14:15:04Z",
+    "version": "v1.1.0",
+    "updated_at": "2026-06-11T12:56:19Z",
     "logo": "https://raw.githubusercontent.com/Volundio/astrbot_plugin_openlist_bot/main/logo.png"
   },
   "astrbot-plugin-notion-bridge": {
@@ -1039,7 +1040,7 @@
     "social_link": "https://github.com/lioensky/VCPChat | https://github.com/lioensky/VCPToolBox",
     "tags": [],
     "stars": 6,
-    "version": "v0.8.0",
+    "version": "v0.9.0",
     "astrbot_version": ">=4.14.0",
     "support_platforms": [
       "aiocqhttp"
@@ -2556,10 +2557,10 @@
       "定时",
       "提醒"
     ],
-    "stars": 7,
+    "stars": 8,
     "version": "v1.0.1",
     "astrbot_version": ">=4.0.0",
-    "updated_at": "2026-05-27T11:22:14Z"
+    "updated_at": "2026-06-11T11:08:06Z"
   },
   "astrbot-plugin-wwkudie": {
     "display_name": "尽孝",
@@ -3909,11 +3910,11 @@
     "category": "utilities",
     "tags": [],
     "stars": 1,
-    "version": "v2.0.1",
+    "version": "v2.0.2",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-03-04T14:37:44Z"
+    "updated_at": "2026-06-11T12:13:35Z"
   },
   "astrbot-plugin-listen-github": {
     "display_name": "监听github平台用户公开动态",
@@ -3981,8 +3982,8 @@
     "social_link": "https://github.com/RichardLiuda",
     "category": "utilities",
     "stars": 25,
-    "version": "v2.2.3",
-    "updated_at": "2026-06-05T21:21:07Z",
+    "version": "v2.2.4",
+    "updated_at": "2026-06-11T14:09:14Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -6870,8 +6871,8 @@
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
     "stars": 334,
-    "version": "3.2.8",
-    "updated_at": "2026-06-11T10:24:45Z",
+    "version": "3.3.0",
+    "updated_at": "2026-06-11T12:32:19Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -8696,9 +8697,9 @@
       "抖音"
     ],
     "category": "utilities",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.4.2",
-    "updated_at": "2026-06-04T16:46:45Z",
+    "updated_at": "2026-06-11T12:27:23Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_video_analysis/master/logo.png"
   },
   "astrbot_plugin_image_generation": {
@@ -14951,8 +14952,8 @@
     "category": "entertainment",
     "tags": [],
     "stars": 7,
-    "version": "v2.0.0",
-    "updated_at": "2026-06-11T07:44:41Z",
+    "version": "v2.0.1",
+    "updated_at": "2026-06-11T13:19:08Z",
     "logo": "https://raw.githubusercontent.com/monbed/astrbot_plugin_animewifex/master/logo.png"
   },
   "astrbot_plugin_emojimix": {
