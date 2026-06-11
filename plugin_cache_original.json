@@ -324,7 +324,7 @@
     "social_link": "https://github.com/wCSnDb",
     "stars": 1,
     "version": "0.1.1",
-    "updated_at": "2026-06-07T22:15:50Z",
+    "updated_at": "2026-06-10T23:49:50Z",
     "logo": "https://raw.githubusercontent.com/wCSnDb/astrbot_plugin_ottohub/main/logo.png"
   },
   "astrbot-plugin-camera-exif": {
@@ -360,7 +360,7 @@
     "social_link": "https://github.com/insolitude610",
     "stars": 2,
     "version": "0.7.8",
-    "updated_at": "2026-06-10T18:09:27Z",
+    "updated_at": "2026-06-10T23:46:24Z",
     "logo": "https://raw.githubusercontent.com/insolitude610/astrbot_plugin_galgame_web/main/logo.png"
   },
   "astrbot-plugin-feishu-todo": {
@@ -997,7 +997,7 @@
       "上下文感知"
     ],
     "social_link": "https://github.com/Tsukumi233",
-    "stars": 7,
+    "stars": 8,
     "version": "v0.2.2",
     "astrbot_version": ">=4.9.2",
     "support_platforms": [
@@ -1012,7 +1012,7 @@
       "misskey",
       "line"
     ],
-    "updated_at": "2026-05-21T00:05:43Z"
+    "updated_at": "2026-06-11T00:09:38Z"
   },
   "astrbot_plugin_obsidian_sync": {
     "display_name": "Obsidian 知识库同步",
@@ -16463,12 +16463,12 @@
       "实用工具"
     ],
     "category": "utilities",
-    "stars": 46,
+    "stars": 47,
     "version": "v3.0.4",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-30T16:41:25Z",
+    "updated_at": "2026-06-10T23:38:01Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
