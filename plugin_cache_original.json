@@ -156,13 +156,13 @@
       "互动"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 0,
+    "stars": 2,
     "version": "1.5.0",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-10T10:43:03Z",
+    "updated_at": "2026-06-11T04:24:22Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_live_stream_companion/main/logo.png"
   },
   "astrbot-plugin-open-notebook": {
@@ -252,12 +252,12 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 19,
-    "version": "3.3.0",
+    "version": "3.3.1",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-10T17:57:43Z",
+    "updated_at": "2026-06-11T03:54:13Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -323,8 +323,8 @@
     ],
     "social_link": "https://github.com/wCSnDb",
     "stars": 1,
-    "version": "0.1.1",
-    "updated_at": "2026-06-10T23:49:50Z",
+    "version": "0.1.2",
+    "updated_at": "2026-06-11T02:12:15Z",
     "logo": "https://raw.githubusercontent.com/wCSnDb/astrbot_plugin_ottohub/main/logo.png"
   },
   "astrbot-plugin-camera-exif": {
@@ -360,7 +360,7 @@
     "social_link": "https://github.com/insolitude610",
     "stars": 2,
     "version": "0.7.8",
-    "updated_at": "2026-06-10T23:46:24Z",
+    "updated_at": "2026-06-11T05:23:18Z",
     "logo": "https://raw.githubusercontent.com/insolitude610/astrbot_plugin_galgame_web/main/logo.png"
   },
   "astrbot-plugin-feishu-todo": {
@@ -476,7 +476,7 @@
     "social_link": "https://github.com/shitianyaa",
     "tags": [],
     "stars": 3,
-    "version": "0.7.0",
+    "version": "0.9.1",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
       "aiocqhttp",
@@ -484,7 +484,7 @@
       "lark",
       "weixin_oc"
     ],
-    "updated_at": "2026-06-08T07:40:47Z"
+    "updated_at": "2026-06-11T02:40:01Z"
   },
   "astrbot_plugin_comfyui_hub": {
     "display_name": "ComfyUI 枢纽",
@@ -704,7 +704,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-08T14:52:45Z",
+    "updated_at": "2026-06-11T02:29:14Z",
     "logo": "https://raw.githubusercontent.com/Rentz412/astrbot_plugin_esjzone_downloader/main/logo.png"
   },
   "astrbot_plugin_mmx_cli_tool": {
@@ -767,7 +767,7 @@
       "全模态"
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
-    "stars": 10,
+    "stars": 11,
     "version": "v0.122",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -776,7 +776,7 @@
       "discord",
       "slack"
     ],
-    "updated_at": "2026-06-09T05:55:24Z"
+    "updated_at": "2026-06-11T02:07:56Z"
   },
   "astrbot_plugin_tsugu_bangdream": {
     "display_name": "Tsugu BanGDream Bot",
@@ -1044,7 +1044,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-09T17:21:37Z",
+    "updated_at": "2026-06-11T05:06:35Z",
     "logo": "https://raw.githubusercontent.com/vivy1024/astrbot_plugin_wave_memory/master/logo.png"
   },
   "astrbot_plugin_maimai_updater": {
@@ -1419,7 +1419,7 @@
     "social_link": "",
     "stars": 121,
     "version": "3.3.0",
-    "updated_at": "2026-06-10T14:12:14Z",
+    "updated_at": "2026-06-11T05:35:11Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -3106,7 +3106,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-06-10T12:08:03Z",
+    "updated_at": "2026-06-11T01:27:41Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -4359,9 +4359,9 @@
     "social_link": "https://github.com/storyAura",
     "category": "entertainment",
     "tags": [],
-    "stars": 34,
+    "stars": 33,
     "version": "v2.0.0",
-    "updated_at": "2026-06-09T17:34:21Z",
+    "updated_at": "2026-06-11T04:51:23Z",
     "logo": "https://raw.githubusercontent.com/storyAura/astrbot_plugin_biliVideo/main/logo.png"
   },
   "astrbot-plugin-opencode-client": {
@@ -5121,11 +5121,11 @@
     "social_link": "https://github.com/lxfight",
     "category": "integrations",
     "stars": 11,
-    "version": "1.3.0",
+    "version": "1.3.1",
     "support_platforms": [
       "live2d"
     ],
-    "updated_at": "2026-05-11T10:17:00Z"
+    "updated_at": "2026-06-11T01:28:22Z"
   },
   "astrbot_plugin_telegram_summary": {
     "name": "",
@@ -5907,7 +5907,7 @@
     "category": "entertainment",
     "stars": 7,
     "version": "v1.4.0",
-    "updated_at": "2026-05-29T03:09:45Z"
+    "updated_at": "2026-06-11T02:55:40Z"
   },
   "astrbot_plugin_bestdori_tools": {
     "display_name": "BanG！Dream！Bestdori工具箱",
@@ -6200,7 +6200,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-06-10T12:08:03Z",
+    "updated_at": "2026-06-11T01:27:41Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -6869,9 +6869,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 335,
+    "stars": 334,
     "version": "3.2.7",
-    "updated_at": "2026-06-10T17:05:21Z",
+    "updated_at": "2026-06-11T01:27:33Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -7685,7 +7685,7 @@
     "category": "ai_tools",
     "stars": 146,
     "version": "1.4.15",
-    "updated_at": "2026-06-09T04:36:11Z",
+    "updated_at": "2026-06-11T05:22:45Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -8138,9 +8138,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 134,
+    "stars": 135,
     "version": "v1.5.1",
-    "updated_at": "2026-06-09T12:33:47Z",
+    "updated_at": "2026-06-11T00:34:44Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -10125,7 +10125,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 300,
+    "stars": 301,
     "version": "v1.2.4",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -10137,7 +10137,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-06-10T17:23:35Z",
+    "updated_at": "2026-06-11T05:44:23Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -10937,10 +10937,10 @@
       "合并消息分析与回复"
     ],
     "category": "ai_tools",
-    "stars": 8,
-    "version": "2.0.0",
-    "astrbot_version": ">=3.4.0",
-    "updated_at": "2026-05-05T01:25:33Z"
+    "stars": 9,
+    "version": "2.1.0",
+    "astrbot_version": ">=3.4.0,<5",
+    "updated_at": "2026-06-11T05:41:15Z"
   },
   "zhiyu-astrbot-qqquery": {
     "desc": "一款查询QQ空间 QQ音乐 QQ基本信息的AstrBot插件",
@@ -11636,12 +11636,12 @@
     "social_link": "https://github.com/EraAsh",
     "category": "utilities",
     "stars": 8,
-    "version": "v2.2.0",
+    "version": "v2.3.0",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-07T08:28:31Z"
+    "updated_at": "2026-06-11T05:41:01Z"
   },
   "astrbot_plugin_livingmemory": {
     "desc": "为 AstrBot 打造的、拥有完整记忆生命周期的智能长期记忆插件。",
@@ -16945,9 +16945,9 @@
       "搬史"
     ],
     "category": "utilities",
-    "stars": 572,
+    "stars": 573,
     "version": "v0.916",
-    "updated_at": "2026-06-08T19:08:39Z"
+    "updated_at": "2026-06-11T03:50:24Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
@@ -16990,9 +16990,9 @@
       "图床"
     ],
     "category": "entertainment",
-    "stars": 317,
+    "stars": 318,
     "version": "v3.21",
-    "updated_at": "2026-06-10T13:09:23Z"
+    "updated_at": "2026-06-11T02:30:47Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
@@ -17240,7 +17240,7 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "category": "integrations",
     "tags": [],
-    "stars": 78,
+    "stars": 79,
     "version": "v1.6.1",
     "astrbot_version": ">=4.5.2",
     "support_platforms": [
@@ -17248,7 +17248,7 @@
       "telegram",
       "weixin_oc"
     ],
-    "updated_at": "2026-06-10T12:23:31Z",
+    "updated_at": "2026-06-11T02:44:43Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
