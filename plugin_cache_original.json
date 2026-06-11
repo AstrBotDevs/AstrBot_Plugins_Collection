@@ -5715,9 +5715,9 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "category": "entertainment",
-    "stars": 28,
+    "stars": 29,
     "version": "v3.2.0",
-    "updated_at": "2026-06-10T06:08:27Z",
+    "updated_at": "2026-06-11T22:57:04Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
@@ -7686,7 +7686,7 @@
     "category": "ai_tools",
     "stars": 147,
     "version": "1.4.15",
-    "updated_at": "2026-06-11T08:45:03Z",
+    "updated_at": "2026-06-11T22:39:44Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -11653,9 +11653,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 237,
+    "stars": 238,
     "version": "2.3.4",
-    "updated_at": "2026-06-11T05:55:55Z",
+    "updated_at": "2026-06-11T21:27:18Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
