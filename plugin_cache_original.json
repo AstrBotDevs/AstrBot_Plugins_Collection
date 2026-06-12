@@ -268,13 +268,13 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 25,
-    "version": "3.4.3",
+    "stars": 26,
+    "version": "3.5.0",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-12T12:51:11Z",
+    "updated_at": "2026-06-12T18:30:51Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -358,12 +358,12 @@
     ],
     "social_link": "https://昊天兽王.top",
     "stars": 1,
-    "version": "v1.1.1",
+    "version": "v1.2.0",
     "astrbot_version": ">=4.11.2",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-05T06:07:42Z",
+    "updated_at": "2026-06-12T17:16:44Z",
     "logo": "https://raw.githubusercontent.com/haotianshouwang/astrbot_plugin_camera_exif/main/logo.png"
   },
   "astrbot-plugin-galgame-web": {
@@ -551,8 +551,9 @@
       "开发"
     ],
     "stars": 0,
-    "version": "1.0",
-    "updated_at": "2026-06-02T01:32:40Z",
+    "version": "1.0.1",
+    "astrbot_version": ">=4.16",
+    "updated_at": "2026-06-12T17:02:53Z",
     "logo": "https://raw.githubusercontent.com/Rat0323/astrbot_plugin_e2b_code/main/logo.png"
   },
   "astrbot_plugin_Robomaster_Information": {
@@ -861,13 +862,13 @@
       "消息"
     ],
     "social_link": "https://github.com/casama233",
-    "stars": 0,
+    "stars": 1,
     "version": "0.2.12",
     "astrbot_version": ">=4.13.0",
     "support_platforms": [
       "whatsapp"
     ],
-    "updated_at": "2026-06-10T21:03:57Z",
+    "updated_at": "2026-06-12T16:44:08Z",
     "logo": "https://raw.githubusercontent.com/casama233/astrbot_plugin_whatsapp_adapter/main/logo.png"
   },
   "astrbot-plugin-qzone-ultra": {
@@ -1062,7 +1063,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-12T16:16:58Z",
+    "updated_at": "2026-06-12T16:31:30Z",
     "logo": "https://raw.githubusercontent.com/vivy1024/astrbot_plugin_wave_memory/master/logo.png"
   },
   "astrbot_plugin_maimai_updater": {
@@ -2746,10 +2747,10 @@
     ],
     "social_link": "https://xiaochai-123.github.io/",
     "category": "utilities",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.0",
     "astrbot_version": ">=4.11.2",
-    "updated_at": "2026-04-08T12:47:52Z"
+    "updated_at": "2026-06-12T17:07:39Z"
   },
   "astrbot-plugin-steamachievement-query": {
     "display_name": "SteamHunter成就查询",
@@ -3883,7 +3884,7 @@
     "tags": [],
     "stars": 11,
     "version": "1.01",
-    "updated_at": "2026-04-15T05:28:00Z"
+    "updated_at": "2026-06-12T18:52:09Z"
   },
   "astrbot-plugin-Grok2API Token": {
     "display_name": "Grok2API Token",
@@ -4031,7 +4032,7 @@
     "category": "ai_tools",
     "stars": 50,
     "version": "3.1.3",
-    "updated_at": "2026-06-11T18:19:18Z",
+    "updated_at": "2026-06-12T18:22:40Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -4349,10 +4350,10 @@
     ],
     "social_link": "https://github.com/tniany",
     "category": "utilities",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.3.3",
     "support_platforms": "OneBot",
-    "updated_at": "2026-06-09T08:54:03Z",
+    "updated_at": "2026-06-12T18:23:07Z",
     "logo": "https://raw.githubusercontent.com/tniany/astrbot_plugin_web-screenshot/main/logo.png"
   },
   "astrbot-plugin-astrbot-enhance-mode": {
@@ -4781,7 +4782,7 @@
     "stars": 23,
     "version": "v1.1.2",
     "astrbot_version": ">=4.17.6",
-    "updated_at": "2026-06-12T15:16:14Z",
+    "updated_at": "2026-06-12T18:30:02Z",
     "logo": "https://raw.githubusercontent.com/chuyegzs/astrbot_plugin_meting/main/logo.png"
   },
   "astrbot-plugin-comfyui": {
@@ -6307,9 +6308,9 @@
       "抖音"
     ],
     "category": "utilities",
-    "stars": 24,
+    "stars": 25,
     "version": "v1.0.9",
-    "updated_at": "2026-06-03T06:16:36Z"
+    "updated_at": "2026-06-12T17:13:37Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -7717,9 +7718,9 @@
       "群聊优化"
     ],
     "category": "ai_tools",
-    "stars": 107,
+    "stars": 108,
     "version": "0.8.37",
-    "updated_at": "2026-06-11T07:51:13Z",
+    "updated_at": "2026-06-12T17:27:27Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -9805,8 +9806,8 @@
     "social_link": "https://github.com/Luna-channel",
     "category": "ai_tools",
     "stars": 29,
-    "version": "3.0.1",
-    "updated_at": "2026-06-07T10:14:39Z",
+    "version": "3.0.2",
+    "updated_at": "2026-06-12T18:15:15Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_Conversa/main/logo.png"
   },
   "astrbot_plugin_shutdown": {
@@ -10886,13 +10887,13 @@
       "群文件"
     ],
     "category": "utilities",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.3.3",
     "astrbot_version": ">=4.10.4",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-10T03:25:33Z",
+    "updated_at": "2026-06-12T17:56:19Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_GroupFS/master/logo.png"
   },
   "group_notice_manager": {
