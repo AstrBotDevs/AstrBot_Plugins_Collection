@@ -71,7 +71,7 @@
     "social_link": "https://github.com/Jonathan-614",
     "stars": 0,
     "version": "1.0.1",
-    "updated_at": "2026-06-11T09:54:35Z",
+    "updated_at": "2026-06-12T00:10:14Z",
     "logo": "https://raw.githubusercontent.com/Jonathan-614/astrbot_plugin_garmin_health/master/logo.png"
   },
   "astrbot-plugin-group-llm-guard": {
@@ -231,13 +231,13 @@
     "repo": "https://github.com/Wyccotccy/astrbot_plugin_qzone_tools",
     "social_link": "www.wyccotccy.cn",
     "tags": [],
-    "stars": 31,
+    "stars": 32,
     "version": "5.0.4",
     "astrbot_version": ">=4.24.2",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-11T15:11:01Z",
+    "updated_at": "2026-06-12T00:11:15Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-private-companion": {
@@ -396,10 +396,10 @@
       "OW",
       "网易大神"
     ],
-    "stars": 20,
+    "stars": 21,
     "version": "1.2.0",
     "astrbot_version": ">=4.5.7",
-    "updated_at": "2026-06-10T05:40:34Z",
+    "updated_at": "2026-06-12T03:13:16Z",
     "logo": "https://raw.githubusercontent.com/singularity2000/astrbot_plugin_ow_dashen/main/logo.png"
   },
   "astrbot-plugin-tataru": {
@@ -496,9 +496,9 @@
       "ComfyUI"
     ],
     "social_link": "https://github.com/ReallyChooseC",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.2.1",
-    "updated_at": "2026-06-11T14:09:09Z"
+    "updated_at": "2026-06-12T03:56:39Z"
   },
   "astrbot_plugin_anysearch": {
     "display_name": "Anysearch 实时联网搜索",
@@ -2024,13 +2024,13 @@
       "更多主动功能"
     ],
     "social_link": "www.wyccotccy.cn",
-    "stars": 31,
+    "stars": 32,
     "version": "5.0.4",
     "astrbot_version": ">=4.24.2",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-11T15:11:01Z",
+    "updated_at": "2026-06-12T00:11:15Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -4284,7 +4284,7 @@
       "人物画像"
     ],
     "category": "ai_tools",
-    "stars": 49,
+    "stars": 50,
     "version": "v0.9.4",
     "astrbot_version": ">=4.16",
     "support_platforms": [
@@ -4292,7 +4292,7 @@
       "telegram",
       "discord"
     ],
-    "updated_at": "2026-06-07T10:21:22Z"
+    "updated_at": "2026-06-12T02:33:24Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -4764,7 +4764,7 @@
     "stars": 23,
     "version": "v1.1.1",
     "astrbot_version": ">=4.17.6",
-    "updated_at": "2026-06-05T13:46:41Z",
+    "updated_at": "2026-06-12T01:31:07Z",
     "logo": "https://raw.githubusercontent.com/chuyegzs/astrbot_plugin_meting/main/logo.png"
   },
   "astrbot-plugin-comfyui": {
@@ -5126,7 +5126,7 @@
     "support_platforms": [
       "live2d"
     ],
-    "updated_at": "2026-06-11T10:20:50Z"
+    "updated_at": "2026-06-12T03:37:43Z"
   },
   "astrbot_plugin_telegram_summary": {
     "name": "",
@@ -5257,9 +5257,9 @@
       "codegen"
     ],
     "category": "ai_tools",
-    "stars": 57,
+    "stars": 58,
     "version": "1.4.0",
-    "updated_at": "2026-06-07T16:37:18Z",
+    "updated_at": "2026-06-12T00:16:21Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -6872,7 +6872,7 @@
     "category": "ai_tools",
     "stars": 334,
     "version": "3.3.0",
-    "updated_at": "2026-06-11T12:32:19Z",
+    "updated_at": "2026-06-11T23:44:09Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -11654,8 +11654,8 @@
     ],
     "category": "ai_tools",
     "stars": 238,
-    "version": "2.3.4",
-    "updated_at": "2026-06-11T21:27:18Z",
+    "version": "2.3.5",
+    "updated_at": "2026-06-12T03:17:11Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -11871,9 +11871,9 @@
     "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
     "category": "ai_tools",
     "tags": [],
-    "stars": 49,
+    "stars": 50,
     "version": "v1.0.4",
-    "updated_at": "2026-06-06T03:52:51Z"
+    "updated_at": "2026-06-12T01:44:25Z"
   },
   "astrbot_plugin_vtb_adapter": {
     "desc": "用于连接 AstrBot 与 Open LLM Vtuber，除安装插件外还需要修改 Open LLM Vtuber 中的相关文件",
