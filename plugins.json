@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-cloudflare-browser-run": {
+    "display_name": "Cloudflare云抓取",
+    "desc": "基于 Cloudflare Browser Run / Browser Rendering 的网页抓取 LLM Tool 插件。",
+    "author": "piexian",
+    "repo": "https://github.com/piexian/astrbot_plugin_cloudflare_browser_run",
+    "tags": [
+      "工具",
+      "网页抓取",
+      "浏览器自动化"
+    ],
+    "social_link": "https://github.com/piexian"
+  },
   "astrbot-plugin-knowledge-repo-sync": {
     "display_name": "知识库同步插件",
     "desc": "从远程 Git 仓库同步 Markdown 文档到 AstrBot 知识库，支持自动建库、分支识别、Git 差异检测增量同步、忽略路径、通知和分块参数配置。",
