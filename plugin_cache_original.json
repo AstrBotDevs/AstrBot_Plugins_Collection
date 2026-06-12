@@ -879,13 +879,13 @@
     "tags": [
       "QQ空间"
     ],
-    "stars": 25,
+    "stars": 26,
     "version": "0.6.0",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-11T06:47:33Z",
+    "updated_at": "2026-06-12T20:08:20Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_qzone_ultra/main/logo.png"
   },
   "telethon-bot-adapter": {
@@ -1078,10 +1078,10 @@
       "maimaidx"
     ],
     "social_link": "XiaoLan9999.net",
-    "stars": 6,
+    "stars": 7,
     "version": "v0.4.4",
     "astrbot_version": ">=4.5.2",
-    "updated_at": "2026-06-12T16:11:33Z",
+    "updated_at": "2026-06-12T19:28:25Z",
     "logo": "https://raw.githubusercontent.com/XiaoLan9999/astrbot_plugin_maimai_updater/main/logo.png"
   },
   "astrbot_plugin_indextts": {
@@ -3787,9 +3787,9 @@
     ],
     "social_link": "https://github.com/olozhika/",
     "category": "ai_tools",
-    "stars": 35,
+    "stars": 36,
     "version": "v1.3.4",
-    "updated_at": "2026-06-05T02:22:45Z",
+    "updated_at": "2026-06-12T21:12:30Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
@@ -7672,8 +7672,8 @@
     ],
     "category": "utilities",
     "stars": 2,
-    "version": "v1.1.1",
-    "updated_at": "2026-05-04T06:44:50Z",
+    "version": "v1.1.2",
+    "updated_at": "2026-06-12T20:01:29Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_webnovel_info/master/logo.png"
   },
   "astrbot_plugin_desktop_assistant": {
@@ -9126,9 +9126,9 @@
     ],
     "social_link": "https://github.com/vmoranv",
     "category": "ai_tools",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.0.1",
-    "updated_at": "2026-04-05T08:57:36Z"
+    "updated_at": "2026-06-12T19:33:26Z"
   },
   "astrbot_plugin_whitelistpro": {
     "display_name": "白名单拓展",
@@ -10932,9 +10932,9 @@
     ],
     "social_link": "maxim2811705608@outlook.com",
     "category": "entertainment",
-    "stars": 11,
+    "stars": 12,
     "version": "v1.1",
-    "updated_at": "2026-04-13T15:03:41Z"
+    "updated_at": "2026-06-12T19:30:07Z"
   },
   "astrbot_plugin_counter": {
     "desc": "计数器插件; 用法 /cnt add|del|list ; 当消息包含计数器或其别名时自动+1; JSON持久化",
@@ -14908,7 +14908,7 @@
     "category": "entertainment",
     "stars": 9,
     "version": "v3.4.1",
-    "updated_at": "2026-05-08T03:00:57Z",
+    "updated_at": "2026-06-12T19:34:09Z",
     "logo": "https://raw.githubusercontent.com/zhewang448/astrbot_plugin_mrfz/main/logo.png"
   },
   "astrbot_plugin_napdog_cleaner": {
