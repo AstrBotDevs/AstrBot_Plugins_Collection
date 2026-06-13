@@ -141,8 +141,8 @@
       "LLM"
     ],
     "social_link": "",
-    "stars": 0,
-    "updated_at": "2026-06-10T08:33:19Z",
+    "stars": 1,
+    "updated_at": "2026-06-13T22:46:09Z",
     "logo": "https://raw.githubusercontent.com/Masumeiki/astrbot_plugin_everos_integration/main/logo.png"
   },
   "astrbot-plugin-note-sift": {
@@ -3116,7 +3116,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 379,
+    "stars": 380,
     "version": "v4.10.6",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -3125,7 +3125,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-06-13T18:06:41Z",
+    "updated_at": "2026-06-13T22:11:34Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -6210,7 +6210,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 379,
+    "stars": 380,
     "version": "v4.10.6",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -6219,7 +6219,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-06-13T18:06:41Z",
+    "updated_at": "2026-06-13T22:11:34Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
