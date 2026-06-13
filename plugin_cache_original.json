@@ -1063,7 +1063,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-13T18:50:49Z",
+    "updated_at": "2026-06-13T21:10:28Z",
     "logo": "https://raw.githubusercontent.com/vivy1024/astrbot_plugin_wave_memory/master/logo.png"
   },
   "astrbot_plugin_maimai_updater": {
@@ -16966,9 +16966,9 @@
       "搬史"
     ],
     "category": "utilities",
-    "stars": 574,
+    "stars": 575,
     "version": "v0.916",
-    "updated_at": "2026-06-12T15:22:27Z"
+    "updated_at": "2026-06-13T19:49:30Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
