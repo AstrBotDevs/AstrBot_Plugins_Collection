@@ -249,12 +249,12 @@
     "social_link": "www.wyccotccy.cn",
     "tags": [],
     "stars": 32,
-    "version": "5.0.4",
+    "version": "5.0.5",
     "astrbot_version": ">=4.24.2",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-12T00:11:15Z",
+    "updated_at": "2026-06-13T06:33:11Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-private-companion": {
@@ -269,12 +269,12 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 27,
-    "version": "3.5.0",
+    "version": "3.5.1",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-13T01:06:25Z",
+    "updated_at": "2026-06-13T04:11:08Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -376,9 +376,9 @@
       "webchat"
     ],
     "social_link": "https://github.com/insolitude610",
-    "stars": 3,
+    "stars": 4,
     "version": "0.7.11",
-    "updated_at": "2026-06-12T09:44:31Z",
+    "updated_at": "2026-06-13T06:58:05Z",
     "logo": "https://raw.githubusercontent.com/insolitude610/astrbot_plugin_galgame_web/main/logo.png"
   },
   "astrbot-plugin-feishu-todo": {
@@ -879,13 +879,13 @@
     "tags": [
       "QQ空间"
     ],
-    "stars": 26,
+    "stars": 25,
     "version": "0.6.0",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-12T20:08:20Z",
+    "updated_at": "2026-06-13T07:35:07Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_qzone_ultra/main/logo.png"
   },
   "telethon-bot-adapter": {
@@ -1079,9 +1079,9 @@
     ],
     "social_link": "XiaoLan9999.net",
     "stars": 7,
-    "version": "v0.4.4",
+    "version": "v0.5.0",
     "astrbot_version": ">=4.5.2",
-    "updated_at": "2026-06-12T19:28:25Z",
+    "updated_at": "2026-06-13T07:19:48Z",
     "logo": "https://raw.githubusercontent.com/XiaoLan9999/astrbot_plugin_maimai_updater/main/logo.png"
   },
   "astrbot_plugin_indextts": {
@@ -1408,12 +1408,12 @@
       "X",
       "推特"
     ],
-    "stars": 21,
+    "stars": 22,
     "version": "v1.6.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-12T09:44:47Z",
+    "updated_at": "2026-06-13T06:05:53Z",
     "logo": "https://raw.githubusercontent.com/Ars1027/astrbot_plugin_twitter/master/logo.png"
   },
   "astrbot_plugin_course": {
@@ -1709,7 +1709,7 @@
     "social_link": "https://github.com/FlanChanXwO",
     "stars": 8,
     "version": "v1.0.3",
-    "updated_at": "2026-06-10T07:51:19Z",
+    "updated_at": "2026-06-13T05:17:44Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_imgexploration/master/logo.png"
   },
   "astrbot_plugin_eggSearch": {
@@ -2043,12 +2043,12 @@
     ],
     "social_link": "www.wyccotccy.cn",
     "stars": 32,
-    "version": "5.0.4",
+    "version": "5.0.5",
     "astrbot_version": ">=4.24.2",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-12T00:11:15Z",
+    "updated_at": "2026-06-13T06:33:11Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -4350,10 +4350,10 @@
     ],
     "social_link": "https://github.com/tniany",
     "category": "utilities",
-    "stars": 10,
+    "stars": 13,
     "version": "v1.3.3",
     "support_platforms": "OneBot",
-    "updated_at": "2026-06-12T18:23:07Z",
+    "updated_at": "2026-06-13T04:39:22Z",
     "logo": "https://raw.githubusercontent.com/tniany/astrbot_plugin_web-screenshot/main/logo.png"
   },
   "astrbot-plugin-astrbot-enhance-mode": {
@@ -6760,10 +6760,10 @@
     ],
     "social_link": "https://www.misakanet.site",
     "category": "ai_tools",
-    "stars": 17,
+    "stars": 18,
     "version": "v1.3.3",
     "astrbot_version": ">=4.25.3",
-    "updated_at": "2026-06-09T16:00:09Z",
+    "updated_at": "2026-06-13T04:41:39Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_image_generation/master/logo.png"
   },
   "astrbot_plugin_group_geetest_verify": {
@@ -6888,9 +6888,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 335,
+    "stars": 336,
     "version": "3.3.0",
-    "updated_at": "2026-06-12T13:31:50Z",
+    "updated_at": "2026-06-13T05:54:12Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -9371,9 +9371,9 @@
     "repo": "https://github.com/libin99527/astrbot_plugin_werewolf",
     "category": "entertainment",
     "tags": [],
-    "stars": 10,
+    "stars": 11,
     "version": "v3.0.2",
-    "updated_at": "2026-05-13T09:05:48Z",
+    "updated_at": "2026-06-13T04:10:57Z",
     "logo": "https://raw.githubusercontent.com/libin99527/astrbot_plugin_werewolf/main/logo.png"
   },
   "astrbot_plugin_media_parser": {
@@ -9565,8 +9565,8 @@
     ],
     "category": "productivity",
     "stars": 14,
-    "version": "1.2.2",
-    "updated_at": "2026-06-10T05:20:35Z",
+    "version": "1.2.3",
+    "updated_at": "2026-06-13T04:52:14Z",
     "logo": "https://raw.githubusercontent.com/TenmaGabriel0721/astrbot_plugin_permission-manager/main/logo.png"
   },
   "astrbot_plugin_whatslinkInfo": {
