@@ -327,7 +327,7 @@
       "qq_official",
       "satori"
     ],
-    "updated_at": "2026-06-09T15:25:19Z"
+    "updated_at": "2026-06-13T16:29:48Z"
   },
   "astrbot-plugin-ottohub": {
     "display_name": "Ottohub Adapter",
@@ -527,7 +527,7 @@
       "联网",
       "anysearch"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v0.1.0",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
@@ -536,7 +536,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-06-09T15:14:25Z",
+    "updated_at": "2026-06-13T16:30:13Z",
     "logo": "https://raw.githubusercontent.com/AgIzT/astrbot_plugin_anysearch/main/logo.png"
   },
   "astrbot_plugin_e2b_code": {
@@ -2697,7 +2697,7 @@
     "category": "entertainment",
     "stars": 6,
     "version": "v1.9.0",
-    "updated_at": "2026-06-08T18:38:53Z",
+    "updated_at": "2026-06-13T16:14:45Z",
     "logo": "https://raw.githubusercontent.com/yonglanws/astrbot_plugin_pjsk_guess_card/main/logo.png"
   },
   "astrbot-plugin-arcaea": {
@@ -3116,7 +3116,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 377,
+    "stars": 378,
     "version": "v4.10.6",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -3125,7 +3125,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-06-12T15:36:32Z",
+    "updated_at": "2026-06-13T16:15:47Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -6210,7 +6210,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 377,
+    "stars": 378,
     "version": "v4.10.6",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -6219,7 +6219,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-06-12T15:36:32Z",
+    "updated_at": "2026-06-13T16:15:47Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -6888,9 +6888,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 336,
+    "stars": 337,
     "version": "3.3.0",
-    "updated_at": "2026-06-13T08:52:19Z",
+    "updated_at": "2026-06-13T16:46:07Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -9805,9 +9805,9 @@
     ],
     "social_link": "https://github.com/Luna-channel",
     "category": "ai_tools",
-    "stars": 29,
+    "stars": 30,
     "version": "3.0.2",
-    "updated_at": "2026-06-12T18:15:15Z",
+    "updated_at": "2026-06-13T15:02:02Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_Conversa/main/logo.png"
   },
   "astrbot_plugin_shutdown": {
@@ -10362,9 +10362,9 @@
       "训练"
     ],
     "category": "productivity",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.0",
-    "updated_at": "2026-05-03T14:02:22Z"
+    "updated_at": "2026-06-13T16:03:50Z"
   },
   "astrbot_plugin_chat_queue": {
     "desc": "让并发消息按照队列依次执行",
@@ -17011,9 +17011,9 @@
       "图床"
     ],
     "category": "entertainment",
-    "stars": 318,
+    "stars": 319,
     "version": "v3.21",
-    "updated_at": "2026-06-11T02:30:47Z"
+    "updated_at": "2026-06-13T16:32:13Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
