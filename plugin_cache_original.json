@@ -103,7 +103,7 @@
       "大模型",
       "开关"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "1.0.0",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
@@ -125,7 +125,7 @@
       "matrix",
       "mattermost"
     ],
-    "updated_at": "2026-06-03T17:37:29Z"
+    "updated_at": "2026-06-13T11:18:00Z"
   },
   "astrbot-plugin-everos-integration": {
     "display_name": "EverOS for AstrBot",
@@ -301,12 +301,12 @@
       "gif处理",
       "趣味表情"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-11T12:07:53Z",
+    "updated_at": "2026-06-13T10:47:04Z",
     "logo": "https://raw.githubusercontent.com/lirundong093-glitch/astrbot_plugin_pic_toolbox/master/logo.png"
   },
   "astrbot-plugin-hs-rank": {
@@ -2647,9 +2647,9 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "category": "entertainment",
-    "stars": 33,
+    "stars": 34,
     "version": "v2.5.7",
-    "updated_at": "2026-06-12T07:21:30Z",
+    "updated_at": "2026-06-13T10:57:51Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot_plugin_atrifeed/main/logo.png"
   },
   "astrbot-plugin-self-open-llm-vtuber": {
@@ -15899,13 +15899,13 @@
       "QQ群管"
     ],
     "category": "utilities",
-    "stars": 153,
+    "stars": 154,
     "version": "v3.3.0",
     "astrbot_version": ">=4.24.2",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-06T12:27:10Z",
+    "updated_at": "2026-06-13T11:17:29Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -16484,12 +16484,12 @@
       "实用工具"
     ],
     "category": "utilities",
-    "stars": 48,
+    "stars": 49,
     "version": "v3.0.4",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-11T16:17:48Z",
+    "updated_at": "2026-06-13T11:34:13Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
