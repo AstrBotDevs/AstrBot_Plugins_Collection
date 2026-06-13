@@ -68,10 +68,10 @@
     "repo": "https://github.com/tanggetian/astrbot_plugin_openclaw_caller",
     "social_link": "https://github.com/tanggetian",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "1.1.0",
     "astrbot_version": ">=4.17.0",
-    "updated_at": "2026-06-09T08:02:07Z"
+    "updated_at": "2026-06-13T13:24:38Z"
   },
   "astrbot-plugin-garmin-health": {
     "display_name": "佳明健康看板",
@@ -173,13 +173,13 @@
       "互动"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 9,
+    "stars": 10,
     "version": "1.5.0",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-13T00:37:30Z",
+    "updated_at": "2026-06-13T13:03:54Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_live_stream_companion/main/logo.png"
   },
   "astrbot-plugin-open-notebook": {
@@ -430,13 +430,13 @@
       "塔塔露机器人"
     ],
     "social_link": "https://github.com/jawwe",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.5",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-06-07T19:17:43Z",
+    "updated_at": "2026-06-13T13:39:25Z",
     "logo": "https://raw.githubusercontent.com/jawwe/astrbot_plugin_tataru/main/logo.png"
   },
   "astrbot-plugin-math-plotter": {
@@ -595,8 +595,8 @@
       "网盘管理"
     ],
     "stars": 0,
-    "version": "v1.1.1",
-    "updated_at": "2026-06-12T15:17:45Z",
+    "version": "v1.1.2",
+    "updated_at": "2026-06-13T12:59:50Z",
     "logo": "https://raw.githubusercontent.com/Volundio/astrbot_plugin_openlist_bot/main/logo.png"
   },
   "astrbot-plugin-notion-bridge": {
@@ -1079,9 +1079,9 @@
     ],
     "social_link": "XiaoLan9999.net",
     "stars": 7,
-    "version": "v0.5.0",
+    "version": "v0.5.1",
     "astrbot_version": ">=4.5.2",
-    "updated_at": "2026-06-13T07:19:48Z",
+    "updated_at": "2026-06-13T14:14:26Z",
     "logo": "https://raw.githubusercontent.com/XiaoLan9999/astrbot_plugin_maimai_updater/main/logo.png"
   },
   "astrbot_plugin_indextts": {
@@ -3507,9 +3507,9 @@
     ],
     "social_link": "https://github.com/FlanChanXwO",
     "category": "utilities",
-    "stars": 22,
+    "stars": 23,
     "version": "v2.0.0",
-    "updated_at": "2026-06-11T05:53:13Z",
+    "updated_at": "2026-06-13T13:50:52Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_status/master/logo.png"
   },
   "astrbot-plugin-adsb-monitor": {
@@ -5324,9 +5324,9 @@
     ],
     "social_link": "https://github.com/4869-yinxu",
     "category": "integrations",
-    "stars": 12,
+    "stars": 13,
     "version": "1.0.0",
-    "updated_at": "2026-06-02T22:38:11Z"
+    "updated_at": "2026-06-13T13:24:59Z"
   },
   "astrbot_plugin_riddlegame": {
     "display_name": "qq群棋类游戏",
@@ -8280,14 +8280,14 @@
       "表情"
     ],
     "category": "entertainment",
-    "stars": 52,
+    "stars": 53,
     "version": "2.6.10",
     "astrbot_version": ">=4.24.1",
     "support_platforms": [
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-06-11T20:04:26Z",
+    "updated_at": "2026-06-13T14:26:53Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -8921,9 +8921,9 @@
     ],
     "social_link": "https://github.com/Siaospeed",
     "category": "utilities",
-    "stars": 15,
+    "stars": 16,
     "version": "v0.1.0",
-    "updated_at": "2026-06-07T13:05:26Z",
+    "updated_at": "2026-06-13T12:48:03Z",
     "logo": "https://raw.githubusercontent.com/Siaospeed/astrbot_plugin_msg_transfer/main/logo.png"
   },
   "astrbot_plugin_chuanhuatong": {
