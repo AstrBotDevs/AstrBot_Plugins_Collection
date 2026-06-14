@@ -1,4 +1,17 @@
 {
+  "astrbot-plugin-mimo-tts-clone": {
+    "desc": "基于 MiMo 官方 API 的 TTS 音色克隆插件，支持 Pages 音色管理、授权音频上传、多音色切换、情绪路由、自动语音化、试听诊断，以及供其他插件复用的 TTS 工具。",
+    "author": "Justice-ocr",
+    "repo": "https://github.com/Justice-ocr/astrbot_plugin_mimo_tts_clone",
+    "tags": [
+      "tts",
+      "mimo",
+      "voice-clone",
+      "pages",
+      "speech"
+    ],
+    "social_link": "https://github.com/Justice-ocr"
+  },
   "astrbot-plugin-cloudflare-browser-run": {
     "display_name": "Cloudflare云抓取",
     "desc": "基于 Cloudflare Browser Run / Browser Rendering 的网页抓取 LLM Tool 插件。",
