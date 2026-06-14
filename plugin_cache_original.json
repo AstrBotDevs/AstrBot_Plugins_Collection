@@ -215,13 +215,13 @@
       "互动"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 10,
+    "stars": 11,
     "version": "1.6.0",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-13T18:24:52Z",
+    "updated_at": "2026-06-14T14:39:01Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_live_stream_companion/main/logo.png"
   },
   "astrbot-plugin-open-notebook": {
@@ -544,7 +544,7 @@
       "lark",
       "weixin_oc"
     ],
-    "updated_at": "2026-06-12T09:08:16Z"
+    "updated_at": "2026-06-14T15:03:06Z"
   },
   "astrbot_plugin_comfyui_hub": {
     "display_name": "ComfyUI 枢纽",
@@ -3158,7 +3158,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 381,
+    "stars": 383,
     "version": "v4.10.6",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -3167,7 +3167,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-06-14T06:01:06Z",
+    "updated_at": "2026-06-14T15:31:54Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -5058,9 +5058,9 @@
       "opencode"
     ],
     "category": "integrations",
-    "stars": 161,
+    "stars": 162,
     "version": "v2.1.4",
-    "updated_at": "2026-06-12T11:01:19Z",
+    "updated_at": "2026-06-14T14:47:59Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -6252,7 +6252,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 381,
+    "stars": 383,
     "version": "v4.10.6",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -6261,7 +6261,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-06-14T06:01:06Z",
+    "updated_at": "2026-06-14T15:31:54Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -6930,9 +6930,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 338,
-    "version": "3.4.0",
-    "updated_at": "2026-06-14T13:39:12Z",
+    "stars": 339,
+    "version": "3.4.1",
+    "updated_at": "2026-06-14T16:00:55Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -9371,9 +9371,9 @@
       "私聊"
     ],
     "category": "ai_tools",
-    "stars": 33,
+    "stars": 34,
     "version": "2.4.0",
-    "updated_at": "2026-05-30T17:11:27Z",
+    "updated_at": "2026-06-14T14:39:55Z",
     "logo": "https://raw.githubusercontent.com/aliveriver/astrbot_plugin_continuous_message/master/logo.png"
   },
   "astrbot_plugin_llm_amnesia": {
@@ -9875,10 +9875,10 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "ai_tools",
-    "stars": 110,
+    "stars": 111,
     "version": "V1.2.3.hotfix.2",
     "astrbot_version": ">=4.11.0",
-    "updated_at": "2026-06-14T10:50:22Z",
+    "updated_at": "2026-06-14T16:03:38Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -17054,9 +17054,9 @@
       "图床"
     ],
     "category": "entertainment",
-    "stars": 320,
+    "stars": 321,
     "version": "v3.21",
-    "updated_at": "2026-06-14T03:18:07Z"
+    "updated_at": "2026-06-14T14:44:34Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
