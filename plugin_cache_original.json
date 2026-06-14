@@ -32,13 +32,13 @@
       "speech"
     ],
     "social_link": "https://github.com/Justice-ocr",
-    "stars": 0,
+    "stars": 1,
     "version": "v0.2.0",
     "astrbot_version": ">=4.16.0,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-13T10:38:38Z",
+    "updated_at": "2026-06-14T11:07:43Z",
     "logo": "https://raw.githubusercontent.com/Justice-ocr/astrbot_plugin_mimo_tts_clone/main/logo.png"
   },
   "astrbot-plugin-cloudflare-browser-run": {
@@ -310,13 +310,13 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 29,
+    "stars": 30,
     "version": "3.6.0",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-14T04:41:31Z",
+    "updated_at": "2026-06-14T09:49:09Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -1099,13 +1099,13 @@
     "repo": "https://github.com/vivy1024/astrbot_plugin_wave_memory",
     "social_link": "https://github.com/lioensky/VCPChat | https://github.com/lioensky/VCPToolBox",
     "tags": [],
-    "stars": 7,
-    "version": "v0.9.0",
+    "stars": 8,
+    "version": "v1.0.2",
     "astrbot_version": ">=4.14.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-14T08:36:42Z",
+    "updated_at": "2026-06-14T11:26:06Z",
     "logo": "https://raw.githubusercontent.com/vivy1024/astrbot_plugin_wave_memory/master/logo.png"
   },
   "astrbot_plugin_maimai_updater": {
@@ -4452,8 +4452,8 @@
     "social_link": "https://github.com/leafliber",
     "category": "ai_tools",
     "stars": 29,
-    "version": "v1.11.2",
-    "updated_at": "2026-06-14T05:25:24Z",
+    "version": "v2.0.0",
+    "updated_at": "2026-06-14T11:07:10Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -6930,9 +6930,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 338,
+    "stars": 339,
     "version": "3.3.0",
-    "updated_at": "2026-06-14T07:01:57Z",
+    "updated_at": "2026-06-14T10:49:23Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -8199,9 +8199,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 139,
+    "stars": 140,
     "version": "v1.5.1",
-    "updated_at": "2026-06-12T05:33:25Z",
+    "updated_at": "2026-06-14T10:08:12Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -8827,7 +8827,7 @@
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-06-03T20:55:35Z",
+    "updated_at": "2026-06-14T09:09:20Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/main/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -9875,10 +9875,10 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "ai_tools",
-    "stars": 109,
+    "stars": 110,
     "version": "V1.2.3.hotfix.2",
     "astrbot_version": ">=4.11.0",
-    "updated_at": "2026-06-10T19:29:42Z",
+    "updated_at": "2026-06-14T10:50:22Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -15471,7 +15471,7 @@
     "category": "entertainment",
     "stars": 11,
     "version": "v0.1.0",
-    "updated_at": "2026-05-25T08:21:06Z"
+    "updated_at": "2026-06-14T09:41:59Z"
   },
   "astrbot-gold-plugin": {
     "repo": "https://github.com/RC-CHN/astrbot-gold-plugin",
@@ -15698,7 +15698,7 @@
     "category": "integrations",
     "stars": 43,
     "version": "v0.5.0",
-    "updated_at": "2026-06-12T10:18:48Z"
+    "updated_at": "2026-06-14T09:17:58Z"
   },
   "astrbot_plugin_xyzw": {
     "author": "四郎",
