@@ -1,4 +1,16 @@
 {
+  "astrbot_plugin_web_search_auto": {
+    "display_name": "Web Search Auto - 自动网络搜索",
+    "desc": "基于 SearXNG 的自动网络搜索插件，LLM 自主决定何时搜索，无需指令前缀。提供 web_search 和 web_fetch 两个 LLM 工具。",
+    "author": "bentianjia",
+    "repo": "https://github.com/bentianjia/astrbot_plugin_web_search_auto",
+    "tags": [
+      "搜索",
+      "工具",
+      "LLM",
+      "SearXNG"
+    ]
+  },
   "astrbot-plugin-token-controller": {
     "display_name": "Token 流量控制",
     "desc": "精细化群聊 Token 流量控制插件：限额、模型阶梯调控、节流与可视化统计。",
