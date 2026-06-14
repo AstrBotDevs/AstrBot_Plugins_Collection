@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-token-controller": {
+    "display_name": "Token 流量控制",
+    "desc": "精细化群聊 Token 流量控制插件：限额、模型阶梯调控、节流与可视化统计。",
+    "author": "青尘工作室",
+    "repo": "https://github.com/QingchenWait/astrbot_plugin_token_controller",
+    "tags": [
+      "流量控制",
+      "限流",
+      "webui"
+    ]
+  },
   "astrbot-plugin-mimo-tts-clone": {
     "desc": "基于 MiMo 官方 API 的 TTS 音色克隆插件，支持 Pages 音色管理、授权音频上传、多音色切换、情绪路由、自动语音化、试听诊断，以及供其他插件复用的 TTS 工具。",
     "author": "Justice-ocr",
