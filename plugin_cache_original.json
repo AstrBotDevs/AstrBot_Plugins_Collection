@@ -311,12 +311,12 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 30,
-    "version": "3.7.0",
+    "version": "3.7.1",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-14T18:03:11Z",
+    "updated_at": "2026-06-14T19:10:41Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -796,13 +796,13 @@
     "repo": "https://github.com/tanggetian/astrbot_plugin_MiniMax_CLI",
     "social_link": "https://github.com/tanggetian",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "1.2.0",
     "astrbot_version": ">=4.0.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-01T11:59:09Z"
+    "updated_at": "2026-06-14T20:14:29Z"
   },
   "astrbot_plugin_mem0_memory": {
     "display_name": "mem0",
@@ -1190,10 +1190,10 @@
     "repo": "https://github.com/Ayleovelle/astrbot_plugin_sylanne",
     "social_link": "https://github.com/Ayleovelle",
     "tags": [],
-    "stars": 46,
+    "stars": 47,
     "version": "2.0.1",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-06-13T08:19:09Z",
+    "updated_at": "2026-06-14T18:30:25Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -8384,9 +8384,9 @@
     "social_link": "https://github.com/DBJD-CR",
     "category": "utilities",
     "stars": 68,
-    "version": "v1.5.1",
+    "version": "v1.5.2",
     "astrbot_version": ">=4.11.2",
-    "updated_at": "2026-06-12T10:58:47Z",
+    "updated_at": "2026-06-14T19:10:45Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
