@@ -9,7 +9,7 @@
       "限流",
       "webui"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "0.6.6",
     "astrbot_version": ">=4.24.2",
     "support_platforms": [
@@ -17,7 +17,7 @@
       "qq_official",
       "qq_official_webhook"
     ],
-    "updated_at": "2026-06-10T17:29:30Z",
+    "updated_at": "2026-06-14T14:03:07Z",
     "logo": "https://raw.githubusercontent.com/QingchenWait/astrbot_plugin_token_controller/main/logo.png"
   },
   "astrbot-plugin-mimo-tts-clone": {
@@ -311,12 +311,12 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 30,
-    "version": "3.6.0",
+    "version": "3.6.2",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-14T09:49:09Z",
+    "updated_at": "2026-06-14T13:52:45Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -1100,12 +1100,12 @@
     "social_link": "https://github.com/lioensky/VCPChat | https://github.com/lioensky/VCPToolBox",
     "tags": [],
     "stars": 8,
-    "version": "v1.0.2",
+    "version": "v1.1.2",
     "astrbot_version": ">=4.14.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-14T11:26:06Z",
+    "updated_at": "2026-06-14T13:22:07Z",
     "logo": "https://raw.githubusercontent.com/vivy1024/astrbot_plugin_wave_memory/master/logo.png"
   },
   "astrbot_plugin_maimai_updater": {
@@ -2753,9 +2753,9 @@
     ],
     "social_link": "https://github.com/1-20182",
     "category": "entertainment",
-    "stars": 4,
+    "stars": 5,
     "version": "3.0.0",
-    "updated_at": "2026-04-27T14:56:24Z"
+    "updated_at": "2026-06-14T12:08:26Z"
   },
   "astrbot-plugin-arxiv": {
     "display_name": "ArXiv Paper Pusher",
@@ -4042,8 +4042,8 @@
     "social_link": "https://github.com/RichardLiuda",
     "category": "utilities",
     "stars": 26,
-    "version": "v2.2.4",
-    "updated_at": "2026-06-12T09:30:28Z",
+    "version": "v2.2.5",
+    "updated_at": "2026-06-14T14:04:07Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -4749,9 +4749,9 @@
     ],
     "social_link": "https://github.com/1-20182",
     "category": "entertainment",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.9.9",
-    "updated_at": "2026-06-04T13:25:20Z"
+    "updated_at": "2026-06-14T12:08:08Z"
   },
   "astrbot-plugin-Gemini-STT": {
     "display_name": "Gemini_STT",
@@ -6930,9 +6930,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 339,
-    "version": "3.3.0",
-    "updated_at": "2026-06-14T10:49:23Z",
+    "stars": 338,
+    "version": "3.4.0",
+    "updated_at": "2026-06-14T13:39:12Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -9316,9 +9316,9 @@
     ],
     "social_link": "https://github.com/NekoiMeiov",
     "category": "utilities",
-    "stars": 14,
+    "stars": 15,
     "version": "v1.1.0",
-    "updated_at": "2026-06-07T09:54:39Z"
+    "updated_at": "2026-06-14T13:21:10Z"
   },
   "astrbot_plugin_mc_update": {
     "display_name": "Minecraft 基岩版更新日志提醒插件",
@@ -11716,9 +11716,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 241,
+    "stars": 243,
     "version": "2.3.5",
-    "updated_at": "2026-06-14T08:13:52Z",
+    "updated_at": "2026-06-14T12:44:23Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -14610,9 +14610,9 @@
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
     "tags": [],
-    "stars": 52,
+    "stars": 53,
     "version": "v1.3.0",
-    "updated_at": "2026-06-05T08:56:28Z",
+    "updated_at": "2026-06-14T13:40:33Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_search_video/main/logo.png"
   },
   "astrbot_plugin_zt": {
@@ -15696,9 +15696,9 @@
     ],
     "social_link": "https://docs.sayu-bot.com/",
     "category": "integrations",
-    "stars": 43,
+    "stars": 44,
     "version": "v0.5.0",
-    "updated_at": "2026-06-14T09:17:58Z"
+    "updated_at": "2026-06-14T11:54:36Z"
   },
   "astrbot_plugin_xyzw": {
     "author": "四郎",
@@ -16154,9 +16154,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
     "category": "integrations",
-    "stars": 87,
+    "stars": 88,
     "version": "v3.1.0",
-    "updated_at": "2026-06-12T13:57:25Z",
+    "updated_at": "2026-06-14T12:37:18Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
