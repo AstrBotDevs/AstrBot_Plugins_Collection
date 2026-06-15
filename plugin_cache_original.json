@@ -560,7 +560,7 @@
       "lark",
       "weixin_oc"
     ],
-    "updated_at": "2026-06-14T15:03:06Z"
+    "updated_at": "2026-06-15T23:37:51Z"
   },
   "astrbot_plugin_comfyui_hub": {
     "display_name": "ComfyUI 枢纽",
@@ -3567,7 +3567,7 @@
     "category": "utilities",
     "stars": 23,
     "version": "v2.0.0",
-    "updated_at": "2026-06-13T13:50:52Z",
+    "updated_at": "2026-06-15T23:38:54Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_status/master/logo.png"
   },
   "astrbot-plugin-adsb-monitor": {
