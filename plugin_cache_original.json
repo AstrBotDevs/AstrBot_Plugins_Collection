@@ -326,13 +326,13 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 34,
+    "stars": 35,
     "version": "3.8.0",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-15T18:21:13Z",
+    "updated_at": "2026-06-15T20:46:43Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -1116,12 +1116,12 @@
     "social_link": "https://github.com/lioensky/VCPChat | https://github.com/lioensky/VCPToolBox",
     "tags": [],
     "stars": 9,
-    "version": "v1.2.1",
+    "version": "v1.3.1",
     "astrbot_version": ">=4.14.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-15T18:13:46Z",
+    "updated_at": "2026-06-15T20:38:02Z",
     "logo": "https://raw.githubusercontent.com/vivy1024/astrbot_plugin_wave_memory/master/logo.png"
   },
   "astrbot_plugin_maimai_updater": {
@@ -5304,9 +5304,9 @@
     "repo": "https://github.com/coolwind886-spec/astrbot_plugin_live2d_pet/",
     "category": "entertainment",
     "tags": [],
-    "stars": 9,
+    "stars": 10,
     "version": "v4.3.0",
-    "updated_at": "2026-04-18T15:09:51Z"
+    "updated_at": "2026-06-15T19:11:18Z"
   },
   "astrbot_plugin_steam_updates": {
     "display_name": "Steam 游戏更新推送插件",
@@ -7760,9 +7760,9 @@
       "人格"
     ],
     "category": "ai_tools",
-    "stars": 148,
+    "stars": 149,
     "version": "1.4.15",
-    "updated_at": "2026-06-15T06:08:17Z",
+    "updated_at": "2026-06-15T19:12:48Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -11732,9 +11732,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 246,
+    "stars": 247,
     "version": "2.3.5",
-    "updated_at": "2026-06-15T15:38:45Z",
+    "updated_at": "2026-06-15T20:02:39Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -12411,9 +12411,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
-    "stars": 55,
+    "stars": 56,
     "version": "v2.2.2",
-    "updated_at": "2026-05-28T04:37:50Z",
+    "updated_at": "2026-06-15T19:27:37Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wakepro/main/logo.png"
   },
   "astrbot_plugin_memora_connect": {
@@ -12572,9 +12572,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "integrations",
-    "stars": 144,
+    "stars": 145,
     "version": "v3.1.0",
-    "updated_at": "2026-06-12T14:02:13Z",
+    "updated_at": "2026-06-15T20:16:23Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
