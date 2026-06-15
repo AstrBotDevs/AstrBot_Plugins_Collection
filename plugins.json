@@ -11443,7 +11443,7 @@
   },
   "astrbot_plugin_web_search_auto": {
     "display_name": "Web Search Auto - 自动网络搜索",
-    "desc": "自动拦截消息并搜索网络，结果注入LLM上下文，自然筛选回复。已内置：最短消息过滤(>=4字)、搜索后端可配(bing/duckduckgo/searxng)、超时可配、缓存可配、代理可配。默认Bing直连零部署。",
+    "desc": "自动拦截消息并搜索网络，结果注入LLM上下文，自然筛选回复。已内置最短消息过滤、搜索后端可配(bing/duckduckgo/searxng)、超时/缓存/代理均可配。默认Bing直连零部署。",
     "author": "bentianjia",
     "repo": "https://github.com/bentianjia/astrbot_plugin_web_search_auto",
     "tags": [
