@@ -1121,7 +1121,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-15T20:38:02Z",
+    "updated_at": "2026-06-16T18:38:57Z",
     "logo": "https://raw.githubusercontent.com/vivy1024/astrbot_plugin_wave_memory/master/logo.png"
   },
   "astrbot_plugin_maimai_updater": {
@@ -6607,9 +6607,9 @@
       "自动回复"
     ],
     "category": "utilities",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.4.0",
-    "updated_at": "2026-06-04T05:58:42Z",
+    "updated_at": "2026-06-16T16:08:00Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_keywords_reply/master/logo.png"
   },
   "astrbot_plugin_text2img": {
@@ -6946,9 +6946,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 343,
+    "stars": 344,
     "version": "3.4.1",
-    "updated_at": "2026-06-16T13:49:38Z",
+    "updated_at": "2026-06-16T17:03:56Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -8217,7 +8217,7 @@
     "category": "utilities",
     "stars": 142,
     "version": "v1.5.1",
-    "updated_at": "2026-06-16T10:27:49Z",
+    "updated_at": "2026-06-16T16:17:47Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -9332,9 +9332,9 @@
     ],
     "social_link": "https://github.com/NekoiMeiov",
     "category": "utilities",
-    "stars": 15,
+    "stars": 16,
     "version": "v1.1.0",
-    "updated_at": "2026-06-14T13:21:10Z"
+    "updated_at": "2026-06-16T17:44:03Z"
   },
   "astrbot_plugin_mc_update": {
     "display_name": "Minecraft 基岩版更新日志提醒插件",
@@ -17070,9 +17070,9 @@
       "图床"
     ],
     "category": "entertainment",
-    "stars": 322,
+    "stars": 323,
     "version": "v3.21",
-    "updated_at": "2026-06-15T13:31:26Z"
+    "updated_at": "2026-06-16T17:45:57Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
