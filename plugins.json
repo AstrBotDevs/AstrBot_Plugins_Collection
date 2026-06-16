@@ -7709,6 +7709,20 @@
     "author": "薄暝",
     "repo": "https://github.com/xiaoxi68/astrbot_plugin_group_notice_manager",
     "category": "utilities"
+  "astrbot_plugin_jmcomic": {
+    "display_name": "禁漫PDF下载",
+    "desc": "发送车号自动下载JMComic本子，合并为PDF直接发送到QQ/Telegram/微信。支持关键词搜索、页数限制、临时文件自动清理、NapCat+AstrBot分离部署。",
+    "author": "fangkuaizhu",
+    "repo": "https://github.com/fangkuaizhu/astrbot_plugin_jmcomic",
+    "tags": [
+      "jmcomic",
+      "禁漫",
+      "PDF",
+      "下载"
+    ],
+    "social_link": "https://github.com/fangkuaizhu",
+    "category": "utilities"
+  },
   },
   "jrrp_lite": {
     "desc": "一个只有今日人品功能的轻量级插件，数据重启后自动清除，每人每天只能随机生成一次，除此外调用第一次数据，欢迎pr~",
