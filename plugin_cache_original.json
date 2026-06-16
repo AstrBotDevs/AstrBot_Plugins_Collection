@@ -306,13 +306,13 @@
     "repo": "https://github.com/Wyccotccy/astrbot_plugin_qzone_tools",
     "social_link": "www.wyccotccy.cn",
     "tags": [],
-    "stars": 33,
-    "version": "5.0.5",
+    "stars": 32,
+    "version": "5.0.6",
     "astrbot_version": ">=4.24.2",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-13T17:38:02Z",
+    "updated_at": "2026-06-16T04:16:41Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-private-companion": {
@@ -326,13 +326,13 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 35,
+    "stars": 34,
     "version": "3.8.0",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-15T20:46:43Z",
+    "updated_at": "2026-06-16T04:13:37Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -937,13 +937,13 @@
     "tags": [
       "QQ空间"
     ],
-    "stars": 27,
+    "stars": 26,
     "version": "0.7.0",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-14T05:52:56Z",
+    "updated_at": "2026-06-16T04:14:33Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_qzone_ultra/main/logo.png"
   },
   "telethon-bot-adapter": {
@@ -1206,10 +1206,10 @@
     "repo": "https://github.com/Ayleovelle/astrbot_plugin_sylanne",
     "social_link": "https://github.com/Ayleovelle",
     "tags": [],
-    "stars": 47,
+    "stars": 46,
     "version": "2.0.1",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-06-14T18:30:25Z",
+    "updated_at": "2026-06-16T04:14:19Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -1494,9 +1494,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 124,
+    "stars": 123,
     "version": "3.4.1",
-    "updated_at": "2026-06-15T08:24:38Z",
+    "updated_at": "2026-06-16T03:20:14Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -2100,13 +2100,13 @@
       "更多主动功能"
     ],
     "social_link": "www.wyccotccy.cn",
-    "stars": 33,
-    "version": "5.0.5",
+    "stars": 32,
+    "version": "5.0.6",
     "astrbot_version": ">=4.24.2",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-13T17:38:02Z",
+    "updated_at": "2026-06-16T04:16:41Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -2446,9 +2446,9 @@
       "推特"
     ],
     "social_link": "https://github.com/xiaoruange39",
-    "stars": 3,
-    "version": "1.0.3",
-    "updated_at": "2026-06-12T14:05:34Z",
+    "stars": 4,
+    "version": "1.0.4",
+    "updated_at": "2026-06-16T01:21:28Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_x_score/main/logo.png"
   },
   "astrbot-plugin-cloudflare-tunnel-monitor": {
@@ -3174,7 +3174,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 384,
+    "stars": 385,
     "version": "v4.10.6",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -3183,7 +3183,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-06-15T18:12:24Z",
+    "updated_at": "2026-06-16T01:49:49Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -5333,9 +5333,9 @@
       "codegen"
     ],
     "category": "ai_tools",
-    "stars": 58,
+    "stars": 57,
     "version": "1.4.0",
-    "updated_at": "2026-06-12T00:16:21Z",
+    "updated_at": "2026-06-16T04:13:22Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -6268,7 +6268,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 384,
+    "stars": 385,
     "version": "v4.10.6",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -6277,7 +6277,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-06-15T18:12:24Z",
+    "updated_at": "2026-06-16T01:49:49Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -7182,8 +7182,8 @@
     "category": "ai_tools",
     "tags": [],
     "stars": 4,
-    "version": "1.21.0",
-    "updated_at": "2026-06-13T08:16:33Z"
+    "version": "1.22.0",
+    "updated_at": "2026-06-16T03:43:53Z"
   },
   "astrbot_plugin_seedream_image": {
     "display_name": "火山方舟生图",
@@ -8399,10 +8399,10 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "utilities",
-    "stars": 67,
+    "stars": 68,
     "version": "v1.5.2",
     "astrbot_version": ">=4.11.2",
-    "updated_at": "2026-06-15T17:26:59Z",
+    "updated_at": "2026-06-16T00:12:11Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -10202,7 +10202,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 305,
+    "stars": 306,
     "version": "v1.2.4",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -10214,7 +10214,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-06-15T03:41:43Z",
+    "updated_at": "2026-06-16T02:53:12Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
