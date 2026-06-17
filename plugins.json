@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-baidu-curl": {
+    "display_name": "百度网盘cURL下载助手",
+    "desc": "发送百度网盘分享链接，自动转存、提取直链并生成cURL下载命令。支持baidu-autosave转存、OpenList集成、文件自动整理。",
+    "author": "jichie",
+    "repo": "https://github.com/jichie/astrbot_plugin_baidu_curl",
+    "tags": [
+      "百度网盘",
+      "下载",
+      "转存"
+    ],
+    "social_link": ""
+  },
   "astrbot-plugin-Rcon-minecraft": {
     "display_name": "Rcon Minecraft服务器管理",
     "desc": "通过 RCON 协议连接 Minecraft 服务器，支持多服务器管理、AI 自然语言控制、定时备份公告、性能监控与完整玩家管理。",
