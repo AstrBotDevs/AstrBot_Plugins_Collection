@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-minecraft-motd": {
+    "display_name": "Minecraft 服务器 motd 查询",
+    "desc": "一个用于查询 Minecraft 服务器状态的 AstrBot 插件，支持 Java 版和基岩版服务器，完美兼容 ViaVersion 多版本服务器",
+    "author": "Hayston1001",
+    "repo": "https://github.com/Hayston1001/astrbot_plugin_minecraft_motd",
+    "tags": [
+      "minecraft",
+      "mc",
+      "服务器",
+      "motd"
+    ]
+  },
   "astrbot-plugin-koharu": {
     "display_name": "Koharu 漫画翻译",
     "desc": "使用 Koharu HTTP API 翻译聊天中的漫画图片。",
