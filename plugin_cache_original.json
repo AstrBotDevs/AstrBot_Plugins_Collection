@@ -854,12 +854,12 @@
     ],
     "social_link": "https://github.com/Rentz412",
     "stars": 4,
-    "version": "v2.3.0",
+    "version": "v2.4.0",
     "astrbot_version": ">=4.16",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-11T10:18:31Z",
+    "updated_at": "2026-06-17T19:07:42Z",
     "logo": "https://raw.githubusercontent.com/Rentz412/astrbot_plugin_esjzone_downloader/main/logo.png"
   },
   "astrbot_plugin_mmx_cli_tool": {
@@ -4137,7 +4137,7 @@
     "category": "utilities",
     "stars": 27,
     "version": "v2.3.0",
-    "updated_at": "2026-06-15T16:31:51Z",
+    "updated_at": "2026-06-17T18:34:11Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -11346,9 +11346,9 @@
     "repo": "https://github.com/EraAsh/astrbot_plugin_admin_emoji_reply",
     "category": "utilities",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "v1.7.0",
-    "updated_at": "2026-05-23T15:41:39Z"
+    "updated_at": "2026-06-17T18:45:59Z"
   },
   "astrbot_plugin_dpcq_game": {
     "desc": "一个文字修仙游戏，基于经典小说《斗破苍穹》设定，包含境界突破、炼丹系统、副本挑战等丰富玩法",
