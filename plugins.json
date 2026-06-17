@@ -1,4 +1,17 @@
 {
+  "astrbot-plugin-AstrScheduleSync": {
+    "display_name": "多端日程同步管理",
+    "desc": "让 AstrBot Agent 通过自然语言创建/查询/修改/删除 ICS 标准格式日历事件和待办，自动上传到 Radicale CalDAV 服务器。用户可通过支持定时导入/定时同步CavDAV日程/待办的软件实现多端日程同步管理",
+    "author": "D1ff1culTT",
+    "repo": "https://github.com/D1ff1culTT/astrbot_plugin_AstrScheduleSync",
+    "tags": [
+      "日程",
+      "CalDAV",
+      "效率",
+      "待办"
+    ],
+    "social_link": "https://github.com/D1ff1culTT"
+  },
   "astrbot-plugin-HypixelBanTracker": {
     "display_name": "HypixelBanTracker",
     "desc": "一个Hypixel封禁查询",
