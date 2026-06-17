@@ -1,4 +1,62 @@
 {
+  "astrbot-plugin-minecraft-motd": {
+    "display_name": "Minecraft 服务器 motd 查询",
+    "desc": "一个用于查询 Minecraft 服务器状态的 AstrBot 插件，支持 Java 版和基岩版服务器，完美兼容 ViaVersion 多版本服务器",
+    "author": "Hayston1001",
+    "repo": "https://github.com/Hayston1001/astrbot_plugin_minecraft_motd",
+    "tags": [
+      "minecraft",
+      "mc",
+      "服务器",
+      "motd"
+    ],
+    "stars": 0,
+    "version": "1.2.0",
+    "updated_at": "2026-06-08T13:20:49Z"
+  },
+  "astrbot-plugin-koharu": {
+    "display_name": "Koharu 漫画翻译",
+    "desc": "使用 Koharu HTTP API 翻译聊天中的漫画图片。",
+    "author": "ABCwewe",
+    "repo": "https://github.com/ABCwewe/astrbot_plugin_koharu",
+    "tags": [
+      "翻译",
+      "Koharu",
+      "漫画",
+      "漫画翻译"
+    ],
+    "social_link": "https://github.com/ABCwewe",
+    "stars": 0,
+    "version": "v1.3.0",
+    "astrbot_version": ">=4.9.2",
+    "updated_at": "2026-06-11T16:36:45Z"
+  },
+  "astrbot-plugin-AstrScheduleSync": {
+    "display_name": "多端日程同步管理",
+    "desc": "让 AstrBot Agent 通过自然语言创建/查询/修改/删除 ICS 标准格式日历事件和待办，自动上传到 Radicale CalDAV 服务器。用户可通过支持定时导入/定时同步CavDAV日程/待办的软件实现多端日程同步管理",
+    "author": "D1ff1culTT",
+    "repo": "https://github.com/D1ff1culTT/astrbot_plugin_AstrScheduleSync",
+    "tags": [
+      "日程",
+      "CalDAV",
+      "效率",
+      "待办"
+    ],
+    "social_link": "https://github.com/D1ff1culTT",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-06-14T06:11:04Z"
+  },
+  "astrbot-plugin-HypixelBanTracker": {
+    "display_name": "HypixelBanTracker",
+    "desc": "一个Hypixel封禁查询",
+    "author": "xiaoxin1336",
+    "repo": "https://github.com/xiaoxin-qaq/astrbot_plugin_HypixelBanTracker",
+    "tags": [],
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-06-13T12:21:42Z"
+  },
   "astrbot-plugin-baidu-curl": {
     "display_name": "百度网盘cURL下载助手",
     "desc": "发送百度网盘分享链接，自动转存、提取直链并生成cURL下载命令。支持baidu-autosave转存、OpenList集成、文件自动整理。",
@@ -143,9 +201,13 @@
     "social_link": "https://github.com/tanggetian",
     "tags": [],
     "stars": 2,
-    "version": "1.1.0",
+    "version": "1.3",
     "astrbot_version": ">=4.17.0",
-    "updated_at": "2026-06-17T08:05:12Z"
+    "support_platforms": [
+      "aiocqhttp"
+    ],
+    "updated_at": "2026-06-17T16:24:04Z",
+    "logo": "https://raw.githubusercontent.com/tanggetian/astrbot_plugin_openclaw_caller/main/logo.png"
   },
   "astrbot-plugin-garmin-health": {
     "display_name": "佳明健康看板",
@@ -342,13 +404,13 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 39,
-    "version": "3.9.0",
+    "stars": 40,
+    "version": "3.9.1",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-17T09:54:18Z",
+    "updated_at": "2026-06-17T17:58:52Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -1137,7 +1199,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-17T13:39:57Z",
+    "updated_at": "2026-06-17T16:13:42Z",
     "logo": "https://raw.githubusercontent.com/vivy1024/astrbot_plugin_wave_memory/master/logo.png"
   },
   "astrbot_plugin_maimai_updater": {
@@ -4587,9 +4649,9 @@
     "repo": "https://github.com/Xuewu-awa/astrbot_plugin_bilibanshi",
     "category": "entertainment",
     "tags": [],
-    "stars": 8,
+    "stars": 9,
     "version": "v1.0.0",
-    "updated_at": "2026-05-10T03:35:12Z"
+    "updated_at": "2026-06-17T16:09:03Z"
   },
   "blueraina/astrbot-plugin-novel": {
     "desc": "QQ群群友协作 + AI辅助写作的长篇小说插件（每群独立/知识库/多AI打分/冲突投票/风格模仿/用户修正/EPUB/PDF导出）",
@@ -7125,9 +7187,9 @@
     "repo": "https://github.com/TenmaGabriel0721/astrbot_plugin_command_query",
     "category": "ai_tools",
     "tags": [],
-    "stars": 14,
+    "stars": 15,
     "version": "2.1.0",
-    "updated_at": "2026-06-09T20:54:34Z"
+    "updated_at": "2026-06-17T15:36:04Z"
   },
   "astrbot_plugin_maa": {
     "display_name": "MAA 远程控制",
@@ -7776,9 +7838,9 @@
       "人格"
     ],
     "category": "ai_tools",
-    "stars": 150,
+    "stars": 151,
     "version": "1.4.15",
-    "updated_at": "2026-06-16T08:55:20Z",
+    "updated_at": "2026-06-17T17:33:32Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -12318,9 +12380,9 @@
     ],
     "social_link": "https://github.com/Futureppo",
     "category": "integrations",
-    "stars": 15,
+    "stars": 16,
     "version": "v1.0.3",
-    "updated_at": "2026-05-29T14:01:39Z",
+    "updated_at": "2026-06-17T15:51:35Z",
     "logo": "https://raw.githubusercontent.com/Futureppo/astrbot_plugin_Xiaomi_BandProMax/main/logo.png"
   },
   "astrbot_plugin_immersive_control": {
@@ -14315,9 +14377,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 172,
+    "stars": 173,
     "version": "v2.1.1",
-    "updated_at": "2026-06-16T05:50:58Z",
+    "updated_at": "2026-06-17T16:05:50Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
