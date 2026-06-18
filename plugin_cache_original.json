@@ -68,9 +68,9 @@
       "转存"
     ],
     "social_link": "",
-    "stars": 3,
+    "stars": 4,
     "version": "v7.2.0",
-    "updated_at": "2026-06-17T12:30:04Z",
+    "updated_at": "2026-06-18T03:38:47Z",
     "logo": "https://raw.githubusercontent.com/jichie/astrbot_plugin_baidu_curl/main/logo.png"
   },
   "astrbot-plugin-Rcon-minecraft": {
@@ -1572,9 +1572,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 124,
+    "stars": 125,
     "version": "3.4.1",
-    "updated_at": "2026-06-17T11:39:49Z",
+    "updated_at": "2026-06-17T23:46:44Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -2165,9 +2165,9 @@
     "repo": "https://github.com/Lentinel/astrbot_plugin_DUT_Notices",
     "social_link": "https://github.com/Lentinel",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.2",
-    "updated_at": "2026-04-20T11:54:07Z"
+    "updated_at": "2026-06-18T01:08:32Z"
   },
   "astrbot-plugin-qzone-tools": {
     "display_name": "为你的bot加入更多主动功能",
@@ -4514,9 +4514,9 @@
     "social_link": "https://github.com/storyAura",
     "category": "entertainment",
     "tags": [],
-    "stars": 34,
+    "stars": 35,
     "version": "v2.0.0",
-    "updated_at": "2026-06-16T08:06:00Z",
+    "updated_at": "2026-06-18T02:59:49Z",
     "logo": "https://raw.githubusercontent.com/storyAura/astrbot_plugin_biliVideo/main/logo.png"
   },
   "astrbot-plugin-opencode-client": {
@@ -7838,9 +7838,9 @@
       "人格"
     ],
     "category": "ai_tools",
-    "stars": 151,
+    "stars": 152,
     "version": "1.4.15",
-    "updated_at": "2026-06-17T17:33:32Z",
+    "updated_at": "2026-06-18T01:38:55Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -7854,9 +7854,9 @@
       "群聊优化"
     ],
     "category": "ai_tools",
-    "stars": 109,
+    "stars": 110,
     "version": "0.8.37",
-    "updated_at": "2026-06-17T01:58:26Z",
+    "updated_at": "2026-06-18T01:38:47Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -9073,9 +9073,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "utilities",
-    "stars": 141,
+    "stars": 140,
     "version": "v2.3.0",
-    "updated_at": "2026-06-11T15:43:25Z",
+    "updated_at": "2026-06-18T00:38:06Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -11743,7 +11743,7 @@
     "category": "productivity",
     "stars": 3,
     "version": "v1.0.3",
-    "updated_at": "2026-02-05T02:06:54Z"
+    "updated_at": "2026-06-18T01:18:11Z"
   },
   "astrbot_plugin_snap_translator": {
     "desc": "自动获取并翻译 Marvel Snap 开发者问答",
@@ -12652,7 +12652,7 @@
     "category": "integrations",
     "stars": 145,
     "version": "v3.1.0",
-    "updated_at": "2026-06-15T20:16:23Z",
+    "updated_at": "2026-06-18T02:42:12Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -13192,7 +13192,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-31T04:58:14Z",
+    "updated_at": "2026-06-18T02:12:07Z",
     "logo": "https://raw.githubusercontent.com/SHOOTING-STAR-C/astrbot_plugin_battlefield_tool/master/logo.png"
   },
   "astrbot_plugin_SteamSaleTracker": {
@@ -17330,7 +17330,7 @@
     "tags": [],
     "stars": 36,
     "version": "v1.4.3",
-    "updated_at": "2026-06-01T16:07:12Z"
+    "updated_at": "2026-06-18T02:36:25Z"
   },
   "ai_memory": {
     "desc": "一个AI记忆管理插件，可以让ai记住重要的事，记忆读取是ai自己调用的，有时候呆呆的ai不会自己调用，可以多问几次或者人格加上特定提示词,输入 /mem_help 查看记忆管理帮助",
