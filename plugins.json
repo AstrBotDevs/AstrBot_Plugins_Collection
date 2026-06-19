@@ -1,4 +1,17 @@
 {
+  "astrbot-plugin-minecraft-multi-monitor": {
+    "display_name": "Minecraft 多服务器监控",
+    "desc": "面向 AstrBot 的 Minecraft 多服务器监控插件，支持同实例监控多台 Java/Bedrock 服务器，内置可切换的 MineBBS API / mcstatus.io 查询源，并在状态变化时推送通知。",
+    "author": "xlyang",
+    "repo": "https://github.com/XiaolongYang-HZAU/astrbot_plugin_minecraft_multy_monitor",
+    "tags": [
+      "娱乐",
+      "效率",
+      "我的世界",
+      "Minecraft"
+    ],
+    "social_link": ""
+  },
   "astrbot-plugin-remove-blank-lines": {
     "display_name": "删除回复空行",
     "desc": "检测并删除bot回复中的空行",
