@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-songloft": {
+    "display_name": "Songloft 音乐控制 Miot",
+    "desc": "通过 AstrBot 对话控制 Songloft 音乐服务器，支持小米音箱播放、歌曲搜索、歌单管理等功能。",
+    "author": "deer",
+    "repo": "https://github.com/deerwan/astrbot_plugin_songloft",
+    "tags": [
+      "Songloft",
+      "音乐控制"
+    ],
+    "social_link": "https://lllh.de"
+  },
   "astrbot-plugin-minecraft-motd": {
     "display_name": "Minecraft 服务器 motd 查询",
     "desc": "一个用于查询 Minecraft 服务器状态的 AstrBot 插件，支持 Java 版和基岩版服务器，完美兼容 ViaVersion 多版本服务器",
