@@ -12689,12 +12689,19 @@
     "category": "utilities"
   }
 ,
-    "astrbot-plugin-nexus-brain": {
-        "display_name": "Nexus_brain — AstrBot 桌面伴侣",
-        "desc": "集中式多平台 AI 大脑 + 悬浮窗桌宠。统一 QQ/微信/飞书/Web Chat 的对话记忆与人格，三层安全网记忆系统，即插即用。",
-        "author": "鹓雏",
-        "repo": "https://github.com/yuanchu114514-spec/nexus-brain",
-        "tags": ["AI伴侣", "桌面宠物", "长期记忆", "多平台", "悬浮窗"],
-        "social_link": "https://space.bilibili.com/621041105"
-    }
+  "astrbot-plugin-nexus-brain": {
+    "display_name": "Nexus_brain — AstrBot 桌面伴侣",
+    "desc": "集中式多平台 AI 大脑 + 悬浮窗桌宠。统一 QQ/微信/飞书/Web Chat 的对话记忆与人格，三层安全网记忆系统，即插即用。",
+    "author": "鹓雏",
+    "repo": "https://github.com/yuanchu114514-spec/nexus-brain",
+    "tags": [
+      "AI伴侣",
+      "桌面宠物",
+      "长期记忆",
+      "多平台",
+      "悬浮窗"
+    ],
+    "social_link": "https://space.bilibili.com/621041105",
+    "category": "entertainment"
+  }
 }
