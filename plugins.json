@@ -1,4 +1,11 @@
 {
+  "astrbot-plugin-remove-blank-lines": {
+    "display_name": "删除回复空行",
+    "desc": "检测并删除bot回复中的空行",
+    "author": "ahuai",
+    "repo": "https://github.com/ahuai114514/astrbot_plugin_remove_blank_lines",
+    "social_link": "https://github.com/ahuai114514"
+  },
   "astrbot-plugin-songloft": {
     "display_name": "Songloft 音乐控制 Miot",
     "desc": "通过 AstrBot 对话控制 Songloft 音乐服务器，支持小米音箱播放、歌曲搜索、歌单管理等功能。",
