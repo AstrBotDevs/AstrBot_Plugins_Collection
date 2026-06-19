@@ -1,4 +1,21 @@
 {
+  "astrbot-plugin-iris-chat-memory": {
+    "display_name": "Iris 聊天陪伴记忆",
+    "desc": "为陪伴设计的长期记忆，针对群聊优化。自带知识图谱、群聊画像、用户画像、图片分析等增强功能（专注于记忆的v2版本）",
+    "author": "Leafiber",
+    "repo": "https://github.com/Leafliber/astrbot_plugin_iris_chat_memory",
+    "tags": [
+      "长期记忆",
+      "陪伴",
+      "知识图谱",
+      "用户画像"
+    ],
+    "social_link": "https://github.com/Leafliber",
+    "stars": 1,
+    "version": "0.1.0",
+    "updated_at": "2026-06-19T15:42:33Z",
+    "logo": "https://raw.githubusercontent.com/Leafliber/astrbot_plugin_iris_chat_memory/main/logo.png"
+  },
   "astrbot-plugin-minecraft-multi-monitor": {
     "display_name": "Minecraft 多服务器监控",
     "desc": "面向 AstrBot 的 Minecraft 多服务器监控插件，支持同实例监控多台 Java/Bedrock 服务器，内置可切换的 MineBBS API / mcstatus.io 查询源，并在状态变化时推送通知。",
@@ -464,13 +481,13 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 43,
-    "version": "4.0.6",
+    "stars": 45,
+    "version": "4.0.8",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-19T08:39:13Z",
+    "updated_at": "2026-06-19T17:00:19Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -1254,12 +1271,12 @@
     "social_link": "https://github.com/lioensky/VCPChat | https://github.com/lioensky/VCPToolBox",
     "tags": [],
     "stars": 9,
-    "version": "v1.5.1",
+    "version": "v1.5.2",
     "astrbot_version": ">=4.14.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-19T15:16:56Z",
+    "updated_at": "2026-06-19T16:53:03Z",
     "logo": "https://raw.githubusercontent.com/vivy1024/astrbot_plugin_wave_memory/master/logo.png"
   },
   "astrbot_plugin_maimai_updater": {
@@ -1344,10 +1361,10 @@
     "repo": "https://github.com/Ayleovelle/astrbot_plugin_sylanne",
     "social_link": "https://github.com/Ayleovelle",
     "tags": [],
-    "stars": 46,
+    "stars": 47,
     "version": "2.1.0",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-06-16T21:50:02Z",
+    "updated_at": "2026-06-19T15:22:39Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -1873,7 +1890,7 @@
     "stars": 14,
     "version": "1.0.7",
     "astrbot_version": ">=4.5.0",
-    "updated_at": "2026-06-19T15:09:11Z",
+    "updated_at": "2026-06-19T17:55:13Z",
     "logo": "https://raw.githubusercontent.com/ysf7762-dev/astrbot_plugin_scriptor/main/logo.png"
   },
   "astrbot_plugin_actions": {
@@ -3775,7 +3792,7 @@
     "category": "entertainment",
     "stars": 57,
     "version": "2.9.0",
-    "updated_at": "2026-06-03T16:31:45Z",
+    "updated_at": "2026-06-19T16:05:43Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -4196,8 +4213,8 @@
     "social_link": "https://github.com/RichardLiuda",
     "category": "utilities",
     "stars": 29,
-    "version": "v3.0.0",
-    "updated_at": "2026-06-19T06:32:10Z",
+    "version": "v3.0.1",
+    "updated_at": "2026-06-19T17:41:41Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -6303,13 +6320,13 @@
     ],
     "social_link": "https://github.com/siciyuanweilai",
     "category": "entertainment",
-    "stars": 43,
+    "stars": 44,
     "version": "5.5.0",
     "support_platforms": [
       "aiocqhttp",
       "weixin_oc"
     ],
-    "updated_at": "2026-06-11T08:31:33Z",
+    "updated_at": "2026-06-19T15:58:32Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -10030,10 +10047,10 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "ai_tools",
-    "stars": 115,
+    "stars": 116,
     "version": "V1.2.3.hotfix.2",
     "astrbot_version": ">=4.11.0",
-    "updated_at": "2026-06-18T15:07:35Z",
+    "updated_at": "2026-06-19T15:41:21Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -13129,10 +13146,10 @@
       "主动回复"
     ],
     "category": "utilities",
-    "stars": 43,
+    "stars": 44,
     "version": "v2.3.0",
     "astrbot_version": ">=4.24.0",
-    "updated_at": "2026-06-09T10:28:21Z",
+    "updated_at": "2026-06-19T15:57:15Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -13281,9 +13298,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "ai_tools",
-    "stars": 82,
+    "stars": 83,
     "version": "2.1.1",
-    "updated_at": "2026-06-15T03:32:00Z"
+    "updated_at": "2026-06-19T15:40:31Z"
   },
   "cngal_search": {
     "desc": "CnGal查询",
@@ -16682,12 +16699,12 @@
       "实用工具"
     ],
     "category": "utilities",
-    "stars": 50,
+    "stars": 51,
     "version": "v3.0.4",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-19T07:10:18Z",
+    "updated_at": "2026-06-19T17:05:58Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
@@ -17858,9 +17875,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "ai_tools",
     "tags": [],
-    "stars": 252,
+    "stars": 251,
     "version": "v2.1.5",
-    "updated_at": "2026-06-19T06:03:03Z"
+    "updated_at": "2026-06-19T16:14:44Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
