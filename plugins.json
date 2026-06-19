@@ -1,4 +1,17 @@
 {
+  "astrbot-plugin-iris-chat-memory": {
+    "display_name": "Iris 聊天陪伴记忆",
+    "desc": "为陪伴设计的长期记忆，针对群聊优化。自带知识图谱、群聊画像、用户画像、图片分析等增强功能（专注于记忆的v2版本）",
+    "author": "Leafiber",
+    "repo": "https://github.com/Leafliber/astrbot_plugin_iris_chat_memory",
+    "tags": [
+      "长期记忆",
+      "陪伴",
+      "知识图谱",
+      "用户画像"
+    ],
+    "social_link": "https://github.com/Leafliber"
+  },
   "astrbot-plugin-minecraft-multi-monitor": {
     "display_name": "Minecraft 多服务器监控",
     "desc": "面向 AstrBot 的 Minecraft 多服务器监控插件，支持同实例监控多台 Java/Bedrock 服务器，内置可切换的 MineBBS API / mcstatus.io 查询源，并在状态变化时推送通知。",
