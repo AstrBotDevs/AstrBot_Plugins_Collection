@@ -481,13 +481,13 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 46,
+    "stars": 47,
     "version": "4.0.8",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-19T18:55:28Z",
+    "updated_at": "2026-06-19T20:53:02Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -1271,12 +1271,12 @@
     "social_link": "https://github.com/lioensky/VCPChat | https://github.com/lioensky/VCPToolBox",
     "tags": [],
     "stars": 9,
-    "version": "v1.5.2",
+    "version": "v2.0.0",
     "astrbot_version": ">=4.14.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-19T19:28:51Z",
+    "updated_at": "2026-06-19T20:07:00Z",
     "logo": "https://raw.githubusercontent.com/vivy1024/astrbot_plugin_wave_memory/master/logo.png"
   },
   "astrbot_plugin_maimai_updater": {
@@ -1292,9 +1292,9 @@
     ],
     "social_link": "XiaoLan9999.net",
     "stars": 7,
-    "version": "v0.5.1",
+    "version": "v0.5.2",
     "astrbot_version": ">=4.5.2",
-    "updated_at": "2026-06-13T14:14:26Z",
+    "updated_at": "2026-06-19T20:24:25Z",
     "logo": "https://raw.githubusercontent.com/XiaoLan9999/astrbot_plugin_maimai_updater/main/logo.png"
   },
   "astrbot_plugin_indextts": {
@@ -7057,9 +7057,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "utilities",
-    "stars": 59,
+    "stars": 60,
     "version": "1.1.1",
-    "updated_at": "2026-06-16T14:15:52Z"
+    "updated_at": "2026-06-19T20:01:13Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
