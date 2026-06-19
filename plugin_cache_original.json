@@ -172,8 +172,8 @@
     ],
     "social_link": "https://github.com/aimercat1994",
     "stars": 2,
-    "version": "3.5.0",
-    "updated_at": "2026-06-18T14:07:55Z"
+    "version": "3.6.0",
+    "updated_at": "2026-06-19T00:24:41Z"
   },
   "astrbot-plugin-exa-web-search": {
     "display_name": "Exa联网搜索",
@@ -839,7 +839,7 @@
       "qq_official",
       "telegram"
     ],
-    "updated_at": "2026-06-18T11:42:33Z",
+    "updated_at": "2026-06-18T23:47:29Z",
     "logo": "https://raw.githubusercontent.com/irmia2026/irmia_devkit_open/main/logo.png"
   },
   "astrbot_plugin_esjzone_downloader": {
@@ -7026,7 +7026,7 @@
     "category": "ai_tools",
     "stars": 348,
     "version": "3.4.2",
-    "updated_at": "2026-06-18T17:05:25Z",
+    "updated_at": "2026-06-19T00:00:22Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
