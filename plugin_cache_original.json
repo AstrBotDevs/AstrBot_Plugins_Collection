@@ -13,7 +13,7 @@
     "social_link": "https://github.com/Leafliber",
     "stars": 1,
     "version": "0.1.0",
-    "updated_at": "2026-06-19T15:42:33Z",
+    "updated_at": "2026-06-19T23:22:48Z",
     "logo": "https://raw.githubusercontent.com/Leafliber/astrbot_plugin_iris_chat_memory/main/logo.png"
   },
   "astrbot-plugin-minecraft-multi-monitor": {
@@ -6279,9 +6279,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
-    "stars": 43,
+    "stars": 44,
     "version": "v2.2.6",
-    "updated_at": "2026-06-19T14:39:32Z",
+    "updated_at": "2026-06-19T23:35:41Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_worldbook/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -16851,9 +16851,9 @@
     ],
     "social_link": "https://github.com/miaoxutao123/",
     "category": "utilities",
-    "stars": 77,
+    "stars": 78,
     "version": "0.3.0",
-    "updated_at": "2026-06-09T08:29:28Z"
+    "updated_at": "2026-06-19T23:47:47Z"
   },
   "astrbot_plugin_sjzb": {
     "desc": "随机生成《绝地潜兵2》游戏中一组 4 个战备配置",
