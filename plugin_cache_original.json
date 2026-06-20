@@ -199,13 +199,13 @@
       "speech"
     ],
     "social_link": "https://github.com/Justice-ocr",
-    "stars": 5,
+    "stars": 6,
     "version": "v0.4.0",
     "astrbot_version": ">=4.16.0,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-19T04:06:35Z",
+    "updated_at": "2026-06-20T16:50:13Z",
     "logo": "https://raw.githubusercontent.com/Justice-ocr/astrbot_plugin_mimo_tts_clone/main/logo.png"
   },
   "astrbot-plugin-cloudflare-browser-run": {
@@ -482,12 +482,12 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 50,
-    "version": "4.0.8",
+    "version": "4.0.12",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-20T10:45:00Z",
+    "updated_at": "2026-06-20T16:22:14Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -916,7 +916,7 @@
       "qq_official",
       "telegram"
     ],
-    "updated_at": "2026-06-20T16:19:10Z",
+    "updated_at": "2026-06-20T16:29:59Z",
     "logo": "https://raw.githubusercontent.com/irmia2026/irmia_devkit_open/main/logo.png"
   },
   "astrbot_plugin_esjzone_downloader": {
@@ -1292,9 +1292,9 @@
     ],
     "social_link": "XiaoLan9999.net",
     "stars": 7,
-    "version": "v0.6.1",
+    "version": "v0.6.2",
     "astrbot_version": ">=4.5.2",
-    "updated_at": "2026-06-20T16:03:07Z",
+    "updated_at": "2026-06-20T17:51:37Z",
     "logo": "https://raw.githubusercontent.com/XiaoLan9999/astrbot_plugin_maimai_updater/main/logo.png"
   },
   "astrbot_plugin_indextts": {
@@ -6279,9 +6279,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
-    "stars": 44,
+    "stars": 45,
     "version": "v2.2.6",
-    "updated_at": "2026-06-19T23:35:41Z",
+    "updated_at": "2026-06-20T16:36:48Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_worldbook/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -10358,7 +10358,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 312,
+    "stars": 313,
     "version": "v1.2.4",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -10370,7 +10370,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-06-20T15:49:57Z",
+    "updated_at": "2026-06-20T16:44:32Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -14011,9 +14011,9 @@
     ],
     "social_link": "https://github.com/oyxning",
     "category": "ai_tools",
-    "stars": 72,
+    "stars": 73,
     "version": "v3.5.1",
-    "updated_at": "2026-06-19T19:59:29Z",
+    "updated_at": "2026-06-20T16:37:49Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_antipromptinjector/master/logo.png"
   },
   "astrbot_plugin_alistfile": {
@@ -17181,9 +17181,9 @@
       "搬史"
     ],
     "category": "utilities",
-    "stars": 579,
+    "stars": 580,
     "version": "v0.916",
-    "updated_at": "2026-06-20T07:06:41Z"
+    "updated_at": "2026-06-20T17:34:45Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
