@@ -370,9 +370,9 @@
     ],
     "social_link": "https://github.com/OldSuns",
     "stars": 0,
-    "version": "v0.1.2",
+    "version": "v0.2.0",
     "astrbot_version": ">=4.13.0",
-    "updated_at": "2026-06-10T13:38:58Z",
+    "updated_at": "2026-06-20T05:44:45Z",
     "logo": "https://raw.githubusercontent.com/OldSuns/astrbot_plugin_note_sift/main/logo.png"
   },
   "astrbot-plugin-live-stream-companion": {
@@ -386,13 +386,13 @@
       "互动"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 21,
+    "stars": 22,
     "version": "1.6.2",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-19T14:40:37Z",
+    "updated_at": "2026-06-20T06:37:10Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_live_stream_companion/main/logo.png"
   },
   "astrbot-plugin-open-notebook": {
@@ -481,13 +481,13 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 47,
+    "stars": 49,
     "version": "4.0.8",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-19T20:53:02Z",
+    "updated_at": "2026-06-20T08:45:51Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -1198,9 +1198,9 @@
       "agentmemory",
       "long-term-memory"
     ],
-    "stars": 6,
+    "stars": 7,
     "version": "0.1.0",
-    "updated_at": "2026-05-25T05:40:54Z"
+    "updated_at": "2026-06-20T06:37:01Z"
   },
   "astrbot_plugin_kimi_web_search": {
     "display_name": "Kimi 联网搜索（WebSearch）",
@@ -3902,8 +3902,8 @@
     "category": "entertainment",
     "tags": [],
     "stars": 7,
-    "version": "1.0.3",
-    "updated_at": "2026-03-31T16:32:26Z",
+    "version": "2.0.1",
+    "updated_at": "2026-06-20T08:59:59Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_smile/master/logo.png"
   },
   "astrbot-plugin-smart-filter": {
@@ -5948,8 +5948,8 @@
     "social_link": "https://github.com/Heximiao",
     "category": "entertainment",
     "stars": 29,
-    "version": "v3.2.0",
-    "updated_at": "2026-06-20T04:53:08Z",
+    "version": "v3.2.5",
+    "updated_at": "2026-06-20T05:51:49Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
@@ -7933,8 +7933,8 @@
     ],
     "category": "ai_tools",
     "stars": 111,
-    "version": "0.8.37",
-    "updated_at": "2026-06-18T20:09:26Z",
+    "version": "0.8.39",
+    "updated_at": "2026-06-20T09:16:03Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -8655,7 +8655,7 @@
       "aiocqhttp",
       "weixin_oc"
     ],
-    "updated_at": "2026-06-19T18:34:59Z",
+    "updated_at": "2026-06-20T05:37:43Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -10358,7 +10358,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 309,
+    "stars": 311,
     "version": "v1.2.4",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -10370,7 +10370,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-06-18T14:44:25Z",
+    "updated_at": "2026-06-20T08:18:28Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -10920,12 +10920,12 @@
     ],
     "category": "utilities",
     "stars": 1,
-    "version": "v2.1.0",
+    "version": "v2.1.1",
     "astrbot_version": ">=4.10.4",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-28T08:17:13Z",
+    "updated_at": "2026-06-20T08:32:49Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_file_checker/master/logo.png"
   },
   "astrbot_plugin_tg_button": {
@@ -13476,9 +13476,9 @@
     "category": "utilities",
     "author": null,
     "tags": [],
-    "stars": 11,
+    "stars": 12,
     "version": "v1.2.0",
-    "updated_at": "2026-03-26T02:46:14Z"
+    "updated_at": "2026-06-20T06:06:52Z"
   },
   "astrobot_plugin_code_executor": {
     "name": "astrobot_plugin_code_executor",
@@ -17181,9 +17181,9 @@
       "搬史"
     ],
     "category": "utilities",
-    "stars": 578,
+    "stars": 579,
     "version": "v0.916",
-    "updated_at": "2026-06-18T15:56:40Z"
+    "updated_at": "2026-06-20T07:06:41Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
