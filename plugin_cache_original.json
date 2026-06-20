@@ -1276,7 +1276,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-20T20:02:44Z",
+    "updated_at": "2026-06-20T21:00:54Z",
     "logo": "https://raw.githubusercontent.com/vivy1024/astrbot_plugin_wave_memory/master/logo.png"
   },
   "astrbot_plugin_maimai_updater": {
@@ -14455,9 +14455,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 176,
+    "stars": 177,
     "version": "v2.1.2",
-    "updated_at": "2026-06-20T13:09:05Z",
+    "updated_at": "2026-06-20T21:58:05Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -17476,7 +17476,7 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "category": "integrations",
     "tags": [],
-    "stars": 80,
+    "stars": 81,
     "version": "v1.6.2",
     "astrbot_version": ">=4.5.2",
     "support_platforms": [
@@ -17484,7 +17484,7 @@
       "telegram",
       "weixin_oc"
     ],
-    "updated_at": "2026-06-19T04:25:58Z",
+    "updated_at": "2026-06-20T20:35:35Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
