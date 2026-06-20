@@ -1649,9 +1649,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 126,
+    "stars": 127,
     "version": "3.4.1",
-    "updated_at": "2026-06-19T12:17:51Z",
+    "updated_at": "2026-06-20T01:08:28Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -2860,9 +2860,9 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "category": "entertainment",
-    "stars": 35,
+    "stars": 36,
     "version": "v2.5.7",
-    "updated_at": "2026-06-17T04:35:10Z",
+    "updated_at": "2026-06-20T00:46:39Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot_plugin_atrifeed/main/logo.png"
   },
   "astrbot-plugin-self-open-llm-vtuber": {
@@ -4000,9 +4000,9 @@
     ],
     "social_link": "https://github.com/olozhika/",
     "category": "ai_tools",
-    "stars": 38,
+    "stars": 40,
     "version": "v1.3.4",
-    "updated_at": "2026-06-18T04:23:20Z",
+    "updated_at": "2026-06-20T04:58:15Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
@@ -5949,7 +5949,7 @@
     "category": "entertainment",
     "stars": 29,
     "version": "v3.2.0",
-    "updated_at": "2026-06-11T22:57:04Z",
+    "updated_at": "2026-06-20T04:53:08Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
@@ -7104,7 +7104,7 @@
     "category": "ai_tools",
     "stars": 352,
     "version": "3.4.2",
-    "updated_at": "2026-06-19T19:03:34Z",
+    "updated_at": "2026-06-20T04:16:17Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -7565,9 +7565,9 @@
     "social_link": "https://github.com/NachoCrazy",
     "category": "entertainment",
     "tags": [],
-    "stars": 11,
+    "stars": 12,
     "version": "2.0.0",
-    "updated_at": "2026-06-19T02:17:21Z"
+    "updated_at": "2026-06-20T02:41:08Z"
   },
   "astrbot_plugin_batchrecall": {
     "display_name": "批量撤回",
@@ -7819,9 +7819,9 @@
       "vertex_ai"
     ],
     "category": "ai_tools",
-    "stars": 31,
+    "stars": 32,
     "version": "v0.1.21",
-    "updated_at": "2026-06-19T09:49:10Z",
+    "updated_at": "2026-06-20T03:26:14Z",
     "logo": "https://raw.githubusercontent.com/sukafon/astrbot_plugin_big_banana/main/logo.png"
   },
   "astrbot_plugin_BitTorrent": {
@@ -8371,9 +8371,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 143,
+    "stars": 144,
     "version": "v1.5.1",
-    "updated_at": "2026-06-18T16:00:48Z",
+    "updated_at": "2026-06-20T03:56:45Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -11279,9 +11279,9 @@
       "fishing"
     ],
     "category": "entertainment",
-    "stars": 41,
+    "stars": 42,
     "version": "2.4.7",
-    "updated_at": "2026-06-15T10:55:55Z",
+    "updated_at": "2026-06-20T02:13:27Z",
     "logo": "https://raw.githubusercontent.com/xxlemon-io/astrbot_plugin_fishing/main/logo.png"
   },
   "astrbot_plugin_astrmetry": {
@@ -14455,9 +14455,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 175,
+    "stars": 176,
     "version": "v2.1.1",
-    "updated_at": "2026-06-19T11:11:12Z",
+    "updated_at": "2026-06-20T01:48:41Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -14783,8 +14783,8 @@
     "category": "entertainment",
     "tags": [],
     "stars": 53,
-    "version": "v1.3.0",
-    "updated_at": "2026-06-14T13:40:33Z",
+    "version": "v1.4.0",
+    "updated_at": "2026-06-20T03:30:18Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_search_video/main/logo.png"
   },
   "astrbot_plugin_zt": {
@@ -14936,9 +14936,9 @@
       "fish"
     ],
     "category": "entertainment",
-    "stars": 43,
+    "stars": 44,
     "version": "1.4.6",
-    "updated_at": "2026-03-10T04:32:18Z"
+    "updated_at": "2026-06-20T02:14:39Z"
   },
   "astrbot_plugin_bilibili_live": {
     "author": "Raven95676",
@@ -15868,9 +15868,9 @@
     ],
     "social_link": "https://docs.sayu-bot.com/",
     "category": "integrations",
-    "stars": 44,
+    "stars": 45,
     "version": "v0.5.0",
-    "updated_at": "2026-06-14T11:54:36Z"
+    "updated_at": "2026-06-20T01:35:24Z"
   },
   "astrbot_plugin_xyzw": {
     "author": "四郎",
