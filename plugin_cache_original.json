@@ -386,13 +386,13 @@
       "互动"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 22,
+    "stars": 23,
     "version": "1.6.2",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-20T06:37:10Z",
+    "updated_at": "2026-06-20T18:46:11Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_live_stream_companion/main/logo.png"
   },
   "astrbot-plugin-open-notebook": {
@@ -482,12 +482,12 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 50,
-    "version": "4.0.12",
+    "version": "4.0.13",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-20T16:22:14Z",
+    "updated_at": "2026-06-20T19:35:19Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -1271,12 +1271,12 @@
     "social_link": "https://github.com/lioensky/VCPChat | https://github.com/lioensky/VCPToolBox",
     "tags": [],
     "stars": 9,
-    "version": "v2.0.0",
+    "version": "v2.0.1",
     "astrbot_version": ">=4.14.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-20T13:04:37Z",
+    "updated_at": "2026-06-20T20:02:44Z",
     "logo": "https://raw.githubusercontent.com/vivy1024/astrbot_plugin_wave_memory/master/logo.png"
   },
   "astrbot_plugin_maimai_updater": {
@@ -1292,9 +1292,9 @@
     ],
     "social_link": "XiaoLan9999.net",
     "stars": 7,
-    "version": "v0.6.2",
+    "version": "v0.6.3",
     "astrbot_version": ">=4.5.2",
-    "updated_at": "2026-06-20T17:51:37Z",
+    "updated_at": "2026-06-20T20:07:26Z",
     "logo": "https://raw.githubusercontent.com/XiaoLan9999/astrbot_plugin_maimai_updater/main/logo.png"
   },
   "astrbot_plugin_indextts": {
@@ -2053,9 +2053,9 @@
     "tags": [
       "动画"
     ],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.0",
-    "updated_at": "2026-04-23T05:57:36Z",
+    "updated_at": "2026-06-20T19:21:31Z",
     "logo": "https://raw.githubusercontent.com/zhist2028/astrbot_plugin_anime1_list/main/logo.png"
   },
   "astrbot-plugin-BiliCookie-monitor": {
