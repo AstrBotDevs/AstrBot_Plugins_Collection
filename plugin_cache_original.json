@@ -481,13 +481,13 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 49,
+    "stars": 50,
     "version": "4.0.8",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-20T08:45:51Z",
+    "updated_at": "2026-06-20T10:45:00Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -916,7 +916,7 @@
       "qq_official",
       "telegram"
     ],
-    "updated_at": "2026-06-19T14:47:36Z",
+    "updated_at": "2026-06-20T10:59:21Z",
     "logo": "https://raw.githubusercontent.com/irmia2026/irmia_devkit_open/main/logo.png"
   },
   "astrbot_plugin_esjzone_downloader": {
@@ -5948,8 +5948,8 @@
     "social_link": "https://github.com/Heximiao",
     "category": "entertainment",
     "stars": 29,
-    "version": "v3.2.5",
-    "updated_at": "2026-06-20T05:51:49Z",
+    "version": "v3.2.6",
+    "updated_at": "2026-06-20T11:12:56Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
@@ -14456,8 +14456,8 @@
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
     "stars": 176,
-    "version": "v2.1.1",
-    "updated_at": "2026-06-20T01:48:41Z",
+    "version": "v2.1.2",
+    "updated_at": "2026-06-20T11:09:27Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -17406,9 +17406,9 @@
     "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
     "category": "productivity",
     "tags": [],
-    "stars": 37,
+    "stars": 36,
     "version": "v1.4.3",
-    "updated_at": "2026-06-18T04:36:50Z"
+    "updated_at": "2026-06-20T09:35:04Z"
   },
   "ai_memory": {
     "desc": "一个AI记忆管理插件，可以让ai记住重要的事，记忆读取是ai自己调用的，有时候呆呆的ai不会自己调用，可以多问几次或者人格加上特定提示词,输入 /mem_help 查看记忆管理帮助",
