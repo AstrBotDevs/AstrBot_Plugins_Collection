@@ -1276,7 +1276,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-19T20:07:00Z",
+    "updated_at": "2026-06-20T13:04:37Z",
     "logo": "https://raw.githubusercontent.com/vivy1024/astrbot_plugin_wave_memory/master/logo.png"
   },
   "astrbot_plugin_maimai_updater": {
@@ -1465,7 +1465,7 @@
     "stars": 3,
     "version": "v1.4.2",
     "astrbot_version": ">=4.9.2",
-    "updated_at": "2026-05-23T07:31:04Z",
+    "updated_at": "2026-06-20T14:10:40Z",
     "logo": "https://raw.githubusercontent.com/blueraina/astrbot_plugin_model_connectivity/main/logo.png"
   },
   "astrbot-plugin-robomaster-assistant": {
@@ -8371,9 +8371,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 144,
+    "stars": 145,
     "version": "v1.5.1",
-    "updated_at": "2026-06-20T03:56:45Z",
+    "updated_at": "2026-06-20T13:14:08Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -14457,7 +14457,7 @@
     "category": "entertainment",
     "stars": 176,
     "version": "v2.1.2",
-    "updated_at": "2026-06-20T11:09:27Z",
+    "updated_at": "2026-06-20T13:09:05Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
