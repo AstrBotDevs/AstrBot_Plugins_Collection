@@ -1,4 +1,20 @@
 {
+  "astrbot-plugin-quota-hub": {
+    "display_name": "Astrbot 配额中枢",
+    "desc": "配额中枢——限制每个人、每个群、群里每个成员在一段时间内调用 AI 的次数和 Token 用量，并提供网页面板随时查看用量、调整额度。",
+    "author": "Dracowyn",
+    "repo": "https://github.com/Dracowyn/astrbot_plugin_quota_hub",
+    "tags": [
+      "配额",
+      "限流",
+      "限额",
+      "Token",
+      "数据中台",
+      "rate-limit",
+      "quota"
+    ],
+    "social_link": "https://github.com/Dracowyn"
+  },
   "astrbot-plugin-agent-lab": {
     "display_name": "任务模式",
     "desc": "在 AstrBot 内创建、运行和管理个人任务模式的任务执行插件",
