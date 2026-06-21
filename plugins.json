@@ -1,4 +1,14 @@
 {
+  "astrbot-plugin-electricity-monitor": {
+    "display_name": "易校园电费监控",
+    "desc": "易校园电费监控插件，支持多会话、多寝室订阅，自动查询寝室电量和余额，低于阈值时主动提醒，并提供 WebUI 管理、30 天趋势和错误诊断。",
+    "author": "烟雨寒月",
+    "repo": "https://github.com/yanyuhanyue/astrbot_plugin_electricity_monitor",
+    "tags": [
+      "电费监控",
+      "易校园"
+    ]
+  },
   "astrbot-plugin-quota-hub": {
     "display_name": "Astrbot 配额中枢",
     "desc": "配额中枢——限制每个人、每个群、群里每个成员在一段时间内调用 AI 的次数和 Token 用量，并提供网页面板随时查看用量、调整额度。",
