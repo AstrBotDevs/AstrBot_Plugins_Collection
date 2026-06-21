@@ -86,9 +86,9 @@
       "用户画像"
     ],
     "social_link": "https://github.com/Leafliber",
-    "stars": 1,
+    "stars": 2,
     "version": "0.1.0",
-    "updated_at": "2026-06-19T23:22:48Z",
+    "updated_at": "2026-06-21T15:54:36Z",
     "logo": "https://raw.githubusercontent.com/Leafliber/astrbot_plugin_iris_chat_memory/main/logo.png"
   },
   "astrbot-plugin-minecraft-multi-monitor": {
@@ -323,9 +323,9 @@
       "obsidian"
     ],
     "social_link": "https://github.com/aimercat1994",
-    "stars": 2,
+    "stars": 3,
     "version": "3.6.0",
-    "updated_at": "2026-06-19T00:24:41Z"
+    "updated_at": "2026-06-21T15:55:07Z"
   },
   "astrbot-plugin-exa-web-search": {
     "display_name": "Exa联网搜索",
@@ -358,7 +358,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-19T08:08:55Z",
+    "updated_at": "2026-06-21T16:22:53Z",
     "logo": "https://raw.githubusercontent.com/tanggetian/astrbot_plugin_openclaw_caller/main/logo.png"
   },
   "astrbot-plugin-garmin-health": {
@@ -444,10 +444,10 @@
       "grep"
     ],
     "social_link": "https://github.com/OldSuns",
-    "stars": 0,
+    "stars": 1,
     "version": "v0.2.0",
     "astrbot_version": ">=4.13.0",
-    "updated_at": "2026-06-20T05:44:45Z",
+    "updated_at": "2026-06-21T15:55:16Z",
     "logo": "https://raw.githubusercontent.com/OldSuns/astrbot_plugin_note_sift/main/logo.png"
   },
   "astrbot-plugin-live-stream-companion": {
@@ -525,9 +525,9 @@
     "tags": [
       "工具"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.0",
-    "updated_at": "2026-06-16T08:58:50Z"
+    "updated_at": "2026-06-21T15:55:31Z"
   },
   "Wyccotccy/astrbot-plugin-qzone-tools": {
     "display_name": "更多LLM工具",
@@ -557,12 +557,12 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 53,
-    "version": "4.1.0",
+    "version": "4.2.0",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-21T14:19:25Z",
+    "updated_at": "2026-06-21T16:46:25Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -1011,7 +1011,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-17T19:07:42Z",
+    "updated_at": "2026-06-21T15:58:14Z",
     "logo": "https://raw.githubusercontent.com/Rentz412/astrbot_plugin_esjzone_downloader/main/logo.png"
   },
   "astrbot_plugin_mmx_cli_tool": {
@@ -1345,13 +1345,13 @@
     "repo": "https://github.com/vivy1024/astrbot_plugin_wave_memory",
     "social_link": "https://github.com/lioensky/VCPChat | https://github.com/lioensky/VCPToolBox",
     "tags": [],
-    "stars": 9,
+    "stars": 10,
     "version": "v2.0.1",
     "astrbot_version": ">=4.14.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-20T21:00:54Z",
+    "updated_at": "2026-06-21T17:07:02Z",
     "logo": "https://raw.githubusercontent.com/vivy1024/astrbot_plugin_wave_memory/master/logo.png"
   },
   "astrbot_plugin_maimai_updater": {
@@ -2937,7 +2937,7 @@
     "category": "entertainment",
     "stars": 36,
     "version": "v2.5.9",
-    "updated_at": "2026-06-21T13:57:19Z",
+    "updated_at": "2026-06-21T17:34:57Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot_plugin_atrifeed/main/logo.png"
   },
   "astrbot-plugin-self-open-llm-vtuber": {
@@ -4288,8 +4288,8 @@
     "social_link": "https://github.com/RichardLiuda",
     "category": "utilities",
     "stars": 29,
-    "version": "v3.0.1",
-    "updated_at": "2026-06-19T17:41:41Z",
+    "version": "v3.0.2",
+    "updated_at": "2026-06-21T17:24:25Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -11963,9 +11963,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 255,
+    "stars": 256,
     "version": "2.3.5",
-    "updated_at": "2026-06-21T07:26:12Z",
+    "updated_at": "2026-06-21T17:06:49Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
