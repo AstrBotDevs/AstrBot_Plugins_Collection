@@ -1367,9 +1367,9 @@
     ],
     "social_link": "XiaoLan9999.net",
     "stars": 7,
-    "version": "v0.6.4",
+    "version": "v0.6.10",
     "astrbot_version": ">=4.5.2",
-    "updated_at": "2026-06-21T06:45:10Z",
+    "updated_at": "2026-06-21T12:46:35Z",
     "logo": "https://raw.githubusercontent.com/XiaoLan9999/astrbot_plugin_maimai_updater/main/logo.png"
   },
   "astrbot_plugin_indextts": {
@@ -7179,7 +7179,7 @@
     "category": "ai_tools",
     "stars": 352,
     "version": "3.4.2",
-    "updated_at": "2026-06-20T16:02:52Z",
+    "updated_at": "2026-06-21T12:55:09Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -12673,7 +12673,7 @@
     "category": "ai_tools",
     "stars": 11,
     "version": "v0.2.0",
-    "updated_at": "2026-06-21T10:16:15Z"
+    "updated_at": "2026-06-21T11:48:19Z"
   },
   "astrbot_plugin_who_at_me": {
     "desc": "谁艾特我?监听 @ 消息，便于快速查找自己被 @ 时说了什么。",
