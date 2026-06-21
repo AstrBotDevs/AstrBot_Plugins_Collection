@@ -1,4 +1,10 @@
 {
+  "astrbot-plugin-agent-lab": {
+    "display_name": "任务模式",
+    "desc": "在 AstrBot 内创建、运行和管理个人任务模式的任务执行插件",
+    "author": "百岁老太",
+    "repo": "https://github.com/zzz27578/astrbot_plugin_agent_lab"
+  },
   "astrbot-plugin-serpapi-imgsearch": {
     "display_name": "SerpApi 搜图工具",
     "desc": "让 LLM 学会用SerpApi搜图、发图与以图搜图",
