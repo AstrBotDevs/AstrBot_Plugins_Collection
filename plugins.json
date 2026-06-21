@@ -1,4 +1,10 @@
 {
+  "astrbot-plugin-mc-skin": {
+    "display_name": "Minecraft 皮肤 3D 查询",
+    "desc": "查询 Minecraft 正版玩家皮肤并渲染为 3D 图片。",
+    "author": "chemistryh2o",
+    "repo": "https://github.com/zqy20081015/astrbot_plugin_mc_skin"
+  },
   "astrbot-plugin-electricity-monitor": {
     "display_name": "易校园电费监控",
     "desc": "易校园电费监控插件，支持多会话、多寝室订阅，自动查询寝室电量和余额，低于阈值时主动提醒，并提供 WebUI 管理、30 天趋势和错误诊断。",
