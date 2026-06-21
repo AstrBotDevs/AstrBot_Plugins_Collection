@@ -1,4 +1,14 @@
 {
+  "astrbot-plugin-serpapi-imgsearch": {
+    "display_name": "SerpApi 搜图工具",
+    "desc": "让 LLM 学会用SerpApi搜图、发图与以图搜图",
+    "author": "monbed",
+    "repo": "https://github.com/monbed/astrbot_plugin_serpapi_imgsearch",
+    "tags": [
+      "功能",
+      "图片"
+    ]
+  },
   "astrbot-plugin-iris-chat-memory": {
     "display_name": "Iris 聊天陪伴记忆",
     "desc": "为陪伴设计的长期记忆，针对群聊优化。自带知识图谱、群聊画像、用户画像、图片分析等增强功能（专注于记忆的v2版本）",
