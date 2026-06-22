@@ -54,10 +54,10 @@
     "author": "百岁老太",
     "repo": "https://github.com/zzz27578/astrbot_plugin_agent_lab",
     "tags": [],
-    "stars": 3,
+    "stars": 5,
     "version": "v0.1.1",
     "astrbot_version": ">=4.16,<5",
-    "updated_at": "2026-06-22T17:52:38Z",
+    "updated_at": "2026-06-22T21:05:18Z",
     "logo": "https://raw.githubusercontent.com/zzz27578/astrbot_plugin_agent_lab/main/logo.png"
   },
   "astrbot-plugin-serpapi-imgsearch": {
@@ -69,9 +69,9 @@
       "功能",
       "图片"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "1.0.2",
-    "updated_at": "2026-06-22T14:52:57Z",
+    "updated_at": "2026-06-22T20:06:44Z",
     "logo": "https://raw.githubusercontent.com/monbed/astrbot_plugin_serpapi_imgsearch/master/logo.png"
   },
   "astrbot-plugin-iris-chat-memory": {
@@ -983,7 +983,7 @@
       "安全编辑",
       "文件处理"
     ],
-    "stars": 33,
+    "stars": 34,
     "version": "2.6.0",
     "astrbot_version": ">=4.16",
     "support_platforms": [
@@ -991,7 +991,7 @@
       "qq_official",
       "telegram"
     ],
-    "updated_at": "2026-06-22T16:20:14Z",
+    "updated_at": "2026-06-22T20:07:43Z",
     "logo": "https://raw.githubusercontent.com/irmia2026/irmia_devkit_open/main/logo.png"
   },
   "astrbot_plugin_esjzone_downloader": {
@@ -5305,9 +5305,9 @@
       "opencode"
     ],
     "category": "integrations",
-    "stars": 168,
+    "stars": 169,
     "version": "v2.1.4",
-    "updated_at": "2026-06-22T16:31:45Z",
+    "updated_at": "2026-06-22T20:09:09Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
