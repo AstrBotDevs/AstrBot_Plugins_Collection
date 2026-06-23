@@ -132,10 +132,10 @@
     "repo": "https://github.com/ahuai114514/astrbot_plugin_remove_blank_lines",
     "social_link": "https://github.com/ahuai114514",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
     "astrbot_version": ">=4.16,<5",
-    "updated_at": "2026-06-16T04:46:43Z"
+    "updated_at": "2026-06-23T18:09:59Z"
   },
   "astrbot-plugin-songloft": {
     "display_name": "Songloft 音乐控制 Miot",
@@ -6816,9 +6816,9 @@
     ],
     "social_link": "https://github.com/DITF16",
     "category": "ai_tools",
-    "stars": 69,
+    "stars": 70,
     "version": "1.1.1",
-    "updated_at": "2026-06-18T11:38:08Z",
+    "updated_at": "2026-06-23T19:52:26Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_groupGuard": {
@@ -8464,9 +8464,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 147,
+    "stars": 148,
     "version": "v1.5.1",
-    "updated_at": "2026-06-23T17:13:41Z",
+    "updated_at": "2026-06-23T18:30:05Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -8588,13 +8588,13 @@
     ],
     "category": "entertainment",
     "stars": 56,
-    "version": "2.6.13",
+    "version": "2.6.14",
     "astrbot_version": ">=4.24.1",
     "support_platforms": [
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-06-21T09:02:02Z",
+    "updated_at": "2026-06-23T20:11:59Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
