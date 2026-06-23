@@ -7067,10 +7067,10 @@
     ],
     "social_link": "https://www.misakanet.site",
     "category": "ai_tools",
-    "stars": 21,
+    "stars": 22,
     "version": "v1.3.3",
     "astrbot_version": ">=4.25.3",
-    "updated_at": "2026-06-23T05:01:05Z",
+    "updated_at": "2026-06-23T20:50:18Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_image_generation/master/logo.png"
   },
   "astrbot_plugin_group_geetest_verify": {
