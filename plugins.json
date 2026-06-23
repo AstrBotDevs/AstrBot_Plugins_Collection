@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-Firefly-Blog-Manager": {
+    "display_name": "Firefly 博客管理插件",
+    "desc": "将 Firefly 博客的日常操作封装为 AstrBot AI Agent 可调用的工具。",
+    "author": "月凌",
+    "repo": "https://github.com/qiyueling2716/astrbot_plugin_Firefly_Blog_Manager",
+    "tags": [
+      "博客",
+      "流萤",
+      "Firefly"
+    ],
+    "social_link": "https://github.com/qiyueling2716"
+  },
   "astrbot-plugin-mc-skin": {
     "display_name": "Minecraft 皮肤 3D 查询",
     "desc": "查询 Minecraft 正版玩家皮肤并渲染为 3D 图片。",
