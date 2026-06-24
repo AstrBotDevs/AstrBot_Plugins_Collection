@@ -573,13 +573,13 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 61,
-    "version": "4.7.1",
+    "stars": 62,
+    "version": "5.0.0",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-24T11:17:30Z",
+    "updated_at": "2026-06-24T15:24:45Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -899,9 +899,9 @@
       "自动备份",
       "网盘管理"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.1.2",
-    "updated_at": "2026-06-13T12:59:50Z",
+    "updated_at": "2026-06-24T16:05:29Z",
     "logo": "https://raw.githubusercontent.com/Volundio/astrbot_plugin_openlist_bot/main/logo.png"
   },
   "astrbot-plugin-notion-bridge": {
@@ -1741,9 +1741,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 128,
+    "stars": 129,
     "version": "3.4.1",
-    "updated_at": "2026-06-24T01:52:37Z",
+    "updated_at": "2026-06-24T16:15:06Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -4306,8 +4306,8 @@
     "social_link": "https://github.com/RichardLiuda",
     "category": "utilities",
     "stars": 30,
-    "version": "v3.1.2",
-    "updated_at": "2026-06-23T15:21:49Z",
+    "version": "v3.2.0",
+    "updated_at": "2026-06-24T16:49:33Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -5323,9 +5323,9 @@
       "opencode"
     ],
     "category": "integrations",
-    "stars": 170,
+    "stars": 171,
     "version": "v2.1.4",
-    "updated_at": "2026-06-23T01:53:15Z",
+    "updated_at": "2026-06-24T16:36:20Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -6462,8 +6462,11 @@
     ],
     "category": "entertainment",
     "stars": 16,
-    "version": "v1.5.5",
-    "updated_at": "2026-06-24T14:21:41Z",
+    "version": "v1.5.7",
+    "support_platforms": [
+      "aiocqhttp"
+    ],
+    "updated_at": "2026-06-24T15:11:47Z",
     "logo": "https://raw.githubusercontent.com/zhoufan47/astrbot_plugin_bbt_daily_news/master/logo.png"
   },
   "astrbot_plugin_fflogs": {
@@ -7067,10 +7070,10 @@
     ],
     "social_link": "https://www.misakanet.site",
     "category": "ai_tools",
-    "stars": 22,
+    "stars": 23,
     "version": "v1.3.3",
     "astrbot_version": ">=4.25.3",
-    "updated_at": "2026-06-23T20:50:18Z",
+    "updated_at": "2026-06-24T16:17:33Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_image_generation/master/logo.png"
   },
   "astrbot_plugin_group_geetest_verify": {
@@ -8464,9 +8467,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 148,
+    "stars": 149,
     "version": "v1.5.1",
-    "updated_at": "2026-06-23T18:30:05Z",
+    "updated_at": "2026-06-24T16:37:22Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -9582,9 +9585,9 @@
     ],
     "social_link": "https://github.com/NekoiMeiov",
     "category": "utilities",
-    "stars": 16,
+    "stars": 17,
     "version": "v1.1.0",
-    "updated_at": "2026-06-16T17:44:03Z"
+    "updated_at": "2026-06-24T15:04:09Z"
   },
   "astrbot_plugin_mc_update": {
     "display_name": "Minecraft 基岩版更新日志提醒插件",
@@ -11984,7 +11987,7 @@
     "category": "ai_tools",
     "stars": 261,
     "version": "2.3.5",
-    "updated_at": "2026-06-24T06:00:05Z",
+    "updated_at": "2026-06-24T15:20:36Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -14549,9 +14552,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 179,
+    "stars": 180,
     "version": "v2.1.2",
-    "updated_at": "2026-06-24T12:22:55Z",
+    "updated_at": "2026-06-24T16:34:47Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
