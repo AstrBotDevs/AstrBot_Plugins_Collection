@@ -103,9 +103,9 @@
       "用户画像"
     ],
     "social_link": "https://github.com/Leafliber",
-    "stars": 7,
+    "stars": 8,
     "version": "0.1.1",
-    "updated_at": "2026-06-24T14:10:56Z",
+    "updated_at": "2026-06-24T19:10:29Z",
     "logo": "https://raw.githubusercontent.com/Leafliber/astrbot_plugin_iris_chat_memory/main/logo.png"
   },
   "astrbot-plugin-minecraft-multi-monitor": {
@@ -573,13 +573,13 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 62,
+    "stars": 63,
     "version": "5.0.0",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-24T15:24:45Z",
+    "updated_at": "2026-06-24T17:28:26Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -2955,7 +2955,7 @@
     "category": "entertainment",
     "stars": 38,
     "version": "v2.6.0",
-    "updated_at": "2026-06-24T12:51:07Z",
+    "updated_at": "2026-06-24T18:28:05Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot_plugin_atrifeed/main/logo.png"
   },
   "astrbot-plugin-self-open-llm-vtuber": {
@@ -7996,9 +7996,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "utilities",
-    "stars": 89,
+    "stars": 90,
     "version": "1.1.5",
-    "updated_at": "2026-06-22T18:48:35Z",
+    "updated_at": "2026-06-24T18:49:53Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
@@ -10163,7 +10163,7 @@
       "发言统计"
     ],
     "category": "utilities",
-    "stars": 20,
+    "stars": 21,
     "version": "2.1.4",
     "astrbot_version": ">=4.16",
     "support_platforms": [
@@ -10172,7 +10172,7 @@
       "discord",
       "lark"
     ],
-    "updated_at": "2026-06-21T13:43:35Z",
+    "updated_at": "2026-06-24T17:35:11Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
@@ -10455,7 +10455,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 322,
+    "stars": 324,
     "version": "v1.2.4",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -10467,7 +10467,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-06-24T11:08:11Z",
+    "updated_at": "2026-06-24T18:27:26Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -15965,9 +15965,9 @@
     ],
     "social_link": "https://docs.sayu-bot.com/",
     "category": "integrations",
-    "stars": 47,
+    "stars": 48,
     "version": "v0.5.0",
-    "updated_at": "2026-06-24T10:12:54Z"
+    "updated_at": "2026-06-24T17:40:41Z"
   },
   "astrbot_plugin_xyzw": {
     "author": "四郎",
@@ -17278,9 +17278,9 @@
       "搬史"
     ],
     "category": "utilities",
-    "stars": 580,
+    "stars": 581,
     "version": "v0.916",
-    "updated_at": "2026-06-23T06:58:10Z"
+    "updated_at": "2026-06-24T17:38:01Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
@@ -17932,9 +17932,9 @@
     "repo": "https://github.com/zouyonghe/astrbot_plugin_web_searcher_pro",
     "category": "integrations",
     "tags": [],
-    "stars": 18,
+    "stars": 19,
     "version": "v1.1.5",
-    "updated_at": "2026-06-15T06:38:52Z"
+    "updated_at": "2026-06-24T17:54:19Z"
   },
   "astrbot_plugin_memeify": {
     "desc": "一个AstrBot的插件，用于LLM回复表情包的实现",
