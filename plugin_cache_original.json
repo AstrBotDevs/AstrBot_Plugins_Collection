@@ -357,9 +357,9 @@
     ],
     "social_link": "https://github.com/piexian",
     "stars": 2,
-    "version": "v1.0.2",
+    "version": "v1.0.3",
     "astrbot_version": ">=4.9.2",
-    "updated_at": "2026-06-16T08:31:29Z",
+    "updated_at": "2026-06-24T01:35:19Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_exa_web_search/master/logo.png"
   },
   "astrbot-plugin-openclaw-caller": {
@@ -574,12 +574,12 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 59,
-    "version": "4.6.1",
+    "version": "4.7.0",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-23T15:02:02Z",
+    "updated_at": "2026-06-24T03:54:01Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -1741,9 +1741,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 127,
+    "stars": 128,
     "version": "3.4.1",
-    "updated_at": "2026-06-20T01:08:28Z",
+    "updated_at": "2026-06-24T01:52:37Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -2630,10 +2630,10 @@
       "面板"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 22,
+    "stars": 23,
     "version": "v1.0.0",
     "astrbot_version": ">=4.11.2",
-    "updated_at": "2026-05-29T06:23:58Z",
+    "updated_at": "2026-06-24T01:30:52Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_live_dashboard/main/logo.png"
   },
   "astrbot-plugin-wol-miko": {
@@ -4337,8 +4337,8 @@
     "social_link": "https://github.com/menglimi",
     "category": "ai_tools",
     "stars": 53,
-    "version": "3.1.3",
-    "updated_at": "2026-06-23T17:24:20Z",
+    "version": "3.2.0",
+    "updated_at": "2026-06-24T03:53:03Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -7195,9 +7195,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 355,
+    "stars": 356,
     "version": "3.4.3",
-    "updated_at": "2026-06-23T15:23:24Z",
+    "updated_at": "2026-06-24T02:54:43Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -7307,9 +7307,9 @@
     ],
     "social_link": "https://github.com/Huahuatgc",
     "category": "entertainment",
-    "stars": 20,
+    "stars": 19,
     "version": "1.2.1",
-    "updated_at": "2026-06-07T14:08:56Z"
+    "updated_at": "2026-06-24T01:19:50Z"
   },
   "astrbot_plugin_matrix_adapter": {
     "display_name": "Matrix 协议适配器",
@@ -7674,8 +7674,8 @@
     "social_link": "52shell.ltd",
     "category": "utilities",
     "stars": 2,
-    "version": "v1.0.1",
-    "updated_at": "2026-01-07T08:32:26Z",
+    "version": "v1.0.2",
+    "updated_at": "2026-06-24T04:05:37Z",
     "logo": "https://raw.githubusercontent.com/1592363624/astrbot_plugin_batchrecall/main/logo.png"
   },
   "astrbot_plugin_psychological": {
@@ -7841,13 +7841,13 @@
     ],
     "social_link": "https://github.com/WhiteCloudOL",
     "category": "utilities",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.5.3",
     "astrbot_version": ">=4.12.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-23T06:52:11Z",
+    "updated_at": "2026-06-24T00:18:20Z",
     "logo": "https://raw.githubusercontent.com/WhiteCloudOL/astrbot_plugin_joinmanager/master/logo.png"
   },
   "astrbot_plugin_group_signin": {
@@ -8628,10 +8628,10 @@
     ],
     "social_link": "https://github.com/sl251",
     "category": "ai_tools",
-    "stars": 16,
+    "stars": 17,
     "version": "1.2.0",
     "astrbot_version": ">=4.9.2",
-    "updated_at": "2026-04-09T08:36:40Z",
+    "updated_at": "2026-06-24T00:54:42Z",
     "logo": "https://raw.githubusercontent.com/sl251/astrbot_plugin_e2b_sandbox/main/logo.png"
   },
   "astrbot_plugin_disaster_warning": {
@@ -9886,8 +9886,8 @@
     ],
     "category": "utilities",
     "stars": 6,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-24T09:14:42Z"
+    "version": "v2.0.0",
+    "updated_at": "2026-06-24T01:13:25Z"
   },
   "astrbot_plugin_siliconflow-shouban": {
     "desc": "接入硅基流动画图，图片编辑，可自定义预设",
@@ -10451,7 +10451,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 318,
+    "stars": 320,
     "version": "v1.2.4",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -10463,7 +10463,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-06-23T12:08:02Z",
+    "updated_at": "2026-06-24T03:35:50Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
