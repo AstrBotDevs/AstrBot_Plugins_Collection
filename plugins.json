@@ -1,4 +1,18 @@
 {
+  "astrbot-plugin-hermes-connector": {
+    "display_name": "Hermes控制器",
+    "desc": "连接 Hermes Agent，借助 AstrBot 在任意聊天平台（QQ、微信、Telegram 等）上操控 Hermes Agent 会话。支持远程发送消息、查看会话状态、文件操作等，支持自然语言触发。",
+    "author": "konodiodaaaaa1",
+    "repo": "https://github.com/konodiodaaaaa1/astrbot_plugin_hermes_connector",
+    "tags": [
+      "hermes",
+      "agent",
+      "remote",
+      "vibe-coding",
+      "远程控制"
+    ],
+    "social_link": "https://github.com/konodiodaaaaa1"
+  },
   "astrbot-plugin-steam-price-heybox": {
     "display_name": "Steam 价格查询（小黑盒）",
     "desc": "无需 API Key，使用小黑盒查询 Steam 游戏当前价、历史最低价、促销记录、跨区价格与游戏资料。",
