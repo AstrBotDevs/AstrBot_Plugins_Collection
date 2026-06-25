@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-tattle": {
+    "display_name": "LLM 告状机",
+    "desc": "当LLM需要告状的时候，会调用注册的函数工具complain_to_receivers向指定列表人进行告状。",
+    "author": "AlanBacker",
+    "repo": "https://github.com/AlanBacker/astrbot_plugin_tattle",
+    "tags": [
+      "安全",
+      "OneBot"
+    ],
+    "social_link": "https://space.bilibili.com/702922307"
+  },
   "astrbot-plugin-cost-control": {
     "display_name": "Token成本控制",
     "desc": "细粒度 token 预算监控、超预算提醒、缓存破坏诊断、提示词优化与全数据可视化",
