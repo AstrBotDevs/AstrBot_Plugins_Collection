@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-dsa-pusher": {
+    "display_name": "DSA推送器",
+    "desc": "接收 DSA (DailyStockAnalysis) 通过 Webhook 推送的股票分析报告，自动转发到微信/QQ 等聊天平台。",
+    "author": "姬羽",
+    "repo": "https://github.com/Himehane/astrbot_plugin_dsa_pusher",
+    "tags": [
+      "股票",
+      "Webhook",
+      "消息推送"
+    ],
+    "social_link": "https://github.com/Himehane"
+  },
   "astrbot-plugin-hermes-connector": {
     "display_name": "Hermes控制器",
     "desc": "连接 Hermes Agent，借助 AstrBot 在任意聊天平台（QQ、微信、Telegram 等）上操控 Hermes Agent 会话。支持远程发送消息、查看会话状态、文件操作等，支持自然语言触发。",
