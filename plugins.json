@@ -1,4 +1,14 @@
 {
+  "astrbot-plugin-hindsight-memory": {
+    "display_name": "Hindsight Memory",
+    "desc": "接入 Hindsight Cloud，为私聊和群聊提供按会话隔离的长期记忆能力.",
+    "author": "JiaJian",
+    "repo": "https://github.com/wjiajian/astrbot_plugin_hindsight_memory",
+    "tags": [
+      "memory"
+    ],
+    "social_link": "https://github.com/wjiajian"
+  },
   "astrbot-plugin-suwayomi-server": {
     "display_name": "Suwayomi 漫画助手",
     "desc": "将 Suwayomi-Server 作为漫画后端，为聊天用户提供漫画搜索、阅读、下载和订阅更新推送服务。",
