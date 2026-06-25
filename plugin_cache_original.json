@@ -1,4 +1,37 @@
 {
+  "astrbot-plugin-tattle": {
+    "display_name": "LLM 告状机",
+    "desc": "当LLM需要告状的时候，会调用注册的函数工具complain_to_receivers向指定列表人进行告状。",
+    "author": "AlanBacker",
+    "repo": "https://github.com/AlanBacker/astrbot_plugin_tattle",
+    "tags": [
+      "安全",
+      "OneBot"
+    ],
+    "social_link": "https://space.bilibili.com/702922307",
+    "stars": 1,
+    "version": "v1.0.0",
+    "astrbot_version": ">=4.5.7",
+    "updated_at": "2026-06-08T19:23:58Z"
+  },
+  "astrbot-plugin-cost-control": {
+    "display_name": "Token成本控制",
+    "desc": "细粒度 token 预算监控、超预算提醒、缓存破坏诊断、提示词优化与全数据可视化",
+    "author": "Leafiber",
+    "repo": "https://github.com/leafliber/astrbot_plugin_cost_control",
+    "tags": [
+      "token",
+      "成本",
+      "上下文",
+      "缓存"
+    ],
+    "social_link": "https://github.com/leafliber",
+    "stars": 0,
+    "version": "0.1.0",
+    "astrbot_version": ">=4.24.2",
+    "updated_at": "2026-06-24T13:28:57Z",
+    "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_cost_control/main/logo.png"
+  },
   "astrbot-plugin-dsa-pusher": {
     "display_name": "DSA推送器",
     "desc": "接收 DSA (DailyStockAnalysis) 通过 Webhook 推送的股票分析报告，自动转发到微信/QQ 等聊天平台。",
@@ -78,7 +111,7 @@
       "漫画订阅"
     ],
     "stars": 1,
-    "version": "0.2.0",
+    "version": "0.2.1",
     "support_platforms": [
       "aiocqhttp",
       "telegram",
@@ -90,7 +123,7 @@
       "slack",
       "kook"
     ],
-    "updated_at": "2026-06-25T13:05:08Z",
+    "updated_at": "2026-06-25T14:35:05Z",
     "logo": "https://raw.githubusercontent.com/FFFold/astrbot_plugin_suwayomi_server/main/logo.png"
   },
   "astrbot-plugin-AstrNa": {
@@ -102,9 +135,9 @@
       "优化"
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
-    "stars": 5,
+    "stars": 6,
     "version": "0.1.5",
-    "updated_at": "2026-06-25T11:29:09Z"
+    "updated_at": "2026-06-25T15:34:23Z"
   },
   "astrbot-plugin-Firefly-Blog-Manager": {
     "display_name": "Firefly 博客管理插件",
@@ -212,7 +245,7 @@
     "social_link": "https://github.com/Leafliber",
     "stars": 8,
     "version": "0.1.1",
-    "updated_at": "2026-06-24T19:10:29Z",
+    "updated_at": "2026-06-25T15:21:53Z",
     "logo": "https://raw.githubusercontent.com/Leafliber/astrbot_plugin_iris_chat_memory/main/logo.png"
   },
   "astrbot-plugin-minecraft-multi-monitor": {
@@ -448,8 +481,8 @@
     ],
     "social_link": "https://github.com/aimercat1994",
     "stars": 3,
-    "version": "3.7.0",
-    "updated_at": "2026-06-25T13:17:59Z"
+    "version": "3.9.0",
+    "updated_at": "2026-06-25T15:07:27Z"
   },
   "astrbot-plugin-exa-web-search": {
     "display_name": "Exa联网搜索",
@@ -680,13 +713,13 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 68,
-    "version": "5.0.1",
+    "stars": 69,
+    "version": "5.0.2",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-25T10:38:42Z",
+    "updated_at": "2026-06-25T16:05:24Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -1729,10 +1762,10 @@
       "提示词优化"
     ],
     "social_link": "",
-    "stars": 50,
+    "stars": 51,
     "version": "3.3.21",
     "astrbot_version": ">=4.16,<5",
-    "updated_at": "2026-06-23T14:31:46Z",
+    "updated_at": "2026-06-25T14:17:58Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -3304,9 +3337,9 @@
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
     "category": "entertainment",
-    "stars": 17,
+    "stars": 18,
     "version": "1.3.0_beta1",
-    "updated_at": "2026-06-01T03:06:04Z",
+    "updated_at": "2026-06-25T15:00:48Z",
     "logo": "https://raw.githubusercontent.com/Sisyphbaous-DT-Project/astrbot_plugin_what_to_eat/main/logo.png"
   },
   "astrbot-plugin-HD2-daily-report": {
@@ -8496,8 +8529,8 @@
     "social_link": "https://github.com/huizhiLLL",
     "category": "entertainment",
     "stars": 3,
-    "version": "v1.1.13",
-    "updated_at": "2026-06-23T14:25:24Z",
+    "version": "v1.1.15",
+    "updated_at": "2026-06-25T16:02:37Z",
     "logo": "https://raw.githubusercontent.com/huizhiLLL/astrbot_plugin_wca/master/logo.png"
   },
   "astrbot_plugin_memos_integrator": {
@@ -12310,9 +12343,9 @@
     "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
     "category": "ai_tools",
     "tags": [],
-    "stars": 51,
+    "stars": 52,
     "version": "v1.0.4",
-    "updated_at": "2026-06-12T06:43:13Z"
+    "updated_at": "2026-06-25T16:03:27Z"
   },
   "astrbot_plugin_vtb_adapter": {
     "desc": "用于连接 AstrBot 与 Open LLM Vtuber，除安装插件外还需要修改 Open LLM Vtuber 中的相关文件",
@@ -17430,9 +17463,9 @@
       "图床"
     ],
     "category": "entertainment",
-    "stars": 328,
+    "stars": 329,
     "version": "v3.21",
-    "updated_at": "2026-06-24T09:03:30Z"
+    "updated_at": "2026-06-25T15:49:31Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
