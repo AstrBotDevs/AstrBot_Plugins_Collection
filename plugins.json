@@ -1,4 +1,14 @@
 {
+  "astrbot-plugin-suwayomi-server": {
+    "display_name": "Suwayomi 漫画助手",
+    "desc": "将 Suwayomi-Server 作为漫画后端，为聊天用户提供漫画搜索、阅读、下载和订阅更新推送服务。",
+    "author": "Fold",
+    "repo": "https://github.com/FFFold/astrbot_plugin_suwayomi_server",
+    "tags": [
+      "漫画",
+      "漫画订阅"
+    ]
+  },
   "astrbot-plugin-AstrNa": {
     "display_name": "AstrNa",
     "desc": "AstrNa是一款 AstrBot 优化插件。",
