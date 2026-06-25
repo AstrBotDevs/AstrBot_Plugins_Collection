@@ -1,4 +1,17 @@
 {
+  "astrbot-plugin-cost-control": {
+    "display_name": "Token成本控制",
+    "desc": "细粒度 token 预算监控、超预算提醒、缓存破坏诊断、提示词优化与全数据可视化",
+    "author": "Leafiber",
+    "repo": "https://github.com/leafliber/astrbot_plugin_cost_control",
+    "tags": [
+      "token",
+      "成本",
+      "上下文",
+      "缓存"
+    ],
+    "social_link": "https://github.com/leafliber"
+  },
   "astrbot-plugin-dsa-pusher": {
     "display_name": "DSA推送器",
     "desc": "接收 DSA (DailyStockAnalysis) 通过 Webhook 推送的股票分析报告，自动转发到微信/QQ 等聊天平台。",
