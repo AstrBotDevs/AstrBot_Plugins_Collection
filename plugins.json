@@ -1,4 +1,14 @@
 {
+  "astrbot-plugin-AstrNa": {
+    "display_name": "AstrNa",
+    "desc": "AstrNa是一款 AstrBot 优化插件。",
+    "author": "C₂₂H₂₅NO₆",
+    "repo": "https://github.com/Sisyphbaous-DT-Project/astrbot_plugin_AstrNa",
+    "tags": [
+      "优化"
+    ],
+    "social_link": "https://github.com/Sisyphbaous-DT-Project"
+  },
   "astrbot-plugin-Firefly-Blog-Manager": {
     "display_name": "Firefly 博客管理插件",
     "desc": "将 Firefly 博客的日常操作封装为 AstrBot AI Agent 可调用的工具。",
