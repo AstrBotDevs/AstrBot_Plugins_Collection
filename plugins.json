@@ -1,4 +1,17 @@
 {
+  "astrbot-plugin-steam-price-heybox": {
+    "display_name": "Steam 价格查询（小黑盒）",
+    "desc": "无需 API Key，使用小黑盒查询 Steam 游戏当前价、历史最低价、促销记录、跨区价格与游戏资料。",
+    "author": "penguin-madagascar",
+    "repo": "https://github.com/penguin-madagascar/astrbot_plugin_steam_price_heybox",
+    "tags": [
+      "Steam",
+      "价格查询",
+      "史低",
+      "小黑盒",
+      "Heybox"
+    ]
+  },
   "astrbot-plugin-hindsight-memory": {
     "display_name": "Hindsight Memory",
     "desc": "接入 Hindsight Cloud，为私聊和群聊提供按会话隔离的长期记忆能力.",
