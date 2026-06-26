@@ -26,10 +26,10 @@
       "缓存"
     ],
     "social_link": "https://github.com/leafliber",
-    "stars": 0,
+    "stars": 1,
     "version": "0.1.0",
     "astrbot_version": ">=4.24.2",
-    "updated_at": "2026-06-24T13:28:57Z",
+    "updated_at": "2026-06-26T12:18:10Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_cost_control/main/logo.png"
   },
   "astrbot-plugin-dsa-pusher": {
@@ -111,7 +111,7 @@
       "漫画订阅"
     ],
     "stars": 1,
-    "version": "0.2.2",
+    "version": "0.3.2",
     "support_platforms": [
       "aiocqhttp",
       "telegram",
@@ -123,7 +123,7 @@
       "slack",
       "kook"
     ],
-    "updated_at": "2026-06-26T10:49:03Z",
+    "updated_at": "2026-06-26T12:45:17Z",
     "logo": "https://raw.githubusercontent.com/FFFold/astrbot_plugin_suwayomi_server/main/logo.png"
   },
   "astrbot-plugin-AstrNa": {
@@ -136,8 +136,8 @@
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
     "stars": 6,
-    "version": "0.1.8",
-    "updated_at": "2026-06-26T05:36:59Z"
+    "version": "1.1.8",
+    "updated_at": "2026-06-26T11:48:20Z"
   },
   "astrbot-plugin-Firefly-Blog-Manager": {
     "display_name": "Firefly 博客管理插件",
@@ -714,12 +714,12 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 72,
-    "version": "5.1.2",
+    "version": "5.1.3",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-26T10:08:37Z",
+    "updated_at": "2026-06-26T11:19:22Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -1524,9 +1524,9 @@
     ],
     "social_link": "XiaoLan9999.net",
     "stars": 7,
-    "version": "v0.6.17",
+    "version": "v0.6.26",
     "astrbot_version": ">=4.5.2",
-    "updated_at": "2026-06-24T06:45:07Z",
+    "updated_at": "2026-06-26T12:21:06Z",
     "logo": "https://raw.githubusercontent.com/XiaoLan9999/astrbot_plugin_maimai_updater/main/logo.png"
   },
   "astrbot_plugin_indextts": {
@@ -1881,9 +1881,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 129,
+    "stars": 130,
     "version": "3.4.1",
-    "updated_at": "2026-06-24T16:15:06Z",
+    "updated_at": "2026-06-26T11:32:49Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -4446,8 +4446,8 @@
     "social_link": "https://github.com/RichardLiuda",
     "category": "utilities",
     "stars": 30,
-    "version": "v3.3.0",
-    "updated_at": "2026-06-25T17:09:22Z",
+    "version": "v3.3.1",
+    "updated_at": "2026-06-26T11:35:09Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -8429,7 +8429,7 @@
       "图床"
     ],
     "category": "entertainment",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.1.0",
     "astrbot_version": ">=4.8",
     "support_platforms": [
@@ -8453,7 +8453,7 @@
       "matrix",
       "mattermost"
     ],
-    "updated_at": "2026-06-14T04:03:16Z",
+    "updated_at": "2026-06-26T12:21:55Z",
     "logo": "https://raw.githubusercontent.com/NightDust981989/astrbot_plugin_pixiv_yuki/main/logo.png"
   },
   "astrbot_plugin_qwen_codeimage": {
