@@ -110,7 +110,7 @@
       "漫画",
       "漫画订阅"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "0.3.2",
     "support_platforms": [
       "aiocqhttp",
@@ -123,7 +123,7 @@
       "slack",
       "kook"
     ],
-    "updated_at": "2026-06-26T13:28:07Z",
+    "updated_at": "2026-06-26T19:02:05Z",
     "logo": "https://raw.githubusercontent.com/FFFold/astrbot_plugin_suwayomi_server/main/logo.png"
   },
   "astrbot-plugin-AstrNa": {
@@ -227,8 +227,8 @@
       "图片"
     ],
     "stars": 1,
-    "version": "1.0.2",
-    "updated_at": "2026-06-22T20:06:44Z",
+    "version": "1.1.0",
+    "updated_at": "2026-06-26T19:47:49Z",
     "logo": "https://raw.githubusercontent.com/monbed/astrbot_plugin_serpapi_imgsearch/master/logo.png"
   },
   "astrbot-plugin-iris-chat-memory": {
@@ -859,9 +859,9 @@
       "网易大神"
     ],
     "stars": 24,
-    "version": "1.2.0",
+    "version": "1.2.1",
     "astrbot_version": ">=4.5.7",
-    "updated_at": "2026-06-19T07:02:15Z",
+    "updated_at": "2026-06-26T20:07:46Z",
     "logo": "https://raw.githubusercontent.com/singularity2000/astrbot_plugin_ow_dashen/main/logo.png"
   },
   "astrbot-plugin-tataru": {
@@ -16521,9 +16521,9 @@
       "世界书"
     ],
     "category": "ai_tools",
-    "stars": 16,
+    "stars": 17,
     "version": "v0.1.9",
-    "updated_at": "2026-05-04T12:39:19Z"
+    "updated_at": "2026-06-26T19:48:36Z"
   },
   "daily_limit": {
     "desc": "限制成员每日访问AI次数的插件，支持为不同用户和群组设置不同的调用限制(支持的astrbot最低版本为3.5.1)",
@@ -18192,9 +18192,9 @@
     "repo": "https://github.com/zouyonghe/astrbot_plugin_ebooks",
     "category": "utilities",
     "tags": [],
-    "stars": 28,
+    "stars": 29,
     "version": "v2.0.1",
-    "updated_at": "2026-06-08T01:52:35Z"
+    "updated_at": "2026-06-26T19:38:09Z"
   },
   "astrbot_plugin_AIQTalk": {
     "desc": "基于QQ的AI声聊完成的（伪）TTS转语音",
