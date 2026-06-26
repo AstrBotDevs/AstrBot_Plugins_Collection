@@ -111,7 +111,7 @@
       "漫画订阅"
     ],
     "stars": 1,
-    "version": "0.2.1",
+    "version": "0.2.2",
     "support_platforms": [
       "aiocqhttp",
       "telegram",
@@ -123,7 +123,7 @@
       "slack",
       "kook"
     ],
-    "updated_at": "2026-06-25T14:35:05Z",
+    "updated_at": "2026-06-26T02:08:34Z",
     "logo": "https://raw.githubusercontent.com/FFFold/astrbot_plugin_suwayomi_server/main/logo.png"
   },
   "astrbot-plugin-AstrNa": {
@@ -136,8 +136,8 @@
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
     "stars": 6,
-    "version": "0.1.5",
-    "updated_at": "2026-06-25T17:03:46Z"
+    "version": "0.1.7",
+    "updated_at": "2026-06-26T03:44:20Z"
   },
   "astrbot-plugin-Firefly-Blog-Manager": {
     "display_name": "Firefly 博客管理插件",
@@ -287,7 +287,7 @@
       "音乐控制"
     ],
     "social_link": "https://lllh.de",
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.0",
     "astrbot_version": ">=4.25",
     "support_platforms": [
@@ -305,7 +305,7 @@
       "weixin_official_account",
       "weixin_oc"
     ],
-    "updated_at": "2026-06-22T13:06:40Z",
+    "updated_at": "2026-06-25T23:25:48Z",
     "logo": "https://raw.githubusercontent.com/deerwan/astrbot_plugin_songloft/master/logo.png"
   },
   "astrbot-plugin-minecraft-motd": {
@@ -320,8 +320,8 @@
       "motd"
     ],
     "stars": 0,
-    "version": "1.5.0",
-    "updated_at": "2026-06-25T05:15:49Z"
+    "version": "1.5.1",
+    "updated_at": "2026-06-26T03:50:29Z"
   },
   "astrbot-plugin-koharu": {
     "display_name": "Koharu 漫画翻译",
@@ -481,8 +481,8 @@
     ],
     "social_link": "https://github.com/aimercat1994",
     "stars": 3,
-    "version": "3.9.0",
-    "updated_at": "2026-06-25T15:07:27Z"
+    "version": "3.10.0",
+    "updated_at": "2026-06-26T02:52:05Z"
   },
   "astrbot-plugin-exa-web-search": {
     "display_name": "Exa联网搜索",
@@ -714,12 +714,12 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 70,
-    "version": "5.1.0",
+    "version": "5.1.2",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-25T18:56:26Z",
+    "updated_at": "2026-06-26T03:31:20Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -1187,9 +1187,9 @@
       "token plan"
     ],
     "social_link": "https://github.com/piexian",
-    "stars": 7,
+    "stars": 6,
     "version": "0.2.6",
-    "updated_at": "2026-06-10T15:52:43Z",
+    "updated_at": "2026-06-26T02:14:58Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_mmx_cli_tool/master/logo.png"
   },
   "astrbot_plugin_MiniMax_CLI": {
@@ -3007,9 +3007,9 @@
       "私聊",
       "群聊"
     ],
-    "stars": 12,
+    "stars": 11,
     "version": "v1.0.3",
-    "updated_at": "2026-06-21T04:11:16Z"
+    "updated_at": "2026-06-26T02:14:56Z"
   },
   "astrbot-plugin-dida365": {
     "display_name": "滴答清单连接器",
@@ -3038,7 +3038,7 @@
       "prompt"
     ],
     "social_link": "https://github.com/NumInvis",
-    "stars": 12,
+    "stars": 11,
     "version": "2.0.0",
     "astrbot_version": ">=4.0.0",
     "support_platforms": [
@@ -3056,7 +3056,7 @@
       "misskey",
       "line"
     ],
-    "updated_at": "2026-06-09T07:01:50Z"
+    "updated_at": "2026-06-26T02:14:57Z"
   },
   "astrbot-ctfpusher-plugin": {
     "display_name": "CTF 赛题及赛事推送助手",
@@ -7140,7 +7140,7 @@
     "category": "ai_tools",
     "stars": 6,
     "version": "v1.2.0",
-    "updated_at": "2026-06-04T08:31:35Z",
+    "updated_at": "2026-06-26T03:51:11Z",
     "logo": "https://raw.githubusercontent.com/BUGJI/astrbot_plugin_balance/main/logo.png"
   },
   "astrbot_plugin_PersonaFlow": {
@@ -8609,7 +8609,7 @@
     "category": "utilities",
     "stars": 152,
     "version": "v1.5.1",
-    "updated_at": "2026-06-25T06:11:27Z",
+    "updated_at": "2026-06-26T01:49:33Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -8791,10 +8791,10 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "utilities",
-    "stars": 69,
+    "stars": 70,
     "version": "v1.5.2",
     "astrbot_version": ">=4.11.2",
-    "updated_at": "2026-06-23T14:26:41Z",
+    "updated_at": "2026-06-26T02:58:02Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -13660,9 +13660,9 @@
       "工具"
     ],
     "category": "integrations",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.1.1",
-    "updated_at": "2026-05-12T22:07:42Z"
+    "updated_at": "2026-06-26T03:17:12Z"
   },
   "astrbot_plugin_RecallGuard": {
     "name": "astrbot_plugin_RecallGuard",
