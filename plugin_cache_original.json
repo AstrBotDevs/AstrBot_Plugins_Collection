@@ -123,7 +123,7 @@
       "slack",
       "kook"
     ],
-    "updated_at": "2026-06-26T12:45:17Z",
+    "updated_at": "2026-06-26T13:28:07Z",
     "logo": "https://raw.githubusercontent.com/FFFold/astrbot_plugin_suwayomi_server/main/logo.png"
   },
   "astrbot-plugin-AstrNa": {
@@ -136,8 +136,8 @@
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
     "stars": 6,
-    "version": "1.1.8",
-    "updated_at": "2026-06-26T11:48:20Z"
+    "version": "1.1.9",
+    "updated_at": "2026-06-26T16:14:06Z"
   },
   "astrbot-plugin-Firefly-Blog-Manager": {
     "display_name": "Firefly 博客管理插件",
@@ -713,13 +713,13 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 72,
+    "stars": 75,
     "version": "5.1.3",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-26T11:19:22Z",
+    "updated_at": "2026-06-26T16:10:25Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -747,11 +747,11 @@
       "趣味表情"
     ],
     "stars": 4,
-    "version": "v1.1.3",
+    "version": "v1.2.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-22T14:56:22Z",
+    "updated_at": "2026-06-26T16:16:52Z",
     "logo": "https://raw.githubusercontent.com/lirundong093-glitch/astrbot_plugin_pic_toolbox/master/logo.png"
   },
   "astrbot-plugin-hs-rank": {
@@ -1361,9 +1361,9 @@
       "Agent",
       "SubAgent"
     ],
-    "stars": 5,
+    "stars": 6,
     "version": "v1.1.0",
-    "updated_at": "2026-05-25T15:54:51Z"
+    "updated_at": "2026-06-26T14:28:59Z"
   },
   "astrbot-plugin-qcm": {
     "display_name": "QQ Connect Minecraft 群服互联",
@@ -3562,7 +3562,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 397,
+    "stars": 398,
     "version": "v4.10.6",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -3571,7 +3571,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-06-26T10:11:49Z",
+    "updated_at": "2026-06-26T15:28:56Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -4756,7 +4756,7 @@
       "telegram",
       "discord"
     ],
-    "updated_at": "2026-06-18T06:13:14Z"
+    "updated_at": "2026-06-26T14:34:16Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -5722,9 +5722,9 @@
       "codegen"
     ],
     "category": "ai_tools",
-    "stars": 58,
+    "stars": 59,
     "version": "1.4.3",
-    "updated_at": "2026-06-26T09:59:46Z",
+    "updated_at": "2026-06-26T14:24:19Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -6660,7 +6660,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 397,
+    "stars": 398,
     "version": "v4.10.6",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -6669,7 +6669,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-06-26T10:11:49Z",
+    "updated_at": "2026-06-26T15:28:56Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -8344,9 +8344,9 @@
     ],
     "social_link": "https://github.com/Hakuin123",
     "category": "utilities",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.3.0",
-    "updated_at": "2026-06-24T05:50:39Z",
+    "updated_at": "2026-06-26T13:56:34Z",
     "logo": "https://raw.githubusercontent.com/Hakuin123/astrbot_plugin_uni_nickname/main/logo.png"
   },
   "astrbot_plugin_yoimg": {
@@ -10569,8 +10569,8 @@
     ],
     "category": "integrations",
     "stars": 8,
-    "version": "1.2.5",
-    "updated_at": "2026-06-19T09:57:53Z",
+    "version": "1.2.6",
+    "updated_at": "2026-06-26T13:44:30Z",
     "logo": "https://raw.githubusercontent.com/1592363624/astrbot_plugin_github_monitor_shell/master/logo.png"
   },
   "astrbot_plugin_ragflow_adapter": {
@@ -15772,9 +15772,9 @@
     ],
     "social_link": "https://github.com/vmoranv-reborn",
     "category": "entertainment",
-    "stars": 43,
+    "stars": 45,
     "version": "1.7.4",
-    "updated_at": "2026-06-23T03:46:40Z",
+    "updated_at": "2026-06-26T15:42:42Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
@@ -17351,8 +17351,8 @@
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
     "category": "ai_tools",
     "stars": 133,
-    "version": "v2.1.12",
-    "updated_at": "2026-06-25T06:35:07Z"
+    "version": "v2.1.13",
+    "updated_at": "2026-06-26T15:11:46Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
