@@ -1,4 +1,48 @@
 {
+  "astrbot-plugin-SIGNALIS-save-decoder": {
+    "display_name": "SIGNALIS 存档解密",
+    "desc": "SIGNALIS存档解密工具，上传cargo.png可获取存档情况。 ",
+    "author": "David.z",
+    "repo": "https://github.com/PhotographyFlow/astrbot_plugin_SIGNALIS_save_decoder",
+    "tags": [
+      "signalis"
+    ],
+    "social_link": "https://github.com/PhotographyFlow",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-06-25T17:33:08Z",
+    "logo": "https://raw.githubusercontent.com/PhotographyFlow/astrbot_plugin_SIGNALIS_save_decoder/master/logo.png"
+  },
+  "astrbot-plugin-isittrue": {
+    "display_name": "是真的吗",
+    "desc": "是真的吗——群聊事实核查小工具。@机器人说出你想核实的事情，或引用一条消息，AI 自动判断真假。无需额外 API，即装即用。",
+    "author": "konley",
+    "repo": "https://github.com/konley/astrbot_plugin_isittrue",
+    "tags": [],
+    "stars": 0,
+    "version": "1.0.4",
+    "astrbot_version": ">=3.5.0",
+    "support_platforms": [
+      "aiocqhttp",
+      "qq_official",
+      "telegram"
+    ],
+    "updated_at": "2026-06-26T20:12:51Z",
+    "logo": "https://raw.githubusercontent.com/konley/astrbot_plugin_isittrue/main/logo.png"
+  },
+  "astrbot-plugin-just-enough-mcserver-status": {
+    "display_name": "Just Enough McServer Status",
+    "desc": "实现本地Minecraft的服务器查询与仿原版风格信息展示功能。",
+    "author": "NightVoyager14",
+    "repo": "https://github.com/NightVoyager14/astrbot_plugin_just_enough_mcserver_status",
+    "tags": [
+      "minecraft"
+    ],
+    "social_link": "https://github.com/NightVoyager14",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-06-27T03:12:49Z"
+  },
   "astrbot-plugin-tattle": {
     "display_name": "LLM 告状机",
     "desc": "当LLM需要告状的时候，会调用注册的函数工具complain_to_receivers向指定列表人进行告状。",
@@ -29,7 +73,7 @@
     "stars": 1,
     "version": "0.1.0",
     "astrbot_version": ">=4.24.2",
-    "updated_at": "2026-06-26T12:18:10Z",
+    "updated_at": "2026-06-27T03:06:21Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_cost_control/main/logo.png"
   },
   "astrbot-plugin-dsa-pusher": {
@@ -111,7 +155,7 @@
       "漫画订阅"
     ],
     "stars": 2,
-    "version": "0.3.2",
+    "version": "0.4.1",
     "support_platforms": [
       "aiocqhttp",
       "telegram",
@@ -123,7 +167,7 @@
       "slack",
       "kook"
     ],
-    "updated_at": "2026-06-26T19:02:05Z",
+    "updated_at": "2026-06-27T03:58:33Z",
     "logo": "https://raw.githubusercontent.com/FFFold/astrbot_plugin_suwayomi_server/main/logo.png"
   },
   "astrbot-plugin-AstrNa": {
@@ -243,9 +287,9 @@
       "用户画像"
     ],
     "social_link": "https://github.com/Leafliber",
-    "stars": 8,
+    "stars": 9,
     "version": "0.1.1",
-    "updated_at": "2026-06-25T15:21:53Z",
+    "updated_at": "2026-06-27T04:39:26Z",
     "logo": "https://raw.githubusercontent.com/Leafliber/astrbot_plugin_iris_chat_memory/main/logo.png"
   },
   "astrbot-plugin-minecraft-multi-monitor": {
@@ -713,13 +757,13 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 75,
+    "stars": 76,
     "version": "5.2.0",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-26T18:39:09Z",
+    "updated_at": "2026-06-27T04:15:19Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -2770,10 +2814,10 @@
       "面板"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 23,
+    "stars": 24,
     "version": "v1.0.0",
     "astrbot_version": ">=4.11.2",
-    "updated_at": "2026-06-24T01:30:52Z",
+    "updated_at": "2026-06-27T01:14:04Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_live_dashboard/main/logo.png"
   },
   "astrbot-plugin-wol-miko": {
@@ -6901,9 +6945,9 @@
       "拟人"
     ],
     "category": "ai_tools",
-    "stars": 12,
+    "stars": 13,
     "version": "1.9.7",
-    "updated_at": "2026-06-12T13:29:02Z"
+    "updated_at": "2026-06-27T04:43:46Z"
   },
   "astrbot_plugin_mc_manager": {
     "display_name": "astrbot_plugin_mc_manager",
@@ -9551,8 +9595,8 @@
     "category": "entertainment",
     "tags": [],
     "stars": 5,
-    "version": "v0.1.4",
-    "updated_at": "2026-05-28T11:05:48Z"
+    "version": "v0.1.5",
+    "updated_at": "2026-06-27T00:36:41Z"
   },
   "astrbot_plugin_hardwareinfo": {
     "display_name": "硬件信息查询",
@@ -12125,9 +12169,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 263,
+    "stars": 264,
     "version": "2.3.5",
-    "updated_at": "2026-06-26T09:40:01Z",
+    "updated_at": "2026-06-27T04:42:55Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -13501,13 +13545,13 @@
       "战地风云"
     ],
     "category": "integrations",
-    "stars": 13,
+    "stars": 14,
     "version": "v2.2.0",
     "astrbot_version": ">=3.4",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-18T02:12:07Z",
+    "updated_at": "2026-06-27T02:39:07Z",
     "logo": "https://raw.githubusercontent.com/SHOOTING-STAR-C/astrbot_plugin_battlefield_tool/master/logo.png"
   },
   "astrbot_plugin_SteamSaleTracker": {
