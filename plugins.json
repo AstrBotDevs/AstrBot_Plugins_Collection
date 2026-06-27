@@ -1,4 +1,14 @@
 {
+  "astrbot-plugin-response2image": {
+    "display_name": "Response2Image",
+    "desc": "基于 Responses API 的 AstrBot 图像生成插件。",
+    "author": "Florance",
+    "repo": "https://github.com/FloranceYeh/astrbot_plugin_response2image",
+    "tags": [
+      "生图"
+    ],
+    "social_link": "Florance.top"
+  },
   "astrbot-plugin-Google-Health-Data-Retrieval-and-Analysis": {
     "display_name": "谷歌Health数据拉取与分析",
     "desc": "通过 Google Health API 获取健康数据，支持多用户在线授权，可选接入 LLM 进行智能分析",
