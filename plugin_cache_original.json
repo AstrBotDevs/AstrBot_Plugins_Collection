@@ -1,4 +1,49 @@
 {
+  "astrbot-plugin-image-caption-cache": {
+    "display_name": "Image Caption Cache",
+    "desc": "为 AstrBot 图片转述结果提供 TTL 与图片数量双策略缓存，减少重复图片的视觉模型调用",
+    "author": "FloranceYeh",
+    "repo": "https://github.com/FloranceYeh/astrbot_plugin_image_caption_cache",
+    "tags": [
+      "缓存"
+    ],
+    "social_link": "Florance.top",
+    "stars": 0,
+    "version": "1.2.0",
+    "astrbot_version": ">=4.16,<5",
+    "support_platforms": [
+      "aiocqhttp",
+      "telegram",
+      "qq_official",
+      "wecom",
+      "lark",
+      "dingtalk",
+      "discord",
+      "slack",
+      "kook",
+      "satori"
+    ],
+    "updated_at": "2026-06-27T11:52:41Z"
+  },
+  "astrbot-plugin-response2image": {
+    "display_name": "Response2Image",
+    "desc": "基于 Responses API 的 AstrBot 图像生成插件。",
+    "author": "Florance",
+    "repo": "https://github.com/FloranceYeh/astrbot_plugin_response2image",
+    "tags": [
+      "生图"
+    ],
+    "social_link": "Florance.top",
+    "stars": 2,
+    "version": "3.0.0",
+    "astrbot_version": ">=4.16",
+    "support_platforms": [
+      "aiocqhttp",
+      "telegram",
+      "lark"
+    ],
+    "updated_at": "2026-06-11T07:45:12Z"
+  },
   "astrbot-plugin-Google-Health-Data-Retrieval-and-Analysis": {
     "display_name": "谷歌Health数据拉取与分析",
     "desc": "通过 Google Health API 获取健康数据，支持多用户在线授权，可选接入 LLM 进行智能分析",
@@ -194,9 +239,9 @@
       "优化"
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
-    "stars": 6,
+    "stars": 8,
     "version": "1.2.1",
-    "updated_at": "2026-06-27T08:50:40Z"
+    "updated_at": "2026-06-27T10:49:30Z"
   },
   "astrbot-plugin-Firefly-Blog-Manager": {
     "display_name": "Firefly 博客管理插件",
@@ -773,12 +818,12 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 78,
-    "version": "5.2.1",
+    "version": "5.3.0",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-27T08:54:52Z",
+    "updated_at": "2026-06-27T11:57:10Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -5781,9 +5826,9 @@
       "codegen"
     ],
     "category": "ai_tools",
-    "stars": 59,
+    "stars": 60,
     "version": "1.4.3",
-    "updated_at": "2026-06-26T14:24:19Z",
+    "updated_at": "2026-06-27T11:33:20Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
