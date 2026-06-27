@@ -1,4 +1,19 @@
 {
+  "astrbot-plugin-Google-Health-Data-Retrieval-and-Analysis": {
+    "display_name": "谷歌Health数据拉取与分析",
+    "desc": "通过 Google Health API 获取健康数据，支持多用户在线授权，可选接入 LLM 进行智能分析",
+    "author": "catnap",
+    "repo": "https://github.com/catnap826/astrbot_plugin_Google_Health_Data_Retrieval_and_Analysis",
+    "tags": [
+      "health",
+      "google",
+      "llm"
+    ],
+    "social_link": "",
+    "stars": 0,
+    "version": "v0.4.0",
+    "updated_at": "2026-06-27T07:05:42Z"
+  },
   "astrbot-plugin-SIGNALIS-save-decoder": {
     "display_name": "SIGNALIS 存档解密",
     "desc": "SIGNALIS存档解密工具，上传cargo.png可获取存档情况。 ",
@@ -524,9 +539,9 @@
       "obsidian"
     ],
     "social_link": "https://github.com/aimercat1994",
-    "stars": 3,
+    "stars": 4,
     "version": "3.10.0",
-    "updated_at": "2026-06-26T02:52:05Z"
+    "updated_at": "2026-06-27T05:31:19Z"
   },
   "astrbot-plugin-exa-web-search": {
     "display_name": "Exa联网搜索",
@@ -714,8 +729,8 @@
       "热榜"
     ],
     "stars": 5,
-    "version": "v0.2.1",
-    "updated_at": "2026-06-24T08:55:50Z",
+    "version": "v0.3.0",
+    "updated_at": "2026-06-27T06:23:14Z",
     "logo": "https://raw.githubusercontent.com/AMag1c/astrbot_plugin_dailyhub/master/logo.png"
   },
   "astrbot-plugin-dida-todo": {
@@ -758,12 +773,12 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 76,
-    "version": "5.2.0",
+    "version": "5.2.1",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-27T04:15:19Z",
+    "updated_at": "2026-06-27T05:11:27Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -1547,12 +1562,12 @@
     "social_link": "https://github.com/lioensky/VCPChat | https://github.com/lioensky/VCPToolBox",
     "tags": [],
     "stars": 12,
-    "version": "v2.3.1",
+    "version": "v2.3.2",
     "astrbot_version": ">=4.14.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-26T18:13:48Z",
+    "updated_at": "2026-06-27T07:40:51Z",
     "logo": "https://raw.githubusercontent.com/vivy1024/astrbot_plugin_wave_memory/master/logo.png"
   },
   "astrbot_plugin_maimai_updater": {
@@ -2287,7 +2302,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-21T14:10:03Z",
+    "updated_at": "2026-06-27T06:42:55Z",
     "logo": "https://raw.githubusercontent.com/lingyun14beta/astrbot_plugin_uapipro_toolbox/main/logo.png"
   },
   "astrbot-plugin-mailer": {
@@ -5313,14 +5328,14 @@
       "数据查询"
     ],
     "category": "entertainment",
-    "stars": 9,
+    "stars": 10,
     "version": "v2.7",
     "astrbot_version": ">=4.11.0",
     "support_platforms": [
       "aiocqhttp",
       "weixin_oc"
     ],
-    "updated_at": "2026-06-24T09:46:28Z",
+    "updated_at": "2026-06-27T06:47:28Z",
     "logo": "https://raw.githubusercontent.com/qsc20001102/astrbot_plugin_jx3/main/logo.png"
   },
   "astrbot-plugin-zirunbi": {
@@ -7184,7 +7199,7 @@
     "category": "ai_tools",
     "stars": 6,
     "version": "v1.2.0",
-    "updated_at": "2026-06-26T04:04:12Z",
+    "updated_at": "2026-06-27T07:13:15Z",
     "logo": "https://raw.githubusercontent.com/BUGJI/astrbot_plugin_balance/main/logo.png"
   },
   "astrbot_plugin_PersonaFlow": {
@@ -10328,10 +10343,10 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "ai_tools",
-    "stars": 121,
+    "stars": 120,
     "version": "V1.2.3.hotfix.2",
     "astrbot_version": ">=4.11.0",
-    "updated_at": "2026-06-26T09:35:15Z",
+    "updated_at": "2026-06-27T06:25:12Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
