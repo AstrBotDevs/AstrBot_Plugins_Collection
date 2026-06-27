@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-Google-Health-Data-Retrieval-and-Analysis": {
+    "display_name": "谷歌Health数据拉取与分析",
+    "desc": "通过 Google Health API 获取健康数据，支持多用户在线授权，可选接入 LLM 进行智能分析",
+    "author": "catnap",
+    "repo": "https://github.com/catnap826/astrbot_plugin_Google_Health_Data_Retrieval_and_Analysis",
+    "tags": [
+      "health",
+      "google",
+      "llm"
+    ],
+    "social_link": ""
+  },
   "astrbot-plugin-SIGNALIS-save-decoder": {
     "display_name": "SIGNALIS 存档解密",
     "desc": "SIGNALIS存档解密工具，上传cargo.png可获取存档情况。 ",
