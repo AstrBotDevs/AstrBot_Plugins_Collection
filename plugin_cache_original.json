@@ -240,9 +240,9 @@
       "优化"
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
-    "stars": 8,
+    "stars": 9,
     "version": "1.2.1",
-    "updated_at": "2026-06-27T10:49:30Z"
+    "updated_at": "2026-06-27T15:30:58Z"
   },
   "astrbot-plugin-Firefly-Blog-Manager": {
     "display_name": "Firefly 博客管理插件",
@@ -818,13 +818,13 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 79,
+    "stars": 81,
     "version": "5.3.1",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-27T14:05:06Z",
+    "updated_at": "2026-06-27T15:47:28Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -1245,7 +1245,7 @@
       "安全编辑",
       "文件处理"
     ],
-    "stars": 36,
+    "stars": 37,
     "version": "2.6.0",
     "astrbot_version": ">=4.16",
     "support_platforms": [
@@ -1253,7 +1253,7 @@
       "qq_official",
       "telegram"
     ],
-    "updated_at": "2026-06-26T10:03:01Z",
+    "updated_at": "2026-06-27T15:17:43Z",
     "logo": "https://raw.githubusercontent.com/irmia2026/irmia_devkit_open/main/logo.png"
   },
   "astrbot_plugin_esjzone_downloader": {
@@ -1643,10 +1643,10 @@
       "IndexTTS"
     ],
     "social_link": "https://moonlitsapling.pages.dev/",
-    "stars": 4,
+    "stars": 5,
     "version": "1.1.0",
     "astrbot_version": ">=4.16,<5",
-    "updated_at": "2026-06-06T16:02:39Z",
+    "updated_at": "2026-06-27T14:58:08Z",
     "logo": "https://raw.githubusercontent.com/zhou-error/astrbot_plugin_indextts/main/logo.png"
   },
   "astrbot_plugin_mail": {
@@ -4581,9 +4581,9 @@
     ],
     "social_link": "https://github.com/menglimi",
     "category": "ai_tools",
-    "stars": 53,
+    "stars": 54,
     "version": "3.2.0",
-    "updated_at": "2026-06-24T03:53:03Z",
+    "updated_at": "2026-06-27T14:58:48Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -7064,9 +7064,9 @@
     ],
     "social_link": "https://github.com/DITF16",
     "category": "ai_tools",
-    "stars": 71,
+    "stars": 72,
     "version": "1.1.1",
-    "updated_at": "2026-06-26T10:12:14Z",
+    "updated_at": "2026-06-27T15:01:33Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_groupGuard": {
@@ -17041,12 +17041,12 @@
       "实用工具"
     ],
     "category": "utilities",
-    "stars": 51,
+    "stars": 52,
     "version": "v3.0.4",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-19T17:05:58Z",
+    "updated_at": "2026-06-27T15:32:37Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
