@@ -1,4 +1,10 @@
 {
+  "astrbot-plugin-isittrue": {
+    "display_name": "是真的吗",
+    "desc": "是真的吗——群聊事实核查小工具。@机器人说出你想核实的事情，或引用一条消息，AI 自动判断真假。无需额外 API，即装即用。",
+    "author": "konley",
+    "repo": "https://github.com/konley/astrbot_plugin_isittrue"
+  },
   "astrbot-plugin-just-enough-mcserver-status": {
     "display_name": "Just Enough McServer Status",
     "desc": "实现本地Minecraft的服务器查询与仿原版风格信息展示功能。",
