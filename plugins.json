@@ -1,4 +1,14 @@
 {
+  "astrbot-plugin-just-enough-mcserver-status": {
+    "display_name": "Just Enough McServer Status",
+    "desc": "实现本地Minecraft的服务器查询与仿原版风格信息展示功能。",
+    "author": "NightVoyager14",
+    "repo": "https://github.com/NightVoyager14/astrbot_plugin_just_enough_mcserver_status",
+    "tags": [
+      "minecraft"
+    ],
+    "social_link": "https://github.com/NightVoyager14"
+  },
   "astrbot-plugin-tattle": {
     "display_name": "LLM 告状机",
     "desc": "当LLM需要告状的时候，会调用注册的函数工具complain_to_receivers向指定列表人进行告状。",
