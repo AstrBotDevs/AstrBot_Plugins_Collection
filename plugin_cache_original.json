@@ -167,7 +167,7 @@
     "social_link": "https://github.com/konodiodaaaaa1",
     "stars": 1,
     "version": "v1.3.3",
-    "updated_at": "2026-06-27T07:51:52Z"
+    "updated_at": "2026-06-27T20:34:59Z"
   },
   "astrbot-plugin-steam-price-heybox": {
     "display_name": "Steam 价格查询（小黑盒）",
@@ -215,7 +215,7 @@
       "漫画",
       "漫画订阅"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "0.4.1",
     "support_platforms": [
       "aiocqhttp",
@@ -228,7 +228,7 @@
       "slack",
       "kook"
     ],
-    "updated_at": "2026-06-27T14:09:23Z",
+    "updated_at": "2026-06-27T20:46:23Z",
     "logo": "https://raw.githubusercontent.com/FFFold/astrbot_plugin_suwayomi_server/main/logo.png"
   },
   "astrbot-plugin-AstrNa": {
@@ -240,9 +240,9 @@
       "优化"
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
-    "stars": 9,
-    "version": "1.2.3",
-    "updated_at": "2026-06-27T19:48:38Z"
+    "stars": 10,
+    "version": "1.2.4",
+    "updated_at": "2026-06-27T21:51:53Z"
   },
   "astrbot-plugin-Firefly-Blog-Manager": {
     "display_name": "Firefly 博客管理插件",
@@ -3622,8 +3622,8 @@
     "social_link": "https://github.com/camera-2018",
     "category": "entertainment",
     "stars": 4,
-    "version": "v1.0.0",
-    "updated_at": "2026-05-23T11:30:00Z"
+    "version": "v1.1.0",
+    "updated_at": "2026-06-27T21:22:47Z"
   },
   "astrbot-plugin-rf4-data": {
     "display_name": "astrbot_plugin_rf4_data",
@@ -5827,9 +5827,9 @@
       "codegen"
     ],
     "category": "ai_tools",
-    "stars": 60,
+    "stars": 61,
     "version": "1.4.3",
-    "updated_at": "2026-06-27T11:33:20Z",
+    "updated_at": "2026-06-27T22:01:19Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -6897,8 +6897,8 @@
     "social_link": "https://github.com/camera-2018",
     "category": "entertainment",
     "stars": 4,
-    "version": "v1.0.0",
-    "updated_at": "2026-05-13T14:54:07Z"
+    "version": "v1.0.1",
+    "updated_at": "2026-06-27T21:35:20Z"
   },
   "astrbot_plugin_galgame_box": {
     "display_name": "Galgame 百宝盒",
