@@ -1524,9 +1524,9 @@
     ],
     "social_link": "XiaoLan9999.net",
     "stars": 7,
-    "version": "v0.6.26",
+    "version": "v0.6.27",
     "astrbot_version": ">=4.5.2",
-    "updated_at": "2026-06-26T12:21:06Z",
+    "updated_at": "2026-06-26T23:27:42Z",
     "logo": "https://raw.githubusercontent.com/XiaoLan9999/astrbot_plugin_maimai_updater/main/logo.png"
   },
   "astrbot_plugin_indextts": {
@@ -2002,7 +2002,7 @@
     "stars": 3,
     "version": "2.0.1",
     "astrbot_version": ">=4.25,<5",
-    "updated_at": "2026-06-26T06:29:54Z",
+    "updated_at": "2026-06-26T23:20:16Z",
     "logo": "https://raw.githubusercontent.com/kldsjfas/astrbot_plugin_majsoul/master/logo.png"
   },
   "astrbot_plugin_roco_world_wiki_search": {
