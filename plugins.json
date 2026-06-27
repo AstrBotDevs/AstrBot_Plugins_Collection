@@ -1,4 +1,14 @@
 {
+  "astrbot-plugin-SIGNALIS-save-decoder": {
+    "display_name": "SIGNALIS 存档解密",
+    "desc": "SIGNALIS存档解密工具，上传cargo.png可获取存档情况。 ",
+    "author": "David.z",
+    "repo": "https://github.com/PhotographyFlow/astrbot_plugin_SIGNALIS_save_decoder",
+    "tags": [
+      "signalis"
+    ],
+    "social_link": "https://github.com/PhotographyFlow"
+  },
   "astrbot-plugin-isittrue": {
     "display_name": "是真的吗",
     "desc": "是真的吗——群聊事实核查小工具。@机器人说出你想核实的事情，或引用一条消息，AI 自动判断真假。无需额外 API，即装即用。",
