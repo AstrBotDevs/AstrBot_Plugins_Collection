@@ -241,8 +241,8 @@
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
     "stars": 12,
-    "version": "1.2.7",
-    "updated_at": "2026-06-28T12:31:20Z"
+    "version": "1.2.9",
+    "updated_at": "2026-06-28T15:01:09Z"
   },
   "astrbot-plugin-Firefly-Blog-Manager": {
     "display_name": "Firefly 博客管理插件",
@@ -350,7 +350,7 @@
     "social_link": "https://github.com/Leafliber",
     "stars": 10,
     "version": "0.1.1",
-    "updated_at": "2026-06-28T13:05:42Z",
+    "updated_at": "2026-06-28T14:23:16Z",
     "logo": "https://raw.githubusercontent.com/Leafliber/astrbot_plugin_iris_chat_memory/main/logo.png"
   },
   "astrbot-plugin-minecraft-multi-monitor": {
@@ -483,8 +483,8 @@
     ],
     "social_link": "",
     "stars": 4,
-    "version": "v7.2.0",
-    "updated_at": "2026-06-18T03:38:47Z",
+    "version": "v7.3.0",
+    "updated_at": "2026-06-28T14:39:11Z",
     "logo": "https://raw.githubusercontent.com/jichie/astrbot_plugin_baidu_curl/main/logo.png"
   },
   "astrbot-plugin-Rcon-minecraft": {
@@ -819,12 +819,12 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 83,
-    "version": "5.3.6",
+    "version": "5.3.7",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-28T10:25:09Z",
+    "updated_at": "2026-06-28T14:38:49Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -1740,7 +1740,7 @@
     "stars": 9,
     "version": "v0.3.2",
     "astrbot_version": ">=4.17",
-    "updated_at": "2026-06-10T15:19:19Z"
+    "updated_at": "2026-06-28T15:16:44Z"
   },
   "astrbot_plugin_fund": {
     "display_name": "个人基金投资分析助手",
@@ -1786,9 +1786,9 @@
       "Ai便利贴"
     ],
     "social_link": "https://github.com/zhangkai542322",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.6.1",
-    "updated_at": "2026-05-19T01:20:16Z"
+    "updated_at": "2026-06-28T14:44:50Z"
   },
   "astrbot_plugin_model_connectivity": {
     "display_name": "模型连通性状态图插件",
@@ -2329,9 +2329,9 @@
     ],
     "social_link": "https://github.com/starlight02",
     "stars": 3,
-    "version": "v0.8.1",
+    "version": "v0.8.2",
     "astrbot_version": ">=4.0",
-    "updated_at": "2026-06-28T13:39:00Z"
+    "updated_at": "2026-06-28T13:58:10Z"
   },
   "astrbot-plugin-uapipro-toolbox": {
     "display_name": "UApiPro 工具箱",
@@ -6287,7 +6287,7 @@
     "category": "entertainment",
     "stars": 30,
     "version": "v3.2.6",
-    "updated_at": "2026-06-26T10:14:11Z",
+    "updated_at": "2026-06-28T14:21:35Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
@@ -9335,13 +9335,13 @@
     ],
     "social_link": "https://box.firefly520.top/",
     "category": "ai_tools",
-    "stars": 36,
+    "stars": 37,
     "version": "1.6.6",
     "support_platforms": [
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-06-28T12:42:04Z",
+    "updated_at": "2026-06-28T14:34:02Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/main/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -13246,9 +13246,9 @@
       "海龟汤"
     ],
     "category": "entertainment",
-    "stars": 27,
+    "stars": 28,
     "version": "v1.0.3",
-    "updated_at": "2026-05-30T09:18:10Z"
+    "updated_at": "2026-06-28T14:49:10Z"
   },
   "astrbot_plugin_typst_render": {
     "name": "astrbot_plugin_typst_render",
