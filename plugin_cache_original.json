@@ -240,9 +240,9 @@
       "优化"
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
-    "stars": 12,
+    "stars": 13,
     "version": "1.2.9",
-    "updated_at": "2026-06-28T15:01:09Z"
+    "updated_at": "2026-06-28T19:03:52Z"
   },
   "astrbot-plugin-Firefly-Blog-Manager": {
     "display_name": "Firefly 博客管理插件",
@@ -824,7 +824,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-28T14:38:49Z",
+    "updated_at": "2026-06-28T17:20:11Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -7104,9 +7104,9 @@
       "自动回复"
     ],
     "category": "utilities",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.4.0",
-    "updated_at": "2026-06-19T07:45:14Z",
+    "updated_at": "2026-06-28T18:45:24Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_keywords_reply/master/logo.png"
   },
   "astrbot_plugin_text2img": {
@@ -7443,9 +7443,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 362,
+    "stars": 363,
     "version": "3.4.4",
-    "updated_at": "2026-06-28T12:53:29Z",
+    "updated_at": "2026-06-28T18:47:31Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -8257,9 +8257,9 @@
       "人格"
     ],
     "category": "ai_tools",
-    "stars": 155,
+    "stars": 156,
     "version": "1.4.16",
-    "updated_at": "2026-06-24T07:57:43Z",
+    "updated_at": "2026-06-28T18:50:59Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -10389,10 +10389,10 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "ai_tools",
-    "stars": 123,
+    "stars": 124,
     "version": "V1.2.3.hotfix.2",
     "astrbot_version": ">=4.11.0",
-    "updated_at": "2026-06-28T15:26:17Z",
+    "updated_at": "2026-06-28T18:48:13Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -17670,7 +17670,7 @@
     "tags": [],
     "stars": 0,
     "version": "v1.3",
-    "updated_at": "2025-02-08T07:09:40Z"
+    "updated_at": "2026-06-28T17:38:16Z"
   },
   "astrbot_plugin_blacklist": {
     "desc": "黑名单插件，禁止用户和 AstrBot 交互，适用于 aiocqhttp, gewechat",
