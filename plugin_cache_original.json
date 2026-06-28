@@ -148,9 +148,9 @@
       "消息推送"
     ],
     "social_link": "https://github.com/Himehane",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.2.2",
-    "updated_at": "2026-06-24T15:12:40Z"
+    "updated_at": "2026-06-28T07:55:52Z"
   },
   "astrbot-plugin-hermes-connector": {
     "display_name": "Hermes控制器",
@@ -241,8 +241,8 @@
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
     "stars": 10,
-    "version": "1.2.4",
-    "updated_at": "2026-06-27T21:51:53Z"
+    "version": "1.2.6",
+    "updated_at": "2026-06-28T08:04:50Z"
   },
   "astrbot-plugin-Firefly-Blog-Manager": {
     "display_name": "Firefly 博客管理插件",
@@ -963,10 +963,10 @@
       "OW",
       "网易大神"
     ],
-    "stars": 24,
+    "stars": 25,
     "version": "1.2.1",
     "astrbot_version": ">=4.5.7",
-    "updated_at": "2026-06-26T21:27:22Z",
+    "updated_at": "2026-06-28T06:53:37Z",
     "logo": "https://raw.githubusercontent.com/singularity2000/astrbot_plugin_ow_dashen/main/logo.png"
   },
   "astrbot-plugin-tataru": {
@@ -1958,12 +1958,12 @@
       "X",
       "推特"
     ],
-    "stars": 22,
+    "stars": 23,
     "version": "v1.6.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-13T06:05:53Z",
+    "updated_at": "2026-06-28T06:21:39Z",
     "logo": "https://raw.githubusercontent.com/Ars1027/astrbot_plugin_twitter/master/logo.png"
   },
   "astrbot_plugin_course": {
@@ -2011,9 +2011,9 @@
     "author": "middcom,dream,deepseek",
     "repo": "https://github.com/middcom/astrbot_plugin_affection",
     "tags": [],
-    "stars": 24,
+    "stars": 26,
     "version": "v1.2",
-    "updated_at": "2026-06-26T09:57:09Z"
+    "updated_at": "2026-06-28T07:37:25Z"
   },
   "astrbot_plugin_media_wiki": {
     "display_name": "MediaWiki 通用查询",
@@ -6399,9 +6399,9 @@
       "QQ"
     ],
     "category": "utilities",
-    "stars": 11,
+    "stars": 12,
     "version": "v0.2.1",
-    "updated_at": "2026-06-08T16:57:49Z"
+    "updated_at": "2026-06-28T06:34:13Z"
   },
   "astrbot_plugin_skland": {
     "display_name": "森空岛签到",
@@ -7443,9 +7443,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 360,
+    "stars": 361,
     "version": "3.4.4",
-    "updated_at": "2026-06-27T16:32:53Z",
+    "updated_at": "2026-06-28T07:49:25Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -10013,9 +10013,9 @@
       "情感"
     ],
     "category": "ai_tools",
-    "stars": 17,
+    "stars": 18,
     "version": "v3.4",
-    "updated_at": "2026-06-01T13:13:02Z",
+    "updated_at": "2026-06-28T07:50:01Z",
     "logo": "https://raw.githubusercontent.com/tengtian3/astrbot-plugin-emotionai/main/logo.png"
   },
   "astrbot_plugin_email_narrator": {
@@ -12231,8 +12231,8 @@
     ],
     "category": "ai_tools",
     "stars": 266,
-    "version": "2.3.5",
-    "updated_at": "2026-06-27T23:02:17Z",
+    "version": "2.3.6",
+    "updated_at": "2026-06-28T07:51:04Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -17016,7 +17016,7 @@
     "category": "entertainment",
     "stars": 19,
     "version": "v1.3",
-    "updated_at": "2026-06-26T09:56:45Z"
+    "updated_at": "2026-06-28T08:11:34Z"
   },
   "astrbot_plugin_Translation": {
     "desc": "通过调用百度翻译 API 接口实现翻译文本",
@@ -17570,7 +17570,7 @@
     "category": "entertainment",
     "stars": 331,
     "version": "v3.21",
-    "updated_at": "2026-06-28T03:15:23Z"
+    "updated_at": "2026-06-28T08:00:31Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
