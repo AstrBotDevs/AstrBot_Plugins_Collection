@@ -8,7 +8,7 @@
       "缓存"
     ],
     "social_link": "Florance.top",
-    "stars": 0,
+    "stars": 1,
     "version": "1.2.0",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
@@ -23,7 +23,7 @@
       "kook",
       "satori"
     ],
-    "updated_at": "2026-06-27T11:52:41Z"
+    "updated_at": "2026-06-27T22:38:55Z"
   },
   "astrbot-plugin-response2image": {
     "display_name": "Response2Image",
@@ -167,7 +167,7 @@
     "social_link": "https://github.com/konodiodaaaaa1",
     "stars": 1,
     "version": "v1.3.3",
-    "updated_at": "2026-06-27T20:34:59Z"
+    "updated_at": "2026-06-27T22:40:35Z"
   },
   "astrbot-plugin-steam-price-heybox": {
     "display_name": "Steam 价格查询（小黑盒）",
@@ -818,13 +818,13 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 81,
+    "stars": 82,
     "version": "5.3.3",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-27T19:01:17Z",
+    "updated_at": "2026-06-27T23:46:04Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -1867,10 +1867,10 @@
       "提示词优化"
     ],
     "social_link": "",
-    "stars": 51,
+    "stars": 52,
     "version": "3.3.21",
     "astrbot_version": ">=4.16,<5",
-    "updated_at": "2026-06-25T14:17:58Z",
+    "updated_at": "2026-06-27T23:35:36Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -12230,9 +12230,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 265,
+    "stars": 266,
     "version": "2.3.5",
-    "updated_at": "2026-06-27T14:10:26Z",
+    "updated_at": "2026-06-27T23:02:17Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -13625,9 +13625,9 @@
     ],
     "social_link": "https://github.com/zhewang448",
     "category": "integrations",
-    "stars": 17,
+    "stars": 18,
     "version": "v1.1.5",
-    "updated_at": "2026-05-30T07:30:42Z",
+    "updated_at": "2026-06-27T23:19:26Z",
     "logo": "https://raw.githubusercontent.com/zhewang448/astrbot_plugin_SteamSaleTracker/main/logo.png"
   },
   "astrbot_plugin_Heartflow": {
@@ -14699,9 +14699,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 76,
+    "stars": 77,
     "version": "2.2.0",
-    "updated_at": "2026-06-11T09:46:45Z",
+    "updated_at": "2026-06-27T23:19:35Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
