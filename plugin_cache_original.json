@@ -300,7 +300,7 @@
       "quota"
     ],
     "social_link": "https://github.com/Dracowyn",
-    "stars": 0,
+    "stars": 1,
     "version": "0.2.0",
     "astrbot_version": ">=4.24.2",
     "support_platforms": [
@@ -308,7 +308,7 @@
       "qq_official",
       "qq_official_webhook"
     ],
-    "updated_at": "2026-06-22T02:52:42Z"
+    "updated_at": "2026-06-28T11:01:05Z"
   },
   "astrbot-plugin-agent-lab": {
     "display_name": "任务模式",
@@ -819,12 +819,12 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 83,
-    "version": "5.3.5",
+    "version": "5.3.6",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-28T04:12:33Z",
+    "updated_at": "2026-06-28T10:25:09Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -3939,9 +3939,9 @@
     "social_link": "https://www.xiaohongshu.com/user/profile/6986d59f0000000024012e78",
     "category": "ai_tools",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "0.3.0",
-    "updated_at": "2026-05-16T11:04:42Z"
+    "updated_at": "2026-06-28T10:43:12Z"
   },
   "astrbot-plugin-steam-friend-monitor": {
     "display_name": "Steam 玩家状态监控",
@@ -4254,7 +4254,7 @@
     "category": "utilities",
     "stars": 11,
     "version": "v2.5.1",
-    "updated_at": "2026-06-18T05:50:34Z",
+    "updated_at": "2026-06-28T09:13:11Z",
     "logo": "https://raw.githubusercontent.com/Waterwzy/astrbot_plugin_firefly_filter/master/logo.png"
   },
   "astrbot-plugin-cet6": {
@@ -4295,9 +4295,9 @@
     "social_link": "https://github.com/Renyus",
     "category": "ai_tools",
     "tags": [],
-    "stars": 69,
+    "stars": 70,
     "version": "Ver 5.4.0",
-    "updated_at": "2026-06-18T09:04:03Z"
+    "updated_at": "2026-06-28T10:44:44Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -4338,9 +4338,9 @@
     ],
     "social_link": "https://github.com/olozhika/",
     "category": "ai_tools",
-    "stars": 43,
+    "stars": 44,
     "version": "v1.3.5",
-    "updated_at": "2026-06-25T01:11:32Z",
+    "updated_at": "2026-06-28T10:13:23Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot-plugin-oyasumi": {
@@ -4404,12 +4404,12 @@
     ],
     "category": "entertainment",
     "stars": 1,
-    "version": "1.3.2",
+    "version": "1.3.3",
     "astrbot_version": ">=4.13.0,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-11T07:20:37Z"
+    "updated_at": "2026-06-28T10:43:37Z"
   },
   "astrbot-plugin-memos-manager": {
     "display_name": "Memos Manager",
@@ -4581,9 +4581,9 @@
     ],
     "social_link": "https://github.com/menglimi",
     "category": "ai_tools",
-    "stars": 54,
+    "stars": 55,
     "version": "3.2.0",
-    "updated_at": "2026-06-27T14:58:48Z",
+    "updated_at": "2026-06-28T10:42:49Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -4739,9 +4739,9 @@
     "social_link": "https://github.com/zoffyultraman",
     "category": "entertainment",
     "tags": [],
-    "stars": 9,
+    "stars": 10,
     "version": "v1.1.3",
-    "updated_at": "2026-04-22T02:33:40Z",
+    "updated_at": "2026-06-28T10:47:55Z",
     "logo": "https://raw.githubusercontent.com/zoffyultraman/astrbot_plugin_manbo-tts/main/logo.png"
   },
   "astrbot-plugin-steammod-monitor": {
@@ -5568,9 +5568,9 @@
       "opencode"
     ],
     "category": "integrations",
-    "stars": 172,
+    "stars": 173,
     "version": "v2.1.4",
-    "updated_at": "2026-06-25T03:08:09Z",
+    "updated_at": "2026-06-28T09:43:38Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -5691,12 +5691,12 @@
     ],
     "social_link": "https://github.com/lxfight",
     "category": "integrations",
-    "stars": 12,
+    "stars": 13,
     "version": "1.3.1",
     "support_platforms": [
       "live2d"
     ],
-    "updated_at": "2026-06-27T16:26:00Z"
+    "updated_at": "2026-06-28T10:42:34Z"
   },
   "astrbot_plugin_telegram_summary": {
     "name": "",
@@ -8241,9 +8241,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "utilities",
-    "stars": 90,
+    "stars": 91,
     "version": "1.1.5",
-    "updated_at": "2026-06-24T18:49:53Z",
+    "updated_at": "2026-06-28T10:43:13Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
@@ -8836,13 +8836,13 @@
     ],
     "category": "entertainment",
     "stars": 58,
-    "version": "2.6.14",
+    "version": "2.7.1",
     "astrbot_version": ">=4.24.1",
     "support_platforms": [
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-06-26T09:42:01Z",
+    "updated_at": "2026-06-28T09:33:54Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -9477,9 +9477,9 @@
     ],
     "social_link": "https://github.com/Siaospeed",
     "category": "utilities",
-    "stars": 16,
+    "stars": 17,
     "version": "v0.1.0",
-    "updated_at": "2026-06-13T12:48:03Z",
+    "updated_at": "2026-06-28T10:45:01Z",
     "logo": "https://raw.githubusercontent.com/Siaospeed/astrbot_plugin_msg_transfer/main/logo.png"
   },
   "astrbot_plugin_chuanhuatong": {
@@ -9656,8 +9656,8 @@
     "category": "entertainment",
     "tags": [],
     "stars": 5,
-    "version": "v0.1.5",
-    "updated_at": "2026-06-27T00:36:41Z"
+    "version": "v0.1.6",
+    "updated_at": "2026-06-28T10:16:48Z"
   },
   "astrbot_plugin_hardwareinfo": {
     "display_name": "硬件信息查询",
@@ -12148,9 +12148,9 @@
     "repo": "https://github.com/xiaoxi68/AstrBot_plugin_openai_image-command",
     "category": "ai_tools",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "v2.2.0",
-    "updated_at": "2026-04-19T13:19:05Z"
+    "updated_at": "2026-06-28T10:40:17Z"
   },
   "astrbot_plugin_sleep_tracker": {
     "desc": "一个基于 AstrBot 的睡眠记录插件，帮助用户记录和分析睡眠作息情况",
@@ -14259,9 +14259,9 @@
     ],
     "social_link": "https://github.com/lxfight",
     "category": "ai_tools",
-    "stars": 35,
+    "stars": 36,
     "version": "0.1.0",
-    "updated_at": "2026-06-09T02:51:12Z"
+    "updated_at": "2026-06-28T10:42:33Z"
   },
   "astrbot_plugin_textadventure": {
     "author": "LumineStory",
@@ -17568,9 +17568,9 @@
       "图床"
     ],
     "category": "entertainment",
-    "stars": 331,
+    "stars": 332,
     "version": "v3.21",
-    "updated_at": "2026-06-28T08:00:31Z"
+    "updated_at": "2026-06-28T10:28:56Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
