@@ -8712,9 +8712,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 157,
+    "stars": 158,
     "version": "v1.5.1",
-    "updated_at": "2026-06-28T13:20:54Z",
+    "updated_at": "2026-06-29T19:00:03Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -15000,9 +15000,9 @@
       "知识库"
     ],
     "category": "ai_tools",
-    "stars": 92,
+    "stars": 91,
     "version": "v0.5.9",
-    "updated_at": "2026-05-23T20:20:00Z"
+    "updated_at": "2026-06-29T18:02:32Z"
   },
   "astrbot_uptime_kuma_webhook_plugin": {
     "author": "RC-CHN",
