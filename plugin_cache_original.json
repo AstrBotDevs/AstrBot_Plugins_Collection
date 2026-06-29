@@ -131,10 +131,10 @@
       "缓存"
     ],
     "social_link": "https://github.com/leafliber",
-    "stars": 2,
+    "stars": 3,
     "version": "0.1.0",
     "astrbot_version": ">=4.24.2",
-    "updated_at": "2026-06-27T19:14:08Z",
+    "updated_at": "2026-06-29T07:41:42Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_cost_control/main/logo.png"
   },
   "astrbot-plugin-dsa-pusher": {
@@ -723,13 +723,13 @@
       "互动"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 27,
+    "stars": 29,
     "version": "1.6.2",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-28T02:20:45Z",
+    "updated_at": "2026-06-29T07:33:38Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_live_stream_companion/main/logo.png"
   },
   "astrbot-plugin-open-notebook": {
@@ -819,12 +819,12 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 84,
-    "version": "5.3.7",
+    "version": "5.4.0",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-29T01:42:22Z",
+    "updated_at": "2026-06-29T05:49:58Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -926,9 +926,9 @@
       "webchat"
     ],
     "social_link": "https://github.com/insolitude610",
-    "stars": 9,
+    "stars": 10,
     "version": "0.7.12",
-    "updated_at": "2026-06-23T09:26:15Z",
+    "updated_at": "2026-06-29T08:27:45Z",
     "logo": "https://raw.githubusercontent.com/insolitude610/astrbot_plugin_galgame_web/main/logo.png"
   },
   "astrbot-plugin-feishu-todo": {
@@ -2437,10 +2437,10 @@
       "tshock"
     ],
     "social_link": "https://github.com/Reisenbug",
-    "stars": 3,
+    "stars": 4,
     "version": "0.1.0",
     "astrbot_version": ">=4.16.0",
-    "updated_at": "2026-04-20T05:53:11Z"
+    "updated_at": "2026-06-29T08:34:30Z"
   },
   "astrbot-plugin-dingtalk-feishu-forwarder": {
     "desc": "钉钉与飞书之间的双向消息转发插件，支持文本、图片等消息格式自动转换。",
@@ -3623,7 +3623,7 @@
     "category": "entertainment",
     "stars": 4,
     "version": "v1.1.0",
-    "updated_at": "2026-06-27T21:22:47Z"
+    "updated_at": "2026-06-29T08:26:12Z"
   },
   "astrbot-plugin-rf4-data": {
     "display_name": "astrbot_plugin_rf4_data",
@@ -3667,7 +3667,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 401,
+    "stars": 402,
     "version": "v4.10.6",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -3676,7 +3676,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-06-28T04:03:20Z",
+    "updated_at": "2026-06-29T04:56:27Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -4159,9 +4159,9 @@
       "QQ"
     ],
     "category": "ai_tools",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.0.1",
-    "updated_at": "2026-05-05T09:46:08Z"
+    "updated_at": "2026-06-29T07:26:21Z"
   },
   "astrbot-plugin-unraid-manager": {
     "display_name": "Unraid NAS安全管理插件",
@@ -4551,8 +4551,8 @@
     "social_link": "https://github.com/RichardLiuda",
     "category": "utilities",
     "stars": 32,
-    "version": "v3.4.0",
-    "updated_at": "2026-06-29T03:37:48Z",
+    "version": "v3.4.1",
+    "updated_at": "2026-06-29T08:44:10Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -5568,9 +5568,9 @@
       "opencode"
     ],
     "category": "integrations",
-    "stars": 173,
+    "stars": 174,
     "version": "v2.1.4",
-    "updated_at": "2026-06-28T09:43:38Z",
+    "updated_at": "2026-06-29T04:15:56Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -6707,11 +6707,11 @@
     ],
     "category": "entertainment",
     "stars": 17,
-    "version": "v1.5.8",
+    "version": "v1.5.10",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-25T03:26:42Z",
+    "updated_at": "2026-06-29T09:25:13Z",
     "logo": "https://raw.githubusercontent.com/zhoufan47/astrbot_plugin_bbt_daily_news/master/logo.png"
   },
   "astrbot_plugin_fflogs": {
@@ -6765,7 +6765,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 401,
+    "stars": 402,
     "version": "v4.10.6",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -6774,7 +6774,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-06-28T04:03:20Z",
+    "updated_at": "2026-06-29T04:56:27Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -8162,7 +8162,7 @@
     "category": "ai_tools",
     "stars": 33,
     "version": "v0.1.21",
-    "updated_at": "2026-06-26T09:58:37Z",
+    "updated_at": "2026-06-29T05:25:55Z",
     "logo": "https://raw.githubusercontent.com/sukafon/astrbot_plugin_big_banana/main/logo.png"
   },
   "astrbot_plugin_BitTorrent": {
@@ -8257,9 +8257,9 @@
       "人格"
     ],
     "category": "ai_tools",
-    "stars": 156,
+    "stars": 157,
     "version": "1.4.16",
-    "updated_at": "2026-06-28T18:50:59Z",
+    "updated_at": "2026-06-29T07:53:44Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -9417,13 +9417,13 @@
     ],
     "social_link": "https://github.com/piexian",
     "category": "ai_tools",
-    "stars": 48,
+    "stars": 49,
     "version": "v2.1.0",
     "astrbot_version": ">=4.10.4",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-28T15:45:29Z",
+    "updated_at": "2026-06-29T07:24:53Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -14773,7 +14773,7 @@
     "category": "utilities",
     "stars": 9,
     "version": "V2.8.1",
-    "updated_at": "2026-06-22T09:13:33Z"
+    "updated_at": "2026-06-29T08:18:04Z"
   },
   "astrbot_dg_lab_plugin": {
     "author": "RC-CHN",
@@ -14797,9 +14797,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 184,
+    "stars": 185,
     "version": "v2.1.2",
-    "updated_at": "2026-06-29T01:21:11Z",
+    "updated_at": "2026-06-29T05:02:36Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -15851,7 +15851,7 @@
     "category": "entertainment",
     "tags": [],
     "stars": 6,
-    "version": "v0.4.4",
+    "version": "v0.5.3",
     "astrbot_version": ">=4.5.7",
     "support_platforms": [
       "aiocqhttp",
@@ -15874,7 +15874,7 @@
       "matrix",
       "mattermost"
     ],
-    "updated_at": "2026-06-29T03:29:27Z"
+    "updated_at": "2026-06-29T06:38:29Z"
   },
   "astrbot_plugin_a2s": {
     "author": "ZvZPvz",
@@ -15899,9 +15899,9 @@
     ],
     "social_link": "https://github.com/vmoranv-reborn",
     "category": "entertainment",
-    "stars": 46,
+    "stars": 47,
     "version": "1.7.4",
-    "updated_at": "2026-06-27T19:20:04Z",
+    "updated_at": "2026-06-29T04:29:59Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
@@ -17590,9 +17590,9 @@
       "图床"
     ],
     "category": "entertainment",
-    "stars": 333,
+    "stars": 334,
     "version": "v3.21",
-    "updated_at": "2026-06-29T02:53:47Z"
+    "updated_at": "2026-06-29T07:53:35Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
@@ -17770,9 +17770,9 @@
     "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
     "category": "productivity",
     "tags": [],
-    "stars": 36,
+    "stars": 37,
     "version": "v1.4.3",
-    "updated_at": "2026-06-20T09:35:04Z"
+    "updated_at": "2026-06-29T05:29:16Z"
   },
   "ai_memory": {
     "desc": "一个AI记忆管理插件，可以让ai记住重要的事，记忆读取是ai自己调用的，有时候呆呆的ai不会自己调用，可以多问几次或者人格加上特定提示词,输入 /mem_help 查看记忆管理帮助",
@@ -18240,8 +18240,8 @@
     "category": "ai_tools",
     "tags": [],
     "stars": 253,
-    "version": "v2.1.5",
-    "updated_at": "2026-06-22T12:39:15Z"
+    "version": "v2.1.6",
+    "updated_at": "2026-06-29T09:19:12Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
