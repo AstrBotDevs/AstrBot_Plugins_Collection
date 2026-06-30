@@ -1,4 +1,17 @@
 {
+  "astrbot-plugin-oven-multi": {
+    "display_name": "插座的多功能烤箱",
+    "desc": "整合多种实用功能的插件，包含括号自动匹配、消息复读、移除空行、思考表情、风格学习、主动回复、余额查询和图片转述缓存等功能",
+    "author": "汐兮雨",
+    "repo": "https://github.com/huntersxy/astrbot_plugin_oven_multi",
+    "tags": [
+      "AI增强",
+      "娱乐",
+      "风格",
+      "学习"
+    ],
+    "social_link": "https://github.com/huntersxy"
+  },
   "astrbot-plugin-palette": {
     "display_name": "AstrBot调色盘",
     "desc": "AstrBot调色盘是一个 AstrBot WebUI 美化插件",
