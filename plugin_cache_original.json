@@ -1,4 +1,139 @@
 {
+  "astrbot-plugin-nezhatz": {
+    "display_name": "哪吒探针",
+    "desc": "查看哪吒监控站点的服务器状态等信息",
+    "author": "叹号大帝",
+    "repo": "https://github.com/thTag/astrbot_plugin_nezhatz",
+    "tags": [
+      "哪吒",
+      "监控",
+      "nezha"
+    ],
+    "social_link": "https://www.th-dd.top",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-06-27T11:54:18Z",
+    "logo": "https://raw.githubusercontent.com/thTag/astrbot_plugin_nezhatz/main/logo.png"
+  },
+  "astrbot-plugin-sensitivefilter": {
+    "display_name": "群聊敏感词检测与自动处理",
+    "desc": "群聊敏感词检测插件，支持本地词库/外部接口/AI 语义识别三种检测方式，可按群单独配置撤回、警告、通知等处理动作",
+    "author": "lingyun",
+    "repo": "https://github.com/lingyun14beta/astrbot_plugin_sensitivefilter",
+    "tags": [
+      "敏感词处理"
+    ],
+    "social_link": "https://github.com/lingyun14beta",
+    "stars": 0,
+    "version": "1.0.0",
+    "support_platforms": [
+      "aiocqhttp",
+      "telegram",
+      "lark",
+      "dingtalk",
+      "discord"
+    ],
+    "updated_at": "2026-06-28T09:05:30Z"
+  },
+  "astrbot-plugin-memosnotes": {
+    "display_name": "Memos备忘录连接器",
+    "desc": "连接到自建 Memos 实例。支持 CRUD、置顶/归档、标签系统、LLM 知识库存取（自动保存/搜索知识）、自然语言写日记",
+    "author": "YuNaitang",
+    "repo": "https://github.com/YuNaitang/astrbot_plugin_memosnotes",
+    "social_link": "https://github.com/YuNaitang",
+    "tags": [],
+    "stars": 0,
+    "version": "1.8.0",
+    "astrbot_version": ">=4.16",
+    "support_platforms": [
+      "aiocqhttp"
+    ],
+    "updated_at": "2026-06-28T15:00:35Z"
+  },
+  "astrbot-plugin-oven-multi": {
+    "display_name": "插座的多功能烤箱",
+    "desc": "整合多种实用功能的插件，包含括号自动匹配、消息复读、移除空行、思考表情、风格学习、主动回复、余额查询和图片转述缓存等功能",
+    "author": "汐兮雨",
+    "repo": "https://github.com/huntersxy/astrbot_plugin_oven_multi",
+    "tags": [
+      "AI增强",
+      "娱乐",
+      "风格",
+      "学习"
+    ],
+    "social_link": "https://github.com/huntersxy",
+    "stars": 0,
+    "version": "v1.38.0",
+    "support_platforms": [
+      "aiocqhttp"
+    ],
+    "updated_at": "2026-06-30T16:13:42Z",
+    "logo": "https://raw.githubusercontent.com/huntersxy/astrbot_plugin_oven_multi/main/logo.png"
+  },
+  "astrbot-plugin-palette": {
+    "display_name": "AstrBot调色盘",
+    "desc": "AstrBot调色盘是一个 AstrBot WebUI 美化插件",
+    "author": " C₂₂H₂₅NO₆",
+    "repo": "https://github.com/Sisyphbaous-DT-Project/astrbot_plugin_palette",
+    "tags": [
+      "美化",
+      "webui"
+    ],
+    "social_link": "https://github.com/Sisyphbaous-DT-Project",
+    "stars": 12,
+    "version": "0.4.3",
+    "astrbot_version": ">=4.26.0-beta1",
+    "updated_at": "2026-06-29T15:46:18Z"
+  },
+  "astrbot-plugin-polite-silence": {
+    "display_name": "礼貌性沉默",
+    "desc": "允许 AI 根据设定概率及提示词自主识别骚扰并拒绝回应，防范恶意持续打扰。",
+    "author": "KitsuneiMomo",
+    "repo": "https://github.com/KitsuneiMomo/astrbot_plugin_polite_silence",
+    "tags": [
+      "防骚扰",
+      "自主拒答",
+      "安全限制"
+    ],
+    "social_link": "https://github.com/KitsuneiMomo",
+    "stars": 0,
+    "version": "1.1.0",
+    "updated_at": "2026-06-29T11:23:53Z",
+    "logo": "https://raw.githubusercontent.com/KitsuneiMomo/astrbot_plugin_polite_silence/main/logo.png"
+  },
+  "astrbot-plugin-spotify": {
+    "display_name": "Spotify 智能点歌与控制插件",
+    "desc": "让 Bot 拥有 Spotify 的完整控制权！支持自然语言点歌、排队、切歌、暂停，以及将好听的音乐一键加入收藏夹。",
+    "author": "maolbsMd",
+    "repo": "https://github.com/maolbsMd/astrbot_plugin_spotify",
+    "tags": [
+      "音乐",
+      "娱乐",
+      "工具",
+      "Spotify"
+    ],
+    "social_link": "https://github.com/maolbsMd",
+    "stars": 1,
+    "version": "1.0.1",
+    "astrbot_version": ">=4.25",
+    "support_platforms": [
+      "aiocqhttp",
+      "qq_official",
+      "qq_official_webhook",
+      "telegram",
+      "wecom",
+      "discord",
+      "lark",
+      "dingtalk",
+      "slack",
+      "kook",
+      "vocechat",
+      "weixin_official_account",
+      "weixin_oc"
+    ],
+    "updated_at": "2026-06-30T12:40:24Z",
+    "logo": "https://raw.githubusercontent.com/maolbsMd/astrbot_plugin_spotify/main/logo.png"
+  },
   "astrbot-plugin-image-caption-cache": {
     "display_name": "Image Caption Cache",
     "desc": "为 AstrBot 图片转述结果提供 TTL 与图片数量双策略缓存，减少重复图片的视觉模型调用",
@@ -350,7 +485,7 @@
     "social_link": "https://github.com/Leafliber",
     "stars": 10,
     "version": "0.1.2",
-    "updated_at": "2026-06-30T00:16:13Z",
+    "updated_at": "2026-06-30T16:09:36Z",
     "logo": "https://raw.githubusercontent.com/Leafliber/astrbot_plugin_iris_chat_memory/main/logo.png"
   },
   "astrbot-plugin-minecraft-multi-monitor": {
@@ -1086,7 +1221,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-06-29T16:16:59Z",
+    "updated_at": "2026-06-30T17:46:31Z",
     "logo": "https://raw.githubusercontent.com/AgIzT/astrbot_plugin_anysearch/main/logo.png"
   },
   "astrbot_plugin_e2b_code": {
@@ -2329,9 +2464,9 @@
     ],
     "social_link": "https://github.com/starlight02",
     "stars": 3,
-    "version": "v0.8.5",
+    "version": "v0.8.7",
     "astrbot_version": ">=4.0",
-    "updated_at": "2026-06-30T05:04:37Z"
+    "updated_at": "2026-06-30T17:08:22Z"
   },
   "astrbot-plugin-uapipro-toolbox": {
     "display_name": "UApiPro 工具箱",
@@ -4129,8 +4264,8 @@
     ],
     "category": "entertainment",
     "stars": 58,
-    "version": "2.9.0",
-    "updated_at": "2026-06-25T17:21:37Z",
+    "version": "3.0.1",
+    "updated_at": "2026-06-30T17:18:26Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -4469,7 +4604,7 @@
     "stars": 16,
     "version": "v1.5.1",
     "astrbot_version": ">=4.26.2,<5",
-    "updated_at": "2026-06-30T08:14:03Z",
+    "updated_at": "2026-06-30T15:58:13Z",
     "logo": "https://raw.githubusercontent.com/united-pooh/astrbot_plugin_bangumi/main/logo.png"
   },
   "astrbot-plugin-three-body-wiki": {
@@ -4552,8 +4687,8 @@
     "social_link": "https://github.com/RichardLiuda",
     "category": "utilities",
     "stars": 32,
-    "version": "v3.4.2",
-    "updated_at": "2026-06-30T12:13:00Z",
+    "version": "v3.5.0",
+    "updated_at": "2026-06-30T16:44:33Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -7106,8 +7241,8 @@
     ],
     "category": "utilities",
     "stars": 10,
-    "version": "v1.4.0",
-    "updated_at": "2026-06-28T18:45:24Z",
+    "version": "v1.4.1",
+    "updated_at": "2026-06-30T16:02:51Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_keywords_reply/master/logo.png"
   },
   "astrbot_plugin_text2img": {
@@ -12231,9 +12366,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 273,
+    "stars": 274,
     "version": "2.3.6",
-    "updated_at": "2026-06-30T13:01:04Z",
+    "updated_at": "2026-06-30T17:18:39Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -15001,9 +15136,9 @@
       "知识库"
     ],
     "category": "ai_tools",
-    "stars": 91,
+    "stars": 90,
     "version": "v0.5.9",
-    "updated_at": "2026-06-29T18:02:32Z"
+    "updated_at": "2026-06-30T16:01:15Z"
   },
   "astrbot_uptime_kuma_webhook_plugin": {
     "author": "RC-CHN",
@@ -15222,9 +15357,9 @@
     "repo": "https://github.com/LWWD/astrbot_plugin_sql_history",
     "category": "utilities",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "v1.1.0",
-    "updated_at": "2026-05-25T11:11:36Z"
+    "updated_at": "2026-06-30T16:43:29Z"
   },
   "astrbot_plugin_error_notice": {
     "author": "DragonEmpery",
@@ -17841,7 +17976,7 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "category": "integrations",
     "tags": [],
-    "stars": 83,
+    "stars": 84,
     "version": "v1.6.4",
     "astrbot_version": ">=4.5.2",
     "support_platforms": [
@@ -17849,7 +17984,7 @@
       "telegram",
       "weixin_oc"
     ],
-    "updated_at": "2026-06-26T03:57:01Z",
+    "updated_at": "2026-06-30T16:27:58Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
