@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-palette": {
+    "display_name": "AstrBot调色盘",
+    "desc": "AstrBot调色盘是一个 AstrBot WebUI 美化插件",
+    "author": " C₂₂H₂₅NO₆",
+    "repo": "https://github.com/Sisyphbaous-DT-Project/astrbot_plugin_palette",
+    "tags": [
+      "美化",
+      "webui"
+    ],
+    "social_link": "https://github.com/Sisyphbaous-DT-Project"
+  },
   "astrbot-plugin-polite-silence": {
     "display_name": "礼貌性沉默",
     "desc": "允许 AI 根据设定概率及提示词自主识别骚扰并拒绝回应，防范恶意持续打扰。",
