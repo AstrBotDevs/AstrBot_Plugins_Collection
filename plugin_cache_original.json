@@ -954,12 +954,12 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 87,
-    "version": "5.5.0",
+    "version": "5.6.0",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-30T14:57:28Z",
+    "updated_at": "2026-06-30T19:06:25Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -12366,9 +12366,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 274,
+    "stars": 275,
     "version": "2.3.6",
-    "updated_at": "2026-06-30T17:18:39Z",
+    "updated_at": "2026-06-30T19:30:02Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
