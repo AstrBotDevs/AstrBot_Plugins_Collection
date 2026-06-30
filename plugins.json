@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-nezhatz": {
+    "display_name": "哪吒探针",
+    "desc": "查看哪吒监控站点的服务器状态等信息",
+    "author": "叹号大帝",
+    "repo": "https://github.com/thTag/astrbot_plugin_nezhatz",
+    "tags": [
+      "哪吒",
+      "监控",
+      "nezha"
+    ],
+    "social_link": "https://www.th-dd.top"
+  },
   "astrbot-plugin-sensitivefilter": {
     "display_name": "群聊敏感词检测与自动处理",
     "desc": "群聊敏感词检测插件，支持本地词库/外部接口/AI 语义识别三种检测方式，可按群单独配置撤回、警告、通知等处理动作",
