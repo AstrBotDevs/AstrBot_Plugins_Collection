@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-polite-silence": {
+    "display_name": "礼貌性沉默",
+    "desc": "允许 AI 根据设定概率及提示词自主识别骚扰并拒绝回应，防范恶意持续打扰。",
+    "author": "KitsuneiMomo",
+    "repo": "https://github.com/KitsuneiMomo/astrbot_plugin_polite_silence",
+    "tags": [
+      "防骚扰",
+      "自主拒答",
+      "安全限制"
+    ],
+    "social_link": "https://github.com/KitsuneiMomo"
+  },
   "astrbot-plugin-spotify": {
     "display_name": "Spotify 智能点歌与控制插件",
     "desc": "让 Bot 拥有 Spotify 的完整控制权！支持自然语言点歌、排队、切歌、暂停，以及将好听的音乐一键加入收藏夹。",
