@@ -1,4 +1,11 @@
 {
+  "astrbot-plugin-memosnotes": {
+    "display_name": "Memos备忘录连接器",
+    "desc": "连接到自建 Memos 实例。支持 CRUD、置顶/归档、标签系统、LLM 知识库存取（自动保存/搜索知识）、自然语言写日记",
+    "author": "YuNaitang",
+    "repo": "https://github.com/YuNaitang/astrbot_plugin_memosnotes",
+    "social_link": "https://github.com/YuNaitang"
+  },
   "astrbot-plugin-oven-multi": {
     "display_name": "插座的多功能烤箱",
     "desc": "整合多种实用功能的插件，包含括号自动匹配、消息复读、移除空行、思考表情、风格学习、主动回复、余额查询和图片转述缓存等功能",
