@@ -1,4 +1,17 @@
 {
+  "astrbot-plugin-spotify": {
+    "display_name": "Spotify 智能点歌与控制插件",
+    "desc": "让 Bot 拥有 Spotify 的完整控制权！支持自然语言点歌、排队、切歌、暂停，以及将好听的音乐一键加入收藏夹。",
+    "author": "maolbsMd",
+    "repo": "https://github.com/maolbsMd/astrbot_plugin_spotify",
+    "tags": [
+      "音乐",
+      "娱乐",
+      "工具",
+      "Spotify"
+    ],
+    "social_link": "https://github.com/maolbsMd"
+  },
   "astrbot-plugin-image-caption-cache": {
     "display_name": "Image Caption Cache",
     "desc": "为 AstrBot 图片转述结果提供 TTL 与图片数量双策略缓存，减少重复图片的视觉模型调用",
