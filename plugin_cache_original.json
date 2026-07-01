@@ -266,10 +266,10 @@
       "缓存"
     ],
     "social_link": "https://github.com/leafliber",
-    "stars": 4,
+    "stars": 5,
     "version": "0.1.0",
     "astrbot_version": ">=4.24.2",
-    "updated_at": "2026-07-01T11:53:40Z",
+    "updated_at": "2026-07-01T16:06:13Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_cost_control/main/logo.png"
   },
   "astrbot-plugin-dsa-pusher": {
@@ -484,8 +484,8 @@
     ],
     "social_link": "https://github.com/Leafliber",
     "stars": 10,
-    "version": "0.1.2",
-    "updated_at": "2026-06-30T16:09:36Z",
+    "version": "0.2.0",
+    "updated_at": "2026-07-01T16:32:07Z",
     "logo": "https://raw.githubusercontent.com/Leafliber/astrbot_plugin_iris_chat_memory/main/logo.png"
   },
   "astrbot-plugin-minecraft-multi-monitor": {
@@ -4602,9 +4602,9 @@
     "social_link": "https://github.com/united-pooh",
     "category": "entertainment",
     "stars": 16,
-    "version": "v1.5.1",
+    "version": "v1.5.3",
     "astrbot_version": ">=4.26.2,<5",
-    "updated_at": "2026-06-30T15:58:13Z",
+    "updated_at": "2026-07-01T17:49:55Z",
     "logo": "https://raw.githubusercontent.com/united-pooh/astrbot_plugin_bangumi/main/logo.png"
   },
   "astrbot-plugin-three-body-wiki": {
@@ -5065,9 +5065,9 @@
     "social_link": "https://github.com/storyAura",
     "category": "entertainment",
     "tags": [],
-    "stars": 35,
+    "stars": 36,
     "version": "v2.0.0",
-    "updated_at": "2026-06-18T02:59:49Z",
+    "updated_at": "2026-07-01T16:42:41Z",
     "logo": "https://raw.githubusercontent.com/storyAura/astrbot_plugin_biliVideo/main/logo.png"
   },
   "astrbot-plugin-opencode-client": {
