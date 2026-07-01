@@ -266,10 +266,10 @@
       "缓存"
     ],
     "social_link": "https://github.com/leafliber",
-    "stars": 3,
+    "stars": 4,
     "version": "0.1.0",
     "astrbot_version": ">=4.24.2",
-    "updated_at": "2026-06-29T07:41:42Z",
+    "updated_at": "2026-07-01T11:53:40Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_cost_control/main/logo.png"
   },
   "astrbot-plugin-dsa-pusher": {
@@ -376,8 +376,8 @@
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
     "stars": 19,
-    "version": "1.3.3",
-    "updated_at": "2026-07-01T06:51:14Z"
+    "version": "1.3.4",
+    "updated_at": "2026-07-01T11:32:23Z"
   },
   "astrbot-plugin-Firefly-Blog-Manager": {
     "display_name": "Firefly 博客管理插件",
@@ -959,7 +959,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-01T08:48:33Z",
+    "updated_at": "2026-07-01T11:47:34Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -2466,7 +2466,7 @@
     "stars": 3,
     "version": "v0.8.8",
     "astrbot_version": ">=4.0",
-    "updated_at": "2026-07-01T03:02:29Z"
+    "updated_at": "2026-07-01T10:20:21Z"
   },
   "astrbot-plugin-uapipro-toolbox": {
     "display_name": "UApiPro 工具箱",
@@ -4404,9 +4404,9 @@
       "实用"
     ],
     "category": "productivity",
-    "stars": 13,
+    "stars": 14,
     "version": "5.5.0",
-    "updated_at": "2026-06-09T04:57:01Z"
+    "updated_at": "2026-07-01T11:13:03Z"
   },
   "astrbot-plugin-f1-notifier": {
     "display_name": "F1 Notifier",
@@ -9966,9 +9966,9 @@
     ],
     "social_link": "https://github.com/NekoiMeiov",
     "category": "utilities",
-    "stars": 18,
+    "stars": 19,
     "version": "v1.1.0",
-    "updated_at": "2026-06-25T06:21:24Z"
+    "updated_at": "2026-07-01T09:59:59Z"
   },
   "astrbot_plugin_mc_update": {
     "display_name": "Minecraft 基岩版更新日志提醒插件",
