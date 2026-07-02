@@ -2003,9 +2003,9 @@
     ],
     "social_link": "",
     "stars": 55,
-    "version": "3.3.21",
+    "version": "3.3.22",
     "astrbot_version": ">=4.16,<5",
-    "updated_at": "2026-06-30T14:51:45Z",
+    "updated_at": "2026-07-01T23:51:14Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -16141,9 +16141,9 @@
       "ccb"
     ],
     "category": "entertainment",
-    "stars": 11,
+    "stars": 12,
     "version": "v0.1.0",
-    "updated_at": "2026-06-14T09:41:59Z"
+    "updated_at": "2026-07-01T22:31:23Z"
   },
   "astrbot-gold-plugin": {
     "repo": "https://github.com/RC-CHN/astrbot-gold-plugin",
