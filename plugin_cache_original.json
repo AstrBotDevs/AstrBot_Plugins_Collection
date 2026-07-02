@@ -67,7 +67,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-01T06:44:20Z",
+    "updated_at": "2026-07-02T04:38:02Z",
     "logo": "https://raw.githubusercontent.com/huntersxy/astrbot_plugin_oven_multi/main/logo.png"
   },
   "astrbot-plugin-palette": {
@@ -81,9 +81,9 @@
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
     "stars": 13,
-    "version": "0.4.3",
+    "version": "0.4.5",
     "astrbot_version": ">=4.26.0-beta1",
-    "updated_at": "2026-07-01T15:35:16Z"
+    "updated_at": "2026-07-02T02:33:50Z"
   },
   "astrbot-plugin-polite-silence": {
     "display_name": "礼貌性沉默",
@@ -215,14 +215,14 @@
     "repo": "https://github.com/konley/astrbot_plugin_isittrue",
     "tags": [],
     "stars": 2,
-    "version": "1.0.4",
+    "version": "1.1.0",
     "astrbot_version": ">=3.5.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official",
       "telegram"
     ],
-    "updated_at": "2026-07-01T06:42:49Z",
+    "updated_at": "2026-07-02T04:40:22Z",
     "logo": "https://raw.githubusercontent.com/konley/astrbot_plugin_isittrue/main/logo.png"
   },
   "astrbot-plugin-just-enough-mcserver-status": {
@@ -953,13 +953,13 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 91,
+    "stars": 92,
     "version": "5.6.3",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-01T18:45:27Z",
+    "updated_at": "2026-07-02T03:39:56Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -2121,9 +2121,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 131,
+    "stars": 132,
     "version": "3.4.1",
-    "updated_at": "2026-07-01T08:30:18Z",
+    "updated_at": "2026-07-02T03:04:17Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -3010,10 +3010,10 @@
       "面板"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 24,
+    "stars": 25,
     "version": "v1.0.0",
     "astrbot_version": ">=4.11.2",
-    "updated_at": "2026-06-27T01:14:04Z",
+    "updated_at": "2026-07-02T03:53:36Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_live_dashboard/main/logo.png"
   },
   "astrbot-plugin-wol-miko": {
@@ -3653,7 +3653,7 @@
     "category": "entertainment",
     "stars": 2,
     "version": "0.1.0",
-    "updated_at": "2026-06-21T22:38:54Z",
+    "updated_at": "2026-07-02T04:45:45Z",
     "logo": "https://raw.githubusercontent.com/Bugelll/astrbot_plugin_unturned_servers/master/logo.png"
   },
   "astrbot-plugin-lofter": {
@@ -4782,9 +4782,9 @@
     ],
     "social_link": "https://github.com/LinJohn8",
     "category": "utilities",
-    "stars": 23,
+    "stars": 24,
     "version": "1.0.0",
-    "updated_at": "2026-06-14T20:43:53Z",
+    "updated_at": "2026-07-02T04:45:34Z",
     "logo": "https://raw.githubusercontent.com/LinJohn8/astrbot_plugin_custome_segment_reply/main/logo.png"
   },
   "astrbot-plugin-alteration-notifier": {
@@ -7608,9 +7608,9 @@
     "repo": "https://github.com/bylkuse/astrbot_plugin_help_typst",
     "category": "utilities",
     "tags": [],
-    "stars": 22,
+    "stars": 23,
     "version": "v0.1.1",
-    "updated_at": "2026-06-26T10:02:36Z",
+    "updated_at": "2026-07-02T04:22:52Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_help_typst/master/logo.png"
   },
   "astrbot_plugin_lb_provider": {
@@ -10810,8 +10810,8 @@
     ],
     "category": "integrations",
     "stars": 8,
-    "version": "1.2.6",
-    "updated_at": "2026-06-26T13:44:30Z",
+    "version": "1.3.0",
+    "updated_at": "2026-07-02T04:53:09Z",
     "logo": "https://raw.githubusercontent.com/1592363624/astrbot_plugin_github_monitor_shell/master/logo.png"
   },
   "astrbot_plugin_ragflow_adapter": {
@@ -12366,9 +12366,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 275,
+    "stars": 276,
     "version": "2.3.6",
-    "updated_at": "2026-06-30T19:30:02Z",
+    "updated_at": "2026-07-02T03:56:30Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -13101,9 +13101,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 70,
+    "stars": 71,
     "version": "v2.2.4",
-    "updated_at": "2026-06-26T10:07:36Z",
+    "updated_at": "2026-07-02T01:20:55Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -15447,9 +15447,9 @@
     ],
     "social_link": "https://github.com/GEMILUXVII",
     "category": "utilities",
-    "stars": 27,
+    "stars": 28,
     "version": "v2.0.2",
-    "updated_at": "2026-04-27T15:49:37Z"
+    "updated_at": "2026-07-02T04:26:24Z"
   },
   "astrbot_plugin_liblibapi": {
     "author": "machinad",
@@ -16826,9 +16826,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
     "category": "integrations",
-    "stars": 88,
+    "stars": 87,
     "version": "v3.1.0",
-    "updated_at": "2026-06-30T10:07:52Z",
+    "updated_at": "2026-07-02T02:40:39Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
