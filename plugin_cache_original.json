@@ -859,13 +859,13 @@
       "互动"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 30,
+    "stars": 31,
     "version": "1.6.2",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-30T05:39:13Z",
+    "updated_at": "2026-07-02T11:35:23Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_live_stream_companion/main/logo.png"
   },
   "astrbot-plugin-open-notebook": {
@@ -4075,9 +4075,9 @@
     "social_link": "https://www.xiaohongshu.com/user/profile/6986d59f0000000024012e78",
     "category": "ai_tools",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "0.3.0",
-    "updated_at": "2026-06-28T10:43:12Z"
+    "updated_at": "2026-07-02T13:49:55Z"
   },
   "astrbot-plugin-steam-friend-monitor": {
     "display_name": "Steam 玩家状态监控",
@@ -4603,9 +4603,9 @@
     "social_link": "https://github.com/united-pooh",
     "category": "entertainment",
     "stars": 16,
-    "version": "v1.5.3",
+    "version": "v1.5.5",
     "astrbot_version": ">=4.26.2,<5",
-    "updated_at": "2026-07-01T17:49:55Z",
+    "updated_at": "2026-07-02T13:49:50Z",
     "logo": "https://raw.githubusercontent.com/united-pooh/astrbot_plugin_bangumi/main/logo.png"
   },
   "astrbot-plugin-three-body-wiki": {
@@ -7580,9 +7580,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 362,
+    "stars": 363,
     "version": "3.4.5",
-    "updated_at": "2026-07-02T07:02:38Z",
+    "updated_at": "2026-07-02T12:23:47Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -8851,7 +8851,7 @@
     "category": "utilities",
     "stars": 159,
     "version": "v1.5.1",
-    "updated_at": "2026-07-02T11:34:15Z",
+    "updated_at": "2026-07-02T11:39:37Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -8972,14 +8972,14 @@
       "表情"
     ],
     "category": "entertainment",
-    "stars": 58,
-    "version": "2.7.1",
+    "stars": 59,
+    "version": "2.7.2",
     "astrbot_version": ">=4.24.1",
     "support_platforms": [
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-06-28T09:33:54Z",
+    "updated_at": "2026-07-02T13:02:18Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -10837,7 +10837,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 328,
+    "stars": 329,
     "version": "v1.2.4",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -10849,7 +10849,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-06-30T07:49:19Z",
+    "updated_at": "2026-07-02T13:11:45Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -12534,9 +12534,9 @@
       "磁链"
     ],
     "category": "entertainment",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.0",
-    "updated_at": "2026-03-18T06:19:53Z"
+    "updated_at": "2026-07-02T13:12:10Z"
   },
   "astrbot_plugin_restrict_syscmd": {
     "desc": "限制仅管理员可用某些指令（支持自定义），静默处理不回复，防止bot被测，防止被恶意new、reset等",
@@ -17727,9 +17727,9 @@
       "图床"
     ],
     "category": "entertainment",
-    "stars": 333,
+    "stars": 334,
     "version": "v3.21",
-    "updated_at": "2026-06-30T10:07:51Z"
+    "updated_at": "2026-07-02T13:12:27Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
