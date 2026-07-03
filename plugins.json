@@ -1,4 +1,11 @@
 {
+  "astrbot-plugin-dynamic-life-state": {
+    "display_name": "动态生活状态插件",
+    "desc": "为 Bot 生成一天的生活时间线，并在每次对话时注入当前时间段对应的状态。",
+    "author": "Hola-Gracias",
+    "repo": "https://github.com/Hola-Gracias/astrbot_plugin_dynamic_life_state",
+    "social_link": "https://github.com/Hola-Gracias"
+  },
   "astrbot-plugin-nezhatz": {
     "display_name": "哪吒探针",
     "desc": "查看哪吒监控站点的服务器状态等信息",
