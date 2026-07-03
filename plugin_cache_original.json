@@ -43,9 +43,9 @@
       "Playwright"
     ],
     "social_link": "https://github.com/dragonuniverse8248",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.1",
-    "updated_at": "2026-07-03T07:51:16Z",
+    "updated_at": "2026-07-03T18:06:54Z",
     "logo": "https://raw.githubusercontent.com/dragonuniverse8248/astrbot_plugin_bartender/main/logo.png"
   },
   "astrbot-plugin-halo-whisper": {
@@ -1031,13 +1031,13 @@
       "互动"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 31,
+    "stars": 32,
     "version": "1.6.2",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-02T11:35:23Z",
+    "updated_at": "2026-07-03T17:45:04Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_live_stream_companion/main/logo.png"
   },
   "astrbot-plugin-open-notebook": {
@@ -1126,13 +1126,13 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 92,
+    "stars": 95,
     "version": "5.6.7",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-03T13:51:55Z",
+    "updated_at": "2026-07-03T17:40:41Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -4665,9 +4665,9 @@
     ],
     "social_link": "https://github.com/RichardLiuda",
     "category": "entertainment",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.2.0",
-    "updated_at": "2026-06-26T10:07:41Z",
+    "updated_at": "2026-07-03T17:33:48Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_oyasumi/master/logo.png"
   },
   "astrbot-plugin-LivelyState": {
@@ -4890,9 +4890,9 @@
     ],
     "social_link": "https://github.com/menglimi",
     "category": "ai_tools",
-    "stars": 55,
+    "stars": 56,
     "version": "3.2.0",
-    "updated_at": "2026-07-03T08:13:17Z",
+    "updated_at": "2026-07-03T17:40:46Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -6136,9 +6136,9 @@
       "codegen"
     ],
     "category": "ai_tools",
-    "stars": 63,
+    "stars": 64,
     "version": "1.4.3",
-    "updated_at": "2026-07-01T15:32:09Z",
+    "updated_at": "2026-07-03T16:48:01Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -8399,12 +8399,12 @@
     "social_link": "https://github.com/WhiteCloudOL",
     "category": "utilities",
     "stars": 5,
-    "version": "v1.5.3",
+    "version": "v1.6.0",
     "astrbot_version": ">=4.12.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-24T00:18:20Z",
+    "updated_at": "2026-07-03T16:36:12Z",
     "logo": "https://raw.githubusercontent.com/WhiteCloudOL/astrbot_plugin_joinmanager/master/logo.png"
   },
   "astrbot_plugin_group_signin": {
