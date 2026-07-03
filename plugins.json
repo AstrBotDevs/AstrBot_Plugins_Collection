@@ -1,4 +1,17 @@
 {
+  "astrbot-plugin-anima-master": {
+    "display_name": "Anima 绘图大师",
+    "desc": "将 AstrBot 连接到本地 ComfyUI / Anima 工作流，提供生图、提示词优化、法术解析和图片反推能力。",
+    "author": "YayiMiko",
+    "repo": "https://github.com/YayiMiko/anima-master",
+    "tags": [
+      "comfyui",
+      "anima",
+      "image-generation",
+      "danbooru"
+    ],
+    "social_link": "https://github.com/YayiMiko/anima-master"
+  },
   "astrbot-plugin-fund": {
     "display_name": "基金小助手",
     "desc": "支持基金净值估算、AI智能预测、综合评级、基金经理评价及金银价格查询",
