@@ -1,4 +1,17 @@
 {
+  "astrbot-plugin-looki-companion": {
+    "display_name": "Looki 陪伴记忆",
+    "desc": "为了让助手能了解我们的现实世界，把 Looki 的实时事件与最近 12 小时 moments 整合成“我们”视角的共同经历摘要。",
+    "author": "瑞贝特",
+    "repo": "https://github.com/RabbitZheng4424/astrbot_plugin_looki_companion",
+    "tags": [
+      "looki",
+      "陪伴",
+      "记忆",
+      "现实世界"
+    ],
+    "social_link": "https://rabbitz.icu"
+  },
   "astrbot-plugin-deepseek-automatic-switch": {
     "display_name": "DeepSeek 自动切换",
     "desc": "在每日高峰期涨价时，在 LLM 请求发出前自动切换模型。",
