@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-deepseek-automatic-switch": {
+    "display_name": "DeepSeek 自动切换",
+    "desc": "在每日高峰期涨价时，在 LLM 请求发出前自动切换模型。",
+    "author": "CMKH",
+    "repo": "https://github.com/CMKH1337/astrbot_plugin_deepseek_automatic_switch",
+    "tags": [
+      "token",
+      "成本"
+    ],
+    "social_link": "https://github.com/CMKH1337/astrbot_plugin_deepseek_automatic_switch"
+  },
   "astrbot-plugin-instant-memo": {
     "display_name": "速记备忘录",
     "desc": "AI自我备忘录与主动定时提醒插件，支持状态备忘、定时/周期任务、关键词搭话，同时提供 Tool Call 与 XML Tag 双触发模式",
