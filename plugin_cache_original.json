@@ -352,7 +352,7 @@
       "漫画订阅"
     ],
     "stars": 5,
-    "version": "0.4.2",
+    "version": "0.4.3",
     "support_platforms": [
       "aiocqhttp",
       "telegram",
@@ -364,7 +364,7 @@
       "slack",
       "kook"
     ],
-    "updated_at": "2026-07-02T20:08:18Z",
+    "updated_at": "2026-07-03T05:01:37Z",
     "logo": "https://raw.githubusercontent.com/FFFold/astrbot_plugin_suwayomi_server/main/logo.png"
   },
   "astrbot-plugin-AstrNa": {
@@ -955,12 +955,12 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 92,
-    "version": "5.6.6",
+    "version": "5.6.7",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-02T18:26:38Z",
+    "updated_at": "2026-07-03T06:25:10Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -1214,7 +1214,7 @@
       "anysearch"
     ],
     "stars": 4,
-    "version": "v0.2.1",
+    "version": "v0.3",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp",
@@ -1222,7 +1222,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-07-01T06:33:22Z",
+    "updated_at": "2026-07-03T07:48:41Z",
     "logo": "https://raw.githubusercontent.com/AgIzT/astrbot_plugin_anysearch/main/logo.png"
   },
   "astrbot_plugin_e2b_code": {
@@ -2122,9 +2122,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 132,
+    "stars": 133,
     "version": "3.5.0",
-    "updated_at": "2026-07-02T07:53:15Z",
+    "updated_at": "2026-07-03T07:15:29Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -8394,9 +8394,9 @@
       "人格"
     ],
     "category": "ai_tools",
-    "stars": 160,
+    "stars": 161,
     "version": "1.4.20",
-    "updated_at": "2026-07-02T14:56:32Z",
+    "updated_at": "2026-07-03T07:46:54Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -10498,9 +10498,9 @@
     ],
     "social_link": "https://github.com/Luna-channel",
     "category": "ai_tools",
-    "stars": 32,
+    "stars": 33,
     "version": "3.0.2",
-    "updated_at": "2026-06-27T14:36:10Z",
+    "updated_at": "2026-07-03T07:53:07Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_Conversa/main/logo.png"
   },
   "astrbot_plugin_shutdown": {
@@ -14837,8 +14837,8 @@
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
     "stars": 78,
-    "version": "2.2.0",
-    "updated_at": "2026-07-03T03:35:37Z",
+    "version": "3.0.0",
+    "updated_at": "2026-07-03T06:17:38Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -16036,9 +16036,9 @@
     ],
     "social_link": "https://github.com/vmoranv-reborn",
     "category": "entertainment",
-    "stars": 48,
+    "stars": 49,
     "version": "1.7.4",
-    "updated_at": "2026-07-03T03:48:05Z",
+    "updated_at": "2026-07-03T06:46:04Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
@@ -17727,9 +17727,9 @@
       "图床"
     ],
     "category": "entertainment",
-    "stars": 334,
+    "stars": 335,
     "version": "v3.21",
-    "updated_at": "2026-07-02T13:12:27Z"
+    "updated_at": "2026-07-03T05:57:08Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
