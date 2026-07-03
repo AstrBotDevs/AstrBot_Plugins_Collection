@@ -26,10 +26,10 @@
       "基金"
     ],
     "social_link": "https://github.com/Novforest",
-    "stars": 0,
+    "stars": 4,
     "version": "1.0.0",
     "astrbot_version": ">=4.5.7",
-    "updated_at": "2026-07-02T06:33:10Z",
+    "updated_at": "2026-07-03T20:05:33Z",
     "logo": "https://raw.githubusercontent.com/Novforest/astrbot_plugin_fund/master/logo.png"
   },
   "astrbot-plugin-bartender": {
@@ -5210,10 +5210,10 @@
     ],
     "social_link": "https://github.com/tniany",
     "category": "utilities",
-    "stars": 14,
+    "stars": 15,
     "version": "v1.3.3",
     "support_platforms": "OneBot",
-    "updated_at": "2026-06-14T08:21:39Z",
+    "updated_at": "2026-07-03T19:46:53Z",
     "logo": "https://raw.githubusercontent.com/tniany/astrbot_plugin_web-screenshot/main/logo.png"
   },
   "astrbot-plugin-astrbot-enhance-mode": {
@@ -13218,9 +13218,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
-    "stars": 56,
+    "stars": 57,
     "version": "v2.2.2",
-    "updated_at": "2026-06-26T10:14:03Z",
+    "updated_at": "2026-07-03T19:15:36Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wakepro/main/logo.png"
   },
   "astrbot_plugin_memora_connect": {
