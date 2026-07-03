@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-halo-whisper": {
+    "display_name": "Halo 瞬间发布",
+    "desc": "通过 AstrBot 将文字和图片发布到 Halo 瞬间。",
+    "author": "MikeYaoyu",
+    "repo": "https://github.com/MikeYaoyu/astrbot_plugin_halo_whisper",
+    "tags": [
+      "博客",
+      "增强"
+    ],
+    "social_link": "https://itcainiao.space"
+  },
   "astrbot-plugin-phimg": {
     "display_name": "Philomena API 搜图",
     "desc": "让机器人通过 Philomena API 在使用 Philomena 搭建的图站上使用 tags 搜图。",
