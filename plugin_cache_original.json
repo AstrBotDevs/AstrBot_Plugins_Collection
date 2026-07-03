@@ -13103,8 +13103,8 @@
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
     "stars": 71,
-    "version": "v2.2.4",
-    "updated_at": "2026-07-02T01:20:55Z",
+    "version": "v2.2.5",
+    "updated_at": "2026-07-03T02:09:21Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -14836,9 +14836,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 77,
+    "stars": 78,
     "version": "2.2.0",
-    "updated_at": "2026-06-27T23:19:35Z",
+    "updated_at": "2026-07-03T03:35:37Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -16036,9 +16036,9 @@
     ],
     "social_link": "https://github.com/vmoranv-reborn",
     "category": "entertainment",
-    "stars": 47,
+    "stars": 48,
     "version": "1.7.4",
-    "updated_at": "2026-06-29T04:29:59Z",
+    "updated_at": "2026-07-03T03:48:05Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
@@ -16937,9 +16937,9 @@
     "social_link": "https://github.com/xiewoc",
     "category": "utilities",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "v1.0.3",
-    "updated_at": "2026-03-21T04:21:11Z"
+    "updated_at": "2026-07-03T02:54:59Z"
   },
   "astrbot_plugin_CounterStrikle": {
     "desc": "Blast-TV 上的 Counter-Strikle 小游戏，图片卡片渲染。",
