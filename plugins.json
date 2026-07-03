@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-fund": {
+    "display_name": "基金小助手",
+    "desc": "支持基金净值估算、AI智能预测、综合评级、基金经理评价及金银价格查询",
+    "author": "Novforest",
+    "repo": "https://github.com/Novforest/astrbot_plugin_fund",
+    "tags": [
+      "生活实用",
+      "效率",
+      "基金"
+    ],
+    "social_link": "https://github.com/Novforest"
+  },
   "astrbot-plugin-bartender": {
     "display_name": "调酒师",
     "desc": "基于playwright无头浏览器库，对sillytavern项目进行操作和交互，达成通过机器人远程游玩Sillytavern，以及高于联机脚本的游玩体验貂蝉在一起",
