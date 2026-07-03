@@ -9033,10 +9033,10 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "utilities",
-    "stars": 71,
+    "stars": 72,
     "version": "v1.5.2",
     "astrbot_version": ">=4.11.2",
-    "updated_at": "2026-06-30T10:40:10Z",
+    "updated_at": "2026-07-03T00:00:18Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -10837,7 +10837,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 328,
+    "stars": 329,
     "version": "v1.2.4",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -10849,7 +10849,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-07-02T17:46:07Z",
+    "updated_at": "2026-07-03T00:00:41Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
