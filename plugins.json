@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-phimg": {
+    "display_name": "Philomena API 搜图",
+    "desc": "让机器人通过 Philomena API 在使用 Philomena 搭建的图站上使用 tags 搜图。",
+    "author": "muyni233",
+    "repo": "https://github.com/muyni233/astrbot_plugin_phimg",
+    "tags": [
+      "image",
+      "mlp",
+      "philomena"
+    ],
+    "social_link": "https://github.com/muyni233"
+  },
   "astrbot-plugin-vpn-traffic": {
     "display_name": "订阅流量查询",
     "desc": "一个用于查询 Clash/V2Ray 订阅剩余流量的 AstrBot 插件。",
