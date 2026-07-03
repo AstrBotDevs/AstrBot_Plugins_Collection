@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-instant-memo": {
+    "display_name": "速记备忘录",
+    "desc": "AI自我备忘录与主动定时提醒插件，支持状态备忘、定时/周期任务、关键词搭话，同时提供 Tool Call 与 XML Tag 双触发模式",
+    "author": "kitsuneimomo",
+    "repo": "https://github.com/KitsuneiMomo/astrbot_plugin_instant_memo",
+    "tags": [
+      "备忘录",
+      "定时任务"
+    ],
+    "social_link": "https://github.com/KitsuneiMomo"
+  },
   "astrbot-plugin-dynamic-life-state": {
     "display_name": "动态生活状态插件",
     "desc": "为 Bot 生成一天的生活时间线，并在每次对话时注入当前时间段对应的状态。",
