@@ -1159,12 +1159,12 @@
       "gif处理",
       "趣味表情"
     ],
-    "stars": 5,
+    "stars": 6,
     "version": "v1.2.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-04T17:51:50Z",
+    "updated_at": "2026-07-04T22:32:00Z",
     "logo": "https://raw.githubusercontent.com/lirundong093-glitch/astrbot_plugin_pic_toolbox/master/logo.png"
   },
   "astrbot-plugin-hs-rank": {
@@ -1921,7 +1921,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-04T21:45:04Z",
+    "updated_at": "2026-07-04T22:05:16Z",
     "logo": "https://raw.githubusercontent.com/vivy1024/astrbot_plugin_wave_memory/master/logo.png"
   },
   "astrbot_plugin_maimai_updater": {
@@ -18137,9 +18137,9 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_essential",
     "category": "entertainment",
     "tags": [],
-    "stars": 54,
+    "stars": 55,
     "version": "v1.1.0",
-    "updated_at": "2026-06-05T09:22:37Z"
+    "updated_at": "2026-07-04T22:33:54Z"
   },
   "astrbot_plugin_rss": {
     "desc": "支持通过 RSSHub 路由和直接 URL 订阅 RSS 源，并定时获取最新的 RSS 内容，如推特、B站、油管、博客等任何支持 RSS 2.0 的网站。",
