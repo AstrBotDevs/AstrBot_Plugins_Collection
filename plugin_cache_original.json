@@ -1921,7 +1921,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-04T18:45:21Z",
+    "updated_at": "2026-07-04T21:45:04Z",
     "logo": "https://raw.githubusercontent.com/vivy1024/astrbot_plugin_wave_memory/master/logo.png"
   },
   "astrbot_plugin_maimai_updater": {
@@ -17836,9 +17836,9 @@
       "功能"
     ],
     "category": "integrations",
-    "stars": 30,
+    "stars": 31,
     "version": "1.1.1",
-    "updated_at": "2026-07-04T07:21:43Z"
+    "updated_at": "2026-07-04T20:11:52Z"
   },
   "astrbot_plugin_moyuren": {
     "desc": "每天定时推送摸鱼人日历",
