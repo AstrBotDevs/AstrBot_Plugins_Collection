@@ -1126,13 +1126,13 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 96,
+    "stars": 97,
     "version": "5.6.10",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-04T13:31:27Z",
+    "updated_at": "2026-07-04T15:35:13Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -1234,9 +1234,9 @@
       "webchat"
     ],
     "social_link": "https://github.com/insolitude610",
-    "stars": 11,
+    "stars": 12,
     "version": "0.7.12",
-    "updated_at": "2026-06-30T02:39:04Z",
+    "updated_at": "2026-07-04T15:37:16Z",
     "logo": "https://raw.githubusercontent.com/insolitude610/astrbot_plugin_galgame_web/main/logo.png"
   },
   "astrbot-plugin-feishu-todo": {
@@ -2006,10 +2006,10 @@
     "repo": "https://github.com/Ayleovelle/astrbot_plugin_sylanne",
     "social_link": "https://github.com/Ayleovelle",
     "tags": [],
-    "stars": 51,
+    "stars": 52,
     "version": "2.2.0",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-07-01T05:25:35Z",
+    "updated_at": "2026-07-04T15:44:06Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -4560,10 +4560,10 @@
     "tags": [],
     "social_link": "",
     "category": "utilities",
-    "stars": 11,
+    "stars": 12,
     "version": "v2.5.2",
     "astrbot_version": ">=4.26.0",
-    "updated_at": "2026-07-04T06:11:42Z",
+    "updated_at": "2026-07-04T15:53:52Z",
     "logo": "https://raw.githubusercontent.com/Waterwzy/astrbot_plugin_firefly_filter/master/logo.png"
   },
   "astrbot-plugin-cet6": {
@@ -6107,9 +6107,9 @@
     "repo": "https://github.com/coolwind886-spec/astrbot_plugin_live2d_pet/",
     "category": "entertainment",
     "tags": [],
-    "stars": 10,
+    "stars": 11,
     "version": "v4.3.0",
-    "updated_at": "2026-06-15T19:11:18Z"
+    "updated_at": "2026-07-04T15:59:43Z"
   },
   "astrbot_plugin_steam_updates": {
     "display_name": "Steam 游戏更新推送插件",
@@ -13235,7 +13235,7 @@
     "category": "ai_tools",
     "stars": 34,
     "version": "v0.5.2",
-    "updated_at": "2026-07-04T14:36:14Z"
+    "updated_at": "2026-07-04T14:55:19Z"
   },
   "astrbot_plugin_iearning_style": {
     "desc": "使机器人可以从聊天中学习他人说话方式",
@@ -15016,9 +15016,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 78,
+    "stars": 79,
     "version": "3.1.1",
-    "updated_at": "2026-07-04T11:11:37Z",
+    "updated_at": "2026-07-04T15:03:33Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
