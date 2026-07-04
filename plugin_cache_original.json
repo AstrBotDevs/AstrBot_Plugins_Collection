@@ -1921,7 +1921,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-04T17:11:37Z",
+    "updated_at": "2026-07-04T18:45:21Z",
     "logo": "https://raw.githubusercontent.com/vivy1024/astrbot_plugin_wave_memory/master/logo.png"
   },
   "astrbot_plugin_maimai_updater": {
@@ -7223,9 +7223,9 @@
     ],
     "social_link": "https://qwq.pyuramazo.online",
     "category": "entertainment",
-    "stars": 29,
+    "stars": 30,
     "version": "v1.13.0",
-    "updated_at": "2026-06-24T09:33:29Z",
+    "updated_at": "2026-07-04T18:41:20Z",
     "logo": "https://raw.githubusercontent.com/PyuraMazo/astrbot_plugin_galgame_box/master/logo.png"
   },
   "astrbot_plugin_anitabi": {
@@ -9144,14 +9144,14 @@
       "表情"
     ],
     "category": "entertainment",
-    "stars": 60,
+    "stars": 61,
     "version": "2.7.4",
     "astrbot_version": ">=4.24.1",
     "support_platforms": [
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-07-04T11:31:43Z",
+    "updated_at": "2026-07-04T19:00:21Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -15017,8 +15017,8 @@
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
     "stars": 79,
-    "version": "3.1.2",
-    "updated_at": "2026-07-04T17:50:25Z",
+    "version": "3.1.4",
+    "updated_at": "2026-07-04T18:17:33Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
