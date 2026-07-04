@@ -26,10 +26,10 @@
       "基金"
     ],
     "social_link": "https://github.com/Novforest",
-    "stars": 18,
+    "stars": 19,
     "version": "1.0.0",
     "astrbot_version": ">=4.5.7",
-    "updated_at": "2026-07-04T12:59:44Z",
+    "updated_at": "2026-07-04T16:05:26Z",
     "logo": "https://raw.githubusercontent.com/Novforest/astrbot_plugin_fund/master/logo.png"
   },
   "astrbot-plugin-bartender": {
@@ -1159,12 +1159,12 @@
       "gif处理",
       "趣味表情"
     ],
-    "stars": 4,
+    "stars": 5,
     "version": "v1.2.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-29T16:23:41Z",
+    "updated_at": "2026-07-04T17:51:50Z",
     "logo": "https://raw.githubusercontent.com/lirundong093-glitch/astrbot_plugin_pic_toolbox/master/logo.png"
   },
   "astrbot-plugin-hs-rank": {
@@ -1921,7 +1921,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-04T01:38:21Z",
+    "updated_at": "2026-07-04T17:11:37Z",
     "logo": "https://raw.githubusercontent.com/vivy1024/astrbot_plugin_wave_memory/master/logo.png"
   },
   "astrbot_plugin_maimai_updater": {
@@ -9130,9 +9130,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "entertainment",
-    "stars": 26,
+    "stars": 27,
     "version": "v2.4.1",
-    "updated_at": "2026-07-02T05:10:08Z",
+    "updated_at": "2026-07-04T17:48:42Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_life_scheduler/main/logo.png"
   },
   "astrbot_plugin_stealer": {
@@ -12539,9 +12539,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 276,
+    "stars": 277,
     "version": "2.3.6",
-    "updated_at": "2026-07-04T09:12:02Z",
+    "updated_at": "2026-07-04T16:05:04Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -14385,7 +14385,7 @@
     "desc": "通过调用 AnimeTrace 网站提供的 API 进行动漫识图",
     "category": "ai_tools",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "v4.0",
     "support_platforms": [
       "telegram",
@@ -14395,7 +14395,7 @@
       "weixin_oc",
       "weixin_official_account"
     ],
-    "updated_at": "2026-07-04T12:47:36Z",
+    "updated_at": "2026-07-04T17:36:57Z",
     "logo": "https://raw.githubusercontent.com/Aurora-xk/astrbot_plugin_shitu/main/logo.png"
   },
   "astrbot_plugin_cheru": {
@@ -15017,8 +15017,8 @@
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
     "stars": 79,
-    "version": "3.1.1",
-    "updated_at": "2026-07-04T15:03:33Z",
+    "version": "3.1.2",
+    "updated_at": "2026-07-04T17:50:25Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
