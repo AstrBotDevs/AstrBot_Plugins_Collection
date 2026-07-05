@@ -26,10 +26,10 @@
       "基金"
     ],
     "social_link": "https://github.com/Novforest",
-    "stars": 19,
+    "stars": 20,
     "version": "1.0.0",
     "astrbot_version": ">=4.5.7",
-    "updated_at": "2026-07-04T16:05:26Z",
+    "updated_at": "2026-07-05T03:02:23Z",
     "logo": "https://raw.githubusercontent.com/Novforest/astrbot_plugin_fund/master/logo.png"
   },
   "astrbot-plugin-bartender": {
@@ -408,7 +408,7 @@
     "social_link": "https://github.com/NightVoyager14",
     "stars": 1,
     "version": "v1.0.1",
-    "updated_at": "2026-07-04T10:10:40Z",
+    "updated_at": "2026-07-05T01:04:03Z",
     "logo": "https://raw.githubusercontent.com/NightVoyager14/astrbot_plugin_just_enough_mcserver_status/main/logo.png"
   },
   "astrbot-plugin-tattle": {
@@ -438,10 +438,10 @@
       "缓存"
     ],
     "social_link": "https://github.com/leafliber",
-    "stars": 5,
+    "stars": 6,
     "version": "0.1.0",
     "astrbot_version": ">=4.24.2",
-    "updated_at": "2026-07-04T11:34:39Z",
+    "updated_at": "2026-07-05T02:51:15Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_cost_control/main/logo.png"
   },
   "astrbot-plugin-dsa-pusher": {
@@ -524,7 +524,7 @@
       "漫画订阅"
     ],
     "stars": 5,
-    "version": "0.4.5",
+    "version": "0.4.6",
     "support_platforms": [
       "aiocqhttp",
       "telegram",
@@ -536,7 +536,7 @@
       "slack",
       "kook"
     ],
-    "updated_at": "2026-07-04T10:44:32Z",
+    "updated_at": "2026-07-05T01:21:15Z",
     "logo": "https://raw.githubusercontent.com/FFFold/astrbot_plugin_suwayomi_server/main/logo.png"
   },
   "astrbot-plugin-AstrNa": {
@@ -548,9 +548,9 @@
       "优化"
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
-    "stars": 23,
+    "stars": 25,
     "version": "1.3.5",
-    "updated_at": "2026-07-03T11:02:25Z"
+    "updated_at": "2026-07-05T03:24:34Z"
   },
   "astrbot-plugin-Firefly-Blog-Manager": {
     "display_name": "Firefly 博客管理插件",
@@ -1031,13 +1031,13 @@
       "互动"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 32,
+    "stars": 33,
     "version": "1.6.2",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-03T17:45:04Z",
+    "updated_at": "2026-07-05T03:17:39Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_live_stream_companion/main/logo.png"
   },
   "astrbot-plugin-open-notebook": {
@@ -1385,7 +1385,7 @@
       "联网",
       "anysearch"
     ],
-    "stars": 4,
+    "stars": 5,
     "version": "v0.3",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
@@ -1394,7 +1394,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-07-03T07:48:41Z",
+    "updated_at": "2026-07-05T02:24:32Z",
     "logo": "https://raw.githubusercontent.com/AgIzT/astrbot_plugin_anysearch/main/logo.png"
   },
   "astrbot_plugin_e2b_code": {
@@ -1423,13 +1423,13 @@
       "robomaster"
     ],
     "social_link": "https://github.com/asterShining",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.2",
     "astrbot_version": ">=4.25.0,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-09T08:14:31Z"
+    "updated_at": "2026-07-05T01:24:04Z"
   },
   "astrbot_plugin_xnbot": {
     "display_name": "XNBot",
@@ -1600,9 +1600,9 @@
       "token plan"
     ],
     "social_link": "https://github.com/piexian",
-    "stars": 6,
+    "stars": 7,
     "version": "0.2.6",
-    "updated_at": "2026-06-26T02:14:58Z",
+    "updated_at": "2026-07-05T02:35:33Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_mmx_cli_tool/master/logo.png"
   },
   "astrbot_plugin_MiniMax_CLI": {
@@ -2121,7 +2121,7 @@
     "tags": [
       "RoboMaster"
     ],
-    "stars": 6,
+    "stars": 7,
     "version": "0.9.0",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
@@ -2129,7 +2129,7 @@
       "qq_official",
       "lark"
     ],
-    "updated_at": "2026-05-22T04:37:38Z",
+    "updated_at": "2026-07-05T00:58:27Z",
     "logo": "https://raw.githubusercontent.com/CUBOT-robomaster/astrbot_plugin_robomaster_assistant/main/logo.png"
   },
   "astrbot-plugin-api-rate-limiter": {
@@ -4859,9 +4859,9 @@
     ],
     "social_link": "https://github.com/RichardLiuda",
     "category": "utilities",
-    "stars": 32,
+    "stars": 34,
     "version": "v3.5.0",
-    "updated_at": "2026-06-30T16:44:33Z",
+    "updated_at": "2026-07-05T03:14:46Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -6509,8 +6509,13 @@
     "social_link": "https://meilunova.pages.dev/",
     "category": "integrations",
     "stars": 27,
-    "version": "0.8.1",
-    "updated_at": "2026-07-04T03:40:28Z",
+    "version": "0.9.0",
+    "astrbot_version": ">=4.13.0,<5",
+    "support_platforms": [
+      "aiocqhttp",
+      "telegram"
+    ],
+    "updated_at": "2026-07-05T02:13:01Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -8566,9 +8571,9 @@
       "人格"
     ],
     "category": "ai_tools",
-    "stars": 161,
+    "stars": 162,
     "version": "1.4.20",
-    "updated_at": "2026-07-03T07:46:54Z",
+    "updated_at": "2026-07-05T03:20:54Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -8582,9 +8587,9 @@
       "群聊优化"
     ],
     "category": "ai_tools",
-    "stars": 114,
+    "stars": 115,
     "version": "0.9.3",
-    "updated_at": "2026-07-04T08:06:26Z",
+    "updated_at": "2026-07-05T03:20:52Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -9966,7 +9971,7 @@
     "tags": [],
     "stars": 5,
     "version": "v0.1.6",
-    "updated_at": "2026-06-28T10:16:48Z"
+    "updated_at": "2026-07-05T00:39:59Z"
   },
   "astrbot_plugin_hardwareinfo": {
     "display_name": "硬件信息查询",
@@ -14385,7 +14390,7 @@
     "desc": "通过调用 AnimeTrace 网站提供的 API 进行动漫识图",
     "category": "ai_tools",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "v4.0",
     "support_platforms": [
       "telegram",
@@ -14395,7 +14400,7 @@
       "weixin_oc",
       "weixin_official_account"
     ],
-    "updated_at": "2026-07-04T17:36:57Z",
+    "updated_at": "2026-07-05T02:55:09Z",
     "logo": "https://raw.githubusercontent.com/Aurora-xk/astrbot_plugin_shitu/main/logo.png"
   },
   "astrbot_plugin_cheru": {
@@ -16795,13 +16800,13 @@
       "QQ群管"
     ],
     "category": "utilities",
-    "stars": 156,
+    "stars": 157,
     "version": "v3.3.0",
     "astrbot_version": ">=4.24.2",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-30T10:07:52Z",
+    "updated_at": "2026-07-05T01:12:08Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -17838,7 +17843,7 @@
     "category": "integrations",
     "stars": 31,
     "version": "1.1.1",
-    "updated_at": "2026-07-04T20:11:52Z"
+    "updated_at": "2026-07-05T02:34:44Z"
   },
   "astrbot_plugin_moyuren": {
     "desc": "每天定时推送摸鱼人日历",
