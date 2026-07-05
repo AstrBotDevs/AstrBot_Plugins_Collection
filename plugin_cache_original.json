@@ -1916,12 +1916,12 @@
     "social_link": "https://github.com/lioensky/VCPChat | https://github.com/lioensky/VCPToolBox",
     "tags": [],
     "stars": 12,
-    "version": "v4.1.0",
+    "version": "v4.2.0",
     "astrbot_version": ">=4.14.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-05T08:01:57Z",
+    "updated_at": "2026-07-05T19:48:06Z",
     "logo": "https://raw.githubusercontent.com/vivy1024/astrbot_plugin_wave_memory/master/logo.png"
   },
   "astrbot_plugin_maimai_updater": {
@@ -3878,9 +3878,9 @@
     "social_link": "",
     "category": "ai_tools",
     "stars": 38,
-    "version": "1.1.3",
+    "version": "1.1.4",
     "astrbot_version": ">=4.20.0",
-    "updated_at": "2026-06-30T02:04:42Z",
+    "updated_at": "2026-07-05T20:04:44Z",
     "logo": "https://raw.githubusercontent.com/Kalospacer/astrbot_plugin_maid_agent/master/logo.png"
   },
   "astrbot-plugin-stoprushingiamtyping": {
@@ -3975,7 +3975,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 402,
+    "stars": 403,
     "version": "v4.10.6",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -3984,7 +3984,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-07-05T15:15:21Z",
+    "updated_at": "2026-07-05T18:07:56Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -7079,7 +7079,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 402,
+    "stars": 403,
     "version": "v4.10.6",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -7088,7 +7088,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-07-05T15:15:21Z",
+    "updated_at": "2026-07-05T18:07:56Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
