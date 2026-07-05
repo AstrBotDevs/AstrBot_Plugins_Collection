@@ -43,9 +43,9 @@
       "Playwright"
     ],
     "social_link": "https://github.com/dragonuniverse8248",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.1",
-    "updated_at": "2026-07-03T18:06:54Z",
+    "updated_at": "2026-07-05T06:50:47Z",
     "logo": "https://raw.githubusercontent.com/dragonuniverse8248/astrbot_plugin_bartender/main/logo.png"
   },
   "astrbot-plugin-halo-whisper": {
@@ -168,7 +168,7 @@
     "tags": [],
     "stars": 0,
     "version": "v0.1.4",
-    "updated_at": "2026-07-03T12:32:32Z",
+    "updated_at": "2026-07-05T06:45:07Z",
     "logo": "https://raw.githubusercontent.com/Hola-Gracias/astrbot_plugin_dynamic_life_state/master/logo.png"
   },
   "astrbot-plugin-nezhatz": {
@@ -656,9 +656,9 @@
       "用户画像"
     ],
     "social_link": "https://github.com/Leafliber",
-    "stars": 11,
+    "stars": 10,
     "version": "0.2.0",
-    "updated_at": "2026-07-04T04:47:16Z",
+    "updated_at": "2026-07-05T05:44:16Z",
     "logo": "https://raw.githubusercontent.com/Leafliber/astrbot_plugin_iris_chat_memory/main/logo.png"
   },
   "astrbot-plugin-minecraft-multi-monitor": {
@@ -1127,12 +1127,12 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 97,
-    "version": "5.6.10",
+    "version": "5.6.11",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-04T15:35:13Z",
+    "updated_at": "2026-07-05T04:15:27Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -6509,13 +6509,13 @@
     "social_link": "https://meilunova.pages.dev/",
     "category": "integrations",
     "stars": 27,
-    "version": "0.9.0",
+    "version": "0.9.1",
     "astrbot_version": ">=4.13.0,<5",
     "support_platforms": [
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-07-05T02:13:01Z",
+    "updated_at": "2026-07-05T05:38:31Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -7757,9 +7757,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 361,
+    "stars": 362,
     "version": "3.4.5",
-    "updated_at": "2026-07-04T04:07:40Z",
+    "updated_at": "2026-07-05T04:24:20Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -12711,9 +12711,9 @@
       "磁链"
     ],
     "category": "entertainment",
-    "stars": 9,
+    "stars": 8,
     "version": "v1.0",
-    "updated_at": "2026-07-02T13:12:10Z"
+    "updated_at": "2026-07-05T04:02:44Z"
   },
   "astrbot_plugin_restrict_syscmd": {
     "desc": "限制仅管理员可用某些指令（支持自定义），静默处理不回复，防止bot被测，防止被恶意new、reset等",
@@ -13253,8 +13253,8 @@
     "social_link": "https://github.com/qa296",
     "category": "ai_tools",
     "stars": 12,
-    "version": "v0.2.2",
-    "updated_at": "2026-07-04T12:19:05Z"
+    "version": "v1.0.1",
+    "updated_at": "2026-07-05T05:43:22Z"
   },
   "astrbot_plugin_who_at_me": {
     "desc": "谁艾特我?监听 @ 消息，便于快速查找自己被 @ 时说了什么。",
@@ -15022,8 +15022,8 @@
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
     "stars": 79,
-    "version": "3.1.4",
-    "updated_at": "2026-07-04T18:17:33Z",
+    "version": "3.1.5",
+    "updated_at": "2026-07-05T07:13:45Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -15105,9 +15105,9 @@
       "玩具"
     ],
     "category": "entertainment",
-    "stars": 31,
+    "stars": 32,
     "version": "v0.1",
-    "updated_at": "2026-06-26T09:55:47Z"
+    "updated_at": "2026-07-05T04:17:14Z"
   },
   "astrbot_plugin_music": {
     "display_name": "点歌插件",
@@ -16785,9 +16785,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
     "category": "ai_tools",
-    "stars": 60,
+    "stars": 61,
     "version": "v2.0.0",
-    "updated_at": "2026-06-29T09:30:59Z",
+    "updated_at": "2026-07-05T06:49:31Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_browser/main/logo.png"
   },
   "astrbot_plugin_qqadmin": {
@@ -17912,9 +17912,9 @@
       "图床"
     ],
     "category": "entertainment",
-    "stars": 335,
+    "stars": 336,
     "version": "v3.21",
-    "updated_at": "2026-07-03T05:57:08Z"
+    "updated_at": "2026-07-05T05:56:46Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
