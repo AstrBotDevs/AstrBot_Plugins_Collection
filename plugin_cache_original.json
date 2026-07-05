@@ -1126,13 +1126,13 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 100,
-    "version": "5.6.15",
+    "stars": 101,
+    "version": "5.7.0",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-05T15:33:46Z",
+    "updated_at": "2026-07-05T17:43:43Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -3391,13 +3391,13 @@
       "训练计划"
     ],
     "social_link": "",
-    "stars": 6,
+    "stars": 7,
     "version": "2.0.11",
     "astrbot_version": ">=4.20.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-02T06:16:48Z"
+    "updated_at": "2026-07-05T17:18:06Z"
   },
   "astrbot-plugin-minimax-alert": {
     "display_name": "MiniMax 用量查询",
@@ -4859,9 +4859,9 @@
     ],
     "social_link": "https://github.com/RichardLiuda",
     "category": "utilities",
-    "stars": 34,
+    "stars": 35,
     "version": "v3.5.0",
-    "updated_at": "2026-07-05T03:14:46Z",
+    "updated_at": "2026-07-05T16:24:24Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -5228,7 +5228,7 @@
     "category": "ai_tools",
     "stars": 29,
     "version": "0.2.4",
-    "updated_at": "2026-06-08T09:02:01Z"
+    "updated_at": "2026-07-05T16:23:14Z"
   },
   "astrbot-plugin-biliVideo": {
     "display_name": "哔哩哔哩视频总结",
@@ -5877,9 +5877,9 @@
       "opencode"
     ],
     "category": "integrations",
-    "stars": 177,
+    "stars": 178,
     "version": "v2.1.4",
-    "updated_at": "2026-07-03T15:10:25Z",
+    "updated_at": "2026-07-05T16:38:42Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -6508,14 +6508,14 @@
     ],
     "social_link": "https://meilunova.pages.dev/",
     "category": "integrations",
-    "stars": 27,
+    "stars": 28,
     "version": "0.9.1",
     "astrbot_version": ">=4.13.0,<5",
     "support_platforms": [
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-07-05T05:38:31Z",
+    "updated_at": "2026-07-05T16:23:56Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
