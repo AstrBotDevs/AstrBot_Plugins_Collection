@@ -9902,9 +9902,9 @@
       "AI"
     ],
     "category": "productivity",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.6",
-    "updated_at": "2026-06-05T08:39:58Z",
+    "updated_at": "2026-07-05T21:19:16Z",
     "logo": "https://raw.githubusercontent.com/ningyou8023/astrbot_plugin_nyscheduler/main/logo.png"
   },
   "astrbot_plugin_api_fetcher": {
