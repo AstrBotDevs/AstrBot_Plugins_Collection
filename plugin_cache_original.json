@@ -536,7 +536,7 @@
       "slack",
       "kook"
     ],
-    "updated_at": "2026-07-05T01:21:15Z",
+    "updated_at": "2026-07-06T07:54:35Z",
     "logo": "https://raw.githubusercontent.com/FFFold/astrbot_plugin_suwayomi_server/main/logo.png"
   },
   "astrbot-plugin-AstrNa": {
@@ -1737,13 +1737,13 @@
     "tags": [
       "QQ空间"
     ],
-    "stars": 29,
+    "stars": 30,
     "version": "0.8.0",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-25T05:53:05Z",
+    "updated_at": "2026-07-06T08:39:35Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_qzone_ultra/main/logo.png"
   },
   "telethon-bot-adapter": {
@@ -1757,12 +1757,12 @@
       "adapter",
       "bot"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "0.5.0",
     "support_platforms": [
       "telethon_bot"
     ],
-    "updated_at": "2026-03-20T11:25:35Z",
+    "updated_at": "2026-07-06T08:12:02Z",
     "logo": "https://raw.githubusercontent.com/outlook84/astrbot_plugin_telethon_bot_adapter/main/logo.png"
   },
   "astrbot-plugin-subagent-worktogether": {
@@ -1915,13 +1915,13 @@
     "repo": "https://github.com/vivy1024/astrbot_plugin_wave_memory",
     "social_link": "https://github.com/lioensky/VCPChat | https://github.com/lioensky/VCPToolBox",
     "tags": [],
-    "stars": 12,
-    "version": "v4.2.1",
+    "stars": 13,
+    "version": "v4.5.0",
     "astrbot_version": ">=4.14.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-05T23:06:50Z",
+    "updated_at": "2026-07-06T10:05:34Z",
     "logo": "https://raw.githubusercontent.com/vivy1024/astrbot_plugin_wave_memory/master/logo.png"
   },
   "astrbot_plugin_maimai_updater": {
@@ -2266,12 +2266,12 @@
       "X",
       "推特"
     ],
-    "stars": 23,
+    "stars": 24,
     "version": "v1.7.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-30T12:58:30Z",
+    "updated_at": "2026-07-06T08:42:59Z",
     "logo": "https://raw.githubusercontent.com/Ars1027/astrbot_plugin_twitter/master/logo.png"
   },
   "astrbot_plugin_course": {
@@ -2294,9 +2294,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 136,
+    "stars": 137,
     "version": "3.7.3",
-    "updated_at": "2026-07-06T00:36:18Z",
+    "updated_at": "2026-07-06T09:53:43Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -2472,9 +2472,9 @@
     "repo": "https://github.com/AstrBotDevs/builtin_commands_extension",
     "social_link": "https://docs.astrbot.app/use/command.html",
     "tags": [],
-    "stars": 11,
+    "stars": 12,
     "version": "v0.0.1",
-    "updated_at": "2026-06-26T10:19:48Z"
+    "updated_at": "2026-07-06T05:55:24Z"
   },
   "astrbot_plugin_btw": {
     "display_name": "ByTheWay 快捷问题",
@@ -3878,9 +3878,9 @@
     "social_link": "",
     "category": "ai_tools",
     "stars": 38,
-    "version": "1.1.4",
+    "version": "1.1.5",
     "astrbot_version": ">=4.20.0",
-    "updated_at": "2026-07-05T20:04:44Z",
+    "updated_at": "2026-07-06T09:12:20Z",
     "logo": "https://raw.githubusercontent.com/Kalospacer/astrbot_plugin_maid_agent/master/logo.png"
   },
   "astrbot-plugin-stoprushingiamtyping": {
@@ -6614,9 +6614,9 @@
       "视奸"
     ],
     "category": "integrations",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.2.5",
-    "updated_at": "2026-04-18T11:44:01Z"
+    "updated_at": "2026-07-06T09:30:29Z"
   },
   "astrbot_plugin_minecraft_monitor": {
     "display_name": "MC 服务器监控（适配基岩版与 Java 版）",
@@ -7630,9 +7630,9 @@
     "social_link": "https://www.misakanet.site",
     "category": "ai_tools",
     "stars": 24,
-    "version": "v1.3.4",
+    "version": "v1.4.0",
     "astrbot_version": ">=4.25.3",
-    "updated_at": "2026-07-03T13:37:32Z",
+    "updated_at": "2026-07-06T05:53:56Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_image_generation/master/logo.png"
   },
   "astrbot_plugin_group_geetest_verify": {
@@ -7758,8 +7758,8 @@
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
     "stars": 362,
-    "version": "3.5.0",
-    "updated_at": "2026-07-05T13:31:45Z",
+    "version": "3.5.2",
+    "updated_at": "2026-07-06T08:55:01Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -8571,9 +8571,9 @@
       "人格"
     ],
     "category": "ai_tools",
-    "stars": 162,
+    "stars": 163,
     "version": "1.4.20",
-    "updated_at": "2026-07-05T03:20:54Z",
+    "updated_at": "2026-07-06T06:34:36Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -10200,8 +10200,9 @@
     ],
     "category": "ai_tools",
     "stars": 37,
-    "version": "2.5.0",
-    "updated_at": "2026-07-01T07:07:55Z",
+    "version": "2.6.0",
+    "astrbot_version": ">=4.26.0",
+    "updated_at": "2026-07-06T10:18:06Z",
     "logo": "https://raw.githubusercontent.com/aliveriver/astrbot_plugin_continuous_message/master/logo.png"
   },
   "astrbot_plugin_llm_amnesia": {
@@ -13238,9 +13239,9 @@
     ],
     "social_link": "https://github.com/qa296/",
     "category": "ai_tools",
-    "stars": 34,
+    "stars": 35,
     "version": "v0.5.2",
-    "updated_at": "2026-07-04T14:55:19Z"
+    "updated_at": "2026-07-06T09:59:09Z"
   },
   "astrbot_plugin_iearning_style": {
     "desc": "使机器人可以从聊天中学习他人说话方式",
@@ -13997,9 +13998,9 @@
       "娱乐"
     ],
     "category": "entertainment",
-    "stars": 15,
+    "stars": 16,
     "version": "v1.5.1",
-    "updated_at": "2026-06-22T06:05:18Z",
+    "updated_at": "2026-07-06T08:56:21Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_deer_check/master/logo.png"
   },
   "astrbot_plugin_pet": {
@@ -15021,9 +15022,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 86,
+    "stars": 101,
     "version": "3.1.8",
-    "updated_at": "2026-07-06T04:24:30Z",
+    "updated_at": "2026-07-06T10:12:56Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -15095,7 +15096,7 @@
     "category": "utilities",
     "stars": 9,
     "version": "V2.8.1",
-    "updated_at": "2026-06-29T08:18:04Z"
+    "updated_at": "2026-07-06T07:16:27Z"
   },
   "astrbot_dg_lab_plugin": {
     "author": "RC-CHN",
@@ -15688,13 +15689,13 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 90,
+    "stars": 91,
     "version": "v2.1.0",
     "astrbot_version": ">=4.13.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-05T11:56:20Z",
+    "updated_at": "2026-07-06T10:03:40Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_pokepro/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
@@ -15735,8 +15736,8 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_nobot",
     "category": "utilities",
     "stars": 9,
-    "version": "v1.0.4",
-    "updated_at": "2026-05-06T15:05:39Z",
+    "version": "v1.0.5",
+    "updated_at": "2026-07-06T09:11:04Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_nobot/main/logo.png"
   },
   "astrbot_plugin_mcgetter": {
@@ -17913,9 +17914,9 @@
       "图床"
     ],
     "category": "entertainment",
-    "stars": 336,
+    "stars": 337,
     "version": "v3.21",
-    "updated_at": "2026-07-05T15:47:01Z"
+    "updated_at": "2026-07-06T10:05:11Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
