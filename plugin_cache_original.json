@@ -1037,7 +1037,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-05T03:17:39Z",
+    "updated_at": "2026-07-06T04:19:46Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_live_stream_companion/main/logo.png"
   },
   "astrbot-plugin-open-notebook": {
@@ -1126,13 +1126,13 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 101,
+    "stars": 102,
     "version": "5.7.0",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-05T17:43:43Z",
+    "updated_at": "2026-07-06T04:08:15Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -2294,9 +2294,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 135,
-    "version": "3.7.1",
-    "updated_at": "2026-07-05T15:58:44Z",
+    "stars": 136,
+    "version": "3.7.3",
+    "updated_at": "2026-07-06T00:36:18Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -3975,7 +3975,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 403,
+    "stars": 404,
     "version": "v4.10.6",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -3984,7 +3984,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-07-05T18:07:56Z",
+    "updated_at": "2026-07-06T01:21:35Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -4560,10 +4560,10 @@
     "tags": [],
     "social_link": "",
     "category": "utilities",
-    "stars": 12,
+    "stars": 13,
     "version": "v2.5.3",
     "astrbot_version": ">=4.26.0",
-    "updated_at": "2026-07-05T10:05:44Z",
+    "updated_at": "2026-07-06T04:53:42Z",
     "logo": "https://raw.githubusercontent.com/Waterwzy/astrbot_plugin_firefly_filter/master/logo.png"
   },
   "astrbot-plugin-cet6": {
@@ -4604,9 +4604,9 @@
     "social_link": "https://github.com/Renyus",
     "category": "ai_tools",
     "tags": [],
-    "stars": 70,
+    "stars": 71,
     "version": "Ver 5.4.0",
-    "updated_at": "2026-06-28T10:44:44Z"
+    "updated_at": "2026-07-06T01:11:48Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -5877,9 +5877,9 @@
       "opencode"
     ],
     "category": "integrations",
-    "stars": 178,
+    "stars": 179,
     "version": "v2.1.4",
-    "updated_at": "2026-07-05T16:38:42Z",
+    "updated_at": "2026-07-06T00:34:37Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -6508,14 +6508,14 @@
     ],
     "social_link": "https://meilunova.pages.dev/",
     "category": "integrations",
-    "stars": 28,
+    "stars": 29,
     "version": "0.9.1",
     "astrbot_version": ">=4.13.0,<5",
     "support_platforms": [
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-07-05T16:23:56Z",
+    "updated_at": "2026-07-06T00:22:22Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -7079,7 +7079,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 403,
+    "stars": 404,
     "version": "v4.10.6",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -7088,7 +7088,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-07-05T18:07:56Z",
+    "updated_at": "2026-07-06T01:21:35Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -7445,9 +7445,9 @@
     "repo": "https://github.com/dafeiwu666/astrbot_plugin_ppnai",
     "category": "ai_tools",
     "tags": [],
-    "stars": 11,
+    "stars": 12,
     "version": "v1.5.7",
-    "updated_at": "2026-07-03T15:26:17Z"
+    "updated_at": "2026-07-06T01:26:14Z"
   },
   "astrbot_plugin_music_pro": {
     "display_name": "高级点歌",
@@ -8587,9 +8587,9 @@
       "群聊优化"
     ],
     "category": "ai_tools",
-    "stars": 115,
+    "stars": 116,
     "version": "0.9.3",
-    "updated_at": "2026-07-05T03:20:52Z",
+    "updated_at": "2026-07-06T02:58:40Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -9026,9 +9026,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 159,
+    "stars": 160,
     "version": "v1.5.1",
-    "updated_at": "2026-07-02T11:39:37Z",
+    "updated_at": "2026-07-06T01:20:05Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -15021,9 +15021,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 79,
-    "version": "3.1.7",
-    "updated_at": "2026-07-05T14:11:39Z",
+    "stars": 86,
+    "version": "3.1.8",
+    "updated_at": "2026-07-06T04:24:30Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -15256,9 +15256,9 @@
     "repo": "https://github.com/VincenttHo/astrbot_plugin_dzmm",
     "category": "entertainment",
     "tags": [],
-    "stars": 25,
+    "stars": 26,
     "version": "v1.1.1",
-    "updated_at": "2026-06-30T02:48:00Z"
+    "updated_at": "2026-07-06T03:42:37Z"
   },
   "astrbot_plugin_text2image": {
     "author": "wuyan1003",
@@ -16557,7 +16557,7 @@
     "category": "integrations",
     "stars": 48,
     "version": "v0.5.0",
-    "updated_at": "2026-06-24T17:40:41Z"
+    "updated_at": "2026-07-06T01:54:06Z"
   },
   "astrbot_plugin_xyzw": {
     "author": "四郎",
