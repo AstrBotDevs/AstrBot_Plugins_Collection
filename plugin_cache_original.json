@@ -9210,10 +9210,10 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "utilities",
-    "stars": 72,
+    "stars": 73,
     "version": "v1.5.3",
     "astrbot_version": ">=4.11.2",
-    "updated_at": "2026-07-05T08:01:23Z",
+    "updated_at": "2026-07-06T21:20:11Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
