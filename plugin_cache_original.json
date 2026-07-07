@@ -5495,9 +5495,9 @@
     ],
     "social_link": "https://github.com/Radiant303",
     "category": "ai_tools",
-    "stars": 44,
+    "stars": 45,
     "version": "v2.3.1",
-    "updated_at": "2026-06-30T08:11:15Z",
+    "updated_at": "2026-07-07T18:39:29Z",
     "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_clonetts/master/logo.png"
   },
   "astrbot-plugin-ssh": {
@@ -16008,10 +16008,10 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "entertainment",
-    "stars": 254,
+    "stars": 255,
     "version": "v3.1.1",
     "astrbot_version": ">=4.26.1",
-    "updated_at": "2026-07-05T12:45:56Z",
+    "updated_at": "2026-07-07T17:04:16Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -17818,9 +17818,9 @@
       "图片"
     ],
     "category": "utilities",
-    "stars": 24,
+    "stars": 25,
     "version": "v1.8.8",
-    "updated_at": "2026-06-16T13:09:01Z",
+    "updated_at": "2026-07-07T17:35:16Z",
     "logo": "https://raw.githubusercontent.com/inori-3333/astrbot_plugin_steamshot/master/logo.png"
   },
   "astrbot_plugin_GGAC_Messenger": {
