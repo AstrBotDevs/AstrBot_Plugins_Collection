@@ -253,9 +253,9 @@
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
     "stars": 16,
-    "version": "0.4.6",
+    "version": "0.4.7",
     "astrbot_version": ">=4.26.0-beta1",
-    "updated_at": "2026-07-06T17:18:20Z"
+    "updated_at": "2026-07-07T03:40:50Z"
   },
   "astrbot-plugin-polite-silence": {
     "display_name": "礼貌性沉默",
@@ -944,9 +944,9 @@
       "佳明"
     ],
     "social_link": "https://github.com/Jonathan-614",
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.2",
-    "updated_at": "2026-06-13T03:41:29Z",
+    "updated_at": "2026-07-07T05:41:53Z",
     "logo": "https://raw.githubusercontent.com/Jonathan-614/astrbot_plugin_garmin_health/master/logo.png"
   },
   "astrbot-plugin-group-llm-guard": {
@@ -1127,12 +1127,12 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 103,
-    "version": "5.7.2",
+    "version": "5.7.3",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-06T19:50:27Z",
+    "updated_at": "2026-07-07T05:20:18Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -1360,7 +1360,7 @@
       "lark",
       "weixin_oc"
     ],
-    "updated_at": "2026-07-07T01:48:18Z",
+    "updated_at": "2026-07-07T04:46:44Z",
     "logo": "https://raw.githubusercontent.com/shitianyaa/astrbot_plugin_nitter_tweets/main/logo.png"
   },
   "astrbot_plugin_comfyui_hub": {
@@ -2296,8 +2296,8 @@
     "tags": [],
     "social_link": "",
     "stars": 137,
-    "version": "3.7.3",
-    "updated_at": "2026-07-06T09:53:43Z",
+    "version": "3.7.5",
+    "updated_at": "2026-07-07T05:51:29Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -3507,9 +3507,9 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "category": "entertainment",
-    "stars": 38,
+    "stars": 37,
     "version": "v2.6.5",
-    "updated_at": "2026-07-06T14:30:09Z",
+    "updated_at": "2026-07-07T03:49:08Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot_plugin_atrifeed/main/logo.png"
   },
   "astrbot-plugin-self-open-llm-vtuber": {
@@ -4939,9 +4939,9 @@
     ],
     "social_link": "https://github.com/w2902171175",
     "category": "ai_tools",
-    "stars": 14,
+    "stars": 15,
     "version": "v1.7.1",
-    "updated_at": "2026-06-12T07:14:59Z"
+    "updated_at": "2026-07-07T04:35:45Z"
   },
   "astrbot-plugin-custome-segment-reply": {
     "display_name": "自定义断句回复插件",
@@ -5163,7 +5163,7 @@
       "人物画像"
     ],
     "category": "ai_tools",
-    "stars": 51,
+    "stars": 50,
     "version": "v1.0.1",
     "astrbot_version": ">=4.16",
     "support_platforms": [
@@ -5171,7 +5171,7 @@
       "telegram",
       "discord"
     ],
-    "updated_at": "2026-07-01T06:07:57Z"
+    "updated_at": "2026-07-07T03:49:34Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -5180,9 +5180,9 @@
     "repo": "https://github.com/w2902171175/astrbot_plugin_GPT-SoVITS",
     "category": "ai_tools",
     "tags": [],
-    "stars": 14,
+    "stars": 15,
     "version": "v1.7.1",
-    "updated_at": "2026-06-12T07:14:59Z"
+    "updated_at": "2026-07-07T04:35:45Z"
   },
   "astrbot-plugin-topic-starter": {
     "display_name": "topic_starter",
@@ -6509,14 +6509,14 @@
     ],
     "social_link": "https://meilunova.pages.dev/",
     "category": "integrations",
-    "stars": 29,
+    "stars": 30,
     "version": "0.9.1",
     "astrbot_version": ">=4.13.0,<5",
     "support_platforms": [
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-07-06T00:22:22Z",
+    "updated_at": "2026-07-07T05:14:13Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -10460,9 +10460,9 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_siliconflow-shouban",
     "category": "ai_tools",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "v1.3.5",
-    "updated_at": "2026-05-06T04:05:04Z"
+    "updated_at": "2026-07-07T06:06:15Z"
   },
   "astrbot_plugin_eatdrink": {
     "display_name": "吃喝什么呢？",
@@ -10677,9 +10677,9 @@
     ],
     "social_link": "https://github.com/Luna-channel",
     "category": "ai_tools",
-    "stars": 33,
+    "stars": 34,
     "version": "3.0.2",
-    "updated_at": "2026-07-03T07:53:07Z",
+    "updated_at": "2026-07-07T06:35:15Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_Conversa/main/logo.png"
   },
   "astrbot_plugin_shutdown": {
@@ -11016,7 +11016,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 330,
+    "stars": 331,
     "version": "v1.2.4",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -11028,7 +11028,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-07-07T00:20:24Z",
+    "updated_at": "2026-07-07T03:36:13Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -11831,10 +11831,10 @@
       "合并消息分析与回复"
     ],
     "category": "ai_tools",
-    "stars": 9,
+    "stars": 10,
     "version": "2.1.0",
     "astrbot_version": ">=3.4.0,<5",
-    "updated_at": "2026-06-11T05:41:15Z"
+    "updated_at": "2026-07-07T06:15:24Z"
   },
   "zhiyu-astrbot-qqquery": {
     "desc": "一款查询QQ空间 QQ音乐 QQ基本信息的AstrBot插件",
@@ -12168,8 +12168,8 @@
     "social_link": "https://github.com/Maoer233",
     "category": "utilities",
     "stars": 9,
-    "version": "1.0.1",
-    "updated_at": "2026-05-07T01:12:07Z"
+    "version": "1.0.2",
+    "updated_at": "2026-07-07T06:07:00Z"
   },
   "astrbot_plugin_personal_selfupdate": {
     "desc": "一个用于自更新人格数据的插件。",
@@ -13240,9 +13240,9 @@
     ],
     "social_link": "https://github.com/qa296/",
     "category": "ai_tools",
-    "stars": 34,
+    "stars": 35,
     "version": "v0.5.2",
-    "updated_at": "2026-07-06T13:27:02Z"
+    "updated_at": "2026-07-07T06:34:13Z"
   },
   "astrbot_plugin_iearning_style": {
     "desc": "使机器人可以从聊天中学习他人说话方式",
@@ -15023,9 +15023,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 111,
+    "stars": 113,
     "version": "3.1.10",
-    "updated_at": "2026-07-07T03:30:59Z",
+    "updated_at": "2026-07-07T06:14:47Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -17015,9 +17015,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
     "category": "integrations",
-    "stars": 89,
+    "stars": 90,
     "version": "v3.1.0",
-    "updated_at": "2026-07-07T00:59:30Z",
+    "updated_at": "2026-07-07T04:42:34Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
