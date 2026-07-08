@@ -1031,13 +1031,13 @@
       "互动"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 34,
+    "stars": 35,
     "version": "1.6.2",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-07T14:24:14Z",
+    "updated_at": "2026-07-08T04:09:13Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_live_stream_companion/main/logo.png"
   },
   "astrbot-plugin-open-notebook": {
@@ -3184,10 +3184,10 @@
       "面板"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 25,
+    "stars": 24,
     "version": "v1.0.0",
     "astrbot_version": ">=4.11.2",
-    "updated_at": "2026-07-02T03:53:36Z",
+    "updated_at": "2026-07-08T04:07:40Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_live_dashboard/main/logo.png"
   },
   "astrbot-plugin-wol-miko": {
@@ -3985,7 +3985,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-07-08T01:52:56Z",
+    "updated_at": "2026-07-08T03:44:24Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -5004,14 +5004,14 @@
       "sky"
     ],
     "category": "entertainment",
-    "stars": 12,
+    "stars": 13,
     "version": "2.5.3",
     "support_platforms": [
       "aiocqhttp",
       "wecom",
       "telegram"
     ],
-    "updated_at": "2026-06-19T11:48:54Z",
+    "updated_at": "2026-07-08T05:22:09Z",
     "logo": "https://raw.githubusercontent.com/wzq10314/astrbot_plugin_sky/main/logo.png"
   },
   "astrbot-plugin-animatedemoji": {
@@ -6509,14 +6509,14 @@
     ],
     "social_link": "https://meilunova.pages.dev/",
     "category": "integrations",
-    "stars": 32,
+    "stars": 30,
     "version": "0.9.1",
     "astrbot_version": ">=4.13.0,<5",
     "support_platforms": [
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-07-08T02:46:35Z",
+    "updated_at": "2026-07-08T04:07:32Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -7089,7 +7089,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-07-08T01:52:56Z",
+    "updated_at": "2026-07-08T03:44:24Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -9027,9 +9027,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 160,
+    "stars": 161,
     "version": "v1.5.1",
-    "updated_at": "2026-07-06T01:20:05Z",
+    "updated_at": "2026-07-08T03:00:24Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -11901,9 +11901,9 @@
       "抽奖"
     ],
     "category": "entertainment",
-    "stars": 2,
+    "stars": 3,
     "version": "v2.0",
-    "updated_at": "2026-01-20T17:21:39Z"
+    "updated_at": "2026-07-08T03:48:20Z"
   },
   "astrbot_plugin_mcman": {
     "desc": "一个基于RCON协议的MC服务器管理器插件",
@@ -16685,8 +16685,8 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_reread",
     "category": "entertainment",
     "stars": 38,
-    "version": "v2.0.0",
-    "updated_at": "2026-05-10T03:17:07Z",
+    "version": "v2.1.0",
+    "updated_at": "2026-07-08T03:12:00Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_reread/main/logo.png"
   },
   "astrbot_plugin_csbaoyan": {
@@ -18165,7 +18165,7 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "category": "integrations",
     "tags": [],
-    "stars": 85,
+    "stars": 86,
     "version": "v1.6.4",
     "astrbot_version": ">=4.5.2",
     "support_platforms": [
@@ -18173,7 +18173,7 @@
       "telegram",
       "weixin_oc"
     ],
-    "updated_at": "2026-07-07T11:33:37Z",
+    "updated_at": "2026-07-08T03:38:47Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
