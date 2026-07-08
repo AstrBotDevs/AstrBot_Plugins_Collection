@@ -408,7 +408,7 @@
     "social_link": "https://github.com/NightVoyager14",
     "stars": 1,
     "version": "v1.0.1",
-    "updated_at": "2026-07-05T01:04:03Z",
+    "updated_at": "2026-07-08T11:28:22Z",
     "logo": "https://raw.githubusercontent.com/NightVoyager14/astrbot_plugin_just_enough_mcserver_status/main/logo.png"
   },
   "astrbot-plugin-tattle": {
@@ -844,13 +844,13 @@
       "speech"
     ],
     "social_link": "https://github.com/Justice-ocr",
-    "stars": 8,
+    "stars": 9,
     "version": "v0.4.0",
     "astrbot_version": ">=4.16.0,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-08T02:24:08Z",
+    "updated_at": "2026-07-08T11:59:33Z",
     "logo": "https://raw.githubusercontent.com/Justice-ocr/astrbot_plugin_mimo_tts_clone/main/logo.png"
   },
   "astrbot-plugin-cloudflare-browser-run": {
@@ -1127,12 +1127,12 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 104,
-    "version": "5.8.2",
+    "version": "5.8.3",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-08T08:45:50Z",
+    "updated_at": "2026-07-08T13:15:54Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -5878,9 +5878,9 @@
       "opencode"
     ],
     "category": "integrations",
-    "stars": 180,
+    "stars": 181,
     "version": "v2.1.4",
-    "updated_at": "2026-07-06T12:09:57Z",
+    "updated_at": "2026-07-08T11:59:04Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -8142,7 +8142,7 @@
     "category": "ai_tools",
     "stars": 67,
     "version": "v1.1",
-    "updated_at": "2026-06-25T02:37:42Z"
+    "updated_at": "2026-07-08T12:04:54Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -9027,9 +9027,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 162,
+    "stars": 163,
     "version": "v1.5.1",
-    "updated_at": "2026-07-08T07:17:08Z",
+    "updated_at": "2026-07-08T11:27:57Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -9175,7 +9175,7 @@
     "category": "utilities",
     "stars": 42,
     "version": "v1.3.8",
-    "updated_at": "2026-06-24T12:38:06Z",
+    "updated_at": "2026-07-08T11:59:43Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -11395,8 +11395,8 @@
     ],
     "category": "utilities",
     "stars": 2,
-    "version": "v1.5.1",
-    "updated_at": "2026-05-21T16:53:56Z",
+    "version": "v1.5.2",
+    "updated_at": "2026-07-08T14:04:37Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_youshusearch/master/logo.png"
   },
   "astrbot_plugin_persona_plus": {
@@ -15023,9 +15023,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 118,
-    "version": "3.1.10",
-    "updated_at": "2026-07-08T10:01:15Z",
+    "stars": 119,
+    "version": "3.1.12",
+    "updated_at": "2026-07-08T12:44:20Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -17917,7 +17917,8 @@
     "category": "entertainment",
     "stars": 336,
     "version": "v3.21",
-    "updated_at": "2026-07-08T10:32:49Z"
+    "updated_at": "2026-07-08T13:55:14Z",
+    "logo": "https://raw.githubusercontent.com/anka-afk/astrbot_plugin_meme_manager/main/logo.png"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
