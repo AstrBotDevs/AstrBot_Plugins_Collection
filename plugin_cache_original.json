@@ -286,7 +286,7 @@
     ],
     "social_link": "https://github.com/maolbsMd",
     "stars": 1,
-    "version": "1.2.0",
+    "version": "1.2.1",
     "astrbot_version": ">=4.25",
     "support_platforms": [
       "aiocqhttp",
@@ -303,7 +303,7 @@
       "weixin_official_account",
       "weixin_oc"
     ],
-    "updated_at": "2026-07-08T14:35:54Z",
+    "updated_at": "2026-07-08T17:15:57Z",
     "logo": "https://raw.githubusercontent.com/maolbsMd/astrbot_plugin_spotify/main/logo.png"
   },
   "astrbot-plugin-image-caption-cache": {
@@ -7649,14 +7649,14 @@
     ],
     "social_link": "https://github.com/VanillaNahida/",
     "category": "utilities",
-    "stars": 30,
+    "stars": 31,
     "version": "v1.3.3",
     "astrbot_version": ">=4.24.2",
     "support_platforms": [
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-06-23T17:50:22Z",
+    "updated_at": "2026-07-08T17:11:07Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_geetest_verify/master/logo.png"
   },
   "astrbot_plugin_cliproxy_stats": {
@@ -9669,9 +9669,9 @@
       "comfyui"
     ],
     "category": "ai_tools",
-    "stars": 15,
+    "stars": 14,
     "version": "3.6.2",
-    "updated_at": "2026-06-28T16:25:56Z"
+    "updated_at": "2026-07-08T18:07:22Z"
   },
   "astrbot_plugin_timeprogress": {
     "display_name": "时间可视化",
@@ -11016,7 +11016,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 332,
+    "stars": 333,
     "version": "v1.2.4",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -11028,7 +11028,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-07-08T06:15:37Z",
+    "updated_at": "2026-07-08T16:50:27Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -15023,9 +15023,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 119,
+    "stars": 120,
     "version": "3.1.12",
-    "updated_at": "2026-07-08T12:44:20Z",
+    "updated_at": "2026-07-08T18:04:10Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -16760,9 +16760,9 @@
     ],
     "social_link": "https://qkingwlfw.icu",
     "category": "utilities",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.2.0",
-    "updated_at": "2026-06-15T04:41:44Z"
+    "updated_at": "2026-07-08T17:14:44Z"
   },
   "astrbot_plugin_archlinux_package_search": {
     "desc": "按名称搜索 Arch Linux 官方仓库和 AUR 中的软件包。",
@@ -17916,8 +17916,8 @@
     ],
     "category": "entertainment",
     "stars": 336,
-    "version": "v4.01",
-    "updated_at": "2026-07-08T16:14:17Z",
+    "version": "v4.03",
+    "updated_at": "2026-07-08T17:55:29Z",
     "logo": "https://raw.githubusercontent.com/anka-afk/astrbot_plugin_meme_manager/main/logo.png"
   },
   "mccloud_command": {
