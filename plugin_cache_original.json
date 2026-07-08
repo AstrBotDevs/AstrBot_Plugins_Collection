@@ -549,8 +549,8 @@
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
     "stars": 26,
-    "version": "1.3.8",
-    "updated_at": "2026-07-07T03:23:33Z"
+    "version": "1.3.9",
+    "updated_at": "2026-07-08T10:15:03Z"
   },
   "astrbot-plugin-Firefly-Blog-Manager": {
     "display_name": "Firefly 博客管理插件",
@@ -1106,13 +1106,13 @@
     "repo": "https://github.com/Wyccotccy/astrbot_plugin_qzone_tools",
     "social_link": "www.wyccotccy.cn",
     "tags": [],
-    "stars": 37,
+    "stars": 38,
     "version": "5.0.6",
     "astrbot_version": ">=4.24.2",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-02T08:33:27Z",
+    "updated_at": "2026-07-08T08:45:10Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-private-companion": {
@@ -1127,12 +1127,12 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 104,
-    "version": "5.8.1",
+    "version": "5.8.2",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-08T05:54:32Z",
+    "updated_at": "2026-07-08T08:45:50Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -2176,10 +2176,10 @@
       "提示词优化"
     ],
     "social_link": "",
-    "stars": 57,
+    "stars": 58,
     "version": "3.3.22",
     "astrbot_version": ">=4.16,<5",
-    "updated_at": "2026-07-02T07:19:15Z",
+    "updated_at": "2026-07-08T10:14:38Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -2902,13 +2902,13 @@
       "更多主动功能"
     ],
     "social_link": "www.wyccotccy.cn",
-    "stars": 37,
+    "stars": 38,
     "version": "5.0.6",
     "astrbot_version": ">=4.24.2",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-02T08:33:27Z",
+    "updated_at": "2026-07-08T08:45:10Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -5495,9 +5495,9 @@
     ],
     "social_link": "https://github.com/Radiant303",
     "category": "ai_tools",
-    "stars": 45,
+    "stars": 44,
     "version": "v2.3.1",
-    "updated_at": "2026-07-07T18:39:29Z",
+    "updated_at": "2026-07-08T09:58:46Z",
     "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_clonetts/master/logo.png"
   },
   "astrbot-plugin-ssh": {
@@ -7631,9 +7631,9 @@
     "social_link": "https://www.misakanet.site",
     "category": "ai_tools",
     "stars": 24,
-    "version": "v1.4.1",
+    "version": "v1.4.2",
     "astrbot_version": ">=4.25.3",
-    "updated_at": "2026-07-08T08:26:31Z",
+    "updated_at": "2026-07-08T10:12:16Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_image_generation/master/logo.png"
   },
   "astrbot_plugin_group_geetest_verify": {
@@ -11937,9 +11937,9 @@
       "fishing"
     ],
     "category": "entertainment",
-    "stars": 43,
+    "stars": 44,
     "version": "2.4.7",
-    "updated_at": "2026-06-22T16:26:29Z",
+    "updated_at": "2026-07-08T10:36:22Z",
     "logo": "https://raw.githubusercontent.com/xxlemon-io/astrbot_plugin_fishing/main/logo.png"
   },
   "astrbot_plugin_astrmetry": {
@@ -12699,9 +12699,9 @@
     ],
     "social_link": "blog.isla.ltd",
     "category": "integrations",
-    "stars": 28,
+    "stars": 27,
     "version": "1.2.0",
-    "updated_at": "2026-06-07T11:18:55Z"
+    "updated_at": "2026-07-08T09:04:02Z"
   },
   "astrbot_plugin_AnimeMagnet": {
     "desc": "这是一个动漫磁链查询插件，可以获取动漫磁链",
@@ -15023,9 +15023,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 117,
+    "stars": 118,
     "version": "3.1.10",
-    "updated_at": "2026-07-08T07:04:11Z",
+    "updated_at": "2026-07-08T10:01:15Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -17917,7 +17917,7 @@
     "category": "entertainment",
     "stars": 336,
     "version": "v3.21",
-    "updated_at": "2026-07-08T08:26:39Z"
+    "updated_at": "2026-07-08T10:32:49Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
