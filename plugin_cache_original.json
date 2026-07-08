@@ -489,9 +489,9 @@
       "小黑盒",
       "Heybox"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "1.2.2",
-    "updated_at": "2026-06-29T16:07:24Z",
+    "updated_at": "2026-07-08T19:04:26Z",
     "logo": "https://raw.githubusercontent.com/penguin-madagascar/astrbot_plugin_steam_price_heybox/main/logo.png"
   },
   "astrbot-plugin-hindsight-memory": {
@@ -821,7 +821,7 @@
       "限流",
       "webui"
     ],
-    "stars": 4,
+    "stars": 5,
     "version": "0.6.6",
     "astrbot_version": ">=4.24.2",
     "support_platforms": [
@@ -829,7 +829,7 @@
       "qq_official",
       "qq_official_webhook"
     ],
-    "updated_at": "2026-06-18T10:10:07Z",
+    "updated_at": "2026-07-08T19:13:37Z",
     "logo": "https://raw.githubusercontent.com/QingchenWait/astrbot_plugin_token_controller/main/logo.png"
   },
   "astrbot-plugin-mimo-tts-clone": {
@@ -1386,7 +1386,7 @@
       "联网",
       "anysearch"
     ],
-    "stars": 5,
+    "stars": 6,
     "version": "v0.3",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
@@ -1395,7 +1395,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-07-05T02:24:32Z",
+    "updated_at": "2026-07-08T19:05:01Z",
     "logo": "https://raw.githubusercontent.com/AgIzT/astrbot_plugin_anysearch/main/logo.png"
   },
   "astrbot_plugin_e2b_code": {
@@ -1453,9 +1453,9 @@
       "自动备份",
       "网盘管理"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.1.2",
-    "updated_at": "2026-06-24T16:05:29Z",
+    "updated_at": "2026-07-08T19:13:02Z",
     "logo": "https://raw.githubusercontent.com/Volundio/astrbot_plugin_openlist_bot/main/logo.png"
   },
   "astrbot-plugin-notion-bridge": {
@@ -7631,9 +7631,9 @@
     "social_link": "https://www.misakanet.site",
     "category": "ai_tools",
     "stars": 24,
-    "version": "v1.4.3",
+    "version": "v1.4.4",
     "astrbot_version": ">=4.25.3",
-    "updated_at": "2026-07-08T14:47:13Z",
+    "updated_at": "2026-07-08T18:58:00Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_image_generation/master/logo.png"
   },
   "astrbot_plugin_group_geetest_verify": {
@@ -13152,9 +13152,9 @@
     ],
     "social_link": "https://github.com/SodaSizzle",
     "category": "entertainment",
-    "stars": 67,
+    "stars": 68,
     "version": "v2.1",
-    "updated_at": "2026-06-25T02:40:27Z",
+    "updated_at": "2026-07-08T18:38:50Z",
     "logo": "https://raw.githubusercontent.com/SodaSizzle/astrbot_plugin_meme_generator/master/logo.png"
   },
   "astrbot_plugin_baiduocr": {
@@ -16366,13 +16366,13 @@
     "repo": "https://github.com/1113-yangfanou/astrbot_plugin_hello-bye",
     "category": "utilities",
     "tags": [],
-    "stars": 18,
+    "stars": 19,
     "version": "v1.11",
     "astrbot_version": ">=3.5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-19T06:41:29Z",
+    "updated_at": "2026-07-08T18:56:13Z",
     "logo": "https://raw.githubusercontent.com/1113-yangfanou/astrbot_plugin_hello-bye/master/logo.png"
   },
   "astrbot_plugin_pexels": {
