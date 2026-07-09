@@ -11,9 +11,9 @@
       "danbooru"
     ],
     "social_link": "https://github.com/YayiMiko/anima-master",
-    "stars": 1,
+    "stars": 2,
     "version": "0.2.1",
-    "updated_at": "2026-07-05T07:48:13Z"
+    "updated_at": "2026-07-09T08:52:31Z"
   },
   "astrbot-plugin-fund": {
     "display_name": "基金小助手",
@@ -252,10 +252,10 @@
       "webui"
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
-    "stars": 17,
+    "stars": 18,
     "version": "0.4.7",
     "astrbot_version": ">=4.26.0-beta1",
-    "updated_at": "2026-07-09T07:01:16Z"
+    "updated_at": "2026-07-09T10:09:52Z"
   },
   "astrbot-plugin-polite-silence": {
     "display_name": "礼貌性沉默",
@@ -523,7 +523,7 @@
       "漫画",
       "漫画订阅"
     ],
-    "stars": 5,
+    "stars": 6,
     "version": "0.4.7",
     "support_platforms": [
       "aiocqhttp",
@@ -536,7 +536,7 @@
       "slack",
       "kook"
     ],
-    "updated_at": "2026-07-07T11:32:14Z",
+    "updated_at": "2026-07-09T09:29:00Z",
     "logo": "https://raw.githubusercontent.com/FFFold/astrbot_plugin_suwayomi_server/main/logo.png"
   },
   "astrbot-plugin-AstrNa": {
@@ -548,9 +548,9 @@
       "优化"
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
-    "stars": 26,
+    "stars": 27,
     "version": "1.3.9",
-    "updated_at": "2026-07-08T10:15:03Z"
+    "updated_at": "2026-07-09T10:09:51Z"
   },
   "astrbot-plugin-Firefly-Blog-Manager": {
     "display_name": "Firefly 博客管理插件",
@@ -656,9 +656,9 @@
       "用户画像"
     ],
     "social_link": "https://github.com/Leafliber",
-    "stars": 11,
+    "stars": 12,
     "version": "0.2.0",
-    "updated_at": "2026-07-08T14:34:16Z",
+    "updated_at": "2026-07-09T08:40:37Z",
     "logo": "https://raw.githubusercontent.com/Leafliber/astrbot_plugin_iris_chat_memory/main/logo.png"
   },
   "astrbot-plugin-minecraft-multi-monitor": {
@@ -1645,7 +1645,7 @@
       "全模态"
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
-    "stars": 14,
+    "stars": 15,
     "version": "v0.122",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -1654,7 +1654,7 @@
       "discord",
       "slack"
     ],
-    "updated_at": "2026-07-02T07:16:52Z"
+    "updated_at": "2026-07-09T10:10:11Z"
   },
   "astrbot_plugin_tsugu_bangdream": {
     "display_name": "Tsugu BanGDream Bot",
@@ -2008,9 +2008,9 @@
     "social_link": "https://github.com/Ayleovelle",
     "tags": [],
     "stars": 52,
-    "version": "2.2.0",
+    "version": "2.4.0",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-07-04T15:44:06Z",
+    "updated_at": "2026-07-09T11:41:04Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -2517,9 +2517,9 @@
     ],
     "social_link": "https://github.com/FlanChanXwO",
     "stars": 26,
-    "version": "v2.1.1",
+    "version": "v2.1.2",
     "astrbot_version": ">=4.24.0",
-    "updated_at": "2026-06-30T14:35:32Z",
+    "updated_at": "2026-07-09T10:34:02Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_rsshub/master/logo.png"
   },
   "astrbot_plugin_scriptor": {
@@ -3651,7 +3651,7 @@
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
     "category": "entertainment",
-    "stars": 5,
+    "stars": 6,
     "version": "1.1.6",
     "astrbot_version": ">=4.16",
     "support_platforms": [
@@ -3662,7 +3662,7 @@
       "discord",
       "kook"
     ],
-    "updated_at": "2026-06-25T02:14:53Z",
+    "updated_at": "2026-07-09T10:10:25Z",
     "logo": "https://raw.githubusercontent.com/Sisyphbaous-DT-Project/astrbot_plugin_shit_detector_plus/main/logo.png"
   },
   "astrbot-plugin-minecraft-wiki": {
@@ -3751,9 +3751,9 @@
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
     "category": "entertainment",
-    "stars": 18,
+    "stars": 19,
     "version": "1.3.0_beta1",
-    "updated_at": "2026-06-25T15:00:48Z",
+    "updated_at": "2026-07-09T10:10:20Z",
     "logo": "https://raw.githubusercontent.com/Sisyphbaous-DT-Project/astrbot_plugin_what_to_eat/main/logo.png"
   },
   "astrbot-plugin-HD2-daily-report": {
@@ -3976,7 +3976,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 406,
+    "stars": 407,
     "version": "v4.10.6",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -3985,7 +3985,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-07-08T03:44:24Z",
+    "updated_at": "2026-07-09T11:44:08Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -4548,9 +4548,9 @@
     "social_link": "https://github.com/kawayiYokami/",
     "category": "entertainment",
     "tags": [],
-    "stars": 7,
+    "stars": 8,
     "version": "2.0.1",
-    "updated_at": "2026-06-20T08:59:59Z",
+    "updated_at": "2026-07-09T10:47:35Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_smile/master/logo.png"
   },
   "astrbot-plugin-smart-filter": {
@@ -5359,12 +5359,12 @@
     ],
     "category": "utilities",
     "stars": 3,
-    "version": "v1.2.2",
+    "version": "v1.2.3",
     "astrbot_version": ">=4.10.4",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-03T07:39:49Z",
+    "updated_at": "2026-07-09T09:46:27Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_sentinel/master/logo.png"
   },
   "astrbot-plugin-bilibanshi": {
@@ -6516,7 +6516,7 @@
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-07-08T15:38:25Z",
+    "updated_at": "2026-07-09T08:36:54Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -6615,9 +6615,9 @@
       "视奸"
     ],
     "category": "integrations",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.2.5",
-    "updated_at": "2026-07-06T09:30:29Z"
+    "updated_at": "2026-07-09T10:06:50Z"
   },
   "astrbot_plugin_minecraft_monitor": {
     "display_name": "MC 服务器监控（适配基岩版与 Java 版）",
@@ -7080,7 +7080,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 406,
+    "stars": 407,
     "version": "v4.10.6",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -7089,7 +7089,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-07-08T03:44:24Z",
+    "updated_at": "2026-07-09T11:44:08Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -7162,9 +7162,9 @@
     ],
     "social_link": "https://mc.mimeng.top",
     "category": "integrations",
-    "stars": 4,
+    "stars": 5,
     "version": "0.4.0",
-    "updated_at": "2026-02-06T11:47:33Z"
+    "updated_at": "2026-07-09T09:11:49Z"
   },
   "astrbot_plugin_link_resolver": {
     "display_name": "解析B站/抖音/小红书的卡片消息/链接",
@@ -7631,9 +7631,9 @@
     "social_link": "https://www.misakanet.site",
     "category": "ai_tools",
     "stars": 24,
-    "version": "v1.4.4",
+    "version": "v1.4.5",
     "astrbot_version": ">=4.25.3",
-    "updated_at": "2026-07-08T18:58:00Z",
+    "updated_at": "2026-07-09T09:50:10Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_image_generation/master/logo.png"
   },
   "astrbot_plugin_group_geetest_verify": {
@@ -8572,9 +8572,9 @@
       "人格"
     ],
     "category": "ai_tools",
-    "stars": 163,
+    "stars": 164,
     "version": "1.4.20",
-    "updated_at": "2026-07-06T06:34:36Z",
+    "updated_at": "2026-07-09T10:47:32Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -8588,9 +8588,9 @@
       "群聊优化"
     ],
     "category": "ai_tools",
-    "stars": 116,
+    "stars": 117,
     "version": "0.9.3",
-    "updated_at": "2026-07-06T02:58:40Z",
+    "updated_at": "2026-07-09T10:47:25Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -8604,9 +8604,9 @@
       "聊天记录"
     ],
     "category": "ai_tools",
-    "stars": 22,
+    "stars": 23,
     "version": "1.0.6",
-    "updated_at": "2026-06-26T09:57:43Z",
+    "updated_at": "2026-07-09T10:47:43Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_eye/master/logo.png"
   },
   "lumingya/astrbot_plugin_regex_filter": {
@@ -10146,8 +10146,8 @@
     "social_link": "https://github.com/NekoiMeiov",
     "category": "utilities",
     "stars": 19,
-    "version": "v1.1.1",
-    "updated_at": "2026-07-09T07:21:02Z"
+    "version": "v1.2.0",
+    "updated_at": "2026-07-09T10:31:08Z"
   },
   "astrbot_plugin_mc_update": {
     "display_name": "Minecraft 基岩版更新日志提醒插件",
@@ -10264,9 +10264,9 @@
       "推特"
     ],
     "category": "utilities",
-    "stars": 54,
+    "stars": 55,
     "version": "v6.3.1",
-    "updated_at": "2026-07-04T03:43:41Z",
+    "updated_at": "2026-07-09T11:01:47Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -15023,9 +15023,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 121,
+    "stars": 122,
     "version": "3.1.13",
-    "updated_at": "2026-07-09T06:40:10Z",
+    "updated_at": "2026-07-09T10:58:43Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -17802,9 +17802,9 @@
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
     "category": "ai_tools",
-    "stars": 134,
+    "stars": 133,
     "version": "v2.1.13",
-    "updated_at": "2026-07-04T02:36:20Z"
+    "updated_at": "2026-07-09T11:27:44Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
@@ -17844,9 +17844,9 @@
       "功能"
     ],
     "category": "integrations",
-    "stars": 31,
+    "stars": 32,
     "version": "1.1.1",
-    "updated_at": "2026-07-05T02:34:44Z"
+    "updated_at": "2026-07-09T09:11:58Z"
   },
   "astrbot_plugin_moyuren": {
     "desc": "每天定时推送摸鱼人日历",
@@ -17915,9 +17915,9 @@
       "图床"
     ],
     "category": "entertainment",
-    "stars": 339,
+    "stars": 341,
     "version": "v4.03",
-    "updated_at": "2026-07-09T03:02:07Z",
+    "updated_at": "2026-07-09T09:19:07Z",
     "logo": "https://raw.githubusercontent.com/anka-afk/astrbot_plugin_meme_manager/main/logo.png"
   },
   "mccloud_command": {
