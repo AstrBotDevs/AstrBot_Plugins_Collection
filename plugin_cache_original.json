@@ -2048,9 +2048,9 @@
     ],
     "social_link": "https://github.com/piexian",
     "stars": 9,
-    "version": "v0.3.3",
+    "version": "v0.3.4",
     "astrbot_version": ">=4.17",
-    "updated_at": "2026-06-28T15:19:56Z"
+    "updated_at": "2026-07-09T22:12:09Z"
   },
   "astrbot_plugin_fund": {
     "display_name": "个人基金投资分析助手",
@@ -4861,9 +4861,9 @@
     ],
     "social_link": "https://github.com/RichardLiuda",
     "category": "utilities",
-    "stars": 35,
+    "stars": 36,
     "version": "v3.5.0",
-    "updated_at": "2026-07-05T16:24:24Z",
+    "updated_at": "2026-07-09T21:49:10Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
