@@ -252,10 +252,10 @@
       "webui"
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
-    "stars": 16,
+    "stars": 17,
     "version": "0.4.7",
     "astrbot_version": ">=4.26.0-beta1",
-    "updated_at": "2026-07-07T03:40:50Z"
+    "updated_at": "2026-07-09T07:01:16Z"
   },
   "astrbot-plugin-polite-silence": {
     "display_name": "礼貌性沉默",
@@ -1132,7 +1132,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-09T04:33:17Z",
+    "updated_at": "2026-07-09T05:41:47Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -8336,9 +8336,9 @@
     ],
     "social_link": "https://github.com/KonmaKanSinPack",
     "category": "utilities",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.0.0",
-    "updated_at": "2026-03-29T08:16:06Z"
+    "updated_at": "2026-07-09T05:53:54Z"
   },
   "astrbot_plugin_meme_maker": {
     "display_name": "meme_maker",
@@ -10146,8 +10146,8 @@
     "social_link": "https://github.com/NekoiMeiov",
     "category": "utilities",
     "stars": 19,
-    "version": "v1.1.0",
-    "updated_at": "2026-07-01T09:59:59Z"
+    "version": "v1.1.1",
+    "updated_at": "2026-07-09T07:21:02Z"
   },
   "astrbot_plugin_mc_update": {
     "display_name": "Minecraft 基岩版更新日志提醒插件",
@@ -10705,10 +10705,10 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "ai_tools",
-    "stars": 126,
+    "stars": 127,
     "version": "V1.2.3.hotfix.2",
     "astrbot_version": ">=4.11.0",
-    "updated_at": "2026-07-06T11:19:32Z",
+    "updated_at": "2026-07-09T06:00:23Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -15023,9 +15023,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 120,
+    "stars": 121,
     "version": "3.1.13",
-    "updated_at": "2026-07-09T01:37:08Z",
+    "updated_at": "2026-07-09T06:40:10Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -15121,9 +15121,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 186,
+    "stars": 187,
     "version": "v2.1.2",
-    "updated_at": "2026-07-03T10:21:01Z",
+    "updated_at": "2026-07-09T07:12:21Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -16788,9 +16788,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
     "category": "ai_tools",
-    "stars": 61,
+    "stars": 60,
     "version": "v2.0.0",
-    "updated_at": "2026-07-05T06:49:31Z",
+    "updated_at": "2026-07-09T07:18:17Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_browser/main/logo.png"
   },
   "astrbot_plugin_qqadmin": {
@@ -17890,9 +17890,9 @@
     "repo": "https://github.com/anka-afk/astrbot_plugin_humanlike",
     "category": "ai_tools",
     "tags": [],
-    "stars": 36,
+    "stars": 37,
     "version": "v0.2.2",
-    "updated_at": "2026-06-05T19:26:04Z"
+    "updated_at": "2026-07-09T08:20:33Z"
   },
   "astrbot_plugin_blue_archive": {
     "desc": "蔚蓝档案攻略查询 - 指令格式：攻略查询 <攻略名称>",
