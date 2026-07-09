@@ -4894,7 +4894,7 @@
     "category": "ai_tools",
     "stars": 56,
     "version": "3.2.0",
-    "updated_at": "2026-07-07T12:03:27Z",
+    "updated_at": "2026-07-09T17:17:14Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -9670,9 +9670,9 @@
       "comfyui"
     ],
     "category": "ai_tools",
-    "stars": 14,
+    "stars": 15,
     "version": "3.6.2",
-    "updated_at": "2026-07-08T18:07:22Z"
+    "updated_at": "2026-07-09T17:35:44Z"
   },
   "astrbot_plugin_timeprogress": {
     "display_name": "时间可视化",
@@ -12642,9 +12642,9 @@
       "AI绘画"
     ],
     "category": "ai_tools",
-    "stars": 24,
+    "stars": 25,
     "version": "v1.8.1",
-    "updated_at": "2026-01-28T02:06:30Z"
+    "updated_at": "2026-07-09T16:02:08Z"
   },
   "github_star_verify": {
     "desc": "[aiocqhttp]使用 GitHub 仓库的 Star 状态作为入群验证条件，仅允许已 Star 指定仓库的用户留在群内。",
@@ -15024,9 +15024,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 123,
+    "stars": 124,
     "version": "3.1.13",
-    "updated_at": "2026-07-09T14:44:11Z",
+    "updated_at": "2026-07-09T16:06:23Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
