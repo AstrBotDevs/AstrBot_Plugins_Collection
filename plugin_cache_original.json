@@ -4324,7 +4324,7 @@
     "category": "entertainment",
     "stars": 4,
     "version": "v1.0.0",
-    "updated_at": "2026-07-07T15:27:06Z"
+    "updated_at": "2026-07-09T00:10:32Z"
   },
   "astrbot-plugin-mail-notify": {
     "display_name": "📬 邮件通知",
@@ -8477,7 +8477,7 @@
     "category": "ai_tools",
     "stars": 33,
     "version": "v0.1.21",
-    "updated_at": "2026-06-29T05:25:55Z",
+    "updated_at": "2026-07-08T23:33:25Z",
     "logo": "https://raw.githubusercontent.com/sukafon/astrbot_plugin_big_banana/main/logo.png"
   },
   "astrbot_plugin_BitTorrent": {
