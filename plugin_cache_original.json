@@ -1032,12 +1032,12 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 35,
-    "version": "1.6.2",
+    "version": "1.6.8",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-08T04:09:13Z",
+    "updated_at": "2026-07-09T18:59:21Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_live_stream_companion/main/logo.png"
   },
   "astrbot-plugin-open-notebook": {
@@ -1133,7 +1133,7 @@
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-09T14:46:55Z",
+    "updated_at": "2026-07-09T17:58:14Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -3977,7 +3977,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 407,
+    "stars": 408,
     "version": "v4.10.6",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -3986,7 +3986,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-07-09T11:44:08Z",
+    "updated_at": "2026-07-09T18:35:01Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -7081,7 +7081,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 407,
+    "stars": 408,
     "version": "v4.10.6",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -7090,7 +7090,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-07-09T11:44:08Z",
+    "updated_at": "2026-07-09T18:35:01Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -7759,9 +7759,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 363,
+    "stars": 364,
     "version": "3.5.2",
-    "updated_at": "2026-07-09T14:23:21Z",
+    "updated_at": "2026-07-09T19:52:47Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -9670,9 +9670,9 @@
       "comfyui"
     ],
     "category": "ai_tools",
-    "stars": 15,
+    "stars": 16,
     "version": "3.6.2",
-    "updated_at": "2026-07-09T17:35:44Z"
+    "updated_at": "2026-07-09T19:53:41Z"
   },
   "astrbot_plugin_timeprogress": {
     "display_name": "时间可视化",
