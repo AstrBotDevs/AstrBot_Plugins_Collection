@@ -127,7 +127,7 @@
       "matrix",
       "mattermost"
     ],
-    "updated_at": "2026-07-07T01:43:53Z"
+    "updated_at": "2026-07-10T18:12:08Z"
   },
   "astrbot-plugin-deepseek-automatic-switch": {
     "display_name": "DeepSeek 自动切换",
@@ -1127,13 +1127,13 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 110,
-    "version": "5.9.3",
+    "version": "5.9.4",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-10T15:47:32Z",
+    "updated_at": "2026-07-10T18:08:10Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -2297,8 +2297,8 @@
     "tags": [],
     "social_link": "",
     "stars": 137,
-    "version": "3.7.5",
-    "updated_at": "2026-07-07T07:51:26Z",
+    "version": "3.8.0",
+    "updated_at": "2026-07-10T16:57:56Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -4862,8 +4862,8 @@
     "social_link": "https://github.com/RichardLiuda",
     "category": "utilities",
     "stars": 36,
-    "version": "v3.5.0",
-    "updated_at": "2026-07-10T16:12:10Z",
+    "version": "v3.6.0",
+    "updated_at": "2026-07-10T17:55:47Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -5241,8 +5241,8 @@
     "category": "entertainment",
     "tags": [],
     "stars": 36,
-    "version": "v2.0.0",
-    "updated_at": "2026-07-01T16:42:41Z",
+    "version": "v2.0.1",
+    "updated_at": "2026-07-10T17:04:26Z",
     "logo": "https://raw.githubusercontent.com/storyAura/astrbot_plugin_biliVideo/main/logo.png"
   },
   "astrbot-plugin-opencode-client": {
@@ -9809,9 +9809,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "utilities",
-    "stars": 145,
+    "stars": 146,
     "version": "v2.4.9",
-    "updated_at": "2026-06-30T13:06:24Z",
+    "updated_at": "2026-07-10T18:09:11Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -16915,9 +16915,9 @@
     "repo": "https://github.com/zj591227045/astrbot_plugin_Merge_WeMSG",
     "category": "utilities",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2025-04-06T10:55:03Z"
+    "updated_at": "2026-07-10T17:48:09Z"
   },
   "astrbot_plugin_wsde": {
     "desc": "一个发出随机维什戴尔游戏日语语音的AstrBot插件",
