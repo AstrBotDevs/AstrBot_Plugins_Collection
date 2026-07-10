@@ -140,9 +140,9 @@
     ],
     "social_link": "https://github.com/CMKH1337/astrbot_plugin_deepseek_automatic_switch",
     "stars": 5,
-    "version": "v1.0.0",
+    "version": "v1.1.0",
     "astrbot_version": ">=4.16,<5",
-    "updated_at": "2026-07-07T10:47:23Z"
+    "updated_at": "2026-07-10T15:17:44Z"
   },
   "astrbot-plugin-instant-memo": {
     "display_name": "速记备忘录",
@@ -407,8 +407,8 @@
     ],
     "social_link": "https://github.com/NightVoyager14",
     "stars": 1,
-    "version": "v1.0.1",
-    "updated_at": "2026-07-10T12:15:16Z",
+    "version": "v1.1.0",
+    "updated_at": "2026-07-10T13:30:29Z",
     "logo": "https://raw.githubusercontent.com/NightVoyager14/astrbot_plugin_just_enough_mcserver_status/main/logo.png"
   },
   "astrbot-plugin-tattle": {
@@ -1031,13 +1031,13 @@
       "互动"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 35,
-    "version": "1.6.8",
+    "stars": 36,
+    "version": "1.6.9",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-09T18:59:21Z",
+    "updated_at": "2026-07-10T15:08:35Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_live_stream_companion/main/logo.png"
   },
   "astrbot-plugin-open-notebook": {
@@ -1126,14 +1126,14 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 108,
+    "stars": 110,
     "version": "5.9.3",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-10T13:03:56Z",
+    "updated_at": "2026-07-10T15:47:32Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -4863,7 +4863,7 @@
     "category": "utilities",
     "stars": 36,
     "version": "v3.5.0",
-    "updated_at": "2026-07-09T21:49:10Z",
+    "updated_at": "2026-07-10T16:12:10Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -4892,9 +4892,9 @@
     ],
     "social_link": "https://github.com/menglimi",
     "category": "ai_tools",
-    "stars": 57,
-    "version": "3.2.0",
-    "updated_at": "2026-07-10T09:36:29Z",
+    "stars": 58,
+    "version": "3.2.2",
+    "updated_at": "2026-07-10T15:06:37Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -5172,7 +5172,7 @@
       "telegram",
       "discord"
     ],
-    "updated_at": "2026-07-07T03:49:34Z"
+    "updated_at": "2026-07-10T15:41:04Z"
   },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
@@ -5671,9 +5671,9 @@
     "repo": "https://github.com/luori7hao/astrbot_plugin_payqr",
     "category": "utilities",
     "tags": [],
-    "stars": 8,
+    "stars": 9,
     "version": "1.0.0",
-    "updated_at": "2026-04-13T11:58:16Z"
+    "updated_at": "2026-07-10T14:39:37Z"
   },
   "astrbot-plugin-jx3": {
     "display_name": "剑网三游戏数据查询工具",
@@ -6933,9 +6933,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
-    "stars": 46,
+    "stars": 47,
     "version": "v2.2.6",
-    "updated_at": "2026-07-02T05:57:38Z",
+    "updated_at": "2026-07-10T14:07:38Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_worldbook/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -10734,7 +10734,7 @@
       "discord",
       "lark"
     ],
-    "updated_at": "2026-07-10T13:00:13Z",
+    "updated_at": "2026-07-10T13:16:09Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
@@ -17916,9 +17916,9 @@
       "图床"
     ],
     "category": "entertainment",
-    "stars": 342,
+    "stars": 343,
     "version": "v4.03",
-    "updated_at": "2026-07-09T12:17:06Z",
+    "updated_at": "2026-07-10T14:52:35Z",
     "logo": "https://raw.githubusercontent.com/anka-afk/astrbot_plugin_meme_manager/main/logo.png"
   },
   "mccloud_command": {
