@@ -1825,14 +1825,14 @@
       "archive"
     ],
     "social_link": "https://github.com/YukiNo420",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.4.1",
     "support_platforms": [
       "aiocqhttp",
       "telegram",
       "discord"
     ],
-    "updated_at": "2026-06-25T02:15:01Z",
+    "updated_at": "2026-07-10T20:09:09Z",
     "logo": "https://raw.githubusercontent.com/YukiNo420/astrbot_plugin_chat_archive/main/logo.png"
   },
   "astrbot_plugin_agentmemory": {
@@ -2009,9 +2009,9 @@
     "social_link": "https://github.com/Ayleovelle",
     "tags": [],
     "stars": 51,
-    "version": "2.4.0",
+    "version": "2.4.1",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-07-10T05:32:28Z",
+    "updated_at": "2026-07-10T19:03:46Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -8573,9 +8573,9 @@
       "人格"
     ],
     "category": "ai_tools",
-    "stars": 166,
+    "stars": 167,
     "version": "1.4.20",
-    "updated_at": "2026-07-10T08:37:00Z",
+    "updated_at": "2026-07-10T20:20:57Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -11622,7 +11622,7 @@
     "tags": [],
     "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-03-13T03:58:18Z"
+    "updated_at": "2026-07-10T19:11:12Z"
   },
   "astrbot_plugin_galplayer": {
     "desc": "一个可以让你和群友一起推galgame的插件，需要在windows电脑上运行galgame本体。",
@@ -11664,9 +11664,9 @@
     "repo": "https://github.com/RC-CHN/astrbot_plugin_user_inject",
     "category": "ai_tools",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "1.0.0",
-    "updated_at": "2025-09-30T06:41:48Z"
+    "updated_at": "2026-07-10T18:39:33Z"
   },
   "astrbot_plugin_CourseSchedule": {
     "desc": "一个用于绑定、查询和分享课程表的插件",
