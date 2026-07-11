@@ -549,8 +549,8 @@
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
     "stars": 27,
-    "version": "1.4.1",
-    "updated_at": "2026-07-10T04:58:14Z"
+    "version": "1.4.2",
+    "updated_at": "2026-07-11T09:28:49Z"
   },
   "astrbot-plugin-Firefly-Blog-Manager": {
     "display_name": "Firefly 博客管理插件",
@@ -9028,9 +9028,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 165,
+    "stars": 166,
     "version": "v1.5.2",
-    "updated_at": "2026-07-10T12:52:35Z",
+    "updated_at": "2026-07-11T09:31:06Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
