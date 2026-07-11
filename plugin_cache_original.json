@@ -142,7 +142,7 @@
     "stars": 5,
     "version": "v1.1.0",
     "astrbot_version": ">=4.16,<5",
-    "updated_at": "2026-07-10T15:17:44Z"
+    "updated_at": "2026-07-11T08:15:36Z"
   },
   "astrbot-plugin-instant-memo": {
     "display_name": "速记备忘录",
@@ -8820,9 +8820,9 @@
       "群内互动"
     ],
     "category": "entertainment",
-    "stars": 7,
+    "stars": 8,
     "version": "v2.4.0",
-    "updated_at": "2026-07-11T05:25:52Z",
+    "updated_at": "2026-07-11T08:44:29Z",
     "logo": "https://raw.githubusercontent.com/wangyingxuan383-ai/astrbot_plugin_pet_market/main/logo.png"
   },
   "astrbot_plugin_anuneko": {
@@ -10726,7 +10726,7 @@
     ],
     "category": "utilities",
     "stars": 22,
-    "version": "2.1.8",
+    "version": "2.1.9",
     "astrbot_version": ">=4.16",
     "support_platforms": [
       "aiocqhttp",
@@ -10734,7 +10734,7 @@
       "discord",
       "lark"
     ],
-    "updated_at": "2026-07-11T06:15:23Z",
+    "updated_at": "2026-07-11T08:37:52Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
@@ -11017,7 +11017,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 335,
+    "stars": 336,
     "version": "v1.2.4",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -11029,7 +11029,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-07-10T11:24:35Z",
+    "updated_at": "2026-07-11T07:06:39Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
