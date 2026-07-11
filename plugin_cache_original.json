@@ -197,7 +197,7 @@
     ],
     "social_link": "https://github.com/lingyun14beta",
     "stars": 0,
-    "version": "1.0.0",
+    "version": "1.1.0",
     "support_platforms": [
       "aiocqhttp",
       "telegram",
@@ -205,7 +205,7 @@
       "dingtalk",
       "discord"
     ],
-    "updated_at": "2026-06-28T09:05:30Z"
+    "updated_at": "2026-07-11T11:33:24Z"
   },
   "astrbot-plugin-memosnotes": {
     "display_name": "Memos备忘录连接器",
@@ -588,10 +588,10 @@
       "电费监控",
       "易校园"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.4.0",
     "astrbot_version": ">=4.24.2,<5",
-    "updated_at": "2026-06-30T06:28:19Z"
+    "updated_at": "2026-07-11T10:37:03Z"
   },
   "astrbot-plugin-quota-hub": {
     "display_name": "Astrbot 配额中枢",
@@ -3652,7 +3652,7 @@
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
     "category": "entertainment",
-    "stars": 6,
+    "stars": 7,
     "version": "1.1.6",
     "astrbot_version": ">=4.16",
     "support_platforms": [
@@ -3663,7 +3663,7 @@
       "discord",
       "kook"
     ],
-    "updated_at": "2026-07-09T10:10:25Z",
+    "updated_at": "2026-07-11T10:48:29Z",
     "logo": "https://raw.githubusercontent.com/Sisyphbaous-DT-Project/astrbot_plugin_shit_detector_plus/main/logo.png"
   },
   "astrbot-plugin-minecraft-wiki": {
@@ -11094,9 +11094,9 @@
       "自动点赞"
     ],
     "category": "entertainment",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.3.0",
-    "updated_at": "2026-07-10T09:16:56Z",
+    "updated_at": "2026-07-11T10:35:56Z",
     "logo": "https://raw.githubusercontent.com/furry520-source/astrbot_plugin_furry_zan/astrbot_plugin_furry_zan/logo.png"
   },
   "zhiyu-astrbot-business": {
@@ -16810,7 +16810,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-11T01:27:19Z",
+    "updated_at": "2026-07-11T11:12:50Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
