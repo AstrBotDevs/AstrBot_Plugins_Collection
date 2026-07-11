@@ -441,7 +441,7 @@
     "stars": 6,
     "version": "0.2.1",
     "astrbot_version": ">=4.24.2",
-    "updated_at": "2026-07-11T03:19:13Z",
+    "updated_at": "2026-07-11T04:16:36Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_cost_control/main/logo.png"
   },
   "astrbot-plugin-dsa-pusher": {
@@ -1352,7 +1352,7 @@
     "repo": "https://github.com/shitianyaa/astrbot_plugin_nitter_tweets",
     "social_link": "https://github.com/shitianyaa",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "0.15.0",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -1361,7 +1361,7 @@
       "lark",
       "weixin_oc"
     ],
-    "updated_at": "2026-07-10T23:12:24Z",
+    "updated_at": "2026-07-11T04:51:46Z",
     "logo": "https://raw.githubusercontent.com/shitianyaa/astrbot_plugin_nitter_tweets/main/logo.png"
   },
   "astrbot_plugin_comfyui_hub": {
@@ -4207,9 +4207,9 @@
     ],
     "social_link": "https://github.com/sanqi-ya",
     "category": "entertainment",
-    "stars": 3,
+    "stars": 2,
     "version": "1.0.0",
-    "updated_at": "2026-06-23T03:52:19Z",
+    "updated_at": "2026-07-11T06:13:13Z",
     "logo": "https://raw.githubusercontent.com/sanqi-ya/astrbot_plugin_qqfarm/main/logo.png"
   },
   "astrbot-plugin-airi-voice": {
@@ -8821,8 +8821,8 @@
     ],
     "category": "entertainment",
     "stars": 7,
-    "version": "v2.3.9",
-    "updated_at": "2026-05-30T12:31:43Z",
+    "version": "v2.4.0",
+    "updated_at": "2026-07-11T05:25:52Z",
     "logo": "https://raw.githubusercontent.com/wangyingxuan383-ai/astrbot_plugin_pet_market/main/logo.png"
   },
   "astrbot_plugin_anuneko": {
@@ -9212,10 +9212,10 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "utilities",
-    "stars": 77,
+    "stars": 78,
     "version": "v1.5.3",
     "astrbot_version": ">=4.11.2",
-    "updated_at": "2026-07-10T06:42:36Z",
+    "updated_at": "2026-07-11T03:41:09Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -10726,7 +10726,7 @@
     ],
     "category": "utilities",
     "stars": 22,
-    "version": "2.1.7",
+    "version": "2.1.8",
     "astrbot_version": ">=4.16",
     "support_platforms": [
       "aiocqhttp",
@@ -10734,7 +10734,7 @@
       "discord",
       "lark"
     ],
-    "updated_at": "2026-07-10T13:16:09Z",
+    "updated_at": "2026-07-11T06:15:23Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
