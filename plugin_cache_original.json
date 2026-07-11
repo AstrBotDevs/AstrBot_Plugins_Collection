@@ -536,7 +536,7 @@
       "slack",
       "kook"
     ],
-    "updated_at": "2026-07-10T12:18:06Z",
+    "updated_at": "2026-07-11T14:55:04Z",
     "logo": "https://raw.githubusercontent.com/FFFold/astrbot_plugin_suwayomi_server/main/logo.png"
   },
   "astrbot-plugin-AstrNa": {
@@ -15024,9 +15024,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 126,
+    "stars": 127,
     "version": "3.1.13",
-    "updated_at": "2026-07-10T12:19:55Z",
+    "updated_at": "2026-07-11T15:26:46Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
