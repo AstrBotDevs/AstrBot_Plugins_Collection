@@ -1127,13 +1127,13 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 111,
-    "version": "5.9.4",
+    "version": "5.9.6",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-10T22:35:12Z",
+    "updated_at": "2026-07-11T12:01:52Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -2008,10 +2008,10 @@
     "repo": "https://github.com/Ayleovelle/astrbot_plugin_sylanne",
     "social_link": "https://github.com/Ayleovelle",
     "tags": [],
-    "stars": 51,
+    "stars": 53,
     "version": "2.4.1",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-07-10T19:03:46Z",
+    "updated_at": "2026-07-11T12:41:11Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -3916,9 +3916,9 @@
     ],
     "social_link": "https://github.com/Dracowyn",
     "category": "entertainment",
-    "stars": 3,
+    "stars": 4,
     "version": "v0.6.1",
-    "updated_at": "2026-04-17T04:31:18Z"
+    "updated_at": "2026-07-11T13:20:41Z"
   },
   "astrbot-plugin-emojikitchen": {
     "display_name": "Emoji Kitchen",
@@ -4861,9 +4861,9 @@
     ],
     "social_link": "https://github.com/RichardLiuda",
     "category": "utilities",
-    "stars": 36,
+    "stars": 37,
     "version": "v3.6.0",
-    "updated_at": "2026-07-10T17:55:47Z",
+    "updated_at": "2026-07-11T13:11:15Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -4894,7 +4894,7 @@
     "category": "ai_tools",
     "stars": 58,
     "version": "3.2.2",
-    "updated_at": "2026-07-10T15:06:37Z",
+    "updated_at": "2026-07-11T11:59:41Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -8253,9 +8253,9 @@
       "心理委员"
     ],
     "category": "entertainment",
-    "stars": 11,
+    "stars": 12,
     "version": "v1.0.0",
-    "updated_at": "2026-05-26T08:32:29Z"
+    "updated_at": "2026-07-11T13:05:12Z"
   },
   "astrbot_plugin_yt-dlp": {
     "display_name": "yt-dlp网页视频下载",
@@ -13311,9 +13311,9 @@
       "语音转文字"
     ],
     "category": "ai_tools",
-    "stars": 8,
+    "stars": 7,
     "version": "1.2.3",
-    "updated_at": "2026-06-02T15:45:16Z"
+    "updated_at": "2026-07-11T12:07:41Z"
   },
   "astrbot_plugin_bangumi": {
     "desc": "一个用于查询 Bangumi条目的插件",
