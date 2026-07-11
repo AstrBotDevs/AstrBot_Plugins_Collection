@@ -43,9 +43,9 @@
       "Playwright"
     ],
     "social_link": "https://github.com/dragonuniverse8248",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.1",
-    "updated_at": "2026-07-07T13:16:35Z",
+    "updated_at": "2026-07-10T22:37:30Z",
     "logo": "https://raw.githubusercontent.com/dragonuniverse8248/astrbot_plugin_bartender/main/logo.png"
   },
   "astrbot-plugin-halo-whisper": {
@@ -1126,14 +1126,14 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 110,
+    "stars": 111,
     "version": "5.9.4",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-10T18:08:10Z",
+    "updated_at": "2026-07-10T22:35:12Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -1353,7 +1353,7 @@
     "social_link": "https://github.com/shitianyaa",
     "tags": [],
     "stars": 5,
-    "version": "0.14.0",
+    "version": "0.15.0",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
       "aiocqhttp",
@@ -1361,7 +1361,7 @@
       "lark",
       "weixin_oc"
     ],
-    "updated_at": "2026-07-07T14:16:29Z",
+    "updated_at": "2026-07-10T23:12:24Z",
     "logo": "https://raw.githubusercontent.com/shitianyaa/astrbot_plugin_nitter_tweets/main/logo.png"
   },
   "astrbot_plugin_comfyui_hub": {
@@ -7788,9 +7788,9 @@
     "repo": "https://github.com/bylkuse/astrbot_plugin_help_typst",
     "category": "utilities",
     "tags": [],
-    "stars": 23,
+    "stars": 24,
     "version": "v0.1.1",
-    "updated_at": "2026-07-02T04:22:52Z",
+    "updated_at": "2026-07-10T22:47:25Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_help_typst/master/logo.png"
   },
   "astrbot_plugin_lb_provider": {
