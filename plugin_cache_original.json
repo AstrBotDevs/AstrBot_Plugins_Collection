@@ -1126,14 +1126,14 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 112,
+    "stars": 113,
     "version": "5.9.6",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-11T16:30:41Z",
+    "updated_at": "2026-07-11T18:21:47Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -5644,7 +5644,7 @@
     "stars": 25,
     "version": "v1.1.4",
     "astrbot_version": ">=4.17.6",
-    "updated_at": "2026-07-11T16:54:58Z",
+    "updated_at": "2026-07-11T17:16:27Z",
     "logo": "https://raw.githubusercontent.com/chuyegzs/astrbot_plugin_meting/main/logo.png"
   },
   "astrbot-plugin-comfyui": {
@@ -9212,10 +9212,10 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "utilities",
-    "stars": 78,
+    "stars": 79,
     "version": "v1.5.3",
     "astrbot_version": ">=4.11.2",
-    "updated_at": "2026-07-11T03:41:09Z",
+    "updated_at": "2026-07-11T19:04:27Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -10266,8 +10266,8 @@
     ],
     "category": "utilities",
     "stars": 55,
-    "version": "v6.3.1",
-    "updated_at": "2026-07-09T11:01:47Z",
+    "version": "v6.3.2",
+    "updated_at": "2026-07-11T18:00:50Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -16804,13 +16804,13 @@
       "QQ群管"
     ],
     "category": "utilities",
-    "stars": 161,
+    "stars": 162,
     "version": "v3.3.0",
     "astrbot_version": ">=4.24.2",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-11T11:12:50Z",
+    "updated_at": "2026-07-11T18:09:27Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -17916,9 +17916,9 @@
       "图床"
     ],
     "category": "entertainment",
-    "stars": 343,
+    "stars": 344,
     "version": "v4.03",
-    "updated_at": "2026-07-10T14:52:35Z",
+    "updated_at": "2026-07-11T18:03:27Z",
     "logo": "https://raw.githubusercontent.com/anka-afk/astrbot_plugin_meme_manager/main/logo.png"
   },
   "mccloud_command": {
