@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-cwa-alert": {
+    "display_name": "中央氣象署氣象與災害警報播報外掛",
+    "desc": "將交通部中央氣象署發布的縣市天氣、地震、海嘯、颱風與其他災害警特報，主動傳送至經管理員明確登記的 AstrBot 群組。外掛使用完整 UMO（Unified Message Origin）識別目標，不綁定 QQ 或任何單一平台的私有介面。",
+    "author": "Qiuxyi_0",
+    "repo": "https://github.com/Vlxnz/astrbot_plugin_cwa_alert",
+    "tags": [
+      "天气",
+      "台风",
+      "天气预报"
+    ],
+    "social_link": "0-qx.com"
+  },
   "astrbot-plugin-anima-master": {
     "display_name": "Anima 绘图大师",
     "desc": "将 AstrBot 连接到本地 ComfyUI / Anima 工作流，提供生图、提示词优化、法术解析和图片反推能力。",
