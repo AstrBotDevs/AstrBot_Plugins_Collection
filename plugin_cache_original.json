@@ -520,7 +520,7 @@
     "stars": 6,
     "version": "0.2.1",
     "astrbot_version": ">=4.24.2",
-    "updated_at": "2026-07-11T04:16:36Z",
+    "updated_at": "2026-07-12T15:41:35Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_cost_control/main/logo.png"
   },
   "astrbot-plugin-dsa-pusher": {
@@ -4940,9 +4940,9 @@
     ],
     "social_link": "https://github.com/RichardLiuda",
     "category": "utilities",
-    "stars": 38,
+    "stars": 39,
     "version": "v3.6.0",
-    "updated_at": "2026-07-12T11:12:52Z",
+    "updated_at": "2026-07-12T15:12:16Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -11055,9 +11055,9 @@
       "TTS"
     ],
     "category": "utilities",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.1",
-    "updated_at": "2026-03-19T18:07:39Z",
+    "updated_at": "2026-07-12T15:54:51Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_tts_sanitizer/master/logo.png"
   },
   "astrbot_plugin_github_monitor_shell": {
@@ -12626,9 +12626,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 279,
+    "stars": 280,
     "version": "2.3.6",
-    "updated_at": "2026-07-09T03:20:35Z",
+    "updated_at": "2026-07-12T15:13:52Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -15103,9 +15103,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 128,
+    "stars": 129,
     "version": "3.1.13",
-    "updated_at": "2026-07-12T02:29:55Z",
+    "updated_at": "2026-07-12T15:19:57Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -16088,10 +16088,10 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "entertainment",
-    "stars": 255,
+    "stars": 256,
     "version": "v3.1.1",
     "astrbot_version": ">=4.26.1",
-    "updated_at": "2026-07-07T17:04:16Z",
+    "updated_at": "2026-07-12T16:06:38Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
