@@ -1,4 +1,14 @@
 {
+  "astrbot-plugin-github-trending": {
+    "display_name": "GitHub Trending",
+    "desc": "每日 GitHub Trending 榜单推送插件，支持定时推送到指定群聊/私聊，以排行榜图片形式展示。",
+    "author": "MillionDream",
+    "repo": "https://github.com/MillionDreamQAQ/astrbot_plugin_github_trending",
+    "tags": [
+      "github"
+    ],
+    "social_link": "https://github.com/MillionDreamQAQ"
+  },
   "astrbot-plugin-vikunja": {
     "display_name": "Vikunja助手",
     "desc": "让Astrbot连接Vikunja成为你的私人助手",
