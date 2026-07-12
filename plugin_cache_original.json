@@ -12,8 +12,8 @@
     ],
     "social_link": "https://github.com/YayiMiko/anima-master",
     "stars": 3,
-    "version": "0.2.1",
-    "updated_at": "2026-07-10T11:42:15Z"
+    "version": "0.3.0-rc.10",
+    "updated_at": "2026-07-12T05:45:31Z"
   },
   "astrbot-plugin-fund": {
     "display_name": "基金小助手",
@@ -524,7 +524,7 @@
       "漫画订阅"
     ],
     "stars": 8,
-    "version": "0.4.8",
+    "version": "0.4.9",
     "support_platforms": [
       "aiocqhttp",
       "telegram",
@@ -536,7 +536,7 @@
       "slack",
       "kook"
     ],
-    "updated_at": "2026-07-11T14:55:04Z",
+    "updated_at": "2026-07-12T05:01:59Z",
     "logo": "https://raw.githubusercontent.com/FFFold/astrbot_plugin_suwayomi_server/main/logo.png"
   },
   "astrbot-plugin-AstrNa": {
@@ -3986,7 +3986,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-07-10T12:33:52Z",
+    "updated_at": "2026-07-12T04:21:29Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -4368,9 +4368,9 @@
     ],
     "social_link": "https://github.com/FlanChanXwO",
     "category": "utilities",
-    "stars": 23,
+    "stars": 24,
     "version": "v2.0.0",
-    "updated_at": "2026-06-29T22:54:38Z",
+    "updated_at": "2026-07-12T05:10:46Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_status/master/logo.png"
   },
   "astrbot-plugin-adsb-monitor": {
@@ -7090,7 +7090,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-07-10T12:33:52Z",
+    "updated_at": "2026-07-12T04:21:29Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -9212,10 +9212,10 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "utilities",
-    "stars": 79,
+    "stars": 80,
     "version": "v1.5.3",
     "astrbot_version": ">=4.11.2",
-    "updated_at": "2026-07-11T19:04:27Z",
+    "updated_at": "2026-07-12T05:21:15Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -11017,7 +11017,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 336,
+    "stars": 337,
     "version": "v1.2.4",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -11029,7 +11029,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-07-11T07:06:39Z",
+    "updated_at": "2026-07-12T04:43:03Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
