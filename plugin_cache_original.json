@@ -518,9 +518,9 @@
     ],
     "social_link": "https://github.com/leafliber",
     "stars": 6,
-    "version": "0.2.1",
+    "version": "0.3.0",
     "astrbot_version": ">=4.24.2",
-    "updated_at": "2026-07-12T15:41:35Z",
+    "updated_at": "2026-07-12T16:34:43Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_cost_control/main/logo.png"
   },
   "astrbot-plugin-dsa-pusher": {
@@ -737,7 +737,7 @@
     "social_link": "https://github.com/Leafliber",
     "stars": 12,
     "version": "0.2.0",
-    "updated_at": "2026-07-12T12:59:32Z",
+    "updated_at": "2026-07-12T16:22:35Z",
     "logo": "https://raw.githubusercontent.com/Leafliber/astrbot_plugin_iris_chat_memory/main/logo.png"
   },
   "astrbot-plugin-minecraft-multi-monitor": {
@@ -4056,7 +4056,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 409,
+    "stars": 410,
     "version": "v4.10.9",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -4065,7 +4065,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-07-12T14:21:20Z",
+    "updated_at": "2026-07-12T17:11:05Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -4447,9 +4447,9 @@
     ],
     "social_link": "https://github.com/FlanChanXwO",
     "category": "utilities",
-    "stars": 24,
+    "stars": 25,
     "version": "v2.0.0",
-    "updated_at": "2026-07-12T05:10:46Z",
+    "updated_at": "2026-07-12T16:56:56Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_status/master/logo.png"
   },
   "astrbot-plugin-adsb-monitor": {
@@ -7160,7 +7160,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 409,
+    "stars": 410,
     "version": "v4.10.9",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -7169,7 +7169,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-07-12T14:21:20Z",
+    "updated_at": "2026-07-12T17:11:05Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -8668,9 +8668,9 @@
       "群聊优化"
     ],
     "category": "ai_tools",
-    "stars": 119,
+    "stars": 120,
     "version": "0.9.3",
-    "updated_at": "2026-07-10T08:36:54Z",
+    "updated_at": "2026-07-12T17:06:04Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -9294,7 +9294,7 @@
     "stars": 80,
     "version": "v1.6.0-beta.1",
     "astrbot_version": ">=4.11.2",
-    "updated_at": "2026-07-12T09:25:21Z",
+    "updated_at": "2026-07-12T17:38:17Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -10785,10 +10785,10 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "ai_tools",
-    "stars": 131,
+    "stars": 132,
     "version": "V1.2.3.hotfix.2",
     "astrbot_version": ">=4.11.0",
-    "updated_at": "2026-07-12T10:01:09Z",
+    "updated_at": "2026-07-12T16:19:43Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -15201,9 +15201,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 187,
+    "stars": 188,
     "version": "v2.1.3",
-    "updated_at": "2026-07-10T01:29:39Z",
+    "updated_at": "2026-07-12T17:41:14Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -16304,9 +16304,9 @@
     ],
     "social_link": "https://github.com/vmoranv-reborn",
     "category": "entertainment",
-    "stars": 49,
+    "stars": 50,
     "version": "1.7.4",
-    "updated_at": "2026-07-08T00:25:34Z",
+    "updated_at": "2026-07-12T17:06:33Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
