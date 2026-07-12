@@ -2188,10 +2188,10 @@
       "连通性检测",
       "模型检测"
     ],
-    "stars": 4,
+    "stars": 5,
     "version": "v1.5.1",
     "astrbot_version": ">=4.9.2",
-    "updated_at": "2026-06-30T10:09:41Z",
+    "updated_at": "2026-07-12T13:51:09Z",
     "logo": "https://raw.githubusercontent.com/blueraina/astrbot_plugin_model_connectivity/main/logo.png"
   },
   "astrbot-plugin-robomaster-assistant": {
@@ -4057,7 +4057,7 @@
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
     "stars": 409,
-    "version": "v4.10.8",
+    "version": "v4.10.9",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
       "aiocqhttp",
@@ -4065,7 +4065,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-07-12T04:21:29Z",
+    "updated_at": "2026-07-12T14:21:20Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -7161,7 +7161,7 @@
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
     "stars": 409,
-    "version": "v4.10.8",
+    "version": "v4.10.9",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
       "aiocqhttp",
@@ -7169,7 +7169,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-07-12T04:21:29Z",
+    "updated_at": "2026-07-12T14:21:20Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -7729,14 +7729,14 @@
     ],
     "social_link": "https://github.com/VanillaNahida/",
     "category": "utilities",
-    "stars": 31,
+    "stars": 32,
     "version": "v1.3.3",
     "astrbot_version": ">=4.24.2",
     "support_platforms": [
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-07-08T17:11:07Z",
+    "updated_at": "2026-07-12T14:15:59Z",
     "logo": "https://raw.githubusercontent.com/VanillaNahida/astrbot_plugin_group_geetest_verify/master/logo.png"
   },
   "astrbot_plugin_cliproxy_stats": {
@@ -11096,7 +11096,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 337,
+    "stars": 338,
     "version": "v1.2.4",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -11108,7 +11108,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-07-12T04:43:03Z",
+    "updated_at": "2026-07-12T14:49:41Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -14036,9 +14036,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "ai_tools",
-    "stars": 83,
+    "stars": 84,
     "version": "2.1.1",
-    "updated_at": "2026-06-29T10:34:43Z"
+    "updated_at": "2026-07-12T14:28:11Z"
   },
   "cngal_search": {
     "desc": "CnGal查询",
@@ -17607,8 +17607,8 @@
     "category": "utilities",
     "tags": [],
     "stars": 3,
-    "version": "v1.1",
-    "updated_at": "2026-04-30T13:22:25Z"
+    "version": "v1.2",
+    "updated_at": "2026-07-12T13:52:48Z"
   },
   "astrbot_plugin_videos_analysis": {
     "desc": "聚合视频分享链接解析（仅测试过napcat）",
@@ -17995,9 +17995,9 @@
       "图床"
     ],
     "category": "entertainment",
-    "stars": 344,
+    "stars": 345,
     "version": "v4.03",
-    "updated_at": "2026-07-11T18:03:27Z",
+    "updated_at": "2026-07-12T14:51:55Z",
     "logo": "https://raw.githubusercontent.com/anka-afk/astrbot_plugin_meme_manager/main/logo.png"
   },
   "mccloud_command": {
