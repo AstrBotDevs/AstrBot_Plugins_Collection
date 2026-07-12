@@ -1205,14 +1205,14 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 114,
+    "stars": 116,
     "version": "5.9.6",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-12T07:24:55Z",
+    "updated_at": "2026-07-12T10:28:05Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -2348,11 +2348,11 @@
       "推特"
     ],
     "stars": 24,
-    "version": "v1.7.0",
+    "version": "v1.7.1",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-12T07:47:26Z",
+    "updated_at": "2026-07-12T11:04:39Z",
     "logo": "https://raw.githubusercontent.com/Ars1027/astrbot_plugin_twitter/master/logo.png"
   },
   "astrbot_plugin_course": {
@@ -4973,7 +4973,7 @@
     "category": "ai_tools",
     "stars": 59,
     "version": "3.2.2",
-    "updated_at": "2026-07-11T22:47:08Z",
+    "updated_at": "2026-07-12T09:45:28Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -7838,9 +7838,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 364,
+    "stars": 365,
     "version": "3.5.2",
-    "updated_at": "2026-07-09T19:52:47Z",
+    "updated_at": "2026-07-12T10:47:47Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -9292,9 +9292,9 @@
     "social_link": "https://github.com/DBJD-CR",
     "category": "utilities",
     "stars": 80,
-    "version": "v1.5.3",
+    "version": "v1.6.0-beta.1",
     "astrbot_version": ">=4.11.2",
-    "updated_at": "2026-07-12T05:21:15Z",
+    "updated_at": "2026-07-12T09:25:21Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -10785,10 +10785,10 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "ai_tools",
-    "stars": 130,
+    "stars": 131,
     "version": "V1.2.3.hotfix.2",
     "astrbot_version": ">=4.11.0",
-    "updated_at": "2026-07-11T02:05:51Z",
+    "updated_at": "2026-07-12T10:01:09Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -17950,9 +17950,9 @@
       "搬史"
     ],
     "category": "utilities",
-    "stars": 584,
+    "stars": 585,
     "version": "v0.916",
-    "updated_at": "2026-07-09T02:38:06Z"
+    "updated_at": "2026-07-12T10:18:37Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
