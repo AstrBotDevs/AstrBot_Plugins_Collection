@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-qbittorrent-manager": {
+    "display_name": "AstrBot qBittorrent Manager",
+    "desc": "基于 AstrBot 的 qBittorrent 管理插件，支持在 QQ 群中搜索北洋园 PT 等 NexusPHP 站点种子，并通过卡片展示结果，一键推送到 qBittorrent 下载。",
+    "author": "JustMonika24769",
+    "repo": "https://github.com/JustMonika24769/astrbot_plugin_qbittorrent_manager",
+    "tags": [
+      "qBittorrent",
+      "PT"
+    ],
+    "social_link": "https://github.com/JustMonika24769"
+  },
   "astrbot-plugin-github-trending": {
     "display_name": "GitHub Trending",
     "desc": "每日 GitHub Trending 榜单推送插件，支持定时推送到指定群聊/私聊，以排行榜图片形式展示。",
