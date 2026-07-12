@@ -10,8 +10,8 @@
     ],
     "social_link": "https://github.com/JustMonika24769",
     "stars": 0,
-    "version": "v1.1.0",
-    "updated_at": "2026-07-10T12:03:43Z"
+    "version": "v1.2.0",
+    "updated_at": "2026-07-12T12:33:36Z"
   },
   "astrbot-plugin-github-trending": {
     "display_name": "GitHub Trending",
@@ -737,7 +737,7 @@
     "social_link": "https://github.com/Leafliber",
     "stars": 12,
     "version": "0.2.0",
-    "updated_at": "2026-07-09T08:40:37Z",
+    "updated_at": "2026-07-12T12:59:32Z",
     "logo": "https://raw.githubusercontent.com/Leafliber/astrbot_plugin_iris_chat_memory/main/logo.png"
   },
   "astrbot-plugin-minecraft-multi-monitor": {
@@ -1904,14 +1904,14 @@
       "archive"
     ],
     "social_link": "https://github.com/YukiNo420",
-    "stars": 7,
+    "stars": 6,
     "version": "v1.4.1",
     "support_platforms": [
       "aiocqhttp",
       "telegram",
       "discord"
     ],
-    "updated_at": "2026-07-11T14:10:22Z",
+    "updated_at": "2026-07-12T11:33:00Z",
     "logo": "https://raw.githubusercontent.com/YukiNo420/astrbot_plugin_chat_archive/main/logo.png"
   },
   "astrbot_plugin_agentmemory": {
@@ -4477,7 +4477,7 @@
     "repo": "https://github.com/674537331/astrbot_plugin_mihome",
     "category": "integrations",
     "tags": [],
-    "stars": 32,
+    "stars": 33,
     "version": "v7.2.1",
     "astrbot_version": ">=4.0.0",
     "support_platforms": [
@@ -4485,7 +4485,7 @@
       "qq_official",
       "gewechat"
     ],
-    "updated_at": "2026-06-23T02:00:02Z",
+    "updated_at": "2026-07-12T12:24:36Z",
     "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_mihome/main/logo.png"
   },
   "astrbot-plugin-nai-brush": {
@@ -4940,9 +4940,9 @@
     ],
     "social_link": "https://github.com/RichardLiuda",
     "category": "utilities",
-    "stars": 37,
+    "stars": 38,
     "version": "v3.6.0",
-    "updated_at": "2026-07-11T13:11:15Z",
+    "updated_at": "2026-07-12T11:12:52Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -5019,9 +5019,9 @@
     ],
     "social_link": "https://github.com/w2902171175",
     "category": "ai_tools",
-    "stars": 15,
+    "stars": 16,
     "version": "v1.7.1",
-    "updated_at": "2026-07-07T04:35:45Z"
+    "updated_at": "2026-07-12T12:36:42Z"
   },
   "astrbot-plugin-custome-segment-reply": {
     "display_name": "自定义断句回复插件",
@@ -5260,9 +5260,9 @@
     "repo": "https://github.com/w2902171175/astrbot_plugin_GPT-SoVITS",
     "category": "ai_tools",
     "tags": [],
-    "stars": 15,
+    "stars": 16,
     "version": "v1.7.1",
-    "updated_at": "2026-07-07T04:35:45Z"
+    "updated_at": "2026-07-12T12:36:42Z"
   },
   "astrbot-plugin-topic-starter": {
     "display_name": "topic_starter",
@@ -5575,9 +5575,9 @@
     ],
     "social_link": "https://github.com/Radiant303",
     "category": "ai_tools",
-    "stars": 44,
+    "stars": 45,
     "version": "v2.3.1",
-    "updated_at": "2026-07-08T09:58:46Z",
+    "updated_at": "2026-07-12T11:34:54Z",
     "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_clonetts/master/logo.png"
   },
   "astrbot-plugin-ssh": {
@@ -7180,9 +7180,9 @@
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
     "tags": [],
-    "stars": 10,
+    "stars": 11,
     "version": "2.2.0",
-    "updated_at": "2026-06-10T15:45:52Z"
+    "updated_at": "2026-07-12T12:44:55Z"
   },
   "astrbot_plugin_balance_get": {
     "display_name": "模型平台余额查询",
@@ -10813,7 +10813,7 @@
       "discord",
       "lark"
     ],
-    "updated_at": "2026-07-11T08:37:52Z",
+    "updated_at": "2026-07-12T13:18:04Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
@@ -11314,9 +11314,9 @@
       "训练"
     ],
     "category": "productivity",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.0",
-    "updated_at": "2026-06-29T14:16:19Z"
+    "updated_at": "2026-07-12T12:08:20Z"
   },
   "astrbot_plugin_chat_queue": {
     "desc": "让并发消息按照队列依次执行",
@@ -13232,9 +13232,9 @@
     ],
     "social_link": "https://github.com/SodaSizzle",
     "category": "entertainment",
-    "stars": 68,
+    "stars": 69,
     "version": "v2.1",
-    "updated_at": "2026-07-08T18:38:50Z",
+    "updated_at": "2026-07-12T13:06:11Z",
     "logo": "https://raw.githubusercontent.com/SodaSizzle/astrbot_plugin_meme_generator/master/logo.png"
   },
   "astrbot_plugin_baiduocr": {
@@ -16637,9 +16637,9 @@
     ],
     "social_link": "https://docs.sayu-bot.com/",
     "category": "integrations",
-    "stars": 48,
+    "stars": 49,
     "version": "v0.5.0",
-    "updated_at": "2026-07-06T01:54:06Z"
+    "updated_at": "2026-07-12T12:33:57Z"
   },
   "astrbot_plugin_xyzw": {
     "author": "四郎",
@@ -16883,13 +16883,13 @@
       "QQ群管"
     ],
     "category": "utilities",
-    "stars": 162,
+    "stars": 163,
     "version": "v3.3.0",
     "astrbot_version": ">=4.24.2",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-11T18:09:27Z",
+    "updated_at": "2026-07-12T13:07:38Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
