@@ -7838,9 +7838,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 365,
+    "stars": 366,
     "version": "3.5.2",
-    "updated_at": "2026-07-12T10:47:47Z",
+    "updated_at": "2026-07-12T18:56:50Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -9108,8 +9108,8 @@
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
     "stars": 166,
-    "version": "v1.5.2",
-    "updated_at": "2026-07-11T09:31:06Z",
+    "version": "v1.5.3",
+    "updated_at": "2026-07-12T18:52:58Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -10225,9 +10225,9 @@
     ],
     "social_link": "https://github.com/NekoiMeiov",
     "category": "utilities",
-    "stars": 19,
+    "stars": 20,
     "version": "v1.2.0",
-    "updated_at": "2026-07-09T10:31:08Z"
+    "updated_at": "2026-07-12T18:40:11Z"
   },
   "astrbot_plugin_mc_update": {
     "display_name": "Minecraft 基岩版更新日志提醒插件",
@@ -13440,9 +13440,9 @@
     ],
     "social_link": "https://github.com/vmoranv",
     "category": "entertainment",
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.3",
-    "updated_at": "2025-10-17T00:35:08Z"
+    "updated_at": "2026-07-12T18:22:40Z"
   },
   "astrbot_plugin_identity_strategy": {
     "desc": "为群聊/私聊注入指定的应对提示词（纯配置，无命令；支持特殊ID与空白策略）",
