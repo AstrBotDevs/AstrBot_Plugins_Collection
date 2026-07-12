@@ -1802,12 +1802,12 @@
     ],
     "social_link": "https://github.com/casama233",
     "stars": 1,
-    "version": "0.2.14",
+    "version": "0.2.15",
     "astrbot_version": ">=4.13.0",
     "support_platforms": [
       "whatsapp"
     ],
-    "updated_at": "2026-06-25T18:08:16Z",
+    "updated_at": "2026-07-12T21:35:07Z",
     "logo": "https://raw.githubusercontent.com/casama233/astrbot_plugin_whatsapp_adapter/main/logo.png"
   },
   "astrbot-plugin-qzone-ultra": {
