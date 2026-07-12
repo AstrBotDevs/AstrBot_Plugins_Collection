@@ -1206,13 +1206,13 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 116,
-    "version": "5.9.6",
+    "version": "5.9.8",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-12T10:28:05Z",
+    "updated_at": "2026-07-12T19:55:45Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
