@@ -1,4 +1,10 @@
 {
+  "astrbot-plugin-vikunja": {
+    "display_name": "Vikunja助手",
+    "desc": "让Astrbot连接Vikunja成为你的私人助手",
+    "author": "Marshall3821",
+    "repo": "https://github.com/Makarov3821/astrbot_plugin_vikunja"
+  },
   "astrbot-plugin-cwa-alert": {
     "display_name": "中央氣象署氣象與災害警報播報外掛",
     "desc": "將交通部中央氣象署發布的縣市天氣、地震、海嘯、颱風與其他災害警特報，主動傳送至經管理員明確登記的 AstrBot 群組。外掛使用完整 UMO（Unified Message Origin）識別目標，不綁定 QQ 或任何單一平台的私有介面。",
