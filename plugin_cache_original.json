@@ -2087,10 +2087,10 @@
     "repo": "https://github.com/Ayleovelle/astrbot_plugin_sylanne",
     "social_link": "https://github.com/Ayleovelle",
     "tags": [],
-    "stars": 53,
+    "stars": 54,
     "version": "2.4.1",
     "astrbot_version": ">=4.9.2,<5.0.0",
-    "updated_at": "2026-07-11T12:41:11Z",
+    "updated_at": "2026-07-13T20:02:45Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
