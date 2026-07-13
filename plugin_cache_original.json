@@ -23,8 +23,8 @@
     ],
     "social_link": "https://github.com/MillionDreamQAQ",
     "stars": 1,
-    "version": "v1.0.0",
-    "updated_at": "2026-07-11T04:34:24Z",
+    "version": "v1.1.0",
+    "updated_at": "2026-07-13T01:02:29Z",
     "logo": "https://raw.githubusercontent.com/MillionDreamQAQ/astrbot_plugin_github_trending/master/logo.png"
   },
   "astrbot-plugin-vikunja": {
@@ -1819,12 +1819,12 @@
       "QQ空间"
     ],
     "stars": 32,
-    "version": "0.8.0",
+    "version": "0.8.2",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-09T13:03:57Z",
+    "updated_at": "2026-07-13T00:46:30Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_qzone_ultra/main/logo.png"
   },
   "telethon-bot-adapter": {
@@ -2257,9 +2257,9 @@
     ],
     "social_link": "",
     "stars": 58,
-    "version": "3.3.22",
+    "version": "3.3.23",
     "astrbot_version": ">=4.16,<5",
-    "updated_at": "2026-07-08T10:14:38Z",
+    "updated_at": "2026-07-13T01:25:20Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot-plugin-essentials": {
@@ -2375,9 +2375,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 138,
+    "stars": 139,
     "version": "3.8.0",
-    "updated_at": "2026-07-11T19:13:30Z",
+    "updated_at": "2026-07-13T01:18:33Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -4940,9 +4940,9 @@
     ],
     "social_link": "https://github.com/RichardLiuda",
     "category": "utilities",
-    "stars": 39,
+    "stars": 40,
     "version": "v3.6.0",
-    "updated_at": "2026-07-12T15:12:16Z",
+    "updated_at": "2026-07-13T01:31:44Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -8540,9 +8540,9 @@
     ],
     "social_link": "https://github.com/MegSopern",
     "category": "entertainment",
-    "stars": 40,
+    "stars": 41,
     "version": "1.2.0",
-    "updated_at": "2026-06-28T21:05:25Z",
+    "updated_at": "2026-07-13T01:22:32Z",
     "logo": "https://raw.githubusercontent.com/MegSopern/astrbot_plugin_rollpig/main/logo.png"
   },
   "astrbot_plugin_big_banana": {
@@ -8556,8 +8556,8 @@
     ],
     "category": "ai_tools",
     "stars": 33,
-    "version": "v0.1.21",
-    "updated_at": "2026-07-08T23:33:25Z",
+    "version": "v0.2.0",
+    "updated_at": "2026-07-13T02:52:19Z",
     "logo": "https://raw.githubusercontent.com/sukafon/astrbot_plugin_big_banana/main/logo.png"
   },
   "astrbot_plugin_BitTorrent": {
@@ -9253,9 +9253,9 @@
     ],
     "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
     "category": "utilities",
-    "stars": 43,
+    "stars": 44,
     "version": "v1.4.0",
-    "updated_at": "2026-07-09T20:03:08Z",
+    "updated_at": "2026-07-13T02:54:47Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -18246,7 +18246,7 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "category": "integrations",
     "tags": [],
-    "stars": 86,
+    "stars": 87,
     "version": "v1.6.4",
     "astrbot_version": ">=4.5.2",
     "support_platforms": [
@@ -18254,7 +18254,7 @@
       "telegram",
       "weixin_oc"
     ],
-    "updated_at": "2026-07-08T03:38:47Z",
+    "updated_at": "2026-07-13T00:02:36Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
