@@ -1802,12 +1802,12 @@
     ],
     "social_link": "https://github.com/casama233",
     "stars": 2,
-    "version": "0.2.15",
+    "version": "0.2.16",
     "astrbot_version": ">=4.13.0",
     "support_platforms": [
       "whatsapp"
     ],
-    "updated_at": "2026-07-13T09:55:04Z",
+    "updated_at": "2026-07-13T10:32:33Z",
     "logo": "https://raw.githubusercontent.com/casama233/astrbot_plugin_whatsapp_adapter/main/logo.png"
   },
   "astrbot-plugin-qzone-ultra": {
@@ -1819,12 +1819,12 @@
       "QQ空间"
     ],
     "stars": 32,
-    "version": "0.8.2",
+    "version": "0.9.0",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-13T00:46:30Z",
+    "updated_at": "2026-07-13T10:38:12Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_qzone_ultra/main/logo.png"
   },
   "telethon-bot-adapter": {
@@ -5407,9 +5407,9 @@
     ],
     "social_link": "https://github.com/potatoworkshop",
     "category": "productivity",
-    "stars": 0,
+    "stars": 1,
     "version": "v0.2.0",
-    "updated_at": "2026-02-22T18:58:01Z"
+    "updated_at": "2026-07-13T11:51:36Z"
   },
   "astrbot-plugin-ow-hero-stats": {
     "display_name": "守望先锋 （国服）数据可视化查询插件",
@@ -5893,9 +5893,9 @@
       "转链"
     ],
     "category": "utilities",
-    "stars": 17,
+    "stars": 18,
     "version": "1.0.3",
-    "updated_at": "2026-06-22T08:02:57Z",
+    "updated_at": "2026-07-13T12:31:37Z",
     "logo": "https://raw.githubusercontent.com/chufeng/astrbot_plugin_bili_resolver/main/logo.png"
   },
   "astrbot-plugin-inkfusion": {
@@ -8557,7 +8557,7 @@
     "category": "ai_tools",
     "stars": 33,
     "version": "v0.2.0",
-    "updated_at": "2026-07-13T02:52:19Z",
+    "updated_at": "2026-07-13T12:09:07Z",
     "logo": "https://raw.githubusercontent.com/sukafon/astrbot_plugin_big_banana/main/logo.png"
   },
   "astrbot_plugin_BitTorrent": {
@@ -8668,9 +8668,9 @@
       "群聊优化"
     ],
     "category": "ai_tools",
-    "stars": 120,
+    "stars": 121,
     "version": "0.9.3",
-    "updated_at": "2026-07-12T17:06:04Z",
+    "updated_at": "2026-07-13T12:38:05Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -10912,14 +10912,14 @@
     "repo": "https://github.com/SatenShiroya/astrbot_plugin_llm_qqgroupTools",
     "category": "ai_tools",
     "tags": [],
-    "stars": 21,
+    "stars": 22,
     "version": "V2.3.0",
     "astrbot_version": ">=4.12.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-05-22T13:33:36Z",
+    "updated_at": "2026-07-13T13:02:52Z",
     "logo": "https://raw.githubusercontent.com/SatenShiroya/astrbot_plugin_llm_qqgroupTools/master/logo.png"
   },
   "astrbot_plugin_cs_skins": {
@@ -16350,9 +16350,9 @@
     "social_link": "https://github.com/Wayzinx",
     "category": "utilities",
     "tags": [],
-    "stars": 6,
+    "stars": 5,
     "version": "v1.0.2",
-    "updated_at": "2026-01-16T11:12:22Z"
+    "updated_at": "2026-07-13T10:41:52Z"
   },
   "astrbot_plugin_status-pro": {
     "author": "tiker",
@@ -17472,12 +17472,12 @@
       "实用工具"
     ],
     "category": "utilities",
-    "stars": 52,
+    "stars": 53,
     "version": "v3.0.4",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-10T01:01:44Z",
+    "updated_at": "2026-07-13T12:15:52Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
@@ -17904,7 +17904,7 @@
     "category": "utilities",
     "stars": 25,
     "version": "v1.8.8",
-    "updated_at": "2026-07-10T11:10:36Z",
+    "updated_at": "2026-07-13T12:32:22Z",
     "logo": "https://raw.githubusercontent.com/inori-3333/astrbot_plugin_steamshot/master/logo.png"
   },
   "astrbot_plugin_GGAC_Messenger": {
@@ -18649,9 +18649,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "ai_tools",
     "tags": [],
-    "stars": 250,
+    "stars": 249,
     "version": "v2.1.6",
-    "updated_at": "2026-07-05T09:38:17Z"
+    "updated_at": "2026-07-13T10:41:51Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
