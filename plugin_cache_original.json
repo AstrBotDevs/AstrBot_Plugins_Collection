@@ -628,8 +628,8 @@
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
     "stars": 28,
-    "version": "1.4.3",
-    "updated_at": "2026-07-12T23:00:56Z"
+    "version": "1.4.4",
+    "updated_at": "2026-07-13T14:38:00Z"
   },
   "astrbot-plugin-Firefly-Blog-Manager": {
     "display_name": "Firefly 博客管理插件",
@@ -1389,9 +1389,9 @@
       "数学函数"
     ],
     "social_link": "https://github.com/D1ff1culTT?tab=repositories",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.2.0",
-    "updated_at": "2026-07-04T08:09:45Z"
+    "updated_at": "2026-07-13T15:49:51Z"
   },
   "astrbot_plugin_smart_segmentation": {
     "display_name": "智能分段",
@@ -1996,13 +1996,13 @@
     "repo": "https://github.com/vivy1024/astrbot_plugin_wave_memory",
     "social_link": "https://github.com/lioensky/VCPChat | https://github.com/lioensky/VCPToolBox",
     "tags": [],
-    "stars": 13,
+    "stars": 14,
     "version": "v4.5.0",
     "astrbot_version": ">=4.14.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-08T05:59:49Z",
+    "updated_at": "2026-07-13T14:41:56Z",
     "logo": "https://raw.githubusercontent.com/vivy1024/astrbot_plugin_wave_memory/master/logo.png"
   },
   "astrbot_plugin_maimai_updater": {
@@ -8104,12 +8104,12 @@
     ],
     "category": "utilities",
     "stars": 2,
-    "version": "v1.3",
+    "version": "v1.3.1",
     "astrbot_version": ">=4.10.4",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-03-31T18:52:46Z",
+    "updated_at": "2026-07-13T16:02:55Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_admin_notifier/master/logo.png"
   },
   "astrbot_plugin_models_ai": {
@@ -8557,7 +8557,7 @@
     "category": "ai_tools",
     "stars": 33,
     "version": "v0.2.0",
-    "updated_at": "2026-07-13T12:09:07Z",
+    "updated_at": "2026-07-13T13:35:14Z",
     "logo": "https://raw.githubusercontent.com/sukafon/astrbot_plugin_big_banana/main/logo.png"
   },
   "astrbot_plugin_BitTorrent": {
@@ -10344,9 +10344,9 @@
       "推特"
     ],
     "category": "utilities",
-    "stars": 55,
+    "stars": 56,
     "version": "v6.3.2",
-    "updated_at": "2026-07-11T18:00:50Z",
+    "updated_at": "2026-07-13T16:34:37Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -13307,7 +13307,7 @@
     "category": "ai_tools",
     "stars": 58,
     "version": "v2.2.2",
-    "updated_at": "2026-07-10T01:01:56Z",
+    "updated_at": "2026-07-13T14:18:17Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wakepro/main/logo.png"
   },
   "astrbot_plugin_memora_connect": {
@@ -15103,9 +15103,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 129,
+    "stars": 128,
     "version": "3.1.15",
-    "updated_at": "2026-07-13T08:30:44Z",
+    "updated_at": "2026-07-13T16:23:10Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -16133,9 +16133,9 @@
       "llm tool"
     ],
     "category": "ai_tools",
-    "stars": 9,
+    "stars": 10,
     "version": "v0.0.2",
-    "updated_at": "2026-05-03T04:56:30Z"
+    "updated_at": "2026-07-13T15:48:09Z"
   },
   "astrbot_plugin_mcqq": {
     "author": "kterna",
@@ -18250,7 +18250,7 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "category": "integrations",
     "tags": [],
-    "stars": 87,
+    "stars": 88,
     "version": "v1.6.4",
     "astrbot_version": ">=4.5.2",
     "support_platforms": [
@@ -18258,7 +18258,7 @@
       "telegram",
       "weixin_oc"
     ],
-    "updated_at": "2026-07-13T00:02:36Z",
+    "updated_at": "2026-07-13T13:58:43Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
