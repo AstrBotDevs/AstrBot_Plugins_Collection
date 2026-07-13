@@ -1206,13 +1206,13 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 116,
-    "version": "5.9.8",
+    "version": "5.9.9",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-13T05:48:46Z",
+    "updated_at": "2026-07-13T18:19:07Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -17099,9 +17099,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
     "category": "integrations",
-    "stars": 90,
+    "stars": 91,
     "version": "v3.1.0",
-    "updated_at": "2026-07-07T04:42:34Z",
+    "updated_at": "2026-07-13T16:53:28Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
