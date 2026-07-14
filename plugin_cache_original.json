@@ -24,7 +24,7 @@
     "social_link": "https://github.com/MillionDreamQAQ",
     "stars": 1,
     "version": "v1.1.0",
-    "updated_at": "2026-07-13T01:02:29Z",
+    "updated_at": "2026-07-14T02:07:20Z",
     "logo": "https://raw.githubusercontent.com/MillionDreamQAQ/astrbot_plugin_github_trending/master/logo.png"
   },
   "astrbot-plugin-vikunja": {
@@ -615,7 +615,7 @@
       "slack",
       "kook"
     ],
-    "updated_at": "2026-07-13T04:24:02Z",
+    "updated_at": "2026-07-14T02:32:06Z",
     "logo": "https://raw.githubusercontent.com/FFFold/astrbot_plugin_suwayomi_server/main/logo.png"
   },
   "astrbot-plugin-AstrNa": {
@@ -11080,9 +11080,9 @@
     "repo": "https://github.com/RC-CHN/astrbot_plugin_ragflow_adapter",
     "category": "ai_tools",
     "tags": [],
-    "stars": 11,
+    "stars": 12,
     "version": "v0.3",
-    "updated_at": "2026-05-15T11:29:15Z"
+    "updated_at": "2026-07-14T02:22:06Z"
   },
   "astrbot_plugin_proactive_chat": {
     "display_name": "主动消息 (Proactive Chat)",
