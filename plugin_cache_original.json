@@ -15103,9 +15103,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 128,
+    "stars": 129,
     "version": "3.1.15",
-    "updated_at": "2026-07-13T16:23:10Z",
+    "updated_at": "2026-07-14T19:01:09Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -15615,9 +15615,9 @@
       "戳"
     ],
     "category": "ai_tools",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.5",
-    "updated_at": "2026-05-18T13:50:51Z"
+    "updated_at": "2026-07-14T18:29:35Z"
   },
   "astrbot_plugin_sql_history": {
     "author": "LW",
