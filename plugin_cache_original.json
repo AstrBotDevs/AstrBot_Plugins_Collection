@@ -1205,14 +1205,14 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 118,
+    "stars": 119,
     "version": "5.9.10",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-14T14:13:07Z",
+    "updated_at": "2026-07-14T15:59:44Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -1619,7 +1619,7 @@
     "social_link": "https://github.com/mmyddd",
     "stars": 0,
     "version": "v0.1.1",
-    "updated_at": "2026-07-07T14:31:33Z",
+    "updated_at": "2026-07-14T15:29:49Z",
     "logo": "https://raw.githubusercontent.com/mmyddd/astrbot_plugin_not_enough_crash/master/logo.png"
   },
   "astrbot_plugin_irmia_devkit": {
@@ -9294,7 +9294,7 @@
     "stars": 82,
     "version": "v1.6.0-beta.1",
     "astrbot_version": ">=4.11.2",
-    "updated_at": "2026-07-14T06:41:36Z",
+    "updated_at": "2026-07-14T15:05:58Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -12626,9 +12626,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 281,
+    "stars": 282,
     "version": "2.3.6",
-    "updated_at": "2026-07-13T07:57:59Z",
+    "updated_at": "2026-07-14T16:14:12Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -18649,9 +18649,9 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "ai_tools",
     "tags": [],
-    "stars": 249,
+    "stars": 250,
     "version": "v2.1.6",
-    "updated_at": "2026-07-13T10:41:51Z"
+    "updated_at": "2026-07-14T16:14:54Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
