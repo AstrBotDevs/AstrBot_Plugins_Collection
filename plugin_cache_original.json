@@ -1212,7 +1212,7 @@
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-14T15:59:44Z",
+    "updated_at": "2026-07-14T16:51:12Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -4056,7 +4056,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 410,
+    "stars": 411,
     "version": "v4.10.9",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -4065,7 +4065,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-07-12T17:11:05Z",
+    "updated_at": "2026-07-14T17:26:51Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -7160,7 +7160,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 410,
+    "stars": 411,
     "version": "v4.10.9",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -7169,7 +7169,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-07-12T17:11:05Z",
+    "updated_at": "2026-07-14T17:26:51Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
