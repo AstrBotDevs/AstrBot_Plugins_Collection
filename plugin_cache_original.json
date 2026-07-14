@@ -2375,9 +2375,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 140,
+    "stars": 139,
     "version": "3.8.0",
-    "updated_at": "2026-07-14T08:35:47Z",
+    "updated_at": "2026-07-14T20:16:25Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -8668,9 +8668,9 @@
       "群聊优化"
     ],
     "category": "ai_tools",
-    "stars": 121,
+    "stars": 120,
     "version": "0.9.3",
-    "updated_at": "2026-07-13T12:38:05Z",
+    "updated_at": "2026-07-14T20:16:25Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -10785,10 +10785,10 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "ai_tools",
-    "stars": 132,
+    "stars": 131,
     "version": "V1.2.3.hotfix.2",
     "astrbot_version": ">=4.11.0",
-    "updated_at": "2026-07-12T16:19:43Z",
+    "updated_at": "2026-07-14T20:16:25Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -11096,7 +11096,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 340,
+    "stars": 339,
     "version": "v1.2.4",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -11108,7 +11108,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-07-14T05:44:12Z",
+    "updated_at": "2026-07-14T20:16:25Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -13305,9 +13305,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
-    "stars": 58,
+    "stars": 57,
     "version": "v2.2.2",
-    "updated_at": "2026-07-13T14:18:17Z",
+    "updated_at": "2026-07-14T20:16:25Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wakepro/main/logo.png"
   },
   "astrbot_plugin_memora_connect": {
@@ -16887,13 +16887,13 @@
       "QQ群管"
     ],
     "category": "utilities",
-    "stars": 163,
+    "stars": 162,
     "version": "v3.3.0",
     "astrbot_version": ">=4.24.2",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-12T13:07:38Z",
+    "updated_at": "2026-07-14T20:16:25Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -17472,12 +17472,12 @@
       "实用工具"
     ],
     "category": "utilities",
-    "stars": 53,
+    "stars": 52,
     "version": "v3.0.4",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-13T12:15:52Z",
+    "updated_at": "2026-07-14T20:16:25Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
