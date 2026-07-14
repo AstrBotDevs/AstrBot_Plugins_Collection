@@ -615,7 +615,7 @@
       "slack",
       "kook"
     ],
-    "updated_at": "2026-07-14T02:32:06Z",
+    "updated_at": "2026-07-14T05:13:46Z",
     "logo": "https://raw.githubusercontent.com/FFFold/astrbot_plugin_suwayomi_server/main/logo.png"
   },
   "astrbot-plugin-AstrNa": {
@@ -1389,9 +1389,9 @@
       "数学函数"
     ],
     "social_link": "https://github.com/D1ff1culTT?tab=repositories",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.2.0",
-    "updated_at": "2026-07-13T15:49:51Z"
+    "updated_at": "2026-07-14T02:56:42Z"
   },
   "astrbot_plugin_smart_segmentation": {
     "display_name": "智能分段",
@@ -2347,12 +2347,12 @@
       "X",
       "推特"
     ],
-    "stars": 24,
+    "stars": 25,
     "version": "v1.7.1",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-12T11:04:39Z",
+    "updated_at": "2026-07-14T03:00:30Z",
     "logo": "https://raw.githubusercontent.com/Ars1027/astrbot_plugin_twitter/master/logo.png"
   },
   "astrbot_plugin_course": {
@@ -2869,7 +2869,7 @@
     "stars": 5,
     "version": "v0.1.0",
     "astrbot_version": ">=4.22.0",
-    "updated_at": "2026-07-02T19:48:38Z"
+    "updated_at": "2026-07-14T05:07:41Z"
   },
   "astrbot-plugin-lark-access-control": {
     "display_name": "飞书权限控制",
@@ -4417,10 +4417,10 @@
       "监控"
     ],
     "category": "productivity",
-    "stars": 16,
+    "stars": 17,
     "version": "v1.3.4",
     "astrbot_version": ">=4.10.4",
-    "updated_at": "2026-07-07T08:53:41Z",
+    "updated_at": "2026-07-14T03:03:23Z",
     "logo": "https://raw.githubusercontent.com/gangcaiyoule/astrbot_plugin_mail_notify/master/logo.png"
   },
   "astrbot-plugin-Xagent-searcher": {
@@ -5958,9 +5958,9 @@
       "opencode"
     ],
     "category": "integrations",
-    "stars": 181,
+    "stars": 182,
     "version": "v2.1.4",
-    "updated_at": "2026-07-08T11:59:04Z",
+    "updated_at": "2026-07-14T02:38:25Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -8557,7 +8557,7 @@
     "category": "ai_tools",
     "stars": 33,
     "version": "v0.2.0",
-    "updated_at": "2026-07-13T13:35:14Z",
+    "updated_at": "2026-07-14T04:40:43Z",
     "logo": "https://raw.githubusercontent.com/sukafon/astrbot_plugin_big_banana/main/logo.png"
   },
   "astrbot_plugin_BitTorrent": {
@@ -9697,9 +9697,9 @@
     ],
     "social_link": "https://github.com/Loping151/ScoreEcho",
     "category": "entertainment",
-    "stars": 6,
+    "stars": 7,
     "version": "3.1.5",
-    "updated_at": "2026-05-12T23:41:11Z",
+    "updated_at": "2026-07-14T03:15:27Z",
     "logo": "https://raw.githubusercontent.com/timetetng/astrbot_plugin_echoscore/main/logo.png"
   },
   "astrbot_plugin_vocabularycard": {
@@ -15559,9 +15559,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
-    "stars": 90,
+    "stars": 91,
     "version": "v1.1.4",
-    "updated_at": "2026-06-26T10:09:34Z",
+    "updated_at": "2026-07-14T03:43:56Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
