@@ -4685,9 +4685,9 @@
     "social_link": "https://github.com/Renyus",
     "category": "ai_tools",
     "tags": [],
-    "stars": 71,
+    "stars": 72,
     "version": "Ver 5.4.0",
-    "updated_at": "2026-07-06T01:11:48Z"
+    "updated_at": "2026-07-14T11:00:10Z"
   },
   "astrbot-plugin-char": {
     "display_name": "多功能生活助手",
@@ -9467,9 +9467,9 @@
     "repo": "https://github.com/zz6zz666/astrbot_plugin_tool_use_cleaner",
     "category": "utilities",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "v1.3.0",
-    "updated_at": "2026-06-11T15:52:26Z"
+    "updated_at": "2026-07-14T11:29:40Z"
   },
   "undercover": {
     "desc": "一个谁是卧底游戏插件，支持多人在线游戏。",
@@ -9888,9 +9888,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "utilities",
-    "stars": 147,
+    "stars": 148,
     "version": "v2.4.9",
-    "updated_at": "2026-07-13T04:20:22Z",
+    "updated_at": "2026-07-14T11:18:28Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -12673,13 +12673,13 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
-    "stars": 19,
+    "stars": 20,
     "version": "v2.1.3",
     "astrbot_version": ">=4.20.0,<5.0.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-06-26T10:11:58Z",
+    "updated_at": "2026-07-14T11:29:04Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_recall_cancel/main/logo.png"
   },
   "astrbot_plugin_multimsg": {
@@ -14833,9 +14833,9 @@
     "social_link": "https://github.com/Zhalslar",
     "desc": "动态词库，自定义回复词",
     "category": "entertainment",
-    "stars": 15,
+    "stars": 14,
     "version": "v1.1.0",
-    "updated_at": "2026-05-06T15:05:32Z",
+    "updated_at": "2026-07-14T11:34:48Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wbank/main/logo.png"
   },
   "astrbot_plugin_lyricnext": {
@@ -17999,9 +17999,9 @@
       "图床"
     ],
     "category": "entertainment",
-    "stars": 345,
+    "stars": 346,
     "version": "v4.03",
-    "updated_at": "2026-07-12T14:51:55Z",
+    "updated_at": "2026-07-14T11:18:28Z",
     "logo": "https://raw.githubusercontent.com/anka-afk/astrbot_plugin_meme_manager/main/logo.png"
   },
   "mccloud_command": {
