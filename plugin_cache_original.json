@@ -1205,14 +1205,14 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 117,
+    "stars": 118,
     "version": "5.9.9",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-14T06:11:35Z",
+    "updated_at": "2026-07-14T08:57:58Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -1315,8 +1315,8 @@
     ],
     "social_link": "https://github.com/insolitude610",
     "stars": 12,
-    "version": "0.7.13",
-    "updated_at": "2026-07-14T06:16:19Z",
+    "version": "0.7.14",
+    "updated_at": "2026-07-14T08:09:30Z",
     "logo": "https://raw.githubusercontent.com/insolitude610/astrbot_plugin_galgame_web/main/logo.png"
   },
   "astrbot-plugin-feishu-todo": {
@@ -2375,9 +2375,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 139,
+    "stars": 140,
     "version": "3.8.0",
-    "updated_at": "2026-07-13T01:18:33Z",
+    "updated_at": "2026-07-14T08:35:47Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -2555,7 +2555,7 @@
     "tags": [],
     "stars": 12,
     "version": "v0.0.1",
-    "updated_at": "2026-07-06T05:55:24Z"
+    "updated_at": "2026-07-14T08:10:02Z"
   },
   "astrbot_plugin_btw": {
     "display_name": "ByTheWay 快捷问题",
@@ -3532,7 +3532,7 @@
       "prompt"
     ],
     "social_link": "https://github.com/NumInvis",
-    "stars": 11,
+    "stars": 12,
     "version": "2.0.0",
     "astrbot_version": ">=4.0.0",
     "support_platforms": [
@@ -3550,7 +3550,7 @@
       "misskey",
       "line"
     ],
-    "updated_at": "2026-06-26T02:14:57Z"
+    "updated_at": "2026-07-14T08:06:31Z"
   },
   "astrbot-ctfpusher-plugin": {
     "display_name": "CTF 赛题及赛事推送助手",
@@ -9369,9 +9369,9 @@
       "适配器"
     ],
     "category": "ai_tools",
-    "stars": 3,
+    "stars": 2,
     "version": "1.0.0",
-    "updated_at": "2026-06-21T10:03:21Z",
+    "updated_at": "2026-07-14T09:41:52Z",
     "logo": "https://raw.githubusercontent.com/xunxiing/astrbot_plugin_imgtool/main/logo.png"
   },
   "astrbot_plugin_gitee_aiimg": {
@@ -18609,9 +18609,9 @@
     "repo": "https://github.com/zouyonghe/astrbot_plugin_web_searcher_pro",
     "category": "integrations",
     "tags": [],
-    "stars": 19,
+    "stars": 20,
     "version": "v1.1.5",
-    "updated_at": "2026-06-24T17:54:19Z"
+    "updated_at": "2026-07-14T10:41:40Z"
   },
   "astrbot_plugin_memeify": {
     "desc": "一个AstrBot的插件，用于LLM回复表情包的实现",
