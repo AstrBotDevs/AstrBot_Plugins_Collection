@@ -1205,14 +1205,14 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 119,
+    "stars": 120,
     "version": "5.9.10",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-14T16:51:12Z",
+    "updated_at": "2026-07-15T04:32:43Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -2347,12 +2347,12 @@
       "X",
       "推特"
     ],
-    "stars": 25,
+    "stars": 26,
     "version": "v1.7.1",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-14T03:00:30Z",
+    "updated_at": "2026-07-15T05:31:42Z",
     "logo": "https://raw.githubusercontent.com/Ars1027/astrbot_plugin_twitter/master/logo.png"
   },
   "astrbot_plugin_course": {
@@ -7310,8 +7310,8 @@
     "social_link": "https://qwq.pyuramazo.online",
     "category": "entertainment",
     "stars": 32,
-    "version": "v2.0.1",
-    "updated_at": "2026-07-14T07:36:29Z",
+    "version": "v2.0.2",
+    "updated_at": "2026-07-15T03:45:10Z",
     "logo": "https://raw.githubusercontent.com/PyuraMazo/astrbot_plugin_galgame_box/master/logo.png"
   },
   "astrbot_plugin_anitabi": {
@@ -9107,9 +9107,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 166,
+    "stars": 167,
     "version": "v1.5.3",
-    "updated_at": "2026-07-13T21:43:15Z",
+    "updated_at": "2026-07-15T05:08:04Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -9622,9 +9622,9 @@
     ],
     "category": "entertainment",
     "stars": 3,
-    "version": "v1.4.5",
+    "version": "v1.4.6",
     "astrbot_version": ">=4.10.4",
-    "updated_at": "2026-06-24T08:09:55Z",
+    "updated_at": "2026-07-15T02:58:30Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_CloudImg/master/logo.png"
   },
   "astrbot_plugin_aicu_analysis": {
@@ -15770,13 +15770,13 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 91,
+    "stars": 92,
     "version": "v2.1.1",
     "astrbot_version": ">=4.13.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-09T13:52:26Z",
+    "updated_at": "2026-07-15T05:10:25Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_pokepro/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
@@ -17357,9 +17357,9 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "category": "entertainment",
-    "stars": 125,
+    "stars": 126,
     "version": "v3.0.3",
-    "updated_at": "2026-07-08T06:33:02Z",
+    "updated_at": "2026-07-15T05:12:22Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
@@ -18220,9 +18220,9 @@
     "repo": "https://github.com/SamsaraMBJC/astrbot_plugin_holdem_poker",
     "category": "entertainment",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "v1.5.0",
-    "updated_at": "2025-07-08T16:42:57Z"
+    "updated_at": "2026-07-15T05:18:36Z"
   },
   "astrbot_plugin_essential": {
     "desc": "随机动漫图片、以图搜番、Minecraft服务器、一言、今天吃什么、群早晚安记录、EPIC喜加一。帮助：https://github.com/Soulter/astrbot_plugin_essential",
