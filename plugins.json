@@ -304,22 +304,22 @@
   "astrbot-plugin-image-caption-cache": {
     "display_name": "Image Caption Cache",
     "desc": "为 AstrBot 图片转述结果提供 TTL 与图片数量双策略缓存，减少重复图片的视觉模型调用",
-    "author": "FloranceYeh",
+    "author": "Florance",
     "repo": "https://github.com/FloranceYeh/astrbot_plugin_image_caption_cache",
     "tags": [
       "缓存"
     ],
-    "social_link": "Florance.top"
+    "social_link": "https://Florance.top"
   },
   "astrbot-plugin-response2image": {
     "display_name": "Response2Image",
-    "desc": "基于 Responses API 的 AstrBot 图像生成插件。",
+    "desc": "基于 `/v1/responses` API 的图像生成插件",
     "author": "Florance",
     "repo": "https://github.com/FloranceYeh/astrbot_plugin_response2image",
     "tags": [
       "生图"
     ],
-    "social_link": "Florance.top"
+    "social_link": "https://Florance.top"
   },
   "astrbot-plugin-Google-Health-Data-Retrieval-and-Analysis": {
     "display_name": "谷歌Health数据拉取与分析",
