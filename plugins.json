@@ -1,4 +1,294 @@
 {
+  "astrbot-plugin-palserverManager": {
+    "display_name": "Palworld 幻兽帕鲁服务器管理",
+    "desc": "通过 Palworld REST API 查询和管理服务器，支持管理员 QQ 白名单与中文命令组。",
+    "author": "MysteryDove",
+    "repo": "https://github.com/MysteryDove/astrbot_plugin_palserverManager",
+    "tags": [
+      "游戏"
+    ],
+    "social_link": "https://github.com/MysteryDove/"
+  },
+  "astrbot-plugin-mineastr": {
+    "display_name": "MineAstr Minecraft 群聊桥接",
+    "desc": "将 Minecraft 聊天接入 AstrBot，并提供状态、背包、区域分析、受控命令与低清晰度截图工具",
+    "author": "Halpha1st",
+    "repo": "https://github.com/Hgit-1/MineAstr/tree/astrbot-plugin",
+    "tags": [
+      "mc",
+      "Minecraft",
+      "娱乐",
+      "游戏",
+      "连接器"
+    ],
+    "social_link": "https://github.com/Hgit-1"
+  },
+  "astrbot-plugin-ha-control-layer": {
+    "display_name": "Home Assistant 控制器",
+    "desc": "扫描 Home Assistant 实体并生成家居能力索引，让 AstrBot 通过自然语言安全控制设备。",
+    "author": "Xhan258",
+    "repo": "https://github.com/Xhan258/astrbot_plugin_ha_control_layer",
+    "tags": [
+      "智能家居",
+      "HA",
+      "Home Assistant",
+      "家具控制"
+    ],
+    "social_link": "https://github.com/Xhan258"
+  },
+  "astrbot-plugin-body-monitor": {
+    "display_name": "Body Monitor 身体数据监测",
+    "desc": "基于 Health Connect Webhook 接收小米手环与体脂秤数据，进行基线计算、异常检测并触发 LLM 主动关心。支持心率、步数、睡眠、血氧、压力、HRV、体重、体脂率等指标的持续监测。",
+    "author": "ludan",
+    "repo": "https://github.com/ludan0312/astrbot_plugin_body_monitor",
+    "tags": [
+      "health",
+      "monitor",
+      "xiaomi",
+      "body",
+      "主动关心"
+    ]
+  },
+  "astrbot-plugin-virtual-life": {
+    "display_name": "虚拟人生",
+    "desc": "Virtual Life：按人格管理长期阶段、虚拟日程与主动消息",
+    "author": "Florance",
+    "repo": "https://github.com/FloranceYeh/astrbot_plugin_virtual_life",
+    "tags": [
+      "主动消息",
+      "日程"
+    ],
+    "social_link": "https://Florance.top"
+  },
+  "astrbot-plugin-qbittorrent-manager": {
+    "display_name": "AstrBot qBittorrent Manager",
+    "desc": "基于 AstrBot 的 qBittorrent 管理插件，支持在 QQ 群中搜索北洋园 PT 等 NexusPHP 站点种子，并通过卡片展示结果，一键推送到 qBittorrent 下载。",
+    "author": "JustMonika24769",
+    "repo": "https://github.com/JustMonika24769/astrbot_plugin_qbittorrent_manager",
+    "tags": [
+      "qBittorrent",
+      "PT"
+    ],
+    "social_link": "https://github.com/JustMonika24769"
+  },
+  "astrbot-plugin-github-trending": {
+    "display_name": "GitHub Trending",
+    "desc": "每日 GitHub Trending 榜单推送插件，支持定时推送到指定群聊/私聊，以排行榜图片形式展示。",
+    "author": "MillionDream",
+    "repo": "https://github.com/MillionDreamQAQ/astrbot_plugin_github_trending",
+    "tags": [
+      "github"
+    ],
+    "social_link": "https://github.com/MillionDreamQAQ"
+  },
+  "astrbot-plugin-vikunja": {
+    "display_name": "Vikunja助手",
+    "desc": "让Astrbot连接Vikunja成为你的私人助手",
+    "author": "Marshall3821",
+    "repo": "https://github.com/Makarov3821/astrbot_plugin_vikunja"
+  },
+  "astrbot-plugin-cwa-alert": {
+    "display_name": "中央氣象署氣象與災害警報播報外掛",
+    "desc": "將交通部中央氣象署發布的縣市天氣、地震、海嘯、颱風與其他災害警特報，主動傳送至經管理員明確登記的 AstrBot 群組。外掛使用完整 UMO（Unified Message Origin）識別目標，不綁定 QQ 或任何單一平台的私有介面。",
+    "author": "Qiuxyi_0",
+    "repo": "https://github.com/Vlxnz/astrbot_plugin_cwa_alert",
+    "tags": [
+      "天气",
+      "台风",
+      "天气预报"
+    ],
+    "social_link": "0-qx.com"
+  },
+  "astrbot-plugin-anima-master": {
+    "display_name": "Anima 绘图大师",
+    "desc": "将 AstrBot 连接到本地 ComfyUI / Anima 工作流，提供生图、提示词优化、法术解析和图片反推能力。",
+    "author": "YayiMiko",
+    "repo": "https://github.com/YayiMiko/anima-master",
+    "tags": [
+      "comfyui",
+      "anima",
+      "image-generation",
+      "danbooru"
+    ],
+    "social_link": "https://github.com/YayiMiko/anima-master"
+  },
+  "astrbot-plugin-fund": {
+    "display_name": "基金小助手",
+    "desc": "支持基金净值估算、AI智能预测、综合评级、基金经理评价及金银价格查询",
+    "author": "Novforest",
+    "repo": "https://github.com/Novforest/astrbot_plugin_fund",
+    "tags": [
+      "生活实用",
+      "效率",
+      "基金"
+    ],
+    "social_link": "https://github.com/Novforest"
+  },
+  "astrbot-plugin-bartender": {
+    "display_name": "调酒师",
+    "desc": "基于playwright无头浏览器库，对sillytavern项目进行操作和交互，达成通过机器人远程游玩Sillytavern，以及高于联机脚本的游玩体验貂蝉在一起",
+    "author": "dragonuniverse8248",
+    "repo": "https://github.com/dragonuniverse8248/astrbot_plugin_bartender",
+    "tags": [
+      "娱乐",
+      "sillytavern",
+      "Playwright"
+    ],
+    "social_link": "https://github.com/dragonuniverse8248"
+  },
+  "astrbot-plugin-halo-whisper": {
+    "display_name": "Halo 瞬间发布",
+    "desc": "通过 AstrBot 将文字和图片发布到 Halo 瞬间。",
+    "author": "MikeYaoyu",
+    "repo": "https://github.com/MikeYaoyu/astrbot_plugin_halo_whisper",
+    "tags": [
+      "博客",
+      "增强"
+    ],
+    "social_link": "https://itcainiao.space"
+  },
+  "astrbot-plugin-phimg": {
+    "display_name": "Philomena API 搜图",
+    "desc": "让机器人通过 Philomena API 在使用 Philomena 搭建的图站上使用 tags 搜图。",
+    "author": "muyni233",
+    "repo": "https://github.com/muyni233/astrbot_plugin_phimg",
+    "tags": [
+      "image",
+      "mlp",
+      "philomena"
+    ],
+    "social_link": "https://github.com/muyni233"
+  },
+  "astrbot-plugin-vpn-traffic": {
+    "display_name": "订阅流量查询",
+    "desc": "一个用于查询 Clash/V2Ray 订阅剩余流量的 AstrBot 插件。",
+    "author": "CMKH",
+    "repo": "https://github.com/CMKH1337/astrbot_plugin_magic_traffic",
+    "tags": [
+      "监控"
+    ],
+    "social_link": "https://github.com/CMKH1337/astrbot_plugin_magic_traffic"
+  },
+  "astrbot-plugin-looki-companion": {
+    "display_name": "Looki 陪伴记忆",
+    "desc": "为了让助手能了解我们的现实世界，把 Looki 的实时事件与最近 12 小时 moments 整合成“我们”视角的共同经历摘要。",
+    "author": "瑞贝特",
+    "repo": "https://github.com/RabbitZheng4424/astrbot_plugin_looki_companion",
+    "tags": [
+      "looki",
+      "陪伴",
+      "记忆",
+      "现实世界"
+    ],
+    "social_link": "https://rabbitz.icu"
+  },
+  "astrbot-plugin-deepseek-automatic-switch": {
+    "display_name": "DeepSeek 自动切换",
+    "desc": "在每日高峰期涨价时，在 LLM 请求发出前自动切换模型。",
+    "author": "CMKH",
+    "repo": "https://github.com/CMKH1337/astrbot_plugin_deepseek_automatic_switch",
+    "tags": [
+      "token",
+      "成本"
+    ],
+    "social_link": "https://github.com/CMKH1337/astrbot_plugin_deepseek_automatic_switch"
+  },
+  "astrbot-plugin-instant-memo": {
+    "display_name": "速记备忘录",
+    "desc": "AI自我备忘录与主动定时提醒插件，支持状态备忘、定时/周期任务、关键词搭话，同时提供 Tool Call 与 XML Tag 双触发模式",
+    "author": "kitsuneimomo",
+    "repo": "https://github.com/KitsuneiMomo/astrbot_plugin_instant_memo",
+    "tags": [
+      "备忘录",
+      "定时任务"
+    ],
+    "social_link": "https://github.com/KitsuneiMomo"
+  },
+  "astrbot-plugin-dynamic-life-state": {
+    "display_name": "动态生活状态插件",
+    "desc": "为 Bot 生成一天的生活时间线，并在每次对话时注入当前时间段对应的状态。",
+    "author": "Hola-Gracias",
+    "repo": "https://github.com/Hola-Gracias/astrbot_plugin_dynamic_life_state",
+    "social_link": "https://github.com/Hola-Gracias"
+  },
+  "astrbot-plugin-nezhatz": {
+    "display_name": "哪吒探针",
+    "desc": "查看哪吒监控站点的服务器状态等信息",
+    "author": "叹号大帝",
+    "repo": "https://github.com/thTag/astrbot_plugin_nezhatz",
+    "tags": [
+      "哪吒",
+      "监控",
+      "nezha"
+    ],
+    "social_link": "https://www.th-dd.top"
+  },
+  "astrbot-plugin-sensitivefilter": {
+    "display_name": "群聊敏感词检测与自动处理",
+    "desc": "群聊敏感词检测插件，支持本地词库/外部接口/AI 语义识别三种检测方式，可按群单独配置撤回、警告、通知等处理动作",
+    "author": "lingyun",
+    "repo": "https://github.com/lingyun14beta/astrbot_plugin_sensitivefilter",
+    "tags": [
+      "敏感词处理"
+    ],
+    "social_link": "https://github.com/lingyun14beta"
+  },
+  "astrbot-plugin-memosnotes": {
+    "display_name": "Memos备忘录连接器",
+    "desc": "连接到自建 Memos 实例。支持 CRUD、置顶/归档、标签系统、LLM 知识库存取（自动保存/搜索知识）、自然语言写日记",
+    "author": "YuNaitang",
+    "repo": "https://github.com/YuNaitang/astrbot_plugin_memosnotes",
+    "social_link": "https://github.com/YuNaitang"
+  },
+  "astrbot-plugin-oven-multi": {
+    "display_name": "插座的多功能烤箱",
+    "desc": "整合多种实用功能的插件，包含括号自动匹配、消息复读、移除空行、思考表情、风格学习、主动回复、余额查询和图片转述缓存等功能",
+    "author": "汐兮雨",
+    "repo": "https://github.com/huntersxy/astrbot_plugin_oven_multi",
+    "tags": [
+      "AI增强",
+      "娱乐",
+      "风格",
+      "学习"
+    ],
+    "social_link": "https://github.com/huntersxy"
+  },
+  "astrbot-plugin-palette": {
+    "display_name": "AstrBot调色盘",
+    "desc": "AstrBot调色盘是一个 AstrBot WebUI 美化插件",
+    "author": " C₂₂H₂₅NO₆",
+    "repo": "https://github.com/Sisyphbaous-DT-Project/astrbot_plugin_palette",
+    "tags": [
+      "美化",
+      "webui"
+    ],
+    "social_link": "https://github.com/Sisyphbaous-DT-Project"
+  },
+  "astrbot-plugin-polite-silence": {
+    "display_name": "礼貌性沉默",
+    "desc": "允许 AI 根据设定概率及提示词自主识别骚扰并拒绝回应，防范恶意持续打扰。",
+    "author": "KitsuneiMomo",
+    "repo": "https://github.com/KitsuneiMomo/astrbot_plugin_polite_silence",
+    "tags": [
+      "防骚扰",
+      "自主拒答",
+      "安全限制"
+    ],
+    "social_link": "https://github.com/KitsuneiMomo"
+  },
+  "astrbot-plugin-spotify": {
+    "display_name": "Spotify 智能点歌与控制插件",
+    "desc": "让 Bot 拥有 Spotify 的完整控制权！支持自然语言点歌、排队、切歌、暂停，以及将好听的音乐一键加入收藏夹。",
+    "author": "maolbsMd",
+    "repo": "https://github.com/maolbsMd/astrbot_plugin_spotify",
+    "tags": [
+      "音乐",
+      "娱乐",
+      "工具",
+      "Spotify"
+    ],
+    "social_link": "https://github.com/maolbsMd"
+  },
   "astrbot-plugin-image-caption-cache": {
     "display_name": "Image Caption Cache",
     "desc": "为 AstrBot 图片转述结果提供 TTL 与图片数量双策略缓存，减少重复图片的视觉模型调用",
