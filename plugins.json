@@ -1,4 +1,17 @@
 {
+  "astrbot-plugin-body-monitor": {
+    "display_name": "Body Monitor 身体数据监测",
+    "desc": "基于 Health Connect Webhook 接收小米手环与体脂秤数据，进行基线计算、异常检测并触发 LLM 主动关心。支持心率、步数、睡眠、血氧、压力、HRV、体重、体脂率等指标的持续监测。",
+    "author": "ludan",
+    "repo": "https://github.com/ludan0312/astrbot_plugin_body_monitor",
+    "tags": [
+      "health",
+      "monitor",
+      "xiaomi",
+      "body",
+      "主动关心"
+    ]
+  },
   "astrbot-plugin-virtual-life": {
     "display_name": "虚拟人生",
     "desc": "Virtual Life：按人格管理长期阶段、虚拟日程与主动消息",
