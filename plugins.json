@@ -1,4 +1,16 @@
 {
+  "astrbot-plugin-palworld": {
+    "display_name": "PalWorldTerminal · 帕鲁世界终端",
+    "desc": "监测 Palworld 专用服务器, 提供状态查询、日报与玩家档案。基于官方 REST API。",
+    "author": "SolitudeRA",
+    "repo": "https://github.com/SolitudeRA/astrbot_plugin_palworld",
+    "tags": [
+      "PalWorld",
+      "幻兽帕鲁",
+      "パルワールド"
+    ],
+    "social_link": "https://www.solitudera.com"
+  },
   "astrbot-plugin-palserverManager": {
     "display_name": "Palworld 幻兽帕鲁服务器管理",
     "desc": "通过 Palworld REST API 查询和管理服务器，支持管理员 QQ 白名单与中文命令组。",
