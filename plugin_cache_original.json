@@ -83,8 +83,8 @@
       "日程"
     ],
     "social_link": "https://Florance.top",
-    "stars": 1,
-    "version": "v1.8.0",
+    "stars": 3,
+    "version": "v1.8.1",
     "astrbot_version": ">=4.26.0",
     "support_platforms": [
       "aiocqhttp",
@@ -94,7 +94,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-07-15T12:08:03Z",
+    "updated_at": "2026-07-15T14:24:19Z",
     "logo": "https://raw.githubusercontent.com/FloranceYeh/astrbot_plugin_virtual_life/main/logo.png"
   },
   "astrbot-plugin-qbittorrent-manager": {
@@ -430,9 +430,9 @@
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
     "stars": 18,
-    "version": "0.4.7",
+    "version": "0.4.8",
     "astrbot_version": ">=4.26.0-beta1",
-    "updated_at": "2026-07-09T10:09:52Z"
+    "updated_at": "2026-07-15T14:05:52Z"
   },
   "astrbot-plugin-polite-silence": {
     "display_name": "礼貌性沉默",
@@ -492,7 +492,7 @@
       "缓存"
     ],
     "social_link": "https://Florance.top",
-    "stars": 1,
+    "stars": 2,
     "version": "1.2.0",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
@@ -507,7 +507,7 @@
       "kook",
       "satori"
     ],
-    "updated_at": "2026-06-27T22:38:55Z"
+    "updated_at": "2026-07-15T13:37:55Z"
   },
   "astrbot-plugin-response2image": {
     "display_name": "Response2Image",
@@ -518,7 +518,7 @@
       "生图"
     ],
     "social_link": "https://Florance.top",
-    "stars": 2,
+    "stars": 3,
     "version": "3.0.0",
     "astrbot_version": ">=4.16",
     "support_platforms": [
@@ -526,7 +526,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-06-11T07:45:12Z"
+    "updated_at": "2026-07-15T13:37:36Z"
   },
   "astrbot-plugin-Google-Health-Data-Retrieval-and-Analysis": {
     "display_name": "谷歌Health数据拉取与分析",
@@ -726,8 +726,8 @@
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
     "stars": 28,
-    "version": "1.4.4",
-    "updated_at": "2026-07-13T14:38:00Z"
+    "version": "1.4.5",
+    "updated_at": "2026-07-15T13:40:47Z"
   },
   "astrbot-plugin-Firefly-Blog-Manager": {
     "display_name": "Firefly 博客管理插件",
@@ -967,9 +967,9 @@
       "转存"
     ],
     "social_link": "",
-    "stars": 5,
+    "stars": 6,
     "version": "v8.3.0",
-    "updated_at": "2026-07-10T09:47:28Z",
+    "updated_at": "2026-07-15T13:05:06Z",
     "logo": "https://raw.githubusercontent.com/jichie/astrbot_plugin_baidu_curl/main/logo.png"
   },
   "astrbot-plugin-Rcon-minecraft": {
@@ -2677,10 +2677,10 @@
       "磁链"
     ],
     "social_link": "https://github.com/howrain",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.1",
     "astrbot_version": ">=4.9.2",
-    "updated_at": "2026-04-17T12:49:58Z"
+    "updated_at": "2026-07-15T13:22:31Z"
   },
   "astrbot_plugin_rsshub": {
     "display_name": "RSS订阅",
@@ -4059,7 +4059,7 @@
     "stars": 39,
     "version": "1.1.5",
     "astrbot_version": ">=4.20.0",
-    "updated_at": "2026-07-06T11:28:51Z",
+    "updated_at": "2026-07-15T14:45:56Z",
     "logo": "https://raw.githubusercontent.com/Kalospacer/astrbot_plugin_maid_agent/master/logo.png"
   },
   "astrbot-plugin-stoprushingiamtyping": {
@@ -4407,7 +4407,7 @@
     "display_name": "TK Tracker-违规记录",
     "desc": "自动监听管服机器人的踢人播报，支持WebUI配置、违规历史查询与数据一键管理。",
     "author": "Nyaportemi",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "repo": "https://github.com/Nyaportemi/astrbot_plugin_tk_tracker",
     "tags": [
       "群管",
@@ -4416,7 +4416,7 @@
     "social_link": "",
     "category": "utilities",
     "stars": 2,
-    "updated_at": "2026-06-16T14:27:20Z"
+    "updated_at": "2026-07-15T12:42:09Z"
   },
   "astrbot-plugin-self-code": {
     "display_name": "Self Code Assistant",
@@ -5818,10 +5818,10 @@
     "social_link": "www.chuyel.cn",
     "category": "entertainment",
     "tags": [],
-    "stars": 25,
+    "stars": 26,
     "version": "v1.1.4",
     "astrbot_version": ">=4.17.6",
-    "updated_at": "2026-07-11T17:16:27Z",
+    "updated_at": "2026-07-15T14:39:58Z",
     "logo": "https://raw.githubusercontent.com/chuyegzs/astrbot_plugin_meting/main/logo.png"
   },
   "astrbot-plugin-comfyui": {
@@ -7936,9 +7936,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 367,
+    "stars": 368,
     "version": "3.5.2",
-    "updated_at": "2026-07-15T02:23:04Z",
+    "updated_at": "2026-07-15T12:18:52Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -8583,12 +8583,12 @@
     "social_link": "https://github.com/WhiteCloudOL",
     "category": "utilities",
     "stars": 5,
-    "version": "v1.6.1",
+    "version": "v1.6.2",
     "astrbot_version": ">=4.12.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-08T15:33:13Z",
+    "updated_at": "2026-07-15T14:13:54Z",
     "logo": "https://raw.githubusercontent.com/WhiteCloudOL/astrbot_plugin_joinmanager/master/logo.png"
   },
   "astrbot_plugin_group_signin": {
@@ -8750,9 +8750,9 @@
       "人格"
     ],
     "category": "ai_tools",
-    "stars": 167,
+    "stars": 168,
     "version": "1.4.20",
-    "updated_at": "2026-07-10T20:20:57Z",
+    "updated_at": "2026-07-15T13:55:13Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -8766,9 +8766,9 @@
       "群聊优化"
     ],
     "category": "ai_tools",
-    "stars": 120,
+    "stars": 121,
     "version": "0.9.3",
-    "updated_at": "2026-07-14T20:16:25Z",
+    "updated_at": "2026-07-15T13:55:28Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_heart/master/logo.png"
   },
   "astrbot_plugin_angel_eye": {
@@ -9651,9 +9651,9 @@
     ],
     "social_link": "https://space.bilibili.com/702922307",
     "category": "utilities",
-    "stars": 12,
+    "stars": 13,
     "version": "0.0.6",
-    "updated_at": "2026-06-18T11:43:27Z"
+    "updated_at": "2026-07-15T14:15:24Z"
   },
   "astrbot_plugin_fox_status": {
     "display_name": "Fox 状态监控",
@@ -12841,7 +12841,7 @@
     "tags": [],
     "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2025-09-04T15:57:12Z"
+    "updated_at": "2026-07-15T14:41:31Z"
   },
   "astrbot_plugin_furry_dsgg": {
     "desc": "[仅aiocqhttp] 广告助手，帮助你向所有群聊定时发送广告",
@@ -14054,9 +14054,9 @@
     ],
     "social_link": "https://github.com/qa296/",
     "category": "utilities",
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.0",
-    "updated_at": "2025-07-31T04:48:56Z"
+    "updated_at": "2026-07-15T13:46:52Z"
   },
   "astrbot_plugin_server_status_nickname": {
     "name": "astrbot_plugin_server_status_nickname",
@@ -15299,9 +15299,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 188,
+    "stars": 189,
     "version": "v2.1.3",
-    "updated_at": "2026-07-12T17:41:14Z",
+    "updated_at": "2026-07-15T14:14:21Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
