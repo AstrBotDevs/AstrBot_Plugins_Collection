@@ -1,4 +1,17 @@
 {
+  "astrbot-plugin-ha-control-layer": {
+    "display_name": "Home Assistant 控制器",
+    "desc": "扫描 Home Assistant 实体并生成家居能力索引，让 AstrBot 通过自然语言安全控制设备。",
+    "author": "Xhan258",
+    "repo": "https://github.com/Xhan258/astrbot_plugin_ha_control_layer",
+    "tags": [
+      "智能家居",
+      "HA",
+      "Home Assistant",
+      "家具控制"
+    ],
+    "social_link": "https://github.com/Xhan258"
+  },
   "astrbot-plugin-body-monitor": {
     "display_name": "Body Monitor 身体数据监测",
     "desc": "基于 Health Connect Webhook 接收小米手环与体脂秤数据，进行基线计算、异常检测并触发 LLM 主动关心。支持心率、步数、睡眠、血氧、压力、HRV、体重、体脂率等指标的持续监测。",
