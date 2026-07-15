@@ -1,4 +1,18 @@
 {
+  "astrbot-plugin-mineastr": {
+    "display_name": "MineAstr Minecraft 群聊桥接",
+    "desc": "将 Minecraft 聊天接入 AstrBot，并提供状态、背包、区域分析、受控命令与低清晰度截图工具",
+    "author": "Halpha1st",
+    "repo": "https://github.com/Hgit-1/MineAstr/tree/astrbot-plugin",
+    "tags": [
+      "mc",
+      "Minecraft",
+      "娱乐",
+      "游戏",
+      "连接器"
+    ],
+    "social_link": "https://github.com/Hgit-1"
+  },
   "astrbot-plugin-ha-control-layer": {
     "display_name": "Home Assistant 控制器",
     "desc": "扫描 Home Assistant 实体并生成家居能力索引，让 AstrBot 通过自然语言安全控制设备。",
