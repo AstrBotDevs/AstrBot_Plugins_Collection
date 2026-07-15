@@ -6493,8 +6493,8 @@
     "social_link": "https://github.com/FenChen0211",
     "category": "entertainment",
     "stars": 9,
-    "version": "v1.2.5",
-    "updated_at": "2026-06-26T07:22:47Z"
+    "version": "v1.2.6",
+    "updated_at": "2026-07-15T20:17:52Z"
   },
   "astrbot_plugin_qqrecord": {
     "display_name": "Meeting Recorder",
@@ -12128,9 +12128,9 @@
       "天文"
     ],
     "category": "integrations",
-    "stars": 5,
+    "stars": 4,
     "version": "v1.2",
-    "updated_at": "2026-06-04T14:51:16Z"
+    "updated_at": "2026-07-15T20:54:53Z"
   },
   "astrbot_plugin_VITS_pro": {
     "desc": "硅基流动api语音合成（此版本相比于原插件改动较多，部分功能不稳定，故开一个新坑用于实验）",
