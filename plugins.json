@@ -1,4 +1,14 @@
 {
+  "astrbot-plugin-palserverManager": {
+    "display_name": "Palworld 幻兽帕鲁服务器管理",
+    "desc": "通过 Palworld REST API 查询和管理服务器，支持管理员 QQ 白名单与中文命令组。",
+    "author": "MysteryDove",
+    "repo": "https://github.com/MysteryDove/astrbot_plugin_palserverManager",
+    "tags": [
+      "游戏"
+    ],
+    "social_link": "https://github.com/MysteryDove/"
+  },
   "astrbot-plugin-mineastr": {
     "display_name": "MineAstr Minecraft 群聊桥接",
     "desc": "将 Minecraft 聊天接入 AstrBot，并提供状态、背包、区域分析、受控命令与低清晰度截图工具",
