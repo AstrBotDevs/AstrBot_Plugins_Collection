@@ -84,7 +84,7 @@
     ],
     "social_link": "https://Florance.top",
     "stars": 1,
-    "version": "v1.6.0",
+    "version": "v1.8.0",
     "astrbot_version": ">=4.26.0",
     "support_platforms": [
       "aiocqhttp",
@@ -94,7 +94,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-07-15T10:00:35Z",
+    "updated_at": "2026-07-15T12:08:03Z",
     "logo": "https://raw.githubusercontent.com/FloranceYeh/astrbot_plugin_virtual_life/main/logo.png"
   },
   "astrbot-plugin-qbittorrent-manager": {
@@ -9828,13 +9828,13 @@
     ],
     "social_link": "https://box.firefly520.top/",
     "category": "ai_tools",
-    "stars": 39,
+    "stars": 40,
     "version": "1.6.6",
     "support_platforms": [
       "aiocqhttp",
       "telegram"
     ],
-    "updated_at": "2026-07-15T08:38:27Z",
+    "updated_at": "2026-07-15T10:57:38Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/main/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -12139,9 +12139,9 @@
     "social_link": "https://voice.gbkgov.cn",
     "category": "ai_tools",
     "tags": [],
-    "stars": 26,
+    "stars": 27,
     "version": "v1.9.0",
-    "updated_at": "2026-06-15T04:59:40Z"
+    "updated_at": "2026-07-15T12:01:21Z"
   },
   "astrbot_plugin_blacklist_tools": {
     "desc": "允许管理员和 LLM 将用户添加到黑名单中，阻止他们的消息，自动拉黑！",
