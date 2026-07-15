@@ -1,4 +1,102 @@
 {
+  "astrbot-plugin-palworld": {
+    "display_name": "PalWorldTerminal · 帕鲁世界终端",
+    "desc": "监测 Palworld 专用服务器, 提供状态查询、日报与玩家档案。基于官方 REST API。",
+    "author": "SolitudeRA",
+    "repo": "https://github.com/SolitudeRA/astrbot_plugin_palworld",
+    "tags": [
+      "PalWorld",
+      "幻兽帕鲁",
+      "パルワールド"
+    ],
+    "social_link": "https://www.solitudera.com",
+    "stars": 2,
+    "version": "v0.9.6",
+    "astrbot_version": ">=4.24.1",
+    "updated_at": "2026-07-14T16:33:53Z",
+    "logo": "https://raw.githubusercontent.com/SolitudeRA/astrbot_plugin_palworld/main/logo.png"
+  },
+  "astrbot-plugin-palserverManager": {
+    "display_name": "Palworld 幻兽帕鲁服务器管理",
+    "desc": "通过 Palworld REST API 查询和管理服务器，支持管理员 QQ 白名单与中文命令组。",
+    "author": "MysteryDove",
+    "repo": "https://github.com/MysteryDove/astrbot_plugin_palserverManager",
+    "tags": [
+      "游戏"
+    ],
+    "social_link": "https://github.com/MysteryDove/",
+    "stars": 0,
+    "version": "0.1.1",
+    "astrbot_version": ">=4.15,<5",
+    "support_platforms": [
+      "aiocqhttp",
+      "qq_official",
+      "qq_official_webhook"
+    ],
+    "updated_at": "2026-07-12T14:20:58Z",
+    "logo": "https://raw.githubusercontent.com/MysteryDove/astrbot_plugin_palserverManager/main/logo.png"
+  },
+  "astrbot-plugin-ha-control-layer": {
+    "display_name": "Home Assistant 控制器",
+    "desc": "扫描 Home Assistant 实体并生成家居能力索引，让 AstrBot 通过自然语言安全控制设备。",
+    "author": "Xhan258",
+    "repo": "https://github.com/Xhan258/astrbot_plugin_ha_control_layer",
+    "tags": [
+      "智能家居",
+      "HA",
+      "Home Assistant",
+      "家具控制"
+    ],
+    "social_link": "https://github.com/Xhan258",
+    "stars": 1,
+    "version": "v1.1.9",
+    "updated_at": "2026-07-14T16:38:18Z",
+    "logo": "https://raw.githubusercontent.com/Xhan258/astrbot_plugin_ha_control_layer/main/logo.png"
+  },
+  "astrbot-plugin-body-monitor": {
+    "display_name": "Body Monitor 身体数据监测",
+    "desc": "基于 Health Connect Webhook 接收小米手环与体脂秤数据，进行基线计算、异常检测并触发 LLM 主动关心。支持心率、步数、睡眠、血氧、压力、HRV、体重、体脂率等指标的持续监测。",
+    "author": "ludan",
+    "repo": "https://github.com/ludan0312/astrbot_plugin_body_monitor",
+    "tags": [
+      "health",
+      "monitor",
+      "xiaomi",
+      "body",
+      "主动关心"
+    ],
+    "stars": 0,
+    "version": "v1.1.0",
+    "astrbot_version": ">=4.16",
+    "support_platforms": [
+      "aiocqhttp"
+    ],
+    "updated_at": "2026-07-15T07:46:47Z"
+  },
+  "astrbot-plugin-virtual-life": {
+    "display_name": "虚拟人生",
+    "desc": "Virtual Life：按人格管理长期阶段、虚拟日程与主动消息",
+    "author": "Florance",
+    "repo": "https://github.com/FloranceYeh/astrbot_plugin_virtual_life",
+    "tags": [
+      "主动消息",
+      "日程"
+    ],
+    "social_link": "https://Florance.top",
+    "stars": 0,
+    "version": "v1.4.0",
+    "astrbot_version": ">=4.26.0",
+    "support_platforms": [
+      "aiocqhttp",
+      "telegram",
+      "wecom",
+      "lark",
+      "dingtalk",
+      "kook"
+    ],
+    "updated_at": "2026-07-15T04:05:48Z",
+    "logo": "https://raw.githubusercontent.com/FloranceYeh/astrbot_plugin_virtual_life/main/logo.png"
+  },
   "astrbot-plugin-qbittorrent-manager": {
     "display_name": "AstrBot qBittorrent Manager",
     "desc": "基于 AstrBot 的 qBittorrent 管理插件，支持在 QQ 群中搜索北洋园 PT 等 NexusPHP 站点种子，并通过卡片展示结果，一键推送到 qBittorrent 下载。",
@@ -4056,7 +4154,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 411,
+    "stars": 412,
     "version": "v4.10.9",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -4065,7 +4163,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-07-14T17:26:51Z",
+    "updated_at": "2026-07-15T07:02:43Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -7160,7 +7258,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 411,
+    "stars": 412,
     "version": "v4.10.9",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -7169,7 +7267,7 @@
       "telegram",
       "lark"
     ],
-    "updated_at": "2026-07-14T17:26:51Z",
+    "updated_at": "2026-07-15T07:02:43Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -9107,9 +9205,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 167,
+    "stars": 168,
     "version": "v1.5.3",
-    "updated_at": "2026-07-15T05:08:04Z",
+    "updated_at": "2026-07-15T07:23:51Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -13466,9 +13564,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "integrations",
-    "stars": 153,
+    "stars": 154,
     "version": "v3.1.0",
-    "updated_at": "2026-07-09T12:12:59Z",
+    "updated_at": "2026-07-15T07:26:29Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -15103,9 +15201,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 130,
-    "version": "3.1.15",
-    "updated_at": "2026-07-15T02:14:25Z",
+    "stars": 131,
+    "version": "3.1.16",
+    "updated_at": "2026-07-15T07:32:21Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
