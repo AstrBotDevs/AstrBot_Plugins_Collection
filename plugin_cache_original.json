@@ -11,9 +11,9 @@
     ],
     "social_link": "https://www.solitudera.com",
     "stars": 3,
-    "version": "v0.9.6",
+    "version": "v0.9.7",
     "astrbot_version": ">=4.24.1",
-    "updated_at": "2026-07-15T09:46:29Z",
+    "updated_at": "2026-07-15T15:31:46Z",
     "logo": "https://raw.githubusercontent.com/SolitudeRA/astrbot_plugin_palworld/main/logo.png"
   },
   "astrbot-plugin-palserverManager": {
@@ -48,9 +48,9 @@
       "家具控制"
     ],
     "social_link": "https://github.com/Xhan258",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.1.9",
-    "updated_at": "2026-07-14T16:38:18Z",
+    "updated_at": "2026-07-15T15:18:28Z",
     "logo": "https://raw.githubusercontent.com/Xhan258/astrbot_plugin_ha_control_layer/main/logo.png"
   },
   "astrbot-plugin-body-monitor": {
@@ -66,12 +66,12 @@
       "主动关心"
     ],
     "stars": 0,
-    "version": "v1.1.0",
+    "version": "v1.2.0",
     "astrbot_version": ">=4.16",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-15T07:46:47Z"
+    "updated_at": "2026-07-15T16:07:52Z"
   },
   "astrbot-plugin-virtual-life": {
     "display_name": "虚拟人生",
@@ -391,13 +391,13 @@
     "repo": "https://github.com/YuNaitang/astrbot_plugin_memosnotes",
     "social_link": "https://github.com/YuNaitang",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "1.8.1",
     "astrbot_version": ">=4.16",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-04T05:35:21Z"
+    "updated_at": "2026-07-15T15:20:28Z"
   },
   "astrbot-plugin-oven-multi": {
     "display_name": "插座的多功能烤箱",
@@ -1303,14 +1303,14 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 120,
-    "version": "5.9.10",
+    "stars": 121,
+    "version": "5.10.0",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-15T04:32:43Z",
+    "updated_at": "2026-07-15T16:16:06Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -1900,12 +1900,12 @@
     ],
     "social_link": "https://github.com/casama233",
     "stars": 2,
-    "version": "0.2.16",
+    "version": "0.2.17",
     "astrbot_version": ">=4.13.0",
     "support_platforms": [
       "whatsapp"
     ],
-    "updated_at": "2026-07-13T10:32:33Z",
+    "updated_at": "2026-07-15T15:42:35Z",
     "logo": "https://raw.githubusercontent.com/casama233/astrbot_plugin_whatsapp_adapter/main/logo.png"
   },
   "astrbot-plugin-qzone-ultra": {
@@ -4407,7 +4407,7 @@
     "display_name": "TK Tracker-违规记录",
     "desc": "自动监听管服机器人的踢人播报，支持WebUI配置、违规历史查询与数据一键管理。",
     "author": "Nyaportemi",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "repo": "https://github.com/Nyaportemi/astrbot_plugin_tk_tracker",
     "tags": [
       "群管",
@@ -4416,7 +4416,7 @@
     "social_link": "",
     "category": "utilities",
     "stars": 2,
-    "updated_at": "2026-07-15T12:42:09Z"
+    "updated_at": "2026-07-15T15:33:11Z"
   },
   "astrbot-plugin-self-code": {
     "display_name": "Self Code Assistant",
@@ -5257,9 +5257,9 @@
     ],
     "social_link": "https://github.com/penguinway",
     "category": "productivity",
-    "stars": 4,
+    "stars": 5,
     "version": "v2.0.0",
-    "updated_at": "2026-03-08T08:31:33Z"
+    "updated_at": "2026-07-15T15:09:28Z"
   },
   "astrbot-plugin-livepulse": {
     "display_name": "LivePulse",
@@ -7936,9 +7936,9 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "category": "ai_tools",
-    "stars": 368,
+    "stars": 367,
     "version": "3.5.2",
-    "updated_at": "2026-07-15T12:18:52Z",
+    "updated_at": "2026-07-15T15:47:55Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -8750,9 +8750,9 @@
       "人格"
     ],
     "category": "ai_tools",
-    "stars": 168,
+    "stars": 169,
     "version": "1.4.20",
-    "updated_at": "2026-07-15T13:55:13Z",
+    "updated_at": "2026-07-15T15:14:28Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_memory/master/logo.png"
   },
   "astrbot_plugin_angel_heart": {
@@ -10883,10 +10883,10 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "ai_tools",
-    "stars": 131,
+    "stars": 132,
     "version": "V1.2.3.hotfix.2",
     "astrbot_version": ">=4.11.0",
-    "updated_at": "2026-07-14T20:16:25Z",
+    "updated_at": "2026-07-15T15:17:53Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -12724,9 +12724,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 282,
+    "stars": 283,
     "version": "2.3.6",
-    "updated_at": "2026-07-14T16:14:12Z",
+    "updated_at": "2026-07-15T15:01:01Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -16739,9 +16739,9 @@
     ],
     "social_link": "https://docs.sayu-bot.com/",
     "category": "integrations",
-    "stars": 49,
+    "stars": 50,
     "version": "v0.5.0",
-    "updated_at": "2026-07-12T12:33:57Z"
+    "updated_at": "2026-07-15T14:52:07Z"
   },
   "astrbot_plugin_xyzw": {
     "author": "四郎",
@@ -18097,9 +18097,9 @@
       "图床"
     ],
     "category": "entertainment",
-    "stars": 347,
+    "stars": 348,
     "version": "v4.03",
-    "updated_at": "2026-07-15T10:06:57Z",
+    "updated_at": "2026-07-15T15:04:42Z",
     "logo": "https://raw.githubusercontent.com/anka-afk/astrbot_plugin_meme_manager/main/logo.png"
   },
   "mccloud_command": {
