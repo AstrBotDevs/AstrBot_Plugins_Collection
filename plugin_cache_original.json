@@ -1303,14 +1303,14 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 121,
+    "stars": 122,
     "version": "5.10.0",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-15T16:16:06Z",
+    "updated_at": "2026-07-15T16:23:54Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -1716,8 +1716,8 @@
     ],
     "social_link": "https://github.com/mmyddd",
     "stars": 0,
-    "version": "v0.1.1",
-    "updated_at": "2026-07-14T15:29:49Z",
+    "version": "v0.3.0",
+    "updated_at": "2026-07-15T17:02:08Z",
     "logo": "https://raw.githubusercontent.com/mmyddd/astrbot_plugin_not_enough_crash/master/logo.png"
   },
   "astrbot_plugin_irmia_devkit": {
@@ -1900,12 +1900,12 @@
     ],
     "social_link": "https://github.com/casama233",
     "stars": 2,
-    "version": "0.2.17",
+    "version": "0.2.18",
     "astrbot_version": ">=4.13.0",
     "support_platforms": [
       "whatsapp"
     ],
-    "updated_at": "2026-07-15T15:42:35Z",
+    "updated_at": "2026-07-15T17:07:05Z",
     "logo": "https://raw.githubusercontent.com/casama233/astrbot_plugin_whatsapp_adapter/main/logo.png"
   },
   "astrbot-plugin-qzone-ultra": {
@@ -16985,13 +16985,13 @@
       "QQ群管"
     ],
     "category": "utilities",
-    "stars": 162,
+    "stars": 163,
     "version": "v3.3.0",
     "astrbot_version": ">=4.24.2",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-14T20:16:25Z",
+    "updated_at": "2026-07-15T16:59:54Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
