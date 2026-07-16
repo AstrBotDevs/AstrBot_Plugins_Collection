@@ -84,7 +84,7 @@
     ],
     "social_link": "https://Florance.top",
     "stars": 3,
-    "version": "v1.8.2",
+    "version": "v1.8.3",
     "astrbot_version": ">=4.26.0",
     "support_platforms": [
       "aiocqhttp",
@@ -94,7 +94,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-07-16T03:22:42Z",
+    "updated_at": "2026-07-16T04:57:27Z",
     "logo": "https://raw.githubusercontent.com/FloranceYeh/astrbot_plugin_virtual_life/main/logo.png"
   },
   "astrbot-plugin-qbittorrent-manager": {
@@ -220,9 +220,9 @@
       "Playwright"
     ],
     "social_link": "https://github.com/dragonuniverse8248",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.0.1",
-    "updated_at": "2026-07-14T14:13:35Z",
+    "updated_at": "2026-07-16T05:48:42Z",
     "logo": "https://raw.githubusercontent.com/dragonuniverse8248/astrbot_plugin_bartender/main/logo.png"
   },
   "astrbot-plugin-halo-whisper": {
@@ -911,7 +911,7 @@
     ],
     "stars": 0,
     "version": "1.5.1",
-    "updated_at": "2026-06-26T03:50:29Z"
+    "updated_at": "2026-07-16T04:39:46Z"
   },
   "astrbot-plugin-koharu": {
     "display_name": "Koharu 漫画翻译",
@@ -1303,14 +1303,14 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 122,
+    "stars": 123,
     "version": "5.10.0",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-15T16:23:54Z",
+    "updated_at": "2026-07-16T04:31:18Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -6056,9 +6056,9 @@
       "opencode"
     ],
     "category": "integrations",
-    "stars": 184,
+    "stars": 185,
     "version": "v2.1.4",
-    "updated_at": "2026-07-15T09:32:58Z",
+    "updated_at": "2026-07-16T05:50:03Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -9389,10 +9389,10 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "utilities",
-    "stars": 82,
+    "stars": 83,
     "version": "v1.6.0-beta.1",
     "astrbot_version": ">=4.11.2",
-    "updated_at": "2026-07-14T15:05:58Z",
+    "updated_at": "2026-07-16T06:15:11Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -9877,9 +9877,9 @@
       "网盘"
     ],
     "category": "integrations",
-    "stars": 2,
-    "version": "v1.3.1",
-    "updated_at": "2026-06-23T06:13:57Z",
+    "stars": 3,
+    "version": "v1.3.2",
+    "updated_at": "2026-07-16T05:43:49Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_openlistfile/master/logo.png"
   },
   "astrbot_plugin_gemini_image": {
@@ -10260,8 +10260,8 @@
     "social_link": "https://github.com/ZhiheZier",
     "category": "entertainment",
     "stars": 4,
-    "version": "v1.2.0",
-    "updated_at": "2026-07-14T14:18:51Z",
+    "version": "v1.2.2",
+    "updated_at": "2026-07-16T05:43:02Z",
     "logo": "https://raw.githubusercontent.com/ZhiheZier/astrbot_plugin_maimaidx/master/logo.png"
   },
   "astrbot_plugin_mcsmanager": {
@@ -11206,7 +11206,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-07-14T20:16:25Z",
+    "updated_at": "2026-07-16T06:19:36Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
