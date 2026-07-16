@@ -1303,14 +1303,14 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 126,
+    "stars": 127,
     "version": "5.10.1",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-16T14:54:41Z",
+    "updated_at": "2026-07-16T15:58:40Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -13740,9 +13740,9 @@
       "海龟汤"
     ],
     "category": "entertainment",
-    "stars": 28,
+    "stars": 29,
     "version": "v1.0.3",
-    "updated_at": "2026-06-28T14:49:10Z"
+    "updated_at": "2026-07-16T16:35:18Z"
   },
   "astrbot_plugin_typst_render": {
     "name": "astrbot_plugin_typst_render",
