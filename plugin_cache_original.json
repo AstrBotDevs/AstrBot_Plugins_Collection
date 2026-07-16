@@ -13,7 +13,7 @@
     "stars": 3,
     "version": "v0.9.8",
     "astrbot_version": ">=4.24.1",
-    "updated_at": "2026-07-16T12:59:50Z",
+    "updated_at": "2026-07-16T13:58:54Z",
     "logo": "https://raw.githubusercontent.com/SolitudeRA/astrbot_plugin_palworld/main/logo.png"
   },
   "astrbot-plugin-palserverManager": {
@@ -84,7 +84,7 @@
     ],
     "social_link": "https://Florance.top",
     "stars": 3,
-    "version": "v1.9.0",
+    "version": "v1.9.1",
     "astrbot_version": ">=4.26.0",
     "support_platforms": [
       "aiocqhttp",
@@ -94,7 +94,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-07-16T12:04:14Z",
+    "updated_at": "2026-07-16T14:18:23Z",
     "logo": "https://raw.githubusercontent.com/FloranceYeh/astrbot_plugin_virtual_life/main/logo.png"
   },
   "astrbot-plugin-qbittorrent-manager": {
@@ -1209,12 +1209,12 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 38,
-    "version": "1.6.9",
+    "version": "1.7.0",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-15T09:13:20Z",
+    "updated_at": "2026-07-16T15:06:08Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_live_stream_companion/main/logo.png"
   },
   "astrbot-plugin-open-notebook": {
@@ -1303,14 +1303,14 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 125,
+    "stars": 126,
     "version": "5.10.1",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-16T09:22:15Z",
+    "updated_at": "2026-07-16T14:54:41Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -6056,9 +6056,9 @@
       "opencode"
     ],
     "category": "integrations",
-    "stars": 185,
+    "stars": 186,
     "version": "v2.1.4",
-    "updated_at": "2026-07-16T05:50:03Z",
+    "updated_at": "2026-07-16T14:22:44Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -9188,11 +9188,11 @@
     ],
     "category": "entertainment",
     "stars": 5,
-    "version": "v1.3.10",
+    "version": "v1.3.11",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-16T12:49:03Z"
+    "updated_at": "2026-07-16T14:30:09Z"
   },
   "astrbot_plugin_parser": {
     "display_name": "万能解析器",
@@ -10911,7 +10911,7 @@
       "discord",
       "lark"
     ],
-    "updated_at": "2026-07-16T13:35:43Z",
+    "updated_at": "2026-07-16T15:05:17Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
