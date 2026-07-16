@@ -1304,13 +1304,13 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 125,
-    "version": "5.10.0",
+    "version": "5.10.1",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-16T07:14:01Z",
+    "updated_at": "2026-07-16T09:22:15Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -4059,7 +4059,7 @@
     "stars": 39,
     "version": "1.4.0",
     "astrbot_version": ">=4.20.0",
-    "updated_at": "2026-07-16T07:58:53Z",
+    "updated_at": "2026-07-16T09:52:25Z",
     "logo": "https://raw.githubusercontent.com/Kalospacer/astrbot_plugin_maid_agent/master/logo.png"
   },
   "astrbot-plugin-stoprushingiamtyping": {
@@ -4407,7 +4407,7 @@
     "display_name": "TK Tracker-违规记录",
     "desc": "自动监听管服机器人的踢人播报，支持WebUI配置、违规历史查询与数据一键管理。",
     "author": "Nyaportemi",
-    "version": "1.2.0",
+    "version": "1.3.0",
     "repo": "https://github.com/Nyaportemi/astrbot_plugin_tk_tracker",
     "tags": [
       "群管",
@@ -4416,7 +4416,7 @@
     "social_link": "",
     "category": "utilities",
     "stars": 2,
-    "updated_at": "2026-07-15T15:33:11Z"
+    "updated_at": "2026-07-16T10:49:33Z"
   },
   "astrbot-plugin-self-code": {
     "display_name": "Self Code Assistant",
@@ -4576,14 +4576,14 @@
     "category": "integrations",
     "tags": [],
     "stars": 33,
-    "version": "v7.2.1",
+    "version": "v7.3.0",
     "astrbot_version": ">=4.0.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official",
       "gewechat"
     ],
-    "updated_at": "2026-07-12T12:24:36Z",
+    "updated_at": "2026-07-16T11:19:22Z",
     "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_mihome/main/logo.png"
   },
   "astrbot-plugin-nai-brush": {
@@ -4726,9 +4726,9 @@
     "social_link": "https://github.com/kawayiYokami/",
     "category": "entertainment",
     "tags": [],
-    "stars": 8,
+    "stars": 9,
     "version": "2.0.1",
-    "updated_at": "2026-07-09T10:47:35Z",
+    "updated_at": "2026-07-16T09:24:18Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_smile/master/logo.png"
   },
   "astrbot-plugin-smart-filter": {
@@ -8782,9 +8782,9 @@
       "聊天记录"
     ],
     "category": "ai_tools",
-    "stars": 23,
+    "stars": 24,
     "version": "1.0.6",
-    "updated_at": "2026-07-09T10:47:43Z",
+    "updated_at": "2026-07-16T09:24:15Z",
     "logo": "https://raw.githubusercontent.com/kawayiYokami/astrbot_plugin_angel_eye/master/logo.png"
   },
   "lumingya/astrbot_plugin_regex_filter": {
@@ -9192,7 +9192,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-16T08:52:16Z"
+    "updated_at": "2026-07-16T09:45:01Z"
   },
   "astrbot_plugin_parser": {
     "display_name": "万能解析器",
@@ -14177,9 +14177,9 @@
       "娱乐"
     ],
     "category": "entertainment",
-    "stars": 17,
+    "stars": 18,
     "version": "v1.5.1",
-    "updated_at": "2026-07-13T08:04:27Z",
+    "updated_at": "2026-07-16T10:12:55Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_deer_check/master/logo.png"
   },
   "astrbot_plugin_pet": {
@@ -15201,9 +15201,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 132,
+    "stars": 133,
     "version": "3.1.16",
-    "updated_at": "2026-07-16T02:50:00Z",
+    "updated_at": "2026-07-16T10:47:06Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -16985,13 +16985,13 @@
       "QQ群管"
     ],
     "category": "utilities",
-    "stars": 163,
+    "stars": 164,
     "version": "v3.3.0",
     "astrbot_version": ">=4.24.2",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-15T16:59:54Z",
+    "updated_at": "2026-07-16T10:24:52Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -18097,9 +18097,9 @@
       "图床"
     ],
     "category": "entertainment",
-    "stars": 348,
+    "stars": 349,
     "version": "v4.03",
-    "updated_at": "2026-07-15T15:04:42Z",
+    "updated_at": "2026-07-16T09:19:13Z",
     "logo": "https://raw.githubusercontent.com/anka-afk/astrbot_plugin_meme_manager/main/logo.png"
   },
   "mccloud_command": {
