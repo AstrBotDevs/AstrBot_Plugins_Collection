@@ -11,9 +11,9 @@
     ],
     "social_link": "https://www.solitudera.com",
     "stars": 3,
-    "version": "v0.9.7",
+    "version": "v0.9.8",
     "astrbot_version": ">=4.24.1",
-    "updated_at": "2026-07-15T15:31:46Z",
+    "updated_at": "2026-07-16T12:59:50Z",
     "logo": "https://raw.githubusercontent.com/SolitudeRA/astrbot_plugin_palworld/main/logo.png"
   },
   "astrbot-plugin-palserverManager": {
@@ -84,7 +84,7 @@
     ],
     "social_link": "https://Florance.top",
     "stars": 3,
-    "version": "v1.8.3",
+    "version": "v1.9.0",
     "astrbot_version": ">=4.26.0",
     "support_platforms": [
       "aiocqhttp",
@@ -94,7 +94,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-07-16T04:57:27Z",
+    "updated_at": "2026-07-16T12:04:14Z",
     "logo": "https://raw.githubusercontent.com/FloranceYeh/astrbot_plugin_virtual_life/main/logo.png"
   },
   "astrbot-plugin-qbittorrent-manager": {
@@ -6315,9 +6315,9 @@
       "codegen"
     ],
     "category": "ai_tools",
-    "stars": 65,
+    "stars": 66,
     "version": "1.4.3",
-    "updated_at": "2026-07-04T02:14:44Z",
+    "updated_at": "2026-07-16T12:22:32Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -9188,11 +9188,11 @@
     ],
     "category": "entertainment",
     "stars": 5,
-    "version": "v1.3.6",
+    "version": "v1.3.10",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-16T09:45:01Z"
+    "updated_at": "2026-07-16T12:49:03Z"
   },
   "astrbot_plugin_parser": {
     "display_name": "万能解析器",
@@ -10259,9 +10259,9 @@
     ],
     "social_link": "https://github.com/ZhiheZier",
     "category": "entertainment",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.2.2",
-    "updated_at": "2026-07-16T05:43:02Z",
+    "updated_at": "2026-07-16T13:43:30Z",
     "logo": "https://raw.githubusercontent.com/ZhiheZier/astrbot_plugin_maimaidx/master/logo.png"
   },
   "astrbot_plugin_mcsmanager": {
@@ -10911,7 +10911,7 @@
       "discord",
       "lark"
     ],
-    "updated_at": "2026-07-12T13:18:04Z",
+    "updated_at": "2026-07-16T13:35:43Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
