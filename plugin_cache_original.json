@@ -84,7 +84,7 @@
     ],
     "social_link": "https://Florance.top",
     "stars": 3,
-    "version": "v1.8.1",
+    "version": "v1.8.2",
     "astrbot_version": ">=4.26.0",
     "support_platforms": [
       "aiocqhttp",
@@ -94,7 +94,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-07-15T14:24:19Z",
+    "updated_at": "2026-07-16T03:22:42Z",
     "logo": "https://raw.githubusercontent.com/FloranceYeh/astrbot_plugin_virtual_life/main/logo.png"
   },
   "astrbot-plugin-qbittorrent-manager": {
@@ -5099,9 +5099,9 @@
     "tags": [],
     "social_link": "",
     "category": "utilities",
-    "stars": 1,
+    "stars": 2,
     "version": "1.2.0",
-    "updated_at": "2026-04-12T03:20:03Z"
+    "updated_at": "2026-07-16T00:59:22Z"
   },
   "w2902171175/astrbot-plugin-GPT-SoVITS": {
     "display_name": "astrbot_plugin_GPT-SoVITS",
@@ -8655,7 +8655,7 @@
     "category": "ai_tools",
     "stars": 33,
     "version": "v0.2.0",
-    "updated_at": "2026-07-14T06:03:02Z",
+    "updated_at": "2026-07-16T01:59:19Z",
     "logo": "https://raw.githubusercontent.com/sukafon/astrbot_plugin_big_banana/main/logo.png"
   },
   "astrbot_plugin_BitTorrent": {
@@ -15201,9 +15201,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 131,
+    "stars": 132,
     "version": "3.1.16",
-    "updated_at": "2026-07-15T07:32:21Z",
+    "updated_at": "2026-07-16T02:50:00Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -18052,9 +18052,9 @@
       "搬史"
     ],
     "category": "utilities",
-    "stars": 585,
+    "stars": 584,
     "version": "v0.916",
-    "updated_at": "2026-07-12T10:18:37Z"
+    "updated_at": "2026-07-16T01:54:44Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
