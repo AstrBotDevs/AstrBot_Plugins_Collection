@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-listen-music": {
+    "display_name": "我想听歌！",
+    "desc": "Bilibili 单源搜索、语音听歌与文件下载。",
+    "author": "57darling02",
+    "repo": "https://github.com/57Darling02/astrbot_plugin_listen_music",
+    "tags": [
+      "音乐",
+      "娱乐"
+    ],
+    "social_link": "57d02.cn"
+  },
   "astrbot-plugin-palworld": {
     "display_name": "PalWorldTerminal · 帕鲁世界终端",
     "desc": "监测 Palworld 专用服务器, 提供状态查询、日报与玩家档案。基于官方 REST API。",
