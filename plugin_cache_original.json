@@ -493,7 +493,7 @@
       "Spotify"
     ],
     "social_link": "https://github.com/maolbsMd",
-    "stars": 1,
+    "stars": 2,
     "version": "1.2.1",
     "astrbot_version": ">=4.25",
     "support_platforms": [
@@ -511,7 +511,7 @@
       "weixin_official_account",
       "weixin_oc"
     ],
-    "updated_at": "2026-07-08T17:15:57Z",
+    "updated_at": "2026-07-17T08:52:06Z",
     "logo": "https://raw.githubusercontent.com/maolbsMd/astrbot_plugin_spotify/main/logo.png"
   },
   "astrbot-plugin-image-caption-cache": {
@@ -664,9 +664,9 @@
     ],
     "social_link": "https://github.com/Himehane",
     "stars": 1,
-    "version": "v1.4.1",
+    "version": "v1.4.2",
     "astrbot_version": ">=4.2.5",
-    "updated_at": "2026-07-02T11:05:43Z"
+    "updated_at": "2026-07-17T08:50:27Z"
   },
   "astrbot-plugin-hermes-connector": {
     "display_name": "Hermes控制器",
@@ -1152,9 +1152,9 @@
       "佳明"
     ],
     "social_link": "https://github.com/Jonathan-614",
-    "stars": 2,
+    "stars": 3,
     "version": "1.0.2",
-    "updated_at": "2026-07-07T05:41:53Z",
+    "updated_at": "2026-07-17T07:16:04Z",
     "logo": "https://raw.githubusercontent.com/Jonathan-614/astrbot_plugin_garmin_health/master/logo.png"
   },
   "astrbot-plugin-group-llm-guard": {
@@ -1334,14 +1334,14 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 128,
+    "stars": 129,
     "version": "5.10.1",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-17T06:08:15Z",
+    "updated_at": "2026-07-17T09:03:23Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -5492,9 +5492,9 @@
     "social_link": "https://github.com/xiaomizhoubaobei",
     "category": "entertainment",
     "tags": [],
-    "stars": 7,
+    "stars": 8,
     "version": "v0.0.3",
-    "updated_at": "2026-05-25T05:45:30Z",
+    "updated_at": "2026-07-17T08:24:15Z",
     "logo": "https://raw.githubusercontent.com/xiaomizhoubaobei/astrbot_plugin_manosaba-memes/main/logo.png"
   },
   "astrbot-plugin-soulmap": {
@@ -6087,9 +6087,9 @@
       "opencode"
     ],
     "category": "integrations",
-    "stars": 186,
+    "stars": 187,
     "version": "v2.1.4",
-    "updated_at": "2026-07-16T14:22:44Z",
+    "updated_at": "2026-07-17T08:50:50Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -15709,9 +15709,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
-    "stars": 91,
+    "stars": 92,
     "version": "v1.1.5",
-    "updated_at": "2026-07-14T12:49:51Z",
+    "updated_at": "2026-07-17T06:45:22Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
@@ -16238,10 +16238,10 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "entertainment",
-    "stars": 256,
+    "stars": 255,
     "version": "v3.1.1",
     "astrbot_version": ">=4.26.1",
-    "updated_at": "2026-07-12T16:06:38Z",
+    "updated_at": "2026-07-17T06:42:57Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -17507,9 +17507,9 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "category": "entertainment",
-    "stars": 126,
+    "stars": 127,
     "version": "v3.0.3",
-    "updated_at": "2026-07-15T05:12:22Z",
+    "updated_at": "2026-07-17T07:14:31Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
