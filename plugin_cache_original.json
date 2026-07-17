@@ -94,7 +94,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-07-16T14:18:23Z",
+    "updated_at": "2026-07-17T02:17:43Z",
     "logo": "https://raw.githubusercontent.com/FloranceYeh/astrbot_plugin_virtual_life/main/logo.png"
   },
   "astrbot-plugin-qbittorrent-manager": {
@@ -1550,9 +1550,9 @@
       "ComfyUI"
     ],
     "social_link": "https://github.com/ReallyChooseC",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.2.1",
-    "updated_at": "2026-06-12T03:56:39Z"
+    "updated_at": "2026-07-17T02:19:31Z"
   },
   "astrbot_plugin_anysearch": {
     "display_name": "Anysearch 实时联网搜索",
@@ -9188,11 +9188,11 @@
     ],
     "category": "entertainment",
     "stars": 5,
-    "version": "v1.3.11",
+    "version": "v1.3.18",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-16T14:30:09Z"
+    "updated_at": "2026-07-17T03:18:49Z"
   },
   "astrbot_plugin_parser": {
     "display_name": "万能解析器",
@@ -17197,9 +17197,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
     "category": "integrations",
-    "stars": 91,
+    "stars": 92,
     "version": "v3.1.0",
-    "updated_at": "2026-07-13T16:53:28Z",
+    "updated_at": "2026-07-17T01:11:46Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
