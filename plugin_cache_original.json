@@ -4646,9 +4646,9 @@
       "数据查询"
     ],
     "category": "entertainment",
-    "stars": 59,
+    "stars": 60,
     "version": "3.0.2",
-    "updated_at": "2026-07-13T09:30:21Z",
+    "updated_at": "2026-07-17T19:36:24Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -6928,7 +6928,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-17T03:08:34Z",
+    "updated_at": "2026-07-17T20:43:03Z",
     "logo": "https://raw.githubusercontent.com/zcj-ui/astrbot_plugin_group_guardian/main/logo.png"
   },
   "astrbot_plugin_qq_tools": {
