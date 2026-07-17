@@ -11464,9 +11464,9 @@
       "训练"
     ],
     "category": "productivity",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.0",
-    "updated_at": "2026-07-12T12:08:20Z"
+    "updated_at": "2026-07-17T17:24:30Z"
   },
   "astrbot_plugin_chat_queue": {
     "desc": "让并发消息按照队列依次执行",
@@ -18149,9 +18149,9 @@
       "图床"
     ],
     "category": "entertainment",
-    "stars": 349,
+    "stars": 350,
     "version": "v4.03",
-    "updated_at": "2026-07-16T09:19:13Z",
+    "updated_at": "2026-07-17T17:31:44Z",
     "logo": "https://raw.githubusercontent.com/anka-afk/astrbot_plugin_meme_manager/main/logo.png"
   },
   "mccloud_command": {
