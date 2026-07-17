@@ -44,7 +44,7 @@
     "stars": 3,
     "version": "v0.9.8",
     "astrbot_version": ">=4.24.1",
-    "updated_at": "2026-07-16T13:58:54Z",
+    "updated_at": "2026-07-17T13:24:35Z",
     "logo": "https://raw.githubusercontent.com/SolitudeRA/astrbot_plugin_palworld/main/logo.png"
   },
   "astrbot-plugin-palserverManager": {
@@ -941,8 +941,8 @@
       "motd"
     ],
     "stars": 0,
-    "version": "1.5.1",
-    "updated_at": "2026-07-16T04:39:46Z"
+    "version": "1.6.0",
+    "updated_at": "2026-07-17T11:48:58Z"
   },
   "astrbot-plugin-koharu": {
     "display_name": "Koharu 漫画翻译",
@@ -4090,7 +4090,7 @@
     "stars": 39,
     "version": "1.4.0",
     "astrbot_version": ">=4.20.0",
-    "updated_at": "2026-07-16T09:52:25Z",
+    "updated_at": "2026-07-17T11:25:27Z",
     "logo": "https://raw.githubusercontent.com/Kalospacer/astrbot_plugin_maid_agent/master/logo.png"
   },
   "astrbot-plugin-stoprushingiamtyping": {
@@ -11246,7 +11246,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 339,
+    "stars": 340,
     "version": "v1.2.4",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -11258,7 +11258,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-07-16T06:19:36Z",
+    "updated_at": "2026-07-17T11:59:32Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -15253,9 +15253,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 133,
+    "stars": 134,
     "version": "3.1.16",
-    "updated_at": "2026-07-16T10:47:06Z",
+    "updated_at": "2026-07-17T13:36:03Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
