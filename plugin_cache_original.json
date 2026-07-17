@@ -3357,13 +3357,13 @@
     "tags": [
       "vrchat"
     ],
-    "stars": 12,
+    "stars": 13,
     "version": "0.2.4",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-15T12:47:59Z"
+    "updated_at": "2026-07-17T22:19:52Z"
   },
   "astrbot-plugin-lyubishchev": {
     "display_name": "柳比歇夫时间管理插件",
