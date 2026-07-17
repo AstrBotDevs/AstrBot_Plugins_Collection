@@ -4694,6 +4694,19 @@
     "social_link": "https://github.com/qiyuqingyun",
     "category": "entertainment"
   },
+  "astrbot_plugin_group_guardian": {
+    "display_name": "QQ 群智能守护",
+    "desc": "集28项群管功能与AI智能审核于一体的综合群管理插件。支持禁言/踢人/全体禁言/群名片/公告/群文件/精华消息/群打卡等完整群管工具集；内置智能审核系统：正则初筛+30条上下文+LLM二次判断，精准识别骂人/广告/色情/暴恐/涉枪涉爆/政治敏感/违规网址等违规内容；支持合并转发消息审核、OCR识图审核（3种内置提示词模板+自定义提示词+WebUI下拉选择视觉模型）、QQ收藏/JSON卡片自动撤回；支持外置SQLite词库，每个功能独立开关，群白名单/黑名单，管理员免检测，可指定审核专用LLM，WebUI管理面板实时监控。",
+    "author": "zhaisir",
+    "repo": "https://github.com/zcj-ui/astrbot_plugin_group_guardian",
+    "tags": [
+      "控制",
+      "关键词",
+      "QQ",
+      "管理"
+    ],
+    "social_link": "https://github.com/zcj-ui"
+  },
   "astrbot_plugin_qq_tools": {
     "display_name": "QQ 工具集",
     "desc": "为 AstrBot 提供 QQ 平台（OneBot / aiocqhttp）特定的工具集：引用回复、撤回消息、检索最近消息、群管理、头像查看、网页浏览（Playwright）、视频分析（Gemini）、以及「定时唤醒」等能力。\n让机器人在 QQ 场景下的“动手能力”更强，增强自主性。",
