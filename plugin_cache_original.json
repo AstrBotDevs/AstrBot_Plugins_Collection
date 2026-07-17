@@ -1,4 +1,35 @@
 {
+  "astrbot-plugin-matsuko-cover": {
+    "display_name": "猫猫翻唱",
+    "desc": "一个可以让机器人输出翻唱语音的插件",
+    "author": "matsuko",
+    "repo": "https://github.com/sdfsfsk/matsuko_cover",
+    "tags": [
+      "rvc",
+      "svc",
+      "ai翻唱"
+    ],
+    "stars": 5,
+    "version": "v2.10.3",
+    "updated_at": "2026-07-15T04:27:27Z",
+    "logo": "https://raw.githubusercontent.com/sdfsfsk/matsuko_cover/main/logo.png"
+  },
+  "astrbot-plugin-listen-music": {
+    "display_name": "我想听歌！",
+    "desc": "Bilibili 单源搜索、语音听歌与文件下载。",
+    "author": "57darling02",
+    "repo": "https://github.com/57Darling02/astrbot_plugin_listen_music",
+    "tags": [
+      "音乐",
+      "娱乐"
+    ],
+    "social_link": "57d02.cn",
+    "stars": 0,
+    "version": "0.1.3",
+    "astrbot_version": ">=4.26,<5",
+    "updated_at": "2026-07-16T20:15:44Z",
+    "logo": "https://raw.githubusercontent.com/57Darling02/astrbot_plugin_listen_music/main/logo.png"
+  },
   "astrbot-plugin-palworld": {
     "display_name": "PalWorldTerminal · 帕鲁世界终端",
     "desc": "监测 Palworld 专用服务器, 提供状态查询、日报与玩家档案。基于官方 REST API。",
@@ -1310,7 +1341,7 @@
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-16T17:55:04Z",
+    "updated_at": "2026-07-17T06:08:15Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -2022,9 +2053,9 @@
       "agentmemory",
       "long-term-memory"
     ],
-    "stars": 7,
+    "stars": 8,
     "version": "0.1.0",
-    "updated_at": "2026-06-20T06:37:01Z"
+    "updated_at": "2026-07-17T03:50:22Z"
   },
   "astrbot_plugin_kimi_web_search": {
     "display_name": "Kimi 联网搜索（WebSearch）",
@@ -5087,8 +5118,8 @@
     "social_link": "https://github.com/Akiyo-dayo",
     "category": "entertainment",
     "stars": 9,
-    "version": "2.6.2",
-    "updated_at": "2026-07-07T13:34:17Z",
+    "version": "2.6.3",
+    "updated_at": "2026-07-17T05:47:25Z",
     "logo": "https://raw.githubusercontent.com/Akiyo-dayo/astrbot_plugin_fishing/main/logo.png"
   },
   "astrbot-plugin-deobfuscation": {
@@ -6879,6 +6910,27 @@
     "updated_at": "2026-02-04T05:46:34Z",
     "logo": "https://raw.githubusercontent.com/qiyuqingyun/HowMuchIsYourFace/main/logo.png"
   },
+  "astrbot_plugin_group_guardian": {
+    "display_name": "QQ 群智能守护",
+    "desc": "集28项群管功能与AI智能审核于一体的综合群管理插件。支持禁言/踢人/全体禁言/群名片/公告/群文件/精华消息/群打卡等完整群管工具集；内置智能审核系统：正则初筛+30条上下文+LLM二次判断，精准识别骂人/广告/色情/暴恐/涉枪涉爆/政治敏感/违规网址等违规内容；支持合并转发消息审核、OCR识图审核（3种内置提示词模板+自定义提示词+WebUI下拉选择视觉模型）、QQ收藏/JSON卡片自动撤回；支持外置SQLite词库，每个功能独立开关，群白名单/黑名单，管理员免检测，可指定审核专用LLM，WebUI管理面板实时监控。",
+    "author": "zhaisir",
+    "repo": "https://github.com/zcj-ui/astrbot_plugin_group_guardian",
+    "tags": [
+      "控制",
+      "关键词",
+      "QQ",
+      "管理"
+    ],
+    "social_link": "https://github.com/zcj-ui",
+    "stars": 11,
+    "version": "v2.7.2",
+    "astrbot_version": ">=4.24.2",
+    "support_platforms": [
+      "aiocqhttp"
+    ],
+    "updated_at": "2026-07-17T03:08:34Z",
+    "logo": "https://raw.githubusercontent.com/zcj-ui/astrbot_plugin_group_guardian/main/logo.png"
+  },
   "astrbot_plugin_qq_tools": {
     "display_name": "QQ 工具集",
     "desc": "为 AstrBot 提供 QQ 平台（OneBot / aiocqhttp）特定的工具集：引用回复、撤回消息、检索最近消息、群管理、头像查看、网页浏览（Playwright）、视频分析（Gemini）、以及「定时唤醒」等能力。\n让机器人在 QQ 场景下的“动手能力”更强，增强自主性。",
@@ -7557,9 +7609,9 @@
     ],
     "social_link": "https://github.com/DITF16",
     "category": "ai_tools",
-    "stars": 71,
+    "stars": 72,
     "version": "1.1.1",
-    "updated_at": "2026-07-08T15:49:52Z",
+    "updated_at": "2026-07-17T03:41:34Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_groupGuard": {
@@ -11711,9 +11763,9 @@
     "repo": "https://github.com/BGYdook/AstrBot-plugin-tmp-bot",
     "category": "integrations",
     "tags": [],
-    "stars": 6,
+    "stars": 1,
     "version": "1.8.1",
-    "updated_at": "2026-07-04T09:48:43Z"
+    "updated_at": "2026-07-17T05:56:55Z"
   },
   "astrbot_plugin_33recognition": {
     "desc": "调用大模型检测图片中关键词",
