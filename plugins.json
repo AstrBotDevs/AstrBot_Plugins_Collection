@@ -71,7 +71,7 @@
     "display_name": "MineAstr Minecraft 群聊桥接",
     "desc": "将 Minecraft 聊天接入 AstrBot，并提供状态、背包、区域分析、受控命令与低清晰度截图工具",
     "author": "Halpha1st",
-    "repo": "https://github.com/Hgit-1/MineAstr/tree/astrbot-plugin",
+    "repo": "https://github.com/Hgit-1/mineastr-plugin",
     "tags": [
       "mc",
       "Minecraft",
