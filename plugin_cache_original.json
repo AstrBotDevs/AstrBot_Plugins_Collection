@@ -5528,9 +5528,9 @@
     ],
     "social_link": "",
     "category": "entertainment",
-    "stars": 5,
+    "stars": 4,
     "version": "v0.3.2",
-    "updated_at": "2026-05-31T07:07:17Z",
+    "updated_at": "2026-07-18T08:53:51Z",
     "logo": "https://raw.githubusercontent.com/moemoli/astrbot_plugin_warframe_helper/master/logo.png"
   },
   "astrbot-plugin-trello": {
@@ -14915,9 +14915,9 @@
     ],
     "social_link": "https://github.com/oyxning",
     "category": "ai_tools",
-    "stars": 73,
+    "stars": 74,
     "version": "v3.5.1",
-    "updated_at": "2026-07-08T08:12:28Z",
+    "updated_at": "2026-07-18T08:18:36Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_antipromptinjector/master/logo.png"
   },
   "astrbot_plugin_alistfile": {
