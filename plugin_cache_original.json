@@ -9,9 +9,9 @@
       "svc",
       "ai翻唱"
     ],
-    "stars": 7,
+    "stars": 8,
     "version": "v2.10.3",
-    "updated_at": "2026-07-18T00:54:13Z",
+    "updated_at": "2026-07-18T10:57:04Z",
     "logo": "https://raw.githubusercontent.com/sdfsfsk/matsuko_cover/main/logo.png"
   },
   "astrbot-plugin-listen-music": {
@@ -1341,14 +1341,14 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 130,
+    "stars": 132,
     "version": "5.10.1",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-18T06:41:16Z",
+    "updated_at": "2026-07-18T10:56:52Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
