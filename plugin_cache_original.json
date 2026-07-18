@@ -158,9 +158,9 @@
       "github"
     ],
     "social_link": "https://github.com/MillionDreamQAQ",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.1.0",
-    "updated_at": "2026-07-15T01:23:52Z",
+    "updated_at": "2026-07-18T05:33:50Z",
     "logo": "https://raw.githubusercontent.com/MillionDreamQAQ/astrbot_plugin_github_trending/master/logo.png"
   },
   "astrbot-plugin-vikunja": {
@@ -1341,14 +1341,14 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 129,
+    "stars": 130,
     "version": "5.10.1",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-17T16:41:29Z",
+    "updated_at": "2026-07-18T06:41:16Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -9247,12 +9247,12 @@
     ],
     "category": "entertainment",
     "stars": 5,
-    "version": "v1.4.10",
+    "version": "v1.4.13",
     "astrbot_version": ">=4.26.3",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-18T03:59:59Z"
+    "updated_at": "2026-07-18T06:30:24Z"
   },
   "astrbot_plugin_parser": {
     "display_name": "万能解析器",
@@ -11254,7 +11254,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 340,
+    "stars": 341,
     "version": "v1.2.4",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -11266,7 +11266,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-07-17T11:59:32Z",
+    "updated_at": "2026-07-18T05:57:16Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
