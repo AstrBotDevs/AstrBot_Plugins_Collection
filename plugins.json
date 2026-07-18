@@ -1,4 +1,15 @@
 {
+  "astrbot-plugin-codeforces-helper": {
+    "display_name": "Codeforces训练助手",
+    "desc": "面向QQ群的Codeforces训练助手，支持成员管理、AC记录同步、Rating缓存、近7日与近30日排行榜、定时播报和Web管理后台。\n默认补全近30天数据，后续增量更新，并提供分页抓取与重复数据保护。",
+    "author": "Zinc-acetate",
+    "repo": "https://github.com/Zinc-acetate/astrbot_plugin_codeforces_helper",
+    "tags": [
+      "Codeforces",
+      "算法竞赛"
+    ],
+    "social_link": "https://github.com/Zinc-acetate"
+  },
   "astrbot-plugin-matsuko-cover": {
     "display_name": "猫猫翻唱",
     "desc": "一个可以让机器人输出翻唱语音的插件",
