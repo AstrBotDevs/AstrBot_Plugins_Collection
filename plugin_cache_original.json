@@ -17661,9 +17661,9 @@
       "nsfw"
     ],
     "category": "entertainment",
-    "stars": 20,
+    "stars": 21,
     "version": "v1.3",
-    "updated_at": "2026-07-13T05:39:23Z"
+    "updated_at": "2026-07-18T15:37:07Z"
   },
   "astrbot_plugin_Translation": {
     "desc": "通过调用百度翻译 API 接口实现翻译文本",
