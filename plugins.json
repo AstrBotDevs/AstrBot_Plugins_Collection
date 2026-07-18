@@ -23,7 +23,7 @@
   },
   "astrbot-plugin-palworld": {
     "display_name": "PalWorldTerminal · 帕鲁世界终端",
-    "desc": "监测 Palworld 专用服务器, 提供状态查询、日报与玩家档案。基于官方 REST API。",
+    "desc": "在 AstrBot 中统一管理 Palworld 单服/多服，让群友通过状态、日报、事件与排行参与服内日常；提供可视化设置、分组/逐命令权限，以及默认关闭、仅管理员可用的服务器管控。基于官方 REST API。",
     "author": "SolitudeRA",
     "repo": "https://github.com/SolitudeRA/astrbot_plugin_palworld",
     "tags": [
