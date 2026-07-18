@@ -5944,9 +5944,9 @@
     "repo": "https://github.com/luori7hao/astrbot_plugin_payqr",
     "category": "utilities",
     "tags": [],
-    "stars": 9,
+    "stars": 10,
     "version": "1.0.0",
-    "updated_at": "2026-07-10T14:39:37Z"
+    "updated_at": "2026-07-18T18:40:49Z"
   },
   "astrbot-plugin-jx3": {
     "display_name": "剑网三游戏数据查询工具",
@@ -6987,13 +6987,13 @@
       "管理"
     ],
     "social_link": "https://github.com/zcj-ui",
-    "stars": 11,
+    "stars": 10,
     "version": "v2.7.2",
     "astrbot_version": ">=4.24.2",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-17T20:43:03Z",
+    "updated_at": "2026-07-18T17:51:57Z",
     "logo": "https://raw.githubusercontent.com/zcj-ui/astrbot_plugin_group_guardian/main/logo.png"
   },
   "astrbot_plugin_qq_tools": {
