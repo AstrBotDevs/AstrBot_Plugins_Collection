@@ -1,4 +1,43 @@
 {
+  "astrbot-plugin-get-px": {
+    "display_name": "画境拾珍",
+    "desc": "Pixiv 搜图或者随机图、合并转发、每日签到卡片、签到升级、R18等猎奇标签过滤",
+    "author": "shitianyaa",
+    "repo": "https://github.com/shitianyaa/astrbot_plugin_get_px",
+    "tags": [
+      "piviv",
+      "每日签到",
+      "养成",
+      "休闲"
+    ],
+    "social_link": "https://github.com/shitianyaa",
+    "stars": 2,
+    "version": "v3.3.2",
+    "astrbot_version": ">=4.16",
+    "support_platforms": [
+      "aiocqhttp"
+    ],
+    "updated_at": "2026-07-18T09:57:27Z",
+    "logo": "https://raw.githubusercontent.com/shitianyaa/astrbot_plugin_get_px/master/logo.png"
+  },
+  "astrbot-plugin-codeforces-helper": {
+    "display_name": "Codeforces训练助手",
+    "desc": "面向QQ群的Codeforces训练助手，支持成员管理、AC记录同步、Rating缓存、近7日与近30日排行榜、定时播报和Web管理后台。\n默认补全近30天数据，后续增量更新，并提供分页抓取与重复数据保护。",
+    "author": "Zinc-acetate",
+    "repo": "https://github.com/Zinc-acetate/astrbot_plugin_codeforces_helper",
+    "tags": [
+      "Codeforces",
+      "算法竞赛"
+    ],
+    "social_link": "https://github.com/Zinc-acetate",
+    "stars": 2,
+    "version": "1.1.1",
+    "astrbot_version": ">=4.0.0,<5.0.0",
+    "support_platforms": [
+      "aiocqhttp"
+    ],
+    "updated_at": "2026-07-18T08:17:35Z"
+  },
   "astrbot-plugin-matsuko-cover": {
     "display_name": "猫猫翻唱",
     "desc": "一个可以让机器人输出翻唱语音的插件",
@@ -32,7 +71,7 @@
   },
   "astrbot-plugin-palworld": {
     "display_name": "PalWorldTerminal · 帕鲁世界终端",
-    "desc": "监测 Palworld 专用服务器, 提供状态查询、日报与玩家档案。基于官方 REST API。",
+    "desc": "在 AstrBot 中统一管理 Palworld 单服/多服，让群友通过状态、日报、事件与排行参与服内日常；提供可视化设置、分组/逐命令权限，以及默认关闭、仅管理员可用的服务器管控。基于官方 REST API。",
     "author": "SolitudeRA",
     "repo": "https://github.com/SolitudeRA/astrbot_plugin_palworld",
     "tags": [
@@ -74,6 +113,25 @@
     "updated_at": "2026-07-12T14:20:58Z",
     "logo": "https://raw.githubusercontent.com/MysteryDove/astrbot_plugin_palserverManager/main/logo.png"
   },
+  "astrbot-plugin-mineastr": {
+    "display_name": "MineAstr Minecraft 群聊桥接",
+    "desc": "将 Minecraft 聊天接入 AstrBot，并提供状态、背包、区域分析、受控命令与低清晰度截图工具",
+    "author": "Halpha1st",
+    "repo": "https://github.com/Hgit-1/mineastr-plugin",
+    "tags": [
+      "mc",
+      "Minecraft",
+      "娱乐",
+      "游戏",
+      "连接器"
+    ],
+    "social_link": "https://github.com/Hgit-1",
+    "stars": 0,
+    "version": "v0.4.0",
+    "astrbot_version": ">=4.16,<5",
+    "updated_at": "2026-07-17T08:27:35Z",
+    "logo": "https://raw.githubusercontent.com/Hgit-1/mineastr-plugin/main/logo.png"
+  },
   "astrbot-plugin-ha-control-layer": {
     "display_name": "Home Assistant 控制器",
     "desc": "扫描 Home Assistant 实体并生成家居能力索引，让 AstrBot 通过自然语言安全控制设备。",
@@ -86,9 +144,9 @@
       "家具控制"
     ],
     "social_link": "https://github.com/Xhan258",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.1.9",
-    "updated_at": "2026-07-15T15:18:28Z",
+    "updated_at": "2026-07-18T12:27:11Z",
     "logo": "https://raw.githubusercontent.com/Xhan258/astrbot_plugin_ha_control_layer/main/logo.png"
   },
   "astrbot-plugin-body-monitor": {
@@ -304,9 +362,9 @@
     ],
     "social_link": "https://github.com/CMKH1337/astrbot_plugin_magic_traffic",
     "stars": 4,
-    "version": "v1.0.0",
+    "version": "v1.0.1",
     "astrbot_version": ">=4.16,<5",
-    "updated_at": "2026-07-04T12:07:49Z"
+    "updated_at": "2026-07-18T12:51:39Z"
   },
   "astrbot-plugin-looki-companion": {
     "display_name": "Looki 陪伴记忆",
@@ -467,10 +525,10 @@
       "webui"
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
-    "stars": 18,
+    "stars": 19,
     "version": "0.4.8",
     "astrbot_version": ">=4.26.0-beta1",
-    "updated_at": "2026-07-15T14:05:52Z"
+    "updated_at": "2026-07-18T12:40:35Z"
   },
   "astrbot-plugin-polite-silence": {
     "display_name": "礼貌性沉默",
@@ -1348,7 +1406,7 @@
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-18T10:56:52Z",
+    "updated_at": "2026-07-18T12:58:58Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -2500,8 +2558,8 @@
     "astrbot_version": ">=4.19.4",
     "support_platforms": "aiocqhttp",
     "tags": [],
-    "stars": 12,
-    "updated_at": "2026-06-01T16:46:09Z",
+    "stars": 13,
+    "updated_at": "2026-07-18T13:07:39Z",
     "logo": "https://raw.githubusercontent.com/PolysaCHride/astrbot_plugin_course/main/logo.png"
   },
   "astrbot-plugin-rocom": {
@@ -2511,9 +2569,9 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 141,
+    "stars": 140,
     "version": "3.8.0",
-    "updated_at": "2026-07-17T13:53:43Z",
+    "updated_at": "2026-07-18T12:16:20Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot-plugin-orangevibe": {
@@ -2886,9 +2944,9 @@
       "电子邮件",
       "smtp"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "0.1.1",
-    "updated_at": "2026-05-28T09:47:30Z",
+    "updated_at": "2026-07-18T11:39:04Z",
     "logo": "https://raw.githubusercontent.com/FFFold/astrbot_plugin_mailer/main/logo.png"
   },
   "astrbot-plugin-CNInfoCrawler": {
@@ -17030,9 +17088,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
     "category": "ai_tools",
-    "stars": 60,
+    "stars": 61,
     "version": "v2.0.0",
-    "updated_at": "2026-07-09T07:18:17Z",
+    "updated_at": "2026-07-18T11:24:22Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_browser/main/logo.png"
   },
   "astrbot_plugin_qqadmin": {
@@ -18112,9 +18170,9 @@
       "搬史"
     ],
     "category": "utilities",
-    "stars": 584,
+    "stars": 585,
     "version": "v0.916",
-    "updated_at": "2026-07-16T01:54:44Z"
+    "updated_at": "2026-07-18T11:54:12Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
