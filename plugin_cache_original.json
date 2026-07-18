@@ -9,9 +9,9 @@
       "svc",
       "ai翻唱"
     ],
-    "stars": 6,
+    "stars": 7,
     "version": "v2.10.3",
-    "updated_at": "2026-07-17T14:56:47Z",
+    "updated_at": "2026-07-18T00:54:13Z",
     "logo": "https://raw.githubusercontent.com/sdfsfsk/matsuko_cover/main/logo.png"
   },
   "astrbot-plugin-listen-music": {
@@ -8786,9 +8786,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "utilities",
-    "stars": 92,
+    "stars": 93,
     "version": "1.1.5",
-    "updated_at": "2026-07-14T13:14:48Z",
+    "updated_at": "2026-07-18T00:35:33Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
