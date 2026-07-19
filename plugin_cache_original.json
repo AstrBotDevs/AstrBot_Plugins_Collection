@@ -162,12 +162,12 @@
       "主动关心"
     ],
     "stars": 3,
-    "version": "v1.2.0",
+    "version": "v1.2.1",
     "astrbot_version": ">=4.16",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-19T10:00:48Z"
+    "updated_at": "2026-07-19T20:37:18Z"
   },
   "astrbot-plugin-virtual-life": {
     "display_name": "虚拟人生",
@@ -1021,10 +1021,10 @@
       "漫画翻译"
     ],
     "social_link": "https://github.com/ABCwewe",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.3.0",
     "astrbot_version": ">=4.9.2",
-    "updated_at": "2026-07-19T09:29:58Z"
+    "updated_at": "2026-07-19T20:15:03Z"
   },
   "astrbot-plugin-AstrScheduleSync": {
     "display_name": "多端日程同步管理",
@@ -4251,15 +4251,16 @@
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
     "stars": 415,
-    "version": "v4.10.9",
+    "version": "v4.11.0",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
       "aiocqhttp",
       "discord",
       "telegram",
-      "lark"
+      "qq_official",
+      "qq_official_webhook"
     ],
-    "updated_at": "2026-07-19T18:26:13Z",
+    "updated_at": "2026-07-19T19:24:54Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -4356,9 +4357,9 @@
     ],
     "social_link": "https://github.com/RhoninSeiei",
     "category": "productivity",
-    "stars": 5,
+    "stars": 6,
     "version": "v0.7.1",
-    "updated_at": "2026-07-15T19:55:52Z",
+    "updated_at": "2026-07-19T19:44:04Z",
     "logo": "https://raw.githubusercontent.com/RhoninSeiei/astrbot_plugin_rss_forwarder/master/logo.png"
   },
   "astrbot-plugin-lyria": {
@@ -7376,15 +7377,16 @@
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
     "stars": 415,
-    "version": "v4.10.9",
+    "version": "v4.11.0",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
       "aiocqhttp",
       "discord",
       "telegram",
-      "lark"
+      "qq_official",
+      "qq_official_webhook"
     ],
-    "updated_at": "2026-07-19T18:26:13Z",
+    "updated_at": "2026-07-19T19:24:54Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
