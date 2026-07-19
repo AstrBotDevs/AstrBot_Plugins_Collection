@@ -48,9 +48,9 @@
       "svc",
       "ai翻唱"
     ],
-    "stars": 8,
+    "stars": 9,
     "version": "v2.10.3",
-    "updated_at": "2026-07-18T10:57:04Z",
+    "updated_at": "2026-07-19T16:30:45Z",
     "logo": "https://raw.githubusercontent.com/sdfsfsk/matsuko_cover/main/logo.png"
   },
   "astrbot-plugin-listen-music": {
@@ -284,9 +284,9 @@
       "danbooru"
     ],
     "social_link": "https://github.com/YayiMiko/anima-master",
-    "stars": 3,
+    "stars": 4,
     "version": "0.3.0-rc.10",
-    "updated_at": "2026-07-12T08:36:26Z"
+    "updated_at": "2026-07-19T16:20:24Z"
   },
   "astrbot-plugin-fund": {
     "display_name": "基金小助手",
@@ -4190,8 +4190,8 @@
     "social_link": "https://github.com/Dracowyn",
     "category": "entertainment",
     "stars": 4,
-    "version": "v0.6.1",
-    "updated_at": "2026-07-11T13:20:41Z"
+    "version": "v0.6.2",
+    "updated_at": "2026-07-19T16:01:27Z"
   },
   "astrbot-plugin-emojikitchen": {
     "display_name": "Emoji Kitchen",
@@ -8181,9 +8181,9 @@
     "social_link": "https://github.com/stevessr",
     "category": "integrations",
     "stars": 18,
-    "version": "0.3.7",
+    "version": "0.3.8",
     "astrbot_version": ">=4.16.0",
-    "updated_at": "2026-07-19T15:59:59Z",
+    "updated_at": "2026-07-19T16:05:22Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_url_image_auto": {
@@ -9323,9 +9323,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 168,
+    "stars": 169,
     "version": "v1.5.3",
-    "updated_at": "2026-07-15T07:23:51Z",
+    "updated_at": "2026-07-19T16:34:11Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -16304,10 +16304,10 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "entertainment",
-    "stars": 255,
+    "stars": 256,
     "version": "v3.1.1",
     "astrbot_version": ">=4.26.1",
-    "updated_at": "2026-07-17T06:42:57Z",
+    "updated_at": "2026-07-19T17:04:53Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
