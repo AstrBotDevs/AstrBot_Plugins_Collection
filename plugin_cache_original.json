@@ -821,9 +821,9 @@
       "优化"
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
-    "stars": 28,
+    "stars": 29,
     "version": "1.4.6",
-    "updated_at": "2026-07-15T18:56:05Z"
+    "updated_at": "2026-07-19T02:16:54Z"
   },
   "astrbot-plugin-Firefly-Blog-Manager": {
     "display_name": "Firefly 博客管理插件",
@@ -18170,9 +18170,9 @@
       "搬史"
     ],
     "category": "utilities",
-    "stars": 586,
+    "stars": 585,
     "version": "v0.916",
-    "updated_at": "2026-07-18T14:38:43Z"
+    "updated_at": "2026-07-19T01:42:29Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
