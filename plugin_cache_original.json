@@ -1094,7 +1094,7 @@
       "限流",
       "webui"
     ],
-    "stars": 4,
+    "stars": 5,
     "version": "0.6.6",
     "astrbot_version": ">=4.24.2",
     "support_platforms": [
@@ -1102,7 +1102,7 @@
       "qq_official",
       "qq_official_webhook"
     ],
-    "updated_at": "2026-07-17T09:59:43Z",
+    "updated_at": "2026-07-19T22:33:25Z",
     "logo": "https://raw.githubusercontent.com/QingchenWait/astrbot_plugin_token_controller/main/logo.png"
   },
   "astrbot-plugin-mimo-tts-clone": {
