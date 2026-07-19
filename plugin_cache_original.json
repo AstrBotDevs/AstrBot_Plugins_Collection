@@ -439,9 +439,9 @@
     "repo": "https://github.com/Hola-Gracias/astrbot_plugin_dynamic_life_state",
     "social_link": "https://github.com/Hola-Gracias",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v0.1.4",
-    "updated_at": "2026-07-14T14:13:27Z",
+    "updated_at": "2026-07-19T08:18:17Z",
     "logo": "https://raw.githubusercontent.com/Hola-Gracias/astrbot_plugin_dynamic_life_state/master/logo.png"
   },
   "astrbot-plugin-nezhatz": {
@@ -1006,8 +1006,8 @@
       "motd"
     ],
     "stars": 0,
-    "version": "1.7.0",
-    "updated_at": "2026-07-19T05:51:07Z"
+    "version": "1.7.2",
+    "updated_at": "2026-07-19T07:21:57Z"
   },
   "astrbot-plugin-koharu": {
     "display_name": "Koharu 漫画翻译",
@@ -1399,14 +1399,14 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 135,
-    "version": "5.10.1",
+    "stars": 136,
+    "version": "5.10.2",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-19T05:48:55Z",
+    "updated_at": "2026-07-19T07:50:33Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -2541,12 +2541,12 @@
       "X",
       "推特"
     ],
-    "stars": 26,
+    "stars": 27,
     "version": "v1.8.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-17T11:09:30Z",
+    "updated_at": "2026-07-19T06:20:15Z",
     "logo": "https://raw.githubusercontent.com/Ars1027/astrbot_plugin_twitter/master/logo.png"
   },
   "astrbot_plugin_course": {
@@ -5007,8 +5007,8 @@
     "social_link": "https://cyilin36.github.io/",
     "category": "integrations",
     "stars": 1,
-    "version": "1.1.0",
-    "updated_at": "2026-07-19T05:49:15Z"
+    "version": "1.2.0",
+    "updated_at": "2026-07-19T08:11:49Z"
   },
   "astrbot-plugin-daily-ai-news": {
     "display_name": "每日AI资讯推送",
@@ -7574,9 +7574,9 @@
     "repo": "https://github.com/2529huang/astrbot_plugin_fund_analyzer",
     "category": "productivity",
     "tags": [],
-    "stars": 23,
+    "stars": 24,
     "version": "2.0.0",
-    "updated_at": "2026-06-15T10:16:09Z",
+    "updated_at": "2026-07-19T07:38:11Z",
     "logo": "https://raw.githubusercontent.com/2529huang/astrbot_plugin_fund_analyzer/master/logo.png"
   },
   "astrbot_plugin_CNKD_Admin": {
@@ -10481,9 +10481,9 @@
     "repo": "https://github.com/exynos967/astrbot_plugin_picstatus",
     "category": "utilities",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.3.0",
-    "updated_at": "2026-04-04T15:53:57Z"
+    "updated_at": "2026-07-19T07:18:08Z"
   },
   "astrbot_plugin_continuous_message": {
     "display_name": "消息防抖动",
@@ -10562,7 +10562,7 @@
     "category": "utilities",
     "stars": 56,
     "version": "v6.3.2",
-    "updated_at": "2026-07-13T16:34:37Z",
+    "updated_at": "2026-07-19T06:26:11Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -12670,9 +12670,9 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "category": "entertainment",
     "tags": [],
-    "stars": 71,
+    "stars": 72,
     "version": "v2.8.9",
-    "updated_at": "2026-07-09T02:26:06Z"
+    "updated_at": "2026-07-19T05:57:22Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -13448,9 +13448,9 @@
     ],
     "social_link": "https://github.com/SodaSizzle",
     "category": "entertainment",
-    "stars": 70,
+    "stars": 71,
     "version": "v2.1",
-    "updated_at": "2026-07-14T14:24:51Z",
+    "updated_at": "2026-07-19T05:59:36Z",
     "logo": "https://raw.githubusercontent.com/SodaSizzle/astrbot_plugin_meme_generator/master/logo.png"
   },
   "astrbot_plugin_baiduocr": {
@@ -16524,9 +16524,9 @@
     ],
     "social_link": "https://github.com/vmoranv-reborn",
     "category": "entertainment",
-    "stars": 50,
+    "stars": 51,
     "version": "1.7.4",
-    "updated_at": "2026-07-12T17:06:33Z",
+    "updated_at": "2026-07-19T07:56:48Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
@@ -17573,9 +17573,9 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "category": "entertainment",
-    "stars": 127,
+    "stars": 128,
     "version": "v3.0.3",
-    "updated_at": "2026-07-17T07:14:31Z",
+    "updated_at": "2026-07-19T05:58:16Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
