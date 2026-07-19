@@ -161,13 +161,13 @@
       "body",
       "主动关心"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.2.0",
     "astrbot_version": ">=4.16",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-17T14:59:09Z"
+    "updated_at": "2026-07-19T10:00:48Z"
   },
   "astrbot-plugin-virtual-life": {
     "display_name": "虚拟人生",
@@ -1006,8 +1006,8 @@
       "motd"
     ],
     "stars": 0,
-    "version": "1.7.2",
-    "updated_at": "2026-07-19T07:21:57Z"
+    "version": "1.7.3",
+    "updated_at": "2026-07-19T09:59:47Z"
   },
   "astrbot-plugin-koharu": {
     "display_name": "Koharu 漫画翻译",
@@ -1021,10 +1021,10 @@
       "漫画翻译"
     ],
     "social_link": "https://github.com/ABCwewe",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.3.0",
     "astrbot_version": ">=4.9.2",
-    "updated_at": "2026-06-11T16:36:45Z"
+    "updated_at": "2026-07-19T09:29:58Z"
   },
   "astrbot-plugin-AstrScheduleSync": {
     "display_name": "多端日程同步管理",
@@ -1406,7 +1406,7 @@
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-19T07:50:33Z",
+    "updated_at": "2026-07-19T09:32:14Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -15319,9 +15319,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 134,
+    "stars": 135,
     "version": "3.1.16",
-    "updated_at": "2026-07-17T13:36:03Z",
+    "updated_at": "2026-07-19T08:40:55Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
