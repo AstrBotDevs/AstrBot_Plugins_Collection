@@ -63,10 +63,10 @@
       "娱乐"
     ],
     "social_link": "57d02.cn",
-    "stars": 0,
+    "stars": 1,
     "version": "0.1.3",
     "astrbot_version": ">=4.26,<5",
-    "updated_at": "2026-07-16T20:15:44Z",
+    "updated_at": "2026-07-20T22:55:26Z",
     "logo": "https://raw.githubusercontent.com/57Darling02/astrbot_plugin_listen_music/main/logo.png"
   },
   "astrbot-plugin-palworld": {
