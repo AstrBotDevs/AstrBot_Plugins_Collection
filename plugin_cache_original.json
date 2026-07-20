@@ -11,13 +11,13 @@
       "休闲"
     ],
     "social_link": "https://github.com/shitianyaa",
-    "stars": 5,
+    "stars": 6,
     "version": "v3.3.2",
     "astrbot_version": ">=4.16",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-20T03:47:23Z",
+    "updated_at": "2026-07-20T12:42:43Z",
     "logo": "https://raw.githubusercontent.com/shitianyaa/astrbot_plugin_get_px/master/logo.png"
   },
   "astrbot-plugin-codeforces-helper": {
@@ -284,9 +284,9 @@
       "danbooru"
     ],
     "social_link": "https://github.com/YayiMiko/anima-master",
-    "stars": 4,
+    "stars": 5,
     "version": "0.3.0-rc.10",
-    "updated_at": "2026-07-19T16:20:24Z"
+    "updated_at": "2026-07-20T10:30:49Z"
   },
   "astrbot-plugin-fund": {
     "display_name": "基金小助手",
@@ -714,7 +714,7 @@
     "stars": 6,
     "version": "0.3.0",
     "astrbot_version": ">=4.24.2",
-    "updated_at": "2026-07-12T16:34:43Z",
+    "updated_at": "2026-07-20T12:19:04Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_cost_control/main/logo.png"
   },
   "astrbot-plugin-dsa-pusher": {
@@ -898,9 +898,9 @@
     "repo": "https://github.com/zzz27578/astrbot_plugin_agent_lab",
     "tags": [],
     "stars": 11,
-    "version": "v0.1.1",
+    "version": "v0.2.1",
     "astrbot_version": ">=4.16,<5",
-    "updated_at": "2026-07-11T14:10:42Z",
+    "updated_at": "2026-07-20T12:51:23Z",
     "logo": "https://raw.githubusercontent.com/zzz27578/astrbot_plugin_agent_lab/main/logo.png"
   },
   "astrbot-plugin-serpapi-imgsearch": {
@@ -1829,14 +1829,14 @@
       "文件处理"
     ],
     "stars": 38,
-    "version": "2.6.0",
+    "version": "2.6.2",
     "astrbot_version": ">=4.16",
     "support_platforms": [
       "aiocqhttp",
       "qq_official",
       "telegram"
     ],
-    "updated_at": "2026-07-18T16:18:38Z",
+    "updated_at": "2026-07-20T12:40:39Z",
     "logo": "https://raw.githubusercontent.com/irmia2026/irmia_devkit_open/main/logo.png"
   },
   "astrbot_plugin_esjzone_downloader": {
@@ -2190,13 +2190,13 @@
     "repo": "https://github.com/vivy1024/astrbot_plugin_wave_memory",
     "social_link": "https://github.com/lioensky/VCPChat | https://github.com/lioensky/VCPToolBox",
     "tags": [],
-    "stars": 14,
+    "stars": 13,
     "version": "v4.5.0",
     "astrbot_version": ">=4.14.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-13T14:41:56Z",
+    "updated_at": "2026-07-20T10:33:30Z",
     "logo": "https://raw.githubusercontent.com/vivy1024/astrbot_plugin_wave_memory/master/logo.png"
   },
   "astrbot_plugin_maimai_updater": {
@@ -2542,11 +2542,11 @@
       "推特"
     ],
     "stars": 27,
-    "version": "v1.8.0",
+    "version": "v1.9.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-19T06:20:15Z",
+    "updated_at": "2026-07-20T10:19:37Z",
     "logo": "https://raw.githubusercontent.com/Ars1027/astrbot_plugin_twitter/master/logo.png"
   },
   "astrbot_plugin_course": {
@@ -6311,13 +6311,13 @@
       "数据查询"
     ],
     "category": "entertainment",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.0.3",
     "astrbot_version": ">=4.11.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-05-20T03:09:33Z",
+    "updated_at": "2026-07-20T11:35:15Z",
     "logo": "https://raw.githubusercontent.com/qsc20001102/astrbot_plugin_gok/master/logo.png"
   },
   "astrbot_plugin_lyrics_trigger": {
@@ -6875,9 +6875,9 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "category": "entertainment",
-    "stars": 30,
+    "stars": 31,
     "version": "v3.2.6",
-    "updated_at": "2026-06-28T14:21:35Z",
+    "updated_at": "2026-07-20T12:15:04Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot-plugin-wifepicker/main/logo.png"
   },
   "astrbot_plugin_steamwatch": {
@@ -11832,8 +11832,8 @@
     "category": "integrations",
     "tags": [],
     "stars": 1,
-    "version": "1.8.1",
-    "updated_at": "2026-07-17T05:56:55Z"
+    "version": "1.8.2",
+    "updated_at": "2026-07-20T11:25:47Z"
   },
   "astrbot_plugin_33recognition": {
     "desc": "调用大模型检测图片中关键词",
@@ -13176,9 +13176,9 @@
     "social_link": "https://pan.l9.lc",
     "category": "integrations",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "v0.5",
-    "updated_at": "2026-04-14T17:56:30Z"
+    "updated_at": "2026-07-20T11:30:14Z"
   },
   "astrbot_plugin_furry_cg": {
     "desc": "小茶馆插件",
@@ -15321,9 +15321,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 135,
+    "stars": 136,
     "version": "3.1.16",
-    "updated_at": "2026-07-19T08:40:55Z",
+    "updated_at": "2026-07-20T11:38:05Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -18217,9 +18217,9 @@
       "图床"
     ],
     "category": "entertainment",
-    "stars": 351,
+    "stars": 353,
     "version": "v4.03",
-    "updated_at": "2026-07-18T02:55:49Z",
+    "updated_at": "2026-07-20T12:58:13Z",
     "logo": "https://raw.githubusercontent.com/anka-afk/astrbot_plugin_meme_manager/main/logo.png"
   },
   "mccloud_command": {
