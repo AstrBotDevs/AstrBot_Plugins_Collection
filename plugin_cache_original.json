@@ -1634,7 +1634,7 @@
       "lark",
       "weixin_oc"
     ],
-    "updated_at": "2026-07-11T04:51:46Z",
+    "updated_at": "2026-07-20T21:22:21Z",
     "logo": "https://raw.githubusercontent.com/shitianyaa/astrbot_plugin_nitter_tweets/main/logo.png"
   },
   "astrbot_plugin_comfyui_hub": {
@@ -4644,7 +4644,7 @@
     "category": "utilities",
     "stars": 25,
     "version": "v2.0.0",
-    "updated_at": "2026-07-12T16:56:56Z",
+    "updated_at": "2026-07-20T21:21:51Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_status/master/logo.png"
   },
   "astrbot-plugin-adsb-monitor": {
