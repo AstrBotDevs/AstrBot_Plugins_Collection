@@ -4260,7 +4260,7 @@
       "qq_official",
       "qq_official_webhook"
     ],
-    "updated_at": "2026-07-19T19:24:54Z",
+    "updated_at": "2026-07-20T06:46:50Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -4839,7 +4839,7 @@
     "stars": 15,
     "version": "v2.5.3",
     "astrbot_version": ">=4.26.0",
-    "updated_at": "2026-07-11T14:16:22Z",
+    "updated_at": "2026-07-20T05:30:54Z",
     "logo": "https://raw.githubusercontent.com/Waterwzy/astrbot_plugin_firefly_filter/master/logo.png"
   },
   "astrbot-plugin-cet6": {
@@ -6543,8 +6543,8 @@
     "social_link": "https://tianlang-hacker.github.io/",
     "category": "utilities",
     "stars": 0,
-    "version": "v0.0.3",
-    "updated_at": "2026-02-05T13:27:13Z"
+    "version": "v0.0.4",
+    "updated_at": "2026-07-20T05:38:06Z"
   },
   "diyrule": {
     "display_name": "自定义群聊的唤醒规则",
@@ -6994,7 +6994,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-19T15:24:52Z",
+    "updated_at": "2026-07-20T05:59:59Z",
     "logo": "https://raw.githubusercontent.com/zcj-ui/astrbot_plugin_group_guardian/main/logo.png"
   },
   "astrbot_plugin_qq_tools": {
@@ -7386,7 +7386,7 @@
       "qq_official",
       "qq_official_webhook"
     ],
-    "updated_at": "2026-07-19T19:24:54Z",
+    "updated_at": "2026-07-20T06:46:50Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -9325,9 +9325,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 169,
+    "stars": 170,
     "version": "v1.5.3",
-    "updated_at": "2026-07-19T16:34:11Z",
+    "updated_at": "2026-07-20T05:07:46Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -15395,7 +15395,7 @@
     "category": "utilities",
     "stars": 9,
     "version": "V2.8.1",
-    "updated_at": "2026-07-13T06:23:14Z"
+    "updated_at": "2026-07-20T06:20:29Z"
   },
   "astrbot_dg_lab_plugin": {
     "author": "RC-CHN",
