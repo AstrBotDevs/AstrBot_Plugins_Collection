@@ -427,9 +427,9 @@
       "定时任务"
     ],
     "social_link": "https://github.com/KitsuneiMomo",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.2",
-    "updated_at": "2026-07-12T00:27:45Z",
+    "updated_at": "2026-07-20T08:39:43Z",
     "logo": "https://raw.githubusercontent.com/KitsuneiMomo/astrbot_plugin_instant_memo/main/logo.png"
   },
   "astrbot-plugin-dynamic-life-state": {
@@ -822,8 +822,8 @@
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
     "stars": 30,
-    "version": "1.4.6",
-    "updated_at": "2026-07-19T14:37:08Z"
+    "version": "1.4.7",
+    "updated_at": "2026-07-20T09:51:40Z"
   },
   "astrbot-plugin-Firefly-Blog-Manager": {
     "display_name": "Firefly 博客管理插件",
@@ -1137,10 +1137,10 @@
       "浏览器自动化"
     ],
     "social_link": "https://github.com/piexian",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.1",
     "astrbot_version": ">=4.9.2",
-    "updated_at": "2026-06-12T16:02:05Z",
+    "updated_at": "2026-07-20T08:18:26Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_cloudflare_browser_run/master/logo.png"
   },
   "astrbot-plugin-knowledge-repo-sync": {
@@ -1508,9 +1508,9 @@
       "webchat"
     ],
     "social_link": "https://github.com/insolitude610",
-    "stars": 12,
+    "stars": 11,
     "version": "0.7.14",
-    "updated_at": "2026-07-14T08:09:30Z",
+    "updated_at": "2026-07-20T08:49:14Z",
     "logo": "https://raw.githubusercontent.com/insolitude610/astrbot_plugin_galgame_web/main/logo.png"
   },
   "astrbot-plugin-feishu-todo": {
@@ -4260,7 +4260,7 @@
       "qq_official",
       "qq_official_webhook"
     ],
-    "updated_at": "2026-07-20T06:46:50Z",
+    "updated_at": "2026-07-20T06:57:23Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -4837,9 +4837,9 @@
     "social_link": "",
     "category": "utilities",
     "stars": 15,
-    "version": "v2.5.3",
+    "version": "v2.5.4",
     "astrbot_version": ">=4.26.0",
-    "updated_at": "2026-07-20T05:30:54Z",
+    "updated_at": "2026-07-20T09:17:38Z",
     "logo": "https://raw.githubusercontent.com/Waterwzy/astrbot_plugin_firefly_filter/master/logo.png"
   },
   "astrbot-plugin-cet6": {
@@ -6589,9 +6589,9 @@
     ],
     "social_link": "https://github.com/FenChen0211",
     "category": "entertainment",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.2.7",
-    "updated_at": "2026-07-16T08:08:41Z"
+    "updated_at": "2026-07-20T09:13:09Z"
   },
   "astrbot_plugin_qqrecord": {
     "display_name": "Meeting Recorder",
@@ -7386,7 +7386,7 @@
       "qq_official",
       "qq_official_webhook"
     ],
-    "updated_at": "2026-07-20T06:46:50Z",
+    "updated_at": "2026-07-20T06:57:23Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -9509,10 +9509,10 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "utilities",
-    "stars": 83,
+    "stars": 84,
     "version": "v1.6.0-beta.1",
     "astrbot_version": ">=4.11.2",
-    "updated_at": "2026-07-16T06:15:11Z",
+    "updated_at": "2026-07-20T07:12:39Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -10106,9 +10106,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "utilities",
-    "stars": 148,
+    "stars": 147,
     "version": "v2.4.9",
-    "updated_at": "2026-07-14T11:18:28Z",
+    "updated_at": "2026-07-20T08:49:15Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -10379,9 +10379,9 @@
     ],
     "social_link": "https://github.com/ZhiheZier",
     "category": "entertainment",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.2.3",
-    "updated_at": "2026-07-19T03:58:08Z",
+    "updated_at": "2026-07-20T06:57:10Z",
     "logo": "https://raw.githubusercontent.com/ZhiheZier/astrbot_plugin_maimaidx/master/logo.png"
   },
   "astrbot_plugin_mcsmanager": {
@@ -14881,9 +14881,9 @@
     ],
     "social_link": "https://github.com/lxfight",
     "category": "ai_tools",
-    "stars": 36,
+    "stars": 37,
     "version": "0.1.0",
-    "updated_at": "2026-06-28T10:42:33Z"
+    "updated_at": "2026-07-20T08:54:54Z"
   },
   "astrbot_plugin_textadventure": {
     "author": "LumineStory",
