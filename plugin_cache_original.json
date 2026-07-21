@@ -2012,13 +2012,13 @@
     "tags": [
       "QQ空间"
     ],
-    "stars": 32,
+    "stars": 33,
     "version": "0.9.0",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-13T10:38:12Z",
+    "updated_at": "2026-07-21T14:11:05Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_qzone_ultra/main/logo.png"
   },
   "telethon-bot-adapter": {
@@ -3374,9 +3374,9 @@
       "星露谷物语",
       "攻略查询"
     ],
-    "stars": 4,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-06-22T15:34:24Z",
+    "updated_at": "2026-07-21T15:13:55Z",
     "logo": "https://raw.githubusercontent.com/hanhanpig3/astrbot_plugin_stardewvalleywiki/main/logo.png"
   },
   "astrbot-plugin-lark-richpost": {
@@ -4250,7 +4250,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 415,
+    "stars": 416,
     "version": "v4.11.2",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -4260,7 +4260,7 @@
       "qq_official",
       "qq_official_webhook"
     ],
-    "updated_at": "2026-07-21T08:33:21Z",
+    "updated_at": "2026-07-21T14:50:36Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -7376,7 +7376,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 415,
+    "stars": 416,
     "version": "v4.11.2",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -7386,7 +7386,7 @@
       "qq_official",
       "qq_official_webhook"
     ],
-    "updated_at": "2026-07-21T08:33:21Z",
+    "updated_at": "2026-07-21T14:50:36Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -7927,10 +7927,10 @@
     ],
     "social_link": "https://www.misakanet.site",
     "category": "ai_tools",
-    "stars": 24,
+    "stars": 23,
     "version": "v1.5.1",
     "astrbot_version": ">=4.25.3",
-    "updated_at": "2026-07-19T04:18:57Z",
+    "updated_at": "2026-07-21T15:13:54Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_image_generation/master/logo.png"
   },
   "astrbot_plugin_group_geetest_verify": {
@@ -11251,8 +11251,8 @@
     ],
     "category": "utilities",
     "stars": 4,
-    "version": "v1.2.6",
-    "updated_at": "2026-05-16T16:14:07Z",
+    "version": "v1.2.7",
+    "updated_at": "2026-07-21T15:01:29Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_magnet_preview/master/logo.png"
   },
   "astrbot_plugin_gemini-image": {
@@ -13579,9 +13579,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 72,
+    "stars": 73,
     "version": "v2.2.5",
-    "updated_at": "2026-07-19T04:22:00Z",
+    "updated_at": "2026-07-21T15:03:31Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -16959,9 +16959,9 @@
     "social_link": "https://github.com/Futureppo",
     "repo": "https://github.com/Futureppo/astrbot_plugin_zanwo",
     "category": "utilities",
-    "stars": 27,
+    "stars": 28,
     "version": "v1.0.9",
-    "updated_at": "2026-06-30T10:07:52Z",
+    "updated_at": "2026-07-21T14:22:51Z",
     "logo": "https://raw.githubusercontent.com/Futureppo/astrbot_plugin_zanwo/master/logo.png"
   },
   "astrbot_plugin_ehentai_bot": {
@@ -17134,9 +17134,9 @@
       "消息伪造"
     ],
     "category": "entertainment",
-    "stars": 9,
+    "stars": 8,
     "version": "v1.1.0",
-    "updated_at": "2026-06-04T04:58:44Z"
+    "updated_at": "2026-07-21T15:14:01Z"
   },
   "astrbot_plugin_douniuniu": {
     "desc": "QQ 群小游戏，培养你的牛牛，然后塔塔开！",
@@ -18535,9 +18535,9 @@
     "repo": "https://github.com/zouyonghe/astrbot_plugin_SDGen",
     "category": "ai_tools",
     "tags": [],
-    "stars": 20,
+    "stars": 19,
     "version": "v1.2.2",
-    "updated_at": "2026-03-23T05:07:45Z"
+    "updated_at": "2026-07-21T15:14:23Z"
   },
   "astrbot_plugin_sysinfo": {
     "desc": "获取当前系统状态",
@@ -18576,9 +18576,9 @@
     "repo": "https://github.com/Last-emo-boy/astrbot_plugin_buckshot_roulette",
     "category": "entertainment",
     "tags": [],
-    "stars": 8,
+    "stars": 7,
     "version": "v1.1.1",
-    "updated_at": "2026-01-31T15:03:33Z"
+    "updated_at": "2026-07-21T15:14:20Z"
   },
   "astrbot_plugin_github_tracker": {
     "desc": "一个定期查询跟踪repo的小工具",
