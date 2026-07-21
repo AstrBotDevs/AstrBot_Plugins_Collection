@@ -180,7 +180,7 @@
     ],
     "social_link": "https://Florance.top",
     "stars": 3,
-    "version": "v1.9.2",
+    "version": "v1.10.0",
     "astrbot_version": ">=4.26.0",
     "support_platforms": [
       "aiocqhttp",
@@ -190,7 +190,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-07-19T13:28:13Z",
+    "updated_at": "2026-07-21T02:15:49Z",
     "logo": "https://raw.githubusercontent.com/FloranceYeh/astrbot_plugin_virtual_life/main/logo.png"
   },
   "astrbot-plugin-qbittorrent-manager": {
@@ -507,12 +507,12 @@
       "学习"
     ],
     "social_link": "https://github.com/huntersxy",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.39.1",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-07T09:01:31Z",
+    "updated_at": "2026-07-20T23:47:24Z",
     "logo": "https://raw.githubusercontent.com/huntersxy/astrbot_plugin_oven_multi/main/logo.png"
   },
   "astrbot-plugin-palette": {
@@ -1399,14 +1399,14 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 142,
+    "stars": 143,
     "version": "5.10.3",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-20T19:30:06Z",
+    "updated_at": "2026-07-21T02:06:22Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -4155,7 +4155,7 @@
     "stars": 39,
     "version": "1.4.1",
     "astrbot_version": ">=4.20.0",
-    "updated_at": "2026-07-18T16:12:48Z",
+    "updated_at": "2026-07-20T23:29:04Z",
     "logo": "https://raw.githubusercontent.com/Kalospacer/astrbot_plugin_maid_agent/master/logo.png"
   },
   "astrbot-plugin-stoprushingiamtyping": {
@@ -15322,8 +15322,8 @@
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
     "stars": 136,
-    "version": "3.1.16",
-    "updated_at": "2026-07-20T11:38:05Z",
+    "version": "3.2.1",
+    "updated_at": "2026-07-21T01:58:49Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
