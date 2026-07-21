@@ -1406,7 +1406,7 @@
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-21T17:20:29Z",
+    "updated_at": "2026-07-21T18:52:20Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -3666,13 +3666,13 @@
       "训练计划"
     ],
     "social_link": "",
-    "stars": 8,
+    "stars": 9,
     "version": "2.0.12",
     "astrbot_version": ">=4.20.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-17T11:02:49Z"
+    "updated_at": "2026-07-21T17:24:03Z"
   },
   "astrbot-plugin-minimax-alert": {
     "display_name": "MiniMax 用量查询",
@@ -7576,9 +7576,9 @@
     "repo": "https://github.com/2529huang/astrbot_plugin_fund_analyzer",
     "category": "productivity",
     "tags": [],
-    "stars": 24,
+    "stars": 23,
     "version": "2.0.0",
-    "updated_at": "2026-07-19T07:38:11Z",
+    "updated_at": "2026-07-21T17:39:30Z",
     "logo": "https://raw.githubusercontent.com/2529huang/astrbot_plugin_fund_analyzer/master/logo.png"
   },
   "astrbot_plugin_CNKD_Admin": {
@@ -9472,8 +9472,8 @@
     "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
     "category": "utilities",
     "stars": 45,
-    "version": "v1.4.0",
-    "updated_at": "2026-07-15T09:34:14Z",
+    "version": "v1.4.2",
+    "updated_at": "2026-07-21T17:25:40Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -16306,10 +16306,10 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "category": "entertainment",
-    "stars": 256,
+    "stars": 257,
     "version": "v3.1.1",
     "astrbot_version": ">=4.26.1",
-    "updated_at": "2026-07-19T17:04:53Z",
+    "updated_at": "2026-07-21T18:40:35Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
