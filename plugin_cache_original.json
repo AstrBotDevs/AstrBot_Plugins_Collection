@@ -457,7 +457,7 @@
     "social_link": "https://www.th-dd.top",
     "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-07-04T02:32:11Z",
+    "updated_at": "2026-07-21T11:08:13Z",
     "logo": "https://raw.githubusercontent.com/thTag/astrbot_plugin_nezhatz/main/logo.png"
   },
   "astrbot-plugin-sensitivefilter": {
@@ -822,8 +822,8 @@
     ],
     "social_link": "https://github.com/Sisyphbaous-DT-Project",
     "stars": 30,
-    "version": "1.4.7",
-    "updated_at": "2026-07-20T09:51:40Z"
+    "version": "1.4.8",
+    "updated_at": "2026-07-21T10:41:03Z"
   },
   "astrbot-plugin-Firefly-Blog-Manager": {
     "display_name": "Firefly 博客管理插件",
@@ -4251,7 +4251,7 @@
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
     "stars": 415,
-    "version": "v4.11.1",
+    "version": "v4.11.2",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
       "aiocqhttp",
@@ -4260,7 +4260,7 @@
       "qq_official",
       "qq_official_webhook"
     ],
-    "updated_at": "2026-07-21T08:26:02Z",
+    "updated_at": "2026-07-21T08:33:21Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -6155,7 +6155,7 @@
     "category": "integrations",
     "stars": 187,
     "version": "v2.1.4",
-    "updated_at": "2026-07-17T08:50:50Z",
+    "updated_at": "2026-07-21T09:44:57Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -7377,7 +7377,7 @@
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
     "stars": 415,
-    "version": "v4.11.1",
+    "version": "v4.11.2",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
       "aiocqhttp",
@@ -7386,7 +7386,7 @@
       "qq_official",
       "qq_official_webhook"
     ],
-    "updated_at": "2026-07-21T08:26:02Z",
+    "updated_at": "2026-07-21T08:33:21Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -10031,12 +10031,12 @@
     "social_link": "https://github.com/piexian",
     "category": "ai_tools",
     "stars": 50,
-    "version": "v2.2.0",
+    "version": "v2.3.0",
     "astrbot_version": ">=4.10.4",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-05T12:36:40Z",
+    "updated_at": "2026-07-21T09:00:10Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -12844,9 +12844,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 283,
+    "stars": 284,
     "version": "2.3.6",
-    "updated_at": "2026-07-15T15:01:01Z",
+    "updated_at": "2026-07-21T10:07:02Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -15419,9 +15419,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 191,
+    "stars": 190,
     "version": "v2.1.3",
-    "updated_at": "2026-07-19T15:52:59Z",
+    "updated_at": "2026-07-21T10:59:47Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
