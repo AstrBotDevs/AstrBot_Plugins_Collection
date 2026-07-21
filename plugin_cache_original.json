@@ -427,9 +427,9 @@
       "定时任务"
     ],
     "social_link": "https://github.com/KitsuneiMomo",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.2",
-    "updated_at": "2026-07-20T08:39:43Z",
+    "updated_at": "2026-07-21T07:37:01Z",
     "logo": "https://raw.githubusercontent.com/KitsuneiMomo/astrbot_plugin_instant_memo/main/logo.png"
   },
   "astrbot-plugin-dynamic-life-state": {
@@ -4250,8 +4250,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 416,
-    "version": "v4.11.0",
+    "stars": 415,
+    "version": "v4.11.1",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
       "aiocqhttp",
@@ -4260,7 +4260,7 @@
       "qq_official",
       "qq_official_webhook"
     ],
-    "updated_at": "2026-07-21T04:12:10Z",
+    "updated_at": "2026-07-21T08:26:02Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -4839,7 +4839,7 @@
     "stars": 15,
     "version": "v2.5.4",
     "astrbot_version": ">=4.26.0",
-    "updated_at": "2026-07-20T09:17:38Z",
+    "updated_at": "2026-07-21T07:41:26Z",
     "logo": "https://raw.githubusercontent.com/Waterwzy/astrbot_plugin_firefly_filter/master/logo.png"
   },
   "astrbot-plugin-cet6": {
@@ -7089,7 +7089,7 @@
     "category": "entertainment",
     "stars": 7,
     "version": "v1.4.0",
-    "updated_at": "2026-06-11T02:55:40Z"
+    "updated_at": "2026-07-21T08:18:07Z"
   },
   "astrbot_plugin_bestdori_tools": {
     "display_name": "BanG！Dream！Bestdori工具箱",
@@ -7376,8 +7376,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 416,
-    "version": "v4.11.0",
+    "stars": 415,
+    "version": "v4.11.1",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
       "aiocqhttp",
@@ -7386,7 +7386,7 @@
       "qq_official",
       "qq_official_webhook"
     ],
-    "updated_at": "2026-07-21T04:12:10Z",
+    "updated_at": "2026-07-21T08:26:02Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -12371,8 +12371,8 @@
     ],
     "category": "integrations",
     "stars": 4,
-    "version": "v1.4.2",
-    "updated_at": "2026-06-05T19:32:25Z"
+    "version": "v1.5.0",
+    "updated_at": "2026-07-21T08:21:25Z"
   },
   "astrbot_plugin_admin_emoji_reply": {
     "desc": "自动为指定的用户回复表情消息，支持开关和自定义速度",
@@ -13539,8 +13539,8 @@
     "social_link": "https://github.com/qa296/",
     "category": "ai_tools",
     "stars": 35,
-    "version": "v0.5.2",
-    "updated_at": "2026-07-07T06:34:13Z"
+    "version": "v0.5.3",
+    "updated_at": "2026-07-21T06:26:58Z"
   },
   "astrbot_plugin_iearning_style": {
     "desc": "使机器人可以从聊天中学习他人说话方式",
@@ -14446,9 +14446,9 @@
     ],
     "category": "ai_tools",
     "author": null,
-    "stars": 44,
+    "stars": 45,
     "version": "2.6.0",
-    "updated_at": "2026-07-03T12:28:13Z"
+    "updated_at": "2026-07-21T07:47:00Z"
   },
   "astrbot_plugin_group_sign": {
     "name": "group_sign",
