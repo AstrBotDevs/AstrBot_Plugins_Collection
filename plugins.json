@@ -2732,7 +2732,7 @@
   },
   "astrbot-plugin-qq-group-daily-analysis": {
     "display_name": "群分析总结插件",
-    "desc": "[多平台接入开发中] 群日常分析总结插件 - 支持 QQ (aiocqhttp)、Telegram、Discord；生成精美的群聊分析报告，支持话题分析、用户形象、群聊圣经等功能",
+    "desc": "群日常分析总结插件 - 支持 QQ 官方机器人、OneBot (NapCat, LLOneBot, Snowluma)、Telegram、Discord；生成精美的群聊分析报告，支持话题分析、用户形象、群聊圣经等功能",
     "author": "SXP-Simon",
     "repo": "https://github.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis",
     "tags": [
@@ -4996,20 +4996,6 @@
     "repo": "https://github.com/GCHkongcheng/astrbot_plugin_code_analyzer",
     "social_link": "https://github.com/GCHkongcheng",
     "category": "ai_tools"
-  },
-  "astrbot_plugin_qq_group_daily_analysis": {
-    "display_name": "QQ群分析总结插件",
-    "desc": "QQ群日常分析总结插件 - 生成精美的群聊分析报告，支持话题分析、用户形象、群聊圣经等功能",
-    "author": "SXP-Simon",
-    "repo": "https://github.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis",
-    "tags": [
-      "群聊总结",
-      "话题分析",
-      "用户形象",
-      "群聊圣经"
-    ],
-    "social_link": "https://github.com/SXP-Simon",
-    "category": "utilities"
   },
   "astrbot_plugin_poke_to_llm": {
     "display_name": "忘@了戳一下吧",
