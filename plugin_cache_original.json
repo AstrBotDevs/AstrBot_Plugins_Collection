@@ -3061,9 +3061,9 @@
     ],
     "social_link": "https://github.com/Ryan7t",
     "stars": 7,
-    "version": "v0.1.0",
-    "astrbot_version": ">=4.22.0",
-    "updated_at": "2026-07-20T18:05:54Z"
+    "version": "v0.1.1",
+    "astrbot_version": ">=4.26.0",
+    "updated_at": "2026-07-22T20:57:48Z"
   },
   "astrbot-plugin-lark-access-control": {
     "display_name": "飞书权限控制",
@@ -10750,7 +10750,7 @@
     "category": "utilities",
     "stars": 6,
     "version": "v2.0.0",
-    "updated_at": "2026-06-30T03:26:09Z"
+    "updated_at": "2026-07-22T20:58:15Z"
   },
   "astrbot_plugin_siliconflow-shouban": {
     "desc": "接入硅基流动画图，图片编辑，可自定义预设",
