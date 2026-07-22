@@ -11,13 +11,13 @@
       "休闲"
     ],
     "social_link": "https://github.com/shitianyaa",
-    "stars": 8,
+    "stars": 9,
     "version": "v3.4.0",
     "astrbot_version": ">=4.16",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-22T11:10:39Z",
+    "updated_at": "2026-07-22T11:49:15Z",
     "logo": "https://raw.githubusercontent.com/shitianyaa/astrbot_plugin_get_px/master/logo.png"
   },
   "astrbot-plugin-codeforces-helper": {
@@ -2190,13 +2190,13 @@
     "repo": "https://github.com/vivy1024/astrbot_plugin_wave_memory",
     "social_link": "https://github.com/lioensky/VCPChat | https://github.com/lioensky/VCPToolBox",
     "tags": [],
-    "stars": 14,
+    "stars": 13,
     "version": "v4.5.0",
     "astrbot_version": ">=4.14.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-22T11:43:01Z",
+    "updated_at": "2026-07-22T13:34:48Z",
     "logo": "https://raw.githubusercontent.com/vivy1024/astrbot_plugin_wave_memory/master/logo.png"
   },
   "astrbot_plugin_maimai_updater": {
@@ -2927,7 +2927,7 @@
     ],
     "social_link": "https://github.com/lingyun14beta",
     "stars": 10,
-    "version": "3.2.0",
+    "version": "3.2.1",
     "support_platforms": [
       "aiocqhttp"
     ],
@@ -5547,7 +5547,7 @@
     "category": "ai_tools",
     "stars": 29,
     "version": "v2.0.0",
-    "updated_at": "2026-07-22T11:41:22Z",
+    "updated_at": "2026-07-22T12:37:13Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -7928,9 +7928,9 @@
     "social_link": "https://www.misakanet.site",
     "category": "ai_tools",
     "stars": 23,
-    "version": "v1.5.1",
+    "version": "v1.5.3",
     "astrbot_version": ">=4.25.3",
-    "updated_at": "2026-07-21T15:13:54Z",
+    "updated_at": "2026-07-22T13:30:03Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_image_generation/master/logo.png"
   },
   "astrbot_plugin_group_geetest_verify": {
@@ -18217,9 +18217,9 @@
       "图床"
     ],
     "category": "entertainment",
-    "stars": 356,
+    "stars": 357,
     "version": "v4.03",
-    "updated_at": "2026-07-22T07:49:07Z",
+    "updated_at": "2026-07-22T12:48:22Z",
     "logo": "https://raw.githubusercontent.com/anka-afk/astrbot_plugin_meme_manager/main/logo.png"
   },
   "mccloud_command": {
@@ -18606,9 +18606,9 @@
     "repo": "https://github.com/AstrBot-Devs/astrbot_plugin_cloudmusic",
     "category": "entertainment",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "1.0.0",
-    "updated_at": "2025-05-24T12:46:36Z"
+    "updated_at": "2026-07-22T11:51:58Z"
   },
   "qq_official_url_cleaner": {
     "desc": "为 QQ 官方 API 修改发送消息的链接，可改善消息被屏蔽的现象",
