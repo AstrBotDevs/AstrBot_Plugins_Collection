@@ -11,13 +11,13 @@
       "休闲"
     ],
     "social_link": "https://github.com/shitianyaa",
-    "stars": 7,
+    "stars": 8,
     "version": "v3.4.0",
     "astrbot_version": ">=4.16",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-21T04:57:42Z",
+    "updated_at": "2026-07-22T11:10:39Z",
     "logo": "https://raw.githubusercontent.com/shitianyaa/astrbot_plugin_get_px/master/logo.png"
   },
   "astrbot-plugin-codeforces-helper": {
@@ -180,7 +180,7 @@
     ],
     "social_link": "https://Florance.top",
     "stars": 3,
-    "version": "v1.10.0",
+    "version": "v1.10.1",
     "astrbot_version": ">=4.26.0",
     "support_platforms": [
       "aiocqhttp",
@@ -190,7 +190,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-07-21T02:15:49Z",
+    "updated_at": "2026-07-22T09:50:58Z",
     "logo": "https://raw.githubusercontent.com/FloranceYeh/astrbot_plugin_virtual_life/main/logo.png"
   },
   "astrbot-plugin-qbittorrent-manager": {
@@ -316,9 +316,9 @@
       "Playwright"
     ],
     "social_link": "https://github.com/dragonuniverse8248",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.0.3",
-    "updated_at": "2026-07-17T10:59:40Z",
+    "updated_at": "2026-07-22T11:12:07Z",
     "logo": "https://raw.githubusercontent.com/dragonuniverse8248/astrbot_plugin_bartender/main/logo.png"
   },
   "astrbot-plugin-halo-whisper": {
@@ -427,9 +427,9 @@
       "定时任务"
     ],
     "social_link": "https://github.com/KitsuneiMomo",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.2",
-    "updated_at": "2026-07-21T07:37:01Z",
+    "updated_at": "2026-07-22T11:42:46Z",
     "logo": "https://raw.githubusercontent.com/KitsuneiMomo/astrbot_plugin_instant_memo/main/logo.png"
   },
   "astrbot-plugin-dynamic-life-state": {
@@ -456,8 +456,8 @@
     ],
     "social_link": "https://www.th-dd.top",
     "stars": 1,
-    "version": "v1.0.0",
-    "updated_at": "2026-07-21T11:23:56Z",
+    "version": "v1.2.0",
+    "updated_at": "2026-07-22T11:18:21Z",
     "logo": "https://raw.githubusercontent.com/thTag/astrbot_plugin_nezhatz/main/logo.png"
   },
   "astrbot-plugin-sensitivefilter": {
@@ -1399,14 +1399,14 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 147,
+    "stars": 148,
     "version": "5.10.4",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-22T08:41:46Z",
+    "updated_at": "2026-07-22T11:09:18Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -2190,13 +2190,13 @@
     "repo": "https://github.com/vivy1024/astrbot_plugin_wave_memory",
     "social_link": "https://github.com/lioensky/VCPChat | https://github.com/lioensky/VCPToolBox",
     "tags": [],
-    "stars": 13,
+    "stars": 14,
     "version": "v4.5.0",
     "astrbot_version": ">=4.14.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-20T10:33:30Z",
+    "updated_at": "2026-07-22T11:43:01Z",
     "logo": "https://raw.githubusercontent.com/vivy1024/astrbot_plugin_wave_memory/master/logo.png"
   },
   "astrbot_plugin_maimai_updater": {
@@ -2347,14 +2347,14 @@
       "记录"
     ],
     "social_link": "https://github.com/1fan-Song",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.1.0",
     "astrbot_version": ">=4.17.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-06-16T14:11:42Z"
+    "updated_at": "2026-07-22T09:32:13Z"
   },
   "astrbot_plugin_daily_card": {
     "display_name": "每日卡片 (Daily Card)",
@@ -2369,9 +2369,9 @@
       "Ai便利贴"
     ],
     "social_link": "https://github.com/zhangkai542322",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.6.1",
-    "updated_at": "2026-06-28T14:44:50Z"
+    "updated_at": "2026-07-22T09:50:36Z"
   },
   "astrbot_plugin_model_connectivity": {
     "display_name": "模型连通性状态图插件",
@@ -4956,9 +4956,9 @@
       "全局记忆"
     ],
     "category": "ai_tools",
-    "stars": 18,
+    "stars": 19,
     "version": "v1.2.1",
-    "updated_at": "2026-06-10T09:08:13Z"
+    "updated_at": "2026-07-22T11:41:53Z"
   },
   "astrbot-plugin-memory": {
     "display_name": "astrbot_plugin_memory",
@@ -5547,7 +5547,7 @@
     "category": "ai_tools",
     "stars": 29,
     "version": "v2.0.0",
-    "updated_at": "2026-07-20T16:32:18Z",
+    "updated_at": "2026-07-22T11:41:22Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -6710,9 +6710,9 @@
     ],
     "social_link": "https://github.com/YukiRa1n",
     "category": "integrations",
-    "stars": 12,
+    "stars": 13,
     "version": "2.2.0",
-    "updated_at": "2026-07-04T00:05:52Z"
+    "updated_at": "2026-07-22T11:20:15Z"
   },
   "astrbot_plugin_sudoku": {
     "display_name": "数独游戏",
@@ -8010,9 +8010,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "utilities",
-    "stars": 60,
+    "stars": 61,
     "version": "1.1.1",
-    "updated_at": "2026-06-24T10:27:36Z"
+    "updated_at": "2026-07-22T10:14:10Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -9756,9 +9756,9 @@
     ],
     "social_link": "https://github.com/asakiyoshi",
     "category": "ai_tools",
-    "stars": 11,
+    "stars": 12,
     "version": "v4.0.0",
-    "updated_at": "2026-07-01T03:55:22Z"
+    "updated_at": "2026-07-22T11:42:43Z"
   },
   "astrbot_plugin_markdown_killer": {
     "display_name": "Markdown 杀手",
@@ -11314,7 +11314,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 343,
+    "stars": 344,
     "version": "v1.2.4",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -11326,7 +11326,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-07-18T16:52:58Z",
+    "updated_at": "2026-07-22T11:02:17Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -13538,9 +13538,9 @@
     ],
     "social_link": "https://github.com/qa296/",
     "category": "ai_tools",
-    "stars": 35,
+    "stars": 36,
     "version": "v0.5.3",
-    "updated_at": "2026-07-21T06:26:58Z"
+    "updated_at": "2026-07-22T10:08:14Z"
   },
   "astrbot_plugin_iearning_style": {
     "desc": "使机器人可以从聊天中学习他人说话方式",
