@@ -11,13 +11,13 @@
       "休闲"
     ],
     "social_link": "https://github.com/shitianyaa",
-    "stars": 9,
+    "stars": 10,
     "version": "v3.4.0",
     "astrbot_version": ">=4.16",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-22T11:49:15Z",
+    "updated_at": "2026-07-22T16:30:17Z",
     "logo": "https://raw.githubusercontent.com/shitianyaa/astrbot_plugin_get_px/master/logo.png"
   },
   "astrbot-plugin-codeforces-helper": {
@@ -48,9 +48,9 @@
       "svc",
       "ai翻唱"
     ],
-    "stars": 10,
+    "stars": 11,
     "version": "v2.10.3",
-    "updated_at": "2026-07-21T03:05:30Z",
+    "updated_at": "2026-07-22T16:00:22Z",
     "logo": "https://raw.githubusercontent.com/sdfsfsk/matsuko_cover/main/logo.png"
   },
   "astrbot-plugin-listen-music": {
@@ -4155,7 +4155,7 @@
     "stars": 39,
     "version": "1.4.1",
     "astrbot_version": ">=4.20.0",
-    "updated_at": "2026-07-20T23:29:04Z",
+    "updated_at": "2026-07-22T16:07:30Z",
     "logo": "https://raw.githubusercontent.com/Kalospacer/astrbot_plugin_maid_agent/master/logo.png"
   },
   "astrbot-plugin-stoprushingiamtyping": {
@@ -6155,7 +6155,7 @@
     "category": "integrations",
     "stars": 187,
     "version": "v3.0.2",
-    "updated_at": "2026-07-22T14:59:34Z",
+    "updated_at": "2026-07-22T15:57:02Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -9325,9 +9325,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 171,
+    "stars": 172,
     "version": "v1.5.3",
-    "updated_at": "2026-07-21T16:23:51Z",
+    "updated_at": "2026-07-22T16:05:05Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -9839,10 +9839,10 @@
       "图床"
     ],
     "category": "entertainment",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.4.6",
     "astrbot_version": ">=4.10.4",
-    "updated_at": "2026-07-15T02:58:30Z",
+    "updated_at": "2026-07-22T15:48:23Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_CloudImg/master/logo.png"
   },
   "astrbot_plugin_aicu_analysis": {
@@ -13554,7 +13554,7 @@
     "category": "ai_tools",
     "stars": 12,
     "version": "v1.0.1",
-    "updated_at": "2026-07-05T05:43:22Z"
+    "updated_at": "2026-07-22T15:46:59Z"
   },
   "astrbot_plugin_who_at_me": {
     "desc": "谁艾特我?监听 @ 消息，便于快速查找自己被 @ 时说了什么。",
