@@ -1304,13 +1304,13 @@
       "互动"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 39,
+    "stars": 40,
     "version": "1.7.0",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-22T07:16:59Z",
+    "updated_at": "2026-07-23T14:13:49Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_live_stream_companion/main/logo.png"
   },
   "astrbot-plugin-open-notebook": {
@@ -1634,7 +1634,7 @@
       "lark",
       "weixin_oc"
     ],
-    "updated_at": "2026-07-23T13:37:58Z",
+    "updated_at": "2026-07-23T14:11:26Z",
     "logo": "https://raw.githubusercontent.com/shitianyaa/astrbot_plugin_nitter_tweets/main/logo.png"
   },
   "astrbot_plugin_comfyui_hub": {
@@ -2012,13 +2012,13 @@
     "tags": [
       "QQ空间"
     ],
-    "stars": 33,
+    "stars": 34,
     "version": "0.9.0",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-21T14:11:05Z",
+    "updated_at": "2026-07-23T14:17:50Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_qzone_ultra/main/logo.png"
   },
   "telethon-bot-adapter": {
@@ -4250,7 +4250,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 421,
+    "stars": 423,
     "version": "v4.11.2",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -4260,7 +4260,7 @@
       "qq_official",
       "qq_official_webhook"
     ],
-    "updated_at": "2026-07-23T11:11:02Z",
+    "updated_at": "2026-07-23T16:19:01Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -5547,7 +5547,7 @@
     "category": "ai_tools",
     "stars": 29,
     "version": "v2.0.0",
-    "updated_at": "2026-07-22T15:07:38Z",
+    "updated_at": "2026-07-23T15:38:15Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -6994,7 +6994,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-23T12:39:49Z",
+    "updated_at": "2026-07-23T14:31:20Z",
     "logo": "https://raw.githubusercontent.com/zcj-ui/astrbot_plugin_group_guardian/main/logo.png"
   },
   "astrbot_plugin_qq_tools": {
@@ -7376,7 +7376,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 421,
+    "stars": 423,
     "version": "v4.11.2",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -7386,7 +7386,7 @@
       "qq_official",
       "qq_official_webhook"
     ],
-    "updated_at": "2026-07-23T11:11:02Z",
+    "updated_at": "2026-07-23T16:19:01Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -8010,9 +8010,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "utilities",
-    "stars": 61,
+    "stars": 62,
     "version": "1.1.1",
-    "updated_at": "2026-07-22T10:14:10Z"
+    "updated_at": "2026-07-23T16:02:48Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -11490,9 +11490,9 @@
     ],
     "social_link": "https://github.com/CCYellowStar2",
     "category": "entertainment",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.0.0",
-    "updated_at": "2026-07-12T02:04:08Z"
+    "updated_at": "2026-07-23T15:47:49Z"
   },
   "astrbot_plugin_yunsdf": {
     "name": "yunsdf",
@@ -15321,9 +15321,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 145,
+    "stars": 148,
     "version": "3.2.3",
-    "updated_at": "2026-07-23T10:01:57Z",
+    "updated_at": "2026-07-23T15:07:18Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -18469,7 +18469,7 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "category": "integrations",
     "tags": [],
-    "stars": 88,
+    "stars": 89,
     "version": "v1.6.4",
     "astrbot_version": ">=4.5.2",
     "support_platforms": [
@@ -18477,7 +18477,7 @@
       "telegram",
       "weixin_oc"
     ],
-    "updated_at": "2026-07-23T04:43:08Z",
+    "updated_at": "2026-07-23T14:17:12Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
