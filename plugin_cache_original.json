@@ -1305,12 +1305,12 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 40,
-    "version": "1.7.0",
+    "version": "1.8.0",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-23T14:13:49Z",
+    "updated_at": "2026-07-23T19:18:41Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_live_stream_companion/main/logo.png"
   },
   "astrbot-plugin-open-notebook": {
@@ -1406,7 +1406,7 @@
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-23T17:31:36Z",
+    "updated_at": "2026-07-23T18:19:44Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -10090,9 +10090,9 @@
     ],
     "social_link": "https://github.com/Siaospeed",
     "category": "utilities",
-    "stars": 17,
+    "stars": 18,
     "version": "v0.1.0",
-    "updated_at": "2026-06-28T10:45:01Z",
+    "updated_at": "2026-07-23T18:25:06Z",
     "logo": "https://raw.githubusercontent.com/Siaospeed/astrbot_plugin_msg_transfer/main/logo.png"
   },
   "astrbot_plugin_chuanhuatong": {
@@ -11314,7 +11314,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 345,
+    "stars": 346,
     "version": "v1.2.4",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -11326,7 +11326,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-07-23T00:48:42Z",
+    "updated_at": "2026-07-23T19:42:16Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
