@@ -1406,7 +1406,7 @@
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-24T14:29:07Z",
+    "updated_at": "2026-07-24T16:40:37Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -6155,7 +6155,7 @@
     "category": "integrations",
     "stars": 187,
     "version": "v3.0.2",
-    "updated_at": "2026-07-22T15:57:02Z",
+    "updated_at": "2026-07-24T15:10:38Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -15321,10 +15321,10 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 159,
+    "stars": 160,
     "version": "3.2.7",
     "astrbot_version": ">=4.24.2",
-    "updated_at": "2026-07-24T13:30:25Z",
+    "updated_at": "2026-07-24T15:31:50Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
