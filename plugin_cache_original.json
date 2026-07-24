@@ -90,7 +90,7 @@
       "discord",
       "kook"
     ],
-    "updated_at": "2026-07-24T06:02:10Z",
+    "updated_at": "2026-07-24T07:41:34Z",
     "logo": "https://raw.githubusercontent.com/SolitudeRA/astrbot_plugin_palworld/main/logo.png"
   },
   "astrbot-plugin-palserverManager": {
@@ -284,9 +284,9 @@
       "danbooru"
     ],
     "social_link": "https://github.com/YayiMiko/anima-master",
-    "stars": 5,
+    "stars": 6,
     "version": "0.3.2",
-    "updated_at": "2026-07-21T16:45:17Z"
+    "updated_at": "2026-07-24T09:18:55Z"
   },
   "astrbot-plugin-fund": {
     "display_name": "基金小助手",
@@ -299,10 +299,10 @@
       "基金"
     ],
     "social_link": "https://github.com/Novforest",
-    "stars": 23,
+    "stars": 24,
     "version": "1.0.0",
     "astrbot_version": ">=4.5.7",
-    "updated_at": "2026-07-22T05:03:01Z",
+    "updated_at": "2026-07-24T07:52:05Z",
     "logo": "https://raw.githubusercontent.com/Novforest/astrbot_plugin_fund/master/logo.png"
   },
   "astrbot-plugin-bartender": {
@@ -1406,7 +1406,7 @@
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-24T07:27:44Z",
+    "updated_at": "2026-07-24T10:05:10Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -3695,9 +3695,9 @@
       "私聊",
       "群聊"
     ],
-    "stars": 12,
+    "stars": 13,
     "version": "v1.0.3",
-    "updated_at": "2026-07-13T07:11:48Z"
+    "updated_at": "2026-07-24T08:10:33Z"
   },
   "astrbot-plugin-dida365": {
     "display_name": "滴答清单连接器",
@@ -4250,7 +4250,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 423,
+    "stars": 424,
     "version": "v4.11.2",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -4260,7 +4260,7 @@
       "qq_official",
       "qq_official_webhook"
     ],
-    "updated_at": "2026-07-23T16:19:01Z",
+    "updated_at": "2026-07-24T10:17:41Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -7376,7 +7376,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 423,
+    "stars": 424,
     "version": "v4.11.2",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -7386,7 +7386,7 @@
       "qq_official",
       "qq_official_webhook"
     ],
-    "updated_at": "2026-07-23T16:19:01Z",
+    "updated_at": "2026-07-24T10:17:41Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -8853,9 +8853,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "category": "utilities",
-    "stars": 94,
+    "stars": 95,
     "version": "1.1.5",
-    "updated_at": "2026-07-22T02:51:36Z",
+    "updated_at": "2026-07-24T08:29:45Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
@@ -11314,7 +11314,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 346,
+    "stars": 347,
     "version": "v1.2.4",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -11326,7 +11326,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-07-23T19:42:16Z",
+    "updated_at": "2026-07-24T10:08:51Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -11784,9 +11784,9 @@
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
     "category": "entertainment",
     "stars": 36,
-    "version": "v4.2.2",
+    "version": "v4.3.0",
     "astrbot_version": ">=4.24",
-    "updated_at": "2026-07-23T10:31:19Z",
+    "updated_at": "2026-07-24T08:18:01Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_Favour_Ultra/main/logo.png"
   },
   "astrbot_plugin_owcx": {
@@ -12698,12 +12698,12 @@
       "撤回"
     ],
     "category": "utilities",
-    "stars": 13,
+    "stars": 14,
     "version": "v1.4.3",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-22T15:44:41Z",
+    "updated_at": "2026-07-24T09:26:28Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_anti_revoke/master/logo.png"
   },
   "input_state_by_napcat": {
@@ -15321,10 +15321,10 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 154,
+    "stars": 156,
     "version": "3.2.5",
     "astrbot_version": ">=4.24.2",
-    "updated_at": "2026-07-24T06:18:31Z",
+    "updated_at": "2026-07-24T08:51:59Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -18148,9 +18148,9 @@
       "功能"
     ],
     "category": "integrations",
-    "stars": 34,
+    "stars": 35,
     "version": "1.2.1",
-    "updated_at": "2026-07-20T03:03:31Z"
+    "updated_at": "2026-07-24T07:57:57Z"
   },
   "astrbot_plugin_moyuren": {
     "desc": "每天定时推送摸鱼人日历",
@@ -18221,7 +18221,7 @@
     "category": "entertainment",
     "stars": 359,
     "version": "v4.03",
-    "updated_at": "2026-07-24T02:52:29Z",
+    "updated_at": "2026-07-24T07:35:33Z",
     "logo": "https://raw.githubusercontent.com/anka-afk/astrbot_plugin_meme_manager/main/logo.png"
   },
   "mccloud_command": {
