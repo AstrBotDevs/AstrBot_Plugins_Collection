@@ -4250,7 +4250,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 424,
+    "stars": 425,
     "version": "v4.11.2",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -4260,7 +4260,7 @@
       "qq_official",
       "qq_official_webhook"
     ],
-    "updated_at": "2026-07-24T10:17:41Z",
+    "updated_at": "2026-07-24T21:16:03Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -7376,7 +7376,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "utilities",
-    "stars": 424,
+    "stars": 425,
     "version": "v4.11.2",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -7386,7 +7386,7 @@
       "qq_official",
       "qq_official_webhook"
     ],
-    "updated_at": "2026-07-24T10:17:41Z",
+    "updated_at": "2026-07-24T21:16:03Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -11798,8 +11798,8 @@
     "category": "entertainment",
     "tags": [],
     "stars": 7,
-    "version": "v1.3.0",
-    "updated_at": "2026-06-15T12:49:14Z",
+    "version": "v2.0.0",
+    "updated_at": "2026-07-24T21:25:07Z",
     "logo": "https://raw.githubusercontent.com/TZYCeng/astrbot_plugin_owcx/main/logo.png"
   },
   "astrbot_plugin_hapemxg_Inspect": {
