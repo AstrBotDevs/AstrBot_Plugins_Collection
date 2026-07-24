@@ -90,7 +90,7 @@
       "discord",
       "kook"
     ],
-    "updated_at": "2026-07-23T17:24:02Z",
+    "updated_at": "2026-07-24T06:02:10Z",
     "logo": "https://raw.githubusercontent.com/SolitudeRA/astrbot_plugin_palworld/main/logo.png"
   },
   "astrbot-plugin-palserverManager": {
@@ -204,8 +204,8 @@
     ],
     "social_link": "https://github.com/JustMonika24769",
     "stars": 0,
-    "version": "v1.3.0",
-    "updated_at": "2026-07-24T04:01:11Z"
+    "version": "v1.3.1",
+    "updated_at": "2026-07-24T04:41:50Z"
   },
   "astrbot-plugin-github-trending": {
     "display_name": "GitHub Trending",
@@ -470,7 +470,7 @@
     ],
     "social_link": "https://github.com/lingyun14beta",
     "stars": 0,
-    "version": "1.2.0",
+    "version": "1.2.1",
     "support_platforms": [
       "aiocqhttp",
       "telegram",
@@ -478,7 +478,7 @@
       "dingtalk",
       "discord"
     ],
-    "updated_at": "2026-07-14T06:28:02Z"
+    "updated_at": "2026-07-24T06:55:32Z"
   },
   "astrbot-plugin-memosnotes": {
     "display_name": "Memos备忘录连接器",
@@ -1399,14 +1399,14 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 150,
+    "stars": 152,
     "version": "5.10.5",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-23T18:19:44Z",
+    "updated_at": "2026-07-24T07:27:44Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -4673,14 +4673,14 @@
     "category": "integrations",
     "tags": [],
     "stars": 34,
-    "version": "v8.0.0",
+    "version": "v8.1.1",
     "astrbot_version": ">=4.24.2",
     "support_platforms": [
       "aiocqhttp",
       "qq_official",
       "gewechat"
     ],
-    "updated_at": "2026-07-24T00:08:45Z",
+    "updated_at": "2026-07-24T05:47:52Z",
     "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_mihome/main/logo.png"
   },
   "astrbot-plugin-nai-brush": {
@@ -4712,9 +4712,9 @@
       "数据查询"
     ],
     "category": "entertainment",
-    "stars": 60,
+    "stars": 61,
     "version": "3.0.2",
-    "updated_at": "2026-07-22T09:14:27Z",
+    "updated_at": "2026-07-24T04:25:32Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_endfield/master/logo.png"
   },
   "astrbot-plugin-hydrus": {
@@ -8773,8 +8773,8 @@
     ],
     "category": "ai_tools",
     "stars": 33,
-    "version": "v0.2.1",
-    "updated_at": "2026-07-21T11:46:51Z",
+    "version": "v0.2.2",
+    "updated_at": "2026-07-24T04:48:19Z",
     "logo": "https://raw.githubusercontent.com/sukafon/astrbot_plugin_big_banana/main/logo.png"
   },
   "astrbot_plugin_BitTorrent": {
@@ -9325,9 +9325,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities",
-    "stars": 172,
+    "stars": 173,
     "version": "v1.5.3",
-    "updated_at": "2026-07-22T16:05:05Z",
+    "updated_at": "2026-07-24T06:58:03Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -15321,10 +15321,10 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 153,
+    "stars": 154,
     "version": "3.2.5",
     "astrbot_version": ">=4.24.2",
-    "updated_at": "2026-07-24T03:00:16Z",
+    "updated_at": "2026-07-24T06:18:31Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -17136,9 +17136,9 @@
       "消息伪造"
     ],
     "category": "entertainment",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.1.0",
-    "updated_at": "2026-07-21T15:14:01Z"
+    "updated_at": "2026-07-24T06:22:41Z"
   },
   "astrbot_plugin_douniuniu": {
     "desc": "QQ 群小游戏，培养你的牛牛，然后塔塔开！",
