@@ -299,10 +299,10 @@
       "基金"
     ],
     "social_link": "https://github.com/Novforest",
-    "stars": 24,
+    "stars": 25,
     "version": "1.0.0",
     "astrbot_version": ">=4.5.7",
-    "updated_at": "2026-07-24T07:52:05Z",
+    "updated_at": "2026-07-25T00:33:44Z",
     "logo": "https://raw.githubusercontent.com/Novforest/astrbot_plugin_fund/master/logo.png"
   },
   "astrbot-plugin-bartender": {
@@ -1406,7 +1406,7 @@
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-24T16:40:37Z",
+    "updated_at": "2026-07-25T01:54:42Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -1625,7 +1625,7 @@
     "repo": "https://github.com/shitianyaa/astrbot_plugin_nitter_tweets",
     "social_link": "https://github.com/shitianyaa",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "0.15.0",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -1634,7 +1634,7 @@
       "lark",
       "weixin_oc"
     ],
-    "updated_at": "2026-07-23T14:11:26Z",
+    "updated_at": "2026-07-25T03:43:04Z",
     "logo": "https://raw.githubusercontent.com/shitianyaa/astrbot_plugin_nitter_tweets/main/logo.png"
   },
   "astrbot_plugin_comfyui_hub": {
@@ -5081,10 +5081,10 @@
     ],
     "social_link": "https://github.com/aliveriver",
     "category": "integrations",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.1.0",
     "astrbot_version": ">=4.9.2",
-    "updated_at": "2026-05-16T11:57:38Z",
+    "updated_at": "2026-07-25T02:19:52Z",
     "logo": "https://raw.githubusercontent.com/aliveriver/astrbot_plugin_listen_github/master/logo.png"
   },
   "astrbot-plugin-bazaar": {
@@ -12235,9 +12235,9 @@
       "fishing"
     ],
     "category": "entertainment",
-    "stars": 45,
+    "stars": 46,
     "version": "2.4.7",
-    "updated_at": "2026-07-10T08:54:13Z",
+    "updated_at": "2026-07-25T00:58:40Z",
     "logo": "https://raw.githubusercontent.com/xxlemon-io/astrbot_plugin_fishing/main/logo.png"
   },
   "astrbot_plugin_astrmetry": {
@@ -13481,9 +13481,9 @@
     ],
     "social_link": "https://t.me/astrbot_plugin_HINS",
     "category": "entertainment",
-    "stars": 5,
+    "stars": 4,
     "version": "v1.3.6",
-    "updated_at": "2026-06-02T14:52:27Z"
+    "updated_at": "2026-07-25T04:04:50Z"
   },
   "astrbot_plugin_xfbank": {
     "desc": "一个简易的银行插件",
@@ -13860,9 +13860,9 @@
       "海龟汤"
     ],
     "category": "entertainment",
-    "stars": 29,
+    "stars": 30,
     "version": "v1.0.3",
-    "updated_at": "2026-07-16T16:35:18Z"
+    "updated_at": "2026-07-25T01:05:42Z"
   },
   "astrbot_plugin_typst_render": {
     "name": "astrbot_plugin_typst_render",
@@ -15321,10 +15321,10 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 160,
+    "stars": 161,
     "version": "3.2.7",
     "astrbot_version": ">=4.24.2",
-    "updated_at": "2026-07-24T15:31:50Z",
+    "updated_at": "2026-07-25T02:59:10Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -15420,9 +15420,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 191,
+    "stars": 192,
     "version": "v2.1.3",
-    "updated_at": "2026-07-24T12:47:56Z",
+    "updated_at": "2026-07-25T01:02:57Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
