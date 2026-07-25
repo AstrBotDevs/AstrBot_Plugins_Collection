@@ -50,7 +50,7 @@
     ],
     "stars": 11,
     "version": "v2.10.3",
-    "updated_at": "2026-07-22T16:00:22Z",
+    "updated_at": "2026-07-25T10:09:07Z",
     "logo": "https://raw.githubusercontent.com/sdfsfsk/matsuko_cover/main/logo.png"
   },
   "astrbot-plugin-listen-music": {
@@ -5771,8 +5771,8 @@
     "social_link": "https://github.com/Radiant303",
     "category": "ai_tools",
     "stars": 45,
-    "version": "v2.3.1",
-    "updated_at": "2026-07-24T10:33:34Z",
+    "version": "v2.3.2",
+    "updated_at": "2026-07-25T10:26:28Z",
     "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_clonetts/master/logo.png"
   },
   "astrbot-plugin-ssh": {
@@ -12465,9 +12465,9 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "utilities",
-    "stars": 10,
+    "stars": 11,
     "version": "1.0.2",
-    "updated_at": "2026-07-10T04:58:24Z"
+    "updated_at": "2026-07-25T10:32:01Z"
   },
   "astrbot_plugin_personal_selfupdate": {
     "desc": "一个用于自更新人格数据的插件。",
@@ -15321,10 +15321,10 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 161,
+    "stars": 163,
     "version": "3.2.7",
     "astrbot_version": ">=4.24.2",
-    "updated_at": "2026-07-25T09:27:22Z",
+    "updated_at": "2026-07-25T10:52:19Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
