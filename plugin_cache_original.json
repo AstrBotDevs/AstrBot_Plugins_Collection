@@ -285,8 +285,8 @@
     ],
     "social_link": "https://github.com/YayiMiko/anima-master",
     "stars": 5,
-    "version": "0.3.2",
-    "updated_at": "2026-07-24T10:43:37Z"
+    "version": "0.3.3",
+    "updated_at": "2026-07-25T19:55:47Z"
   },
   "astrbot-plugin-fund": {
     "display_name": "基金小助手",
@@ -660,14 +660,14 @@
     "repo": "https://github.com/konley/astrbot_plugin_isittrue",
     "tags": [],
     "stars": 2,
-    "version": "1.1.0",
-    "astrbot_version": ">=3.5.0",
+    "version": "1.2.1",
+    "astrbot_version": ">=4.0.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official",
       "telegram"
     ],
-    "updated_at": "2026-07-02T04:40:22Z",
+    "updated_at": "2026-07-25T18:51:41Z",
     "logo": "https://raw.githubusercontent.com/konley/astrbot_plugin_isittrue/main/logo.png"
   },
   "astrbot-plugin-just-enough-mcserver-status": {
@@ -1400,13 +1400,13 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 153,
-    "version": "5.10.5",
+    "version": "5.10.6",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-25T17:27:15Z",
+    "updated_at": "2026-07-25T18:44:09Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -3258,7 +3258,7 @@
       "查询工具",
       "彩虹六号"
     ],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.0",
     "astrbot_version": ">=4.0.0",
     "support_platforms": [
@@ -3266,7 +3266,7 @@
       "qq_official",
       "telegram"
     ],
-    "updated_at": "2026-05-21T04:28:50Z",
+    "updated_at": "2026-07-25T18:14:16Z",
     "logo": "https://raw.githubusercontent.com/Diekeng/astrbot_plugin_r6states/master/logo.png"
   },
   "astrbot-plugin-HonorOfKings": {
@@ -7450,8 +7450,8 @@
     ],
     "category": "utilities",
     "stars": 29,
-    "version": "v1.0.9",
-    "updated_at": "2026-07-15T08:41:12Z"
+    "version": "v1.0.10",
+    "updated_at": "2026-07-25T19:13:30Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -10977,10 +10977,10 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "ai_tools",
-    "stars": 134,
+    "stars": 135,
     "version": "V1.2.3.hotfix.2",
     "astrbot_version": ">=4.11.0",
-    "updated_at": "2026-07-25T17:06:24Z",
+    "updated_at": "2026-07-25T19:14:41Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -12818,9 +12818,9 @@
       "rag"
     ],
     "category": "ai_tools",
-    "stars": 286,
+    "stars": 287,
     "version": "2.3.6",
-    "updated_at": "2026-07-24T10:43:38Z",
+    "updated_at": "2026-07-25T18:37:32Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -18168,9 +18168,9 @@
     "repo": "https://github.com/anka-afk/astrbot_plugin_humanlike",
     "category": "ai_tools",
     "tags": [],
-    "stars": 37,
+    "stars": 38,
     "version": "v0.2.2",
-    "updated_at": "2026-07-09T08:20:33Z"
+    "updated_at": "2026-07-25T18:04:43Z"
   },
   "astrbot_plugin_blue_archive": {
     "desc": "蔚蓝档案攻略查询 - 指令格式：攻略查询 <攻略名称>",
@@ -18194,8 +18194,8 @@
     ],
     "category": "entertainment",
     "stars": 363,
-    "version": "v4.03",
-    "updated_at": "2026-07-25T18:01:04Z",
+    "version": "v4.1",
+    "updated_at": "2026-07-25T18:34:50Z",
     "logo": "https://raw.githubusercontent.com/anka-afk/astrbot_plugin_meme_manager/main/logo.png"
   },
   "mccloud_command": {
