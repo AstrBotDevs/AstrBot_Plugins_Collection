@@ -1379,13 +1379,13 @@
     "repo": "https://github.com/Wyccotccy/astrbot_plugin_qzone_tools",
     "social_link": "www.wyccotccy.cn",
     "tags": [],
-    "stars": 39,
+    "stars": 40,
     "version": "5.0.6",
     "astrbot_version": ">=4.24.2",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-15T08:22:07Z",
+    "updated_at": "2026-07-25T17:47:08Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-private-companion": {
@@ -1406,7 +1406,7 @@
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-25T16:40:52Z",
+    "updated_at": "2026-07-25T17:27:15Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -3176,13 +3176,13 @@
       "更多主动功能"
     ],
     "social_link": "www.wyccotccy.cn",
-    "stars": 39,
+    "stars": 40,
     "version": "5.0.6",
     "astrbot_version": ">=4.24.2",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-15T08:22:07Z",
+    "updated_at": "2026-07-25T17:47:08Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot-plugin-meme-manager-plus": {
@@ -10977,10 +10977,10 @@
     ],
     "social_link": "https://github.com/Him666233",
     "category": "ai_tools",
-    "stars": 133,
+    "stars": 134,
     "version": "V1.2.3.hotfix.2",
     "astrbot_version": ">=4.11.0",
-    "updated_at": "2026-07-23T09:27:38Z",
+    "updated_at": "2026-07-25T17:06:24Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -11288,7 +11288,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 348,
+    "stars": 349,
     "version": "v1.2.4",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -11300,7 +11300,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-07-25T16:08:13Z",
+    "updated_at": "2026-07-25T17:08:04Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -15295,10 +15295,10 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 165,
+    "stars": 167,
     "version": "3.2.7",
     "astrbot_version": ">=4.24.2",
-    "updated_at": "2026-07-25T13:54:13Z",
+    "updated_at": "2026-07-25T17:58:47Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -18195,7 +18195,7 @@
     "category": "entertainment",
     "stars": 363,
     "version": "v4.03",
-    "updated_at": "2026-07-25T16:53:14Z",
+    "updated_at": "2026-07-25T18:01:04Z",
     "logo": "https://raw.githubusercontent.com/anka-afk/astrbot_plugin_meme_manager/main/logo.png"
   },
   "mccloud_command": {
