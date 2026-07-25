@@ -15295,10 +15295,10 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 167,
+    "stars": 168,
     "version": "3.2.7",
     "astrbot_version": ">=4.24.2",
-    "updated_at": "2026-07-25T17:58:47Z",
+    "updated_at": "2026-07-25T20:12:40Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
