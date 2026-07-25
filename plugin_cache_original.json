@@ -1304,13 +1304,13 @@
       "互动"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 40,
+    "stars": 41,
     "version": "1.8.0",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-23T19:18:41Z",
+    "updated_at": "2026-07-25T09:42:18Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_live_stream_companion/main/logo.png"
   },
   "astrbot-plugin-open-notebook": {
@@ -11876,12 +11876,12 @@
     ],
     "category": "utilities",
     "stars": 1,
-    "version": "v2.1.1",
+    "version": "v2.2.1",
     "astrbot_version": ">=4.10.4",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-20T15:49:21Z",
+    "updated_at": "2026-07-25T09:39:58Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_file_checker/master/logo.png"
   },
   "astrbot_plugin_tg_button": {
@@ -12983,9 +12983,9 @@
       "表情包"
     ],
     "category": "entertainment",
-    "stars": 15,
+    "stars": 14,
     "version": "v1.0.1",
-    "updated_at": "2026-05-19T04:02:21Z"
+    "updated_at": "2026-07-25T07:28:50Z"
   },
   "wxauto_repost": {
     "desc": "微信消息转发框架插件 - 基于 wxauto 库和 OneBotV11 协议，支持微信消息与 OneBotV11 协议的双向转发",
@@ -15321,10 +15321,10 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 160,
+    "stars": 161,
     "version": "3.2.7",
     "astrbot_version": ">=4.24.2",
-    "updated_at": "2026-07-25T05:08:29Z",
+    "updated_at": "2026-07-25T09:27:22Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -16087,9 +16087,9 @@
     "repo": "https://github.com/zhewang448/astrbot_plugin_mrfz",
     "category": "entertainment",
     "stars": 9,
-    "version": "v3.7.1",
+    "version": "v3.7.2",
     "astrbot_version": ">=4.26,<5",
-    "updated_at": "2026-07-23T09:02:27Z",
+    "updated_at": "2026-07-25T08:57:36Z",
     "logo": "https://raw.githubusercontent.com/zhewang448/astrbot_plugin_mrfz/main/logo.png"
   },
   "astrbot_plugin_napdog_cleaner": {
@@ -18219,9 +18219,9 @@
       "图床"
     ],
     "category": "entertainment",
-    "stars": 360,
+    "stars": 362,
     "version": "v4.03",
-    "updated_at": "2026-07-24T13:01:04Z",
+    "updated_at": "2026-07-25T08:31:35Z",
     "logo": "https://raw.githubusercontent.com/anka-afk/astrbot_plugin_meme_manager/main/logo.png"
   },
   "mccloud_command": {
