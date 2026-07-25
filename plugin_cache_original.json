@@ -90,7 +90,7 @@
       "discord",
       "kook"
     ],
-    "updated_at": "2026-07-24T20:18:42Z",
+    "updated_at": "2026-07-25T14:49:11Z",
     "logo": "https://raw.githubusercontent.com/SolitudeRA/astrbot_plugin_palworld/main/logo.png"
   },
   "astrbot-plugin-palserverManager": {
@@ -161,13 +161,13 @@
       "body",
       "主动关心"
     ],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.2.1",
     "astrbot_version": ">=4.16",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-19T21:04:28Z"
+    "updated_at": "2026-07-25T14:56:57Z"
   },
   "astrbot-plugin-virtual-life": {
     "display_name": "虚拟人生",
@@ -204,8 +204,8 @@
     ],
     "social_link": "https://github.com/JustMonika24769",
     "stars": 0,
-    "version": "v1.3.1",
-    "updated_at": "2026-07-24T04:41:50Z"
+    "version": "v1.4.0",
+    "updated_at": "2026-07-25T14:55:57Z"
   },
   "astrbot-plugin-github-trending": {
     "display_name": "GitHub Trending",
@@ -3666,13 +3666,13 @@
       "训练计划"
     ],
     "social_link": "",
-    "stars": 9,
+    "stars": 10,
     "version": "2.0.12",
     "astrbot_version": ">=4.20.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-21T17:24:03Z"
+    "updated_at": "2026-07-25T14:10:26Z"
   },
   "astrbot-plugin-minimax-alert": {
     "display_name": "MiniMax 用量查询",
@@ -5166,9 +5166,9 @@
     ],
     "social_link": "https://github.com/menglimi",
     "category": "ai_tools",
-    "stars": 64,
+    "stars": 65,
     "version": "3.2.2",
-    "updated_at": "2026-07-22T08:00:10Z",
+    "updated_at": "2026-07-25T14:38:01Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -14949,9 +14949,9 @@
     ],
     "social_link": "https://github.com/oyxning",
     "category": "ai_tools",
-    "stars": 74,
+    "stars": 75,
     "version": "v3.5.1",
-    "updated_at": "2026-07-18T08:18:36Z",
+    "updated_at": "2026-07-25T14:58:05Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_antipromptinjector/master/logo.png"
   },
   "astrbot_plugin_alistfile": {
@@ -15295,10 +15295,10 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 164,
+    "stars": 165,
     "version": "3.2.7",
     "astrbot_version": ">=4.24.2",
-    "updated_at": "2026-07-25T13:24:17Z",
+    "updated_at": "2026-07-25T13:54:13Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -17911,9 +17911,9 @@
       "推送"
     ],
     "category": "productivity",
-    "stars": 22,
+    "stars": 23,
     "version": "v2.1.0",
-    "updated_at": "2026-03-26T11:05:12Z"
+    "updated_at": "2026-07-25T14:05:09Z"
   },
   "astrbot_plugin_gemini_exp": {
     "desc": "让你在 AstrBot 调用 Gemini2.0-flash-exp 来生成图片或者 P 图。Gemini2.0-flash-exp为原生多模态模型，其既是语言模型，也是生图模型，因此能够对图像使用简单的自然语言命令进行处理。",
