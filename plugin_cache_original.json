@@ -5136,8 +5136,8 @@
     "social_link": "https://github.com/RichardLiuda",
     "category": "utilities",
     "stars": 41,
-    "version": "v3.7.1",
-    "updated_at": "2026-07-26T11:27:45Z",
+    "version": "v4.0.0",
+    "updated_at": "2026-07-26T17:02:55Z",
     "logo": "https://raw.githubusercontent.com/RichardLiuda/astrbot_plugin_goofish_catcher/master/logo.png"
   },
   "astrbot-plugin-poetry-games": {
@@ -7774,7 +7774,7 @@
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
     "stars": 21,
-    "version": "3.2.0",
+    "version": "3.3.1",
     "astrbot_version": ">=4.24.0",
     "support_platforms": [
       "aiocqhttp",
@@ -7788,7 +7788,7 @@
       "misskey",
       "line"
     ],
-    "updated_at": "2026-07-26T15:42:27Z",
+    "updated_at": "2026-07-26T16:18:43Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_context_aware/main/logo.png"
   },
   "astrbot_plugin_STEmbedding": {
@@ -11686,9 +11686,9 @@
     ],
     "social_link": "https://www.misakanet.site",
     "category": "utilities",
-    "stars": 13,
+    "stars": 14,
     "version": "v1.4.7",
-    "updated_at": "2026-07-03T12:28:14Z",
+    "updated_at": "2026-07-26T17:16:01Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_persona_plus/master/logo.png"
   },
   "astrbot_plugin_sticker": {
@@ -13342,8 +13342,8 @@
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
     "stars": 85,
-    "version": "3.1.6",
-    "updated_at": "2026-07-25T06:58:53Z",
+    "version": "3.2.0",
+    "updated_at": "2026-07-26T16:16:38Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "findx010197/astrbot_plugin_reminder": {
@@ -18839,9 +18839,9 @@
     "repo": "https://github.com/zgojin/astrbot_plugin_AW",
     "category": "entertainment",
     "tags": [],
-    "stars": 18,
+    "stars": 19,
     "version": "v1.5.3",
-    "updated_at": "2026-06-23T06:19:13Z"
+    "updated_at": "2026-07-26T17:53:23Z"
   },
   "astrbot_plugin_mnemosyne": {
     "desc": "一个长期记忆插件，基于milvus数据库实现，详情请见README.md",
