@@ -1304,13 +1304,13 @@
       "互动"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 41,
+    "stars": 42,
     "version": "1.8.0",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-25T09:42:18Z",
+    "updated_at": "2026-07-26T18:06:57Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_live_stream_companion/main/logo.png"
   },
   "astrbot-plugin-open-notebook": {
@@ -9489,10 +9489,10 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "utilities",
-    "stars": 84,
+    "stars": 85,
     "version": "v1.6.0-beta.1",
     "astrbot_version": ">=4.11.2",
-    "updated_at": "2026-07-20T07:12:39Z",
+    "updated_at": "2026-07-26T19:43:39Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -14541,9 +14541,9 @@
     ],
     "author": "satori5555",
     "category": "utilities",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0",
-    "updated_at": "2026-05-13T08:24:44Z",
+    "updated_at": "2026-07-26T18:39:58Z",
     "logo": "https://raw.githubusercontent.com/satori5555/astrbot_plugin_bw_monitor/master/logo.png"
   },
   "astrbot_plugin_78animesearch": {
