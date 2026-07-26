@@ -681,7 +681,7 @@
     "social_link": "https://github.com/NightVoyager14",
     "stars": 1,
     "version": "v1.1.0",
-    "updated_at": "2026-07-26T09:45:50Z",
+    "updated_at": "2026-07-26T14:02:48Z",
     "logo": "https://raw.githubusercontent.com/NightVoyager14/astrbot_plugin_just_enough_mcserver_status/main/logo.png"
   },
   "astrbot-plugin-tattle": {
@@ -1996,12 +1996,12 @@
     ],
     "social_link": "https://github.com/casama233",
     "stars": 2,
-    "version": "0.2.20",
+    "version": "0.2.21",
     "astrbot_version": ">=4.13.0",
     "support_platforms": [
       "whatsapp"
     ],
-    "updated_at": "2026-07-25T16:32:51Z",
+    "updated_at": "2026-07-26T13:14:59Z",
     "logo": "https://raw.githubusercontent.com/casama233/astrbot_plugin_whatsapp_adapter/main/logo.png"
   },
   "astrbot-plugin-qzone-ultra": {
@@ -6154,8 +6154,8 @@
     ],
     "category": "integrations",
     "stars": 187,
-    "version": "v3.1.0",
-    "updated_at": "2026-07-25T11:54:20Z",
+    "version": "v3.2.0",
+    "updated_at": "2026-07-26T13:30:28Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -9307,7 +9307,7 @@
     "category": "utilities",
     "stars": 173,
     "version": "v1.5.4",
-    "updated_at": "2026-07-26T07:17:23Z",
+    "updated_at": "2026-07-26T14:12:28Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -9589,7 +9589,7 @@
       "aiocqhttp",
       "weixin_oc"
     ],
-    "updated_at": "2026-07-26T11:49:54Z",
+    "updated_at": "2026-07-26T12:36:12Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -12653,8 +12653,8 @@
     "category": "entertainment",
     "tags": [],
     "stars": 72,
-    "version": "v2.9.0",
-    "updated_at": "2026-07-25T05:56:22Z"
+    "version": "v2.9.1",
+    "updated_at": "2026-07-26T13:28:10Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -15301,10 +15301,10 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 170,
+    "stars": 171,
     "version": "3.2.7",
     "astrbot_version": ">=4.24.2",
-    "updated_at": "2026-07-26T09:49:50Z",
+    "updated_at": "2026-07-26T14:11:36Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -15759,8 +15759,8 @@
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
     "stars": 94,
-    "version": "v1.1.5",
-    "updated_at": "2026-07-20T03:22:14Z",
+    "version": "v1.1.6",
+    "updated_at": "2026-07-26T14:36:39Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
@@ -16969,8 +16969,8 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_reread",
     "category": "entertainment",
     "stars": 38,
-    "version": "v2.1.0",
-    "updated_at": "2026-07-08T03:12:00Z",
+    "version": "v2.1.1",
+    "updated_at": "2026-07-26T14:24:26Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_reread/main/logo.png"
   },
   "astrbot_plugin_csbaoyan": {
@@ -18200,8 +18200,8 @@
     ],
     "category": "entertainment",
     "stars": 363,
-    "version": "v4.1",
-    "updated_at": "2026-07-25T18:34:50Z",
+    "version": "v4.11",
+    "updated_at": "2026-07-26T14:03:40Z",
     "logo": "https://raw.githubusercontent.com/anka-afk/astrbot_plugin_meme_manager/main/logo.png"
   },
   "mccloud_command": {
