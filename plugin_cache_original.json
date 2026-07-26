@@ -90,7 +90,7 @@
       "discord",
       "kook"
     ],
-    "updated_at": "2026-07-25T14:49:11Z",
+    "updated_at": "2026-07-26T03:33:40Z",
     "logo": "https://raw.githubusercontent.com/SolitudeRA/astrbot_plugin_palworld/main/logo.png"
   },
   "astrbot-plugin-palserverManager": {
@@ -5546,8 +5546,8 @@
     "social_link": "https://github.com/leafliber",
     "category": "ai_tools",
     "stars": 30,
-    "version": "v2.0.0",
-    "updated_at": "2026-07-24T13:25:18Z",
+    "version": "v3.0.0",
+    "updated_at": "2026-07-26T01:43:12Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -7734,8 +7734,8 @@
     "social_link": "https://github.com/Dayanshifu",
     "category": "entertainment",
     "stars": 4,
-    "version": "1.0.4",
-    "updated_at": "2026-07-04T11:16:59Z",
+    "version": "1.0.5",
+    "updated_at": "2026-07-26T01:17:49Z",
     "logo": "https://raw.githubusercontent.com/Dayanshifu/astrbot_plugin_music_pro/main/logo.png"
   },
   "astrbot_plugin_online_status": {
@@ -9577,13 +9577,13 @@
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
     "stars": 78,
-    "version": "v4.3.7",
+    "version": "v4.3.8",
     "astrbot_version": ">=4.16.0,<5",
     "support_platforms": [
       "aiocqhttp",
       "weixin_oc"
     ],
-    "updated_at": "2026-07-19T05:03:56Z",
+    "updated_at": "2026-07-26T03:18:54Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -15963,13 +15963,13 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 92,
+    "stars": 93,
     "version": "v2.1.1",
     "astrbot_version": ">=4.13.0",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-15T05:10:25Z",
+    "updated_at": "2026-07-26T04:08:31Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_pokepro/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
@@ -16341,8 +16341,8 @@
     ],
     "category": "integrations",
     "stars": 12,
-    "version": "v1.8.7",
-    "updated_at": "2026-06-22T09:10:01Z",
+    "version": "v1.9.0",
+    "updated_at": "2026-07-26T02:30:29Z",
     "logo": "https://raw.githubusercontent.com/kterna/astrbot_plugin_mcqq/main/logo.png"
   },
   "astrbot_plugin_Group-Verification": {
