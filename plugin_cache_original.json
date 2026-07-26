@@ -681,7 +681,7 @@
     "social_link": "https://github.com/NightVoyager14",
     "stars": 1,
     "version": "v1.1.0",
-    "updated_at": "2026-07-26T14:02:48Z",
+    "updated_at": "2026-07-26T15:12:47Z",
     "logo": "https://raw.githubusercontent.com/NightVoyager14/astrbot_plugin_just_enough_mcserver_status/main/logo.png"
   },
   "astrbot-plugin-tattle": {
@@ -5233,7 +5233,7 @@
     "category": "utilities",
     "stars": 24,
     "version": "1.0.0",
-    "updated_at": "2026-07-02T04:45:34Z",
+    "updated_at": "2026-07-26T15:20:05Z",
     "logo": "https://raw.githubusercontent.com/LinJohn8/astrbot_plugin_custome_segment_reply/main/logo.png"
   },
   "astrbot-plugin-alteration-notifier": {
@@ -7229,8 +7229,8 @@
     "social_link": "https://github.com/Zhalslar",
     "category": "ai_tools",
     "stars": 47,
-    "version": "v2.2.6",
-    "updated_at": "2026-07-10T14:07:38Z",
+    "version": "v2.2.7",
+    "updated_at": "2026-07-26T15:37:28Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_worldbook/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -7317,12 +7317,12 @@
       "数据搜刮"
     ],
     "category": "entertainment",
-    "stars": 17,
+    "stars": 18,
     "version": "v1.6.1",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-01T09:20:52Z",
+    "updated_at": "2026-07-26T15:02:21Z",
     "logo": "https://raw.githubusercontent.com/zhoufan47/astrbot_plugin_bbt_daily_news/master/logo.png"
   },
   "astrbot_plugin_fflogs": {
@@ -7774,7 +7774,7 @@
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
     "stars": 21,
-    "version": "3.1.6",
+    "version": "3.2.0",
     "astrbot_version": ">=4.24.0",
     "support_platforms": [
       "aiocqhttp",
@@ -7788,7 +7788,7 @@
       "misskey",
       "line"
     ],
-    "updated_at": "2026-07-23T09:05:24Z",
+    "updated_at": "2026-07-26T15:42:27Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_context_aware/main/logo.png"
   },
   "astrbot_plugin_STEmbedding": {
@@ -9583,13 +9583,13 @@
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
     "stars": 78,
-    "version": "v4.3.11",
+    "version": "v4.3.12",
     "astrbot_version": ">=4.16.0,<5",
     "support_platforms": [
       "aiocqhttp",
       "weixin_oc"
     ],
-    "updated_at": "2026-07-26T12:36:12Z",
+    "updated_at": "2026-07-26T15:10:10Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -17673,11 +17673,11 @@
     ],
     "category": "utilities",
     "stars": 55,
-    "version": "v3.0.4",
+    "version": "v3.0.5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-26T04:39:54Z",
+    "updated_at": "2026-07-26T14:58:16Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
