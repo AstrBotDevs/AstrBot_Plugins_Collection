@@ -1399,14 +1399,14 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 156,
+    "stars": 157,
     "version": "5.10.6",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-26T10:28:44Z",
+    "updated_at": "2026-07-26T21:17:12Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -1996,12 +1996,12 @@
     ],
     "social_link": "https://github.com/casama233",
     "stars": 2,
-    "version": "0.2.21",
+    "version": "0.2.22",
     "astrbot_version": ">=4.13.0",
     "support_platforms": [
       "whatsapp"
     ],
-    "updated_at": "2026-07-26T13:14:59Z",
+    "updated_at": "2026-07-26T21:46:56Z",
     "logo": "https://raw.githubusercontent.com/casama233/astrbot_plugin_whatsapp_adapter/main/logo.png"
   },
   "astrbot-plugin-qzone-ultra": {
