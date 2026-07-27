@@ -11,13 +11,13 @@
       "休闲"
     ],
     "social_link": "https://github.com/shitianyaa",
-    "stars": 11,
+    "stars": 12,
     "version": "v3.4.1",
     "astrbot_version": ">=4.16",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-27T06:18:36Z",
+    "updated_at": "2026-07-27T11:52:57Z",
     "logo": "https://raw.githubusercontent.com/shitianyaa/astrbot_plugin_get_px/master/logo.png"
   },
   "astrbot-plugin-codeforces-helper": {
@@ -90,7 +90,7 @@
       "discord",
       "kook"
     ],
-    "updated_at": "2026-07-27T07:37:13Z",
+    "updated_at": "2026-07-27T13:46:19Z",
     "logo": "https://raw.githubusercontent.com/SolitudeRA/astrbot_plugin_palworld/main/logo.png"
   },
   "astrbot-plugin-palserverManager": {
@@ -589,7 +589,7 @@
     ],
     "social_link": "https://Florance.top",
     "stars": 2,
-    "version": "1.2.0",
+    "version": "1.3.0",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp",
@@ -603,7 +603,7 @@
       "kook",
       "satori"
     ],
-    "updated_at": "2026-07-15T13:37:55Z"
+    "updated_at": "2026-07-27T12:59:11Z"
   },
   "astrbot-plugin-response2image": {
     "display_name": "Response2Image",
@@ -796,8 +796,8 @@
       "漫画",
       "漫画订阅"
     ],
-    "stars": 10,
-    "version": "0.5.0",
+    "stars": 11,
+    "version": "0.5.1",
     "support_platforms": [
       "aiocqhttp",
       "telegram",
@@ -809,7 +809,7 @@
       "slack",
       "kook"
     ],
-    "updated_at": "2026-07-15T18:21:51Z",
+    "updated_at": "2026-07-27T14:10:46Z",
     "logo": "https://raw.githubusercontent.com/FFFold/astrbot_plugin_suwayomi_server/main/logo.png"
   },
   "astrbot-plugin-AstrNa": {
@@ -961,7 +961,7 @@
     "stars": 1,
     "version": "v1.0.0",
     "astrbot_version": ">=4.16,<5",
-    "updated_at": "2026-07-19T03:50:18Z"
+    "updated_at": "2026-07-27T12:02:24Z"
   },
   "astrbot-plugin-songloft": {
     "display_name": "Songloft 音乐控制 Miot",
@@ -1118,12 +1118,12 @@
     ],
     "social_link": "https://github.com/Justice-ocr",
     "stars": 9,
-    "version": "v0.4.0",
+    "version": "v0.6.0",
     "astrbot_version": ">=4.16.0,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-08T11:59:33Z",
+    "updated_at": "2026-07-27T12:02:08Z",
     "logo": "https://raw.githubusercontent.com/Justice-ocr/astrbot_plugin_mimo_tts_clone/main/logo.png"
   },
   "astrbot-plugin-cloudflare-browser-run": {
@@ -1406,7 +1406,7 @@
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-27T10:27:52Z",
+    "updated_at": "2026-07-27T13:42:49Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -4155,7 +4155,7 @@
     "stars": 39,
     "version": "1.4.1",
     "astrbot_version": ">=4.20.0",
-    "updated_at": "2026-07-22T16:07:30Z",
+    "updated_at": "2026-07-27T14:27:55Z",
     "logo": "https://raw.githubusercontent.com/Kalospacer/astrbot_plugin_maid_agent/master/logo.png"
   },
   "astrbot-plugin-stoprushingiamtyping": {
@@ -10544,9 +10544,9 @@
       "推特"
     ],
     "category": "utilities",
-    "stars": 56,
+    "stars": 57,
     "version": "v6.3.2",
-    "updated_at": "2026-07-19T06:26:11Z",
+    "updated_at": "2026-07-27T13:19:51Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -11858,12 +11858,12 @@
     ],
     "category": "utilities",
     "stars": 1,
-    "version": "v2.2.1",
+    "version": "v2.2.2",
     "astrbot_version": ">=4.10.4",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-25T09:39:58Z",
+    "updated_at": "2026-07-27T11:42:34Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_file_checker/master/logo.png"
   },
   "astrbot_plugin_tg_button": {
@@ -16349,8 +16349,8 @@
     ],
     "category": "integrations",
     "stars": 12,
-    "version": "v1.9.0",
-    "updated_at": "2026-07-26T02:30:29Z",
+    "version": "v1.9.1",
+    "updated_at": "2026-07-27T13:52:55Z",
     "logo": "https://raw.githubusercontent.com/kterna/astrbot_plugin_mcqq/main/logo.png"
   },
   "astrbot_plugin_Group-Verification": {
@@ -18201,9 +18201,9 @@
       "图床"
     ],
     "category": "entertainment",
-    "stars": 363,
+    "stars": 364,
     "version": "v4.11",
-    "updated_at": "2026-07-26T14:03:40Z",
+    "updated_at": "2026-07-27T11:42:06Z",
     "logo": "https://raw.githubusercontent.com/anka-afk/astrbot_plugin_meme_manager/main/logo.png"
   },
   "mccloud_command": {
