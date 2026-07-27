@@ -6154,8 +6154,8 @@
     ],
     "category": "integrations",
     "stars": 188,
-    "version": "v3.2.1",
-    "updated_at": "2026-07-27T16:50:09Z",
+    "version": "v3.2.2",
+    "updated_at": "2026-07-27T17:41:06Z",
     "logo": "https://raw.githubusercontent.com/LiJinHao999/astrbot_plugin_hapi_connector/master/logo.png"
   },
   "astrbot_plugin_mc_duration": {
@@ -7449,9 +7449,9 @@
       "抖音"
     ],
     "category": "utilities",
-    "stars": 29,
+    "stars": 30,
     "version": "v1.0.10",
-    "updated_at": "2026-07-25T19:13:30Z"
+    "updated_at": "2026-07-27T17:29:40Z"
   },
   "astrbot_plugin_love_formula": {
     "display_name": "赛博恋爱演化诊断",
@@ -8541,8 +8541,8 @@
     "category": "utilities",
     "tags": [],
     "stars": 10,
-    "version": "4.1.0",
-    "updated_at": "2026-07-26T08:28:21Z",
+    "version": "4.2.1",
+    "updated_at": "2026-07-27T18:08:48Z",
     "logo": "https://raw.githubusercontent.com/204343414/astrbot_plugin_yt-dlp/master/logo.png"
   },
   "astrbot_plugin_yotts": {
@@ -12656,7 +12656,7 @@
     "tags": [],
     "stars": 72,
     "version": "v2.9.2",
-    "updated_at": "2026-07-27T02:13:31Z"
+    "updated_at": "2026-07-27T17:31:19Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -12979,9 +12979,9 @@
     ],
     "social_link": "blog.isla.ltd",
     "category": "integrations",
-    "stars": 27,
+    "stars": 28,
     "version": "1.2.0",
-    "updated_at": "2026-07-08T09:04:02Z"
+    "updated_at": "2026-07-27T17:06:27Z"
   },
   "astrbot_plugin_AnimeMagnet": {
     "desc": "这是一个动漫磁链查询插件，可以获取动漫磁链",
