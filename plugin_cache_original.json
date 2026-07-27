@@ -90,7 +90,7 @@
       "discord",
       "kook"
     ],
-    "updated_at": "2026-07-26T03:33:40Z",
+    "updated_at": "2026-07-27T07:37:13Z",
     "logo": "https://raw.githubusercontent.com/SolitudeRA/astrbot_plugin_palworld/main/logo.png"
   },
   "astrbot-plugin-palserverManager": {
@@ -1304,13 +1304,13 @@
       "互动"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 42,
+    "stars": 43,
     "version": "1.8.0",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-26T18:06:57Z",
+    "updated_at": "2026-07-27T08:55:19Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_live_stream_companion/main/logo.png"
   },
   "astrbot-plugin-open-notebook": {
@@ -1399,14 +1399,14 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 159,
+    "stars": 161,
     "version": "5.10.6",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-27T06:46:37Z",
+    "updated_at": "2026-07-27T10:27:52Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -2302,12 +2302,12 @@
       "opencode"
     ],
     "stars": 3,
-    "version": "v1.3.8",
+    "version": "v1.3.12",
     "astrbot_version": ">=3.4.0",
     "support_platforms": [
       "discord"
     ],
-    "updated_at": "2026-07-01T14:04:12Z",
+    "updated_at": "2026-07-27T09:24:04Z",
     "logo": "https://raw.githubusercontent.com/SGSxingchen/astrbot_plugin_hapi_discord_connector/main/logo.png"
   },
   "astrbot_plugin_simple_long_memory": {
@@ -3322,9 +3322,9 @@
     "repo": "https://github.com/Wan-LaiQiu/astrbot_plugin_content_info",
     "social_link": "https://github.com/Wan-LaiQiu/astrbot_plugin_content_info",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "1.0.0",
-    "updated_at": "2026-05-24T07:14:53Z"
+    "updated_at": "2026-07-27T09:32:21Z"
   },
   "astrbot-plugin-Network-Connectivity-Check": {
     "display_name": "网络连接监测",
@@ -3458,10 +3458,10 @@
       "面板"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 26,
+    "stars": 27,
     "version": "v1.0.0",
     "astrbot_version": ">=4.11.2",
-    "updated_at": "2026-07-24T02:21:24Z",
+    "updated_at": "2026-07-27T10:04:31Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_live_dashboard/main/logo.png"
   },
   "astrbot-plugin-wol-miko": {
@@ -4250,7 +4250,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 426,
+    "stars": 427,
     "version": "v4.11.4",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -4260,7 +4260,7 @@
       "qq_official",
       "qq_official_webhook"
     ],
-    "updated_at": "2026-07-25T13:17:43Z",
+    "updated_at": "2026-07-27T11:22:55Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -4289,9 +4289,9 @@
     "social_link": "www.alienstar.icu",
     "category": "utilities",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "v1.1.0",
-    "updated_at": "2026-05-26T08:52:39Z"
+    "updated_at": "2026-07-27T09:36:01Z"
   },
   "astrbot-plugin-Lumi-Hub-plugin": {
     "display_name": "Lumi-Hub-plugin",
@@ -4435,9 +4435,9 @@
     ],
     "social_link": "https://github.com/jiantoucn",
     "category": "integrations",
-    "stars": 12,
+    "stars": 13,
     "version": "v1.18.4",
-    "updated_at": "2026-07-04T09:08:09Z",
+    "updated_at": "2026-07-27T09:35:55Z",
     "logo": "https://raw.githubusercontent.com/jiantoucn/astrbot_plugin_weibo_monitor/main/logo.png"
   },
   "astrbot-plugin-content-safety-guard": {
@@ -5166,9 +5166,9 @@
     ],
     "social_link": "https://github.com/menglimi",
     "category": "ai_tools",
-    "stars": 65,
+    "stars": 67,
     "version": "3.2.2",
-    "updated_at": "2026-07-25T14:38:01Z",
+    "updated_at": "2026-07-27T09:37:18Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_screen_companion/main/logo.png"
   },
   "astrbot-plugin-fishing-again": {
@@ -5571,9 +5571,9 @@
     "tags": [],
     "social_link": "",
     "category": "ai_tools",
-    "stars": 16,
+    "stars": 17,
     "version": "v1.1.1",
-    "updated_at": "2026-06-18T08:50:01Z",
+    "updated_at": "2026-07-27T09:38:22Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_soulmap/main/logo.png"
   },
   "astrbot-plugin-warframe-helper": {
@@ -9517,9 +9517,9 @@
     "social_link": "https://github.com/GEMILUXVII",
     "category": "integrations",
     "stars": 3,
-    "version": "2.2.5",
+    "version": "2.2.9",
     "astrbot_version": ">=4.25,<5",
-    "updated_at": "2026-07-27T04:08:38Z",
+    "updated_at": "2026-07-27T08:07:32Z",
     "logo": "https://raw.githubusercontent.com/GEMILUXVII/astrbot_plugin_douyu_live/master/logo.png"
   },
   "astrbot_plugin_qinglong": {
@@ -10088,9 +10088,9 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "category": "utilities",
-    "stars": 147,
+    "stars": 148,
     "version": "v2.4.9",
-    "updated_at": "2026-07-20T08:49:15Z",
+    "updated_at": "2026-07-27T09:50:51Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -10480,10 +10480,10 @@
       "私聊"
     ],
     "category": "ai_tools",
-    "stars": 37,
+    "stars": 38,
     "version": "2.7.0",
     "astrbot_version": ">=4.26.0",
-    "updated_at": "2026-07-25T11:33:36Z",
+    "updated_at": "2026-07-27T09:43:12Z",
     "logo": "https://raw.githubusercontent.com/aliveriver/astrbot_plugin_continuous_message/master/logo.png"
   },
   "astrbot_plugin_llm_amnesia": {
@@ -13396,9 +13396,9 @@
     ],
     "social_link": "https://github.com/Futureppo",
     "category": "integrations",
-    "stars": 16,
+    "stars": 17,
     "version": "v1.0.3",
-    "updated_at": "2026-06-17T15:51:35Z",
+    "updated_at": "2026-07-27T08:48:07Z",
     "logo": "https://raw.githubusercontent.com/Futureppo/astrbot_plugin_Xiaomi_BandProMax/main/logo.png"
   },
   "astrbot_plugin_immersive_control": {
@@ -15304,9 +15304,9 @@
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
     "stars": 174,
-    "version": "3.2.7",
+    "version": "3.2.8",
     "astrbot_version": ">=4.24.2",
-    "updated_at": "2026-07-27T05:38:00Z",
+    "updated_at": "2026-07-27T10:00:26Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -15402,9 +15402,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "entertainment",
-    "stars": 192,
+    "stars": 193,
     "version": "v2.1.3",
-    "updated_at": "2026-07-27T03:22:32Z",
+    "updated_at": "2026-07-27T10:15:45Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -16943,9 +16943,9 @@
     "social_link": "https://github.com/Futureppo",
     "repo": "https://github.com/Futureppo/astrbot_plugin_zanwo",
     "category": "utilities",
-    "stars": 29,
+    "stars": 30,
     "version": "v1.0.9",
-    "updated_at": "2026-07-27T03:43:20Z",
+    "updated_at": "2026-07-27T08:47:48Z",
     "logo": "https://raw.githubusercontent.com/Futureppo/astrbot_plugin_zanwo/master/logo.png"
   },
   "astrbot_plugin_ehentai_bot": {
@@ -17351,9 +17351,9 @@
     ],
     "social_link": "https://github.com/Futureppo",
     "category": "entertainment",
-    "stars": 20,
+    "stars": 21,
     "version": "v1.0.13",
-    "updated_at": "2026-05-24T15:13:10Z",
+    "updated_at": "2026-07-27T08:48:08Z",
     "logo": "https://raw.githubusercontent.com/Futureppo/astrbot_plugin_doro_today/master/logo.png"
   },
   "astrbot_plugin_litematic": {
