@@ -1400,13 +1400,13 @@
     ],
     "social_link": "https://github.com/menglimi",
     "stars": 162,
-    "version": "5.10.6",
+    "version": "5.10.7",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-27T15:32:27Z",
+    "updated_at": "2026-07-27T19:50:31Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -8541,8 +8541,8 @@
     "category": "utilities",
     "tags": [],
     "stars": 10,
-    "version": "4.2.1",
-    "updated_at": "2026-07-27T18:08:48Z",
+    "version": "4.3.1",
+    "updated_at": "2026-07-27T19:22:10Z",
     "logo": "https://raw.githubusercontent.com/204343414/astrbot_plugin_yt-dlp/master/logo.png"
   },
   "astrbot_plugin_yotts": {
