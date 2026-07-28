@@ -90,7 +90,7 @@
       "discord",
       "kook"
     ],
-    "updated_at": "2026-07-28T12:16:36Z",
+    "updated_at": "2026-07-28T13:15:37Z",
     "logo": "https://raw.githubusercontent.com/SolitudeRA/astrbot_plugin_palworld/main/logo.png"
   },
   "astrbot-plugin-palserverManager": {
@@ -285,8 +285,8 @@
     ],
     "social_link": "https://github.com/YayiMiko/anima-master",
     "stars": 5,
-    "version": "0.4.1",
-    "updated_at": "2026-07-28T09:31:58Z"
+    "version": "0.5.0",
+    "updated_at": "2026-07-28T12:58:58Z"
   },
   "astrbot-plugin-fund": {
     "display_name": "基金小助手",
@@ -681,7 +681,7 @@
     "social_link": "https://github.com/NightVoyager14",
     "stars": 1,
     "version": "v1.1.0",
-    "updated_at": "2026-07-26T15:12:47Z",
+    "updated_at": "2026-07-28T13:12:50Z",
     "logo": "https://raw.githubusercontent.com/NightVoyager14/astrbot_plugin_just_enough_mcserver_status/main/logo.png"
   },
   "astrbot-plugin-tattle": {
@@ -931,7 +931,7 @@
     "social_link": "https://github.com/Leafliber",
     "stars": 13,
     "version": "0.2.0",
-    "updated_at": "2026-07-28T09:26:48Z",
+    "updated_at": "2026-07-28T13:49:05Z",
     "logo": "https://raw.githubusercontent.com/Leafliber/astrbot_plugin_iris_chat_memory/main/logo.png"
   },
   "astrbot-plugin-minecraft-multi-monitor": {
@@ -1399,14 +1399,14 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 166,
+    "stars": 167,
     "version": "5.10.7",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-28T08:11:17Z",
+    "updated_at": "2026-07-28T14:43:01Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -2012,13 +2012,13 @@
     "tags": [
       "QQ空间"
     ],
-    "stars": 34,
+    "stars": 35,
     "version": "0.9.0",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-23T14:17:50Z",
+    "updated_at": "2026-07-28T13:03:22Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_qzone_ultra/main/logo.png"
   },
   "telethon-bot-adapter": {
@@ -2080,10 +2080,10 @@
       "安全"
     ],
     "social_link": "https://space.bilibili.com/702922307",
-    "stars": 3,
+    "stars": 4,
     "version": "1.0.0",
     "astrbot_version": ">=4.9.2",
-    "updated_at": "2026-06-15T11:36:42Z"
+    "updated_at": "2026-07-28T14:19:26Z"
   },
   "astrbot-plugin-chat-archive": {
     "display_name": "Chat Archive",
@@ -3781,9 +3781,9 @@
     ],
     "social_link": "https://github.com/Heximiao",
     "category": "entertainment",
-    "stars": 37,
+    "stars": 38,
     "version": "v2.6.5",
-    "updated_at": "2026-07-07T03:49:08Z",
+    "updated_at": "2026-07-28T14:37:25Z",
     "logo": "https://raw.githubusercontent.com/Heximiao/astrbot_plugin_atrifeed/main/logo.png"
   },
   "astrbot-plugin-self-open-llm-vtuber": {
@@ -5770,9 +5770,9 @@
     ],
     "social_link": "https://github.com/Radiant303",
     "category": "ai_tools",
-    "stars": 45,
+    "stars": 46,
     "version": "v2.3.2",
-    "updated_at": "2026-07-27T03:21:59Z",
+    "updated_at": "2026-07-28T13:59:30Z",
     "logo": "https://raw.githubusercontent.com/Radiant303/astrbot_plugin_clonetts/master/logo.png"
   },
   "astrbot-plugin-ssh": {
@@ -5890,7 +5890,10 @@
     "category": "utilities",
     "stars": 1,
     "version": "1.0.2",
-    "updated_at": "2026-06-23T12:29:15Z"
+    "support_platforms": [
+      "matrix"
+    ],
+    "updated_at": "2026-07-28T14:27:43Z"
   },
   "astrbot-plugin-astrbook": {
     "display_name": "Astrbook适配器",
@@ -6994,7 +6997,7 @@
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-28T12:52:33Z",
+    "updated_at": "2026-07-28T12:55:53Z",
     "logo": "https://raw.githubusercontent.com/zcj-ui/astrbot_plugin_group_guardian/main/logo.png"
   },
   "astrbot_plugin_qq_tools": {
@@ -7774,7 +7777,7 @@
     "social_link": "https://github.com/muyouzhi6",
     "category": "ai_tools",
     "stars": 21,
-    "version": "3.3.1",
+    "version": "3.3.3",
     "astrbot_version": ">=4.24.0",
     "support_platforms": [
       "aiocqhttp",
@@ -7788,7 +7791,7 @@
       "misskey",
       "line"
     ],
-    "updated_at": "2026-07-26T16:18:43Z",
+    "updated_at": "2026-07-28T13:48:57Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_context_aware/main/logo.png"
   },
   "astrbot_plugin_STEmbedding": {
@@ -11296,7 +11299,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "category": "ai_tools",
-    "stars": 350,
+    "stars": 351,
     "version": "v1.2.4",
     "astrbot_version": ">=4.8.0",
     "support_platforms": [
@@ -11308,7 +11311,7 @@
       "dingtalk",
       "kook"
     ],
-    "updated_at": "2026-07-27T05:18:00Z",
+    "updated_at": "2026-07-28T14:26:57Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -12829,7 +12832,7 @@
     "category": "ai_tools",
     "stars": 290,
     "version": "2.3.6",
-    "updated_at": "2026-07-28T12:19:32Z",
+    "updated_at": "2026-07-28T14:33:04Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -14015,8 +14018,8 @@
     "social_link": "https://github.com/zhewang448",
     "category": "utilities",
     "stars": 6,
-    "version": "v2.4.0",
-    "updated_at": "2026-07-28T08:55:05Z",
+    "version": "v2.4.1",
+    "updated_at": "2026-07-28T13:11:06Z",
     "logo": "https://raw.githubusercontent.com/zhewang448/astrbot_plugin_update_manager/main/logo.png"
   },
   "astrbot_plugins_canvas": {
@@ -15304,10 +15307,10 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 179,
+    "stars": 181,
     "version": "3.3.1",
     "astrbot_version": ">=4.24.2",
-    "updated_at": "2026-07-28T09:06:01Z",
+    "updated_at": "2026-07-28T13:23:05Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
