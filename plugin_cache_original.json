@@ -2790,10 +2790,10 @@
       "推送"
     ],
     "social_link": "https://github.com/FlanChanXwO",
-    "stars": 31,
+    "stars": 30,
     "version": "v2.1.4",
     "astrbot_version": ">=4.24.0",
-    "updated_at": "2026-07-28T18:11:55Z",
+    "updated_at": "2026-07-28T19:44:04Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_rsshub/master/logo.png"
   },
   "astrbot_plugin_scriptor": {
@@ -5279,14 +5279,14 @@
       "sky"
     ],
     "category": "entertainment",
-    "stars": 13,
+    "stars": 14,
     "version": "2.5.3",
     "support_platforms": [
       "aiocqhttp",
       "wecom",
       "telegram"
     ],
-    "updated_at": "2026-07-08T05:22:09Z",
+    "updated_at": "2026-07-28T20:18:01Z",
     "logo": "https://raw.githubusercontent.com/wzq10314/astrbot_plugin_sky/main/logo.png"
   },
   "astrbot-plugin-animatedemoji": {
