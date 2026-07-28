@@ -8544,8 +8544,8 @@
     "category": "utilities",
     "tags": [],
     "stars": 10,
-    "version": "4.3.1",
-    "updated_at": "2026-07-27T19:22:10Z",
+    "version": "4.3.2",
+    "updated_at": "2026-07-28T22:32:19Z",
     "logo": "https://raw.githubusercontent.com/204343414/astrbot_plugin_yt-dlp/master/logo.png"
   },
   "astrbot_plugin_yotts": {
@@ -9632,9 +9632,9 @@
     "repo": "https://github.com/bylkuse/astrbot_plugin_bananic_ninjutsu",
     "category": "entertainment",
     "tags": [],
-    "stars": 9,
+    "stars": 10,
     "version": "v0.4.6",
-    "updated_at": "2026-02-27T07:52:10Z",
+    "updated_at": "2026-07-28T22:37:39Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_bananic_ninjutsu/master/logo.png"
   },
   "astrbot_plugin_ASCII": {
