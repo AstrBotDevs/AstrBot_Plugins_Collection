@@ -1406,7 +1406,7 @@
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-28T14:43:01Z",
+    "updated_at": "2026-07-28T18:22:22Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -2790,10 +2790,10 @@
       "推送"
     ],
     "social_link": "https://github.com/FlanChanXwO",
-    "stars": 28,
+    "stars": 31,
     "version": "v2.1.4",
     "astrbot_version": ">=4.24.0",
-    "updated_at": "2026-07-28T05:32:55Z",
+    "updated_at": "2026-07-28T18:11:55Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_rsshub/master/logo.png"
   },
   "astrbot_plugin_scriptor": {
@@ -11325,9 +11325,9 @@
     ],
     "social_link": "https://github.com/oyxning",
     "category": "entertainment",
-    "stars": 11,
+    "stars": 10,
     "version": "0.3.0",
-    "updated_at": "2026-05-19T16:33:16Z",
+    "updated_at": "2026-07-28T18:28:34Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot-plugin-moremorelove/main/logo.png"
   },
   "astrbot_plugin_genie-tts": {
@@ -13672,7 +13672,7 @@
     "category": "integrations",
     "stars": 156,
     "version": "v3.1.0",
-    "updated_at": "2026-07-28T09:23:53Z",
+    "updated_at": "2026-07-28T18:48:23Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
