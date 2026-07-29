@@ -1399,14 +1399,14 @@
       "插件整合"
     ],
     "social_link": "https://github.com/menglimi",
-    "stars": 167,
+    "stars": 168,
     "version": "5.10.7",
     "astrbot_version": ">=4.22.0",
     "support_platforms": [
       "aiocqhttp",
       "qq_official"
     ],
-    "updated_at": "2026-07-28T18:22:22Z",
+    "updated_at": "2026-07-28T23:22:45Z",
     "logo": "https://raw.githubusercontent.com/menglimi/astrbot_plugin_private_companion/main/logo.png"
   },
   "astrbot-plugin-multimodal-router": {
@@ -3213,7 +3213,7 @@
       "股票"
     ],
     "social_link": "https://github.com/YYY7C",
-    "stars": 23,
+    "stars": 24,
     "version": "1.2.0",
     "astrbot_version": ">=4.16,<5",
     "support_platforms": [
@@ -3221,7 +3221,7 @@
       "telegram",
       "discord"
     ],
-    "updated_at": "2026-07-08T06:00:57Z",
+    "updated_at": "2026-07-28T23:43:57Z",
     "logo": "https://raw.githubusercontent.com/YYY7C/TradingAgents-AstrBot/main/logo.png"
   },
   "astrbot-plugin-sts2-data": {
@@ -5486,10 +5486,10 @@
     ],
     "social_link": "https://github.com/tniany",
     "category": "utilities",
-    "stars": 15,
+    "stars": 14,
     "version": "v1.3.3",
     "support_platforms": "OneBot",
-    "updated_at": "2026-07-03T19:46:53Z",
+    "updated_at": "2026-07-28T23:46:08Z",
     "logo": "https://raw.githubusercontent.com/tniany/astrbot_plugin_web-screenshot/main/logo.png"
   },
   "astrbot-plugin-astrbot-enhance-mode": {
@@ -5906,9 +5906,9 @@
     ],
     "social_link": "https://github.com/advent259141",
     "category": "integrations",
-    "stars": 39,
+    "stars": 40,
     "version": "2.7.2",
-    "updated_at": "2026-05-11T16:41:58Z"
+    "updated_at": "2026-07-28T23:29:24Z"
   },
   "astrbot-plugin-meting": {
     "display_name": "初叶🍂MetingAPI 点歌",
@@ -8202,8 +8202,8 @@
     "category": "ai_tools",
     "tags": [],
     "stars": 15,
-    "version": "2.1.0",
-    "updated_at": "2026-06-17T15:36:04Z"
+    "version": "2.1.1",
+    "updated_at": "2026-07-29T00:00:40Z"
   },
   "astrbot_plugin_maa": {
     "display_name": "MAA 远程控制",
@@ -10016,12 +10016,12 @@
     "social_link": "https://github.com/piexian",
     "category": "ai_tools",
     "stars": 50,
-    "version": "v2.3.0",
+    "version": "v2.4.0",
     "astrbot_version": ">=4.10.4",
     "support_platforms": [
       "aiocqhttp"
     ],
-    "updated_at": "2026-07-21T09:00:10Z",
+    "updated_at": "2026-07-28T23:33:39Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
