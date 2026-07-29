@@ -285,8 +285,8 @@
     ],
     "social_link": "https://github.com/YayiMiko/anima-master",
     "stars": 5,
-    "version": "0.5.0",
-    "updated_at": "2026-07-28T12:58:58Z"
+    "version": "0.6.0",
+    "updated_at": "2026-07-29T05:18:02Z"
   },
   "astrbot-plugin-fund": {
     "display_name": "基金小助手",
@@ -318,7 +318,7 @@
     "social_link": "https://github.com/dragonuniverse8248",
     "stars": 7,
     "version": "v1.0.3",
-    "updated_at": "2026-07-22T11:12:07Z",
+    "updated_at": "2026-07-29T05:29:17Z",
     "logo": "https://raw.githubusercontent.com/dragonuniverse8248/astrbot_plugin_bartender/main/logo.png"
   },
   "astrbot-plugin-halo-whisper": {
@@ -1219,7 +1219,7 @@
     "social_link": "https://github.com/Jonathan-614",
     "stars": 4,
     "version": "1.0.2",
-    "updated_at": "2026-07-28T01:32:25Z",
+    "updated_at": "2026-07-29T06:03:40Z",
     "logo": "https://raw.githubusercontent.com/Jonathan-614/astrbot_plugin_garmin_health/master/logo.png"
   },
   "astrbot-plugin-group-llm-guard": {
@@ -2284,7 +2284,7 @@
     "stars": 55,
     "version": "2.5.0",
     "astrbot_version": ">=4.26,<5.0.0",
-    "updated_at": "2026-07-27T00:16:53Z",
+    "updated_at": "2026-07-29T05:24:17Z",
     "logo": "https://raw.githubusercontent.com/Ayleovelle/astrbot_plugin_sylanne/main/logo.png"
   },
   "astrbot_plugin_hapi_discord_connector": {
@@ -2842,8 +2842,8 @@
     ],
     "social_link": "https://github.com/FlanChanXwO",
     "stars": 9,
-    "version": "v1.0.3",
-    "updated_at": "2026-07-29T03:58:28Z",
+    "version": "v1.1.0",
+    "updated_at": "2026-07-29T07:07:41Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_imgexploration/master/logo.png"
   },
   "astrbot_plugin_eggSearch": {
@@ -4250,7 +4250,7 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "category": "productivity",
-    "stars": 431,
+    "stars": 432,
     "version": "v4.11.4",
     "astrbot_version": ">=4.16.0",
     "support_platforms": [
@@ -4260,7 +4260,7 @@
       "qq_official",
       "qq_official_webhook"
     ],
-    "updated_at": "2026-07-28T10:02:31Z",
+    "updated_at": "2026-07-29T06:27:51Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot-plugin-group-welcome": {
@@ -4435,9 +4435,9 @@
     ],
     "social_link": "https://github.com/jiantoucn",
     "category": "integrations",
-    "stars": 14,
+    "stars": 15,
     "version": "v1.18.4",
-    "updated_at": "2026-07-29T02:34:31Z",
+    "updated_at": "2026-07-29T04:24:40Z",
     "logo": "https://raw.githubusercontent.com/jiantoucn/astrbot_plugin_weibo_monitor/main/logo.png"
   },
   "astrbot-plugin-content-safety-guard": {
@@ -9525,9 +9525,9 @@
     "social_link": "https://github.com/GEMILUXVII",
     "category": "integrations",
     "stars": 3,
-    "version": "2.2.13",
+    "version": "2.2.14",
     "astrbot_version": ">=4.25,<5",
-    "updated_at": "2026-07-28T09:54:03Z",
+    "updated_at": "2026-07-29T04:35:02Z",
     "logo": "https://raw.githubusercontent.com/GEMILUXVII/astrbot_plugin_douyu_live/master/logo.png"
   },
   "astrbot_plugin_qinglong": {
@@ -14024,7 +14024,7 @@
     "category": "utilities",
     "stars": 6,
     "version": "v2.4.1",
-    "updated_at": "2026-07-28T13:11:06Z",
+    "updated_at": "2026-07-29T05:55:51Z",
     "logo": "https://raw.githubusercontent.com/zhewang448/astrbot_plugin_update_manager/main/logo.png"
   },
   "astrbot_plugins_canvas": {
@@ -15312,10 +15312,10 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "category": "integrations",
-    "stars": 181,
-    "version": "3.3.1",
+    "stars": 182,
+    "version": "3.3.2",
     "astrbot_version": ">=4.24.2",
-    "updated_at": "2026-07-28T13:23:05Z",
+    "updated_at": "2026-07-29T06:33:41Z",
     "logo": "https://raw.githubusercontent.com/Maoer233/astrbot_plugin_steam_status_monitor/main/logo.png"
   },
   "astrbot_plugin_xiaoxue": {
@@ -16853,8 +16853,8 @@
     "social_link": "https://docs.sayu-bot.com/",
     "category": "integrations",
     "stars": 50,
-    "version": "v0.5.1",
-    "updated_at": "2026-07-17T10:55:54Z"
+    "version": "v0.5.2",
+    "updated_at": "2026-07-29T07:20:23Z"
   },
   "astrbot_plugin_xyzw": {
     "author": "四郎",
@@ -18210,9 +18210,9 @@
       "图床"
     ],
     "category": "entertainment",
-    "stars": 364,
+    "stars": 365,
     "version": "v4.11",
-    "updated_at": "2026-07-27T11:42:06Z",
+    "updated_at": "2026-07-29T06:19:57Z",
     "logo": "https://raw.githubusercontent.com/anka-afk/astrbot_plugin_meme_manager/main/logo.png"
   },
   "mccloud_command": {
@@ -18861,8 +18861,8 @@
     "category": "ai_tools",
     "tags": [],
     "stars": 251,
-    "version": "v2.1.6",
-    "updated_at": "2026-07-24T14:10:37Z"
+    "version": "v2.1.7",
+    "updated_at": "2026-07-29T07:40:39Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
