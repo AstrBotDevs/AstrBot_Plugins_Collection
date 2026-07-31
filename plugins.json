@@ -1,4 +1,10 @@
 {
+  "astrbot-plugin-meihua": {
+    "display_name": "梅花易数",
+    "desc": "梅花易数起卦断卦工具",
+    "author": "g985892345",
+    "repo": "https://github.com/985892345/astrbot_plugin_meihua"
+  },
   "astrbot-plugin-get-px": {
     "display_name": "画境拾珍",
     "desc": "Pixiv 搜图或者随机图、合并转发、每日签到卡片、签到升级、R18等猎奇标签过滤",
