@@ -13251,5 +13251,15 @@
     "desc": "过滤消息段中的think",
     "repo": "https://github.com/zgojin/astrbot_plugin_thinkTags",
     "category": "utilities"
+  },
+  "astrbot_plugin_news_push": {
+    "display_name": "新闻推送",
+    "author": "coxnchan",
+    "desc": "每天定时向多个群推送新闻。支持 LLM 分点总结、可视化配置：推送群号、时间、关键词、RSS 源、管理员权限等。",
+    "repo": "https://github.com/CoxnChan/astrbot_plugin_news_push",
+    "tags": [
+      "每日新闻"
+    ],
+    "category": "ai_tools"
   }
 }
