@@ -13251,5 +13251,19 @@
     "desc": "过滤消息段中的think",
     "repo": "https://github.com/zgojin/astrbot_plugin_thinkTags",
     "category": "utilities"
+  },
+  "astrbot_plugin_telegraph_longtext": {
+    "display_name": "Telegraph 长文本",
+    "desc": "自动将超过 800 字的 AstrBot 回复发布为 Telegraph 页面并发送链接，支持 WebUI 阈值配置、自动分页、常见 Markdown 块、异步重试与失败保留原文。",
+    "author": "fzf404",
+    "repo": "https://github.com/fzf404/astrbot_plugin_telegraph_longtext",
+    "tags": [
+      "telegram",
+      "telegraph",
+      "长文本",
+      "工具"
+    ],
+    "social_link": "https://github.com/fzf404",
+    "category": "utilities"
   }
 }
