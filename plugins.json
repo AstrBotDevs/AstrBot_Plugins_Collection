@@ -13251,5 +13251,17 @@
     "desc": "过滤消息段中的think",
     "repo": "https://github.com/zgojin/astrbot_plugin_thinkTags",
     "category": "utilities"
+  },
+  "astrbot_plugin_vpn_proxy": {
+    "display_name": "🌐 vpn代理插件",
+    "desc": "VPN节点代理管理插件：支持VLESS/SS/VMess/Trojan/SOCKS5/HTTP/WireGuard节点与订阅管理，节点延迟测试，为AstrBot API请求提供VPN加速。",
+    "author": "铃兰",
+    "repo": "https://github.com/pucha201/astrbot_plugin_vpn_proxy",
+    "tags": [
+      "vpn",
+      "代理"
+    ],
+    "social_link": "https://github.com/pucha201",
+    "category": "utilities"
   }
 }
