@@ -13251,5 +13251,16 @@
     "desc": "过滤消息段中的think",
     "repo": "https://github.com/zgojin/astrbot_plugin_thinkTags",
     "category": "utilities"
+  },
+  "astrbot-plugin-crypto-vault": {
+    "display_name": "Crypto Vault",
+    "desc": "AstrBot QQ 图片可逆混淆、跨群安全图库、私聊解密与贡献排行榜插件。",
+    "author": "MeSun424",
+    "repo": "https://github.com/MeSun424/astrbot_plugin_crypto_vault",
+    "tags": [
+      "图片处理",
+      "QQ",
+      "隐私"
+    ]
   }
 }
