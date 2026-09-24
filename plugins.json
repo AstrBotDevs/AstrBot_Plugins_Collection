@@ -13251,5 +13251,18 @@
     "desc": "过滤消息段中的think",
     "repo": "https://github.com/zgojin/astrbot_plugin_thinkTags",
     "category": "utilities"
+  },
+  "astrbot_plugin_weibo_media_push": {
+    "display_name": "微博媒体推送",
+    "desc": "订阅微博博主，新微博自动推送，仅发送图片和视频（不含任何文字），支持24h追更、去水印、多分辨率、网页管理",
+    "author": "sushiHHH",
+    "repo": "https://github.com/sushiHHH/astrbot_plugin_weibo_media_push",
+    "tags": [
+      "微博",
+      "媒体",
+      "订阅",
+      "推送"
+    ],
+    "social_link": "https://github.com/sushiHHH"
   }
 }
