@@ -19053,5 +19053,19 @@
     "stars": 5,
     "version": "v1.4.2",
     "updated_at": "2026-04-09T04:23:53Z"
+  },
+  "astrbot-plugin-dsh-bridge": {
+    "display_name": "DSH 桥接",
+    "desc": "把 QQ 消息桥接到本机 DeepSeek Harness：手机发任务，电脑执行，简报与产物回传 QQ",
+    "author": "NK666-rocket",
+    "repo": "https://github.com/NK666-rocket/astrbot_plugin_dsh_bridge",
+    "tags": ["QQ", "远程", "自动化", "DeepSeek", "工具"],
+    "social_link": "https://github.com/NK666-rocket",
+    "stars": 0,
+    "version": "v1.0.0",
+    "astrbot_version": ">=4.29",
+    "support_platforms": ["aiocqhttp"],
+    "updated_at": "2026-10-31T14:45:00Z",
+    "logo": "https://raw.githubusercontent.com/NK666-rocket/astrbot_plugin_dsh_bridge/main/logo.png"
   }
 }
