@@ -19062,7 +19062,7 @@
     "tags": ["QQ", "远程", "自动化", "DeepSeek", "工具"],
     "social_link": "https://github.com/NK666-rocket",
     "stars": 0,
-    "version": "v1.0.0",
+    "version": "v1.0.1",
     "astrbot_version": ">=4.29",
     "support_platforms": ["aiocqhttp"],
     "updated_at": "2026-10-31T14:45:00Z",
