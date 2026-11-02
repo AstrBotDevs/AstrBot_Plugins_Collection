@@ -13251,5 +13251,11 @@
     "desc": "过滤消息段中的think",
     "repo": "https://github.com/zgojin/astrbot_plugin_thinkTags",
     "category": "utilities"
+  },
+  "astrbot_plugin_memory_folder": {
+    "display_name": "长期记忆（档案+事件+原话）",
+    "desc": "把聊天记录定期蒸馏成记忆文件：人物档案、带日期的事件线、可直接翻的原话。聊天前用关键词+本地向量+时间三路复式检索，再让模型重排，跨群共享但标注来源。不依赖任何 embedding API。",
+    "author": "Ayuan1019",
+    "repo": "https://github.com/Ayuan1019/astrbot_plugin_memory_folder"
   }
 }
