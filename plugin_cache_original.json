@@ -19053,5 +19053,24 @@
     "stars": 5,
     "version": "v1.4.2",
     "updated_at": "2026-04-09T04:23:53Z"
+  },
+  "astrbot-plugin-heart-abyss": {
+    "display_name": "鱼之窟",
+    "desc": "给 Agent 一副身体坐标与节律，把位置、潮汐周期送进每轮上下文；含沉深、倾入与汐灵培育养成。",
+    "author": "714109108",
+    "repo": "https://github.com/714109108/astrbot_plugin_heart_abyss",
+    "tags": [
+      "养成",
+      "拟人"
+    ],
+    "social_link": "https://github.com/714109108",
+    "stars": 0,
+    "version": "v0.9.0",
+    "astrbot_version": ">=4.29",
+    "support_platforms": [
+      "aiocqhttp"
+    ],
+    "updated_at": "2026-11-27T12:24:00Z",
+    "logo": "https://raw.githubusercontent.com/714109108/astrbot_plugin_heart_abyss/main/logo.png"
   }
 }
